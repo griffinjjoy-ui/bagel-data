@@ -83,6 +83,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-01"
  },
  {
+  "playerId": "cuse-w-h8",
+  "name": "Gabriela Andrea Knutson",
+  "teamId": "cuse-w",
+  "teamName": "Syracuse",
+  "gender": "women",
+  "event": "U.S. Open - New York",
+  "round": "First",
+  "won": false,
+  "opponent": "Eva Lys",
+  "result": "6-3 6-3",
+  "date": "2026-09-01"
+ },
+ {
   "playerId": "tcu-m-h8",
   "name": "Jack Pinnington",
   "teamId": "tcu-m",
@@ -106,6 +119,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Malek El-Qurneh",
   "result": "7-6(2) 5-7 10-8",
+  "date": "2026-09-01"
+ },
+ {
+  "playerId": "pepp-w-h4",
+  "name": "Janice Tjen",
+  "teamId": "pepp-w",
+  "teamName": "Pepperdine",
+  "gender": "women",
+  "event": "U.S. Open - New York",
+  "round": "First",
+  "won": false,
+  "opponent": "Mirra Andreeva",
+  "result": "6-2 6-2",
   "date": "2026-09-01"
  },
  {
@@ -158,6 +184,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Pablo Perez Ramos",
   "result": "6-2 2-6 6-4",
+  "date": "2026-09-01"
+ },
+ {
+  "playerId": "stan-m-h8",
+  "name": "Nishesh Basavareddy",
+  "teamId": "stan-m",
+  "teamName": "Stanford",
+  "gender": "men",
+  "event": "U.S. Open - New York",
+  "round": "First",
+  "won": false,
+  "opponent": "Tristan Schoolkate",
+  "result": "7-6(4) 3-6 6-3 6-4",
   "date": "2026-09-01"
  },
  {
@@ -249,6 +288,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Josh Manuel",
   "result": "4-6 6-0 10-6",
+  "date": "2026-09-01"
+ },
+ {
+  "playerId": "ore-m-p1",
+  "name": "Vlad Breazu",
+  "teamId": "ore-m",
+  "teamName": "Oregon",
+  "gender": "men",
+  "event": "M15 Buzau",
+  "round": "First",
+  "won": false,
+  "opponent": "Sebastian Gima",
+  "result": "7-5 6-0",
   "date": "2026-09-01"
  },
  {
@@ -613,19 +665,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Gabriella Da Silva Fick",
   "result": "6-3 6-4",
-  "date": "2026-08-31"
- },
- {
-  "playerId": "ore-m-p1",
-  "name": "Vlad Breazu",
-  "teamId": "ore-m",
-  "teamName": "Oregon",
-  "gender": "men",
-  "event": "M15 Buzau",
-  "round": "Q3",
-  "won": true,
-  "opponent": "Evan Galea",
-  "result": "6-0 6-2",
   "date": "2026-08-31"
  },
  {
@@ -1240,19 +1279,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-08-28"
  },
  {
-  "playerId": "stan-m-h8",
-  "name": "Nishesh Basavareddy",
-  "teamId": "stan-m",
-  "teamName": "Stanford",
-  "gender": "men",
-  "event": "U.S. Open - New York",
-  "round": "Q3",
-  "won": true,
-  "opponent": "Arthur Gea",
-  "result": "6-3 6-1",
-  "date": "2026-08-28"
- },
- {
   "playerId": "asu-m-p2",
   "name": "Ofek Shimanov",
   "teamId": "asu-m",
@@ -1471,19 +1497,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Julia Grabher",
   "result": "6-4 6-3",
-  "date": "2026-08-27"
- },
- {
-  "playerId": "cuse-w-h8",
-  "name": "Gabriela Andrea Knutson",
-  "teamId": "cuse-w",
-  "teamName": "Syracuse",
-  "gender": "women",
-  "event": "U.S. Open - New York",
-  "round": "Q3",
-  "won": true,
-  "opponent": "Ekaterine Gorgodze",
-  "result": "6-4 6-4",
   "date": "2026-08-27"
  },
  {
@@ -1874,19 +1887,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Eero Vasa",
   "result": "6-2 3-6 7-5",
-  "date": "2026-08-26"
- },
- {
-  "playerId": "pepp-w-h4",
-  "name": "Janice Tjen",
-  "teamId": "pepp-w",
-  "teamName": "Pepperdine",
-  "gender": "women",
-  "event": "Abierto GNP Seguros - Monterrey",
-  "round": "Second",
-  "won": false,
-  "opponent": "Yuliia Starodubtseva",
-  "result": "6-4 6-3",
   "date": "2026-08-26"
  },
  {
@@ -5416,11 +5416,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Syracuse",
   "gender": "women",
   "event": "U.S. Open - New York",
-  "round": "Q3",
-  "won": true,
-  "opponent": "Ekaterine Gorgodze",
-  "result": "6-4 6-4",
-  "date": "2026-08-27"
+  "round": "First",
+  "won": false,
+  "opponent": "Eva Lys",
+  "result": "6-3 6-3",
+  "date": "2026-09-01"
  },
  "cuse-w-n2": {
   "playerId": "cuse-w-n2",
@@ -10798,11 +10798,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Oregon",
   "gender": "men",
   "event": "M15 Buzau",
-  "round": "Q3",
-  "won": true,
-  "opponent": "Evan Galea",
-  "result": "6-0 6-2",
-  "date": "2026-08-31"
+  "round": "First",
+  "won": false,
+  "opponent": "Sebastian Gima",
+  "result": "7-5 6-0",
+  "date": "2026-09-01"
  },
  "ore-m-p6": {
   "playerId": "ore-m-p6",
@@ -11837,12 +11837,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "pepp-w",
   "teamName": "Pepperdine",
   "gender": "women",
-  "event": "Abierto GNP Seguros - Monterrey",
-  "round": "Second",
+  "event": "U.S. Open - New York",
+  "round": "First",
   "won": false,
-  "opponent": "Yuliia Starodubtseva",
-  "result": "6-4 6-3",
-  "date": "2026-08-26"
+  "opponent": "Mirra Andreeva",
+  "result": "6-2 6-2",
+  "date": "2026-09-01"
  },
  "pepp-w-h5": {
   "playerId": "pepp-w-h5",
@@ -13294,11 +13294,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Stanford",
   "gender": "men",
   "event": "U.S. Open - New York",
-  "round": "Q3",
-  "won": true,
-  "opponent": "Arthur Gea",
-  "result": "6-3 6-1",
-  "date": "2026-08-28"
+  "round": "First",
+  "won": false,
+  "opponent": "Tristan Schoolkate",
+  "result": "7-6(4) 3-6 6-3 6-4",
+  "date": "2026-09-01"
  },
  "stan-m-p1": {
   "playerId": "stan-m-p1",

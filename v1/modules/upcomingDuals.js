@@ -294,6 +294,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "24F0AB23-2C5C-40BE-A75D-0A5D94734B1A",
+  "date": "2027-01-22",
+  "dateTime": "2027-01-22T16:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Bellarmine University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ala-w",
+   "name": "University Of Alabama",
+   "side": 2
+  }
+ },
+ {
   "id": "367E0C4E-B68F-4855-AB6D-758A3893C199",
   "date": "2027-01-23",
   "dateTime": "2027-01-23T00:00:00.000Z",
@@ -855,6 +872,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "1D4B9584-33CF-47D2-A696-DB635A411158",
+  "date": "2027-02-06",
+  "dateTime": "2027-02-06T16:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Bellarmine University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "nd-w",
+   "name": "University of Notre Dame",
+   "side": 2
+  }
+ },
+ {
   "id": "3DFF111C-256D-4ECE-B3DE-833BDF8E5535",
   "date": "2027-02-06",
   "dateTime": "2027-02-06T17:00:00.000Z",
@@ -868,6 +902,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "penn-m",
    "name": "Univ. Of Pennsylvania",
+   "side": 2
+  }
+ },
+ {
+  "id": "699FD60F-6F71-42B8-BA4D-7F26D22EA52F",
+  "date": "2027-02-06",
+  "dateTime": "2027-02-06T21:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Bellarmine University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "nd-w",
+   "name": "University of Notre Dame",
    "side": 2
   }
  },
@@ -970,6 +1021,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Creighton University",
+   "side": 2
+  }
+ },
+ {
+  "id": "23B29069-365B-4A72-9E40-5D9AE0070036",
+  "date": "2027-02-12",
+  "dateTime": "2027-02-12T22:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Bellarmine University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "pur-w",
+   "name": "Purdue University",
    "side": 2
   }
  },
@@ -1157,6 +1225,40 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "okst-m",
    "name": "Oklahoma State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "F375BDF3-29B7-4DDD-9E85-4B4091725A53",
+  "date": "2027-02-19",
+  "dateTime": "2027-02-19T15:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Bellarmine University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "tenn-w",
+   "name": "Univ. Of Tennessee, Knoxville",
+   "side": 2
+  }
+ },
+ {
+  "id": "53F27C3B-3557-4D82-9B4D-D03C5C1EF5E2",
+  "date": "2027-02-19",
+  "dateTime": "2027-02-19T19:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Bellarmine University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "tenn-w",
+   "name": "Univ. Of Tennessee, Knoxville",
    "side": 2
   }
  },
@@ -1497,6 +1599,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "U.S. Naval Academy",
+   "side": 2
+  }
+ },
+ {
+  "id": "199ED8C3-A9C1-4CEF-A184-D8D2D2BE273A",
+  "date": "2027-02-27",
+  "dateTime": "2027-02-27T18:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Bellarmine University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "uab-w",
+   "name": "Univ. Of Alabama, Birmingham",
    "side": 2
   }
  },
@@ -1866,6 +1985,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t1": {
    "teamId": "tamu-w",
    "name": "Texas A&M University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "msst-w",
+   "name": "Mississippi State Univ.",
+   "side": 2
+  }
+ },
+ {
+  "id": "5DEA6E15-4C4D-4FE2-81EC-56CE1481565F",
+  "date": "2027-03-14",
+  "dateTime": "2027-03-14T06:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Bellarmine University",
    "side": 1
   },
   "t2": {
