@@ -890,6 +890,19 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-24"
  },
  {
+  "playerId": "ariz-m-fp226",
+  "name": "Jay Friend",
+  "teamId": "ariz-m",
+  "teamName": "Arizona",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 314,
+  "change": 87,
+  "weeks": 10,
+  "asOf": "2026-08-24"
+ },
+ {
   "playerId": "harv-m-h3",
   "name": "Daniel Milavsky",
   "teamId": "harv-m",
@@ -938,6 +951,19 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "tour": "ATP",
   "position": 326,
   "change": 2,
+  "weeks": 10,
+  "asOf": "2026-08-24"
+ },
+ {
+  "playerId": "usd-m-p8",
+  "name": "Oliver Tarvet",
+  "teamId": "usd-m",
+  "teamName": "San Diego",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 329,
+  "change": 13,
   "weeks": 10,
   "asOf": "2026-08-24"
  },
@@ -1042,6 +1068,19 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "tour": "WTA",
   "position": 348,
   "change": 75,
+  "weeks": 10,
+  "asOf": "2026-08-24"
+ },
+ {
+  "playerId": "wich-m-fp92",
+  "name": "Felix Bockelmann Evans",
+  "teamId": "wich-m",
+  "teamName": "Wichita State",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 354,
+  "change": -6,
   "weeks": 10,
   "asOf": "2026-08-24"
  },
@@ -1906,6 +1945,19 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-10"
  },
  {
+  "playerId": "lsu-m-n2",
+  "name": "Michael Bassem Sobhy",
+  "teamId": "lsu-m",
+  "teamName": "LSU",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 542,
+  "change": -12,
+  "weeks": 10,
+  "asOf": "2026-08-24"
+ },
+ {
   "playerId": "ala-w-h1",
   "name": "Margaux Maquet",
   "teamId": "ala-w",
@@ -2466,6 +2518,19 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "change": 117,
   "weeks": 10,
   "asOf": "2026-08-10"
+ },
+ {
+  "playerId": "tcu-m-fp30",
+  "name": "Roger Pascual Ferra",
+  "teamId": "tcu-m",
+  "teamName": "TCU",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 655,
+  "change": 146,
+  "weeks": 10,
+  "asOf": "2026-08-24"
  },
  {
   "playerId": "uva-w-p5",
@@ -3928,6 +3993,19 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-06-08"
  },
  {
+  "playerId": "tcu-m-fp28",
+  "name": "Albert Pedrico Kravtsov",
+  "teamId": "tcu-m",
+  "teamName": "TCU",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 868,
+  "change": -45,
+  "weeks": 4,
+  "asOf": "2026-06-29"
+ },
+ {
   "playerId": "fau-m-h11",
   "name": "Nicolas Jadoun",
   "teamId": "fau-m",
@@ -4005,6 +4083,19 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "change": 8,
   "weeks": 9,
   "asOf": "2026-08-24"
+ },
+ {
+  "playerId": "wake-m-p4",
+  "name": "Luca Pow",
+  "teamId": "wake-m",
+  "teamName": "Wake Forest",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 874,
+  "change": 3,
+  "weeks": 2,
+  "asOf": "2026-06-15"
  },
  {
   "playerId": "ncst-m-n1",
@@ -5721,6 +5812,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
   "position": 899,
   "date": "2021-11-08"
  },
+ "ariz-m-fp228": {
+  "position": 1571,
+  "date": "2018-12-24"
+ },
  "ariz-m-h4": {
   "position": 1443,
   "date": "2018-08-20"
@@ -5732,6 +5827,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
  "ariz-m-h8": {
   "position": 1701,
   "date": "2019-08-19"
+ },
+ "ariz-m-p1": {
+  "position": 1416,
+  "date": "2004-09-27"
  },
  "ariz-w-h3": {
   "position": 857,
@@ -5844,6 +5943,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
  "brown-m-h11": {
   "position": 1786,
   "date": "2018-06-25"
+ },
+ "cal-m-fp2": {
+  "position": 643,
+  "date": "2026-08-22"
  },
  "cal-m-h4": {
   "position": 834,
@@ -6069,6 +6172,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
   "position": 698,
   "date": "2023-10-02"
  },
+ "fla-m-n3": {
+  "position": 1248,
+  "date": "2012-05-28"
+ },
  "fla-m-p6": {
   "position": 892,
   "date": "2024-06-24"
@@ -6116,6 +6223,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
  "gt-w-h3": {
   "position": 883,
   "date": "2021-08-09"
+ },
+ "harv-m-fp291": {
+  "position": 872,
+  "date": "2025-04-07"
  },
  "harv-m-h10": {
   "position": 1214,
@@ -6360,6 +6471,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
  "msu-m-h11": {
   "position": 1362,
   "date": "2026-08-25"
+ },
+ "ncst-m-fp370": {
+  "position": 744,
+  "date": "2025-06-30"
  },
  "ncst-m-h1": {
   "position": 1497,
@@ -6841,6 +6956,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
   "position": 891,
   "date": "2021-10-18"
  },
+ "tcu-m-p1": {
+  "position": 836,
+  "date": "2026-08-23"
+ },
  "tcu-m-p3": {
   "position": 486,
   "date": "2026-08-10"
@@ -6964,6 +7083,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
  "tulsa-m-h6": {
   "position": 1911,
   "date": "2019-09-30"
+ },
+ "tulsa-m-p3": {
+  "position": 838,
+  "date": "2023-02-20"
  },
  "tulsa-w-h5": {
   "position": 1258,
@@ -7313,6 +7436,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
   "position": 1743,
   "date": "2018-12-24"
  },
+ "vt-m-p6": {
+  "position": 842,
+  "date": "2021-11-08"
+ },
  "vt-w-h3": {
   "position": 942,
   "date": "2019-12-30"
@@ -7464,6 +7591,18 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   707,
   708,
   705
+ ],
+ "ariz-m-fp226": [
+  401,
+  407,
+  404,
+  407,
+  383,
+  380,
+  376,
+  314,
+  315,
+  314
  ],
  "ariz-m-h1": [
   900,
@@ -8270,6 +8409,18 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   536,
   533,
   525
+ ],
+ "lsu-m-n2": [
+  530,
+  528,
+  529,
+  529,
+  540,
+  535,
+  539,
+  535,
+  540,
+  542
  ],
  "lsu-m-p1": [
   552,
@@ -9429,6 +9580,24 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   588,
   573
  ],
+ "tcu-m-fp28": [
+  823,
+  846,
+  847,
+  868
+ ],
+ "tcu-m-fp30": [
+  801,
+  837,
+  792,
+  790,
+  673,
+  808,
+  729,
+  673,
+  682,
+  655
+ ],
  "tcu-m-h1": [
   145,
   130,
@@ -10422,6 +10591,18 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   226,
   244
  ],
+ "usd-m-p8": [
+  342,
+  344,
+  349,
+  348,
+  437,
+  430,
+  433,
+  436,
+  380,
+  329
+ ],
  "usd-w-h6": [
   730,
   710,
@@ -10713,6 +10894,10 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   803,
   811
  ],
+ "wake-m-p4": [
+  877,
+  874
+ ],
  "wash-m-h10": [
   200,
   200,
@@ -10748,6 +10933,18 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   473,
   466,
   456
+ ],
+ "wich-m-fp92": [
+  348,
+  349,
+  350,
+  349,
+  364,
+  349,
+  346,
+  349,
+  356,
+  354
  ],
  "wisc-w-h9": [
   607,
