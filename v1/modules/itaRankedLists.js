@@ -405,7 +405,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "name": "Margot Phanthala",
      "school": "Columbia",
      "teamId": "colum-w",
-     "pid": null
+     "pid": "colum-w-n2"
     },
     {
      "rank": 58,
@@ -706,7 +706,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "name": "Melisa Ercan",
      "school": "Tulsa",
      "teamId": "tulsa-w",
-     "pid": null
+     "pid": "tulsa-w-n5"
     },
     {
      "rank": 101,
@@ -1531,7 +1531,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "name": "Simeon Stankovic",
      "school": "Princeton",
      "teamId": "prin-m",
-     "pid": null
+     "pid": "prin-m-n2"
     },
     {
      "rank": 93,
@@ -3399,7 +3399,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "school": "UCLA",
      "teamId": "ucla-w",
      "pids": [
-      null,
+      "ucla-w-n1",
       "ucla-w-p9"
      ]
     },
@@ -3945,8 +3945,8 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "school": "Columbia",
      "teamId": "colum-w",
      "pids": [
-      null,
-      null
+      "colum-w-n4",
+      "colum-w-n3"
      ]
     },
     {
@@ -4076,7 +4076,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "teamId": "colum-w",
      "pids": [
       "colum-w-p2",
-      null
+      "colum-w-n2"
      ]
     },
     {
@@ -4115,7 +4115,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "teamId": "nw-w",
      "pids": [
       "nw-w-p3",
-      null
+      "nw-w-n1"
      ]
     }
    ]
