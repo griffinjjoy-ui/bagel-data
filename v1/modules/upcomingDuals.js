@@ -1960,23 +1960,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
-  "id": "793BC4CA-7B5A-43FC-A1F7-C4B20CB6F675",
-  "date": "2027-03-19",
-  "dateTime": "2027-03-19T05:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": true,
-  "t1": {
-   "teamId": "tamu-w",
-   "name": "Texas A&M University",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "uga-w",
-   "name": "University Of Georgia",
-   "side": 2
-  }
- },
- {
   "id": "04AB77E0-8F0C-40A6-8896-7C9914C3A5D3",
   "date": "2027-03-19",
   "dateTime": "2027-03-19T19:00:00.000Z",
