@@ -935,7 +935,7 @@ export const teamNationalRanks = globalThis.__BAGEL_REMOTE__?.["itaNational"]?.t
  }
 };
 export const itaNationalMeta = globalThis.__BAGEL_REMOTE__?.["itaNational"]?.itaNationalMeta ?? {
- "fetchedAt": "2026-09-01T01:41:50.737Z",
+ "fetchedAt": "2026-09-01T01:57:57.546Z",
  "source": "ITA D1 national team rankings (Top 75) via wearecollegetennis.com rankings widget",
  "genders": {
   "M": {
