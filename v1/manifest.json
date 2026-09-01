@@ -1,10 +1,10 @@
 {
- "version": "f0a24a3433",
+ "version": "da2a0dd736",
  "asOf": "2026-09-01",
  "files": {
   "proRankings.js": {
-   "hash": "0beee7702f",
-   "bytes": 156794
+   "hash": "4aa6d4bc38",
+   "bytes": 161281
   },
   "onTourWeek.js": {
    "hash": "e777089232",

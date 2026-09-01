@@ -57,6 +57,32 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-24"
  },
  {
+  "playerId": "uva-m-h16",
+  "name": "Brandon Nakashima",
+  "teamId": "uva-m",
+  "teamName": "Virginia",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 17,
+  "change": 15,
+  "weeks": 10,
+  "asOf": "2026-08-24"
+ },
+ {
+  "playerId": "tamu-m-h19",
+  "name": "Valentin Vacherot",
+  "teamId": "tamu-m",
+  "teamName": "Texas A&M",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 23,
+  "change": -3,
+  "weeks": 10,
+  "asOf": "2026-08-24"
+ },
+ {
   "playerId": "uva-w-h8",
   "name": "Emma Navarro",
   "teamId": "uva-w",
@@ -66,6 +92,32 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "tour": "WTA",
   "position": 27,
   "change": -2,
+  "weeks": 10,
+  "asOf": "2026-08-24"
+ },
+ {
+  "playerId": "tamu-m-h20",
+  "name": "Arthur Rinderknech",
+  "teamId": "tamu-m",
+  "teamName": "Texas A&M",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 29,
+  "change": -5,
+  "weeks": 10,
+  "asOf": "2026-08-24"
+ },
+ {
+  "playerId": "tcu-m-h11",
+  "name": "Cameron Norrie",
+  "teamId": "tcu-m",
+  "teamName": "TCU",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 33,
+  "change": -4,
   "weeks": 10,
   "asOf": "2026-08-24"
  },
@@ -109,6 +161,19 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-24"
  },
  {
+  "playerId": "usc-m-h13",
+  "name": "Yannick Hanfmann",
+  "teamId": "usc-m",
+  "teamName": "USC",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 54,
+  "change": 5,
+  "weeks": 10,
+  "asOf": "2026-08-24"
+ },
+ {
   "playerId": "uga-m-h10",
   "name": "Ethan Quinn",
   "teamId": "uga-m",
@@ -131,6 +196,19 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "tour": "WTA",
   "position": 65,
   "change": -26,
+  "weeks": 10,
+  "asOf": "2026-08-24"
+ },
+ {
+  "playerId": "ucla-m-h13",
+  "name": "Marcos Giron",
+  "teamId": "ucla-m",
+  "teamName": "UCLA",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 77,
+  "change": 11,
   "weeks": 10,
   "asOf": "2026-08-24"
  },
@@ -239,6 +317,19 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-24"
  },
  {
+  "playerId": "ucla-m-h14",
+  "name": "Mackenzie Mcdonald",
+  "teamId": "ucla-m",
+  "teamName": "UCLA",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 146,
+  "change": -21,
+  "weeks": 10,
+  "asOf": "2026-08-24"
+ },
+ {
   "playerId": "uva-m-h5",
   "name": "Chris Rodesch",
   "teamId": "uva-m",
@@ -248,6 +339,19 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "tour": "ATP",
   "position": 151,
   "change": 26,
+  "weeks": 10,
+  "asOf": "2026-08-24"
+ },
+ {
+  "playerId": "wake-m-h24",
+  "name": "Borna Gojo",
+  "teamId": "wake-m",
+  "teamName": "Wake Forest",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 162,
+  "change": 16,
   "weeks": 10,
   "asOf": "2026-08-24"
  },
@@ -291,6 +395,32 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-24"
  },
  {
+  "playerId": "stan-m-h16",
+  "name": "Tristan Boyer",
+  "teamId": "stan-m",
+  "teamName": "Stanford",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 182,
+  "change": 16,
+  "weeks": 10,
+  "asOf": "2026-08-24"
+ },
+ {
+  "playerId": "ncst-m-h11",
+  "name": "Alexis Galarneau",
+  "teamId": "ncst-m",
+  "teamName": "NC State",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 183,
+  "change": 4,
+  "weeks": 10,
+  "asOf": "2026-08-24"
+ },
+ {
   "playerId": "haw-m-h2",
   "name": "Andre Ilagan",
   "teamId": "haw-m",
@@ -304,6 +434,19 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-24"
  },
  {
+  "playerId": "cuse-w-h8",
+  "name": "Gabriela Andrea Knutson",
+  "teamId": "cuse-w",
+  "teamName": "Syracuse",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 184,
+  "change": 19,
+  "weeks": 10,
+  "asOf": "2026-08-24"
+ },
+ {
   "playerId": "wash-m-h10",
   "name": "Clement Chidekh",
   "teamId": "wash-m",
@@ -313,6 +456,19 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "tour": "ATP",
   "position": 185,
   "change": 15,
+  "weeks": 10,
+  "asOf": "2026-08-24"
+ },
+ {
+  "playerId": "ucla-m-h15",
+  "name": "Keegan Smith",
+  "teamId": "ucla-m",
+  "teamName": "UCLA",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 193,
+  "change": 59,
   "weeks": 10,
   "asOf": "2026-08-24"
  },
@@ -418,6 +574,19 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 248,
   "change": 6,
   "weeks": 11,
+  "asOf": "2026-08-24"
+ },
+ {
+  "playerId": "osu-m-h11",
+  "name": "Jeff Wolf",
+  "teamId": "osu-m",
+  "teamName": "Ohio State",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 248,
+  "change": 437,
+  "weeks": 7,
   "asOf": "2026-08-24"
  },
  {
@@ -1447,6 +1616,19 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 480,
   "change": 246,
   "weeks": 11,
+  "asOf": "2026-08-24"
+ },
+ {
+  "playerId": "ucla-w-h8",
+  "name": "Ena Shibahara",
+  "teamId": "ucla-w",
+  "teamName": "UCLA",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 481,
+  "change": -101,
+  "weeks": 10,
   "asOf": "2026-08-24"
  },
  {
@@ -7641,6 +7823,18 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   481,
   465
  ],
+ "cuse-w-h8": [
+  203,
+  200,
+  198,
+  199,
+  217,
+  213,
+  217,
+  219,
+  186,
+  184
+ ],
  "duke-m-fp157": [
   824,
   819,
@@ -8340,6 +8534,18 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   689,
   691
  ],
+ "ncst-m-h11": [
+  187,
+  188,
+  184,
+  179,
+  158,
+  162,
+  167,
+  175,
+  185,
+  183
+ ],
  "ncst-m-h2": [
   810,
   770,
@@ -8609,6 +8815,15 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   865,
   847,
   807
+ ],
+ "osu-m-h11": [
+  685,
+  688,
+  652,
+  563,
+  282,
+  285,
+  248
  ],
  "osu-m-h2": [
   363,
@@ -9008,6 +9223,18 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   494,
   528
  ],
+ "stan-m-h16": [
+  198,
+  191,
+  193,
+  191,
+  164,
+  166,
+  162,
+  168,
+  170,
+  182
+ ],
  "stan-m-h4": [
   141,
   140,
@@ -9043,6 +9270,30 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   146,
   148,
   163
+ ],
+ "tamu-m-h19": [
+  20,
+  20,
+  20,
+  20,
+  21,
+  19,
+  18,
+  18,
+  19,
+  23
+ ],
+ "tamu-m-h20": [
+  24,
+  24,
+  28,
+  28,
+  28,
+  27,
+  28,
+  29,
+  28,
+  29
  ],
  "tamu-m-h6": [
   895,
@@ -9189,6 +9440,18 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   110,
   107,
   100
+ ],
+ "tcu-m-h11": [
+  29,
+  29,
+  29,
+  29,
+  38,
+  39,
+  39,
+  37,
+  35,
+  33
  ],
  "tcu-m-h5": [
   402,
@@ -9629,6 +9892,42 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   789,
   762
  ],
+ "ucla-m-h13": [
+  88,
+  86,
+  86,
+  92,
+  87,
+  85,
+  85,
+  81,
+  83,
+  77
+ ],
+ "ucla-m-h14": [
+  125,
+  128,
+  144,
+  145,
+  140,
+  140,
+  145,
+  144,
+  144,
+  146
+ ],
+ "ucla-m-h15": [
+  252,
+  246,
+  246,
+  247,
+  204,
+  209,
+  199,
+  195,
+  198,
+  193
+ ],
  "ucla-m-h5": [
   395,
   394,
@@ -9684,6 +9983,18 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   254,
   257,
   256
+ ],
+ "ucla-w-h8": [
+  380,
+  373,
+  401,
+  404,
+  477,
+  481,
+  481,
+  485,
+  472,
+  481
  ],
  "ucsb-w-h3": [
   402,
@@ -10027,6 +10338,18 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   692,
   810
  ],
+ "usc-m-h13": [
+  59,
+  59,
+  55,
+  56,
+  51,
+  52,
+  45,
+  57,
+  55,
+  54
+ ],
  "usc-m-h3": [
   607,
   566,
@@ -10155,6 +10478,18 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   15,
   11,
   13
+ ],
+ "uva-m-h16": [
+  32,
+  32,
+  31,
+  31,
+  32,
+  32,
+  33,
+  31,
+  22,
+  17
  ],
  "uva-m-h4": [
   295,
@@ -10354,6 +10689,18 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   382,
   391,
   418
+ ],
+ "wake-m-h24": [
+  178,
+  184,
+  181,
+  175,
+  168,
+  169,
+  164,
+  163,
+  161,
+  162
  ],
  "wake-m-h3": [
   627,
