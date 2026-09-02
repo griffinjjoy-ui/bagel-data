@@ -594,16 +594,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "sc-m-h4",
-  "name": "Toby Samuel",
-  "teamId": "sc-m",
-  "gender": "men",
-  "opponent": "Jiri Lehecka",
-  "event": "U.S. Open - New York",
-  "date": "2026-09-02",
-  "day": "today"
- },
- {
   "playerId": "uga-m-h16",
   "name": "Tristan McCormick",
   "teamId": "uga-m",
@@ -674,22 +664,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ark-m-h14",
+  "name": "Alexandre Reco",
+  "teamId": "ark-m",
+  "gender": "men",
+  "opponent": "Benjamin Pietri",
+  "event": "M25+H Bagneres-de-Bigorre",
+  "date": "2026-09-03",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "scu-m-h2",
+  "name": "Guillaume Dalmasso",
+  "teamId": "scu-m",
+  "gender": "men",
+  "opponent": "Alex Knaff",
+  "event": "M25+H Bagneres-de-Bigorre",
+  "date": "2026-09-03",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "tcu-m-h8",
   "name": "Jack Pinnington",
   "teamId": "tcu-m",
   "gender": "men",
   "opponent": "Michele Ribecai",
   "event": "Manacor Challenger",
-  "date": "2026-09-03",
-  "day": "tomorrow"
- },
- {
-  "playerId": "usc-m-h8",
-  "name": "Learner Tien",
-  "teamId": "usc-m",
-  "gender": "men",
-  "opponent": "Gael Monfils",
-  "event": "U.S. Open - New York",
   "date": "2026-09-03",
   "day": "tomorrow"
  },
@@ -710,6 +710,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Noritaka Koizumi",
   "event": "M25 Urayasu",
+  "date": "2026-09-03",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "sc-m-h4",
+  "name": "Toby Samuel",
+  "teamId": "sc-m",
+  "gender": "men",
+  "opponent": "Jiri Lehecka",
+  "event": "U.S. Open - New York",
   "date": "2026-09-03",
   "day": "tomorrow"
  },

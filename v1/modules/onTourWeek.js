@@ -18,6 +18,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-02"
  },
  {
+  "playerId": "tamu-m-h20",
+  "name": "Arthur Rinderknech",
+  "teamId": "tamu-m",
+  "teamName": "Texas A&M",
+  "gender": "men",
+  "event": "U.S. Open - New York",
+  "round": "Second",
+  "won": true,
+  "opponent": "Jaume Antoni Munar Clar",
+  "result": "7-6(4) 6-2 7-5",
+  "date": "2026-09-02"
+ },
+ {
   "playerId": "cal-m-p9",
   "name": "Bernardo Munk Mesa",
   "teamId": "cal-m",
@@ -886,19 +899,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Unknown Player",
   "result": "6-4 6-3",
-  "date": "2026-08-30"
- },
- {
-  "playerId": "tamu-m-h20",
-  "name": "Arthur Rinderknech",
-  "teamId": "tamu-m",
-  "teamName": "Texas A&M",
-  "gender": "men",
-  "event": "U.S. Open - New York",
-  "round": "First",
-  "won": true,
-  "opponent": "Sho Shimabukuro",
-  "result": "6-7(4) 6-2 7-6(4) 6-2",
   "date": "2026-08-30"
  },
  {
@@ -13424,11 +13424,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Texas A&M",
   "gender": "men",
   "event": "U.S. Open - New York",
-  "round": "First",
+  "round": "Second",
   "won": true,
-  "opponent": "Sho Shimabukuro",
-  "result": "6-7(4) 6-2 7-6(4) 6-2",
-  "date": "2026-08-30"
+  "opponent": "Jaume Antoni Munar Clar",
+  "result": "7-6(4) 6-2 7-5",
+  "date": "2026-09-02"
  },
  "tamu-m-h5": {
   "playerId": "tamu-m-h5",
