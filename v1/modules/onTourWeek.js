@@ -18,6 +18,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-03"
  },
  {
+  "playerId": "tamu-m-h19",
+  "name": "Valentin Vacherot",
+  "teamId": "tamu-m",
+  "teamName": "Texas A&M",
+  "gender": "men",
+  "event": "U.S. Open - New York",
+  "round": "Second",
+  "won": true,
+  "opponent": "Kamil Majchrzak",
+  "result": "6-4 4-6 7-6(3) 6-2",
+  "date": "2026-09-03"
+ },
+ {
   "playerId": "fla-m-p4",
   "name": "Adhithya Ganesan",
   "teamId": "fla-m",
@@ -1484,19 +1497,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Nahia Berecoechea",
   "result": "7-6(13) 5-7 6-4",
-  "date": "2026-08-31"
- },
- {
-  "playerId": "tamu-m-h19",
-  "name": "Valentin Vacherot",
-  "teamId": "tamu-m",
-  "teamName": "Texas A&M",
-  "gender": "men",
-  "event": "U.S. Open - New York",
-  "round": "First",
-  "won": true,
-  "opponent": "Aleksandar Kovacevic",
-  "result": "6-2 6-3 7-5",
   "date": "2026-08-31"
  },
  {
@@ -13437,11 +13437,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Texas A&M",
   "gender": "men",
   "event": "U.S. Open - New York",
-  "round": "First",
+  "round": "Second",
   "won": true,
-  "opponent": "Aleksandar Kovacevic",
-  "result": "6-2 6-3 7-5",
-  "date": "2026-08-31"
+  "opponent": "Kamil Majchrzak",
+  "result": "6-4 4-6 7-6(3) 6-2",
+  "date": "2026-09-03"
  },
  "tamu-m-h2": {
   "playerId": "tamu-m-h2",
