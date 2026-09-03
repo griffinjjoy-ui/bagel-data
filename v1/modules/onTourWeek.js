@@ -5,6 +5,45 @@
 // on the ITF/Challenger/WTA-ATP circuit right now, ranked or not.
 export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWeek ?? [
  {
+  "playerId": "ucla-w-p3",
+  "name": "Anne-Christine Lutkemeyer",
+  "teamId": "ucla-w",
+  "teamName": "UCLA",
+  "gender": "women",
+  "event": "W15 Badalona",
+  "round": "Second",
+  "won": false,
+  "opponent": "Ashley Lahey",
+  "result": "6-2 6-3",
+  "date": "2026-09-03"
+ },
+ {
+  "playerId": "cal-m-p9",
+  "name": "Bernardo Munk Mesa",
+  "teamId": "cal-m",
+  "teamName": "California",
+  "gender": "men",
+  "event": "M15 Madrid",
+  "round": "Second",
+  "won": true,
+  "opponent": "Juan Ignacio Gallego",
+  "result": "6-7(4) 6-2 6-3",
+  "date": "2026-09-03"
+ },
+ {
+  "playerId": "ariz-m-fp226",
+  "name": "Jay Friend",
+  "teamId": "ariz-m",
+  "teamName": "Arizona",
+  "gender": "men",
+  "event": "Manacor Challenger",
+  "round": "Second",
+  "won": false,
+  "opponent": "Billy Harris",
+  "result": "7-5 6-4",
+  "date": "2026-09-03"
+ },
+ {
   "playerId": "stan-m-p5",
   "name": "Nathan Barki",
   "teamId": "stan-m",
@@ -15,6 +54,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Anthony Susanto",
   "result": "7-5 ret.",
+  "date": "2026-09-03"
+ },
+ {
+  "playerId": "miss-m-p2",
+  "name": "Stefano D'Agostino",
+  "teamId": "miss-m",
+  "teamName": "Ole Miss",
+  "gender": "men",
+  "event": "M15 Kursumlijska Banja",
+  "round": "Second",
+  "won": true,
+  "opponent": "Richard Lacis",
+  "result": "6-3 6-3",
   "date": "2026-09-03"
  },
  {
@@ -83,19 +135,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-02"
  },
  {
-  "playerId": "ucla-w-p3",
-  "name": "Anne-Christine Lutkemeyer",
-  "teamId": "ucla-w",
-  "teamName": "UCLA",
-  "gender": "women",
-  "event": "W15 Badalona",
-  "round": "First",
-  "won": true,
-  "opponent": "Carlota Corte",
-  "result": "6-0 6-0",
-  "date": "2026-09-02"
- },
- {
   "playerId": "tamu-m-h20",
   "name": "Arthur Rinderknech",
   "teamId": "tamu-m",
@@ -145,19 +184,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Hubert Hurkacz",
   "result": "6-3 5-7 7-6(3) 7-5",
-  "date": "2026-09-02"
- },
- {
-  "playerId": "cal-m-p9",
-  "name": "Bernardo Munk Mesa",
-  "teamId": "cal-m",
-  "teamName": "California",
-  "gender": "men",
-  "event": "M15 Madrid",
-  "round": "First",
-  "won": true,
-  "opponent": "Carles Cordoba",
-  "result": "4-6 6-2 5-2 ret.",
   "date": "2026-09-02"
  },
  {
@@ -431,19 +457,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Hazem Naow",
   "result": "6-1 7-5",
-  "date": "2026-09-02"
- },
- {
-  "playerId": "ariz-m-fp226",
-  "name": "Jay Friend",
-  "teamId": "ariz-m",
-  "teamName": "Arizona",
-  "gender": "men",
-  "event": "Manacor Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Matheus Pucinelli De Almeida",
-  "result": "7-6(2) 6-3",
   "date": "2026-09-02"
  },
  {
@@ -756,19 +769,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Francesca Dell'Edera",
   "result": "6-3 6-4",
-  "date": "2026-09-02"
- },
- {
-  "playerId": "miss-m-p2",
-  "name": "Stefano D'Agostino",
-  "teamId": "miss-m",
-  "teamName": "Ole Miss",
-  "gender": "men",
-  "event": "M15 Kursumlijska Banja",
-  "round": "First",
-  "won": true,
-  "opponent": "Marko Nikolic",
-  "result": "6-4 6-4",
   "date": "2026-09-02"
  },
  {
@@ -3063,11 +3063,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Arizona",
   "gender": "men",
   "event": "Manacor Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Matheus Pucinelli De Almeida",
-  "result": "7-6(2) 6-3",
-  "date": "2026-09-02"
+  "round": "Second",
+  "won": false,
+  "opponent": "Billy Harris",
+  "result": "7-5 6-4",
+  "date": "2026-09-03"
  },
  "ariz-m-h1": {
   "playerId": "ariz-m-h1",
@@ -4402,11 +4402,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "California",
   "gender": "men",
   "event": "M15 Madrid",
-  "round": "First",
+  "round": "Second",
   "won": true,
-  "opponent": "Carles Cordoba",
-  "result": "4-6 6-2 5-2 ret.",
-  "date": "2026-09-02"
+  "opponent": "Juan Ignacio Gallego",
+  "result": "6-7(4) 6-2 6-3",
+  "date": "2026-09-03"
  },
  "cal-w-h1": {
   "playerId": "cal-w-h1",
@@ -8952,11 +8952,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Ole Miss",
   "gender": "men",
   "event": "M15 Kursumlijska Banja",
-  "round": "First",
+  "round": "Second",
   "won": true,
-  "opponent": "Marko Nikolic",
-  "result": "6-4 6-4",
-  "date": "2026-09-02"
+  "opponent": "Richard Lacis",
+  "result": "6-3 6-3",
+  "date": "2026-09-03"
  },
  "miss-m-p3": {
   "playerId": "miss-m-p3",
@@ -16206,11 +16206,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "UCLA",
   "gender": "women",
   "event": "W15 Badalona",
-  "round": "First",
-  "won": true,
-  "opponent": "Carlota Corte",
-  "result": "6-0 6-0",
-  "date": "2026-09-02"
+  "round": "Second",
+  "won": false,
+  "opponent": "Ashley Lahey",
+  "result": "6-2 6-3",
+  "date": "2026-09-03"
  },
  "ucla-w-p5": {
   "playerId": "ucla-w-p5",

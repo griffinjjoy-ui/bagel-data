@@ -243,6 +243,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "E06E3691-0A98-4B33-A55F-CDE40E6F7802",
+  "date": "2027-01-18",
+  "dateTime": "2027-01-18T16:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Illinois State University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "wisc-w",
+   "name": "Univ. Of Wisconsin, Madison",
+   "side": 2
+  }
+ },
+ {
   "id": "7B60F853-53F4-4077-A0B7-31FDF97636DB",
   "date": "2027-01-18",
   "dateTime": "2027-01-18T17:00:00.000Z",
