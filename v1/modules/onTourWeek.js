@@ -31,6 +31,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-02"
  },
  {
+  "playerId": "fla-m-h8",
+  "name": "Ben Shelton",
+  "teamId": "fla-m",
+  "teamName": "Florida",
+  "gender": "men",
+  "event": "U.S. Open - New York",
+  "round": "Second",
+  "won": true,
+  "opponent": "Hubert Hurkacz",
+  "result": "6-3 5-7 7-6(3) 7-5",
+  "date": "2026-09-02"
+ },
+ {
   "playerId": "cal-m-p9",
   "name": "Bernardo Munk Mesa",
   "teamId": "cal-m",
@@ -109,6 +122,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-02"
  },
  {
+  "playerId": "uva-w-h8",
+  "name": "Emma Navarro",
+  "teamId": "uva-w",
+  "teamName": "Virginia",
+  "gender": "women",
+  "event": "U.S. Open - New York",
+  "round": "Second",
+  "won": true,
+  "opponent": "Caty McNally",
+  "result": "3-6 6-2 6-3",
+  "date": "2026-09-02"
+ },
+ {
   "playerId": "ariz-m-fp226",
   "name": "Jay Friend",
   "teamId": "ariz-m",
@@ -158,6 +184,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Henry Bernet",
   "result": "6-7(1) 7-6(3) 7-5",
+  "date": "2026-09-02"
+ },
+ {
+  "playerId": "uva-m-h12",
+  "name": "Rafael Jodar",
+  "teamId": "uva-m",
+  "teamName": "Virginia",
+  "gender": "men",
+  "event": "U.S. Open - New York",
+  "round": "First",
+  "won": false,
+  "opponent": "Bu Yunchaokete",
+  "result": "6-2 6-1 6-1",
   "date": "2026-09-02"
  },
  {
@@ -262,19 +301,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Felix Balshaw",
   "result": "7-6(3) 7-5",
-  "date": "2026-09-01"
- },
- {
-  "playerId": "fla-m-h8",
-  "name": "Ben Shelton",
-  "teamId": "fla-m",
-  "teamName": "Florida",
-  "gender": "men",
-  "event": "U.S. Open - New York",
-  "round": "First",
-  "won": true,
-  "opponent": "Tallon Griekspoor",
-  "result": "1-6 6-1 7-6(3) 6-2",
   "date": "2026-09-01"
  },
  {
@@ -613,19 +639,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Mary Lewis",
   "result": "7-5 6-2",
-  "date": "2026-08-31"
- },
- {
-  "playerId": "uva-w-h8",
-  "name": "Emma Navarro",
-  "teamId": "uva-w",
-  "teamName": "Virginia",
-  "gender": "women",
-  "event": "U.S. Open - New York",
-  "round": "First",
-  "won": true,
-  "opponent": "Lois Boisson",
-  "result": "7-6(6) 6-7(1) 6-3",
   "date": "2026-08-31"
  },
  {
@@ -6040,11 +6053,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Florida",
   "gender": "men",
   "event": "U.S. Open - New York",
-  "round": "First",
+  "round": "Second",
   "won": true,
-  "opponent": "Tallon Griekspoor",
-  "result": "1-6 6-1 7-6(3) 6-2",
-  "date": "2026-09-01"
+  "opponent": "Hubert Hurkacz",
+  "result": "6-3 5-7 7-6(3) 7-5",
+  "date": "2026-09-02"
  },
  "fla-m-h9": {
   "playerId": "fla-m-h9",
@@ -18259,12 +18272,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "uva-m",
   "teamName": "Virginia",
   "gender": "men",
-  "event": "Cincinnati Open - Cincinnati",
-  "round": "Fourth",
+  "event": "U.S. Open - New York",
+  "round": "First",
   "won": false,
-  "opponent": "Flavio Cobolli",
-  "result": "4-6 7-6(3) 6-3",
-  "date": "2026-08-19"
+  "opponent": "Bu Yunchaokete",
+  "result": "6-2 6-1 6-1",
+  "date": "2026-09-02"
  },
  "uva-m-h16": {
   "playerId": "uva-m-h16",
@@ -18455,11 +18468,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Virginia",
   "gender": "women",
   "event": "U.S. Open - New York",
-  "round": "First",
+  "round": "Second",
   "won": true,
-  "opponent": "Lois Boisson",
-  "result": "7-6(6) 6-7(1) 6-3",
-  "date": "2026-08-31"
+  "opponent": "Caty McNally",
+  "result": "3-6 6-2 6-3",
+  "date": "2026-09-02"
  },
  "uva-w-p1": {
   "playerId": "uva-w-p1",

@@ -2,7 +2,7 @@
 // Per-event draw state for this week: finished flag (the singleton
 // final round has a result), our champion when one of ours won it, and
 // per-player entry status (seed, main/quali, eliminated). Draws appear
-// when made: quali ~Saturday, main ~Sun/Mon. asOf 2026-09-02.
+// when made: quali ~Saturday, main ~Sun/Mon. asOf 2026-09-03.
 export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEvents ?? [
  {
   "event": "W15 Badalona",
@@ -329,16 +329,16 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "tenn-w-h9",
-    "seed": "8",
+    "playerId": "aub-w-h6",
+    "seed": "2",
     "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "aub-w-h6",
-    "seed": "2",
+    "playerId": "tenn-w-h9",
+    "seed": "8",
     "entry": null,
     "inMain": true,
     "eliminated": true,
@@ -2033,32 +2033,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
-  "event": "M15 Szczawno",
-  "tournamentId": 22017,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "neb-m-h6",
-    "seed": "5",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "miss-m-h3",
-    "seed": "2",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   }
-  ]
- },
- {
   "event": "M25 Meerbusch",
   "tournamentId": 22004,
   "tour": "atp",
@@ -2097,60 +2071,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "inMain": true,
     "eliminated": false,
     "played": true
-   }
-  ]
- },
- {
-  "event": "M15 Bologna",
-  "tournamentId": 22018,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "clem-m-fp162",
-    "seed": "7",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   }
-  ]
- },
- {
-  "event": "W15 Pecs",
-  "tournamentId": 17244,
-  "tour": "wta",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "ala-p10",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   }
-  ]
- },
- {
-  "event": "M25 Casablanca",
-  "tournamentId": 22003,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "tenn-m-h11",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
    }
   ]
  }
@@ -2425,17 +2345,17 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tenn-w-h9",
+  "playerId": "aub-w-h6",
   "event": "W35 Barueri",
-  "seed": "8",
+  "seed": "2",
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
  {
-  "playerId": "aub-w-h6",
+  "playerId": "tenn-w-h9",
   "event": "W35 Barueri",
-  "seed": "2",
+  "seed": "8",
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
@@ -3809,22 +3729,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": true
  },
  {
-  "playerId": "neb-m-h6",
-  "event": "M15 Szczawno",
-  "seed": "5",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "miss-m-h3",
-  "event": "M15 Szczawno",
-  "seed": "2",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
   "playerId": "ou-m-h5",
   "event": "M25 Meerbusch",
   "seed": null,
@@ -3852,30 +3756,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "playerId": "pepp-m-h6",
   "event": "M25 Meerbusch",
   "seed": "2",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "clem-m-fp162",
-  "event": "M15 Bologna",
-  "seed": "7",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "ala-p10",
-  "event": "W15 Pecs",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tenn-m-h11",
-  "event": "M25 Casablanca",
-  "seed": null,
   "entry": null,
   "inMain": true,
   "hasUnplayed": true
