@@ -5,6 +5,19 @@
 // on the ITF/Challenger/WTA-ATP circuit right now, ranked or not.
 export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWeek ?? [
  {
+  "playerId": "stan-m-p5",
+  "name": "Nathan Barki",
+  "teamId": "stan-m",
+  "teamName": "Stanford",
+  "gender": "men",
+  "event": "M15 Bali",
+  "round": "Second",
+  "won": true,
+  "opponent": "Anthony Susanto",
+  "result": "7-5 ret.",
+  "date": "2026-09-03"
+ },
+ {
   "playerId": "sc-m-h4",
   "name": "Toby Samuel",
   "teamId": "sc-m",
@@ -713,10 +726,10 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "teamName": "Georgia",
   "gender": "men",
   "event": "M15 Trelew",
-  "round": "First",
-  "won": true,
-  "opponent": "Jackson Ross",
-  "result": "6-2 6-3",
+  "round": "Second",
+  "won": false,
+  "opponent": "Julian Cundom",
+  "result": "2-6 6-4 7-6(4)",
   "date": "2026-09-02"
  },
  {
@@ -1159,19 +1172,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Adithya Karunaratne",
   "result": "6-3 6-4",
-  "date": "2026-09-01"
- },
- {
-  "playerId": "stan-m-p5",
-  "name": "Nathan Barki",
-  "teamId": "stan-m",
-  "teamName": "Stanford",
-  "gender": "men",
-  "event": "M15 Bali",
-  "round": "First",
-  "won": true,
-  "opponent": "Pablo Perez Ramos",
-  "result": "6-2 2-6 6-4",
   "date": "2026-09-01"
  },
  {
@@ -13320,11 +13320,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Stanford",
   "gender": "men",
   "event": "M15 Bali",
-  "round": "First",
+  "round": "Second",
   "won": true,
-  "opponent": "Pablo Perez Ramos",
-  "result": "6-2 2-6 6-4",
-  "date": "2026-09-01"
+  "opponent": "Anthony Susanto",
+  "result": "7-5 ret.",
+  "date": "2026-09-03"
  },
  "stan-w-h7": {
   "playerId": "stan-w-h7",
@@ -16596,10 +16596,10 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Georgia",
   "gender": "men",
   "event": "M15 Trelew",
-  "round": "First",
-  "won": true,
-  "opponent": "Jackson Ross",
-  "result": "6-2 6-3",
+  "round": "Second",
+  "won": false,
+  "opponent": "Julian Cundom",
+  "result": "2-6 6-4 7-6(4)",
   "date": "2026-09-02"
  },
  "uga-m-p6": {

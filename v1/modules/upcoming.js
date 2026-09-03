@@ -74,6 +74,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "neb-m-h6",
+  "name": "Calvin Mueller",
+  "teamId": "neb-m",
+  "gender": "men",
+  "opponent": "Kacper Knitter",
+  "event": "M15 Szczawno",
+  "date": "2026-09-03",
+  "day": "today"
+ },
+ {
   "playerId": "msst-m-h4",
   "name": "Carles Hernandez",
   "teamId": "msst-m",
@@ -184,6 +194,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ou-w-h9",
+  "name": "Florencia Urrutia",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Agustina Tarantola",
+  "event": "W15 Lujan",
+  "date": "2026-09-03",
+  "day": "today"
+ },
+ {
   "playerId": "tamu-m-h6",
   "name": "Giulio Perego",
   "teamId": "tamu-m",
@@ -280,6 +300,36 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Matylda Burylo",
   "event": "W15 Grodzisk Mazowiecki",
+  "date": "2026-09-03",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-w-h5",
+  "name": "Malaika Rapolu",
+  "teamId": "tex-w",
+  "gender": "women",
+  "opponent": "Angelina Voloshchuk",
+  "event": "W50 Leiria",
+  "date": "2026-09-03",
+  "day": "today"
+ },
+ {
+  "playerId": "clem-m-fp162",
+  "name": "Manuel Plunger",
+  "teamId": "clem-m",
+  "gender": "men",
+  "opponent": "Blu Baker",
+  "event": "M15 Bologna",
+  "date": "2026-09-03",
+  "day": "today"
+ },
+ {
+  "playerId": "uga-w-h6",
+  "name": "Mell Reasco",
+  "teamId": "uga-w",
+  "gender": "women",
+  "opponent": "Linda Fruhvirtova",
+  "event": "W50 Leiria",
   "date": "2026-09-03",
   "day": "today"
  },
