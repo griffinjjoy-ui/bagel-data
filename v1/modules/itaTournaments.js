@@ -3,7 +3,22790 @@
 // free ITA GraphQL API. Runs are keyed by playerId; champions are
 // Final winners. Real data only -- unresolved persons remain opponent
 // names, never guessed pids. As of 2026-09-03.
-export const itaTournaments = globalThis.__BAGEL_REMOTE__?.["itaTournaments"]?.itaTournaments ?? [];
+export const itaTournaments = globalThis.__BAGEL_REMOTE__?.["itaTournaments"]?.itaTournaments ?? [
+ {
+  "id": "68cc36e0848234d7c8450401",
+  "name": "2025 ITA Men's All-American Championships",
+  "gender": "men",
+  "level": "NAT",
+  "start": "2025-09-20",
+  "end": "2025-09-28",
+  "finished": true,
+  "matchCount": 453,
+  "ourPlayers": 215,
+  "runs": {
+   "clem-m-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Parv Nage",
+     "score": "6-1 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Vuk Radjenovic",
+     "score": "6-3 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Tanapatt Nirundorn",
+     "score": "6-3 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Nicolas Arseneault",
+     "score": "4-6 7-6(7-3) 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Luis Felipe Miguel / Erik Schiessl",
+     "score": "6-3 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Mario Martinez Serrano",
+     "score": "6-2 6-4",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Yair Sarouk / Kabeer Kapasi",
+     "score": "8-7(7-5)",
+     "date": "2025-09-23"
+    }
+   ],
+   "lou-m-fp70": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Henry Jefferson",
+     "score": "6-1 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Vit Kalina / Matic Kriznik",
+     "score": "3-6 6-1 (10-4)",
+     "date": "2025-09-22"
+    }
+   ],
+   "fla-m-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Walid Ahouda",
+     "score": "6-1 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Charlie Camus",
+     "score": "6-4 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Taym Alazmeh",
+     "score": "6-7(4-7) 6-4 6-0",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Sasha Rozin",
+     "score": "6-2 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Jack Anthrop",
+     "score": "6-3 7-5",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Albert Pedrico Kravtsov",
+     "score": "6-3 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Bruno Nhavene / Oscar Lacides",
+     "score": "7-6(7-4) 7-5",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Billy Blaydes / Freddy Blaydes",
+     "score": "6-2 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Lucas Brown / Sebastian Gorzny",
+     "score": "7-6(7-4) 7-6(7-5)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Benito Sanchez Martinez / Petar Jovanovic",
+     "score": "6-4 6-1",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Jakub Vrba",
+     "score": "6-4 6-2",
+     "date": "2025-09-25"
+    }
+   ],
+   "ou-m-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Rudy Ceccon",
+     "score": "6-2 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Mikkel Zinder",
+     "score": "6-2 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Yair Sarouk / Kabeer Kapasi",
+     "score": "7-6(7-5) 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Taym Alazmeh / Danial Rakhmatullayev",
+     "score": "6-1 3-6 (10-6)",
+     "date": "2025-09-23"
+    }
+   ],
+   "unc-m-p10": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Joseph Phillips",
+     "score": "6-2 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Charlelie Cosnet",
+     "score": "6-4 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Jay Fairclough / Giovanni Branchetti",
+     "score": "6-4 6-7(5-7) (10-3)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Togan Tokac / Tiago Pires",
+     "score": "6-4 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Brandon Carpico / Nikita Filin",
+     "score": "6-2 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "aub-m-n6": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Chris Xu",
+     "score": "6-2 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Ian Bracks / Thomas Nicholas Gadecki",
+     "score": "3-6 7-6(7-5) (10-8)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Michael Andre / Sam  Landau",
+     "score": "7-6(7-5) 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "tamu-m-p6": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Nikita Filin",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Karim Al-Amin",
+     "score": "6-3 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Niels Ratiu / Chris Xu",
+     "score": "6-4 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Santiago Giamichelle / Derrick Chen",
+     "score": "6-4 6-7(4-7) (10-7)",
+     "date": "2025-09-23"
+    }
+   ],
+   "osu-m-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Togan Tokac",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Niels Villard",
+     "score": "2-6 6-2 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Andy Nguyen",
+     "score": "7-6(7-3) 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Luis Carlos Alvarez Valdes",
+     "score": "6-4 4-6 6-1",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Miles Groom / Henry Ren",
+     "score": "6-3 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Antonio Prat / Jakub Kroslak",
+     "score": "6-4 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Nicholas Godsick",
+     "score": "6-3 4-6 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Devin Badenhorst / Luc Koenig",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Niels Ratiu / Chris Xu",
+     "score": "6-2 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Luis Felipe Miguel / Erik Schiessl",
+     "score": "6-3 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Paul Inchauspe / Landon Ardila",
+     "score": "6-7(10-12) 6-3 (10-8)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Hugo Car",
+     "score": "6-4 5-7 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Loren Byers",
+     "score": "6-1 7-5",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Zsombor Velcz",
+     "score": "6-3 6-0",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Jack Anthrop",
+     "score": "6-3 6-2",
+     "date": "2025-09-27"
+    }
+   ],
+   "penn-m-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Luca Lemaitre Vilchis",
+     "score": "6-1 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Taym Alazmeh",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "gt-m-fp197": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Aleksi Lofman",
+     "score": "7-5 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Yeray Andres Pastor",
+     "score": "6-3 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Alejandro Gandini / Thomas Giles",
+     "score": "7-6(7-5) 4-6 (14-12)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Santiago Navarro / Petro Kuzmenok",
+     "score": "6-4 6-4",
+     "date": "2025-09-23"
+    }
+   ],
+   "lsu-m-h12": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Gianluca Carlini",
+     "score": "7-5 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Pedro Cressoni",
+     "score": "6-4 7-6(7-5)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "William Manning / Charlie Camus",
+     "score": "6-7(7-9) 6-3 (10-8)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Trevor Svajda / Georgi Georgiev",
+     "score": "6-3 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Yair Sarouk / Kabeer Kapasi",
+     "score": "6-2 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Marko Mesarovic / Edoardo Cherie Ligniere",
+     "score": "5-7 7-6(7-4) (10-7)",
+     "date": "2025-09-23"
+    }
+   ],
+   "asu-m-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Thomas Nicholas Gadecki",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Leandro Zgraggen",
+     "score": "6-0 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Nikita Filin",
+     "score": "2-6 6-2 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "okst-m-fp203": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Niels Villard",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Miles Groom",
+     "score": "7-6(7-4) 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Nicholas Heng / Joseph Phillips",
+     "score": "3-6 7-6(7-5) (10-8)",
+     "date": "2025-09-20"
+    }
+   ],
+   "mem-m-fp34": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Joaquin Guilleme",
+     "score": "6-4 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Niels Villard",
+     "score": "6-0 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Will Pellegrini / Myles Peterson",
+     "score": "6-3 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Santiago Giamichelle / Derrick Chen",
+     "score": "6-1 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "wake-m-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Leandro Zgraggen",
+     "score": "6-4 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Adamantios Stavrakas",
+     "score": "6-4 6-3",
+     "date": "2025-09-20"
+    }
+   ],
+   "ala-m-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Evan Burnett",
+     "score": "7-6(7-2) 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Connor Kruger / Minh Tuan Dinh Viet",
+     "score": "6-7(6-8) 6-2 (10-6)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Hamza El Amine / Walid Ahouda",
+     "score": "3-6 6-1 (10-4)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Aidan Kim / Bryce Nakashima",
+     "score": "6-1 2-6 (13-11)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Matthew Rankin / Nicolas Arseneault",
+     "score": "6-7(4-7) 6-4 (10-8)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Sean Daryabeigi / Lucas Andrade da Silva",
+     "score": "7-6(7-4) 7-5",
+     "date": "2025-09-23"
+    }
+   ],
+   "ark-m-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Lincoln Battle",
+     "score": "7-6(7-3) 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Constantinos Djakouris",
+     "score": "6-1 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Taym Alazmeh / Danial Rakhmatullayev",
+     "score": "7-6(7-4) 6-0",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Antonio Prat / Jakub Kroslak",
+     "score": "4-6 6-3 (12-10)",
+     "date": "2025-09-23"
+    }
+   ],
+   "duke-m-fp159": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Nicholas Heng",
+     "score": "6-3 7-5",
+     "date": "2025-09-20"
+    }
+   ],
+   "ark-m-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Jip van Assendelft",
+     "score": "4-6 6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Nicholas Heng",
+     "score": "7-6(7-2) 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Jay Fairclough / Giovanni Branchetti",
+     "score": "6-3 6-4",
+     "date": "2025-09-20"
+    }
+   ],
+   "ind-m-fp8": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Gabriel Elicha Navas",
+     "score": "4-6 6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Trevor Svajda / Georgi Georgiev",
+     "score": "6-4 3-6 (13-11)",
+     "date": "2025-09-24"
+    }
+   ],
+   "ncst-m-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Rodrigo Santiago Arraez",
+     "score": "3-6 6-2 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Henry Jefferson",
+     "score": "6-4 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Lars Johann / Aleksi Lofman",
+     "score": "6-7(7-9) 6-3 (10-8)",
+     "date": "2025-09-20"
+    }
+   ],
+   "clt-m-fp96": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Yeray Andres Pastor",
+     "score": "3-6 6-3 7-6(7-5)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Tanapatt Nirundorn",
+     "score": "6-4 3-6 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Azuma Visaya / Timothy Li",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Sean Daryabeigi / Lucas Andrade da Silva",
+     "score": "6-2 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "lou-m-fp71": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Ivan Dreycopp",
+     "score": "6-3 7-6(7-5)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Aleksi Lofman",
+     "score": "6-4 7-6(7-5)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Mikkel Zinder",
+     "score": "6-4 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "clt-m-fp95": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Pedro Cressoni",
+     "score": "6-3 7-6(7-5)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Azuma Visaya / Timothy Li",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Sean Daryabeigi / Lucas Andrade da Silva",
+     "score": "6-2 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "ariz-m-fp228": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Benjamin Pomeranets",
+     "score": "6-1 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Mikael Arseneault",
+     "score": "7-6(7-5) 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "ind-m-fp10": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Filip Gustafsson",
+     "score": "6-1 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Alejandro Gandini",
+     "score": "7-6(7-1) 6-1",
+     "date": "2025-09-20"
+    }
+   ],
+   "neb-m-fp167": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Charlelie Cosnet",
+     "score": "6-1 5-7 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Cyrus Mahjoob",
+     "score": "6-2 7-6(7-1)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Santiago Giamichelle / Derrick Chen",
+     "score": "1-6 6-4 (13-11)",
+     "date": "2025-09-20"
+    }
+   ],
+   "uk-m-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Leo Lopez Linquet",
+     "score": "6-1 5-7 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Chris Xu",
+     "score": "6-4 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Lincoln Battle",
+     "score": "6-1 6-7(2-7) 7-6(10-8)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Andrew Delgado",
+     "score": "6-1 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Timofey Stepanov",
+     "score": "6-4 6-4",
+     "date": "2025-09-23"
+    }
+   ],
+   "ariz-m-fp304": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Martin Breysach",
+     "score": "3-6 6-1 7-5",
+     "date": "2025-09-20"
+    }
+   ],
+   "uk-m-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Oskar Jansson",
+     "score": "3-6 6-1 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Evan Burnett",
+     "score": "6-2 1-6 6-1",
+     "date": "2025-09-21"
+    }
+   ],
+   "clem-m-p6": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Jangjun Kim",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Fryderyk Lechno Wasiutynski",
+     "score": "4-6 6-1 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Lukas Palovic / Arsene Pougault",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Alexander Bernard / Alex Okonkwo",
+     "score": "5-7 6-3 (10-6)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Arman Zamani / Louis Bowden",
+     "score": "7-5 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Lars Johann / Aleksi Lofman",
+     "score": "5-7 7-6(7-4) (10-7)",
+     "date": "2025-09-23"
+    }
+   ],
+   "uva-m-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Marko Mesarovic",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Henry Lamchinniah",
+     "score": "6-2 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Taym Alazmeh / Danial Rakhmatullayev",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    }
+   ],
+   "usf-m-fp171": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Fryderyk Lechno Wasiutynski",
+     "score": "7-6(7-5) 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Bruno Nhavene",
+     "score": "6-1 6-1",
+     "date": "2025-09-20"
+    }
+   ],
+   "cal-m-p11": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Taym Alazmeh",
+     "score": "6-3 6-7(3-7) 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Charlelie Cosnet",
+     "score": "6-4 6-4",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Lucas Brown / Sebastian Gorzny",
+     "score": "4-6 6-4 (10-4)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Manfredi Graziani / Aaron Sandler",
+     "score": "3-6 7-5 (10-5)",
+     "date": "2025-09-25"
+    }
+   ],
+   "msu-m-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Timofey Stepanov",
+     "score": "6-3 6-7(3-7) 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Shaurya Bharadwaj",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Henry Jefferson",
+     "score": "6-7(4-7) 6-4 6-0",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Keegan Rice / Jangjun Kim",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Eric Padgham / Ben Weintraub",
+     "score": "7-6(7-4) 6-0",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Santiago Giamichelle / Derrick Chen",
+     "score": "6-7(2-7) 6-1 (10-7)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Moritz Kudernatsch / Maxime Dubouch",
+     "score": "6-4 3-6 (10-6)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Asahi Harazaki / Alejandro Melero",
+     "score": "6-1 3-6 (10-6)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Spencer Johnson / Emon van Loben Sels",
+     "score": "6-2 2-6 (10-5)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Paul Inchauspe / Landon Ardila",
+     "score": "6-3 1-6 (10-5)",
+     "date": "2025-09-26"
+    }
+   ],
+   "fla-m-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Adamantios Stavrakas",
+     "score": "6-0 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Lars Johann",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "William Manning",
+     "score": "6-3 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "scu-m-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Mikkel Zinder",
+     "score": "6-7(1-7) 7-6(10-8) 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Andres Medus",
+     "score": "6-4 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Miles Groom / Henry Ren",
+     "score": "6-1 6-4",
+     "date": "2025-09-20"
+    }
+   ],
+   "unc-m-p9": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Miles Groom",
+     "score": "6-1 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Julian Alonso Vivanco",
+     "score": "7-5 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Matthew Rankin / Nicolas Arseneault",
+     "score": "6-4 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Nikita Volonski / Takeshi Taco",
+     "score": "3-6 6-4 (10-4)",
+     "date": "2025-09-20"
+    }
+   ],
+   "dart-m-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Anthony Wright",
+     "score": "6-1 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Thomas Nicholas Gadecki",
+     "score": "7-6(7-4) 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Brandon Carpico / Nikita Filin",
+     "score": "6-3 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Alexander Watanabe Eriksson / Lukas Maskow",
+     "score": "6-1 6-4",
+     "date": "2025-09-20"
+    }
+   ],
+   "ind-m-fp7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Michal Novansky",
+     "score": "3-6 7-6(8-6) 7-6(7-5)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Brendan Boland / Marino Jakic",
+     "score": "7-6(7-3) 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Manfredi Graziani / Aaron Sandler",
+     "score": "7-5 6-7(3-7) (12-10)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Nicholas Heng / Joseph Phillips",
+     "score": "7-6(7-5) 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "msst-m-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Michael Andre",
+     "score": "3-6 7-6(8-6) 7-6(7-5)",
+     "date": "2025-09-20"
+    }
+   ],
+   "haw-m-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "David Saye",
+     "score": "7-6(9-7) 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Gus Tettamble",
+     "score": "4-6 6-4 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Vasco Prata / Ivan Dreycopp",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Hiiro Sakamoto / Luciano Alcocer",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    }
+   ],
+   "msu-m-fp276": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Timothy Li",
+     "score": "7-6(9-7) 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "William Manning",
+     "score": "6-3 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "msu-m-h10": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Alejandro Melero",
+     "score": "6-3 3-6 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Romain Gales",
+     "score": "6-3 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "ou-m-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Vuk Radjenovic",
+     "score": "6-3 3-6 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Elijah Cham",
+     "score": "4-6 7-5 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Yair Sarouk / Kabeer Kapasi",
+     "score": "7-6(7-5) 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Taym Alazmeh / Danial Rakhmatullayev",
+     "score": "6-1 3-6 (10-6)",
+     "date": "2025-09-23"
+    }
+   ],
+   "prin-m-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Danial Rakhmatullayev",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Timothy Carlsson Seger / Victor Tosetto",
+     "score": "7-6(7-1) 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Brandon Carpico / Nikita Filin",
+     "score": "6-7(10-12) 6-3 (10-8)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Taym Alazmeh / Danial Rakhmatullayev",
+     "score": "6-3 1-6 (10-5)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Dhakshineswar Suresh / Andrew Delgado",
+     "score": "7-6(9-7) 7-6(13-11)",
+     "date": "2025-09-27"
+    }
+   ],
+   "msu-m-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Landon Ardila",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Perry Gregg",
+     "score": "4-6 6-1 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Keegan Rice / Jangjun Kim",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Eric Padgham / Ben Weintraub",
+     "score": "7-6(7-4) 6-0",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Santiago Giamichelle / Derrick Chen",
+     "score": "6-7(2-7) 6-1 (10-7)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Moritz Kudernatsch / Maxime Dubouch",
+     "score": "6-4 3-6 (10-6)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Asahi Harazaki / Alejandro Melero",
+     "score": "6-1 3-6 (10-6)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Spencer Johnson / Emon van Loben Sels",
+     "score": "6-2 2-6 (10-5)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Paul Inchauspe / Landon Ardila",
+     "score": "6-3 1-6 (10-5)",
+     "date": "2025-09-26"
+    }
+   ],
+   "tulsa-m-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Mikael Arseneault",
+     "score": "1-6 6-2 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Kornel Halmos",
+     "score": "6-4 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Jay Friend / Pepijn Bastiaansen",
+     "score": "5-7 6-2 (10-7)",
+     "date": "2025-09-22"
+    }
+   ],
+   "uk-m-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Calum Jestin",
+     "score": "1-6 6-2 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Filip Gustafsson",
+     "score": "7-6(7-5) 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Gabriele Vulpitta",
+     "score": "6-2 3-6 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "mem-m-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Hod'Abalo Isak Padio",
+     "score": "6-3 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Will Pellegrini / Myles Peterson",
+     "score": "6-3 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Santiago Giamichelle / Derrick Chen",
+     "score": "6-1 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "ou-m-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Dario Ciobotaru",
+     "score": "1-6 6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Guglielmo Verdese",
+     "score": "6-1 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Tanapatt Nirundorn / Henry Jefferson",
+     "score": "7-6(7-4) 7-5",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Zsombor Velcz / Connor Henry Van Schalkwyk",
+     "score": "6-7(6-8) 6-3 (10-8)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Manfredi Graziani / Aaron Sandler",
+     "score": "6-4 7-6(7-1)",
+     "date": "2025-09-26"
+    }
+   ],
+   "neb-m-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Gabriele Vulpitta",
+     "score": "6-4 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Jangjun Kim",
+     "score": "6-2 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Santiago Giamichelle / Derrick Chen",
+     "score": "1-6 6-4 (13-11)",
+     "date": "2025-09-20"
+    }
+   ],
+   "uga-m-p8": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Henry Lamchinniah",
+     "score": "6-4 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Roberto Ferrer Guimaraes",
+     "score": "6-2 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Mikael Arseneault",
+     "score": "6-2 3-6 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Dominique Rolland",
+     "score": "6-3 6-1",
+     "date": "2025-09-22"
+    }
+   ],
+   "miami-m-fp78": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Emilio Vila",
+     "score": "6-2 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Dario Ciobotaru",
+     "score": "1-6 7-5 6-1",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Fryderyk Lechno Wasiutynski",
+     "score": "6-4 6-0",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Arman Zamani / Louis Bowden",
+     "score": "6-3 7-6(10-8)",
+     "date": "2025-09-20"
+    }
+   ],
+   "nd-m-fp152": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Calin Stirbu",
+     "score": "6-4 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Danial Rakhmatullayev",
+     "score": "4-6 6-1 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Henrik Bladelius",
+     "score": "7-6(7-4) 6-1",
+     "date": "2025-09-21"
+    }
+   ],
+   "okst-m-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Roberto Ferrer Guimaraes",
+     "score": "1-6 6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Mehdi Sadaoui",
+     "score": "6-1 6-4",
+     "date": "2025-09-20"
+    }
+   ],
+   "msst-m-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Nicolas Kobelt",
+     "score": "1-6 6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Gabriele Vulpitta",
+     "score": "6-2 7-5",
+     "date": "2025-09-21"
+    }
+   ],
+   "ala-m-p6": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Julian Alonso Vivanco",
+     "score": "6-3 7-6(7-4)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Connor Kruger / Minh Tuan Dinh Viet",
+     "score": "6-7(6-8) 6-2 (10-6)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Hamza El Amine / Walid Ahouda",
+     "score": "3-6 6-1 (10-4)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Aidan Kim / Bryce Nakashima",
+     "score": "6-1 2-6 (13-11)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Matthew Rankin / Nicolas Arseneault",
+     "score": "6-7(4-7) 6-4 (10-8)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Sean Daryabeigi / Lucas Andrade da Silva",
+     "score": "7-6(7-4) 7-5",
+     "date": "2025-09-23"
+    }
+   ],
+   "tcu-m-fp314": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Matic Kriznik",
+     "score": "6-3 7-6(7-4)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Anthony Wright",
+     "score": "7-5 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Hod'Abalo Isak Padio",
+     "score": "6-1 3-6 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Gabriele Brancatelli",
+     "score": "6-3 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Jack Anthrop",
+     "score": "6-3 6-1",
+     "date": "2025-09-23"
+    }
+   ],
+   "miami-m-fp80": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Lars Johann",
+     "score": "7-5 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Nicolas Kobelt",
+     "score": "6-1 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Sean Daryabeigi / Lucas Andrade da Silva",
+     "score": "6-2 6-3",
+     "date": "2025-09-20"
+    }
+   ],
+   "miami-m-fp82": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Lenn Luemkemann",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Sean Daryabeigi / Lucas Andrade da Silva",
+     "score": "6-2 6-3",
+     "date": "2025-09-20"
+    }
+   ],
+   "cal-m-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Saud Alhogbani",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Henrik Bladelius",
+     "score": "7-5 5-7 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Yair Sarouk / Kabeer Kapasi",
+     "score": "5-7 6-3 (10-8)",
+     "date": "2025-09-20"
+    }
+   ],
+   "usf-m-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "William Manning",
+     "score": "6-1 6-3",
+     "date": "2025-09-20"
+    }
+   ],
+   "ncst-m-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Agustin  Cuellar",
+     "score": "6-1 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "David Saye",
+     "score": "6-3 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Kevin Edengren",
+     "score": "6-3 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Orel Kimhi",
+     "score": "6-3 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Jonah Braswell",
+     "score": "6-1 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Lars Johann / Aleksi Lofman",
+     "score": "6-7(7-9) 6-3 (10-8)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Diogo Morais",
+     "score": "6-1 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Eli Stephenson",
+     "score": "6-3 6-4",
+     "date": "2025-09-25"
+    }
+   ],
+   "fla-m-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Louis Bowden",
+     "score": "6-3 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Vasco Prata",
+     "score": "6-4 3-6 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Romain Gales",
+     "score": "6-3 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Bruno Nhavene / Oscar Lacides",
+     "score": "7-6(7-4) 7-5",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Billy Blaydes / Freddy Blaydes",
+     "score": "6-2 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Lucas Brown / Sebastian Gorzny",
+     "score": "7-6(7-4) 7-6(7-5)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Benito Sanchez Martinez / Petar Jovanovic",
+     "score": "6-4 6-1",
+     "date": "2025-09-27"
+    }
+   ],
+   "bay-m-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Tanapatt Nirundorn",
+     "score": "6-3 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Nacho Serra Sanchez / Rafael Segado Esteve",
+     "score": "6-3 7-6(10-8)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Marko Mesarovic / Edoardo Cherie Ligniere",
+     "score": "7-5 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "rice-m-fp16": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Henrik Bladelius",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Lenn Luemkemann / Fryderyk Lechno Wasiutynski",
+     "score": "5-7 6-3 (10-8)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Asahi Harazaki / Alejandro Melero",
+     "score": "7-6(7-5) 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Lars Johann / Aleksi Lofman",
+     "score": "6-2 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Romain Gales / Viktor Markov",
+     "score": "8-7(7-5)",
+     "date": "2025-09-23"
+    }
+   ],
+   "clem-m-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Kabeer Kapasi",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Lenn Luemkemann",
+     "score": "7-5 5-7 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Perry Gregg",
+     "score": "7-6(7-4) 6-1",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Ioan Alexandru Chirita",
+     "score": "7-5 2-6 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Timothy Carlsson Seger",
+     "score": "6-2 3-6 7-6(7-4)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Spencer Johnson / Emon van Loben Sels",
+     "score": "6-1 7-6(7-0)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Santiago Giamichelle / Derrick Chen",
+     "score": "6-3 4-6 (10-4)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Timothy Carlsson Seger / Victor Tosetto",
+     "score": "6-1 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-SF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Khololwam Montsi / Alexander Frusina",
+     "score": "6-3 6-4",
+     "date": "2025-09-27"
+    }
+   ],
+   "dart-m-p8": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Ian Bracks",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Saahith Jayaraman",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Brandon Carpico / Nikita Filin",
+     "score": "6-3 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Alexander Watanabe Eriksson / Lukas Maskow",
+     "score": "6-1 6-4",
+     "date": "2025-09-20"
+    }
+   ],
+   "okst-m-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Henry Ren",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Santiago Giamichelle",
+     "score": "4-6 6-2 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Nicholas Heng / Joseph Phillips",
+     "score": "3-6 7-6(7-5) (10-8)",
+     "date": "2025-09-20"
+    }
+   ],
+   "uga-m-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Brandon Carpico",
+     "score": "7-6(8-6) 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Ian Bracks",
+     "score": "4-6 6-2 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Edouard Aubert",
+     "score": "6-2 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Dominique Rolland",
+     "score": "7-6(7-4) 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Henry Lamchinniah / Leo Lopez Linquet",
+     "score": "1-6 6-4 (13-11)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Luis Llorens Saracho / Peter Nad",
+     "score": "6-4 3-6 (10-3)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Kacper Szymkowiak",
+     "score": "7-6(7-5) 6-4",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Taym Alazmeh / Danial Rakhmatullayev",
+     "score": "6-7(2-7) 6-1 (10-7)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Spencer Johnson",
+     "score": "5-7 6-4 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Leandro Zgraggen / Obrad Markovski",
+     "score": "6-1 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Togan Tokac / Tiago Pires",
+     "score": "6-4 6-7(4-7) (10-7)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Aidan Kim",
+     "score": "6-4 6-3",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Noa Vukadin / Henrik Bladelius",
+     "score": "6-3 4-6 (10-4)",
+     "date": "2025-09-25"
+    }
+   ],
+   "osu-m-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Santiago Giamichelle",
+     "score": "7-6(8-6) 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Miles Groom / Henry Ren",
+     "score": "6-3 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Antonio Prat / Jakub Kroslak",
+     "score": "6-4 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Devin Badenhorst / Luc Koenig",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Niels Ratiu / Chris Xu",
+     "score": "6-2 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Luis Felipe Miguel / Erik Schiessl",
+     "score": "6-3 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Paul Inchauspe / Landon Ardila",
+     "score": "6-7(10-12) 6-3 (10-8)",
+     "date": "2025-09-25"
+    }
+   ],
+   "uga-m-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Reiya Komagata",
+     "score": "6-2 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Hod'Abalo Isak Padio",
+     "score": "6-4 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Henry Lamchinniah / Leo Lopez Linquet",
+     "score": "1-6 6-4 (13-11)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Luis Llorens Saracho / Peter Nad",
+     "score": "6-4 3-6 (10-3)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Taym Alazmeh / Danial Rakhmatullayev",
+     "score": "6-7(2-7) 6-1 (10-7)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Leandro Zgraggen / Obrad Markovski",
+     "score": "6-1 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Togan Tokac / Tiago Pires",
+     "score": "6-4 6-7(4-7) (10-7)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Noa Vukadin / Henrik Bladelius",
+     "score": "6-3 4-6 (10-4)",
+     "date": "2025-09-25"
+    }
+   ],
+   "tulsa-m-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Derrick Chen",
+     "score": "6-2 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Freddy Blaydes",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Ondrej Horak / Karim Al-Amin",
+     "score": "6-1 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Luis Llorens Saracho / Peter Nad",
+     "score": "6-7(5-7) 6-4 (12-10)",
+     "date": "2025-09-23"
+    }
+   ],
+   "wisc-m-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Marino Jakic",
+     "score": "6-4 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Facundo Yunis",
+     "score": "6-4 6-7(7-9) 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Santiago Giamichelle",
+     "score": "6-2 7-5",
+     "date": "2025-09-21"
+    }
+   ],
+   "ark-m-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Nemanja Stefanovic",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Wil Jenkins",
+     "score": "6-3 6-7(4-7) 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Taym Alazmeh / Danial Rakhmatullayev",
+     "score": "7-6(7-4) 6-0",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Antonio Prat / Jakub Kroslak",
+     "score": "4-6 6-3 (12-10)",
+     "date": "2025-09-23"
+    }
+   ],
+   "wash-m-p6": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Cyrus Mahjoob",
+     "score": "6-4 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Alexandre Verlaguet",
+     "score": "4-6 6-2 7-6(7-1)",
+     "date": "2025-09-21"
+    }
+   ],
+   "nw-m-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Soham Purohit",
+     "score": "6-4 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Leo Lopez Linquet",
+     "score": "6-2 7-6(7-1)",
+     "date": "2025-09-20"
+    }
+   ],
+   "fla-m-p10": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Alejandro Gandini",
+     "score": "6-3 7-6(7-3)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Siwanat Auytayakul",
+     "score": "6-4 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Andrej Loncarevic",
+     "score": "6-4 7-6(8-6)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Keegan Rice",
+     "score": "6-1 7-5",
+     "date": "2025-09-22"
+    }
+   ],
+   "rice-m-fp15": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Siwanat Auytayakul",
+     "score": "6-4 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Martin Borisiouk / Jules Leroux",
+     "score": "6-7(7-9) 6-3 (10-6)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Christophe Clement / Gianluca Carlini",
+     "score": "6-4 6-4",
+     "date": "2025-09-23"
+    }
+   ],
+   "clt-m-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Andrej Loncarevic",
+     "score": "6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Lukas Maskow",
+     "score": "6-4 6-0",
+     "date": "2025-09-20"
+    }
+   ],
+   "lsu-m-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Andres Medus",
+     "score": "6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Nathan Cox",
+     "score": "4-6 7-6(7-2) 7-6(7-5)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Andreas Timini",
+     "score": "6-4 7-6(8-6)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Sam  Landau",
+     "score": "6-4 6-0",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Sasha Rozin",
+     "score": "7-6(7-5) 7-6(7-4)",
+     "date": "2025-09-23"
+    }
+   ],
+   "duke-m-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Facundo Yunis",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Henry Ren",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    }
+   ],
+   "ind-m-fp9": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Saahith Jayaraman",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Edouard Aubert",
+     "score": "6-4 6-7(7-9) 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Trevor Svajda / Georgi Georgiev",
+     "score": "6-4 3-6 (13-11)",
+     "date": "2025-09-24"
+    }
+   ],
+   "duke-m-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Jeri Lassila",
+     "score": "6-4 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Niels Ratiu",
+     "score": "5-7 6-4 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "neb-m-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Alexander Visser",
+     "score": "6-4 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Jonasz Dziopak",
+     "score": "6-2 6-3",
+     "date": "2025-09-20"
+    }
+   ],
+   "uk-m-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Alejandro Jacome",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Ondrej Horak",
+     "score": "6-3 6-0",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Niels Ratiu",
+     "score": "6-4 4-6 6-0",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Tiago Silva",
+     "score": "6-4 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Dylan Dietrich",
+     "score": "6-4 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Sean Daryabeigi / Lucas Andrade da Silva",
+     "score": "7-5 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Roger Pascual Ferra",
+     "score": "7-6(7-5) 6-1",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "William Manning",
+     "score": "6-3 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Keegan Rice",
+     "score": "7-6(10-8) 6-0",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Jakub Vrba",
+     "score": "7-6(7-3) 6-7(7-9) 6-4",
+     "date": "2025-09-26"
+    }
+   ],
+   "wich-m-fp91": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Eli Stephenson",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Rodrigo Santiago Arraez",
+     "score": "5-7 6-2 6-4",
+     "date": "2025-09-20"
+    }
+   ],
+   "tex-m-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Karim Al-Amin",
+     "score": "7-5 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Preston Stearns",
+     "score": "7-6(7-4) 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "tex-m-p10": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Kornel Halmos",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Milos Mikovic",
+     "score": "6-3 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Bryan Hernandez Cortes",
+     "score": "6-2 7-6(7-3)",
+     "date": "2025-09-21"
+    }
+   ],
+   "dart-m-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Lucas Marionneau",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Calum Jestin",
+     "score": "6-4 6-3",
+     "date": "2025-09-20"
+    }
+   ],
+   "lou-m-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Edoardo Cherie Ligniere",
+     "score": "3-6 7-5 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Francisco Llanes",
+     "score": "6-4 3-6 7-6(7-3)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Alexandre Verlaguet",
+     "score": "6-2 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Vit Kalina / Matic Kriznik",
+     "score": "3-6 6-1 (10-4)",
+     "date": "2025-09-22"
+    }
+   ],
+   "clem-m-fp327": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Hamza El Amine",
+     "score": "3-6 7-5 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Lukas Palovic / Arsene Pougault",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Alexander Bernard / Alex Okonkwo",
+     "score": "5-7 6-3 (10-6)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Arman Zamani / Louis Bowden",
+     "score": "7-5 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Lars Johann / Aleksi Lofman",
+     "score": "5-7 7-6(7-4) (10-7)",
+     "date": "2025-09-23"
+    }
+   ],
+   "usf-m-fp444": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Kyle McNally",
+     "score": "7-5 4-6 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Hamza El Amine",
+     "score": "6-4 3-6 7-6(7-3)",
+     "date": "2025-09-21"
+    }
+   ],
+   "nd-m-p6": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Nathan Cox",
+     "score": "6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Santiago Giamichelle / Derrick Chen",
+     "score": "6-4 3-6 (10-3)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Connor Thomas Doig / Reiya Komagata",
+     "score": "6-7(5-7) 6-4 (12-10)",
+     "date": "2025-09-23"
+    }
+   ],
+   "van-m-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Peter Nad",
+     "score": "6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Andrej Loncarevic",
+     "score": "4-6 7-6(7-2) 7-6(7-5)",
+     "date": "2025-09-21"
+    }
+   ],
+   "usf-m-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Jules Leroux",
+     "score": "6-1 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Alejandro Melero",
+     "score": "4-6 7-5 6-4",
+     "date": "2025-09-20"
+    }
+   ],
+   "ncst-m-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Elijah Cham",
+     "score": "6-1 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Alexander Watanabe Eriksson",
+     "score": "7-6(7-5) 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Petro Kuzmenok",
+     "score": "6-3 2-6 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Santiago Navarro / Petro Kuzmenok",
+     "score": "6-7(7-9) 6-3 (10-6)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Alexander Bernard / Alex Okonkwo",
+     "score": "7-6(7-3) 5-7 (10-4)",
+     "date": "2025-09-23"
+    }
+   ],
+   "neb-m-fp169": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Preston Stearns",
+     "score": "7-6(8-6) 4-6 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Jakub Kroslak",
+     "score": "6-2 4-6 7-6(7-5)",
+     "date": "2025-09-20"
+    }
+   ],
+   "osu-m-p11": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Joan Torres Espinosa",
+     "score": "7-6(8-6) 4-6 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Mariano Dedura-Palomero",
+     "score": "7-6(7-4) 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "William Jansen",
+     "score": "6-1 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Erik Schiessl",
+     "score": "6-4 3-6 6-2",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Manfredi Graziani / Aaron Sandler",
+     "score": "5-7 7-6(7-5) (10-2)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Lucas Brown / Sebastian Gorzny",
+     "score": "6-3 6-1",
+     "date": "2025-09-25"
+    }
+   ],
+   "rice-m-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Jakub Jupa",
+     "score": "6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Hank Trondson",
+     "score": "6-4 6-7(4-7) 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Jules Leroux",
+     "score": "6-3 2-6 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Lucas Andrade da Silva",
+     "score": "7-6(7-3) 4-6 7-6(7-5)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Martin Borisiouk / Jules Leroux",
+     "score": "6-7(7-9) 6-3 (10-6)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Christophe Clement / Gianluca Carlini",
+     "score": "6-4 6-4",
+     "date": "2025-09-23"
+    }
+   ],
+   "miami-m-fp79": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Hank Trondson",
+     "score": "6-3 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Joan Torres Espinosa",
+     "score": "6-2 4-6 7-6(7-5)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Brandon Carpico / Nikita Filin",
+     "score": "6-4 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Eric Padgham / Ben Weintraub",
+     "score": "4-6 6-3 (12-10)",
+     "date": "2025-09-23"
+    }
+   ],
+   "lou-m-fp69": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Rafael Segado Esteve",
+     "score": "6-0 7-6(7-5)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Daniel Phillips",
+     "score": "6-3 7-5",
+     "date": "2025-09-21"
+    }
+   ],
+   "miami-m-fp81": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Andre Steinbach",
+     "score": "6-0 7-6(7-5)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Rudy Ceccon",
+     "score": "6-1 7-6(7-4)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Arman Zamani / Louis Bowden",
+     "score": "6-3 7-6(10-8)",
+     "date": "2025-09-20"
+    }
+   ],
+   "unc-m-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Gus Tettamble",
+     "score": "4-6 7-5 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Alexander Visser",
+     "score": "5-7 6-4 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Eli Stephenson",
+     "score": "6-4 4-6 6-0",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Jay Fairclough / Giovanni Branchetti",
+     "score": "6-4 6-7(5-7) (10-3)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Togan Tokac / Tiago Pires",
+     "score": "6-4 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Brandon Carpico / Nikita Filin",
+     "score": "6-2 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "tulsa-m-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Niels Ratiu",
+     "score": "4-6 7-5 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Timothy Li",
+     "score": "4-6 6-4 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Jay Friend / Pepijn Bastiaansen",
+     "score": "5-7 6-2 (10-7)",
+     "date": "2025-09-22"
+    }
+   ],
+   "nd-m-p9": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Carl Roothman",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Ondrej Horak / Karim Al-Amin",
+     "score": "6-4 4-6 (10-6)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Nicholas Godsick / Hudson Rivera",
+     "score": "6-4 4-6 (10-4)",
+     "date": "2025-09-25"
+    }
+   ],
+   "bay-m-fp63": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Manuel Plunger",
+     "score": "7-6(7-3) 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Nikolay Sysoev",
+     "score": "6-4 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Brandon Carpico / Nikita Filin",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Timothy Carlsson Seger / Victor Tosetto",
+     "score": "6-4 4-6 (15-13)",
+     "date": "2025-09-25"
+    }
+   ],
+   "clem-m-fp162": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Luc Koenig",
+     "score": "7-6(7-3) 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Carl Roothman",
+     "score": "2-6 6-3 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "scu-m-p9": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Tarek Erlewein",
+     "score": "4-6 6-4 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Jules Leroux",
+     "score": "7-6(7-5) 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Miles Groom / Henry Ren",
+     "score": "6-1 6-4",
+     "date": "2025-09-20"
+    }
+   ],
+   "msst-m-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Glib Sekachov",
+     "score": "5-7 6-3 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Aleksa Pisaric",
+     "score": "6-7(4-7) 6-0 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Lucas Marionneau",
+     "score": "6-2 7-6(7-3)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Connor Henry Van Schalkwyk",
+     "score": "7-5 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Patrik Meszaros",
+     "score": "7-6(7-1) 7-6(7-5)",
+     "date": "2025-09-23"
+    }
+   ],
+   "ariz-m-fp222": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Bryan Hernandez Cortes",
+     "score": "5-7 6-3 6-4",
+     "date": "2025-09-20"
+    }
+   ],
+   "tulsa-m-p8": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Jonasz Dziopak",
+     "score": "6-3 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Pepijn Bastiaansen",
+     "score": "6-3 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Paul Inchauspe / Landon Ardila",
+     "score": "7-6(7-1) 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Devin Badenhorst / Luc Koenig",
+     "score": "6-4 4-6 (15-13)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Noa Vukadin / Henrik Bladelius",
+     "score": "6-1 6-4",
+     "date": "2025-09-26"
+    }
+   ],
+   "sc-m-p4": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Trevor Svajda",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Mehdi Sadaoui / Saud Alhogbani",
+     "score": "6-2 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Eli Stephenson / Jack Loutit",
+     "score": "7-5 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Vasco Prata / Ivan Dreycopp",
+     "score": "6-2 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Vit Kalina / Matic Kriznik",
+     "score": "7-6(7-4) 7-5",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Martin Borisiouk",
+     "score": "7-6(7-5) 6-1",
+     "date": "2025-09-25"
+    }
+   ],
+   "sc-m-p1": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Petro Kuzmenok",
+     "score": "7-6(7-3) 4-6 7-6(7-5)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Ozan Baris",
+     "score": "6-3 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Mehdi Sadaoui / Saud Alhogbani",
+     "score": "6-2 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Eli Stephenson / Jack Loutit",
+     "score": "7-5 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Khololwam Montsi",
+     "score": "6-4 3-6 7-6(7-4)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Vasco Prata / Ivan Dreycopp",
+     "score": "6-2 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Vit Kalina / Matic Kriznik",
+     "score": "7-6(7-4) 7-5",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Alex Okonkwo",
+     "score": "6-7(3-7) 6-1 6-2",
+     "date": "2025-09-25"
+    }
+   ],
+   "uva-m-p8": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Andreas Timini",
+     "score": "6-1 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Antoine Ghibaudo",
+     "score": "7-6(7-3) 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Taym Alazmeh / Danial Rakhmatullayev",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Zoran Ludoski",
+     "score": "6-1 6-1",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Sebastian Dominko",
+     "score": "4-6 7-5 7-5",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Eli Stephenson",
+     "score": "7-6(10-8) 6-0",
+     "date": "2025-09-26"
+    }
+   ],
+   "wisc-m-p6": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Georgi Georgiev",
+     "score": "7-5 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Raphael Vaksmann",
+     "score": "6-0 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Pepijn Bastiaansen",
+     "score": "6-2 1-6 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Nicholas Godsick",
+     "score": "4-6 7-6(7-4) 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Bryan Hernandez Cortes",
+     "score": "7-6(7-1) 7-6(7-5)",
+     "date": "2025-09-23"
+    }
+   ],
+   "smu-m-p6": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Patrik Meszaros",
+     "score": "7-5 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Lars Johann / Aleksi Lofman",
+     "score": "6-3 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Facundo Yunis / Jip van Assendelft",
+     "score": "6-4 3-6 (13-11)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Alejandro Gandini / Thomas Giles",
+     "score": "6-2 5-7 (11-9)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Luca Pow / Kacper Szymkowiak",
+     "score": "6-1 6-1",
+     "date": "2025-09-25"
+    }
+   ],
+   "neb-m-fp168": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Milos Mikovic",
+     "score": "6-7(4-7) 6-4 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Luc Koenig",
+     "score": "6-4 6-1",
+     "date": "2025-09-20"
+    }
+   ],
+   "asu-m-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Nikolay Sysoev",
+     "score": "6-7(4-7) 6-4 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Lucas Marionneau",
+     "score": "6-3 7-5",
+     "date": "2025-09-21"
+    }
+   ],
+   "ill-m-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Pepijn Bastiaansen",
+     "score": "3-6 6-4 6-4",
+     "date": "2025-09-20"
+    }
+   ],
+   "aub-m-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Aleksa Pisaric",
+     "score": "5-7 6-4 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Reiya Komagata",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Zsombor Velcz / Connor Henry Van Schalkwyk",
+     "score": "4-6 7-6(7-5) (10-7)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Tanapatt Nirundorn / Henry Jefferson",
+     "score": "6-2 6-2",
+     "date": "2025-09-25"
+    }
+   ],
+   "pepp-m-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Freddy Blaydes",
+     "score": "5-7 6-4 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Bryan Hernandez Cortes",
+     "score": "6-7(4-7) 6-0 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "haw-m-p9": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Vlad Breazu",
+     "score": "6-4 7-6(7-0)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Vasco Prata / Ivan Dreycopp",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Hiiro Sakamoto / Luciano Alcocer",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Bryce Nakashima",
+     "score": "6-2 6-2",
+     "date": "2025-09-25"
+    }
+   ],
+   "msst-m-p9": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Constantinos Djakouris",
+     "score": "6-3 3-6 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Patrik Meszaros",
+     "score": "6-0 7-5",
+     "date": "2025-09-21"
+    }
+   ],
+   "unc-m-fp319": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Raphael Vaksmann",
+     "score": "6-3 3-6 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Eric Padgham",
+     "score": "6-1 6-1",
+     "date": "2025-09-20"
+    }
+   ],
+   "rice-m-fp17": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Lenn Luemkemann / Fryderyk Lechno Wasiutynski",
+     "score": "5-7 6-3 (10-8)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Asahi Harazaki / Alejandro Melero",
+     "score": "7-6(7-5) 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Lars Johann / Aleksi Lofman",
+     "score": "6-2 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Romain Gales / Viktor Markov",
+     "score": "8-7(7-5)",
+     "date": "2025-09-23"
+    }
+   ],
+   "tuln-m-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Mans Dahlberg",
+     "score": "6-4 5-7 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Andre Steinbach",
+     "score": "6-3 7-5",
+     "date": "2025-09-21"
+    }
+   ],
+   "uva-m-p11": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Daniel Phillips",
+     "score": "6-4 5-7 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Baran Soyler",
+     "score": "6-4 7-5",
+     "date": "2025-09-20"
+    }
+   ],
+   "ark-m-p8": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Loren Byers",
+     "score": "6-3 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Marko Mesarovic / Edoardo Cherie Ligniere",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Connor Kruger / Minh Tuan Dinh Viet",
+     "score": "7-5 7-6(7-5)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Top Nidunjianzan",
+     "score": "6-2 6-3",
+     "date": "2025-09-25"
+    }
+   ],
+   "ark-m-p2": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Marko Mesarovic / Edoardo Cherie Ligniere",
+     "score": "6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Connor Kruger / Minh Tuan Dinh Viet",
+     "score": "7-5 7-6(7-5)",
+     "date": "2025-09-20"
+    }
+   ],
+   "ind-m-p6": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Andrej Loncarevic",
+     "score": "6-4 6-0",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Brendan Boland / Marino Jakic",
+     "score": "7-6(7-3) 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Manfredi Graziani / Aaron Sandler",
+     "score": "7-5 6-7(3-7) (12-10)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Duncan Chan",
+     "score": "6-2 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Nicholas Heng / Joseph Phillips",
+     "score": "7-6(7-5) 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "ark-m-p7": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Michael Andre / Sam  Landau",
+     "score": "7-6(7-3) 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Jay Fairclough / Giovanni Branchetti",
+     "score": "6-3 6-4",
+     "date": "2025-09-20"
+    }
+   ],
+   "uk-m-p2": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Romain Gales",
+     "score": "4-6 7-6(7-3) 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Anthony Wright / Roan Jones",
+     "score": "6-4 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Sebastian Eriksson / Oliver Ojakaar",
+     "score": "6-4 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Orel Kimhi",
+     "score": "3-6 6-2 6-1",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Vit Kalina / Matic Kriznik",
+     "score": "6-7(4-7) 6-4 (10-8)",
+     "date": "2025-09-21"
+    }
+   ],
+   "unc-m-fp318": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Connor Henry Van Schalkwyk",
+     "score": "6-4 7-6(7-4)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Matthew Rankin / Nicolas Arseneault",
+     "score": "6-4 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Nikita Volonski / Takeshi Taco",
+     "score": "3-6 6-4 (10-4)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Petar Jovanovic",
+     "score": "6-4 6-3",
+     "date": "2025-09-25"
+    }
+   ],
+   "bay-m-fp221": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Nacho Serra Sanchez / Rafael Segado Esteve",
+     "score": "6-3 7-6(10-8)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Marko Mesarovic / Edoardo Cherie Ligniere",
+     "score": "7-5 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "gonz-m-p2": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Niels Ratiu / Chris Xu",
+     "score": "6-4 6-7(5-7) (10-3)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Gabriel Elicha Navas / Brendan Boland",
+     "score": "6-3 6-4",
+     "date": "2025-09-20"
+    }
+   ],
+   "gonz-m-fp5": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Niels Ratiu / Chris Xu",
+     "score": "6-4 6-7(5-7) (10-3)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Gabriel Elicha Navas / Brendan Boland",
+     "score": "6-3 6-4",
+     "date": "2025-09-20"
+    }
+   ],
+   "tulsa-m-p9": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Michael Minasyan",
+     "score": "6-3 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Luca Pow",
+     "score": "6-2 6-2",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Benito Sanchez Martinez / Petar Jovanovic",
+     "score": "6-3 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Anthony Wright / Roan Jones",
+     "score": "3-6 6-4 (10-4)",
+     "date": "2025-09-20"
+    }
+   ],
+   "tulsa-m-p6": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Alexander Bernard",
+     "score": "4-6 6-1 6-0",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Benito Sanchez Martinez / Petar Jovanovic",
+     "score": "6-3 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Anthony Wright / Roan Jones",
+     "score": "3-6 6-4 (10-4)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Alessio Vasquez Gehrke",
+     "score": "6-4 6-1",
+     "date": "2025-09-25"
+    }
+   ],
+   "tcu-m-fp30": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Erik Schiessl",
+     "score": "6-2 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Eli Stephenson",
+     "score": "7-6(7-5) 6-1",
+     "date": "2025-09-23"
+    }
+   ],
+   "penn-m-fp284": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Mario Martinez Serrano",
+     "score": "6-0 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Michael Andre / Sam  Landau",
+     "score": "7-5 6-7(3-7) (12-10)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Luis Felipe Miguel",
+     "score": "6-1 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Jack Anthrop / Preston Stearns",
+     "score": "5-7 7-6(7-5) (10-2)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Jay Friend / Pepijn Bastiaansen",
+     "score": "1-6 6-3 (10-4)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Timofey Stepanov / Tiago Silva",
+     "score": "3-6 7-5 (10-5)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Bruno Nhavene / Oscar Lacides",
+     "score": "6-4 7-6(7-1)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-F",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Khololwam Montsi / Alexander Frusina",
+     "score": "7-6(7-4) 4-6 (10-4)",
+     "date": "2025-09-20"
+    }
+   ],
+   "msst-m-p6": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Manfredi Graziani",
+     "score": "6-0 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Devin Badenhorst",
+     "score": "6-3 4-6 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Romain Gales",
+     "score": "6-2 6-4",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Jeremy Jin",
+     "score": "6-3 3-6 7-6(7-4)",
+     "date": "2025-09-25"
+    }
+   ],
+   "miami-m-fp77": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Sebastian Sec",
+     "score": "6-4 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Brandon Carpico / Nikita Filin",
+     "score": "6-4 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Matthew Forbes",
+     "score": "6-0 6-2",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Eric Padgham / Ben Weintraub",
+     "score": "4-6 6-3 (12-10)",
+     "date": "2025-09-23"
+    }
+   ],
+   "ariz-m-fp224": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Tiago Pires",
+     "score": "6-0 7-6(7-1)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Keegan Rice",
+     "score": "6-1 6-1",
+     "date": "2025-09-23"
+    }
+   ],
+   "ucla-m-p3": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Nikita Filin",
+     "score": "7-6(7-3) 6-2",
+     "date": "2025-09-22"
+    }
+   ],
+   "aub-m-p1": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Matthew Forbes",
+     "score": "6-2 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Tiago Pires",
+     "score": "6-7(4-7) 7-5 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Zsombor Velcz / Connor Henry Van Schalkwyk",
+     "score": "4-6 7-6(7-5) (10-7)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Tanapatt Nirundorn / Henry Jefferson",
+     "score": "6-2 6-2",
+     "date": "2025-09-25"
+    }
+   ],
+   "cal-m-fp1": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Eli Stephenson",
+     "score": "6-4 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Carl Roothman",
+     "score": "6-3 6-2",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Lucas Brown / Sebastian Gorzny",
+     "score": "4-6 6-4 (10-4)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Manfredi Graziani / Aaron Sandler",
+     "score": "3-6 7-5 (10-5)",
+     "date": "2025-09-25"
+    }
+   ],
+   "tex-m-p11": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Jakub Vrba",
+     "score": "3-6 7-6(7-5) 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Matthew Rankin / Nicolas Arseneault",
+     "score": "6-4 7-5",
+     "date": "2025-09-22"
+    }
+   ],
+   "ark-m-p6": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Oliver Ojakaar",
+     "score": "3-6 7-6(7-5) 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Paul Inchauspe",
+     "score": "6-4 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Andrew Delgado",
+     "score": "1-6 6-1 6-4",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Albert Pedrico Kravtsov / Cosme Rolland De Ravel",
+     "score": "7-6(13-11) 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Henry Jefferson",
+     "score": "6-4 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Khololwam Montsi / Alexander Frusina",
+     "score": "6-2 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Eli Stephenson",
+     "score": "7-6(7-3) 6-7(7-9) 6-4",
+     "date": "2025-09-26"
+    }
+   ],
+   "stan-m-fp423": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Patrik Meszaros",
+     "score": "4-6 7-6(7-4) 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Nikita Filin",
+     "score": "6-3 4-6 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Dhakshineswar Suresh / Andrew Delgado",
+     "score": "6-1 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Sebastian Dominko / Chase Thompson",
+     "score": "6-4 4-6 (10-4)",
+     "date": "2025-09-25"
+    }
+   ],
+   "osu-m-fp278": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Carl Roothman",
+     "score": "6-4 6-0",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Henry Jefferson",
+     "score": "6-3 7-5",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Julian Alonso Vivanco",
+     "score": "6-3 6-1",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Manfredi Graziani / Aaron Sandler",
+     "score": "5-7 7-6(7-5) (10-2)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Paul Inchauspe",
+     "score": "7-5 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Lucas Brown / Sebastian Gorzny",
+     "score": "6-3 6-1",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Dylan Dietrich",
+     "score": "6-4 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Nikita Filin",
+     "score": "6-3 6-2",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-QF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Duncan Chan",
+     "score": "6-3 6-4",
+     "date": "2025-09-27"
+    }
+   ],
+   "fsu-m-fp100": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Julian Alonso Vivanco",
+     "score": "6-3 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Alex Finkelstein",
+     "score": "3-6 6-3 6-2",
+     "date": "2025-09-23"
+    }
+   ],
+   "tulsa-m-p1": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Duncan Chan",
+     "score": "6-2 3-6 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Henrik Bladelius",
+     "score": "6-2 3-6 7-6(7-4)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Paul Inchauspe / Landon Ardila",
+     "score": "7-6(7-1) 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Devin Badenhorst / Luc Koenig",
+     "score": "6-4 4-6 (15-13)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Noa Vukadin / Henrik Bladelius",
+     "score": "6-1 6-4",
+     "date": "2025-09-26"
+    }
+   ],
+   "tcu-m-p3": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Timothy Carlsson Seger",
+     "score": "6-2 3-6 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Amar Tahirovic",
+     "score": "6-3 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Sam  Landau",
+     "score": "6-2 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Nicolas Kotzen",
+     "score": "6-3 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Dhakshineswar Suresh",
+     "score": "4-6 6-4 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Alex Okonkwo",
+     "score": "6-1 6-3",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-QF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Jack Anthrop",
+     "score": "6-3 6-4",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-SF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Emon van Loben Sels",
+     "score": "6-3 2-6 6-3",
+     "date": "2025-09-28"
+    }
+   ],
+   "ariz-m-fp225": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Henry Jefferson",
+     "score": "6-2 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Andrej Loncarevic",
+     "score": "7-6(7-5) 7-6(7-4)",
+     "date": "2025-09-23"
+    }
+   ],
+   "wake-m-p8": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Moritz Kudernatsch",
+     "score": "6-4 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Santiago Giamichelle",
+     "score": "7-6(7-5) 6-4",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Ozan Baris / Matthew Forbes",
+     "score": "5-7 6-4 (10-8)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Trevor Svajda / Georgi Georgiev",
+     "score": "6-1 6-1",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Benito Sanchez Martinez / Petar Jovanovic",
+     "score": "6-4 6-3",
+     "date": "2025-09-26"
+    }
+   ],
+   "fsu-m-fp23": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Khololwam Montsi",
+     "score": "6-4 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Romain Gales / Viktor Markov",
+     "score": "6-3 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Manfredi Graziani",
+     "score": "6-1 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Brandon Carpico / Nikita Filin",
+     "score": "6-3 6-3",
+     "date": "2025-09-23"
+    }
+   ],
+   "tamu-m-n3": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Luis Felipe Miguel",
+     "score": "6-4 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Lucas Andrade da Silva",
+     "score": "6-4 3-6 7-6(7-4)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Alexander Bernard / Alex Okonkwo",
+     "score": "6-1 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Connor Smillie / Jakub Vrba",
+     "score": "6-2 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-SF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Noa Vukadin / Henrik Bladelius",
+     "score": "6-3 6-4",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-F",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Manfredi Graziani / Aaron Sandler",
+     "score": "7-6(7-4) 4-6 (10-4)",
+     "date": "2025-09-20"
+    }
+   ],
+   "ucsb-m-fp184": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Gabriele Vulpitta",
+     "score": "6-3 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Santiago Giamichelle",
+     "score": "7-6(7-4) 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Cosme Rolland De Ravel",
+     "score": "3-6 7-6(7-3) 7-6(7-4)",
+     "date": "2025-09-23"
+    }
+   ],
+   "tcu-m-fp104": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Fryderyk Lechno Wasiutynski",
+     "score": "6-2 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Dominique Rolland",
+     "score": "3-6 7-6(7-3) 7-6(7-4)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Connor Smillie / Jakub Vrba",
+     "score": "7-6(13-11) 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Alexander Bernard / Alex Okonkwo",
+     "score": "7-5 3-6 (11-9)",
+     "date": "2025-09-25"
+    }
+   ],
+   "ucsb-m-fp181": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Evan Burnett",
+     "score": "7-6(7-5) 6-0",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "William Manning",
+     "score": "6-1 6-3",
+     "date": "2025-09-23"
+    }
+   ],
+   "wisc-m-p7": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Nikita Volonski",
+     "score": "6-3 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Evan Burnett",
+     "score": "6-3 6-4",
+     "date": "2025-09-23"
+    }
+   ],
+   "tcu-m-fp28": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Alexandre Verlaguet",
+     "score": "4-6 6-3 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Henry Jefferson",
+     "score": "6-3 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Connor Smillie / Jakub Vrba",
+     "score": "7-6(13-11) 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Alexander Bernard / Alex Okonkwo",
+     "score": "7-5 3-6 (11-9)",
+     "date": "2025-09-25"
+    }
+   ],
+   "bay-m-fp67": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Bryan Hernandez Cortes",
+     "score": "7-5 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Roan Jones",
+     "score": "6-4 7-6(7-4)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "William Jansen",
+     "score": "7-6(10-8) 2-6 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Billy Blaydes / Freddy Blaydes",
+     "score": "4-6 7-6(7-5) (10-7)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Aidan Kim",
+     "score": "6-1 3-6 6-0",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Bruno Nhavene / Oscar Lacides",
+     "score": "6-7(6-8) 6-3 (10-8)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Bryce Nakashima",
+     "score": "6-4 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Ioan Alexandru Chirita",
+     "score": "6-3 6-3",
+     "date": "2025-09-26"
+    }
+   ],
+   "wake-m-p4": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Mikkel Zinder",
+     "score": "6-1 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Jeremy Jin",
+     "score": "6-3 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Nikita Volonski",
+     "score": "6-2 6-2",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Ozan Baris / Matthew Forbes",
+     "score": "5-7 6-4 (10-8)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Devin Badenhorst",
+     "score": "6-3 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Trevor Svajda / Georgi Georgiev",
+     "score": "6-1 6-1",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Benito Sanchez Martinez / Petar Jovanovic",
+     "score": "6-4 6-3",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Viktor Markov",
+     "score": "2-6 6-3 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Alex Okonkwo",
+     "score": "6-3 7-5",
+     "date": "2025-09-26"
+    }
+   ],
+   "uga-m-n8": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Preston Stearns",
+     "score": "6-1 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Connor Henry Van Schalkwyk",
+     "score": "7-6(10-8) 2-6 6-3",
+     "date": "2025-09-23"
+    }
+   ],
+   "bay-m-fp65": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Henrik Bladelius",
+     "score": "7-5 2-6 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Nicolas Kotzen",
+     "score": "6-1 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Jelani Sarr",
+     "score": "6-4 6-2",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Amar Tahirovic",
+     "score": "6-7(3-7) 7-6(7-3) 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Spencer Johnson",
+     "score": "6-1 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Connor Henry Van Schalkwyk",
+     "score": "6-3 6-3",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Aleksa Krivokapic",
+     "score": "6-4 6-4",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-QF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Emon van Loben Sels",
+     "score": "6-4 4-6 6-4",
+     "date": "2025-09-27"
+    }
+   ],
+   "smu-m-fp13": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Jelani Sarr",
+     "score": "3-6 6-4 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Gabriele Brancatelli",
+     "score": "3-6 6-3 6-2",
+     "date": "2025-09-23"
+    }
+   ],
+   "asu-m-p4": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Alex Finkelstein",
+     "score": "3-6 6-4 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Ioan Alexandru Chirita",
+     "score": "6-4 6-2",
+     "date": "2025-09-23"
+    }
+   ],
+   "smu-m-fp12": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Sean Daryabeigi",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Lars Johann / Aleksi Lofman",
+     "score": "6-3 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Facundo Yunis / Jip van Assendelft",
+     "score": "6-4 3-6 (13-11)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Matthew Forbes",
+     "score": "7-6(7-5) 3-6 7-6(8-6)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Alejandro Gandini / Thomas Giles",
+     "score": "6-2 5-7 (11-9)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Luca Pow / Kacper Szymkowiak",
+     "score": "6-1 6-1",
+     "date": "2025-09-25"
+    }
+   ],
+   "gt-m-fp427": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Aleksa Krivokapic",
+     "score": "6-4 6-7(3-7) 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Alejandro Gandini / Thomas Giles",
+     "score": "7-6(7-5) 4-6 (14-12)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Santiago Navarro / Petro Kuzmenok",
+     "score": "6-4 6-4",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Viktor Markov",
+     "score": "6-1 6-3",
+     "date": "2025-09-25"
+    }
+   ],
+   "tex-m-p6": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Benito Sanchez Martinez",
+     "score": "6-3 5-7 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Matthew Rankin / Nicolas Arseneault",
+     "score": "6-4 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Emon van Loben Sels",
+     "score": "7-6(10-8) 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Martin Borisiouk",
+     "score": "6-1 6-4",
+     "date": "2025-09-26"
+    }
+   ],
+   "osu-m-fp277": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Takeshi Taco",
+     "score": "4-6 6-1 6-0",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Marko Mesarovic / Edoardo Cherie Ligniere",
+     "score": "5-7 6-3 (10-6)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Khololwam Montsi / Alexander Frusina",
+     "score": "6-1 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Sebastian Gorzny",
+     "score": "6-2 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Martin Borisiouk / Jules Leroux",
+     "score": "7-6(7-3) 5-7 (10-4)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Albert Pedrico Kravtsov / Cosme Rolland De Ravel",
+     "score": "7-5 3-6 (11-9)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Dhakshineswar Suresh / Andrew Delgado",
+     "score": "3-6 7-6(7-4) (11-9)",
+     "date": "2025-09-26"
+    }
+   ],
+   "osu-m-p8": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Jack Loutit",
+     "score": "1-6 6-3 7-5",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Marko Mesarovic / Edoardo Cherie Ligniere",
+     "score": "5-7 6-3 (10-6)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Khololwam Montsi / Alexander Frusina",
+     "score": "6-1 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Martin Borisiouk / Jules Leroux",
+     "score": "7-6(7-3) 5-7 (10-4)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Albert Pedrico Kravtsov / Cosme Rolland De Ravel",
+     "score": "7-5 3-6 (11-9)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Dhakshineswar Suresh / Andrew Delgado",
+     "score": "3-6 7-6(7-4) (11-9)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Lucas Andrade da Silva",
+     "score": "6-7(3-7) 6-1 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Corey Craig",
+     "score": "6-3 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Luca Pow",
+     "score": "6-3 7-5",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Duncan Chan",
+     "score": "6-1 6-3",
+     "date": "2025-09-27"
+    }
+   ],
+   "clem-m-p5": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Alex Chang",
+     "score": "6-3 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Luis Felipe Miguel / Erik Schiessl",
+     "score": "6-3 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Yair Sarouk / Kabeer Kapasi",
+     "score": "8-7(7-5)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Christophe Clement",
+     "score": "6-1 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Luca Pow",
+     "score": "2-6 6-3 6-4",
+     "date": "2025-09-26"
+    }
+   ],
+   "nd-m-p7": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Santiago Giamichelle / Derrick Chen",
+     "score": "6-4 3-6 (10-3)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Connor Thomas Doig / Reiya Komagata",
+     "score": "6-7(5-7) 6-4 (12-10)",
+     "date": "2025-09-23"
+    }
+   ],
+   "ncst-m-fp370": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Matthew Forbes",
+     "score": "7-5 7-6(7-5)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Santiago Navarro / Petro Kuzmenok",
+     "score": "6-7(7-9) 6-3 (10-6)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Alexander Bernard / Alex Okonkwo",
+     "score": "7-6(7-3) 5-7 (10-4)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Sean Daryabeigi",
+     "score": "7-6(7-5) 6-1",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Sebastian Eriksson",
+     "score": "6-1 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Luis Carlos Alvarez Valdes",
+     "score": "6-3 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Sebastian Dominko",
+     "score": "6-2 6-2",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-QF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Jack Loutit",
+     "score": "7-6(7-1) 6-2",
+     "date": "2025-09-27"
+    }
+   ],
+   "ariz-m-fp226": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Hugo Car",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Gus Tettamble / Calum Jestin",
+     "score": "5-7 6-2 (10-7)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Luis Carlos Alvarez Valdes",
+     "score": "6-4 1-6 6-1",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Manfredi Graziani / Aaron Sandler",
+     "score": "1-6 6-3 (10-4)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Emon van Loben Sels",
+     "score": "7-5 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "QF",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Ozan Baris",
+     "score": "6-3 2-6 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Dylan Dietrich",
+     "score": "6-3 4-6 7-6(7-2)",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "F",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Aidan Kim",
+     "score": "6-2 6-4",
+     "date": "2025-09-28"
+    }
+   ],
+   "uk-m-p5": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Alex Okonkwo",
+     "score": "1-6 6-3 7-5",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Sean Daryabeigi / Lucas Andrade da Silva",
+     "score": "7-5 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Lucas Brown",
+     "score": "5-7 6-0 6-3",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Alex Chang",
+     "score": "6-1 6-3",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-QF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Martin Borisiouk",
+     "score": "7-6(7-1) 6-2",
+     "date": "2025-09-27"
+    }
+   ],
+   "penn-m-p8": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Michael Andre / Sam  Landau",
+     "score": "7-5 6-7(3-7) (12-10)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Jack Anthrop / Preston Stearns",
+     "score": "5-7 7-6(7-5) (10-2)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Jay Friend / Pepijn Bastiaansen",
+     "score": "1-6 6-3 (10-4)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Timofey Stepanov / Tiago Silva",
+     "score": "3-6 7-5 (10-5)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Bruno Nhavene / Oscar Lacides",
+     "score": "6-4 7-6(7-1)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-F",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Khololwam Montsi / Alexander Frusina",
+     "score": "7-6(7-4) 4-6 (10-4)",
+     "date": "2025-09-20"
+    }
+   ],
+   "fla-m-p6": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Luca Pow",
+     "score": "6-3 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Mario Martinez Serrano",
+     "score": "6-3 3-6 7-6(7-4)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Alex Chang",
+     "score": "5-7 7-6(7-4) 6-4",
+     "date": "2025-09-26"
+    }
+   ],
+   "prin-m-p3": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Jakub Vrba",
+     "score": "6-4 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Timothy Carlsson Seger / Victor Tosetto",
+     "score": "7-6(7-1) 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Jack Anthrop",
+     "score": "7-5 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Brandon Carpico / Nikita Filin",
+     "score": "6-7(10-12) 6-3 (10-8)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Taym Alazmeh / Danial Rakhmatullayev",
+     "score": "6-3 1-6 (10-5)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Dhakshineswar Suresh / Andrew Delgado",
+     "score": "7-6(9-7) 7-6(13-11)",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Alessio Vasquez Gehrke",
+     "score": "6-4 6-1",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Noa Vukadin",
+     "score": "6-4 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Kenta Miyoshi",
+     "score": "6-3 5-7 6-1",
+     "date": "2025-09-27"
+    }
+   ],
+   "wake-m-fp302": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Bryce Nakashima",
+     "score": "6-3 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Nicholas Godsick / Hudson Rivera",
+     "score": "6-1 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Vlad Breazu",
+     "score": "6-4 2-6 7-6(7-4)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Ondrej Horak / Karim Al-Amin",
+     "score": "6-4 7-6(7-4)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Duncan Chan",
+     "score": "4-6 6-4 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Alexander Bernard / Alex Okonkwo",
+     "score": "3-6 7-6(7-4) (11-9)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Paul Inchauspe / Landon Ardila",
+     "score": "7-6(9-7) 7-6(13-11)",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "F",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Benito Sanchez Martinez / Petar Jovanovic",
+     "score": "7-5 6-3",
+     "date": "2025-09-28"
+    }
+   ],
+   "osu-m-p7": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Dhakshineswar Suresh",
+     "score": "6-3 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Vit Kalina / Matic Kriznik",
+     "score": "6-1 2-6 (13-11)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Benito Sanchez Martinez / Petar Jovanovic",
+     "score": "3-6 6-3 (10-8)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Azuma Visaya",
+     "score": "6-2 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Connor Henry Van Schalkwyk",
+     "score": "6-4 6-2",
+     "date": "2025-09-26"
+    }
+   ],
+   "tamu-m-n1": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Corey Craig",
+     "score": "6-3 7-6(7-4)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Alexander Bernard / Alex Okonkwo",
+     "score": "6-1 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Lucas Brown",
+     "score": "6-7(5-7) 6-3 7-6(7-4)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Connor Smillie / Jakub Vrba",
+     "score": "6-2 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-SF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Noa Vukadin / Henrik Bladelius",
+     "score": "6-3 6-4",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-F",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Manfredi Graziani / Aaron Sandler",
+     "score": "7-6(7-4) 4-6 (10-4)",
+     "date": "2025-09-20"
+    }
+   ],
+   "fsu-m-fp26": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Alexander Frusina",
+     "score": "6-3 7-6(7-4)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Vignesh Gogineni",
+     "score": "6-2 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Alex Okonkwo",
+     "score": "6-3 6-4",
+     "date": "2025-09-26"
+    }
+   ],
+   "yale-m-fp149": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Lucas Brown",
+     "score": "7-6(7-3) 6-1",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Corey Craig",
+     "score": "6-2 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Devin Badenhorst",
+     "score": "6-1 7-5",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Petar Jovanovic",
+     "score": "7-6(7-3) 2-6 6-4",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-QF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Kenta Miyoshi",
+     "score": "1-6 6-4 6-2",
+     "date": "2025-09-27"
+    }
+   ],
+   "tex-m-p3": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Vignesh Gogineni",
+     "score": "7-6(7-3) 6-1",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Timofey Stepanov / Tiago Silva",
+     "score": "4-6 6-4 (10-4)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Jack Anthrop / Preston Stearns",
+     "score": "6-3 6-1",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Tanapatt Nirundorn / Henry Jefferson",
+     "score": "7-6(7-4) 7-6(7-5)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Alexander Frusina",
+     "score": "6-7(5-7) 6-3 7-6(7-4)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Jack Loutit",
+     "score": "5-7 6-0 6-3",
+     "date": "2025-09-26"
+    }
+   ],
+   "ore-m-p1": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Azuma Visaya",
+     "score": "6-4 7-6(7-0)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Dhakshineswar Suresh",
+     "score": "6-4 2-6 7-6(7-4)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Petar Jovanovic",
+     "score": "4-6 6-3 6-2",
+     "date": "2025-09-26"
+    }
+   ],
+   "uk-m-ita-p5": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Keegan Rice",
+     "score": "7-6(7-3) 6-2",
+     "date": "2025-09-24"
+    }
+   ],
+   "clem-m-p7": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Sebastian Dominko",
+     "score": "6-7(3-7) 7-5 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Spencer Johnson / Emon van Loben Sels",
+     "score": "6-1 7-6(7-0)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Santiago Giamichelle / Derrick Chen",
+     "score": "6-3 4-6 (10-4)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Jonah Braswell",
+     "score": "6-3 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Paul Inchauspe",
+     "score": "6-4 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Timothy Carlsson Seger / Victor Tosetto",
+     "score": "6-1 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-SF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Khololwam Montsi / Alexander Frusina",
+     "score": "6-3 6-4",
+     "date": "2025-09-27"
+    }
+   ],
+   "nd-m-fp153": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Noa Vukadin",
+     "score": "6-7(3-7) 7-5 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Ondrej Horak / Karim Al-Amin",
+     "score": "6-4 4-6 (10-6)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Keegan Rice",
+     "score": "4-6 7-5 7-5",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Sebastian Gorzny",
+     "score": "6-4 1-6 7-6(11-9)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Nicholas Godsick / Hudson Rivera",
+     "score": "6-4 4-6 (10-4)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Martin Borisiouk",
+     "score": "6-2 6-2",
+     "date": "2025-09-27"
+    }
+   ],
+   "bay-m-p1": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Mario Martinez Serrano",
+     "score": "6-3 4-6 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Brandon Carpico / Nikita Filin",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Luca Pow",
+     "score": "6-3 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Vignesh Gogineni",
+     "score": "6-1 7-5",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "QF",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Matthew Forbes",
+     "score": "7-6(10-8) 6-3",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Aidan Kim",
+     "score": "6-7(5-7) 6-3 6-4",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Timothy Carlsson Seger / Victor Tosetto",
+     "score": "6-4 4-6 (15-13)",
+     "date": "2025-09-25"
+    }
+   ],
+   "ucla-m-p8": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Zsombor Velcz",
+     "score": "6-3 5-7 7-5",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Noa Vukadin / Henrik Bladelius",
+     "score": "6-1 7-6(7-0)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Sebastian Eriksson",
+     "score": "7-6(10-8) 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Taym Alazmeh / Danial Rakhmatullayev",
+     "score": "6-2 2-6 (10-5)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Jay Friend",
+     "score": "7-5 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-QF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Ioan Alexandru Chirita",
+     "score": "6-4 4-6 6-4",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-SF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Duncan Chan",
+     "score": "6-3 2-6 6-3",
+     "date": "2025-09-28"
+    }
+   ],
+   "bay-m-fp64": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Emon van Loben Sels",
+     "score": "6-3 5-7 7-5",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Billy Blaydes / Freddy Blaydes",
+     "score": "4-6 7-6(7-5) (10-7)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Benito Sanchez Martinez",
+     "score": "6-3 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Bruno Nhavene / Oscar Lacides",
+     "score": "6-7(6-8) 6-3 (10-8)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Nikita Filin",
+     "score": "6-3 6-0",
+     "date": "2025-09-26"
+    }
+   ],
+   "msu-m-fp274": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Lucas Andrade da Silva",
+     "score": "6-3 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Luca Pow / Kacper Szymkowiak",
+     "score": "5-7 6-4 (10-8)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Aleksa Krivokapic",
+     "score": "6-1 6-1",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "QF",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Jay Friend",
+     "score": "6-3 2-6 6-2",
+     "date": "2025-09-26"
+    }
+   ],
+   "usf-m-p1": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Jay Friend",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Nikita Filin",
+     "score": "6-4 5-7 6-4",
+     "date": "2025-09-25"
+    }
+   ],
+   "msst-m-p8": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Sebastian Eriksson",
+     "score": "6-3 5-7 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Nikita Volonski / Takeshi Taco",
+     "score": "6-3 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Aidan Kim / Bryce Nakashima",
+     "score": "3-6 6-3 (10-8)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Luca Pow / Kacper Szymkowiak",
+     "score": "6-4 6-3",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Tanapatt Nirundorn / Henry Jefferson",
+     "score": "6-4 6-1",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "F",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Dhakshineswar Suresh / Andrew Delgado",
+     "score": "7-5 6-3",
+     "date": "2025-09-28"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Zsombor Velcz",
+     "score": "6-3 6-4",
+     "date": "2025-09-25"
+    }
+   ],
+   "ucla-m-n3": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Sebastian Gorzny",
+     "score": "4-6 6-3 6-0",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Takeshi Taco",
+     "score": "6-4 6-1",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Paul Inchauspe",
+     "score": "6-4 6-1",
+     "date": "2025-09-26"
+    }
+   ],
+   "tex-m-p8": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Alessio Vasquez Gehrke",
+     "score": "4-6 6-3 6-0",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Timofey Stepanov / Tiago Silva",
+     "score": "4-6 6-4 (10-4)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Alexander Bernard",
+     "score": "6-2 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Jack Anthrop / Preston Stearns",
+     "score": "6-3 6-1",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Sebastian Dominko",
+     "score": "6-4 1-6 7-6(11-9)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Tanapatt Nirundorn / Henry Jefferson",
+     "score": "7-6(7-4) 7-6(7-5)",
+     "date": "2025-09-26"
+    }
+   ],
+   "colum-m-fp111": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Ioan Alexandru Chirita",
+     "score": "6-1 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Duncan Chan",
+     "score": "6-3 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Oscar Lacides",
+     "score": "6-3 7-6(11-9)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Petar Jovanovic",
+     "score": "6-3 6-4",
+     "date": "2025-09-26"
+    }
+   ],
+   "uva-m-p2": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Eli Stephenson",
+     "score": "6-4 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Jonah Braswell",
+     "score": "6-4 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Jack Anthrop",
+     "score": "6-4 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Jay Friend",
+     "score": "6-3 4-6 7-6(7-2)",
+     "date": "2025-09-27"
+    }
+   ],
+   "osu-m-fp279": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Lukas Palovic",
+     "score": "6-3 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Kenta Miyoshi",
+     "score": "6-1 3-6 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Nikita Filin",
+     "score": "6-1 7-5",
+     "date": "2025-09-26"
+    }
+   ],
+   "msst-m-p4": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Aidan Kim",
+     "score": "5-7 7-5 7-5",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Nikita Volonski / Takeshi Taco",
+     "score": "6-3 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Aidan Kim / Bryce Nakashima",
+     "score": "3-6 6-3 (10-8)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Luca Pow / Kacper Szymkowiak",
+     "score": "6-4 6-3",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Tanapatt Nirundorn / Henry Jefferson",
+     "score": "6-4 6-1",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "F",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Dhakshineswar Suresh / Andrew Delgado",
+     "score": "7-5 6-3",
+     "date": "2025-09-28"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Roan Jones",
+     "score": "6-4 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Vlad Breazu",
+     "score": "4-6 6-3 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Nicolas Kotzen",
+     "score": "6-3 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Vignesh Gogineni",
+     "score": "7-6(7-3) 2-6 6-4",
+     "date": "2025-09-27"
+    }
+   ],
+   "osu-m-p5": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Petar Jovanovic",
+     "score": "5-7 7-5 7-5",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Vit Kalina / Matic Kriznik",
+     "score": "6-1 2-6 (13-11)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Connor Henry Van Schalkwyk",
+     "score": "6-1 3-6 6-0",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Benito Sanchez Martinez / Petar Jovanovic",
+     "score": "3-6 6-3 (10-8)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Santiago Giamichelle",
+     "score": "6-4 6-3",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Devin Badenhorst",
+     "score": "6-7(5-7) 6-3 6-4",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "F",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Jay Friend",
+     "score": "6-2 6-4",
+     "date": "2025-09-28"
+    }
+   ],
+   "stan-m-fp54": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Viktor Markov",
+     "score": "6-3 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Aleksa Krivokapic",
+     "score": "6-7(3-7) 6-4 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Jeremy Jin",
+     "score": "5-7 7-6(7-4) 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Jack Loutit",
+     "score": "6-1 6-3",
+     "date": "2025-09-26"
+    }
+   ],
+   "tex-m-p2": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "William Manning",
+     "score": "6-1 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Dylan Dietrich",
+     "score": "6-4 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Noa Vukadin",
+     "score": "6-3 6-4",
+     "date": "2025-09-26"
+    }
+   ],
+   "stan-m-p3": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Dhakshineswar Suresh / Andrew Delgado",
+     "score": "6-1 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Sebastian Dominko / Chase Thompson",
+     "score": "6-4 4-6 (10-4)",
+     "date": "2025-09-25"
+    }
+   ],
+   "usc-m-n1": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Christophe Clement",
+     "score": "6-4 6-7(3-7) 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Alex Chang",
+     "score": "6-7(3-7) 6-4 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Ozan Baris",
+     "score": "6-1 6-1",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Ioan Alexandru Chirita",
+     "score": "6-4 6-4",
+     "date": "2025-09-27"
+    }
+   ],
+   "prin-m-fp246": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Kenta Miyoshi",
+     "score": "7-5 4-6 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Lukas Palovic",
+     "score": "6-2 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Luis Carlos Alvarez Valdes",
+     "score": "6-4 4-6 6-2",
+     "date": "2025-09-26"
+    }
+   ],
+   "ill-m-fp217": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Top Nidunjianzan",
+     "score": "7-5 4-6 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Loren Byers",
+     "score": "6-1 3-6 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Matthew Forbes",
+     "score": "6-4 6-7(3-7) 7-5",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Paul Inchauspe",
+     "score": "6-3 5-7 6-1",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-QF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Vignesh Gogineni",
+     "score": "1-6 6-4 6-2",
+     "date": "2025-09-27"
+    }
+   ],
+   "ark-m-p9": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Albert Pedrico Kravtsov / Cosme Rolland De Ravel",
+     "score": "7-6(13-11) 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Khololwam Montsi / Alexander Frusina",
+     "score": "6-2 6-3",
+     "date": "2025-09-25"
+    }
+   ],
+   "ucla-m-p10": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Noa Vukadin / Henrik Bladelius",
+     "score": "6-1 7-6(7-0)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Santiago Giamichelle",
+     "score": "5-7 6-4 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Taym Alazmeh / Danial Rakhmatullayev",
+     "score": "6-2 2-6 (10-5)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Ioan Alexandru Chirita",
+     "score": "6-1 6-4",
+     "date": "2025-09-26"
+    }
+   ],
+   "clt-m-p7": [
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Azuma Visaya / Timothy Li",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    }
+   ]
+  },
+  "champions": [
+   {
+    "playerId": "msst-m-p8",
+    "type": "DOUBLES",
+    "score": "7-5 6-3",
+    "date": "2025-09-28"
+   },
+   {
+    "playerId": "msst-m-p4",
+    "type": "DOUBLES",
+    "score": "7-5 6-3",
+    "date": "2025-09-28"
+   },
+   {
+    "playerId": "ariz-m-fp226",
+    "type": "SINGLES",
+    "score": "6-2 6-4",
+    "date": "2025-09-28"
+   }
+  ],
+  "draws": {
+   "Qualifying Singles": {
+    "R64": [
+     {
+      "pos": 1,
+      "a": {
+       "name": "Connor Henry Van Schalkwyk",
+       "pid": "bay-m-fp67"
+      },
+      "b": {
+       "name": "Bryan Hernandez Cortes",
+       "pid": "msst-m-p3"
+      },
+      "w": "a",
+      "score": "7-5 6-4",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 2,
+      "a": {
+       "name": "Preston Stearns",
+       "pid": "osu-m-p11"
+      },
+      "b": {
+       "name": "William Jansen",
+       "pid": "uga-m-n8"
+      },
+      "w": "b",
+      "score": "6-1 6-4",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 3,
+      "a": {
+       "name": "Michael Minasyan",
+       "pid": "wisc-m-p7"
+      },
+      "b": {
+       "name": "Nikita Volonski",
+       "pid": "tulsa-m-p9"
+      },
+      "w": "b",
+      "score": "6-3 6-3",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 4,
+      "a": {
+       "name": "Mikkel Zinder",
+       "pid": null
+      },
+      "b": {
+       "name": "Luca Pow",
+       "pid": "wake-m-p4"
+      },
+      "w": "b",
+      "score": "6-1 6-2",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 5,
+      "a": {
+       "name": "Zoran Ludoski",
+       "pid": "ariz-m-fp224"
+      },
+      "b": {
+       "name": "Tiago Pires",
+       "pid": null
+      },
+      "w": "a",
+      "score": "6-0 7-6(7-1)",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 6,
+      "a": {
+       "name": "Andreas Timini",
+       "pid": "fla-m-p10"
+      },
+      "b": {
+       "name": "Keegan Rice",
+       "pid": "uva-m-p8"
+      },
+      "w": "b",
+      "score": "6-1 7-5",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 7,
+      "a": {
+       "name": "Lucas Andrade da Silva",
+       "pid": "sc-m-p1"
+      },
+      "b": {
+       "name": "Petro Kuzmenok",
+       "pid": "rice-m-p4"
+      },
+      "w": "a",
+      "score": "7-6(7-3) 4-6 7-6(7-5)",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 8,
+      "a": {
+       "name": "Luis Felipe Miguel",
+       "pid": "fsu-m-fp23"
+      },
+      "b": {
+       "name": "Khololwam Montsi",
+       "pid": "tamu-m-n3"
+      },
+      "w": "b",
+      "score": "6-4 7-5",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 9,
+      "a": {
+       "name": "Matthew Forbes",
+       "pid": null
+      },
+      "b": {
+       "name": "Billy Blaydes",
+       "pid": "aub-m-p1"
+      },
+      "w": "a",
+      "score": "6-2 6-2",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 10,
+      "a": {
+       "name": "Antonio Prat",
+       "pid": "miami-m-fp77"
+      },
+      "b": {
+       "name": "Sebastian Sec",
+       "pid": null
+      },
+      "w": "a",
+      "score": "6-4 7-5",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 11,
+      "a": {
+       "name": "Jack Anthrop",
+       "pid": "osu-m-fp278"
+      },
+      "b": {
+       "name": "Carl Roothman",
+       "pid": null
+      },
+      "w": "a",
+      "score": "6-4 6-0",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 12,
+      "a": {
+       "name": "Julian Alonso Vivanco",
+       "pid": "tcu-m-fp314"
+      },
+      "b": {
+       "name": "Gabriele Brancatelli",
+       "pid": "fsu-m-fp100"
+      },
+      "w": "a",
+      "score": "6-3 6-2",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 13,
+      "a": {
+       "name": "Diogo Morais",
+       "pid": "ucsb-m-fp181"
+      },
+      "b": {
+       "name": "Evan Burnett",
+       "pid": null
+      },
+      "w": "a",
+      "score": "7-6(7-5) 6-0",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 14,
+      "a": {
+       "name": "William Manning",
+       "pid": "ncst-m-p4"
+      },
+      "b": {
+       "name": "Orel Kimhi",
+       "pid": null
+      },
+      "w": "a",
+      "score": "6-3 7-5",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 15,
+      "a": {
+       "name": "Alex Finkelstein",
+       "pid": "smu-m-fp13"
+      },
+      "b": {
+       "name": "Jelani Sarr",
+       "pid": "asu-m-p4"
+      },
+      "w": "b",
+      "score": "3-6 6-4 7-5",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 16,
+      "a": {
+       "name": "Henrik Bladelius",
+       "pid": "clem-m-p1"
+      },
+      "b": {
+       "name": "Ioan Alexandru Chirita",
+       "pid": "bay-m-fp65"
+      },
+      "w": "b",
+      "score": "7-5 2-6 6-2",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 17,
+      "a": {
+       "name": "Aadarsh Tripathi",
+       "pid": "ucla-m-p11"
+      },
+      "b": {
+       "name": "Santiago Giamichelle",
+       "pid": "uga-m-p3"
+      },
+      "w": null,
+      "score": "7-6(7-4) 5-3 ret",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 18,
+      "a": {
+       "name": "Moritz Kudernatsch",
+       "pid": null
+      },
+      "b": {
+       "name": "Kacper Szymkowiak",
+       "pid": "wake-m-p8"
+      },
+      "w": "b",
+      "score": "6-4 6-4",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 19,
+      "a": {
+       "name": "Sam  Landau",
+       "pid": "ind-m-p6"
+      },
+      "b": {
+       "name": "Andrej Loncarevic",
+       "pid": "lsu-m-p7"
+      },
+      "w": "a",
+      "score": "6-4 6-0",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 20,
+      "a": {
+       "name": "Timothy Carlsson Seger",
+       "pid": "tulsa-m-p1"
+      },
+      "b": {
+       "name": "Duncan Chan",
+       "pid": "tcu-m-p3"
+      },
+      "w": "b",
+      "score": "6-2 3-6 6-2",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 21,
+      "a": {
+       "name": "Albert Pedrico Kravtsov",
+       "pid": "tcu-m-fp28"
+      },
+      "b": {
+       "name": "Alexandre Verlaguet",
+       "pid": null
+      },
+      "w": "a",
+      "score": "4-6 6-3 6-4",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 22,
+      "a": {
+       "name": "Henry Jefferson",
+       "pid": "fla-m-p5"
+      },
+      "b": {
+       "name": "Sasha Rozin",
+       "pid": "ariz-m-fp225"
+      },
+      "w": "a",
+      "score": "6-2 6-4",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 23,
+      "a": {
+       "name": "Cosme Rolland De Ravel",
+       "pid": "tcu-m-fp104"
+      },
+      "b": {
+       "name": "Fryderyk Lechno Wasiutynski",
+       "pid": null
+      },
+      "w": "a",
+      "score": "6-2 6-4",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 24,
+      "a": {
+       "name": "Gabriele Vulpitta",
+       "pid": "uga-m-p8"
+      },
+      "b": {
+       "name": "Dominique Rolland",
+       "pid": "ucsb-m-fp184"
+      },
+      "w": "b",
+      "score": "6-3 6-1",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 25,
+      "a": {
+       "name": "Nicolas Arseneault",
+       "pid": "uk-m-p2"
+      },
+      "b": {
+       "name": "Romain Gales",
+       "pid": "clem-m-p4"
+      },
+      "w": "b",
+      "score": "4-6 7-6(7-3) 6-4",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 26,
+      "a": {
+       "name": "Manfredi Graziani",
+       "pid": "penn-m-fp284"
+      },
+      "b": {
+       "name": "Mario Martinez Serrano",
+       "pid": "msst-m-p6"
+      },
+      "w": "b",
+      "score": "6-0 6-1",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 27,
+      "a": {
+       "name": "Nicholas Godsick",
+       "pid": "stan-m-fp423"
+      },
+      "b": {
+       "name": "Patrik Meszaros",
+       "pid": "wisc-m-p6"
+      },
+      "w": "a",
+      "score": "4-6 7-6(7-4) 6-4",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 28,
+      "a": {
+       "name": "Nikita Filin",
+       "pid": "osu-m-p2"
+      },
+      "b": {
+       "name": "Andy Nguyen",
+       "pid": "ucla-m-p3"
+      },
+      "w": "a",
+      "score": "7-6(7-3) 6-2",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 29,
+      "a": {
+       "name": "Oliver Ojakaar",
+       "pid": "tex-m-p11"
+      },
+      "b": {
+       "name": "Jakub Vrba",
+       "pid": "ark-m-p6"
+      },
+      "w": "b",
+      "score": "3-6 7-6(7-5) 6-2",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 30,
+      "a": {
+       "name": "Charlelie Cosnet",
+       "pid": "uk-m-p4"
+      },
+      "b": {
+       "name": "Andrew Delgado",
+       "pid": null
+      },
+      "w": "b",
+      "score": "6-1 6-1",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 31,
+      "a": {
+       "name": "Roger Pascual Ferra",
+       "pid": "tcu-m-fp30"
+      },
+      "b": {
+       "name": "Erik Schiessl",
+       "pid": null
+      },
+      "w": "a",
+      "score": "6-2 6-1",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 32,
+      "a": {
+       "name": "Eli Stephenson",
+       "pid": "uk-m-p7"
+      },
+      "b": {
+       "name": "Tiago Silva",
+       "pid": "cal-m-fp1"
+      },
+      "w": "a",
+      "score": "6-4 6-2",
+      "date": "2025-09-22"
+     }
+    ],
+    "R32": [
+     {
+      "pos": 1,
+      "a": {
+       "name": "Connor Henry Van Schalkwyk",
+       "pid": "bay-m-fp67"
+      },
+      "b": {
+       "name": "William Jansen",
+       "pid": "uga-m-n8"
+      },
+      "w": "a",
+      "score": "7-6(10-8) 2-6 6-3",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 2,
+      "a": {
+       "name": "Nikita Volonski",
+       "pid": "tulsa-m-p9"
+      },
+      "b": {
+       "name": "Luca Pow",
+       "pid": "wake-m-p4"
+      },
+      "w": "b",
+      "score": "6-2 6-2",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 3,
+      "a": {
+       "name": "Zoran Ludoski",
+       "pid": "ariz-m-fp224"
+      },
+      "b": {
+       "name": "Keegan Rice",
+       "pid": "uva-m-p8"
+      },
+      "w": "b",
+      "score": "6-1 6-1",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 4,
+      "a": {
+       "name": "Lucas Andrade da Silva",
+       "pid": "sc-m-p1"
+      },
+      "b": {
+       "name": "Khololwam Montsi",
+       "pid": "tamu-m-n3"
+      },
+      "w": "a",
+      "score": "6-4 3-6 7-6(7-4)",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 5,
+      "a": {
+       "name": "Matthew Forbes",
+       "pid": null
+      },
+      "b": {
+       "name": "Antonio Prat",
+       "pid": "miami-m-fp77"
+      },
+      "w": "a",
+      "score": "6-0 6-2",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 6,
+      "a": {
+       "name": "Jack Anthrop",
+       "pid": "osu-m-fp278"
+      },
+      "b": {
+       "name": "Julian Alonso Vivanco",
+       "pid": "tcu-m-fp314"
+      },
+      "w": "a",
+      "score": "6-3 6-1",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 7,
+      "a": {
+       "name": "Diogo Morais",
+       "pid": "ucsb-m-fp181"
+      },
+      "b": {
+       "name": "William Manning",
+       "pid": "ncst-m-p4"
+      },
+      "w": "b",
+      "score": "6-1 6-3",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 8,
+      "a": {
+       "name": "Jelani Sarr",
+       "pid": "asu-m-p4"
+      },
+      "b": {
+       "name": "Ioan Alexandru Chirita",
+       "pid": "bay-m-fp65"
+      },
+      "w": "b",
+      "score": "6-4 6-2",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 9,
+      "a": {
+       "name": "Santiago Giamichelle",
+       "pid": "uga-m-p3"
+      },
+      "b": {
+       "name": "Kacper Szymkowiak",
+       "pid": "wake-m-p8"
+      },
+      "w": "a",
+      "score": "7-6(7-5) 6-4",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 10,
+      "a": {
+       "name": "Sam  Landau",
+       "pid": "ind-m-p6"
+      },
+      "b": {
+       "name": "Duncan Chan",
+       "pid": "tcu-m-p3"
+      },
+      "w": "b",
+      "score": "6-2 6-3",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 11,
+      "a": {
+       "name": "Albert Pedrico Kravtsov",
+       "pid": "tcu-m-fp28"
+      },
+      "b": {
+       "name": "Henry Jefferson",
+       "pid": "fla-m-p5"
+      },
+      "w": "b",
+      "score": "6-3 6-3",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 12,
+      "a": {
+       "name": "Cosme Rolland De Ravel",
+       "pid": "tcu-m-fp104"
+      },
+      "b": {
+       "name": "Dominique Rolland",
+       "pid": "ucsb-m-fp184"
+      },
+      "w": "b",
+      "score": "3-6 7-6(7-3) 7-6(7-4)",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 13,
+      "a": {
+       "name": "Romain Gales",
+       "pid": "clem-m-p4"
+      },
+      "b": {
+       "name": "Mario Martinez Serrano",
+       "pid": "msst-m-p6"
+      },
+      "w": "b",
+      "score": "6-2 6-4",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 14,
+      "a": {
+       "name": "Nicholas Godsick",
+       "pid": "stan-m-fp423"
+      },
+      "b": {
+       "name": "Nikita Filin",
+       "pid": "osu-m-p2"
+      },
+      "w": "b",
+      "score": "6-3 4-6 6-3",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 15,
+      "a": {
+       "name": "Jakub Vrba",
+       "pid": "ark-m-p6"
+      },
+      "b": {
+       "name": "Andrew Delgado",
+       "pid": null
+      },
+      "w": "a",
+      "score": "1-6 6-1 6-4",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 16,
+      "a": {
+       "name": "Roger Pascual Ferra",
+       "pid": "tcu-m-fp30"
+      },
+      "b": {
+       "name": "Eli Stephenson",
+       "pid": "uk-m-p7"
+      },
+      "w": "b",
+      "score": "7-6(7-5) 6-1",
+      "date": "2025-09-23"
+     }
+    ]
+   },
+   "Main Draw Singles": {
+    "R64": [
+     {
+      "pos": 1,
+      "a": {
+       "name": "Dhakshineswar Suresh",
+       "pid": "wake-m-fp302"
+      },
+      "b": {
+       "name": "Bryce Nakashima",
+       "pid": "osu-m-p7"
+      },
+      "w": "a",
+      "score": "6-3 6-4",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 2,
+      "a": {
+       "name": "Azuma Visaya",
+       "pid": "haw-m-p9"
+      },
+      "b": {
+       "name": "Vlad Breazu",
+       "pid": "ore-m-p1"
+      },
+      "w": "b",
+      "score": "6-4 7-6(7-0)",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 3,
+      "a": {
+       "name": "Nicolas Kotzen",
+       "pid": "colum-m-fp111"
+      },
+      "b": {
+       "name": "Ioan Alexandru Chirita",
+       "pid": "bay-m-fp65"
+      },
+      "w": "a",
+      "score": "6-1 6-3",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 4,
+      "a": {
+       "name": "Duncan Chan",
+       "pid": "tcu-m-p3"
+      },
+      "b": {
+       "name": "Amar Tahirovic",
+       "pid": null
+      },
+      "w": "a",
+      "score": "6-3 6-4",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 5,
+      "a": {
+       "name": "Dylan Dietrich",
+       "pid": "uva-m-p2"
+      },
+      "b": {
+       "name": "Eli Stephenson",
+       "pid": "uk-m-p7"
+      },
+      "w": "a",
+      "score": "6-4 6-2",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 6,
+      "a": {
+       "name": "Jonah Braswell",
+       "pid": "tex-m-p2"
+      },
+      "b": {
+       "name": "William Manning",
+       "pid": "ncst-m-p4"
+      },
+      "w": "a",
+      "score": "6-1 6-3",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 7,
+      "a": {
+       "name": "Paul Inchauspe",
+       "pid": "prin-m-p3"
+      },
+      "b": {
+       "name": "Jakub Vrba",
+       "pid": "ark-m-p6"
+      },
+      "w": "a",
+      "score": "6-4 6-2",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 8,
+      "a": {
+       "name": "Henry Jefferson",
+       "pid": "fla-m-p5"
+      },
+      "b": {
+       "name": "Jack Anthrop",
+       "pid": "osu-m-fp278"
+      },
+      "w": "b",
+      "score": "6-3 7-5",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 9,
+      "a": {
+       "name": "Jay Friend",
+       "pid": "ariz-m-fp226"
+      },
+      "b": {
+       "name": "Hugo Car",
+       "pid": "usf-m-p1"
+      },
+      "w": "a",
+      "score": "6-4 6-4",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 10,
+      "a": {
+       "name": "Luis Carlos Alvarez Valdes",
+       "pid": null
+      },
+      "b": {
+       "name": "Nikita Filin",
+       "pid": "osu-m-p2"
+      },
+      "w": "a",
+      "score": "6-4 4-6 6-1",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 11,
+      "a": {
+       "name": "Benito Sanchez Martinez",
+       "pid": "msst-m-p8"
+      },
+      "b": {
+       "name": "Sebastian Eriksson",
+       "pid": "tex-m-p6"
+      },
+      "w": "b",
+      "score": "6-3 5-7 6-3",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 12,
+      "a": {
+       "name": "Emon van Loben Sels",
+       "pid": "ucla-m-p8"
+      },
+      "b": {
+       "name": "Zsombor Velcz",
+       "pid": "bay-m-fp64"
+      },
+      "w": "a",
+      "score": "6-3 5-7 7-5",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 13,
+      "a": {
+       "name": "Ozan Baris",
+       "pid": "msu-m-fp274"
+      },
+      "b": {
+       "name": "Lucas Andrade da Silva",
+       "pid": "sc-m-p1"
+      },
+      "w": "a",
+      "score": "6-3 6-3",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 14,
+      "a": {
+       "name": "Jack Loutit",
+       "pid": "uk-m-p5"
+      },
+      "b": {
+       "name": "Alex Okonkwo",
+       "pid": "osu-m-p8"
+      },
+      "w": "a",
+      "score": "1-6 6-3 7-5",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 15,
+      "a": {
+       "name": "Aleksa Krivokapic",
+       "pid": "usc-m-n1"
+      },
+      "b": {
+       "name": "Christophe Clement",
+       "pid": "gt-m-fp427"
+      },
+      "w": "a",
+      "score": "6-4 6-7(3-7) 6-4",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 16,
+      "a": {
+       "name": "Alex Chang",
+       "pid": "stan-m-fp54"
+      },
+      "b": {
+       "name": "Viktor Markov",
+       "pid": "clem-m-p5"
+      },
+      "w": "a",
+      "score": "6-3 6-2",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 17,
+      "a": {
+       "name": "Jeremy Jin",
+       "pid": "fla-m-p6"
+      },
+      "b": {
+       "name": "Luca Pow",
+       "pid": "wake-m-p4"
+      },
+      "w": "b",
+      "score": "6-3 6-2",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 18,
+      "a": {
+       "name": "Mario Martinez Serrano",
+       "pid": "msst-m-p6"
+      },
+      "b": {
+       "name": "Devin Badenhorst",
+       "pid": "bay-m-p1"
+      },
+      "w": "b",
+      "score": "6-3 4-6 6-2",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 19,
+      "a": {
+       "name": "Vignesh Gogineni",
+       "pid": "yale-m-fp149"
+      },
+      "b": {
+       "name": "Lucas Brown",
+       "pid": "tex-m-p3"
+      },
+      "w": "a",
+      "score": "7-6(7-3) 6-1",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 20,
+      "a": {
+       "name": "Alexander Frusina",
+       "pid": "tamu-m-n1"
+      },
+      "b": {
+       "name": "Corey Craig",
+       "pid": "fsu-m-fp26"
+      },
+      "w": "b",
+      "score": "6-3 7-6(7-4)",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 21,
+      "a": {
+       "name": "Trevor Svajda",
+       "pid": "smu-m-fp12"
+      },
+      "b": {
+       "name": "Sean Daryabeigi",
+       "pid": "sc-m-p4"
+      },
+      "w": "a",
+      "score": "6-4 6-4",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 22,
+      "a": {
+       "name": "Matthew Forbes",
+       "pid": null
+      },
+      "b": {
+       "name": "Martin Borisiouk",
+       "pid": "ncst-m-fp370"
+      },
+      "w": "a",
+      "score": "7-5 7-6(7-5)",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 23,
+      "a": {
+       "name": "Loren Byers",
+       "pid": "osu-m-fp279"
+      },
+      "b": {
+       "name": "Lukas Palovic",
+       "pid": "ark-m-p8"
+      },
+      "w": "a",
+      "score": "6-3 6-4",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 24,
+      "a": {
+       "name": "Top Nidunjianzan",
+       "pid": "prin-m-fp246"
+      },
+      "b": {
+       "name": "Kenta Miyoshi",
+       "pid": "ill-m-fp217"
+      },
+      "w": "b",
+      "score": "7-5 4-6 6-3",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 25,
+      "a": {
+       "name": "Takeshi Taco",
+       "pid": "tulsa-m-p6"
+      },
+      "b": {
+       "name": "Alexander Bernard",
+       "pid": "osu-m-fp277"
+      },
+      "w": "b",
+      "score": "4-6 6-1 6-0",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 26,
+      "a": {
+       "name": "Alessio Vasquez Gehrke",
+       "pid": "ucla-m-n3"
+      },
+      "b": {
+       "name": "Sebastian Gorzny",
+       "pid": "tex-m-p8"
+      },
+      "w": "b",
+      "score": "4-6 6-3 6-0",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 27,
+      "a": {
+       "name": "Antoine Ghibaudo",
+       "pid": "uk-m-ita-p5"
+      },
+      "b": {
+       "name": "Keegan Rice",
+       "pid": "uva-m-p8"
+      },
+      "w": "b",
+      "score": "7-6(7-3) 6-2",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 28,
+      "a": {
+       "name": "Noa Vukadin",
+       "pid": "clem-m-p7"
+      },
+      "b": {
+       "name": "Sebastian Dominko",
+       "pid": "nd-m-fp153"
+      },
+      "w": "b",
+      "score": "6-7(3-7) 7-5 6-2",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 29,
+      "a": {
+       "name": "Santiago Giamichelle",
+       "pid": "uga-m-p3"
+      },
+      "b": {
+       "name": "Dominique Rolland",
+       "pid": "ucsb-m-fp184"
+      },
+      "w": "a",
+      "score": "7-6(7-4) 6-3",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 30,
+      "a": {
+       "name": "Oscar Lacides",
+       "pid": null
+      },
+      "b": {
+       "name": "Spencer Johnson",
+       "pid": "ucla-m-p10"
+      },
+      "w": null,
+      "score": "7-5 3-6 4-5 def",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 31,
+      "a": {
+       "name": "Connor Henry Van Schalkwyk",
+       "pid": "bay-m-fp67"
+      },
+      "b": {
+       "name": "Roan Jones",
+       "pid": "unc-m-fp318"
+      },
+      "w": "a",
+      "score": "6-4 7-6(7-4)",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 32,
+      "a": {
+       "name": "Petar Jovanovic",
+       "pid": "msst-m-p4"
+      },
+      "b": {
+       "name": "Aidan Kim",
+       "pid": "osu-m-p5"
+      },
+      "w": "b",
+      "score": "5-7 7-5 7-5",
+      "date": "2025-09-24"
+     }
+    ],
+    "R32": [
+     {
+      "pos": 1,
+      "a": {
+       "name": "Dhakshineswar Suresh",
+       "pid": "wake-m-fp302"
+      },
+      "b": {
+       "name": "Vlad Breazu",
+       "pid": "ore-m-p1"
+      },
+      "w": "a",
+      "score": "6-4 2-6 7-6(7-4)",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 2,
+      "a": {
+       "name": "Nicolas Kotzen",
+       "pid": "colum-m-fp111"
+      },
+      "b": {
+       "name": "Duncan Chan",
+       "pid": "tcu-m-p3"
+      },
+      "w": "b",
+      "score": "6-3 6-4",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 3,
+      "a": {
+       "name": "Dylan Dietrich",
+       "pid": "uva-m-p2"
+      },
+      "b": {
+       "name": "Jonah Braswell",
+       "pid": "tex-m-p2"
+      },
+      "w": "a",
+      "score": "6-4 6-4",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 4,
+      "a": {
+       "name": "Paul Inchauspe",
+       "pid": "prin-m-p3"
+      },
+      "b": {
+       "name": "Jack Anthrop",
+       "pid": "osu-m-fp278"
+      },
+      "w": "b",
+      "score": "7-5 6-2",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 5,
+      "a": {
+       "name": "Jay Friend",
+       "pid": "ariz-m-fp226"
+      },
+      "b": {
+       "name": "Luis Carlos Alvarez Valdes",
+       "pid": null
+      },
+      "w": "a",
+      "score": "6-4 1-6 6-1",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 6,
+      "a": {
+       "name": "Sebastian Eriksson",
+       "pid": "tex-m-p6"
+      },
+      "b": {
+       "name": "Emon van Loben Sels",
+       "pid": "ucla-m-p8"
+      },
+      "w": "b",
+      "score": "7-6(10-8) 6-4",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 7,
+      "a": {
+       "name": "Ozan Baris",
+       "pid": "msu-m-fp274"
+      },
+      "b": {
+       "name": "Jack Loutit",
+       "pid": "uk-m-p5"
+      },
+      "w": null,
+      "score": "4-6 7-6(7-3) 4-2 def",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 8,
+      "a": {
+       "name": "Aleksa Krivokapic",
+       "pid": "usc-m-n1"
+      },
+      "b": {
+       "name": "Alex Chang",
+       "pid": "stan-m-fp54"
+      },
+      "w": "a",
+      "score": "6-7(3-7) 6-4 6-2",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 9,
+      "a": {
+       "name": "Luca Pow",
+       "pid": "wake-m-p4"
+      },
+      "b": {
+       "name": "Devin Badenhorst",
+       "pid": "bay-m-p1"
+      },
+      "w": "b",
+      "score": "6-3 6-4",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 10,
+      "a": {
+       "name": "Vignesh Gogineni",
+       "pid": "yale-m-fp149"
+      },
+      "b": {
+       "name": "Corey Craig",
+       "pid": "fsu-m-fp26"
+      },
+      "w": "a",
+      "score": "6-2 6-3",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 11,
+      "a": {
+       "name": "Trevor Svajda",
+       "pid": "smu-m-fp12"
+      },
+      "b": {
+       "name": "Matthew Forbes",
+       "pid": null
+      },
+      "w": "b",
+      "score": "7-6(7-5) 3-6 7-6(8-6)",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 12,
+      "a": {
+       "name": "Loren Byers",
+       "pid": "osu-m-fp279"
+      },
+      "b": {
+       "name": "Kenta Miyoshi",
+       "pid": "ill-m-fp217"
+      },
+      "w": "b",
+      "score": "6-1 3-6 6-2",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 13,
+      "a": {
+       "name": "Alexander Bernard",
+       "pid": "osu-m-fp277"
+      },
+      "b": {
+       "name": "Sebastian Gorzny",
+       "pid": "tex-m-p8"
+      },
+      "w": "b",
+      "score": "6-2 6-4",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 14,
+      "a": {
+       "name": "Keegan Rice",
+       "pid": "uva-m-p8"
+      },
+      "b": {
+       "name": "Sebastian Dominko",
+       "pid": "nd-m-fp153"
+      },
+      "w": "b",
+      "score": "4-6 7-5 7-5",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 15,
+      "a": {
+       "name": "Santiago Giamichelle",
+       "pid": "uga-m-p3"
+      },
+      "b": {
+       "name": "Spencer Johnson",
+       "pid": "ucla-m-p10"
+      },
+      "w": "a",
+      "score": "5-7 6-4 6-4",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 16,
+      "a": {
+       "name": "Connor Henry Van Schalkwyk",
+       "pid": "bay-m-fp67"
+      },
+      "b": {
+       "name": "Aidan Kim",
+       "pid": "osu-m-p5"
+      },
+      "w": "b",
+      "score": "6-1 3-6 6-0",
+      "date": "2025-09-25"
+     }
+    ],
+    "R16": [
+     {
+      "pos": 1,
+      "a": {
+       "name": "Dhakshineswar Suresh",
+       "pid": "wake-m-fp302"
+      },
+      "b": {
+       "name": "Duncan Chan",
+       "pid": "tcu-m-p3"
+      },
+      "w": "a",
+      "score": "4-6 6-4 6-2",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 2,
+      "a": {
+       "name": "Dylan Dietrich",
+       "pid": "uva-m-p2"
+      },
+      "b": {
+       "name": "Jack Anthrop",
+       "pid": "osu-m-fp278"
+      },
+      "w": "a",
+      "score": "6-4 6-4",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 3,
+      "a": {
+       "name": "Jay Friend",
+       "pid": "ariz-m-fp226"
+      },
+      "b": {
+       "name": "Emon van Loben Sels",
+       "pid": "ucla-m-p8"
+      },
+      "w": "a",
+      "score": "7-5 6-2",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 4,
+      "a": {
+       "name": "Ozan Baris",
+       "pid": "msu-m-fp274"
+      },
+      "b": {
+       "name": "Aleksa Krivokapic",
+       "pid": "usc-m-n1"
+      },
+      "w": "a",
+      "score": "6-1 6-1",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 5,
+      "a": {
+       "name": "Devin Badenhorst",
+       "pid": "bay-m-p1"
+      },
+      "b": {
+       "name": "Vignesh Gogineni",
+       "pid": "yale-m-fp149"
+      },
+      "w": "a",
+      "score": "6-1 7-5",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 6,
+      "a": {
+       "name": "Matthew Forbes",
+       "pid": null
+      },
+      "b": {
+       "name": "Kenta Miyoshi",
+       "pid": "ill-m-fp217"
+      },
+      "w": "a",
+      "score": "6-4 6-7(3-7) 7-5",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 7,
+      "a": {
+       "name": "Sebastian Gorzny",
+       "pid": "tex-m-p8"
+      },
+      "b": {
+       "name": "Sebastian Dominko",
+       "pid": "nd-m-fp153"
+      },
+      "w": "a",
+      "score": "6-4 1-6 7-6(11-9)",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 8,
+      "a": {
+       "name": "Santiago Giamichelle",
+       "pid": "uga-m-p3"
+      },
+      "b": {
+       "name": "Aidan Kim",
+       "pid": "osu-m-p5"
+      },
+      "w": "b",
+      "score": "6-4 6-3",
+      "date": "2025-09-26"
+     }
+    ],
+    "QF": [
+     {
+      "pos": 1,
+      "a": {
+       "name": "Dhakshineswar Suresh",
+       "pid": "wake-m-fp302"
+      },
+      "b": {
+       "name": "Dylan Dietrich",
+       "pid": "uva-m-p2"
+      },
+      "w": null,
+      "score": " wo",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 2,
+      "a": {
+       "name": "Jay Friend",
+       "pid": "ariz-m-fp226"
+      },
+      "b": {
+       "name": "Ozan Baris",
+       "pid": "msu-m-fp274"
+      },
+      "w": "a",
+      "score": "6-3 2-6 6-2",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 3,
+      "a": {
+       "name": "Devin Badenhorst",
+       "pid": "bay-m-p1"
+      },
+      "b": {
+       "name": "Matthew Forbes",
+       "pid": null
+      },
+      "w": "a",
+      "score": "7-6(10-8) 6-3",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 4,
+      "a": {
+       "name": "Sebastian Gorzny",
+       "pid": "tex-m-p8"
+      },
+      "b": {
+       "name": "Aidan Kim",
+       "pid": "osu-m-p5"
+      },
+      "w": null,
+      "score": " wo",
+      "date": "2025-09-26"
+     }
+    ],
+    "SF": [
+     {
+      "pos": 1,
+      "a": {
+       "name": "Dylan Dietrich",
+       "pid": "uva-m-p2"
+      },
+      "b": {
+       "name": "Jay Friend",
+       "pid": "ariz-m-fp226"
+      },
+      "w": "b",
+      "score": "6-3 4-6 7-6(7-2)",
+      "date": "2025-09-27"
+     },
+     {
+      "pos": 2,
+      "a": {
+       "name": "Devin Badenhorst",
+       "pid": "bay-m-p1"
+      },
+      "b": {
+       "name": "Aidan Kim",
+       "pid": "osu-m-p5"
+      },
+      "w": "b",
+      "score": "6-7(5-7) 6-3 6-4",
+      "date": "2025-09-27"
+     }
+    ],
+    "F": [
+     {
+      "pos": 1,
+      "a": {
+       "name": "Jay Friend",
+       "pid": "ariz-m-fp226"
+      },
+      "b": {
+       "name": "Aidan Kim",
+       "pid": "osu-m-p5"
+      },
+      "w": "a",
+      "score": "6-2 6-4",
+      "date": "2025-09-28"
+     }
+    ]
+   }
+  },
+  "playerMeta": {
+   "clem-m-p4": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "lou-m-fp70": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "fla-m-p5": {
+    "stages": [
+     "PREQUAL",
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ou-m-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "unc-m-p10": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "aub-m-n6": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "tamu-m-p6": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "osu-m-p2": {
+    "stages": [
+     "PREQUAL",
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "penn-m-p3": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "gt-m-fp197": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "lsu-m-h12": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "asu-m-p3": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "okst-m-fp203": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "mem-m-fp34": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wake-m-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ala-m-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ark-m-p4": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "duke-m-fp159": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ark-m-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ind-m-fp8": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ncst-m-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "clt-m-fp96": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "lou-m-fp71": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "clt-m-fp95": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ariz-m-fp228": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ind-m-fp10": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "neb-m-fp167": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "uk-m-p4": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ariz-m-fp304": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "uk-m-p3": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "clem-m-p6": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "uva-m-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "usf-m-fp171": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "cal-m-p11": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "msu-m-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "fla-m-p3": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "scu-m-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "unc-m-p9": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "dart-m-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ind-m-fp7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "msst-m-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "haw-m-p4": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "msu-m-fp276": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "msu-m-h10": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ou-m-p3": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "prin-m-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "msu-m-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "tulsa-m-p4": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "uk-m-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "mem-m-p4": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ou-m-p4": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "neb-m-p4": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "uga-m-p8": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "miami-m-fp78": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "nd-m-fp152": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "okst-m-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "msst-m-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ala-m-p6": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "tcu-m-fp314": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "miami-m-fp80": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "miami-m-fp82": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "cal-m-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "usf-m-p3": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ncst-m-p4": {
+    "stages": [
+     "PREQUAL",
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "fla-m-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "bay-m-p3": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "rice-m-fp16": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "clem-m-p1": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "dart-m-p8": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "okst-m-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "uga-m-p3": {
+    "stages": [
+     "PREQUAL",
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "osu-m-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "uga-m-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "tulsa-m-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wisc-m-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ark-m-p3": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wash-m-p6": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "nw-m-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "fla-m-p10": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "rice-m-fp15": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "clt-m-p4": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "lsu-m-p7": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "duke-m-p4": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ind-m-fp9": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "duke-m-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "neb-m-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "uk-m-p7": {
+    "stages": [
+     "PREQUAL",
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "wich-m-fp91": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "tex-m-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "tex-m-p10": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "dart-m-p3": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "lou-m-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "clem-m-fp327": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "usf-m-fp444": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "nd-m-p6": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "van-m-p3": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "usf-m-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ncst-m-p3": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "neb-m-fp169": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "osu-m-p11": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "rice-m-p4": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "miami-m-fp79": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "lou-m-fp69": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "miami-m-fp81": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "unc-m-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "tulsa-m-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "nd-m-p9": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "bay-m-fp63": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "clem-m-fp162": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "scu-m-p9": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "msst-m-p3": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ariz-m-fp222": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "tulsa-m-p8": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "sc-m-p4": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "sc-m-p1": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "uva-m-p8": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "wisc-m-p6": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "smu-m-p6": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "neb-m-fp168": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "asu-m-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ill-m-p4": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "aub-m-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "pepp-m-p3": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "haw-m-p9": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "msst-m-p9": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "unc-m-fp319": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "rice-m-fp17": {
+    "stages": [],
+    "alive": false
+   },
+   "tuln-m-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "uva-m-p11": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ark-m-p8": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ark-m-p2": {
+    "stages": [],
+    "alive": false
+   },
+   "ind-m-p6": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ark-m-p7": {
+    "stages": [],
+    "alive": false
+   },
+   "uk-m-p2": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "unc-m-fp318": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "bay-m-fp221": {
+    "stages": [],
+    "alive": false
+   },
+   "gonz-m-p2": {
+    "stages": [],
+    "alive": false
+   },
+   "gonz-m-fp5": {
+    "stages": [],
+    "alive": false
+   },
+   "tulsa-m-p9": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "tulsa-m-p6": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "tcu-m-fp30": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "penn-m-fp284": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "msst-m-p6": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "miami-m-fp77": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ariz-m-fp224": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ucla-m-p3": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "aub-m-p1": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "cal-m-fp1": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "tex-m-p11": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ark-m-p6": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "stan-m-fp423": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "osu-m-fp278": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "fsu-m-fp100": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "tulsa-m-p1": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "tcu-m-p3": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ariz-m-fp225": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "wake-m-p8": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "fsu-m-fp23": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "tamu-m-n3": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ucsb-m-fp184": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "tcu-m-fp104": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ucsb-m-fp181": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "wisc-m-p7": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "tcu-m-fp28": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "bay-m-fp67": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "wake-m-p4": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "uga-m-n8": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "bay-m-fp65": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "smu-m-fp13": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "asu-m-p4": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "smu-m-fp12": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "gt-m-fp427": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "tex-m-p6": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "osu-m-fp277": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "osu-m-p8": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "clem-m-p5": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "nd-m-p7": {
+    "stages": [],
+    "alive": false
+   },
+   "ncst-m-fp370": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ariz-m-fp226": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "uk-m-p5": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "penn-m-p8": {
+    "stages": [],
+    "alive": false
+   },
+   "fla-m-p6": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "prin-m-p3": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "wake-m-fp302": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "osu-m-p7": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "tamu-m-n1": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "fsu-m-fp26": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "yale-m-fp149": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "tex-m-p3": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ore-m-p1": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "uk-m-ita-p5": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "clem-m-p7": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "nd-m-fp153": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "bay-m-p1": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ucla-m-p8": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "bay-m-fp64": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "msu-m-fp274": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "usf-m-p1": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "msst-m-p8": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ucla-m-n3": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "tex-m-p8": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "colum-m-fp111": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "uva-m-p2": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "osu-m-fp279": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "msst-m-p4": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "osu-m-p5": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "stan-m-fp54": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "tex-m-p2": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "stan-m-p3": {
+    "stages": [],
+    "alive": false
+   },
+   "usc-m-n1": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "prin-m-fp246": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ill-m-fp217": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ark-m-p9": {
+    "stages": [],
+    "alive": false
+   },
+   "ucla-m-p10": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "clt-m-p7": {
+    "stages": [],
+    "alive": false
+   }
+  }
+ },
+ {
+  "id": "68c875df511913f18b49926e",
+  "name": "2025 ITA Women's All American Championships",
+  "gender": "women",
+  "level": "NAT",
+  "start": "2025-09-20",
+  "end": "2025-09-28",
+  "finished": true,
+  "matchCount": 713,
+  "ourPlayers": 216,
+  "runs": {
+   "tenn-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Willow Renton",
+     "score": "6-0 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Rylie Hanford",
+     "score": "5-7 6-4 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Kristina Paskauskas",
+     "score": "6-2 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Reese Miller",
+     "score": "6-3 3-6 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Mao Mushika / Laura Cilekova",
+     "score": "7-6(7-4) 6-7(5-7) (10-7)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Theadora Rabman / Tatum Evans",
+     "score": "2-6 6-4 (11-9)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Maria Sholokhova / Lucie Urbanova",
+     "score": "6-1 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Zoie Epps",
+     "score": "6-4 5-7 7-5",
+     "date": "2025-09-23"
+    }
+   ],
+   "isu-w-fp359": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Amelia Tye",
+     "score": "6-1 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Karina Hofbauer",
+     "score": "3-6 6-4 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Maiko Uchijima / Jordina Cegarra Ramirez",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Kaitlyn Carnicella / Daniela Piani",
+     "score": "6-1 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "ncst-w-p8": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Amara Brahmbhatt",
+     "score": "6-1 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Malak El Allami",
+     "score": "4-6 7-6(7-5) 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Edda Mamedova / Julia Garcia Ruiz",
+     "score": "7-6(7-3) 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Bianca Molnar / Bojana Pozder",
+     "score": "6-2 6-2",
+     "date": "2025-09-23"
+    }
+   ],
+   "msu-w-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Amelie Smejkalova",
+     "score": "6-1 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Bianca Molnar",
+     "score": "7-6(7-2) 7-6(7-4)",
+     "date": "2025-09-21"
+    }
+   ],
+   "minn-w-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "MaryBoyce Deatherage",
+     "score": "6-4 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Romana Cisovska / Candela Yecora",
+     "score": "6-1 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Bianca Fernandez",
+     "score": "7-6(10-8) 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "van-p8": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Katsiaryna Tuliakova",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Krystal Blanch",
+     "score": "6-2 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Alexia Harmon / Anastasiia Grechkina",
+     "score": "6-1 6-0",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Anna Zyryanova / Jasmine Conway",
+     "score": "6-3 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Reese Brantmeier / Alanis Hamilton",
+     "score": "6-3 3-6 (10-6)",
+     "date": "2025-09-26"
+    }
+   ],
+   "tex-p10": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Maralgoo Chogsomjav",
+     "score": "6-4 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Isabella Chhiv",
+     "score": "7-5 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "ksu-w-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Mathilde Ngijol Carre",
+     "score": "6-4 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Raphaelle Leroux",
+     "score": "4-6 7-6(7-1) 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Kady Tannenbaum",
+     "score": "7-6(7-2) 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Gianna Oboniye",
+     "score": "6-4 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Lavinia Tanasie / Mia Slama",
+     "score": "6-3 3-6 (10-6)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Kavya Karra / Stephanie Yakoff",
+     "score": "6-4 6-7(3-7) (10-3)",
+     "date": "2025-09-21"
+    }
+   ],
+   "msst-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Nicole Teodosescu",
+     "score": "6-1 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Claire Hill",
+     "score": "6-1 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "ind-w-fp340": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Thessy Ntondele Zinga",
+     "score": "6-1 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Reece Carter / Jermine Sherif",
+     "score": "6-1 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Lara Stojanovski",
+     "score": "6-3 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "penn-w-p6": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Rinon Okuwaki",
+     "score": "6-3 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Nicole Teodosescu",
+     "score": "6-3 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "ttu-w-fp269": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Marcela Lopez",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Tianna Rangan",
+     "score": "6-1 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "unt-w-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Lidiia Rasskouskaia",
+     "score": "6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Brianna Baldi",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "neb-w-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Artemis Aslanisvili",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Julia Zhu / Zoe Hammond",
+     "score": "6-2 7-6(7-3)",
+     "date": "2025-09-20"
+    }
+   ],
+   "umd-w-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Elim Yan",
+     "score": "6-4 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Lauren Friedman / Helena Buchwald",
+     "score": "6-3 6-7(7-9) (10-4)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Stephanie Yakoff",
+     "score": "6-2 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Audrey Spencer / Nao Nishino",
+     "score": "7-6(7-5) 6-1",
+     "date": "2025-09-23"
+    }
+   ],
+   "cincy-w-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Tianna Rangan",
+     "score": "6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Marcela Lopez",
+     "score": "6-4 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "wisc-w-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Gabrielle Guenther",
+     "score": "6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Hailey Murphy",
+     "score": "6-1 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Claire Hill",
+     "score": "5-7 7-5 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Melodie Collard",
+     "score": "7-6(7-2) 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Gabriella Broadfoot",
+     "score": "6-0 6-4",
+     "date": "2025-09-23"
+    }
+   ],
+   "colum-w-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Bianca Molnar",
+     "score": "7-5 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Amelie Smejkalova",
+     "score": "4-6 7-6(7-5) 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Alice Ferlito",
+     "score": "6-1 2-6 7-6(7-1)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Lauren Friedman / Helena Buchwald",
+     "score": "6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Nevena Carton / Kady Tannenbaum",
+     "score": "6-3 4-6 (10-4)",
+     "date": "2025-09-21"
+    }
+   ],
+   "nd-w-p10": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Malak El Allami",
+     "score": "7-5 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Daria Smetannikov / Mia Kupres",
+     "score": "6-3 5-7 (10-7)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Catherine Aulia / Leyla Britez Risso",
+     "score": "6-3 7-6(11-9)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Gaia Parravicini / Amelie Smejkalova",
+     "score": "6-2 6-2",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Amara Brahmbhatt",
+     "score": "7-6(7-2) 7-6(7-4)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Giorgia Roselli / Xin Tong Wang",
+     "score": "6-4 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Emma Charney / Lily Fairclough",
+     "score": "6-3 7-6(9-7)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-F",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Darya Schwartzman / Uma Bakaityte",
+     "score": "6-2 4-6 (10-7)",
+     "date": "2025-09-28"
+    }
+   ],
+   "tcu-w-fp430": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Laima Frosch",
+     "score": "2-6 6-4 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Emma Kamper",
+     "score": "6-1 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "vt-w-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Letizia Corsini",
+     "score": "2-6 6-4 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Maeve Thornton",
+     "score": "6-1 6-1",
+     "date": "2025-09-21"
+    }
+   ],
+   "fsu-w-fp387": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Candela Yecora",
+     "score": "1-6 6-0 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Zoie Epps",
+     "score": "6-2 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Jingyi Li / Krystal Blanch",
+     "score": "7-6(7-5) 6-4",
+     "date": "2025-09-20"
+    }
+   ],
+   "clem-w-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Kristyna Lavickova",
+     "score": "1-6 6-0 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Anali Kocevar / Mia Liepert",
+     "score": "6-1 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Piper Charney / Emily Sartz -Lunde",
+     "score": "6-3 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Gabia Paskauskas / Valery Gynina",
+     "score": "1-6 6-4 (10-5)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Dariya Radulova",
+     "score": "6-1 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Shavit Kimchi / Claire An",
+     "score": "6-3 3-6 (10-7)",
+     "date": "2025-09-23"
+    }
+   ],
+   "sc-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Alice Ferlito",
+     "score": "7-5 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Malak El Allami / Gayathri Krishnan",
+     "score": "6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Emma Ghirardato / Ema Kovacevic",
+     "score": "6-3 6-7(7-9) (10-4)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Kira Matushkina / Lidiia Rasskouskaia",
+     "score": "6-3 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Giorgia Roselli / Xin Tong Wang",
+     "score": "7-6(10-8) 6-2",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Meg McCarty",
+     "score": "7-5 3-6 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "prin-w-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Helena Buchwald",
+     "score": "7-5 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Trinetra Vijayakumar",
+     "score": "5-7 6-3 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Malak El Allami",
+     "score": "6-1 2-6 7-6(7-1)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Na Dong",
+     "score": "6-3 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Leonie Moeller",
+     "score": "7-6(7-2) 6-4",
+     "date": "2025-09-23"
+    }
+   ],
+   "fsu-w-p8": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Stephanie Yakoff",
+     "score": "7-5 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Jingyi Li / Krystal Blanch",
+     "score": "7-6(7-5) 6-4",
+     "date": "2025-09-20"
+    }
+   ],
+   "harv-w-p11": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Laura Putz",
+     "score": "7-5 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Jaquelyn Ogunwale / Sebastianna Scilipoti",
+     "score": "6-1 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Luciana Perry / Teah Chavez",
+     "score": "0-6 7-6(10-8) (10-8)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Maralgoo Chogsomjav / Zhanel Rustemova",
+     "score": "6-4 6-7(3-7) (10-3)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Ema Kovacevic",
+     "score": "6-2 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "ind-w-p8": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Mariia Hlahola",
+     "score": "6-3 3-6 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Reece Carter / Jermine Sherif",
+     "score": "6-1 6-2",
+     "date": "2025-09-20"
+    }
+   ],
+   "ttu-w-fp270": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Alessandra Teodosescu",
+     "score": "6-3 3-6 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Rinon Okuwaki",
+     "score": "6-7(2-7) 6-4 7-6(7-1)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Maria de la Paz Alberto",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Mary Grace Rennard / Claire Hill",
+     "score": "6-2 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Anna Zyryanova / Jasmine Conway",
+     "score": "7-6(7-5) 6-1",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Savannah Dada-Mascoll / Naledi Manyube",
+     "score": "6-4 2-6 (12-10)",
+     "date": "2025-09-26"
+    }
+   ],
+   "ill-w-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Zara Larke",
+     "score": "2-6 6-4 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Oyinlomo Quadre / Chloe Noel",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Maxine Murphy",
+     "score": "6-2 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "ala-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Ariel Madatali",
+     "score": "2-6 6-4 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Claire An",
+     "score": "6-2 2-6 7-5",
+     "date": "2025-09-21"
+    }
+   ],
+   "van-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Meg McCarty",
+     "score": "6-4 3-6 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Alice Ferlito",
+     "score": "5-7 6-3 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "ku-w-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Trinetra Vijayakumar",
+     "score": "6-4 3-6 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Audrey Spencer / Nao Nishino",
+     "score": "6-3 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Helena Buchwald",
+     "score": "7-5 3-6 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Olivia Dorner / Maelie Monfils",
+     "score": "6-4 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "nd-w-fp265": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Lara Bakhaya",
+     "score": "2-6 7-5 7-6(7-3)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Vanesa Suarez",
+     "score": "5-7 6-4 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Na Dong / Zuzanna Kubacha",
+     "score": "6-3 6-3",
+     "date": "2025-09-22"
+    }
+   ],
+   "wake-w-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Sofiia Mykhailets",
+     "score": "6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Sophia Webster",
+     "score": "6-2 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Aely Arai",
+     "score": "6-3 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Laura Putz / Kristyna Lavickova",
+     "score": "7-6(7-5) 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Erika Matsuda / Carina Syrtveit",
+     "score": "6-2 6-1",
+     "date": "2025-09-21"
+    }
+   ],
+   "clem-w-p6": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Gloriana Nahum",
+     "score": "6-1 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Anali Kocevar / Mia Liepert",
+     "score": "6-1 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Piper Charney / Emily Sartz -Lunde",
+     "score": "6-3 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Gabia Paskauskas / Valery Gynina",
+     "score": "1-6 6-4 (10-5)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Yahli Noy",
+     "score": "7-6(7-3) 5-7 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Shavit Kimchi / Claire An",
+     "score": "6-3 3-6 (10-7)",
+     "date": "2025-09-23"
+    }
+   ],
+   "ou-p6": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Romana Cisovska",
+     "score": "6-1 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Charlotte Owensby",
+     "score": "4-6 6-1 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Erika Matsuda / Carina Syrtveit",
+     "score": "6-3 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Emma Charney / Lily Fairclough",
+     "score": "0-6 6-4 (10-5)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Nikola Daubnerova / Xinyi Nong",
+     "score": "6-3 3-6 (10-5)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Vivian Yang / Melodie Collard",
+     "score": "7-6(7-4) 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Catherine Aulia / Leyla Britez Risso",
+     "score": "6-7(4-7) 6-3 (10-6)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Reese Brantmeier / Alanis Hamilton",
+     "score": "6-7(3-7) 7-6(7-5) (10-4)",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "F",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Maria Sholokhova / Lucie Urbanova",
+     "score": "6-3 6-3",
+     "date": "2025-09-28"
+    }
+   ],
+   "miami-w-fp325": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Daniela Piani",
+     "score": "6-4 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Kavya Karra / Stephanie Yakoff",
+     "score": "6-1 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Ni Xi",
+     "score": "6-1 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Lavinia Tanasie / Mia Slama",
+     "score": "4-6 6-3 (10-6)",
+     "date": "2025-09-21"
+    }
+   ],
+   "sc-p9": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Sebastianna Scilipoti",
+     "score": "6-4 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Ekua Youri",
+     "score": "7-6(7-1) 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Bojana Pozder",
+     "score": "6-7(5-7) 6-2 6-0",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Edda Mamedova",
+     "score": "6-1 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Leigh Van Zyl / Campbell Ricci",
+     "score": "6-2 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Mia Yamakita / Erin Pearce",
+     "score": "6-4 1-6 (10-5)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Ashlee Narker / Julia Camblor",
+     "score": "6-1 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "ark-p8": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Johanna Strom",
+     "score": "6-2 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Olivia Dorner / Maelie Monfils",
+     "score": "6-4 5-7 (13-11)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Shavit Kimchi / Claire An",
+     "score": "6-3 4-6 (10-8)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Annabelle Xu / Martina Genis Salas",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Audrey Spencer / Nao Nishino",
+     "score": "6-4 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Piper Charney / Emily Sartz -Lunde",
+     "score": "7-6(7-5) 3-6 (10-8)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Wenfei Yu",
+     "score": "7-6(7-5) 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Ashton Bowers / DJ Bennett",
+     "score": "3-6 7-5 (10-5)",
+     "date": "2025-09-25"
+    }
+   ],
+   "colum-w-p8": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Chloe Noel",
+     "score": "3-6 6-0 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Patrycja Niewiadomska",
+     "score": "7-5 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "ou-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Amber Yin",
+     "score": "3-6 6-0 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Laura Cilekova",
+     "score": "6-0 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Heike Janse Van Vuuren",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Gabriella Broadfoot",
+     "score": "6-3 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "McKenna Schaefbauer / Ariel Madatali",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Maria Sholokhova / Lucie Urbanova",
+     "score": "6-2 7-6(7-1)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Julia Zhu / Zoe Hammond",
+     "score": "7-6(7-3) 6-1",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Melodie Collard",
+     "score": "6-3 5-7 7-6(7-3)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Orly Ogilvy / Leena Friedman",
+     "score": "6-1 4-6 (10-5)",
+     "date": "2025-09-23"
+    }
+   ],
+   "tenn-p8": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Emma Kamper",
+     "score": "6-3 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Laima Frosch",
+     "score": "6-1 6-1",
+     "date": "2025-09-21"
+    }
+   ],
+   "msu-w-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Giorgia Roselli",
+     "score": "6-0 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Sandugash Kenzhibayeva",
+     "score": "6-1 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "wich-w-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Matilde Morais",
+     "score": "6-0 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Audrey Spencer / Nao Nishino",
+     "score": "1-6 6-4 (10-5)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Lily Jones / Jessica Bernales",
+     "score": "6-3 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Lauren Friedman / Helena Buchwald",
+     "score": "7-6(10-8) 6-2",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Mai Nguyen",
+     "score": "6-1 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Bianca Molnar / Bojana Pozder",
+     "score": "6-4 6-3",
+     "date": "2025-09-25"
+    }
+   ],
+   "wake-w-p9": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Brianna Baldi",
+     "score": "7-6(7-5) 6-7(2-7) 7-6(7-2)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Lidiia Rasskouskaia",
+     "score": "6-1 6-1",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Maralgoo Chogsomjav",
+     "score": "7-6(7-2) 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Kira Matushkina / Lidiia Rasskouskaia",
+     "score": "6-2 3-6 (10-4)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Malak El Allami / Gayathri Krishnan",
+     "score": "6-3 4-6 (10-4)",
+     "date": "2025-09-21"
+    }
+   ],
+   "psu-w-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Kady Tannenbaum",
+     "score": "7-6(7-5) 6-7(2-7) 7-6(7-2)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Stadfany Nformi",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "ou-w-n1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Dariya Radulova",
+     "score": "6-4 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Kristyna Lavickova",
+     "score": "6-2 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Nevena Kolarevic",
+     "score": "7-5 6-0",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Daianne Hayashida",
+     "score": "6-2 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Vanesa Suarez",
+     "score": "6-4 5-7 7-5",
+     "date": "2025-09-23"
+    }
+   ],
+   "port-w-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Zoie Epps",
+     "score": "6-4 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Candela Yecora",
+     "score": "6-1 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "umd-w-p9": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Sophie Llewellyn",
+     "score": "6-2 7-6(7-3)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Sara Suchankova",
+     "score": "3-6 6-3 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Neena Feldman",
+     "score": "6-2 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Raquel Gonzalez",
+     "score": "6-2 2-6 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Monika EKSTRAND",
+     "score": "7-6(7-2) 6-3",
+     "date": "2025-09-23"
+    }
+   ],
+   "smu-w-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Oliwia Orlinska",
+     "score": "6-2 7-6(7-3)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Tereza Dejnozkova",
+     "score": "3-6 6-1 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "psu-w-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Bianca Fernandez",
+     "score": "6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "MaryBoyce Deatherage",
+     "score": "6-4 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Emma Kamper",
+     "score": "6-4 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "ucla-w-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Patricia Grigoras",
+     "score": "6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Vivian Yang / Melodie Collard",
+     "score": "6-3 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Mia Liepert",
+     "score": "7-6(10-8) 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Emma Charney / Lily Fairclough",
+     "score": "6-3 6-4",
+     "date": "2025-09-25"
+    }
+   ],
+   "wsu-w-p6": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Charlotte Owensby",
+     "score": "6-1 6-2",
+     "date": "2025-09-20"
+    }
+   ],
+   "wisc-w-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Jaquelyn Ogunwale",
+     "score": "3-6 6-2 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Anna-Marie Weissheim",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "miami-w-fp457": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Ekaterina Ivanova",
+     "score": "3-6 6-2 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Isabelle Lacy",
+     "score": "3-6 6-1 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Kavya Karra / Stephanie Yakoff",
+     "score": "6-1 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Lavinia Tanasie / Mia Slama",
+     "score": "4-6 6-3 (10-6)",
+     "date": "2025-09-21"
+    }
+   ],
+   "rut-w-fp392": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Sandugash Kenzhibayeva",
+     "score": "6-3 5-7 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Giorgia Roselli",
+     "score": "6-1 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "iowa-w-fp429": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Sara Suchankova",
+     "score": "6-3 3-6 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Berta Passola Folch / Naomi Xu",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Jade Groen / Rinon Okuwaki",
+     "score": "7-5 4-6 (11-9)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Reece Carter / Jermine Sherif",
+     "score": "6-3 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Sophie Llewellyn",
+     "score": "3-6 6-1 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "nd-w-fp281": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Sara Akid",
+     "score": "6-4 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Eva Shaw",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Daniela Piani",
+     "score": "6-7(5-7) 6-2 6-0",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Daria Smetannikov / Mia Kupres",
+     "score": "6-3 5-7 (10-7)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Catherine Aulia / Leyla Britez Risso",
+     "score": "6-3 7-6(11-9)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Gaia Parravicini / Amelie Smejkalova",
+     "score": "6-2 6-2",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Giorgia Roselli / Xin Tong Wang",
+     "score": "6-4 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Emma Charney / Lily Fairclough",
+     "score": "6-3 7-6(9-7)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-F",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Darya Schwartzman / Uma Bakaityte",
+     "score": "6-2 4-6 (10-7)",
+     "date": "2025-09-28"
+    }
+   ],
+   "utah-w-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Bojana Pozder",
+     "score": "6-4 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Gaia Parravicini",
+     "score": "7-6(7-3) 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "umd-w-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Kaila Barksdale",
+     "score": "6-2 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Shachf Lieberman",
+     "score": "7-6(7-3) 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Amelia Bissett",
+     "score": "6-3 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Lauren Friedman / Helena Buchwald",
+     "score": "6-3 6-7(7-9) (10-4)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Audrey Spencer / Nao Nishino",
+     "score": "7-6(7-5) 6-1",
+     "date": "2025-09-23"
+    }
+   ],
+   "utah-w-fp300": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Emma Ghirardato",
+     "score": "6-2 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Julia Camblor",
+     "score": "6-4 3-6 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "cal-w-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Patrycja Niewiadomska",
+     "score": "6-1 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Chloe Noel",
+     "score": "6-0 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Vanesa Suarez / Sami Yli-Piipari",
+     "score": "7-6(7-4) 6-7(5-7) (10-7)",
+     "date": "2025-09-24"
+    }
+   ],
+   "duke-w-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Maxine Murphy",
+     "score": "3-6 6-3 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Zara Larke",
+     "score": "6-2 2-6 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Ahmani Guichard",
+     "score": "7-6(7-2) 7-6(8-6)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Anet Koskel / Carolina Gomez Alonso",
+     "score": "6-3 4-6 (10-8)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Romana Cisovska / Candela Yecora",
+     "score": "6-3 3-6 (10-7)",
+     "date": "2025-09-23"
+    }
+   ],
+   "wsu-w-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Claire An",
+     "score": "3-6 6-3 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Nikola Daubnerova / Xinyi Nong",
+     "score": "6-4 2-6 (10-4)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Ariel Madatali",
+     "score": "6-2 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "fsu-w-n1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Wenfei Yu",
+     "score": "6-3 5-7 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Johanna Strom",
+     "score": "6-3 2-6 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Emma Ghirardato",
+     "score": "6-3 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "ucla-w-p8": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Eva Alvarez Sande",
+     "score": "6-3 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Prisca Abbas",
+     "score": "1-6 6-0 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "wsu-w-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Olivia Center",
+     "score": "6-3 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Nikola Daubnerova / Xinyi Nong",
+     "score": "6-4 2-6 (10-4)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Lorie Lemongo",
+     "score": "6-3 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "ariz-w-p6": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "McKenna Schaefbauer",
+     "score": "6-4 5-7 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Alexia Jacobs / Anna-Marie Weissheim",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Gabriella Broadfoot / Victoria Osuigwe",
+     "score": "6-1 6-7(3-7) (10-2)",
+     "date": "2025-09-25"
+    }
+   ],
+   "isu-w-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Shachf Lieberman",
+     "score": "7-6(7-1) 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Maiko Uchijima / Jordina Cegarra Ramirez",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Kaitlyn Carnicella / Daniela Piani",
+     "score": "6-1 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Kaila Barksdale",
+     "score": "6-4 3-6 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "ucsb-w-fp301": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Julia Camblor",
+     "score": "7-6(7-1) 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Emma Ghirardato",
+     "score": "7-6(7-3) 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "uva-w-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Estefania Gonzalez",
+     "score": "6-1 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Maria de la Paz Alberto",
+     "score": "7-5 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Anet Koskel / Carolina Gomez Alonso",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Maria Sholokhova / Lucie Urbanova",
+     "score": "6-1 6-2",
+     "date": "2025-09-25"
+    }
+   ],
+   "wash-w-p9": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Karina Hofbauer",
+     "score": "6-4 5-7 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Valerija Maija Kargina / Nevena Kolarevic",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Roisin Gilheany / Gloriana Nahum",
+     "score": "6-3 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Jingyi Li / Krystal Blanch",
+     "score": "6-2 6-1",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Amelia Tye",
+     "score": "6-3 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "cal-w-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Anna Bella Bianca Bergqvist Larsson",
+     "score": "6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Uma Bakaityte",
+     "score": "6-3 7-5",
+     "date": "2025-09-21"
+    }
+   ],
+   "ariz-w-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Emmie Moore",
+     "score": "4-6 7-6(8-6) 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Catherine Goldman",
+     "score": "6-2 6-0",
+     "date": "2025-09-21"
+    }
+   ],
+   "utah-w-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Tanvi Narendran",
+     "score": "4-6 7-6(8-6) 6-1",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Darya Schwartzman",
+     "score": "6-4 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Charlotte Owensby",
+     "score": "6-2 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Reece Carter",
+     "score": "7-5 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Gabia Paskauskas / Valery Gynina",
+     "score": "6-1 4-6 (10-5)",
+     "date": "2025-09-20"
+    }
+   ],
+   "ucla-w-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Uma Bakaityte",
+     "score": "6-3 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Anna Bella Bianca Bergqvist Larsson",
+     "score": "6-1 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Claire An",
+     "score": "7-6(7-2) 7-6(8-6)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Mia Slama",
+     "score": "4-6 6-3 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Divna Ratkovic",
+     "score": "6-1 7-5",
+     "date": "2025-09-23"
+    }
+   ],
+   "rice-w-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Ahmani Guichard",
+     "score": "6-3 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Gabriella Broadfoot / Victoria Osuigwe",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Greta Greco Lucchina",
+     "score": "6-3 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Alexia Jacobs / Anna-Marie Weissheim",
+     "score": "1-6 6-4 (10-4)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Heike Janse Van Vuuren / Kyoka Kubo",
+     "score": "6-3 6-7(2-7) (10-7)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-SF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Ashton Bowers / DJ Bennett",
+     "score": "6-3 6-3",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-F",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Bianca Molnar / Bojana Pozder",
+     "score": "6-2 4-6 (10-7)",
+     "date": "2025-09-28"
+    }
+   ],
+   "uva-w-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Anna-Marie Weissheim",
+     "score": "6-0 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Jaquelyn Ogunwale",
+     "score": "3-6 6-1 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Mia Yamakita",
+     "score": "6-4 4-6 7-5",
+     "date": "2025-09-21"
+    }
+   ],
+   "wash-w-fp107": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Isabelle Lacy",
+     "score": "6-0 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Martyna Ostrzygalo / Josie Usereau",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Ekaterina Ivanova",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Darya Schwartzman / Uma Bakaityte",
+     "score": "1-6 6-4 (10-4)",
+     "date": "2025-09-25"
+    }
+   ],
+   "ucsb-w-p10": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Ni Xi",
+     "score": "6-4 1-6 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Daniela Piani",
+     "score": "7-6(7-1) 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "ala-p9": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Mila Mulready",
+     "score": "6-2 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Naledi Manyube",
+     "score": "7-6(7-3) 7-6(7-4)",
+     "date": "2025-09-21"
+    }
+   ],
+   "wisc-w-p8": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Catherine Walker",
+     "score": "7-5 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Oyinlomo Quadre / Chloe Noel",
+     "score": "6-2 7-6(7-1)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Ashton Bowers / DJ Bennett",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Valeria Ray / Bridget Stammel",
+     "score": "3-6 7-6(7-4) (10-5)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Annabelle Xu / Martina Genis Salas",
+     "score": "6-1 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Vanesa Suarez / Sami Yli-Piipari",
+     "score": "6-1 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Gabriella Broadfoot / Victoria Osuigwe",
+     "score": "6-4 6-4",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "F",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Roisin Gilheany / Gloriana Nahum",
+     "score": "6-3 6-3",
+     "date": "2025-09-28"
+    }
+   ],
+   "prin-w-fp364": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Raphaelle Leroux",
+     "score": "6-7(8-10) 6-4 7-6(9-7)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Mathilde Ngijol Carre",
+     "score": "7-5 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "ucsb-w-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Isabella Chhiv",
+     "score": "6-7(8-10) 6-4 7-6(9-7)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Maralgoo Chogsomjav",
+     "score": "4-6 7-6(7-1) 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "van-p9": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Miranda Noor",
+     "score": "6-1 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Naomi Xu",
+     "score": "6-2 2-6 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Isabelle Lacy",
+     "score": "6-4 4-6 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Zuzanna Kubacha",
+     "score": "6-4 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Kaitlyn Carnicella / Daniela Piani",
+     "score": "6-4 1-6 (10-5)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Theadora Rabman / Tatum Evans",
+     "score": "2-6 6-4 (10-7)",
+     "date": "2025-09-23"
+    }
+   ],
+   "psu-w-fp267": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Neena Feldman",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Ashlee Narker / Julia Camblor",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Emma Rizzetto",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Leigh Van Zyl / Campbell Ricci",
+     "score": "6-3 4-6 (10-2)",
+     "date": "2025-09-21"
+    }
+   ],
+   "nw-w-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Jordina Cegarra Ramirez",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Florentine Dekkers",
+     "score": "6-4 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Oliwia Orlinska",
+     "score": "6-2 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "clem-w-p4": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Eva Shaw",
+     "score": "6-2 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Edda Mamedova / Julia Garcia Ruiz",
+     "score": "7-6(7-3) 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Bianca Molnar / Bojana Pozder",
+     "score": "6-2 6-2",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Sara Akid",
+     "score": "7-6(7-3) 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "fsu-w-p9": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Gaia Parravicini",
+     "score": "6-2 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Bojana Pozder",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "isu-w-fp358": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Maria Garcia",
+     "score": "7-6(7-4) 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Martina Genis Salas",
+     "score": "7-5 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Mariia Hlahola",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Divna Ratkovic",
+     "score": "6-1 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Valerie Glozman",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Mia Slama",
+     "score": "4-6 7-5 6-4",
+     "date": "2025-09-23"
+    }
+   ],
+   "ariz-w-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Maria de la Paz Alberto",
+     "score": "7-6(7-4) 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Estefania Gonzalez",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "tcu-w-fp402": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Olivia Dorner",
+     "score": "6-1 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Xinyi Nong",
+     "score": "7-6(7-2) 7-6(7-3)",
+     "date": "2025-09-21"
+    }
+   ],
+   "psu-w-p6": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Yu-Chin Tsai",
+     "score": "6-1 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Anet Koskel / Carolina Gomez Alonso",
+     "score": "6-4 5-7 (13-11)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Jasmine Conway",
+     "score": "6-7(5-7) 6-4 6-0",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Meg McCarty / Sandugash Kenzhibayeva",
+     "score": "6-4 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "lsu-p12": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Emma Rizzetto",
+     "score": "7-6(7-4) 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Neena Feldman",
+     "score": "6-4 7-5",
+     "date": "2025-09-21"
+    }
+   ],
+   "neb-w-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Florentine Dekkers",
+     "score": "7-6(7-4) 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Julia Zhu / Zoe Hammond",
+     "score": "6-2 7-6(7-3)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Jordina Cegarra Ramirez",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "ncst-w-p3": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Nikola Daubnerova",
+     "score": "7-6(7-5) 7-6(7-2)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Yekaterina Dmitrichenko / Mariia Hlahola",
+     "score": "7-6(7-5) 6-1",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Sophia Webster / Celia-Belle Mohr",
+     "score": "6-3 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Olivia Dorner",
+     "score": "6-7(5-7) 6-4 6-0",
+     "date": "2025-09-21"
+    }
+   ],
+   "fla-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Jasmine Conway",
+     "score": "7-6(7-5) 7-6(7-2)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "McKenna Schaefbauer",
+     "score": "6-2 7-6(7-4)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Jermine Sherif",
+     "score": "6-4 2-6 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Eva Alvarez Sande / Maxine Murphy",
+     "score": "6-4 2-6 (10-4)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Roisin Gilheany / Gloriana Nahum",
+     "score": "6-3 3-6 (10-5)",
+     "date": "2025-09-23"
+    }
+   ],
+   "ala-p10": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Nevena Kolarevic",
+     "score": "6-4 6-2",
+     "date": "2025-09-20"
+    }
+   ],
+   "rice-w-fp305": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Catherine Goldman",
+     "score": "6-7(5-7) 6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Emmie Moore",
+     "score": "6-4 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Gabriella Broadfoot / Victoria Osuigwe",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Alexia Jacobs / Anna-Marie Weissheim",
+     "score": "1-6 6-4 (10-4)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Heike Janse Van Vuuren / Kyoka Kubo",
+     "score": "6-3 6-7(2-7) (10-7)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-SF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Ashton Bowers / DJ Bennett",
+     "score": "6-3 6-3",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-F",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Bianca Molnar / Bojana Pozder",
+     "score": "6-2 4-6 (10-7)",
+     "date": "2025-09-28"
+    }
+   ],
+   "cal-w-p9": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Daria Munteanu",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Mia Yamakita",
+     "score": "6-2 2-6 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Daianne Hayashida / Tereza Dejnozkova",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    }
+   ],
+   "neb-w-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Kaede Usui",
+     "score": "6-2 7-6(7-3)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Katie Codd",
+     "score": "7-5 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "wisc-w-p9": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Maria Taranova",
+     "score": "6-2 7-6(7-3)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Heike Janse Van Vuuren",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "vt-w-fp335": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Jermine Sherif",
+     "score": "6-1 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Valeria Ray / Bridget Stammel",
+     "score": "6-1 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Kinaa Graham",
+     "score": "6-4 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Heike Janse Van Vuuren / Kyoka Kubo",
+     "score": "6-2 6-4",
+     "date": "2025-09-25"
+    }
+   ],
+   "wash-w-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Arina Gamretkaia",
+     "score": "6-1 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Kennedy Gibbs",
+     "score": "6-2 3-6 6-1",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Nikola Daubnerova",
+     "score": "6-4 2-6 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Alessandra Teodosescu / Nicole Teodosescu",
+     "score": "6-1 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Daianne Hayashida / Tereza Dejnozkova",
+     "score": "6-3 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "duke-w-fp308": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Heike Janse Van Vuuren",
+     "score": "6-3 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Maria Taranova",
+     "score": "7-5 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "ku-w-p5": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Katie Codd",
+     "score": "6-3 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Kaede Usui",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Chloe Noel",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Ange Oby Kajuru / Susanna Maltby",
+     "score": "6-4 6-1",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Arina Gamretkaia / Ozlem Uslu",
+     "score": "6-2 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Darya Schwartzman / Uma Bakaityte",
+     "score": "6-3 6-7(2-7) (10-7)",
+     "date": "2025-09-26"
+    }
+   ],
+   "lsu-p11": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Kennedy Gibbs",
+     "score": "6-3 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Arina Gamretkaia",
+     "score": "6-4 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "bay-w-fp232": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Kinaa Graham",
+     "score": "6-3 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Jermine Sherif",
+     "score": "6-2 3-6 6-1",
+     "date": "2025-09-21"
+    }
+   ],
+   "nw-w-p7": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Stanislava Shulzhenko",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Alexia Jacobs",
+     "score": "6-3 7-5",
+     "date": "2025-09-21"
+    }
+   ],
+   "isu-w-p8": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Autumn Rabjohns",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Raquel Caballero Chica",
+     "score": "7-6(7-1) 6-0",
+     "date": "2025-09-21"
+    }
+   ],
+   "uga-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Katarina Pavlechova",
+     "score": "6-3 7-6(7-4)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Mary Grace Rennard",
+     "score": "6-3 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Raquel Caballero Chica",
+     "score": "6-2 3-6 7-6(7-3)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Alexia Harmon",
+     "score": "6-3 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Shavit Kimchi",
+     "score": "4-6 6-1 6-1",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Vivian Yang",
+     "score": "6-3 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Emma Kamper",
+     "score": "6-3 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Emma Charney",
+     "score": "6-2 1-6 6-2",
+     "date": "2025-09-26"
+    }
+   ],
+   "ark-p6": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Deniz Dilek",
+     "score": "6-3 7-6(7-4)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Julia Millan",
+     "score": "6-2 6-1",
+     "date": "2025-09-21"
+    }
+   ],
+   "fla-p8": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Kenna Erickson",
+     "score": "3-6 6-4 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Maelie Monfils",
+     "score": "6-2 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Prisca Abbas",
+     "score": "6-4 6-3",
+     "date": "2025-09-21"
+    }
+   ],
+   "unc-w-p10": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Julia Millan",
+     "score": "7-5 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Deniz Dilek",
+     "score": "6-3 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Yekaterina Dmitrichenko / Mariia Hlahola",
+     "score": "6-2 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Jade Groen / Rinon Okuwaki",
+     "score": "6-2 6-4",
+     "date": "2025-09-23"
+    }
+   ],
+   "psu-w-p8": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Sonya Macavei",
+     "score": "6-4 4-6 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Lucie Pawlak",
+     "score": "6-2 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Anet Koskel / Carolina Gomez Alonso",
+     "score": "6-4 5-7 (13-11)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Meg McCarty / Sandugash Kenzhibayeva",
+     "score": "6-4 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "van-p2": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Maelie Monfils",
+     "score": "6-4 4-6 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Kenna Erickson",
+     "score": "5-7 6-4 6-2",
+     "date": "2025-09-21"
+    }
+   ],
+   "wash-w-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Raquel Caballero Chica",
+     "score": "6-4 1-6 7-6(7-3)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Martyna Ostrzygalo / Josie Usereau",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R128-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Autumn Rabjohns",
+     "score": "6-3 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Darya Schwartzman / Uma Bakaityte",
+     "score": "1-6 6-4 (10-4)",
+     "date": "2025-09-25"
+    }
+   ],
+   "tcu-w-p1": [
+    {
+     "round": "R256",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Alexia Jacobs",
+     "score": "6-4 1-6 7-6(7-3)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Stanislava Shulzhenko",
+     "score": "7-6(7-1) 6-0",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Deniz Dilek",
+     "score": "6-2 3-6 7-6(7-3)",
+     "date": "2025-09-21"
+    }
+   ],
+   "minn-w-p3": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Romana Cisovska / Candela Yecora",
+     "score": "6-1 6-3",
+     "date": "2025-09-20"
+    }
+   ],
+   "sc-p4": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Bridget Stammel",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Leigh Van Zyl / Campbell Ricci",
+     "score": "6-2 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Mia Yamakita / Erin Pearce",
+     "score": "6-4 1-6 (10-5)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Emma Charney",
+     "score": "4-6 6-3 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Ashlee Narker / Julia Camblor",
+     "score": "6-1 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Salakthip Ounmang",
+     "score": "4-6 7-6(7-3) 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Aysegul Mert",
+     "score": "6-4 7-5",
+     "date": "2025-09-26"
+    }
+   ],
+   "tuln-w-fp114": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Kaitlyn Carnicella / Daniela Piani",
+     "score": "6-2 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Maiko Uchijima / Jordina Cegarra Ramirez",
+     "score": "6-3 4-6 (10-2)",
+     "date": "2025-09-21"
+    }
+   ],
+   "tuln-w-p7": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Alyssa Ahn",
+     "score": "6-4 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Kaitlyn Carnicella / Daniela Piani",
+     "score": "6-2 6-0",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Maiko Uchijima / Jordina Cegarra Ramirez",
+     "score": "6-3 4-6 (10-2)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Gianna Oboniye",
+     "score": "6-4 1-6 6-3",
+     "date": "2025-09-23"
+    }
+   ],
+   "psu-w-p9": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Ashlee Narker / Julia Camblor",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Leigh Van Zyl / Campbell Ricci",
+     "score": "6-3 4-6 (10-2)",
+     "date": "2025-09-21"
+    }
+   ],
+   "ou-p9": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Vivian Yang",
+     "score": "6-2 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "McKenna Schaefbauer / Ariel Madatali",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Maria Sholokhova / Lucie Urbanova",
+     "score": "6-2 7-6(7-1)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Julia Zhu / Zoe Hammond",
+     "score": "7-6(7-3) 6-1",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Alexia Harmon",
+     "score": "7-6(7-3) 6-1",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Orly Ogilvy / Leena Friedman",
+     "score": "6-1 4-6 (10-5)",
+     "date": "2025-09-23"
+    }
+   ],
+   "sc-p7": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Malak El Allami / Gayathri Krishnan",
+     "score": "6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Emma Ghirardato / Ema Kovacevic",
+     "score": "6-3 6-7(7-9) (10-4)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Kira Matushkina / Lidiia Rasskouskaia",
+     "score": "6-3 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Giorgia Roselli / Xin Tong Wang",
+     "score": "7-6(10-8) 6-2",
+     "date": "2025-09-23"
+    }
+   ],
+   "colum-w-p5": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Salakthip Ounmang",
+     "score": "7-5 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Lauren Friedman / Helena Buchwald",
+     "score": "6-2 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Nevena Carton / Kady Tannenbaum",
+     "score": "6-3 4-6 (10-4)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Nevena Carton",
+     "score": "6-4 6-3",
+     "date": "2025-09-23"
+    }
+   ],
+   "wake-w-p3": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Sandugash Kenzhibayeva",
+     "score": "6-7(8-10) 6-1 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Kira Matushkina / Lidiia Rasskouskaia",
+     "score": "6-2 3-6 (10-4)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Malak El Allami / Gayathri Krishnan",
+     "score": "6-3 4-6 (10-4)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Gayathri Krishnan",
+     "score": "6-4 6-3",
+     "date": "2025-09-23"
+    }
+   ],
+   "tcu-w-p6": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Monika EKSTRAND",
+     "score": "7-6(9-7) 7-6(7-4)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Nevena Carton / Kady Tannenbaum",
+     "score": "6-2 3-6 (10-4)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Lauren Friedman / Helena Buchwald",
+     "score": "6-3 6-4",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Raquel Gonzalez",
+     "score": "6-4 3-6 6-2",
+     "date": "2025-09-23"
+    }
+   ],
+   "osu-w-p10": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Jade Groen",
+     "score": "6-2 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Emilija Tverijonaite",
+     "score": "6-2 6-1",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Meg McCarty / Sandugash Kenzhibayeva",
+     "score": "6-3 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Giorgia Roselli / Xin Tong Wang",
+     "score": "1-6 6-4 (10-5)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Alanis Hamilton",
+     "score": "1-6 6-3 6-2",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Anet Koskel / Carolina Gomez Alonso",
+     "score": "6-4 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Emma Ghirardato / Ema Kovacevic",
+     "score": "7-6(7-5) 6-1",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Ange Oby Kajuru",
+     "score": "6-1 6-3",
+     "date": "2025-09-26"
+    }
+   ],
+   "osu-w-p6": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Victoria Osuigwe",
+     "score": "4-6 7-5 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Reese Brantmeier",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Meg McCarty / Sandugash Kenzhibayeva",
+     "score": "6-3 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Giorgia Roselli / Xin Tong Wang",
+     "score": "1-6 6-4 (10-5)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Edda Mamedova",
+     "score": "6-1 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Anet Koskel / Carolina Gomez Alonso",
+     "score": "6-4 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Emma Ghirardato / Ema Kovacevic",
+     "score": "7-6(7-5) 6-1",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Esha Velaga",
+     "score": "6-3 4-6 6-1",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Josie Usereau",
+     "score": "6-2 6-3",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Zoe Hammond",
+     "score": "6-0 6-1",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-QF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Anastasiia Grechkina",
+     "score": "6-4 6-2",
+     "date": "2025-09-27"
+    }
+   ],
+   "fla-p7": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Anna Zyryanova",
+     "score": "6-3 4-6 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Emma Kamper / Emmie Moore",
+     "score": "6-1 4-6 (10-5)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Piper Charney",
+     "score": "6-1 6-1",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Romana Cisovska / Candela Yecora",
+     "score": "1-6 6-4 (10-5)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Julia Zhu",
+     "score": "6-4 7-6(7-3)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Alyssa Ahn",
+     "score": "5-7 6-2 6-4",
+     "date": "2025-09-26"
+    }
+   ],
+   "fla-p3": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Yekaterina Dmitrichenko",
+     "score": "6-3 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Julia Garcia Ruiz",
+     "score": "2-6 7-5 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Emma Kamper / Emmie Moore",
+     "score": "6-1 4-6 (10-5)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Zuzanna Kubacha",
+     "score": "3-6 6-1 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Romana Cisovska / Candela Yecora",
+     "score": "1-6 6-4 (10-5)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Mayu Crossley",
+     "score": "6-2 2-6 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Alyssa Ahn",
+     "score": "4-6 6-4 7-5",
+     "date": "2025-09-26"
+    }
+   ],
+   "harv-w-p3": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Jaquelyn Ogunwale / Sebastianna Scilipoti",
+     "score": "6-1 7-5",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Luciana Perry / Teah Chavez",
+     "score": "0-6 7-6(10-8) (10-8)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Maralgoo Chogsomjav / Zhanel Rustemova",
+     "score": "6-4 6-7(3-7) (10-3)",
+     "date": "2025-09-21"
+    }
+   ],
+   "wash-w-fp106": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Emmie Moore",
+     "score": "7-5 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Alessandra Teodosescu / Nicole Teodosescu",
+     "score": "6-1 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Sofia Rojas",
+     "score": "2-6 7-6(7-4) 6-1",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Daianne Hayashida / Tereza Dejnozkova",
+     "score": "6-3 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "ncst-w-p9": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Kristina Paskauskas",
+     "score": "6-2 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Lily Jones",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Maralgoo Chogsomjav / Zhanel Rustemova",
+     "score": "6-3 3-6 (10-6)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Julia Zhu",
+     "score": "6-2 6-4",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Mao Mushika",
+     "score": "7-6(7-5) 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Jaquelyn Ogunwale / Sebastianna Scilipoti",
+     "score": "4-6 6-3 (10-6)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Catherine Aulia",
+     "score": "6-1 6-1",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Emilija Tverijonaite",
+     "score": "6-1 6-3",
+     "date": "2025-09-26"
+    }
+   ],
+   "ncst-w-p7": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Ahmani Guichard",
+     "score": "4-6 6-3 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Maralgoo Chogsomjav / Zhanel Rustemova",
+     "score": "6-3 3-6 (10-6)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Maria de la Paz Alberto",
+     "score": "4-6 7-5 6-4",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Jaquelyn Ogunwale / Sebastianna Scilipoti",
+     "score": "4-6 6-3 (10-6)",
+     "date": "2025-09-21"
+    }
+   ],
+   "ksu-w-fp411": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Lavinia Tanasie / Mia Slama",
+     "score": "6-3 3-6 (10-6)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Kavya Karra / Stephanie Yakoff",
+     "score": "6-4 6-7(3-7) (10-3)",
+     "date": "2025-09-21"
+    }
+   ],
+   "uk-p10": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Claire Hill",
+     "score": "4-6 6-0 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Teah Chavez",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Emma Rizzetto / Conley Raidt",
+     "score": "6-2 7-6(7-3)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Lavinia Tanasie",
+     "score": "6-2 6-4",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Oyinlomo Quadre / Chloe Noel",
+     "score": "7-6(7-3) 6-1",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Prisca Abbas",
+     "score": "6-4 0-6 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Gabia Paskauskas",
+     "score": "6-4 7-6(7-3)",
+     "date": "2025-09-26"
+    }
+   ],
+   "uk-w-ita-p4": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Alejandra Cruz",
+     "score": "6-7(5-7) 6-3 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Emma Rizzetto / Conley Raidt",
+     "score": "6-2 7-6(7-3)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Tatum Evans",
+     "score": "7-6(7-4) 6-0",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Oyinlomo Quadre / Chloe Noel",
+     "score": "7-6(7-3) 6-1",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Ozlem Uslu",
+     "score": "2-6 6-2 6-1",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Nao Nishino",
+     "score": "6-0 6-1",
+     "date": "2025-09-26"
+    }
+   ],
+   "wake-w-p5": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Laura Putz / Kristyna Lavickova",
+     "score": "7-6(7-5) 6-4",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Erika Matsuda / Carina Syrtveit",
+     "score": "6-2 6-1",
+     "date": "2025-09-21"
+    }
+   ],
+   "wash-w-fp105": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Elim Yan",
+     "score": "6-3 2-6 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Valerija Maija Kargina / Nevena Kolarevic",
+     "score": "6-3 6-3",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Roisin Gilheany / Gloriana Nahum",
+     "score": "6-3 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Jingyi Li / Krystal Blanch",
+     "score": "6-2 6-1",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Daria Smetannikov",
+     "score": "7-5 5-7 6-2",
+     "date": "2025-09-23"
+    }
+   ],
+   "ark-p10": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Esha Velaga",
+     "score": "6-4 3-6 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Olivia Dorner / Maelie Monfils",
+     "score": "6-4 5-7 (13-11)",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Shavit Kimchi / Claire An",
+     "score": "6-3 4-6 (10-8)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Annabelle Xu / Martina Genis Salas",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Reese Brantmeier",
+     "score": "3-6 6-3 7-5",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Audrey Spencer / Nao Nishino",
+     "score": "6-4 6-2",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Piper Charney / Emily Sartz -Lunde",
+     "score": "7-6(7-5) 3-6 (10-8)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Ashton Bowers / DJ Bennett",
+     "score": "3-6 7-5 (10-5)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "DJ Bennett",
+     "score": "4-6 7-5 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Ashton Bowers",
+     "score": "6-2 6-4",
+     "date": "2025-09-26"
+    }
+   ],
+   "fla-p6": [
+    {
+     "round": "R128",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Yu-Chin Tsai",
+     "score": "7-6(7-2) 7-6(7-3)",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Sandugash Kenzhibayeva",
+     "score": "6-3 7-5",
+     "date": "2025-09-21"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Eva Alvarez Sande / Maxine Murphy",
+     "score": "6-4 2-6 (10-4)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Roisin Gilheany / Gloriana Nahum",
+     "score": "6-3 3-6 (10-5)",
+     "date": "2025-09-23"
+    }
+   ],
+   "cal-w-fp420": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Daria Smetannikov",
+     "score": "6-1 3-6 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Akari Matsuno",
+     "score": "6-4 7-6(7-3)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": false,
+     "opponent": "Daianne Hayashida / Tereza Dejnozkova",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Elim Yan",
+     "score": "6-2 6-2",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Xin Tong Wang",
+     "score": "6-2 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Luciana Perry",
+     "score": "7-6(7-4) 6-0",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Anastasiia Grechkina",
+     "score": "6-3 4-6 6-4",
+     "date": "2025-09-27"
+    }
+   ],
+   "iowa-w-fp235": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Zoie Epps",
+     "score": "6-2 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Berta Passola Folch / Naomi Xu",
+     "score": "6-3 6-2",
+     "date": "2025-09-20"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Jade Groen / Rinon Okuwaki",
+     "score": "7-5 4-6 (11-9)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Reese Miller",
+     "score": "6-3 5-7 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "PREQUAL",
+     "won": true,
+     "opponent": "Reece Carter / Jermine Sherif",
+     "score": "6-3 6-4",
+     "date": "2025-09-21"
+    }
+   ],
+   "pepp-w-p3": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Deniz Dilek",
+     "score": "6-3 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Sophia Webster / Celia-Belle Mohr",
+     "score": "6-1 6-0",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Oyinlomo Quadre",
+     "score": "7-6(7-3) 6-1",
+     "date": "2025-09-23"
+    }
+   ],
+   "ncst-w-p2": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Chloe Noel",
+     "score": "6-3 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Tianna Rangan",
+     "score": "6-0 6-4",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Darya Schwartzman / Uma Bakaityte",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Irina Balus",
+     "score": "4-6 6-4 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Martyna Ostrzygalo / Josie Usereau",
+     "score": "6-1 6-7(3-7) (10-2)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Ange Oby Kajuru / Susanna Maltby",
+     "score": "6-2 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Maria Sholokhova / Lucie Urbanova",
+     "score": "6-4 6-4",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Bridget Stammel",
+     "score": "6-3 6-3",
+     "date": "2025-09-26"
+    }
+   ],
+   "clem-w-p3": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Audrey Spencer",
+     "score": "6-2 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Daianne Hayashida / Tereza Dejnozkova",
+     "score": "7-5 4-6 (11-9)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Lucia Peyre",
+     "score": "6-1 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Mary Grace Rennard / Claire Hill",
+     "score": "6-2 6-4",
+     "date": "2025-09-23"
+    }
+   ],
+   "bay-w-fp231": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Alice Ferlito",
+     "score": "6-3 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Rylie Hanford / Akari Matsuno",
+     "score": "6-3 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Luciana Perry / Teah Chavez",
+     "score": "4-6 6-1 (10-6)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Aely Arai",
+     "score": "6-3 6-7(6-8) 6-3",
+     "date": "2025-09-23"
+    }
+   ],
+   "uva-w-p8": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Oyinlomo Quadre",
+     "score": "6-2 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Deniz Dilek",
+     "score": "6-3 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Bianca Fernandez / Mayu Crossley",
+     "score": "6-3 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Roisin Gilheany / Gloriana Nahum",
+     "score": "7-6(7-4) 6-2",
+     "date": "2025-09-25"
+    }
+   ],
+   "uva-w-p10": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Tianna Rangan",
+     "score": "7-6(7-2) 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Bianca Fernandez / Mayu Crossley",
+     "score": "6-3 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Roisin Gilheany / Gloriana Nahum",
+     "score": "7-6(7-4) 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Chloe Noel",
+     "score": "6-3 5-7 7-6(7-3)",
+     "date": "2025-09-23"
+    }
+   ],
+   "stan-w-p4": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Kira Matushkina",
+     "score": "7-6(9-7) 7-6(7-4)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Luciana Perry",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Oliwia Orlinska",
+     "score": "7-6(7-2) 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Reese Miller",
+     "score": "6-3 6-2",
+     "date": "2025-09-25"
+    }
+   ],
+   "ou-p5": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Daniela Piani",
+     "score": "6-1 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Gaia Parravicini / Amelie Smejkalova",
+     "score": "7-6(7-3) 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Nao Nishino",
+     "score": "6-1 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Daria Smetannikov / Mia Kupres",
+     "score": "0-6 6-2 (10-4)",
+     "date": "2025-09-23"
+    }
+   ],
+   "ncst-w-p6": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Nao Nishino",
+     "score": "4-6 7-5 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Darya Schwartzman / Uma Bakaityte",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Martyna Ostrzygalo / Josie Usereau",
+     "score": "6-1 6-7(3-7) (10-2)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Ange Oby Kajuru / Susanna Maltby",
+     "score": "6-2 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Maria Sholokhova / Lucie Urbanova",
+     "score": "6-4 6-4",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Sophia Holod",
+     "score": "6-0 6-2",
+     "date": "2025-09-23"
+    }
+   ],
+   "miami-w-fp321": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Oliwia Orlinska",
+     "score": "6-2 2-6 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Kira Matushkina",
+     "score": "6-4 3-6 6-2",
+     "date": "2025-09-23"
+    }
+   ],
+   "unc-w-p5": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Lucia Peyre",
+     "score": "5-7 7-6(7-3) 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Audrey Spencer",
+     "score": "1-6 6-3 6-2",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Clara Owen / Abby Nugent",
+     "score": "6-2 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Luciana Perry / Teah Chavez",
+     "score": "6-3 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Sophia Webster / Celia-Belle Mohr",
+     "score": "6-3 3-6 (10-6)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Roisin Gilheany / Gloriana Nahum",
+     "score": "6-7(3-7) 7-6(7-5) (10-4)",
+     "date": "2025-09-27"
+    }
+   ],
+   "okst-w-p6": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Alanis Hamilton",
+     "score": "5-7 7-6(7-3) 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Jade Groen",
+     "score": "6-1 6-3",
+     "date": "2025-09-23"
+    }
+   ],
+   "rice-w-p8": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Maria de la Paz Alberto",
+     "score": "6-1 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Ahmani Guichard",
+     "score": "6-1 7-5",
+     "date": "2025-09-23"
+    }
+   ],
+   "mem-w-p5": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Aely Arai",
+     "score": "6-3 4-6 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Alice Ferlito",
+     "score": "7-6(7-2) 6-4",
+     "date": "2025-09-23"
+    }
+   ],
+   "ttu-w-fp268": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Valery Gynina",
+     "score": "6-3 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Mary Grace Rennard / Claire Hill",
+     "score": "6-2 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Anna Zyryanova / Jasmine Conway",
+     "score": "7-6(7-5) 6-1",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Savannah Dada-Mascoll / Naledi Manyube",
+     "score": "6-4 2-6 (12-10)",
+     "date": "2025-09-26"
+    }
+   ],
+   "msst-p5": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Maralgoo Chogsomjav",
+     "score": "6-4 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Campbell Ricci",
+     "score": "6-4 1-6 6-3",
+     "date": "2025-09-23"
+    }
+   ],
+   "stan-w-fp87": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Patricija Paukstyte",
+     "score": "6-1 6-0",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Emma Kamper",
+     "score": "7-6(7-3) 3-6 6-1",
+     "date": "2025-09-23"
+    }
+   ],
+   "uga-p9": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Caroline Driscoll",
+     "score": "6-1 6-0",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Kyoka Kubo",
+     "score": "6-3 6-1",
+     "date": "2025-09-23"
+    }
+   ],
+   "ku-w-p6": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Emma Kamper",
+     "score": "6-4 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Ange Oby Kajuru / Susanna Maltby",
+     "score": "6-4 6-1",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Patricija Paukstyte",
+     "score": "6-3 6-1",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Arina Gamretkaia / Ozlem Uslu",
+     "score": "6-2 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Darya Schwartzman / Uma Bakaityte",
+     "score": "6-3 6-7(2-7) (10-7)",
+     "date": "2025-09-26"
+    }
+   ],
+   "bay-w-p4": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Mia Yamakita",
+     "score": "6-4 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Rylie Hanford / Akari Matsuno",
+     "score": "6-3 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Valery Gynina",
+     "score": "3-6 6-1 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Luciana Perry / Teah Chavez",
+     "score": "4-6 6-1 (10-6)",
+     "date": "2025-09-23"
+    }
+   ],
+   "tamu-p10": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Berta Passola Folch",
+     "score": "6-1 3-6 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Bianca Molnar / Bojana Pozder",
+     "score": "6-3 5-7 (10-7)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Erika Matsuda",
+     "score": "7-5 5-7 6-2",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Edda Mamedova / Julia Garcia Ruiz",
+     "score": "0-6 6-2 (10-4)",
+     "date": "2025-09-23"
+    }
+   ],
+   "stan-w-p3": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Campbell Ricci",
+     "score": "6-4 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Kate Fakih",
+     "score": "6-4 5-7 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Carmen Andreea Herea",
+     "score": "7-5 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Valery Gynina",
+     "score": "4-6 6-4 7-5",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Gabia Paskauskas",
+     "score": "5-7 6-2 6-4",
+     "date": "2025-09-26"
+    }
+   ],
+   "nd-w-p7": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Sofia Rojas",
+     "score": "6-2 3-6 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Victoria Osuigwe",
+     "score": "6-0 6-2",
+     "date": "2025-09-23"
+    }
+   ],
+   "uga-p10": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Sophia Holod",
+     "score": "6-2 3-6 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Tatum Evans",
+     "score": "7-6(7-5) 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Reece Carter",
+     "score": "2-6 7-6(7-4) 6-1",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Alejandra Cruz",
+     "score": "4-6 6-2 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Ashton Bowers",
+     "score": "4-6 6-3 6-4",
+     "date": "2025-09-26"
+    }
+   ],
+   "mich-w-p7": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Vanesa Suarez",
+     "score": "6-3 3-6 6-1",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Ange Oby Kajuru",
+     "score": "6-1 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Daianne Hayashida",
+     "score": "6-3 5-7 6-3",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Monika EKSTRAND",
+     "score": "6-3 6-2",
+     "date": "2025-09-25"
+    }
+   ],
+   "usc-w-fp72": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Prisca Abbas",
+     "score": "6-1 6-4",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Charlotte Keitel",
+     "score": "6-4 3-6 7-5",
+     "date": "2025-09-23"
+    }
+   ],
+   "usd-w-p2": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Tianmei Wang",
+     "score": "6-3 7-6(7-1)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Imogen Haddad",
+     "score": "6-4 3-6 7-5",
+     "date": "2025-09-23"
+    }
+   ],
+   "stan-w-p6": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Charlotte Keitel",
+     "score": "6-3 7-6(7-1)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Prisca Abbas",
+     "score": "6-3 4-6 7-5",
+     "date": "2025-09-23"
+    }
+   ],
+   "mich-w-p3": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Valeria Ray",
+     "score": "6-1 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Romana Cisovska / Candela Yecora",
+     "score": "6-3 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Theadora Rabman / Tatum Evans",
+     "score": "6-1 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Gabia Paskauskas",
+     "score": "6-1 6-1",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Anet Koskel / Carolina Gomez Alonso",
+     "score": "7-6(7-5) 3-6 (10-8)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Carmen Andreea Herea",
+     "score": "7-5 3-6 6-1",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Emilija Tverijonaite",
+     "score": "6-3 6-4",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-QF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Aysegul Mert",
+     "score": "3-6 6-4 6-1",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-SF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Anastasiia Grechkina",
+     "score": "6-1 4-6 7-6(8-6)",
+     "date": "2025-09-28"
+    }
+   ],
+   "osu-w-p9": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Monika EKSTRAND",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Kavya Karra / Stephanie Yakoff",
+     "score": "0-6 7-6(10-8) (10-8)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Savannah Dada-Mascoll / Naledi Manyube",
+     "score": "7-6(10-8) 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Ange Oby Kajuru",
+     "score": "5-7 6-3 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Na Dong / Zuzanna Kubacha",
+     "score": "4-6 6-1 (10-6)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Reese Brantmeier / Alanis Hamilton",
+     "score": "6-3 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Berta Passola Folch",
+     "score": "7-6(7-4) 6-0",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "QF",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Irina Balus",
+     "score": "6-0 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Carmen Andreea Herea",
+     "score": "3-6 6-4 6-4",
+     "date": "2025-09-27"
+    }
+   ],
+   "osu-w-p3": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Julia Zhu",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Kavya Karra / Stephanie Yakoff",
+     "score": "0-6 7-6(10-8) (10-8)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Savannah Dada-Mascoll / Naledi Manyube",
+     "score": "7-6(10-8) 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Anastasiia Grechkina",
+     "score": "6-4 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Na Dong / Zuzanna Kubacha",
+     "score": "4-6 6-1 (10-6)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Reese Brantmeier / Alanis Hamilton",
+     "score": "6-3 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Julia Garcia Ruiz",
+     "score": "6-3 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "QF",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Tatum Evans",
+     "score": "6-3 7-5",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Valerie Glozman",
+     "score": "6-3 6-2",
+     "date": "2025-09-27"
+    }
+   ],
+   "wich-w-p8": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Catherine Aulia",
+     "score": "7-6(7-2) 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Audrey Spencer / Nao Nishino",
+     "score": "1-6 6-4 (10-5)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Lily Jones / Jessica Bernales",
+     "score": "6-3 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Berta Passola Folch",
+     "score": "6-2 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Lauren Friedman / Helena Buchwald",
+     "score": "7-6(10-8) 6-2",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Bianca Molnar / Bojana Pozder",
+     "score": "6-4 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Lily Jones",
+     "score": "6-2 6-2",
+     "date": "2025-09-26"
+    }
+   ],
+   "wisc-w-p7": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Aysegul Mert",
+     "score": "7-5 7-5",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Oyinlomo Quadre / Chloe Noel",
+     "score": "6-2 7-6(7-1)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Ashton Bowers / DJ Bennett",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Rose Marie Nijkamp",
+     "score": "6-4 7-5",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Valeria Ray / Bridget Stammel",
+     "score": "3-6 7-6(7-4) (10-5)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Annabelle Xu / Martina Genis Salas",
+     "score": "6-1 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Vanesa Suarez / Sami Yli-Piipari",
+     "score": "6-1 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Gabriella Broadfoot / Victoria Osuigwe",
+     "score": "6-4 6-4",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "F",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Roisin Gilheany / Gloriana Nahum",
+     "score": "6-3 6-3",
+     "date": "2025-09-28"
+    }
+   ],
+   "nd-w-fp264": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Berta Passola Folch",
+     "score": "6-4 7-6(7-3)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Na Dong / Zuzanna Kubacha",
+     "score": "6-3 6-3",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Catherine Aulia",
+     "score": "6-3 6-3",
+     "date": "2025-09-25"
+    }
+   ],
+   "van-p5": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Piper Charney",
+     "score": "6-1 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Orly Ogilvy / Leena Friedman",
+     "score": "6-4 5-7 (13-11)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Arina Gamretkaia / Ozlem Uslu",
+     "score": "6-1 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Maria Sholokhova / Lucie Urbanova",
+     "score": "3-6 7-6(7-4) (10-5)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Ange Oby Kajuru / Susanna Maltby",
+     "score": "6-2 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Anna Zyryanova",
+     "score": "7-5 6-1",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Anastasiia Grechkina",
+     "score": "6-3 3-6 6-1",
+     "date": "2025-09-26"
+    }
+   ],
+   "van-p6": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Kaitlyn Carnicella",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Orly Ogilvy / Leena Friedman",
+     "score": "6-4 5-7 (13-11)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Arina Gamretkaia / Ozlem Uslu",
+     "score": "6-1 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Maria Sholokhova / Lucie Urbanova",
+     "score": "3-6 7-6(7-4) (10-5)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Ange Oby Kajuru / Susanna Maltby",
+     "score": "6-2 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Mia Kupres",
+     "score": "6-4 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Gabriella Broadfoot",
+     "score": "6-3 6-3",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Savannah Dada-Mascoll",
+     "score": "6-4 7-6(7-4)",
+     "date": "2025-09-27"
+    }
+   ],
+   "yale-w-p9": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Valeria Ray / Bridget Stammel",
+     "score": "6-4 5-7 (13-11)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Oyinlomo Quadre / Chloe Noel",
+     "score": "6-1 4-6 (10-5)",
+     "date": "2025-09-23"
+    }
+   ],
+   "yale-w-p3": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Valeria Ray / Bridget Stammel",
+     "score": "6-4 5-7 (13-11)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Oyinlomo Quadre / Chloe Noel",
+     "score": "6-1 4-6 (10-5)",
+     "date": "2025-09-23"
+    }
+   ],
+   "duke-w-p4": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Deniz Dilek",
+     "score": "4-6 6-1 6-1",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Anet Koskel / Carolina Gomez Alonso",
+     "score": "6-3 4-6 (10-8)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Romana Cisovska / Candela Yecora",
+     "score": "6-3 3-6 (10-7)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Theadora Rabman",
+     "score": "6-2 6-2",
+     "date": "2025-09-25"
+    }
+   ],
+   "ou-p2": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Valery Gynina",
+     "score": "2-6 7-5 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Gaia Parravicini / Amelie Smejkalova",
+     "score": "7-6(7-3) 7-5",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Emily Sartz -Lunde",
+     "score": "6-2 6-1",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Teah Chavez",
+     "score": "6-3 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Daria Smetannikov / Mia Kupres",
+     "score": "0-6 6-2 (10-4)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Lily Jones",
+     "score": "6-3 6-3",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-QF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Savannah Dada-Mascoll",
+     "score": "6-4 6-4",
+     "date": "2025-09-27"
+    }
+   ],
+   "unc-w-p9": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Emma Kamper",
+     "score": "6-2 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Gracie Epps / Marcela Lopez",
+     "score": "6-2 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Piper Charney / Emily Sartz -Lunde",
+     "score": "6-1 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Mia Yamakita / Erin Pearce",
+     "score": "2-6 6-4 (10-7)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Vanesa Suarez / Sami Yli-Piipari",
+     "score": "2-6 6-4 (11-9)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Shavit Kimchi",
+     "score": "6-2 6-2",
+     "date": "2025-09-25"
+    }
+   ],
+   "unc-w-p3": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Sofia Rojas",
+     "score": "7-6(7-5) 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Gracie Epps / Marcela Lopez",
+     "score": "6-2 6-2",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Piper Charney / Emily Sartz -Lunde",
+     "score": "6-1 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Zoe Hammond",
+     "score": "7-6(7-4) 6-0",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Mia Yamakita / Erin Pearce",
+     "score": "2-6 6-4 (10-7)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Vanesa Suarez / Sami Yli-Piipari",
+     "score": "2-6 6-4 (11-9)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Savannah Dada-Mascoll",
+     "score": "6-1 7-5",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "QF",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Teah Chavez",
+     "score": "6-3 7-5",
+     "date": "2025-09-26"
+    }
+   ],
+   "tamu-p9": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Emma Charney",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Bianca Molnar / Bojana Pozder",
+     "score": "6-3 5-7 (10-7)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Edda Mamedova / Julia Garcia Ruiz",
+     "score": "0-6 6-2 (10-4)",
+     "date": "2025-09-23"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Bridget Stammel",
+     "score": "6-4 6-2",
+     "date": "2025-09-25"
+    }
+   ],
+   "van-p4": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": true,
+     "opponent": "Kaitlyn Carnicella / Daniela Piani",
+     "score": "6-4 1-6 (10-5)",
+     "date": "2025-09-22"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "QUAL",
+     "won": false,
+     "opponent": "Theadora Rabman / Tatum Evans",
+     "score": "2-6 6-4 (10-7)",
+     "date": "2025-09-23"
+    }
+   ],
+   "aub-p2": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Ozlem Uslu",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Maria Sholokhova / Lucie Urbanova",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Leyla Britez Risso",
+     "score": "6-3 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Anet Koskel / Carolina Gomez Alonso",
+     "score": "3-6 7-5 (10-5)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Sofia Rojas",
+     "score": "4-6 6-3 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Carolina Gomez Alonso",
+     "score": "6-2 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-QF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Mao Mushika",
+     "score": "7-5 6-3",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-SF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Darya Schwartzman / Uma Bakaityte",
+     "score": "6-3 6-3",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-SF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Savannah Dada-Mascoll",
+     "score": "6-2 6-3",
+     "date": "2025-09-28"
+    }
+   ],
+   "vt-w-fp336": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Ashton Bowers",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Valeria Ray / Bridget Stammel",
+     "score": "6-1 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Scarlett Nicholson",
+     "score": "6-1 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Heike Janse Van Vuuren / Kyoka Kubo",
+     "score": "6-2 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Zoe Hammond",
+     "score": "2-6 6-2 6-1",
+     "date": "2025-09-26"
+    }
+   ],
+   "mich-w-p4": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Lavinia Tanasie",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Giorgia Roselli / Xin Tong Wang",
+     "score": "6-3 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Catherine Aulia / Leyla Britez Risso",
+     "score": "6-2 2-6 (11-9)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Sami Yli-Piipari",
+     "score": "7-5 7-5",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Xin Tong Wang",
+     "score": "6-2 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Ange Oby Kajuru",
+     "score": "6-1 3-6 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Julia Garcia Ruiz",
+     "score": "6-3 6-3",
+     "date": "2025-09-27"
+    }
+   ],
+   "unc-w-p2": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Nao Nishino",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Clara Owen / Abby Nugent",
+     "score": "6-2 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Carolina Gomez Alonso",
+     "score": "3-6 6-3 7-5",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Luciana Perry / Teah Chavez",
+     "score": "6-3 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Leyla Britez Risso",
+     "score": "6-2 6-0",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Sophia Webster / Celia-Belle Mohr",
+     "score": "6-3 3-6 (10-6)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Roisin Gilheany / Gloriana Nahum",
+     "score": "6-7(3-7) 7-6(7-5) (10-4)",
+     "date": "2025-09-27"
+    }
+   ],
+   "uva-w-p11": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Rose Marie Nijkamp",
+     "score": "6-3 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Anet Koskel / Carolina Gomez Alonso",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Maria Sholokhova / Lucie Urbanova",
+     "score": "6-1 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Aysegul Mert",
+     "score": "6-4 6-2",
+     "date": "2025-09-25"
+    }
+   ],
+   "aub-p11": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Savannah Dada-Mascoll",
+     "score": "6-2 2-6 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Maria Sholokhova / Lucie Urbanova",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Gracie Epps",
+     "score": "5-7 6-3 6-1",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Anet Koskel / Carolina Gomez Alonso",
+     "score": "3-6 7-5 (10-5)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Carolina Gomez Alonso",
+     "score": "4-6 7-5 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-SF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Darya Schwartzman / Uma Bakaityte",
+     "score": "6-3 6-3",
+     "date": "2025-09-27"
+    }
+   ],
+   "uga-p7": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Maria Sholokhova",
+     "score": "7-5 7-5",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Annabelle Xu",
+     "score": "6-4 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Emma Kamper",
+     "score": "6-3 7-5",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Kaitlyn Carnicella",
+     "score": "6-4 7-5",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Leyla Britez Risso",
+     "score": "6-2 6-7(3-7) 6-1",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-QF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Piper Charney",
+     "score": "3-6 6-4 6-1",
+     "date": "2025-09-27"
+    }
+   ],
+   "penn-w-p10": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Carolina Gomez Alonso",
+     "score": "6-4 3-6 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Nao Nishino",
+     "score": "6-3 4-6 6-1",
+     "date": "2025-09-25"
+    }
+   ],
+   "duke-w-p2": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Salakthip Ounmang",
+     "score": "4-6 7-5 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Gabriella Broadfoot",
+     "score": "4-6 6-4 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Rose Marie Nijkamp",
+     "score": "6-4 7-5",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "QF",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Luciana Perry",
+     "score": "6-0 6-2",
+     "date": "2025-09-26"
+    }
+   ],
+   "tenn-p3": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Scarlett Nicholson",
+     "score": "6-2 6-7(6-8) 6-1",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Bianca Molnar / Bojana Pozder",
+     "score": "6-3 7-6(11-9)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Ashton Bowers",
+     "score": "6-3 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Lily Jones / Jessica Bernales",
+     "score": "6-2 2-6 (11-9)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Reese Brantmeier",
+     "score": "6-2 6-0",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Roisin Gilheany / Gloriana Nahum",
+     "score": "6-7(4-7) 6-3 (10-6)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Aysegul Mert",
+     "score": "6-2 6-7(3-7) 6-1",
+     "date": "2025-09-27"
+    }
+   ],
+   "fla-p5": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Leyla Britez Risso",
+     "score": "6-2 6-7(6-8) 6-1",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Ozlem Uslu",
+     "score": "6-1 6-3",
+     "date": "2025-09-25"
+    }
+   ],
+   "cal-w-p6": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Sami Yli-Piipari",
+     "score": "6-3 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Vanesa Suarez / Sami Yli-Piipari",
+     "score": "7-6(7-4) 6-7(5-7) (10-7)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Lavinia Tanasie",
+     "score": "7-6(7-5) 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Valerie Glozman",
+     "score": "3-6 7-5 6-3",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-QF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Ashton Bowers",
+     "score": "7-5 6-3",
+     "date": "2025-09-27"
+    }
+   ],
+   "tenn-p2": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Xin Tong Wang",
+     "score": "7-6(7-2) 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Bianca Molnar / Bojana Pozder",
+     "score": "6-3 7-6(11-9)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Lily Jones / Jessica Bernales",
+     "score": "6-2 2-6 (11-9)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Roisin Gilheany / Gloriana Nahum",
+     "score": "6-7(4-7) 6-3 (10-6)",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Akari Matsuno",
+     "score": "6-3 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Lavinia Tanasie",
+     "score": "6-1 6-1",
+     "date": "2025-09-26"
+    }
+   ],
+   "ariz-w-p9": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Gracie Epps",
+     "score": "0-6 6-1 7-6(7-5)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Alexia Jacobs / Anna-Marie Weissheim",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Savannah Dada-Mascoll",
+     "score": "6-1 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Gabriella Broadfoot / Victoria Osuigwe",
+     "score": "6-1 6-7(3-7) (10-2)",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Nao Nishino",
+     "score": "6-2 6-3",
+     "date": "2025-09-26"
+    }
+   ],
+   "duke-w-p7": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Carmen Andreea Herea",
+     "score": "6-3 6-2",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Kate Fakih",
+     "score": "6-3 6-1",
+     "date": "2025-09-25"
+    }
+   ],
+   "pepp-w-p2": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Prisca Abbas",
+     "score": "2-6 6-3 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Sophia Webster / Celia-Belle Mohr",
+     "score": "6-1 6-0",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Teah Chavez",
+     "score": "6-4 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Valeria Ray",
+     "score": "6-3 3-6 6-1",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Kate Fakih",
+     "score": "6-2 4-6 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Berta Passola Folch",
+     "score": "6-3 4-6 6-4",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-QF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Nao Nishino",
+     "score": "6-4 6-2",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "C-SF",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Piper Charney",
+     "score": "6-1 4-6 7-6(8-6)",
+     "date": "2025-09-28"
+    }
+   ],
+   "ncst-w-fp215": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Gabia Paskauskas",
+     "score": "6-3 4-6 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Yekaterina Dmitrichenko / Mariia Hlahola",
+     "score": "7-6(7-5) 6-1",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Sophia Webster / Celia-Belle Mohr",
+     "score": "6-3 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Valeria Ray",
+     "score": "7-5 6-1",
+     "date": "2025-09-25"
+    }
+   ],
+   "ucla-w-p7": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Emily Sartz -Lunde",
+     "score": "6-3 5-7 6-0",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Vivian Yang / Melodie Collard",
+     "score": "6-3 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Valery Gynina",
+     "score": "6-2 2-6 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Emma Charney / Lily Fairclough",
+     "score": "6-3 6-4",
+     "date": "2025-09-25"
+    }
+   ],
+   "usc-w-p2": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Mia Kupres",
+     "score": "6-4 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Roisin Gilheany / Gloriana Nahum",
+     "score": "0-6 6-4 (10-5)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Kaitlyn Carnicella",
+     "score": "4-6 6-3 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Deniz Dilek",
+     "score": "6-2 1-6 6-2",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "QF",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Valerie Glozman",
+     "score": "6-2 6-0",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Bianca Fernandez / Mayu Crossley",
+     "score": "6-3 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Bianca Molnar / Bojana Pozder",
+     "score": "6-3 7-6(9-7)",
+     "date": "2025-09-26"
+    }
+   ],
+   "ucla-w-p9": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Alyssa Ahn",
+     "score": "6-4 5-7 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Eleana Yu",
+     "score": "6-3 6-1",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R32",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Emily Sartz -Lunde",
+     "score": "6-3 6-4",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Anastasiia Grechkina",
+     "score": "6-2 4-6 6-4",
+     "date": "2025-09-26"
+    }
+   ],
+   "stan-w-p1": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Maria de la Paz Alberto",
+     "score": "6-2 6-3",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Emilija Tverijonaite",
+     "score": "6-1 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "R16",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Mao Mushika",
+     "score": "3-6 7-5 6-3",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "QF",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Emma Charney",
+     "score": "6-2 6-0",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "SF",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Teah Chavez",
+     "score": "6-3 6-2",
+     "date": "2025-09-27"
+    },
+    {
+     "round": "F",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Carmen Andreea Herea",
+     "score": "6-2 6-3",
+     "date": "2025-09-28"
+    }
+   ],
+   "asu-w-p4": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Audrey Spencer",
+     "score": "6-2 6-1",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R32",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Valerie Glozman",
+     "score": "6-1 6-2",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Lavinia Tanasie",
+     "score": "6-1 6-3",
+     "date": "2025-09-26"
+    },
+    {
+     "round": "C-R16",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Piper Charney",
+     "score": "6-3 6-4",
+     "date": "2025-09-27"
+    }
+   ],
+   "van-p3": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Alexia Harmon / Anastasiia Grechkina",
+     "score": "6-1 6-0",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Anna Zyryanova / Jasmine Conway",
+     "score": "6-3 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Reese Brantmeier / Alanis Hamilton",
+     "score": "6-3 3-6 (10-6)",
+     "date": "2025-09-26"
+    }
+   ],
+   "unc-w-p8": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Heike Janse Van Vuuren / Kyoka Kubo",
+     "score": "6-4 6-1",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "R16",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": true,
+     "opponent": "Valeria Ray / Bridget Stammel",
+     "score": "6-2 6-3",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "QF",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Gabriella Broadfoot / Victoria Osuigwe",
+     "score": "6-2 6-2",
+     "date": "2025-09-26"
+    }
+   ],
+   "gt-w-fp208": [
+    {
+     "round": "R64",
+     "type": "SINGLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Zoe Hammond",
+     "score": "6-7(5-7) 6-3 6-4",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R32-Q",
+     "type": "SINGLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Sofia Rojas",
+     "score": "4-6 6-2 6-2",
+     "date": "2025-09-25"
+    }
+   ],
+   "usc-w-p3": [
+    {
+     "round": "R32",
+     "type": "DOUBLES",
+     "stage": "MAIN",
+     "won": false,
+     "opponent": "Roisin Gilheany / Gloriana Nahum",
+     "score": "0-6 6-4 (10-5)",
+     "date": "2025-09-24"
+    },
+    {
+     "round": "C-R16-Q",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": true,
+     "opponent": "Bianca Fernandez / Mayu Crossley",
+     "score": "6-3 6-4",
+     "date": "2025-09-25"
+    },
+    {
+     "round": "C-QF",
+     "type": "DOUBLES",
+     "stage": "CONSOLATION",
+     "won": false,
+     "opponent": "Bianca Molnar / Bojana Pozder",
+     "score": "6-3 7-6(9-7)",
+     "date": "2025-09-26"
+    }
+   ]
+  },
+  "champions": [
+   {
+    "playerId": "stan-w-p1",
+    "type": "SINGLES",
+    "score": "6-2 6-3",
+    "date": "2025-09-28"
+   },
+   {
+    "playerId": "wisc-w-p7",
+    "type": "DOUBLES",
+    "score": "6-3 6-3",
+    "date": "2025-09-28"
+   },
+   {
+    "playerId": "wisc-w-p8",
+    "type": "DOUBLES",
+    "score": "6-3 6-3",
+    "date": "2025-09-28"
+   }
+  ],
+  "draws": {
+   "Qualifying": {
+    "R64": [
+     {
+      "pos": 1,
+      "a": {
+       "name": "Gianna Oboniye",
+       "pid": "msst-p5"
+      },
+      "b": {
+       "name": "Maralgoo Chogsomjav",
+       "pid": "ksu-w-p4"
+      },
+      "w": "b",
+      "score": "6-4 6-1",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 2,
+      "a": {
+       "name": "Campbell Ricci",
+       "pid": "tuln-w-p7"
+      },
+      "b": {
+       "name": "Alyssa Ahn",
+       "pid": "stan-w-p3"
+      },
+      "w": "b",
+      "score": "6-4 6-4",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 3,
+      "a": {
+       "name": "Julia Zhu",
+       "pid": "uk-p10"
+      },
+      "b": {
+       "name": "Claire Hill",
+       "pid": null
+      },
+      "w": "a",
+      "score": "4-6 6-0 6-1",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 4,
+      "a": {
+       "name": "Kristina Paskauskas",
+       "pid": null
+      },
+      "b": {
+       "name": "Lavinia Tanasie",
+       "pid": "ncst-w-p9"
+      },
+      "w": "b",
+      "score": "6-2 6-4",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 5,
+      "a": {
+       "name": "Caroline Driscoll",
+       "pid": "stan-w-fp87"
+      },
+      "b": {
+       "name": "Patricija Paukstyte",
+       "pid": "uga-p9"
+      },
+      "w": "a",
+      "score": "6-1 6-0",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 6,
+      "a": {
+       "name": "Emma Kamper",
+       "pid": null
+      },
+      "b": {
+       "name": "Kyoka Kubo",
+       "pid": "ku-w-p6"
+      },
+      "w": "a",
+      "score": "6-4 6-1",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 7,
+      "a": {
+       "name": "Nevena Carton",
+       "pid": "wake-w-p3"
+      },
+      "b": {
+       "name": "Sandugash Kenzhibayeva",
+       "pid": null
+      },
+      "w": "b",
+      "score": "6-7(8-10) 6-1 6-4",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 8,
+      "a": {
+       "name": "Gayathri Krishnan",
+       "pid": "colum-w-p5"
+      },
+      "b": {
+       "name": "Salakthip Ounmang",
+       "pid": null
+      },
+      "w": "b",
+      "score": "7-5 7-5",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 9,
+      "a": {
+       "name": "Nao Nishino",
+       "pid": "osu-w-p6"
+      },
+      "b": {
+       "name": "Victoria Osuigwe",
+       "pid": "ncst-w-p6"
+      },
+      "w": "a",
+      "score": "4-6 7-5 6-2",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 10,
+      "a": {
+       "name": "Daniela Piani",
+       "pid": "sc-p9"
+      },
+      "b": {
+       "name": "Edda Mamedova",
+       "pid": "ou-p5"
+      },
+      "w": "b",
+      "score": "6-1 6-4",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 11,
+      "a": {
+       "name": "Imogen Haddad",
+       "pid": "usc-w-fp72"
+      },
+      "b": {
+       "name": "Prisca Abbas",
+       "pid": null
+      },
+      "w": "b",
+      "score": "6-1 6-4",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 12,
+      "a": {
+       "name": "Charlotte Keitel",
+       "pid": "usd-w-p2"
+      },
+      "b": {
+       "name": "Tianmei Wang",
+       "pid": "stan-w-p6"
+      },
+      "w": "b",
+      "score": "6-3 7-6(7-1)",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 13,
+      "a": {
+       "name": "Daria Smetannikov",
+       "pid": "tamu-p10"
+      },
+      "b": {
+       "name": "Berta Passola Folch",
+       "pid": "cal-w-fp420"
+      },
+      "w": "b",
+      "score": "6-1 3-6 6-3",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 14,
+      "a": {
+       "name": "Elim Yan",
+       "pid": null
+      },
+      "b": {
+       "name": "Erika Matsuda",
+       "pid": "wash-w-fp105"
+      },
+      "w": "a",
+      "score": "6-3 2-6 6-4",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 15,
+      "a": {
+       "name": "Audrey Spencer",
+       "pid": "osu-w-p10"
+      },
+      "b": {
+       "name": "Jade Groen",
+       "pid": "clem-w-p3"
+      },
+      "w": "a",
+      "score": "6-2 6-1",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 16,
+      "a": {
+       "name": "Alanis Hamilton",
+       "pid": "unc-w-p5"
+      },
+      "b": {
+       "name": "Lucia Peyre",
+       "pid": "okst-w-p6"
+      },
+      "w": "a",
+      "score": "5-7 7-6(7-3) 6-3",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 17,
+      "a": {
+       "name": "Reece Carter",
+       "pid": "wash-w-fp106"
+      },
+      "b": {
+       "name": "Emmie Moore",
+       "pid": "utah-w-p7"
+      },
+      "w": "a",
+      "score": "7-5 6-1",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 18,
+      "a": {
+       "name": "Sophia Holod",
+       "pid": "nd-w-p7"
+      },
+      "b": {
+       "name": "Sofia Rojas",
+       "pid": "uga-p10"
+      },
+      "w": "b",
+      "score": "6-2 3-6 6-3",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 19,
+      "a": {
+       "name": "Raquel Gonzalez",
+       "pid": "miami-w-fp321"
+      },
+      "b": {
+       "name": "Oliwia Orlinska",
+       "pid": "umd-w-p9"
+      },
+      "w": "b",
+      "score": "6-2 2-6 7-5",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 20,
+      "a": {
+       "name": "Kira Matushkina",
+       "pid": "tcu-w-p6"
+      },
+      "b": {
+       "name": "Monika EKSTRAND",
+       "pid": "stan-w-p4"
+      },
+      "w": "b",
+      "score": "7-6(9-7) 7-6(7-4)",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 21,
+      "a": {
+       "name": "Oyinlomo Quadre",
+       "pid": "ou-p9"
+      },
+      "b": {
+       "name": "Vivian Yang",
+       "pid": "uva-w-p8"
+      },
+      "w": "b",
+      "score": "6-2 6-3",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 22,
+      "a": {
+       "name": "Deniz Dilek",
+       "pid": "uga-p2"
+      },
+      "b": {
+       "name": "Alexia Harmon",
+       "pid": "pepp-w-p3"
+      },
+      "w": "a",
+      "score": "6-3 6-2",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 23,
+      "a": {
+       "name": "Daianne Hayashida",
+       "pid": "iowa-w-fp235"
+      },
+      "b": {
+       "name": "Zoie Epps",
+       "pid": "ou-w-n1"
+      },
+      "w": "a",
+      "score": "6-2 7-5",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 24,
+      "a": {
+       "name": "Vanesa Suarez",
+       "pid": "tenn-p7"
+      },
+      "b": {
+       "name": "Reese Miller",
+       "pid": "mich-w-p7"
+      },
+      "w": "b",
+      "score": "6-3 3-6 6-1",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 25,
+      "a": {
+       "name": "Mia Slama",
+       "pid": "ncst-w-p7"
+      },
+      "b": {
+       "name": "Ahmani Guichard",
+       "pid": "ucla-w-p5"
+      },
+      "w": "a",
+      "score": "4-6 6-3 6-3",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 26,
+      "a": {
+       "name": "Maria de la Paz Alberto",
+       "pid": "isu-w-fp358"
+      },
+      "b": {
+       "name": "Divna Ratkovic",
+       "pid": "rice-w-p8"
+      },
+      "w": "a",
+      "score": "6-1 6-2",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 27,
+      "a": {
+       "name": "Gabriella Broadfoot",
+       "pid": "ncst-w-p2"
+      },
+      "b": {
+       "name": "Chloe Noel",
+       "pid": "ou-p7"
+      },
+      "w": "a",
+      "score": "6-3 6-2",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 28,
+      "a": {
+       "name": "Tianna Rangan",
+       "pid": "wisc-w-p5"
+      },
+      "b": {
+       "name": "Melodie Collard",
+       "pid": "uva-w-p10"
+      },
+      "w": "a",
+      "score": "7-6(7-2) 6-2",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 29,
+      "a": {
+       "name": "Leonie Moeller",
+       "pid": "mem-w-p5"
+      },
+      "b": {
+       "name": "Aely Arai",
+       "pid": null
+      },
+      "w": "a",
+      "score": "6-3 4-6 6-3",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 30,
+      "a": {
+       "name": "Alice Ferlito",
+       "pid": "prin-w-p4"
+      },
+      "b": {
+       "name": "Na Dong",
+       "pid": "bay-w-fp231"
+      },
+      "w": "a",
+      "score": "6-3 6-1",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 31,
+      "a": {
+       "name": "Yekaterina Dmitrichenko",
+       "pid": "ttu-w-fp268"
+      },
+      "b": {
+       "name": "Valery Gynina",
+       "pid": "fla-p3"
+      },
+      "w": "b",
+      "score": "6-3 6-4",
+      "date": "2025-09-22"
+     },
+     {
+      "pos": 32,
+      "a": {
+       "name": "Mia Yamakita",
+       "pid": "van-p9"
+      },
+      "b": {
+       "name": "Zuzanna Kubacha",
+       "pid": "bay-w-p4"
+      },
+      "w": "b",
+      "score": "6-4 6-1",
+      "date": "2025-09-22"
+     }
+    ],
+    "R32": [
+     {
+      "pos": 1,
+      "a": {
+       "name": "Maralgoo Chogsomjav",
+       "pid": "ksu-w-p4"
+      },
+      "b": {
+       "name": "Alyssa Ahn",
+       "pid": "stan-w-p3"
+      },
+      "w": null,
+      "score": "6-1 4-1 ret",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 2,
+      "a": {
+       "name": "Julia Zhu",
+       "pid": "uk-p10"
+      },
+      "b": {
+       "name": "Lavinia Tanasie",
+       "pid": "ncst-w-p9"
+      },
+      "w": "b",
+      "score": "6-2 6-4",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 3,
+      "a": {
+       "name": "Caroline Driscoll",
+       "pid": "stan-w-fp87"
+      },
+      "b": {
+       "name": "Emma Kamper",
+       "pid": null
+      },
+      "w": "b",
+      "score": "7-6(7-3) 3-6 6-1",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 4,
+      "a": {
+       "name": "Sandugash Kenzhibayeva",
+       "pid": null
+      },
+      "b": {
+       "name": "Salakthip Ounmang",
+       "pid": null
+      },
+      "w": "b",
+      "score": "6-4 6-7(5-7) 6-4",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 5,
+      "a": {
+       "name": "Nao Nishino",
+       "pid": "osu-w-p6"
+      },
+      "b": {
+       "name": "Edda Mamedova",
+       "pid": "ou-p5"
+      },
+      "w": "a",
+      "score": "6-1 6-3",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 6,
+      "a": {
+       "name": "Prisca Abbas",
+       "pid": null
+      },
+      "b": {
+       "name": "Tianmei Wang",
+       "pid": "stan-w-p6"
+      },
+      "w": "a",
+      "score": "6-3 4-6 7-5",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 7,
+      "a": {
+       "name": "Berta Passola Folch",
+       "pid": "cal-w-fp420"
+      },
+      "b": {
+       "name": "Elim Yan",
+       "pid": null
+      },
+      "w": "a",
+      "score": "6-2 6-2",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 8,
+      "a": {
+       "name": "Audrey Spencer",
+       "pid": "osu-w-p10"
+      },
+      "b": {
+       "name": "Alanis Hamilton",
+       "pid": "unc-w-p5"
+      },
+      "w": "a",
+      "score": "1-6 6-3 6-2",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 9,
+      "a": {
+       "name": "Reece Carter",
+       "pid": "wash-w-fp106"
+      },
+      "b": {
+       "name": "Sofia Rojas",
+       "pid": "uga-p10"
+      },
+      "w": "b",
+      "score": "2-6 7-6(7-4) 6-1",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 10,
+      "a": {
+       "name": "Oliwia Orlinska",
+       "pid": "umd-w-p9"
+      },
+      "b": {
+       "name": "Monika EKSTRAND",
+       "pid": "stan-w-p4"
+      },
+      "w": "b",
+      "score": "7-6(7-2) 6-3",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 11,
+      "a": {
+       "name": "Vivian Yang",
+       "pid": "uva-w-p8"
+      },
+      "b": {
+       "name": "Deniz Dilek",
+       "pid": "uga-p2"
+      },
+      "w": "b",
+      "score": "6-3 6-3",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 12,
+      "a": {
+       "name": "Daianne Hayashida",
+       "pid": "iowa-w-fp235"
+      },
+      "b": {
+       "name": "Reese Miller",
+       "pid": "mich-w-p7"
+      },
+      "w": "b",
+      "score": "6-3 5-7 6-3",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 13,
+      "a": {
+       "name": "Mia Slama",
+       "pid": "ncst-w-p7"
+      },
+      "b": {
+       "name": "Maria de la Paz Alberto",
+       "pid": "isu-w-fp358"
+      },
+      "w": "b",
+      "score": "4-6 7-5 6-4",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 14,
+      "a": {
+       "name": "Gabriella Broadfoot",
+       "pid": "ncst-w-p2"
+      },
+      "b": {
+       "name": "Tianna Rangan",
+       "pid": "wisc-w-p5"
+      },
+      "w": "a",
+      "score": "6-0 6-4",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 15,
+      "a": {
+       "name": "Leonie Moeller",
+       "pid": "mem-w-p5"
+      },
+      "b": {
+       "name": "Alice Ferlito",
+       "pid": "prin-w-p4"
+      },
+      "w": "a",
+      "score": "7-6(7-2) 6-4",
+      "date": "2025-09-23"
+     },
+     {
+      "pos": 16,
+      "a": {
+       "name": "Valery Gynina",
+       "pid": "fla-p3"
+      },
+      "b": {
+       "name": "Zuzanna Kubacha",
+       "pid": "bay-w-p4"
+      },
+      "w": "a",
+      "score": "3-6 6-1 6-3",
+      "date": "2025-09-23"
+     }
+    ]
+   },
+   "Main": {
+    "R64": [
+     {
+      "pos": 1,
+      "a": {
+       "name": "DJ Bennett",
+       "pid": "aub-p11"
+      },
+      "b": {
+       "name": "Savannah Dada-Mascoll",
+       "pid": null
+      },
+      "w": "b",
+      "score": "6-2 2-6 6-2",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 2,
+      "a": {
+       "name": "Josie Usereau",
+       "pid": "ariz-w-p9"
+      },
+      "b": {
+       "name": "Gracie Epps",
+       "pid": null
+      },
+      "w": "a",
+      "score": "0-6 6-1 7-6(7-5)",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 3,
+      "a": {
+       "name": "Zoe Hammond",
+       "pid": "uk-w-ita-p4"
+      },
+      "b": {
+       "name": "Alejandra Cruz",
+       "pid": "gt-w-fp208"
+      },
+      "w": "a",
+      "score": "6-7(5-7) 6-3 6-4",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 4,
+      "a": {
+       "name": "Sofia Rojas",
+       "pid": "uga-p10"
+      },
+      "b": {
+       "name": "Tatum Evans",
+       "pid": "unc-w-p3"
+      },
+      "w": "b",
+      "score": "7-6(7-5) 6-4",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 5,
+      "a": {
+       "name": "Teah Chavez",
+       "pid": "osu-w-p3"
+      },
+      "b": {
+       "name": "Julia Zhu",
+       "pid": "uk-p10"
+      },
+      "w": "a",
+      "score": "6-4 6-4",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 6,
+      "a": {
+       "name": "Prisca Abbas",
+       "pid": null
+      },
+      "b": {
+       "name": "Anastasiia Grechkina",
+       "pid": "pepp-w-p2"
+      },
+      "w": "b",
+      "score": "2-6 6-3 6-4",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 7,
+      "a": {
+       "name": "Julia Garcia Ruiz",
+       "pid": "ou-p2"
+      },
+      "b": {
+       "name": "Valery Gynina",
+       "pid": "fla-p3"
+      },
+      "w": "a",
+      "score": "2-6 7-5 6-3",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 8,
+      "a": {
+       "name": "Emily Sartz -Lunde",
+       "pid": null
+      },
+      "b": {
+       "name": "Mayu Crossley",
+       "pid": "ucla-w-p7"
+      },
+      "w": "a",
+      "score": "6-3 5-7 6-0",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 9,
+      "a": {
+       "name": "Valerie Glozman",
+       "pid": "stan-w-p1"
+      },
+      "b": {
+       "name": "Maria de la Paz Alberto",
+       "pid": "isu-w-fp358"
+      },
+      "w": "a",
+      "score": "6-2 6-3",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 10,
+      "a": {
+       "name": "Audrey Spencer",
+       "pid": "osu-w-p10"
+      },
+      "b": {
+       "name": "Emilija Tverijonaite",
+       "pid": "asu-w-p4"
+      },
+      "w": "b",
+      "score": "6-2 6-1",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 11,
+      "a": {
+       "name": "Mao Mushika",
+       "pid": "cal-w-p6"
+      },
+      "b": {
+       "name": "Sami Yli-Piipari",
+       "pid": null
+      },
+      "w": "a",
+      "score": "6-3 6-2",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 12,
+      "a": {
+       "name": "Lavinia Tanasie",
+       "pid": "ncst-w-p9"
+      },
+      "b": {
+       "name": "Lily Jones",
+       "pid": "mich-w-p4"
+      },
+      "w": "a",
+      "score": "6-2 6-3",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 13,
+      "a": {
+       "name": "Theadora Rabman",
+       "pid": "unc-w-p9"
+      },
+      "b": {
+       "name": "Emma Kamper",
+       "pid": null
+      },
+      "w": "b",
+      "score": "6-2 6-4",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 14,
+      "a": {
+       "name": "Deniz Dilek",
+       "pid": "uga-p2"
+      },
+      "b": {
+       "name": "Shavit Kimchi",
+       "pid": "duke-w-p4"
+      },
+      "w": "a",
+      "score": "4-6 6-1 6-1",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 15,
+      "a": {
+       "name": "Mia Kupres",
+       "pid": "tamu-p9"
+      },
+      "b": {
+       "name": "Emma Charney",
+       "pid": "usc-w-p2"
+      },
+      "w": "b",
+      "score": "6-4 6-4",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 16,
+      "a": {
+       "name": "Kaitlyn Carnicella",
+       "pid": "sc-p4"
+      },
+      "b": {
+       "name": "Bridget Stammel",
+       "pid": "van-p6"
+      },
+      "w": "a",
+      "score": "6-2 6-3",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 17,
+      "a": {
+       "name": "Gabriella Broadfoot",
+       "pid": "ncst-w-p2"
+      },
+      "b": {
+       "name": "Leonie Moeller",
+       "pid": "mem-w-p5"
+      },
+      "w": null,
+      "score": "2-6 2-0 ret",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 18,
+      "a": {
+       "name": "Salakthip Ounmang",
+       "pid": null
+      },
+      "b": {
+       "name": "Irina Balus",
+       "pid": "duke-w-p2"
+      },
+      "w": "b",
+      "score": "4-6 7-5 6-3",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 19,
+      "a": {
+       "name": "Rose Marie Nijkamp",
+       "pid": null
+      },
+      "b": {
+       "name": "Annabelle Xu",
+       "pid": "uva-w-p11"
+      },
+      "w": "a",
+      "score": "6-3 6-3",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 20,
+      "a": {
+       "name": "Aysegul Mert",
+       "pid": "uga-p7"
+      },
+      "b": {
+       "name": "Maria Sholokhova",
+       "pid": "wisc-w-p7"
+      },
+      "w": "b",
+      "score": "7-5 7-5",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 21,
+      "a": {
+       "name": "Akari Matsuno",
+       "pid": "nd-w-fp264"
+      },
+      "b": {
+       "name": "Berta Passola Folch",
+       "pid": "cal-w-fp420"
+      },
+      "w": "b",
+      "score": "6-4 7-6(7-3)",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 22,
+      "a": {
+       "name": "Xin Tong Wang",
+       "pid": "wich-w-p8"
+      },
+      "b": {
+       "name": "Catherine Aulia",
+       "pid": "tenn-p2"
+      },
+      "w": "a",
+      "score": "7-6(7-2) 6-2",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 23,
+      "a": {
+       "name": "Ange Oby Kajuru",
+       "pid": null
+      },
+      "b": {
+       "name": "Reese Miller",
+       "pid": "mich-w-p7"
+      },
+      "w": "a",
+      "score": "6-1 6-2",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 24,
+      "a": {
+       "name": "Monika EKSTRAND",
+       "pid": "stan-w-p4"
+      },
+      "b": {
+       "name": "Luciana Perry",
+       "pid": "osu-w-p9"
+      },
+      "w": "b",
+      "score": "6-2 6-3",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 25,
+      "a": {
+       "name": "Alyssa Ahn",
+       "pid": "stan-w-p3"
+      },
+      "b": {
+       "name": "Kate Fakih",
+       "pid": "ucla-w-p9"
+      },
+      "w": "a",
+      "score": "6-4 5-7 6-4",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 26,
+      "a": {
+       "name": "Eleana Yu",
+       "pid": "duke-w-p7"
+      },
+      "b": {
+       "name": "Carmen Andreea Herea",
+       "pid": null
+      },
+      "w": "b",
+      "score": "6-3 6-2",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 27,
+      "a": {
+       "name": "Anna Zyryanova",
+       "pid": "ncst-w-fp215"
+      },
+      "b": {
+       "name": "Gabia Paskauskas",
+       "pid": "fla-p7"
+      },
+      "w": "b",
+      "score": "6-3 4-6 6-3",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 28,
+      "a": {
+       "name": "Valeria Ray",
+       "pid": "van-p5"
+      },
+      "b": {
+       "name": "Piper Charney",
+       "pid": "mich-w-p3"
+      },
+      "w": "b",
+      "score": "6-1 6-3",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 29,
+      "a": {
+       "name": "Ashton Bowers",
+       "pid": "aub-p2"
+      },
+      "b": {
+       "name": "Ozlem Uslu",
+       "pid": "vt-w-fp336"
+      },
+      "w": "a",
+      "score": "6-2 6-3",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 30,
+      "a": {
+       "name": "Leyla Britez Risso",
+       "pid": "tenn-p3"
+      },
+      "b": {
+       "name": "Scarlett Nicholson",
+       "pid": "fla-p5"
+      },
+      "w": "a",
+      "score": "6-2 6-7(6-8) 6-1",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 31,
+      "a": {
+       "name": "Carolina Gomez Alonso",
+       "pid": "ark-p10"
+      },
+      "b": {
+       "name": "Esha Velaga",
+       "pid": "penn-w-p10"
+      },
+      "w": "a",
+      "score": "6-4 3-6 6-4",
+      "date": "2025-09-24"
+     },
+     {
+      "pos": 32,
+      "a": {
+       "name": "Nao Nishino",
+       "pid": "osu-w-p6"
+      },
+      "b": {
+       "name": "Reese Brantmeier",
+       "pid": "unc-w-p2"
+      },
+      "w": "b",
+      "score": "6-4 6-4",
+      "date": "2025-09-24"
+     }
+    ],
+    "R32": [
+     {
+      "pos": 1,
+      "a": {
+       "name": "Savannah Dada-Mascoll",
+       "pid": null
+      },
+      "b": {
+       "name": "Josie Usereau",
+       "pid": "ariz-w-p9"
+      },
+      "w": "a",
+      "score": "6-1 6-4",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 2,
+      "a": {
+       "name": "Zoe Hammond",
+       "pid": "uk-w-ita-p4"
+      },
+      "b": {
+       "name": "Tatum Evans",
+       "pid": "unc-w-p3"
+      },
+      "w": "b",
+      "score": "7-6(7-4) 6-0",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 3,
+      "a": {
+       "name": "Teah Chavez",
+       "pid": "osu-w-p3"
+      },
+      "b": {
+       "name": "Anastasiia Grechkina",
+       "pid": "pepp-w-p2"
+      },
+      "w": "a",
+      "score": "6-4 6-3",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 4,
+      "a": {
+       "name": "Julia Garcia Ruiz",
+       "pid": "ou-p2"
+      },
+      "b": {
+       "name": "Emily Sartz -Lunde",
+       "pid": null
+      },
+      "w": "a",
+      "score": "6-2 6-1",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 5,
+      "a": {
+       "name": "Valerie Glozman",
+       "pid": "stan-w-p1"
+      },
+      "b": {
+       "name": "Emilija Tverijonaite",
+       "pid": "asu-w-p4"
+      },
+      "w": "a",
+      "score": "6-1 6-2",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 6,
+      "a": {
+       "name": "Mao Mushika",
+       "pid": "cal-w-p6"
+      },
+      "b": {
+       "name": "Lavinia Tanasie",
+       "pid": "ncst-w-p9"
+      },
+      "w": "a",
+      "score": "7-6(7-5) 6-2",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 7,
+      "a": {
+       "name": "Emma Kamper",
+       "pid": null
+      },
+      "b": {
+       "name": "Deniz Dilek",
+       "pid": "uga-p2"
+      },
+      "w": "b",
+      "score": "6-3 6-2",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 8,
+      "a": {
+       "name": "Emma Charney",
+       "pid": "usc-w-p2"
+      },
+      "b": {
+       "name": "Kaitlyn Carnicella",
+       "pid": "sc-p4"
+      },
+      "w": "a",
+      "score": "4-6 6-3 6-2",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 9,
+      "a": {
+       "name": "Gabriella Broadfoot",
+       "pid": "ncst-w-p2"
+      },
+      "b": {
+       "name": "Irina Balus",
+       "pid": "duke-w-p2"
+      },
+      "w": "b",
+      "score": "4-6 6-4 6-2",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 10,
+      "a": {
+       "name": "Rose Marie Nijkamp",
+       "pid": null
+      },
+      "b": {
+       "name": "Maria Sholokhova",
+       "pid": "wisc-w-p7"
+      },
+      "w": "a",
+      "score": "6-4 7-5",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 11,
+      "a": {
+       "name": "Berta Passola Folch",
+       "pid": "cal-w-fp420"
+      },
+      "b": {
+       "name": "Xin Tong Wang",
+       "pid": "wich-w-p8"
+      },
+      "w": "a",
+      "score": "6-2 6-4",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 12,
+      "a": {
+       "name": "Ange Oby Kajuru",
+       "pid": null
+      },
+      "b": {
+       "name": "Luciana Perry",
+       "pid": "osu-w-p9"
+      },
+      "w": "b",
+      "score": "5-7 6-3 6-2",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 13,
+      "a": {
+       "name": "Alyssa Ahn",
+       "pid": "stan-w-p3"
+      },
+      "b": {
+       "name": "Carmen Andreea Herea",
+       "pid": null
+      },
+      "w": "b",
+      "score": "7-5 6-3",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 14,
+      "a": {
+       "name": "Gabia Paskauskas",
+       "pid": "fla-p7"
+      },
+      "b": {
+       "name": "Piper Charney",
+       "pid": "mich-w-p3"
+      },
+      "w": "b",
+      "score": "6-1 6-1",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 15,
+      "a": {
+       "name": "Ashton Bowers",
+       "pid": "aub-p2"
+      },
+      "b": {
+       "name": "Leyla Britez Risso",
+       "pid": "tenn-p3"
+      },
+      "w": "b",
+      "score": "6-3 6-4",
+      "date": "2025-09-25"
+     },
+     {
+      "pos": 16,
+      "a": {
+       "name": "Carolina Gomez Alonso",
+       "pid": "ark-p10"
+      },
+      "b": {
+       "name": "Reese Brantmeier",
+       "pid": "unc-w-p2"
+      },
+      "w": "b",
+      "score": "3-6 6-3 7-5",
+      "date": "2025-09-25"
+     }
+    ],
+    "R16": [
+     {
+      "pos": 1,
+      "a": {
+       "name": "Savannah Dada-Mascoll",
+       "pid": null
+      },
+      "b": {
+       "name": "Tatum Evans",
+       "pid": "unc-w-p3"
+      },
+      "w": "b",
+      "score": "6-1 7-5",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 2,
+      "a": {
+       "name": "Teah Chavez",
+       "pid": "osu-w-p3"
+      },
+      "b": {
+       "name": "Julia Garcia Ruiz",
+       "pid": "ou-p2"
+      },
+      "w": "a",
+      "score": "6-3 6-4",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 3,
+      "a": {
+       "name": "Valerie Glozman",
+       "pid": "stan-w-p1"
+      },
+      "b": {
+       "name": "Mao Mushika",
+       "pid": "cal-w-p6"
+      },
+      "w": "a",
+      "score": "3-6 7-5 6-3",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 4,
+      "a": {
+       "name": "Deniz Dilek",
+       "pid": "uga-p2"
+      },
+      "b": {
+       "name": "Emma Charney",
+       "pid": "usc-w-p2"
+      },
+      "w": "b",
+      "score": "6-2 1-6 6-2",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 5,
+      "a": {
+       "name": "Irina Balus",
+       "pid": "duke-w-p2"
+      },
+      "b": {
+       "name": "Rose Marie Nijkamp",
+       "pid": null
+      },
+      "w": "a",
+      "score": "6-4 7-5",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 6,
+      "a": {
+       "name": "Berta Passola Folch",
+       "pid": "cal-w-fp420"
+      },
+      "b": {
+       "name": "Luciana Perry",
+       "pid": "osu-w-p9"
+      },
+      "w": "b",
+      "score": "7-6(7-4) 6-0",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 7,
+      "a": {
+       "name": "Carmen Andreea Herea",
+       "pid": null
+      },
+      "b": {
+       "name": "Piper Charney",
+       "pid": "mich-w-p3"
+      },
+      "w": "a",
+      "score": "7-5 3-6 6-1",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 8,
+      "a": {
+       "name": "Leyla Britez Risso",
+       "pid": "tenn-p3"
+      },
+      "b": {
+       "name": "Reese Brantmeier",
+       "pid": "unc-w-p2"
+      },
+      "w": "b",
+      "score": "6-2 6-0",
+      "date": "2025-09-26"
+     }
+    ],
+    "QF": [
+     {
+      "pos": 1,
+      "a": {
+       "name": "Tatum Evans",
+       "pid": "unc-w-p3"
+      },
+      "b": {
+       "name": "Teah Chavez",
+       "pid": "osu-w-p3"
+      },
+      "w": "b",
+      "score": "6-3 7-5",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 2,
+      "a": {
+       "name": "Valerie Glozman",
+       "pid": "stan-w-p1"
+      },
+      "b": {
+       "name": "Emma Charney",
+       "pid": "usc-w-p2"
+      },
+      "w": "a",
+      "score": "6-2 6-0",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 3,
+      "a": {
+       "name": "Irina Balus",
+       "pid": "duke-w-p2"
+      },
+      "b": {
+       "name": "Luciana Perry",
+       "pid": "osu-w-p9"
+      },
+      "w": "b",
+      "score": "6-0 6-2",
+      "date": "2025-09-26"
+     },
+     {
+      "pos": 4,
+      "a": {
+       "name": "Carmen Andreea Herea",
+       "pid": null
+      },
+      "b": {
+       "name": "Reese Brantmeier",
+       "pid": "unc-w-p2"
+      },
+      "w": null,
+      "score": " wo",
+      "date": "2025-09-26"
+     }
+    ],
+    "SF": [
+     {
+      "pos": 1,
+      "a": {
+       "name": "Teah Chavez",
+       "pid": "osu-w-p3"
+      },
+      "b": {
+       "name": "Valerie Glozman",
+       "pid": "stan-w-p1"
+      },
+      "w": "b",
+      "score": "6-3 6-2",
+      "date": "2025-09-27"
+     },
+     {
+      "pos": 2,
+      "a": {
+       "name": "Luciana Perry",
+       "pid": "osu-w-p9"
+      },
+      "b": {
+       "name": "Carmen Andreea Herea",
+       "pid": null
+      },
+      "w": "b",
+      "score": "3-6 6-4 6-4",
+      "date": "2025-09-27"
+     }
+    ],
+    "F": [
+     {
+      "pos": 1,
+      "a": {
+       "name": "Valerie Glozman",
+       "pid": "stan-w-p1"
+      },
+      "b": {
+       "name": "Carmen Andreea Herea",
+       "pid": null
+      },
+      "w": "a",
+      "score": "6-2 6-3",
+      "date": "2025-09-28"
+     }
+    ]
+   }
+  },
+  "playerMeta": {
+   "tenn-p7": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "isu-w-fp359": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ncst-w-p8": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "msu-w-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "minn-w-p4": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "van-p8": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "tex-p10": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ksu-w-p4": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "msst-p4": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ind-w-fp340": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "penn-w-p6": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ttu-w-fp269": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "unt-w-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "neb-w-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "umd-w-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "cincy-w-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wisc-w-p5": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "colum-w-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "nd-w-p10": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "tcu-w-fp430": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "vt-w-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "fsu-w-fp387": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "clem-w-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "sc-p3": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "prin-w-p4": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "fsu-w-p8": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "harv-w-p11": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ind-w-p8": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ttu-w-fp270": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ill-w-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ala-p3": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "van-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ku-w-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "nd-w-fp265": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wake-w-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "clem-w-p6": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ou-p6": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "miami-w-fp325": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "sc-p9": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ark-p8": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "colum-w-p8": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ou-p7": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "tenn-p8": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "msu-w-p4": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wich-w-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wake-w-p9": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "psu-w-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ou-w-n1": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "port-w-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "umd-w-p9": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "smu-w-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "psu-w-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ucla-w-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wsu-w-p6": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wisc-w-p3": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "miami-w-fp457": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "rut-w-fp392": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "iowa-w-fp429": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "nd-w-fp281": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "utah-w-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "umd-w-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "utah-w-fp300": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "cal-w-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "duke-w-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wsu-w-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "fsu-w-n1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ucla-w-p8": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wsu-w-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ariz-w-p6": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "isu-w-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ucsb-w-fp301": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "uva-w-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wash-w-p9": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "cal-w-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ariz-w-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "utah-w-p7": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ucla-w-p5": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "rice-w-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "uva-w-p4": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wash-w-fp107": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ucsb-w-p10": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ala-p9": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wisc-w-p8": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "prin-w-fp364": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ucsb-w-p4": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "van-p9": {
+    "stages": [
+     "PREQUAL",
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "psu-w-fp267": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "nw-w-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "clem-w-p4": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "fsu-w-p9": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "isu-w-fp358": {
+    "stages": [
+     "PREQUAL",
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ariz-w-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "tcu-w-fp402": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "psu-w-p6": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "lsu-p12": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "neb-w-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ncst-w-p3": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "fla-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ala-p10": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "rice-w-fp305": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "cal-w-p9": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "neb-w-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wisc-w-p9": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "vt-w-fp335": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wash-w-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "duke-w-fp308": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "ku-w-p5": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "lsu-p11": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "bay-w-fp232": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "nw-w-p7": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "isu-w-p8": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "uga-p2": {
+    "stages": [
+     "PREQUAL",
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ark-p6": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "fla-p8": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "unc-w-p10": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "psu-w-p8": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "van-p2": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "wash-w-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "tcu-w-p1": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "minn-w-p3": {
+    "stages": [],
+    "alive": false
+   },
+   "sc-p4": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "tuln-w-fp114": {
+    "stages": [],
+    "alive": false
+   },
+   "tuln-w-p7": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "psu-w-p9": {
+    "stages": [],
+    "alive": false
+   },
+   "ou-p9": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "sc-p7": {
+    "stages": [],
+    "alive": false
+   },
+   "colum-w-p5": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "wake-w-p3": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "tcu-w-p6": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "osu-w-p10": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "osu-w-p6": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "fla-p7": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "fla-p3": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "harv-w-p3": {
+    "stages": [],
+    "alive": false
+   },
+   "wash-w-fp106": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ncst-w-p9": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ncst-w-p7": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ksu-w-fp411": {
+    "stages": [],
+    "alive": false
+   },
+   "uk-p10": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "uk-w-ita-p4": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "wake-w-p5": {
+    "stages": [],
+    "alive": false
+   },
+   "wash-w-fp105": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ark-p10": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "fla-p6": {
+    "stages": [
+     "PREQUAL"
+    ],
+    "alive": false
+   },
+   "cal-w-fp420": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "iowa-w-fp235": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "pepp-w-p3": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ncst-w-p2": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "clem-w-p3": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "bay-w-fp231": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "uva-w-p8": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "uva-w-p10": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "stan-w-p4": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ou-p5": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ncst-w-p6": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "miami-w-fp321": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "unc-w-p5": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "okst-w-p6": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "rice-w-p8": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "mem-w-p5": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ttu-w-fp268": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "msst-p5": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "stan-w-fp87": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "uga-p9": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "ku-w-p6": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "bay-w-p4": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "tamu-p10": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "stan-w-p3": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "nd-w-p7": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "uga-p10": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "mich-w-p7": {
+    "stages": [
+     "QUAL",
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "usc-w-fp72": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "usd-w-p2": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "stan-w-p6": {
+    "stages": [
+     "QUAL"
+    ],
+    "alive": false
+   },
+   "mich-w-p3": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "osu-w-p9": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "osu-w-p3": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "wich-w-p8": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "wisc-w-p7": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "nd-w-fp264": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "van-p5": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "van-p6": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "yale-w-p9": {
+    "stages": [],
+    "alive": false
+   },
+   "yale-w-p3": {
+    "stages": [],
+    "alive": false
+   },
+   "duke-w-p4": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ou-p2": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "unc-w-p9": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "unc-w-p3": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "tamu-p9": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "van-p4": {
+    "stages": [],
+    "alive": false
+   },
+   "aub-p2": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "vt-w-fp336": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "mich-w-p4": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "unc-w-p2": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "uva-w-p11": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "aub-p11": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "uga-p7": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "penn-w-p10": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "duke-w-p2": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "tenn-p3": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "fla-p5": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "cal-w-p6": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "tenn-p2": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ariz-w-p9": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "duke-w-p7": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "pepp-w-p2": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ncst-w-fp215": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ucla-w-p7": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "usc-w-p2": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "ucla-w-p9": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "stan-w-p1": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "asu-w-p4": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "van-p3": {
+    "stages": [],
+    "alive": false
+   },
+   "unc-w-p8": {
+    "stages": [],
+    "alive": false
+   },
+   "gt-w-fp208": {
+    "stages": [
+     "MAIN"
+    ],
+    "alive": false
+   },
+   "usc-w-p3": {
+    "stages": [],
+    "alive": false
+   }
+  }
+ }
+];
+
+export const itaTournamentsAsOf = globalThis.__BAGEL_REMOTE__?.["itaTournaments"]?.itaTournamentsAsOf ?? "2026-09-03";
 
 export function getItaTournaments({ activeWindowDays = 30 } = {}) {
   const cutoff = new Date(Date.now() - activeWindowDays * 86400e3).toISOString().slice(0, 10);

@@ -1659,7 +1659,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "usc-m-h3",
+    "playerId": "tamu-m-h6",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -1667,7 +1667,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "tamu-m-h6",
+    "playerId": "usc-m-h3",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -3294,7 +3294,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "usc-m-h3",
+  "playerId": "tamu-m-h6",
   "event": "Roehampton 2 Challenger",
   "seed": null,
   "entry": null,
@@ -3302,7 +3302,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tamu-m-h6",
+  "playerId": "usc-m-h3",
   "event": "Roehampton 2 Challenger",
   "seed": null,
   "entry": null,
