@@ -1,18 +1,18 @@
 {
- "version": "9835b5373f",
+ "version": "0483191327",
  "asOf": "2026-09-03",
  "files": {
   "proRankings.js": {
-   "hash": "f5e66d4f0b",
-   "bytes": 163981
+   "hash": "96eaa9f738",
+   "bytes": 170077
   },
   "onTourWeek.js": {
    "hash": "58da4349ea",
    "bytes": 435717
   },
   "upcoming.js": {
-   "hash": "79fd6c7224",
-   "bytes": 9215
+   "hash": "85f8847047",
+   "bytes": 11513
   },
   "itaNational.js": {
    "hash": "18278898a7",
@@ -35,8 +35,8 @@
    "bytes": 597
   },
   "drawFixtures.js": {
-   "hash": "b3355557d6",
-   "bytes": 65756
+   "hash": "3948ccc91f",
+   "bytes": 61816
   }
  }
 }

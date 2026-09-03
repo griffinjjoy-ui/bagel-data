@@ -64,6 +64,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "usc-m-p3",
+  "name": "Branko Djuric",
+  "teamId": "usc-m",
+  "gender": "men",
+  "opponent": "Alessandro Bellifemine",
+  "event": "M15 Kursumlijska Banja",
+  "date": "2026-09-03",
+  "day": "today"
+ },
+ {
   "playerId": "msst-m-h4",
   "name": "Carles Hernandez",
   "teamId": "msst-m",
@@ -114,6 +124,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "mem-m-h2",
+  "name": "Conor Gannon",
+  "teamId": "mem-m",
+  "gender": "men",
+  "opponent": "Omar Kandil",
+  "event": "M15 Hurghada",
+  "date": "2026-09-03",
+  "day": "today"
+ },
+ {
   "playerId": "pepp-m-h6",
   "name": "Eero Vasa",
   "teamId": "pepp-m",
@@ -160,6 +180,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Anne Schaefer",
   "event": "W15 Fiano Romano",
+  "date": "2026-09-03",
+  "day": "today"
+ },
+ {
+  "playerId": "tamu-m-h6",
+  "name": "Giulio Perego",
+  "teamId": "tamu-m",
+  "gender": "men",
+  "opponent": "Jake Fellows",
+  "event": "M15 Hurghada",
   "date": "2026-09-03",
   "day": "today"
  },
@@ -224,12 +254,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "miss-m-h3",
+  "name": "John Hallquist Lithen",
+  "teamId": "miss-m",
+  "gender": "men",
+  "opponent": "Richard Antoni",
+  "event": "M15 Szczawno",
+  "date": "2026-09-03",
+  "day": "today"
+ },
+ {
   "playerId": "ou-m-h2",
   "name": "Jordan Hasson",
   "teamId": "ou-m",
   "gender": "men",
   "opponent": "Arthur Weber",
   "event": "M15 Nonthaburi",
+  "date": "2026-09-03",
+  "day": "today"
+ },
+ {
+  "playerId": "uva-w-h6",
+  "name": "Julia Adams",
+  "teamId": "uva-w",
+  "gender": "women",
+  "opponent": "Matylda Burylo",
+  "event": "W15 Grodzisk Mazowiecki",
   "date": "2026-09-03",
   "day": "today"
  },
@@ -304,12 +354,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tamu-m-h7",
+  "name": "Raphael Perot",
+  "teamId": "tamu-m",
+  "gender": "men",
+  "opponent": "Liam Branger",
+  "event": "M25+H Bagneres-de-Bigorre",
+  "date": "2026-09-03",
+  "day": "today"
+ },
+ {
   "playerId": "tenn-m-h6",
   "name": "Shunsuke Mitsui",
   "teamId": "tenn-m",
   "gender": "men",
   "opponent": "Noritaka Koizumi",
   "event": "M25 Urayasu",
+  "date": "2026-09-03",
+  "day": "today"
+ },
+ {
+  "playerId": "tenn-w-h9",
+  "name": "Sofia Cabezas",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Agustina Daniela Duarte",
+  "event": "W15 Lujan",
   "date": "2026-09-03",
   "day": "today"
  },
@@ -374,6 +444,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "msu-m-h10",
+  "name": "Vuk Radjenovic",
+  "teamId": "msu-m",
+  "gender": "men",
+  "opponent": "Drazen Petrovic",
+  "event": "M15 Kursumlijska Banja",
+  "date": "2026-09-03",
+  "day": "today"
+ },
+ {
+  "playerId": "utah-w-h8",
+  "name": "Yasmin Ezzat",
+  "teamId": "utah-w",
+  "gender": "women",
+  "opponent": "Tamina Kochta",
+  "event": "W15 Hurghada",
+  "date": "2026-09-03",
+  "day": "today"
+ },
+ {
   "playerId": "tamu-m-h20",
   "name": "Arthur Rinderknech",
   "teamId": "tamu-m",
@@ -384,11 +474,31 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "fla-m-h8",
+  "name": "Ben Shelton",
+  "teamId": "fla-m",
+  "gender": "men",
+  "opponent": "Denis Shapovalov",
+  "event": "U.S. Open - New York",
+  "date": "2026-09-04",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ncst-w-h8",
   "name": "Diana Shnaider",
   "teamId": "ncst-w",
   "gender": "women",
   "opponent": "Taylor Townsend",
+  "event": "U.S. Open - New York",
+  "date": "2026-09-04",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "uva-w-h8",
+  "name": "Emma Navarro",
+  "teamId": "uva-w",
+  "gender": "women",
+  "opponent": "Karolina Muchova",
   "event": "U.S. Open - New York",
   "date": "2026-09-04",
   "day": "tomorrow"
