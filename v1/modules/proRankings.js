@@ -4722,20 +4722,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "wta-official"
  },
  {
-  "playerId": "ttu-w-fp268",
-  "name": "Yekaterina Dmitrichenko",
-  "teamId": "ttu-w",
-  "teamName": "Texas Tech",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1066,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-08-10",
-  "source": "wta-official"
- },
- {
   "playerId": "tenn-p3",
   "name": "Leyla Britez Risso",
   "teamId": "tenn-w",
@@ -5464,6 +5450,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "wta-official"
  },
  {
+  "playerId": "ttu-w-n2",
+  "name": "Jennifer Jackson",
+  "teamId": "ttu-w",
+  "teamName": "Texas Tech",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1400,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-08-10",
+  "source": "wta-official"
+ },
+ {
   "playerId": "tamu-w-n5",
   "name": "Sydney Jara",
   "teamId": "tamu-w",
@@ -5955,10 +5955,6 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
  "cal-m-p3": {
   "position": 294,
   "date": "2026-08-10"
- },
- "cal-m-p5": {
-  "position": 643,
-  "date": "2026-08-23"
  },
  "cal-w-h11": {
   "position": 980,
@@ -11127,9 +11123,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "pepp-w-fp121": [
   970
  ],
- "ttu-w-fp268": [
-  1066
- ],
  "miami-w-fp320": [
   1112
  ],
@@ -11192,6 +11185,9 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  ],
  "tenn-w-n2": [
   1147
+ ],
+ "ttu-w-n2": [
+  1400
  ],
  "tulsa-w-n5": [
   673
