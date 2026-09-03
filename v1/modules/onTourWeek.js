@@ -31,6 +31,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-03"
  },
  {
+  "playerId": "usc-m-p3",
+  "name": "Branko Djuric",
+  "teamId": "usc-m",
+  "teamName": "USC",
+  "gender": "men",
+  "event": "M15 Kursumlijska Banja",
+  "round": "Second",
+  "won": true,
+  "opponent": "Alessandro Bellifemine",
+  "result": "6-3 6-2",
+  "date": "2026-09-03"
+ },
+ {
   "playerId": "ariz-m-fp226",
   "name": "Jay Friend",
   "teamId": "ariz-m",
@@ -210,19 +223,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Alex Michelsen",
   "result": "6-3 6-4 6-4",
-  "date": "2026-09-02"
- },
- {
-  "playerId": "usc-m-p3",
-  "name": "Branko Djuric",
-  "teamId": "usc-m",
-  "teamName": "USC",
-  "gender": "men",
-  "event": "M15 Kursumlijska Banja",
-  "round": "First",
-  "won": true,
-  "opponent": "Maxim Khorozov",
-  "result": "6-1 6-1",
   "date": "2026-09-02"
  },
  {
@@ -17623,11 +17623,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "USC",
   "gender": "men",
   "event": "M15 Kursumlijska Banja",
-  "round": "First",
+  "round": "Second",
   "won": true,
-  "opponent": "Maxim Khorozov",
-  "result": "6-1 6-1",
-  "date": "2026-09-02"
+  "opponent": "Alessandro Bellifemine",
+  "result": "6-3 6-2",
+  "date": "2026-09-03"
  },
  "usc-m-p6": {
   "playerId": "usc-m-p6",

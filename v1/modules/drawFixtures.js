@@ -39,19 +39,19 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "uga-w-h2",
-    "seed": "6",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
     "playerId": "uva-w-h6",
     "seed": "2",
     "entry": null,
     "inMain": true,
     "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "uga-w-h2",
+    "seed": "6",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
     "played": true
    }
   ]
@@ -703,6 +703,40 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
+  "event": "M15 Kursumlijska Banja",
+  "tournamentId": 22009,
+  "tour": "atp",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "usc-m-p3",
+    "seed": "1",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "miss-m-p2",
+    "seed": "3",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "msu-m-h10",
+    "seed": "8",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
   "event": "Manacor Challenger",
   "tournamentId": 21942,
   "tour": "atp",
@@ -711,17 +745,17 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "champion": null,
   "entries": [
    {
-    "playerId": "tcu-m-h8",
-    "seed": "6",
-    "entry": null,
+    "playerId": "uva-m-h4",
+    "seed": null,
+    "entry": "ALT",
     "inMain": true,
     "eliminated": false,
     "played": true
    },
    {
-    "playerId": "uva-m-h4",
-    "seed": null,
-    "entry": "ALT",
+    "playerId": "tcu-m-h8",
+    "seed": "6",
+    "entry": null,
     "inMain": true,
     "eliminated": false,
     "played": true
@@ -785,40 +819,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
-  "event": "M15 Kursumlijska Banja",
-  "tournamentId": 22009,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "usc-m-p3",
-    "seed": "1",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "miss-m-p2",
-    "seed": "3",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "msu-m-h10",
-    "seed": "8",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   }
-  ]
- },
- {
   "event": "M25+H Bagneres-de-Bigorre",
   "tournamentId": 22002,
   "tour": "atp",
@@ -843,11 +843,11 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "scu-m-h2",
-    "seed": "7",
-    "entry": null,
+    "playerId": "tamu-m-h7",
+    "seed": null,
+    "entry": "2WC",
     "inMain": true,
-    "eliminated": true,
+    "eliminated": false,
     "played": true
    },
    {
@@ -859,11 +859,11 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "tamu-m-h7",
-    "seed": null,
-    "entry": "2WC",
+    "playerId": "scu-m-h2",
+    "seed": "7",
+    "entry": null,
     "inMain": true,
-    "eliminated": false,
+    "eliminated": true,
     "played": true
    },
    {
@@ -1982,7 +1982,8 @@ export const recentChampions = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.re
   "event": "M15 Kursumlijska Banja",
   "score": "6-2 6-7(4) 6-3",
   "date": "2026-08-30",
-  "source": "recovered from onTourWeek harvest (git 7b114868); draws probe had missed this event"
+  "source": "recovered from onTourWeek harvest (git 7b114868); draws probe had missed this event",
+  "opponent": "Dmitry Popko"
  }
 ];
 
@@ -2005,20 +2006,20 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "uga-w-h2",
-  "event": "W15 Grodzisk Mazowiecki",
-  "seed": "6",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
   "playerId": "uva-w-h6",
   "event": "W15 Grodzisk Mazowiecki",
   "seed": "2",
   "entry": null,
   "inMain": true,
   "hasUnplayed": true
+ },
+ {
+  "playerId": "uga-w-h2",
+  "event": "W15 Grodzisk Mazowiecki",
+  "seed": "6",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
  },
  {
   "playerId": "okst-w-p1",
@@ -2509,18 +2510,42 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tcu-m-h8",
-  "event": "Manacor Challenger",
-  "seed": "6",
+  "playerId": "usc-m-p3",
+  "event": "M15 Kursumlijska Banja",
+  "seed": "1",
   "entry": null,
   "inMain": true,
   "hasUnplayed": true
+ },
+ {
+  "playerId": "miss-m-p2",
+  "event": "M15 Kursumlijska Banja",
+  "seed": "3",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "msu-m-h10",
+  "event": "M15 Kursumlijska Banja",
+  "seed": "8",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
  },
  {
   "playerId": "uva-m-h4",
   "event": "Manacor Challenger",
   "seed": null,
   "entry": "ALT",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tcu-m-h8",
+  "event": "Manacor Challenger",
+  "seed": "6",
+  "entry": null,
   "inMain": true,
   "hasUnplayed": true
  },
@@ -2581,30 +2606,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "usc-m-p3",
-  "event": "M15 Kursumlijska Banja",
-  "seed": "1",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "miss-m-p2",
-  "event": "M15 Kursumlijska Banja",
-  "seed": "3",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "msu-m-h10",
-  "event": "M15 Kursumlijska Banja",
-  "seed": "8",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
   "playerId": "lou-m-h5",
   "event": "M25+H Bagneres-de-Bigorre",
   "seed": null,
@@ -2621,12 +2622,12 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": true
  },
  {
-  "playerId": "scu-m-h2",
+  "playerId": "tamu-m-h7",
   "event": "M25+H Bagneres-de-Bigorre",
-  "seed": "7",
-  "entry": null,
+  "seed": null,
+  "entry": "2WC",
   "inMain": true,
-  "hasUnplayed": false
+  "hasUnplayed": true
  },
  {
   "playerId": "tcu-m-h2",
@@ -2637,12 +2638,12 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tamu-m-h7",
+  "playerId": "scu-m-h2",
   "event": "M25+H Bagneres-de-Bigorre",
-  "seed": null,
-  "entry": "2WC",
+  "seed": "7",
+  "entry": null,
   "inMain": true,
-  "hasUnplayed": true
+  "hasUnplayed": false
  },
  {
   "playerId": "fla-m-p4",

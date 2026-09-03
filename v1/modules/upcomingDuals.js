@@ -2232,6 +2232,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "8ABA7167-749F-4F6D-8DB8-C18F857F1A56",
+  "date": "2027-03-19",
+  "dateTime": "2027-03-19T15:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Illinois State University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "miz-w",
+   "name": "University Of Missouri",
+   "side": 2
+  }
+ },
+ {
   "id": "04AB77E0-8F0C-40A6-8896-7C9914C3A5D3",
   "date": "2027-03-19",
   "dateTime": "2027-03-19T19:00:00.000Z",
