@@ -7797,7 +7797,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   592,
   510,
   515,
-  521
+  521,
+  502
  ],
  "ala-w-h1": [
   742,
@@ -7810,7 +7811,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   634,
   592,
   544,
-  552
+  552,
+  532
  ],
  "ala-w-h8": [
   877,
@@ -7821,7 +7823,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   702,
   707,
   708,
-  705
+  705,
+  694
  ],
  "ariz-m-fp226": [
   401,
@@ -7833,7 +7836,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   376,
   314,
   315,
-  314
+  314,
+  312
  ],
  "ariz-m-h1": [
   900,
@@ -7842,7 +7846,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   745,
   745,
   736,
-  716
+  716,
+  719
  ],
  "ariz-m-h3": [
   185,
@@ -7855,7 +7860,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   184,
   197,
   200,
-  221
+  221,
+  222
  ],
  "ariz-w-h5": [
   866,
@@ -7875,7 +7881,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   605,
   615,
   629,
-  623
+  623,
+  631
  ],
  "asu-m-h2": [
   538,
@@ -7888,7 +7895,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   613,
   632,
   639,
-  639
+  639,
+  644
  ],
  "asu-m-h4": [
   264,
@@ -7901,7 +7909,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   285,
   288,
   291,
-  304
+  304,
+  307
  ],
  "asu-w-h8": [
   762,
@@ -7914,7 +7923,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   635,
   640,
   641,
-  631
+  631,
+  625
  ],
  "aub-m-h3": [
   796,
@@ -7933,7 +7943,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   509,
   502,
   493,
-  522
+  522,
+  530
  ],
  "aub-p10": [
   626,
@@ -7945,7 +7956,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   660,
   670,
   675,
-  673
+  673,
+  678
  ],
  "aub-p12": [
   445,
@@ -7957,7 +7969,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   513,
   515,
   522,
-  508
+  508,
+  488
  ],
  "aub-p3": [
   885,
@@ -7965,7 +7978,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   818,
   820,
   818,
-  811
+  811,
+  841
  ],
  "aub-p5": [
   653,
@@ -7982,7 +7996,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "aub-p6": [
   889,
   883,
-  892
+  892,
+  969
  ],
  "aub-w-h1": [
   773,
@@ -7994,7 +8009,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   801,
   808,
   813,
-  806
+  806,
+  960
  ],
  "aub-w-h6": [
   254,
@@ -8007,7 +8023,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   255,
   260,
   249,
-  248
+  248,
+  251
  ],
  "aub-w-h7": [
   451,
@@ -8020,7 +8037,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   407,
   352,
   381,
-  381
+  381,
+  382
  ],
  "bay-m-h11": [
   316,
@@ -8044,7 +8062,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   429,
   435,
   441,
-  494
+  494,
+  500
  ],
  "bay-m-h4": [
   694,
@@ -8069,7 +8088,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   770,
   768,
   778,
-  840
+  840,
+  848
  ],
  "bay-m-h7": [
   734,
@@ -8082,7 +8102,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   746,
   746,
   747,
-  726
+  726,
+  736
  ],
  "bay-w-h13": [
   388,
@@ -8094,7 +8115,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   313,
   320,
   318,
-  305
+  305,
+  301
  ],
  "cal-m-h3": [
   642,
@@ -8107,7 +8129,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   676,
   677,
   686,
-  877
+  877,
+  892
  ],
  "cal-m-h6": [
   428,
@@ -8120,7 +8143,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   341,
   344,
   323,
-  293
+  293,
+  296
  ],
  "cal-m-h7": [
   867
@@ -8136,7 +8160,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   424,
   432,
   447,
-  470
+  470,
+  474
  ],
  "cal-w-h2": [
   726,
@@ -8149,7 +8174,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   527,
   496,
   476,
-  480
+  480,
+  484
  ],
  "clem-m-fp162": [
   885,
@@ -8161,12 +8187,14 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   873,
   867,
   868,
-  862
+  862,
+  870
  ],
  "corn-m-h11": [
   708,
   713,
-  744
+  744,
+  754
  ],
  "corn-m-h6": [
   491,
@@ -8179,7 +8207,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   385,
   352,
   300,
-  308
+  308,
+  313
  ],
  "corn-w-h13": [
   506,
@@ -8215,7 +8244,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   786,
   675,
   671,
-  677
+  677,
+  676
  ],
  "duke-m-h1": [
   696,
@@ -8228,7 +8258,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   703,
   706,
   687,
-  681
+  681,
+  678
  ],
  "duke-m-h2": [
   375,
@@ -8241,11 +8272,13 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   370,
   381,
   390,
-  406
+  406,
+  399
  ],
  "duke-w-h5": [
   900,
-  898
+  898,
+  968
  ],
  "duke-w-n1": [
   538,
@@ -8257,7 +8290,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   401,
   405,
   413,
-  404
+  404,
+  409
  ],
  "duke-w-n2": [
   257,
@@ -8269,7 +8303,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   327,
   332,
   335,
-  333
+  333,
+  339
  ],
  "fau-m-h11": [
   854,
@@ -8282,7 +8317,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   823,
   815,
   827,
-  868
+  868,
+  883
  ],
  "fla-m-h1": [
   862,
@@ -8299,7 +8335,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   262,
   251,
   256,
-  243
+  243,
+  211
  ],
  "fla-m-h2": [
   810,
@@ -8312,7 +8349,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   854,
   858,
   873,
-  890
+  890,
+  900
  ],
  "fla-m-h8": [
   5,
@@ -8336,7 +8374,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   269,
   267,
   253,
-  256
+  256,
+  251
  ],
  "fla-m-n1": [
   876,
@@ -8348,14 +8387,16 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   882,
   859,
   853,
-  867
+  867,
+  868
  ],
  "fla-m-p1": [
   871,
   869,
   868,
   862,
-  877
+  877,
+  884
  ],
  "fla-m-p4": [
   568,
@@ -8367,7 +8408,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   746,
   755,
   754,
-  761
+  761,
+  750
  ],
  "fla-p1": [
   851,
@@ -8379,7 +8421,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   811,
   818,
   827,
-  754
+  754,
+  806
  ],
  "fla-w-h11": [
   39,
@@ -8391,7 +8434,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   47,
   48,
   58,
-  65
+  65,
+  66
  ],
  "fla-w-h4": [
   281,
@@ -8404,7 +8448,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   225,
   230,
   226,
-  235
+  235,
+  238
  ],
  "fla-w-h7": [
   661,
@@ -8412,13 +8457,15 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   659,
   790,
   794,
-  900
+  900,
+  1002
  ],
  "fla-w-n1": [
   865,
   866,
   877,
-  870
+  870,
+  877
  ],
  "fla-w-n2": [
   858,
@@ -8430,7 +8477,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   709,
   711,
   722,
-  727
+  727,
+  687
  ],
  "fla-w-n3": [
   855,
@@ -8442,7 +8490,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   839,
   842,
   852,
-  850
+  850,
+  733
  ],
  "fsu-w-h2": [
   619,
@@ -8455,7 +8504,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   813,
   765,
   760,
-  758
+  758,
+  768
  ],
  "fsu-w-h5": [
   433,
@@ -8468,7 +8518,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   437,
   425,
   438,
-  433
+  433,
+  436
  ],
  "gt-m-h3": [
   830,
@@ -8476,7 +8527,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   811,
   792,
   792,
-  777
+  777,
+  697
  ],
  "gt-m-h8": [
   315,
@@ -8488,7 +8540,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   381,
   340,
   320,
-  323
+  323,
+  314
  ],
  "harv-m-h3": [
   348,
@@ -8501,7 +8554,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   325,
   306,
   310,
-  316
+  316,
+  322
  ],
  "haw-m-h2": [
   335,
@@ -8526,7 +8580,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   602,
   525,
   495,
-  462
+  462,
+  467
  ],
  "ill-m-h3": [
   767,
@@ -8539,7 +8594,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   731,
   731,
   730,
-  710
+  710,
+  717
  ],
  "ill-m-h7": [
   616,
@@ -8552,7 +8608,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   674,
   676,
   684,
-  665
+  665,
+  667
  ],
  "isu-w-h3": [
   596,
@@ -8565,7 +8622,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   548,
   553,
   546,
-  523
+  523,
+  533
  ],
  "ku-w-h3": [
   310,
@@ -8594,7 +8652,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   500
  ],
  "lou-m-fp70": [
-  804
+  804,
+  812
  ],
  "lou-m-h5": [
   576,
@@ -8607,7 +8666,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   621,
   624,
   633,
-  826
+  826,
+  836
  ],
  "lou-m-h7": [
   826,
@@ -8620,14 +8680,16 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   827,
   830,
   843,
-  845
+  845,
+  856
  ],
  "lou-w-h9": [
   792,
   859,
   861,
   854,
-  891
+  891,
+  1015
  ],
  "lsu-m-n1": [
   607,
@@ -8639,7 +8701,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   534,
   536,
   533,
-  525
+  525,
+  556
  ],
  "lsu-m-n2": [
   530,
@@ -8651,7 +8714,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   539,
   535,
   540,
-  542
+  542,
+  550
  ],
  "lsu-m-p1": [
   552,
@@ -8663,7 +8727,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   636,
   643,
   674,
-  683
+  683,
+  715
  ],
  "lsu-m-p2": [
   623,
@@ -8675,7 +8740,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   624,
   619,
   621,
-  628
+  628,
+  609
  ],
  "lsu-p1": [
   527,
@@ -8687,7 +8753,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   529,
   528,
   531,
-  521
+  521,
+  462
  ],
  "lsu-p5": [
   627,
@@ -8699,7 +8766,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   535,
   533,
   537,
-  639
+  639,
+  615
  ],
  "lsu-p6": [
   199,
@@ -8711,7 +8779,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   168,
   172,
   177,
-  163
+  163,
+  162
  ],
  "lsu-p8": [
   202,
@@ -8723,7 +8792,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   240,
   254,
   258,
-  253
+  253,
+  258
  ],
  "lsu-w-h11": [
   693,
@@ -8736,7 +8806,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   687,
   654,
   609,
-  609
+  609,
+  613
  ],
  "lsu-w-h3": [
   739,
@@ -8749,7 +8820,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   872,
   882,
   875,
-  863
+  863,
+  872
  ],
  "lsu-w-n5": [
   722,
@@ -8761,11 +8833,13 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   649,
   654,
   660,
-  660
+  660,
+  664
  ],
  "mem-m-h2": [
   824,
-  818
+  818,
+  826
  ],
  "miami-m-n3": [
   891,
@@ -8785,7 +8859,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   593,
   599,
   608,
-  585
+  585,
+  596
  ],
  "mich-m-h5": [
   382,
@@ -8797,7 +8872,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   392,
   394,
   401,
-  414
+  414,
+  397
  ],
  "mich-m-h7": [
   703,
@@ -8807,7 +8883,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   864
  ],
  "mich-w-h1": [
-  900
+  900,
+  920
  ],
  "miss-m-h3": [
   774,
@@ -8819,7 +8896,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   761,
   758,
   742,
-  654
+  654,
+  645
  ],
  "miss-m-p2": [
   857,
@@ -8828,7 +8906,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   848,
   836,
   846,
-  854
+  854,
+  797
  ],
  "miss-w-h1": [
   814,
@@ -8840,7 +8919,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   623,
   632,
   583,
-  583
+  583,
+  577
  ],
  "msst-m-h10": [
   865,
@@ -8856,7 +8936,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   727,
   786,
   766,
-  745
+  745,
+  746
  ],
  "msst-m-h9": [
   375,
@@ -8868,7 +8949,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   284,
   290,
   293,
-  296
+  296,
+  298
  ],
  "msst-w-n2": [
   593,
@@ -8880,7 +8962,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   589,
   586,
   596,
-  591
+  591,
+  603
  ],
  "msu-m-fp274": [
   708,
@@ -8890,7 +8973,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   486,
   486,
   433,
-  422
+  422,
+  427
  ],
  "msu-m-fp445": [
   503,
@@ -8902,7 +8986,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   637,
   640,
   630,
-  809
+  809,
+  817
  ],
  "msu-w-h16": [
   680,
@@ -8914,7 +8999,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   685,
   688,
   689,
-  691
+  691,
+  696
  ],
  "ncst-m-h11": [
   187,
@@ -8938,7 +9024,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   719,
   722,
   726,
-  698
+  698,
+  708
  ],
  "ncst-m-h3": [
   550,
@@ -8950,7 +9037,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   604,
   609,
   595,
-  578
+  578,
+  587
  ],
  "ncst-m-h5": [
   604,
@@ -8962,7 +9050,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   526,
   521,
   529,
-  442
+  442,
+  446
  ],
  "ncst-m-h7": [
   324,
@@ -8974,7 +9063,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   234,
   216,
   219,
-  215
+  215,
+  216
  ],
  "ncst-m-n1": [
   750,
@@ -8991,7 +9081,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   499,
   475,
   458,
-  420
+  420,
+  425
  ],
  "ncst-w-h11": [
   468,
@@ -9003,7 +9094,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   370,
   380,
   395,
-  395
+  395,
+  398
  ],
  "ncst-w-h3": [
   455,
@@ -9015,7 +9107,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   508,
   440,
   434,
-  382
+  382,
+  386
  ],
  "ncst-w-h5": [
   488,
@@ -9027,7 +9120,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   484,
   482,
   515,
-  512
+  512,
+  523
  ],
  "ncst-w-h8": [
   16,
@@ -9051,7 +9145,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   837,
   831,
   844,
-  846
+  846,
+  858
  ],
  "neb-m-h9": [
   521,
@@ -9063,7 +9158,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   489,
   490,
   498,
-  493
+  493,
+  499
  ],
  "neb-w-h7": [
   745,
@@ -9075,7 +9171,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   716,
   728,
   725,
-  798
+  798,
+  809
  ],
  "okst-m-h4": [
   328,
@@ -9087,13 +9184,15 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   343,
   320,
   325,
-  326
+  326,
+  330
  ],
  "okst-m-h5": [
   898,
   872,
   750,
-  689
+  689,
+  679
  ],
  "okst-m-h6": [
   678,
@@ -9105,7 +9204,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   640,
   641,
   650,
-  640
+  640,
+  646
  ],
  "okst-w-h10": [
   166,
@@ -9117,7 +9217,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   111,
   109,
   105,
-  97
+  97,
+  94
  ],
  "okst-w-h2": [
   733,
@@ -9129,7 +9230,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   740,
   693,
   694,
-  685
+  685,
+  691
  ],
  "okst-w-h4": [
   781,
@@ -9141,7 +9243,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   765,
   773,
   765,
-  763
+  763,
+  773
  ],
  "okst-w-h7": [
   479,
@@ -9153,7 +9256,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   455,
   412,
   407,
-  407
+  407,
+  367
  ],
  "ore-m-h2": [
   746,
@@ -9165,7 +9269,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   762,
   759,
   767,
-  746
+  746,
+  755
  ],
  "ore-m-h7": [
   468,
@@ -9177,14 +9282,16 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   454,
   471,
   483,
-  456
+  456,
+  438
  ],
  "ore-w-h7": [
   860,
   825,
   835,
   829,
-  772
+  772,
+  760
  ],
  "osu-m-fp278": [
   791,
@@ -9196,7 +9303,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   872,
   865,
   847,
-  807
+  807,
+  815
  ],
  "osu-m-h11": [
   685,
@@ -9205,7 +9313,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   563,
   282,
   285,
-  248
+  248,
+  253
  ],
  "osu-m-h2": [
   363,
@@ -9217,7 +9326,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   390,
   391,
   398,
-  395
+  395,
+  403
  ],
  "osu-m-h4": [
   432,
@@ -9229,7 +9339,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   421,
   426,
   430,
-  464
+  464,
+  470
  ],
  "ou-m-h10": [
   313,
@@ -9241,7 +9352,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   359,
   361,
   367,
-  367
+  367,
+  376
  ],
  "ou-m-n1": [
   849,
@@ -9253,7 +9365,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   837,
   822,
   709,
-  714
+  714,
+  701
  ],
  "ou-m-n4": [
   379,
@@ -9265,7 +9378,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   313,
   311,
   313,
-  319
+  319,
+  325
  ],
  "ou-m-p1": [
   612,
@@ -9277,7 +9391,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   809,
   806,
   825,
-  838
+  838,
+  769
  ],
  "ou-m-p5": [
   692,
@@ -9289,7 +9404,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   576,
   659,
   662,
-  660
+  660,
+  837
  ],
  "ou-p4": [
   796,
@@ -9301,7 +9417,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   559,
   561,
   569,
-  556
+  556,
+  562
  ],
  "ou-p5": [
   734,
@@ -9313,7 +9430,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   822,
   832,
   842,
-  737
+  737,
+  758
  ],
  "ou-p7": [
   789,
@@ -9324,7 +9442,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   891,
   900,
   801,
-  812
+  812,
+  817
  ],
  "ou-w-h13": [
   684,
@@ -9336,7 +9455,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   653,
   656,
   721,
-  817
+  817,
+  792
  ],
  "ou-w-h3": [
   529,
@@ -9348,7 +9468,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   505,
   479,
   525,
-  497
+  497,
+  504
  ],
  "ou-w-h7": [
   846,
@@ -9357,7 +9478,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   582,
   583,
   569,
-  570
+  570,
+  576
  ],
  "ou-w-h9": [
   412,
@@ -9381,7 +9503,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   445,
   440,
   448,
-  443
+  443,
+  478
  ],
  "ou-w-n3": [
   534,
@@ -9393,7 +9516,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   413,
   404,
   414,
-  401
+  401,
+  418
  ],
  "penn-w-h1": [
   746,
@@ -9405,7 +9529,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   709,
   720,
   715,
-  715
+  715,
+  717
  ],
  "pepp-m-h1": [
   598,
@@ -9417,7 +9542,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   603,
   607,
   593,
-  562
+  562,
+  568
  ],
  "pepp-m-h6": [
   456,
@@ -9429,7 +9555,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   466,
   480,
   468,
-  472
+  472,
+  479
  ],
  "pepp-w-h4": [
   40,
@@ -9442,7 +9569,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   37,
   36,
   37,
-  35
+  35,
+  36
  ],
  "pepp-w-h5": [
   297,
@@ -9454,7 +9582,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   299,
   308,
   339,
-  300
+  300,
+  303
  ],
  "pepp-w-h7": [
   629,
@@ -9466,7 +9595,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   317,
   311,
   306,
-  304
+  304,
+  307
  ],
  "pepp-w-p7": [
   759,
@@ -9477,7 +9607,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   735,
   738,
   450,
-  384
+  384,
+  387
  ],
  "port-m-h5": [
   414,
@@ -9489,7 +9620,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   424,
   421,
   426,
-  420
+  420,
+  421
  ],
  "pur-w-h6": [
   803,
@@ -9501,7 +9633,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   659,
   564,
   533,
-  532
+  532,
+  545
  ],
  "pur-w-h7": [
   386,
@@ -9537,7 +9670,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   556,
   557,
   563,
-  652
+  652,
+  656
  ],
  "sc-m-p1": [
   798,
@@ -9549,7 +9683,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   671,
   666,
   810,
-  820
+  820,
+  777
  ],
  "sc-w-h2": [
   299,
@@ -9561,13 +9696,16 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   279,
   242,
   265,
-  263
+  263,
+  265
  ],
  "sc-w-h3": [
-  880
+  880,
+  929
  ],
  "sc-w-n2": [
-  824
+  824,
+  833
  ],
  "scu-m-h2": [
   634,
@@ -9579,7 +9717,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   558,
   597,
   606,
-  589
+  589,
+  599
  ],
  "smc-m-h1": [
   688,
@@ -9591,7 +9730,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   886,
   877,
   889,
-  884
+  884,
+  897
  ],
  "stan-m-fp374": [
   417,
@@ -9603,7 +9743,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   494,
   496,
   494,
-  528
+  528,
+  534
  ],
  "stan-m-h16": [
   198,
@@ -9627,7 +9768,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   37,
   36,
   37,
-  37
+  37,
+  33
  ],
  "stan-m-h6": [
   326,
@@ -9639,7 +9781,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   257,
   250,
   248,
-  266
+  266,
+  259
  ],
  "stan-m-h8": [
   136,
@@ -9693,14 +9836,16 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   388,
   345,
   353,
-  337
+  337,
+  338
  ],
  "tamu-m-n3": [
   837,
   708,
   716,
   721,
-  725
+  725,
+  711
  ],
  "tamu-m-n4": [
   445,
@@ -9712,7 +9857,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   468,
   469,
   460,
-  448
+  448,
+  505
  ],
  "tamu-m-p4": [
   771,
@@ -9724,7 +9870,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   726,
   707,
   714,
-  654
+  654,
+  634
  ],
  "tamu-m-p9": [
   898,
@@ -9733,7 +9880,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   889,
   892,
   892,
-  855
+  855,
+  843
  ],
  "tamu-p3": [
   515,
@@ -9745,7 +9893,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   576,
   576,
   541,
-  624
+  624,
+  646
  ],
  "tamu-p5": [
   380,
@@ -9769,7 +9918,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   696,
   701,
   709,
-  838
+  838,
+  847
  ],
  "tamu-w-h5": [
   142,
@@ -9793,11 +9943,13 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   536,
   542,
   564,
-  565
+  565,
+  571
  ],
  "tamu-w-n3": [
   895,
-  889
+  889,
+  930
  ],
  "tamu-w-n8": [
   575,
@@ -9809,7 +9961,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   580,
   579,
   588,
-  573
+  573,
+  612
  ],
  "tcu-m-fp28": [
   823,
@@ -9827,7 +9980,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   729,
   673,
   682,
-  655
+  655,
+  659
  ],
  "tcu-m-h1": [
   145,
@@ -9839,7 +9993,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   110,
   110,
   107,
-  100
+  100,
+  101
  ],
  "tcu-m-h11": [
   29,
@@ -9851,7 +10006,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   39,
   37,
   35,
-  33
+  33,
+  35
  ],
  "tcu-m-h5": [
   402,
@@ -9863,7 +10019,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   398,
   396,
   403,
-  362
+  362,
+  360
  ],
  "tcu-m-h8": [
   132,
@@ -9888,7 +10045,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   381,
   387,
   400,
-  400
+  400,
+  402
  ],
  "tcu-w-h8": [
   787,
@@ -9900,7 +10058,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   784,
   785,
   830,
-  826
+  826,
+  839
  ],
  "temple-m-n1": [
   488,
@@ -9912,7 +10071,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   537,
   548,
   547,
-  555
+  555,
+  560
  ],
  "tenn-m-h10": [
   317,
@@ -9924,7 +10084,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   344,
   373,
   379,
-  383
+  383,
+  391
  ],
  "tenn-m-h11": [
   882,
@@ -9955,7 +10116,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   518,
   517,
   475,
-  466
+  466,
+  449
  ],
  "tenn-m-h6": [
   536,
@@ -9967,7 +10129,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   651,
   652,
   648,
-  556
+  556,
+  540
  ],
  "tenn-m-h7": [
   274,
@@ -9979,17 +10142,20 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   312,
   315,
   312,
-  311
+  311,
+  299
  ],
  "tenn-m-n5": [
   696,
   697,
-  705
+  705,
+  729
  ],
  "tenn-p5": [
   882,
   895,
-  858
+  858,
+  942
  ],
  "tenn-p6": [
   250,
@@ -10001,7 +10167,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   272,
   271,
   273,
-  242
+  242,
+  245
  ],
  "tenn-w-h3": [
   510,
@@ -10013,10 +10180,12 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   485,
   465,
   470,
-  468
+  468,
+  472
  ],
  "tenn-w-h4": [
-  711
+  711,
+  648
  ],
  "tenn-w-h7": [
   870,
@@ -10028,7 +10197,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   730,
   740,
   656,
-  665
+  665,
+  670
  ],
  "tenn-w-h9": [
   486,
@@ -10052,7 +10222,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   756,
   747,
   754,
-  739
+  739,
+  737
  ],
  "tex-m-h11": [
   895,
@@ -10061,7 +10232,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   535,
   530,
   535,
-  441
+  441,
+  445
  ],
  "tex-m-h6": [
   95,
@@ -10077,7 +10249,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  ],
  "tex-m-n1": [
   684,
-  690
+  690,
+  674
  ],
  "tex-m-n2": [
   504,
@@ -10089,7 +10262,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   595,
   570,
   558,
-  541
+  541,
+  641
  ],
  "tex-m-n3": [
   201,
@@ -10101,7 +10275,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   258,
   258,
   257,
-  251
+  251,
+  254
  ],
  "tex-m-p7": [
   792,
@@ -10113,19 +10288,22 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   820,
   818,
   811,
-  823
+  823,
+  781
  ],
  "tex-m-p8": [
   883,
   876,
-  782
+  782,
+  731
  ],
  "tex-m-p9": [
   710,
   754,
   752,
   743,
-  753
+  753,
+  757
  ],
  "tex-p1": [
   463,
@@ -10137,7 +10315,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   510,
   511,
   518,
-  557
+  557,
+  565
  ],
  "tex-p4": [
   810,
@@ -10149,7 +10328,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   841,
   844,
   855,
-  881
+  881,
+  908
  ],
  "tex-p5": [
   576,
@@ -10172,7 +10352,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   852,
   836,
   848,
-  845
+  845,
+  852
  ],
  "tex-p9": [
   892,
@@ -10182,7 +10363,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   848,
   852,
   862,
-  804
+  804,
+  814
  ],
  "tex-w-h12": [
   62,
@@ -10194,7 +10376,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   58,
   57,
   53,
-  54
+  54,
+  55
  ],
  "tex-w-h5": [
   429,
@@ -10206,7 +10389,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   387,
   336,
   335,
-  346
+  346,
+  352
  ],
  "tex-w-n1": [
   710,
@@ -10218,7 +10402,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   803,
   767,
   735,
-  733
+  733,
+  730
  ],
  "tex-w-n2": [
   549,
@@ -10230,7 +10415,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   542,
   545,
   549,
-  621
+  621,
+  623
  ],
  "ttu-m-h1": [
   433,
@@ -10242,7 +10428,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   386,
   407,
   415,
-  409
+  409,
+  414
  ],
  "ttu-m-h2": [
   744,
@@ -10254,7 +10441,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   733,
   733,
   724,
-  700
+  700,
+  707
  ],
  "ucf-m-h5": [
   591,
@@ -10266,7 +10454,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   610,
   622,
   631,
-  619
+  619,
+  624
  ],
  "ucf-w-h5": [
   734,
@@ -10278,7 +10467,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   724,
   708,
   710,
-  708
+  708,
+  713
  ],
  "uci-m-h7": [
   878,
@@ -10290,7 +10480,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   787,
   783,
   789,
-  762
+  762,
+  772
  ],
  "ucla-m-h13": [
   88,
@@ -10302,7 +10493,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   85,
   81,
   83,
-  77
+  77,
+  78
  ],
  "ucla-m-h14": [
   125,
@@ -10339,7 +10531,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   444,
   408,
   413,
-  411
+  411,
+  416
  ],
  "ucla-m-h7": [
   756,
@@ -10358,7 +10551,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   543,
   542,
   548,
-  600
+  600,
+  586
  ],
  "ucla-w-h3": [
   624,
@@ -10370,7 +10564,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   614,
   616,
   607,
-  608
+  608,
+  614
  ],
  "ucla-w-h6": [
   245,
@@ -10382,7 +10577,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   249,
   254,
   257,
-  256
+  256,
+  255
  ],
  "ucla-w-h8": [
   380,
@@ -10406,7 +10602,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   364,
   373,
   449,
-  450
+  450,
+  453
  ],
  "uga-m-h1": [
   659,
@@ -10418,7 +10615,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   662,
   664,
   655,
-  647
+  647,
+  651
  ],
  "uga-m-h10": [
   67,
@@ -10430,7 +10628,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   46,
   51,
   58,
-  60
+  60,
+  61
  ],
  "uga-m-h15": [
   310,
@@ -10442,7 +10641,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   331,
   334,
   345,
-  347
+  347,
+  349
  ],
  "uga-m-h16": [
   593,
@@ -10454,7 +10654,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   655,
   646,
   658,
-  718
+  718,
+  709
  ],
  "uga-m-h5": [
   250,
@@ -10466,7 +10667,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   295,
   298,
   299,
-  272
+  272,
+  276
  ],
  "uga-m-p1": [
   595,
@@ -10478,7 +10680,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   811,
   808,
   829,
-  842
+  842,
+  823
  ],
  "uga-p2": [
   885,
@@ -10488,7 +10691,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   791,
   797,
   805,
-  799
+  799,
+  805
  ],
  "uga-p3": [
   898,
@@ -10504,7 +10708,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   273,
   279,
   288,
-  283
+  283,
+  287
  ],
  "uga-w-h2": [
   585,
@@ -10516,7 +10721,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   704,
   709,
   758,
-  851
+  851,
+  861
  ],
  "uga-w-h6": [
   351,
@@ -10553,7 +10759,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   658,
   668,
   579,
-  567
+  567,
+  574
  ],
  "uga-w-n5": [
   457,
@@ -10577,7 +10784,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   211,
   209,
   216,
-  217
+  217,
+  218
  ],
  "uk-m-h10": [
   571,
@@ -10613,7 +10821,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   451,
   451,
   460,
-  450
+  450,
+  457
  ],
  "uk-m-h15": [
   507,
@@ -10625,7 +10834,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   546,
   545,
   551,
-  565
+  565,
+  571
  ],
  "uk-m-ita-p5": [
   291,
@@ -10637,7 +10847,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   352,
   349,
   351,
-  341
+  341,
+  356
  ],
  "uk-m-p2": [
   573,
@@ -10664,7 +10875,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   488,
   489,
   497,
-  492
+  492,
+  498
  ],
  "unc-m-h8": [
   505,
@@ -10676,7 +10888,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   491,
   482,
   491,
-  452
+  452,
+  459
  ],
  "unc-m-h9": [
   748,
@@ -10688,7 +10901,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   648,
   650,
   659,
-  673
+  673,
+  683
  ],
  "unc-w-h2": [
   204,
@@ -10700,7 +10914,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   274,
   253,
   266,
-  264
+  264,
+  249
  ],
  "unc-w-h8": [
   618,
@@ -10712,7 +10927,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   611,
   622,
   611,
-  606
+  606,
+  611
  ],
  "unc-w-n1": [
   730,
@@ -10724,7 +10940,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   719,
   719,
   730,
-  685
+  685,
+  688
  ],
  "usc-m-h10": [
   694,
@@ -10736,7 +10953,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   697,
   701,
   692,
-  810
+  810,
+  818
  ],
  "usc-m-h13": [
   59,
@@ -10760,7 +10978,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   547,
   546,
   553,
-  505
+  505,
+  509
  ],
  "usc-m-h8": [
   19,
@@ -10784,7 +11003,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   622,
   586,
   597,
-  611
+  611,
+  615
  ],
  "usc-w-h12": [
   423,
@@ -10796,7 +11016,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   361,
   372,
   344,
-  348
+  348,
+  355
  ],
  "usc-w-h2": [
   324,
@@ -10808,7 +11029,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   347,
   351,
   366,
-  368
+  368,
+  372
  ],
  "usd-m-h8": [
   148,
@@ -10820,7 +11042,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   227,
   224,
   226,
-  244
+  244,
+  247
  ],
  "usd-m-p8": [
   342,
@@ -10832,7 +11055,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   433,
   436,
   380,
-  329
+  329,
+  308
  ],
  "usd-w-h6": [
   730,
@@ -10844,16 +11068,19 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   672,
   677,
   676,
-  674
+  674,
+  680
  ],
  "usf-m-h2": [
   900,
   892,
-  887
+  887,
+  874
  ],
  "usf-m-h4": [
   859,
-  849
+  849,
+  860
  ],
  "utah-w-h2": [
   839,
@@ -10865,7 +11092,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   843,
   854,
   852,
-  849
+  849,
+  859
  ],
  "utah-w-h8": [
   782,
@@ -10877,7 +11105,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   710,
   721,
   720,
-  720
+  720,
+  722
  ],
  "uva-m-h12": [
   23,
@@ -10913,7 +11142,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   272,
   269,
   275,
-  280
+  280,
+  274
  ],
  "uva-m-h5": [
   177,
@@ -10932,7 +11162,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   876,
   878,
   891,
-  802
+  802,
+  808
  ],
  "uva-m-p2": [
   818,
@@ -10942,7 +11173,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   556,
   434,
   437,
-  442
+  442,
+  413
  ],
  "uva-m-p5": [
   867,
@@ -10951,13 +11183,15 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   872,
   832,
   824,
-  837
+  837,
+  835
  ],
  "uva-m-p8": [
   900,
   831,
   582,
-  591
+  591,
+  583
  ],
  "uva-m-p9": [
   712,
@@ -10969,7 +11203,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   727,
   754,
   752,
-  758
+  758,
+  749
  ],
  "uva-w-h3": [
   308,
@@ -10981,7 +11216,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   302,
   312,
   308,
-  306
+  306,
+  309
  ],
  "uva-w-h6": [
   490,
@@ -10993,7 +11229,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   474,
   484,
   477,
-  476
+  476,
+  480
  ],
  "uva-w-h8": [
   25,
@@ -11017,7 +11254,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   600,
   559,
   620,
-  627
+  627,
+  666
  ],
  "van-m-p8": [
   799,
@@ -11029,7 +11267,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   692,
   841,
   837,
-  851
+  851,
+  854
  ],
  "van-w-h3": [
   845,
@@ -11041,7 +11280,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   830,
   831,
   745,
-  869
+  869,
+  878
  ],
  "vt-m-h5": [
   743,
@@ -11064,7 +11304,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   353,
   393,
   400,
-  394
+  394,
+  368
  ],
  "wake-m-h1": [
   675,
@@ -11076,7 +11317,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   656,
   657,
   666,
-  649
+  649,
+  653
  ],
  "wake-m-h15": [
   265,
@@ -11088,7 +11330,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   271,
   275,
   279,
-  305
+  305,
+  309
  ],
  "wake-m-h17": [
   356,
@@ -11100,7 +11343,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   378,
   382,
   391,
-  418
+  418,
+  425
  ],
  "wake-m-h24": [
   178,
@@ -11151,7 +11395,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   502,
   505,
   510,
-  506
+  506,
+  511
  ],
  "wash-w-h7": [
   517,
@@ -11163,7 +11408,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   465,
   473,
   466,
-  456
+  456,
+  460
  ],
  "wich-m-fp92": [
   348,
@@ -11175,7 +11421,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   346,
   349,
   356,
-  354
+  354,
+  358
  ],
  "wisc-w-h9": [
   607,
@@ -11187,12 +11434,14 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   646,
   655,
   654,
-  650
+  650,
+  655
  ],
  "wsu-w-h4": [
   891,
   884,
-  882
+  882,
+  976
  ],
  "wsu-w-h7": [
   881,
@@ -11203,7 +11452,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   874,
   886,
   893,
-  873
+  873,
+  883
  ],
  "uga-p5": [
   1038
