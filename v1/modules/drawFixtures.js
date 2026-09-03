@@ -937,6 +937,14 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "champion": null,
   "entries": [
    {
+    "playerId": "usd-m-h3",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
     "playerId": "ou-m-h5",
     "seed": null,
     "entry": null,
@@ -945,8 +953,8 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "usd-m-h3",
-    "seed": null,
+    "playerId": "mich-m-h4",
+    "seed": "5",
     "entry": null,
     "inMain": true,
     "eliminated": false,
@@ -955,14 +963,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
    {
     "playerId": "pepp-m-h6",
     "seed": "2",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "mich-m-h4",
-    "seed": "5",
     "entry": null,
     "inMain": true,
     "eliminated": false,
@@ -2686,6 +2686,14 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": true
  },
  {
+  "playerId": "usd-m-h3",
+  "event": "M25 Meerbusch",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
   "playerId": "ou-m-h5",
   "event": "M25 Meerbusch",
   "seed": null,
@@ -2694,9 +2702,9 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "usd-m-h3",
+  "playerId": "mich-m-h4",
   "event": "M25 Meerbusch",
-  "seed": null,
+  "seed": "5",
   "entry": null,
   "inMain": true,
   "hasUnplayed": true
@@ -2705,14 +2713,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "playerId": "pepp-m-h6",
   "event": "M25 Meerbusch",
   "seed": "2",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "mich-m-h4",
-  "event": "M25 Meerbusch",
-  "seed": "5",
   "entry": null,
   "inMain": true,
   "hasUnplayed": true

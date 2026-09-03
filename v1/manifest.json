@@ -1,5 +1,5 @@
 {
- "version": "0a2606a961",
+ "version": "c786adf0e0",
  "asOf": "2026-09-03",
  "files": {
   "proRankings.js": {
@@ -35,7 +35,7 @@
    "bytes": 597
   },
   "drawFixtures.js": {
-   "hash": "52f84d5ca3",
+   "hash": "a34211ab30",
    "bytes": 61845
   },
   "itaTournaments.js": {
