@@ -2,7 +2,7 @@
 // §261: fall ITA nationals, round-by-round for OUR players, from the
 // free ITA GraphQL API. Runs are keyed by playerId; champions are
 // Final winners. Real data only -- unresolved persons remain opponent
-// names, never guessed pids. As of 2026-09-03.
+// names, never guessed pids. As of 2026-09-04.
 export const itaTournaments = globalThis.__BAGEL_REMOTE__?.["itaTournaments"]?.itaTournaments ?? [
  {
   "id": "68cc36e0848234d7c8450401",
@@ -22786,7 +22786,7 @@ export const itaTournaments = globalThis.__BAGEL_REMOTE__?.["itaTournaments"]?.i
  }
 ];
 
-export const itaTournamentsAsOf = globalThis.__BAGEL_REMOTE__?.["itaTournaments"]?.itaTournamentsAsOf ?? "2026-09-03";
+export const itaTournamentsAsOf = globalThis.__BAGEL_REMOTE__?.["itaTournaments"]?.itaTournamentsAsOf ?? "2026-09-04";
 
 export function getItaTournaments({ activeWindowDays = 30 } = {}) {
   const cutoff = new Date(Date.now() - activeWindowDays * 86400e3).toISOString().slice(0, 10);
