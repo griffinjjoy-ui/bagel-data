@@ -18,6 +18,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-04"
  },
  {
+  "playerId": "stan-m-p5",
+  "name": "Nathan Barki",
+  "teamId": "stan-m",
+  "teamName": "Stanford",
+  "gender": "men",
+  "event": "M15 Bali",
+  "round": "1/4",
+  "won": false,
+  "opponent": "Karan Singh",
+  "result": "6-1 6-4",
+  "date": "2026-09-04"
+ },
+ {
   "playerId": "ucla-w-p3",
   "name": "Anne-Christine Lutkemeyer",
   "teamId": "ucla-w",
@@ -67,19 +80,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Billy Harris",
   "result": "7-5 6-4",
-  "date": "2026-09-03"
- },
- {
-  "playerId": "stan-m-p5",
-  "name": "Nathan Barki",
-  "teamId": "stan-m",
-  "teamName": "Stanford",
-  "gender": "men",
-  "event": "M15 Bali",
-  "round": "Second",
-  "won": true,
-  "opponent": "Anthony Susanto",
-  "result": "7-5 ret.",
   "date": "2026-09-03"
  },
  {
@@ -13125,11 +13125,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Stanford",
   "gender": "men",
   "event": "M15 Bali",
-  "round": "Second",
-  "won": true,
-  "opponent": "Anthony Susanto",
-  "result": "7-5 ret.",
-  "date": "2026-09-03"
+  "round": "1/4",
+  "won": false,
+  "opponent": "Karan Singh",
+  "result": "6-1 6-4",
+  "date": "2026-09-04"
  },
  "stan-w-h7": {
   "playerId": "stan-w-h7",

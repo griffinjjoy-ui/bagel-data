@@ -154,6 +154,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ou-w-h9",
+  "name": "Florencia Urrutia",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Lourdes Ayala",
+  "event": "W15 Lujan",
+  "date": "2026-09-04",
+  "day": "today"
+ },
+ {
   "playerId": "uva-m-h4",
   "name": "Inaki Montes de la Torre",
   "teamId": "uva-m",
@@ -210,6 +220,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Gael Monfils",
   "event": "U.S. Open - New York",
+  "date": "2026-09-04",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-w-h5",
+  "name": "Malaika Rapolu",
+  "teamId": "tex-w",
+  "gender": "women",
+  "opponent": "Linda Fruhvirtova",
+  "event": "W50 Leiria",
   "date": "2026-09-04",
   "day": "today"
  },
