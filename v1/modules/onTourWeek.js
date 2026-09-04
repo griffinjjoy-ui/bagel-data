@@ -5,6 +5,32 @@
 // on the ITF/Challenger/WTA-ATP circuit right now, ranked or not.
 export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWeek ?? [
  {
+  "playerId": "cal-m-p9",
+  "name": "Bernardo Munk Mesa",
+  "teamId": "cal-m",
+  "teamName": "California",
+  "gender": "men",
+  "event": "M15 Madrid",
+  "round": "1/4",
+  "won": false,
+  "opponent": "Ryan Nijboer",
+  "result": "6-2 4-6 6-1",
+  "date": "2026-09-04"
+ },
+ {
+  "playerId": "usc-m-p3",
+  "name": "Branko Djuric",
+  "teamId": "usc-m",
+  "teamName": "USC",
+  "gender": "men",
+  "event": "M15 Kursumlijska Banja",
+  "round": "1/4",
+  "won": true,
+  "opponent": "Antoni Fabre",
+  "result": "6-7(8) 6-4 6-4",
+  "date": "2026-09-04"
+ },
+ {
   "playerId": "usc-m-h8",
   "name": "Learner Tien",
   "teamId": "usc-m",
@@ -31,6 +57,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-04"
  },
  {
+  "playerId": "miss-m-p2",
+  "name": "Stefano D'Agostino",
+  "teamId": "miss-m",
+  "teamName": "Ole Miss",
+  "gender": "men",
+  "event": "M15 Kursumlijska Banja",
+  "round": "1/4",
+  "won": false,
+  "opponent": "Alexandre Aubriot",
+  "result": "6-3 1-6 6-0",
+  "date": "2026-09-04"
+ },
+ {
   "playerId": "ucla-w-p3",
   "name": "Anne-Christine Lutkemeyer",
   "teamId": "ucla-w",
@@ -44,32 +83,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-03"
  },
  {
-  "playerId": "cal-m-p9",
-  "name": "Bernardo Munk Mesa",
-  "teamId": "cal-m",
-  "teamName": "California",
-  "gender": "men",
-  "event": "M15 Madrid",
-  "round": "Second",
-  "won": true,
-  "opponent": "Juan Ignacio Gallego",
-  "result": "6-7(4) 6-2 6-3",
-  "date": "2026-09-03"
- },
- {
-  "playerId": "usc-m-p3",
-  "name": "Branko Djuric",
-  "teamId": "usc-m",
-  "teamName": "USC",
-  "gender": "men",
-  "event": "M15 Kursumlijska Banja",
-  "round": "Second",
-  "won": true,
-  "opponent": "Alessandro Bellifemine",
-  "result": "6-3 6-2",
-  "date": "2026-09-03"
- },
- {
   "playerId": "ariz-m-fp226",
   "name": "Jay Friend",
   "teamId": "ariz-m",
@@ -80,19 +93,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Billy Harris",
   "result": "7-5 6-4",
-  "date": "2026-09-03"
- },
- {
-  "playerId": "miss-m-p2",
-  "name": "Stefano D'Agostino",
-  "teamId": "miss-m",
-  "teamName": "Ole Miss",
-  "gender": "men",
-  "event": "M15 Kursumlijska Banja",
-  "round": "Second",
-  "won": true,
-  "opponent": "Richard Lacis",
-  "result": "6-3 6-3",
   "date": "2026-09-03"
  },
  {
@@ -4207,11 +4207,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "California",
   "gender": "men",
   "event": "M15 Madrid",
-  "round": "Second",
-  "won": true,
-  "opponent": "Juan Ignacio Gallego",
-  "result": "6-7(4) 6-2 6-3",
-  "date": "2026-09-03"
+  "round": "1/4",
+  "won": false,
+  "opponent": "Ryan Nijboer",
+  "result": "6-2 4-6 6-1",
+  "date": "2026-09-04"
  },
  "cal-w-h1": {
   "playerId": "cal-w-h1",
@@ -8757,11 +8757,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Ole Miss",
   "gender": "men",
   "event": "M15 Kursumlijska Banja",
-  "round": "Second",
-  "won": true,
-  "opponent": "Richard Lacis",
-  "result": "6-3 6-3",
-  "date": "2026-09-03"
+  "round": "1/4",
+  "won": false,
+  "opponent": "Alexandre Aubriot",
+  "result": "6-3 1-6 6-0",
+  "date": "2026-09-04"
  },
  "miss-m-p3": {
   "playerId": "miss-m-p3",
@@ -17428,11 +17428,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "USC",
   "gender": "men",
   "event": "M15 Kursumlijska Banja",
-  "round": "Second",
+  "round": "1/4",
   "won": true,
-  "opponent": "Alessandro Bellifemine",
-  "result": "6-3 6-2",
-  "date": "2026-09-03"
+  "opponent": "Antoni Fabre",
+  "result": "6-7(8) 6-4 6-4",
+  "date": "2026-09-04"
  },
  "usc-m-p6": {
   "playerId": "usc-m-p6",
