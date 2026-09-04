@@ -4,6 +4,16 @@
 // included). Opponent + event, no result yet. Re-run the script to refresh.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
+  "playerId": "ark-m-h14",
+  "name": "Alexandre Reco",
+  "teamId": "ark-m",
+  "gender": "men",
+  "opponent": "Raphael Perot",
+  "event": "M25+H Bagneres-de-Bigorre",
+  "date": "2026-09-04",
+  "day": "today"
+ },
+ {
   "playerId": "tamu-m-h20",
   "name": "Arthur Rinderknech",
   "teamId": "tamu-m",
@@ -60,6 +70,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Hugo Car",
   "event": "M15 Monastir",
+  "date": "2026-09-04",
+  "day": "today"
+ },
+ {
+  "playerId": "asu-w-h8",
+  "name": "Chelsea Fontenel",
+  "teamId": "asu-w",
+  "gender": "women",
+  "opponent": "Hannah Klugman",
+  "event": "W50 Leiria",
   "date": "2026-09-04",
   "day": "today"
  },
@@ -174,6 +194,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "uva-w-h6",
+  "name": "Julia Adams",
+  "teamId": "uva-w",
+  "gender": "women",
+  "opponent": "Jessica Laura Pabisiak",
+  "event": "W15 Grodzisk Mazowiecki",
+  "date": "2026-09-04",
+  "day": "today"
+ },
+ {
   "playerId": "usc-m-h8",
   "name": "Learner Tien",
   "teamId": "usc-m",
@@ -244,12 +274,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tamu-m-h7",
+  "name": "Raphael Perot",
+  "teamId": "tamu-m",
+  "gender": "men",
+  "opponent": "Alexandre Reco",
+  "event": "M25+H Bagneres-de-Bigorre",
+  "date": "2026-09-04",
+  "day": "today"
+ },
+ {
   "playerId": "tenn-m-h6",
   "name": "Shunsuke Mitsui",
   "teamId": "tenn-m",
   "gender": "men",
   "opponent": "Ryuki Matsuda",
   "event": "M25 Urayasu",
+  "date": "2026-09-04",
+  "day": "today"
+ },
+ {
+  "playerId": "tenn-w-h9",
+  "name": "Sofia Cabezas",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Jimar Gerald Gonzalez",
+  "event": "W15 Lujan",
   "date": "2026-09-04",
   "day": "today"
  },
