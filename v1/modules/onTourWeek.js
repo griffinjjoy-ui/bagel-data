@@ -5,6 +5,19 @@
 // on the ITF/Challenger/WTA-ATP circuit right now, ranked or not.
 export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWeek ?? [
  {
+  "playerId": "tamu-m-h20",
+  "name": "Arthur Rinderknech",
+  "teamId": "tamu-m",
+  "teamName": "Texas A&M",
+  "gender": "men",
+  "event": "U.S. Open - New York",
+  "round": "Third",
+  "won": false,
+  "opponent": "Daniil Medvedev",
+  "result": "6-4 6-4 6-4",
+  "date": "2026-09-04"
+ },
+ {
   "playerId": "cal-m-p9",
   "name": "Bernardo Munk Mesa",
   "teamId": "cal-m",
@@ -31,6 +44,32 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-04"
  },
  {
+  "playerId": "ncst-w-h8",
+  "name": "Diana Shnaider",
+  "teamId": "ncst-w",
+  "teamName": "NC State",
+  "gender": "women",
+  "event": "U.S. Open - New York",
+  "round": "Third",
+  "won": false,
+  "opponent": "Taylor Townsend",
+  "result": "6-2 6-7(3) 6-3",
+  "date": "2026-09-04"
+ },
+ {
+  "playerId": "uva-w-h8",
+  "name": "Emma Navarro",
+  "teamId": "uva-w",
+  "teamName": "Virginia",
+  "gender": "women",
+  "event": "U.S. Open - New York",
+  "round": "Third",
+  "won": true,
+  "opponent": "Karolina Muchova",
+  "result": "6-3 7-5",
+  "date": "2026-09-04"
+ },
+ {
   "playerId": "usc-m-h8",
   "name": "Learner Tien",
   "teamId": "usc-m",
@@ -41,6 +80,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Gael Monfils",
   "result": "6-3 6-4 6-3",
+  "date": "2026-09-04"
+ },
+ {
+  "playerId": "tex-m-n3",
+  "name": "Matej Dodig",
+  "teamId": "tex-m",
+  "teamName": "Texas",
+  "gender": "men",
+  "event": "Como Challenger",
+  "round": "1/4",
+  "won": true,
+  "opponent": "Max Schoenhaus",
+  "result": "2-6 7-6(1) 6-3",
   "date": "2026-09-04"
  },
  {
@@ -158,19 +210,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Aleksandra Janiszewska",
   "result": "7-5 7-5",
-  "date": "2026-09-02"
- },
- {
-  "playerId": "tamu-m-h20",
-  "name": "Arthur Rinderknech",
-  "teamId": "tamu-m",
-  "teamName": "Texas A&M",
-  "gender": "men",
-  "event": "U.S. Open - New York",
-  "round": "Second",
-  "won": true,
-  "opponent": "Jaume Antoni Munar Clar",
-  "result": "7-6(4) 6-2 7-5",
   "date": "2026-09-02"
  },
  {
@@ -330,19 +369,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-02"
  },
  {
-  "playerId": "ncst-w-h8",
-  "name": "Diana Shnaider",
-  "teamId": "ncst-w",
-  "teamName": "NC State",
-  "gender": "women",
-  "event": "U.S. Open - New York",
-  "round": "Second",
-  "won": true,
-  "opponent": "Karolina Pliskova",
-  "result": "6-1 7-6(4)",
-  "date": "2026-09-02"
- },
- {
   "playerId": "pepp-m-h6",
   "name": "Eero Vasa",
   "teamId": "pepp-m",
@@ -366,19 +392,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Mandegar Farzami",
   "result": "7-5 6-3",
-  "date": "2026-09-02"
- },
- {
-  "playerId": "uva-w-h8",
-  "name": "Emma Navarro",
-  "teamId": "uva-w",
-  "teamName": "Virginia",
-  "gender": "women",
-  "event": "U.S. Open - New York",
-  "round": "Second",
-  "won": true,
-  "opponent": "Caty McNally",
-  "result": "3-6 6-2 6-3",
   "date": "2026-09-02"
  },
  {
@@ -613,19 +626,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Alexandra Eala",
   "result": "6-1 6-2",
-  "date": "2026-09-02"
- },
- {
-  "playerId": "tex-m-n3",
-  "name": "Matej Dodig",
-  "teamId": "tex-m",
-  "teamName": "Texas",
-  "gender": "men",
-  "event": "Como Challenger",
-  "round": "Second",
-  "won": true,
-  "opponent": "Henry Bernet",
-  "result": "6-7(1) 7-6(3) 7-5",
   "date": "2026-09-02"
  },
  {
@@ -9758,11 +9758,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "NC State",
   "gender": "women",
   "event": "U.S. Open - New York",
-  "round": "Second",
-  "won": true,
-  "opponent": "Karolina Pliskova",
-  "result": "6-1 7-6(4)",
-  "date": "2026-09-02"
+  "round": "Third",
+  "won": false,
+  "opponent": "Taylor Townsend",
+  "result": "6-2 6-7(3) 6-3",
+  "date": "2026-09-04"
  },
  "ncst-w-p1": {
   "playerId": "ncst-w-p1",
@@ -13268,11 +13268,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Texas A&M",
   "gender": "men",
   "event": "U.S. Open - New York",
-  "round": "Second",
-  "won": true,
-  "opponent": "Jaume Antoni Munar Clar",
-  "result": "7-6(4) 6-2 7-5",
-  "date": "2026-09-02"
+  "round": "Third",
+  "won": false,
+  "opponent": "Daniil Medvedev",
+  "result": "6-4 6-4 6-4",
+  "date": "2026-09-04"
  },
  "tamu-m-h5": {
   "playerId": "tamu-m-h5",
@@ -14646,11 +14646,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Texas",
   "gender": "men",
   "event": "Como Challenger",
-  "round": "Second",
+  "round": "1/4",
   "won": true,
-  "opponent": "Henry Bernet",
-  "result": "6-7(1) 7-6(3) 7-5",
-  "date": "2026-09-02"
+  "opponent": "Max Schoenhaus",
+  "result": "2-6 7-6(1) 6-3",
+  "date": "2026-09-04"
  },
  "tex-m-p1": {
   "playerId": "tex-m-p1",
@@ -18299,11 +18299,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Virginia",
   "gender": "women",
   "event": "U.S. Open - New York",
-  "round": "Second",
+  "round": "Third",
   "won": true,
-  "opponent": "Caty McNally",
-  "result": "3-6 6-2 6-3",
-  "date": "2026-09-02"
+  "opponent": "Karolina Muchova",
+  "result": "6-3 7-5",
+  "date": "2026-09-04"
  },
  "uva-w-p1": {
   "playerId": "uva-w-p1",
