@@ -134,16 +134,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "wsu-w-h7",
-  "name": "Michaela Bayerlova",
-  "teamId": "wsu-w",
-  "gender": "women",
-  "opponent": "Jahnie Van Zyl",
-  "event": "W15 Cap d'Agde",
-  "date": "2026-09-05",
-  "day": "today"
- },
- {
   "playerId": "duke-m-fp157",
   "name": "Pedro Rodenas",
   "teamId": "duke-m",
@@ -224,6 +214,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "ill-m-h3",
+  "name": "Hunter Heck",
+  "teamId": "ill-m",
+  "gender": "men",
+  "opponent": "Nam Nguyen",
+  "event": "Phan Thiet 3 Challenger",
+  "date": "2026-09-06",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ore-m-h2",
   "name": "Joshua Charlton",
   "teamId": "ore-m",
@@ -240,6 +240,36 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Jakub Mensik",
   "event": "U.S. Open - New York",
+  "date": "2026-09-06",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "pepp-w-h5",
+  "name": "Lisa Zaar",
+  "teamId": "pepp-w",
+  "gender": "women",
+  "opponent": "Katerina Tsygourova",
+  "event": "Montreux Nestle Open - Montreux",
+  "date": "2026-09-06",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "usc-w-h12",
+  "name": "Madison Sieg",
+  "teamId": "usc-w",
+  "gender": "women",
+  "opponent": "Noelia Manta",
+  "event": "Montreux Nestle Open - Montreux",
+  "date": "2026-09-06",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ncst-m-fp370",
+  "name": "Martin Borisiouk",
+  "teamId": "ncst-m",
+  "gender": "men",
+  "opponent": "Takuya Kumasaka",
+  "event": "Phan Thiet 3 Challenger",
   "date": "2026-09-06",
   "day": "tomorrow"
  }
