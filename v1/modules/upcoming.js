@@ -204,12 +204,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "uva-w-h8",
-  "name": "Emma Navarro",
-  "teamId": "uva-w",
+  "playerId": "ucd-m-h4",
+  "name": "Andras Necz",
+  "teamId": "ucd-m",
+  "gender": "men",
+  "opponent": "M Alfaradu Sumirat",
+  "event": "M15 Bali",
+  "date": "2026-09-06",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "scu-m-h2",
+  "name": "Guillaume Dalmasso",
+  "teamId": "scu-m",
+  "gender": "men",
+  "opponent": "Hugo Car",
+  "event": "Cassis Challenger",
+  "date": "2026-09-06",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "wash-w-h7",
+  "name": "Hikaru Sato",
+  "teamId": "wash-w",
   "gender": "women",
-  "opponent": "Anna Kalinskaya",
-  "event": "U.S. Open - New York",
+  "opponent": "Yuno Kitahara",
+  "event": "W50 Guiyang",
   "date": "2026-09-06",
   "day": "tomorrow"
  },
@@ -230,6 +250,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Ji Sung Nam",
   "event": "Shanghai Challenger",
+  "date": "2026-09-06",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "osu-m-h2",
+  "name": "Justin Boulais",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Matis Roche",
+  "event": "Cassis Challenger",
   "date": "2026-09-06",
   "day": "tomorrow"
  },
@@ -270,6 +300,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Takuya Kumasaka",
   "event": "Phan Thiet 3 Challenger",
+  "date": "2026-09-06",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "usc-m-h3",
+  "name": "Peter Makk",
+  "teamId": "usc-m",
+  "gender": "men",
+  "opponent": "Benjamin Pietri",
+  "event": "Cassis Challenger",
+  "date": "2026-09-06",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ncst-w-h11",
+  "name": "Priska Nugroho",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Ying Zhang",
+  "event": "W50 Guiyang",
   "date": "2026-09-06",
   "day": "tomorrow"
  }

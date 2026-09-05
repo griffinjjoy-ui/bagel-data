@@ -31,6 +31,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-05"
  },
  {
+  "playerId": "tex-m-n3",
+  "name": "Matej Dodig",
+  "teamId": "tex-m",
+  "teamName": "Texas",
+  "gender": "men",
+  "event": "Como Challenger",
+  "round": "1/2",
+  "won": true,
+  "opponent": "Johan Nikles",
+  "result": "6-3 6-0",
+  "date": "2026-09-05"
+ },
+ {
   "playerId": "tamu-m-h19",
   "name": "Valentin Vacherot",
   "teamId": "tamu-m",
@@ -106,19 +119,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Gael Monfils",
   "result": "6-3 6-4 6-3",
-  "date": "2026-09-04"
- },
- {
-  "playerId": "tex-m-n3",
-  "name": "Matej Dodig",
-  "teamId": "tex-m",
-  "teamName": "Texas",
-  "gender": "men",
-  "event": "Como Challenger",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Max Schoenhaus",
-  "result": "2-6 7-6(1) 6-3",
   "date": "2026-09-04"
  },
  {
@@ -14464,11 +14464,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Texas",
   "gender": "men",
   "event": "Como Challenger",
-  "round": "1/4",
+  "round": "1/2",
   "won": true,
-  "opponent": "Max Schoenhaus",
-  "result": "2-6 7-6(1) 6-3",
-  "date": "2026-09-04"
+  "opponent": "Johan Nikles",
+  "result": "6-3 6-0",
+  "date": "2026-09-05"
  },
  "tex-m-p1": {
   "playerId": "tex-m-p1",
