@@ -5,6 +5,19 @@
 // on the ITF/Challenger/WTA-ATP circuit right now, ranked or not.
 export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWeek ?? [
  {
+  "playerId": "fla-m-h8",
+  "name": "Ben Shelton",
+  "teamId": "fla-m",
+  "teamName": "Florida",
+  "gender": "men",
+  "event": "U.S. Open - New York",
+  "round": "Third",
+  "won": true,
+  "opponent": "Denis Shapovalov",
+  "result": "7-6(3) 6-7(5) 6-3 6-4",
+  "date": "2026-09-05"
+ },
+ {
   "playerId": "tamu-m-h19",
   "name": "Valentin Vacherot",
   "teamId": "tamu-m",
@@ -236,19 +249,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Viola Bedini",
   "result": "7-6(5) 2-6 6-1",
-  "date": "2026-09-02"
- },
- {
-  "playerId": "fla-m-h8",
-  "name": "Ben Shelton",
-  "teamId": "fla-m",
-  "teamName": "Florida",
-  "gender": "men",
-  "event": "U.S. Open - New York",
-  "round": "Second",
-  "won": true,
-  "opponent": "Hubert Hurkacz",
-  "result": "6-3 5-7 7-6(3) 7-5",
   "date": "2026-09-02"
  },
  {
@@ -5754,11 +5754,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Florida",
   "gender": "men",
   "event": "U.S. Open - New York",
-  "round": "Second",
+  "round": "Third",
   "won": true,
-  "opponent": "Hubert Hurkacz",
-  "result": "6-3 5-7 7-6(3) 7-5",
-  "date": "2026-09-02"
+  "opponent": "Denis Shapovalov",
+  "result": "7-6(3) 6-7(5) 6-3 6-4",
+  "date": "2026-09-05"
  },
  "fla-m-h9": {
   "playerId": "fla-m-h9",

@@ -164,6 +164,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tamu-m-h7",
+  "name": "Raphael Perot",
+  "teamId": "tamu-m",
+  "gender": "men",
+  "opponent": "Alex Knaff",
+  "event": "M25+H Bagneres-de-Bigorre",
+  "date": "2026-09-05",
+  "day": "today"
+ },
+ {
   "playerId": "tenn-w-h9",
   "name": "Sofia Cabezas",
   "teamId": "tenn-w",
