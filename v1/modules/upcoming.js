@@ -224,6 +224,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "ore-m-h2",
+  "name": "Joshua Charlton",
+  "teamId": "ore-m",
+  "gender": "men",
+  "opponent": "Ji Sung Nam",
+  "event": "Shanghai Challenger",
+  "date": "2026-09-06",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "usc-m-h8",
   "name": "Learner Tien",
   "teamId": "usc-m",

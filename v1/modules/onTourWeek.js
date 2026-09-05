@@ -18,6 +18,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-05"
  },
  {
+  "playerId": "usc-m-p3",
+  "name": "Branko Djuric",
+  "teamId": "usc-m",
+  "teamName": "USC",
+  "gender": "men",
+  "event": "M15 Kursumlijska Banja",
+  "round": "1/2",
+  "won": true,
+  "opponent": "Nikita Bilozertsev",
+  "result": "6-1 6-2",
+  "date": "2026-09-05"
+ },
+ {
   "playerId": "tamu-m-h19",
   "name": "Valentin Vacherot",
   "teamId": "tamu-m",
@@ -54,19 +67,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Ryan Nijboer",
   "result": "6-2 4-6 6-1",
-  "date": "2026-09-04"
- },
- {
-  "playerId": "usc-m-p3",
-  "name": "Branko Djuric",
-  "teamId": "usc-m",
-  "teamName": "USC",
-  "gender": "men",
-  "event": "M15 Kursumlijska Banja",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Antoni Fabre",
-  "result": "6-7(8) 6-4 6-4",
   "date": "2026-09-04"
  },
  {
@@ -17246,11 +17246,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "USC",
   "gender": "men",
   "event": "M15 Kursumlijska Banja",
-  "round": "1/4",
+  "round": "1/2",
   "won": true,
-  "opponent": "Antoni Fabre",
-  "result": "6-7(8) 6-4 6-4",
-  "date": "2026-09-04"
+  "opponent": "Nikita Bilozertsev",
+  "result": "6-1 6-2",
+  "date": "2026-09-05"
  },
  "usc-m-p6": {
   "playerId": "usc-m-p6",
