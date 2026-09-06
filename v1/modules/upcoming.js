@@ -4,12 +4,32 @@
 // included). Opponent + event, no result yet. Re-run the script to refresh.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
+  "playerId": "bay-m-h12",
+  "name": "Adrian Boitan",
+  "teamId": "bay-m",
+  "gender": "men",
+  "opponent": "Ziya Ayberk Aydin",
+  "event": "Istanbul Challenger",
+  "date": "2026-09-06",
+  "day": "today"
+ },
+ {
   "playerId": "ucd-m-h4",
   "name": "Andras Necz",
   "teamId": "ucd-m",
   "gender": "men",
   "opponent": "M Alfaradu Sumirat",
   "event": "M15 Bali",
+  "date": "2026-09-06",
+  "day": "today"
+ },
+ {
+  "playerId": "uga-m-p1",
+  "name": "Arda Azkara",
+  "teamId": "uga-m",
+  "gender": "men",
+  "opponent": "Stefan Horia Haita",
+  "event": "Istanbul Challenger",
   "date": "2026-09-06",
   "day": "today"
  },
@@ -50,6 +70,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Aziz Dougaz",
   "event": "M15 Monastir",
+  "date": "2026-09-06",
+  "day": "today"
+ },
+ {
+  "playerId": "asu-w-h8",
+  "name": "Chelsea Fontenel",
+  "teamId": "asu-w",
+  "gender": "women",
+  "opponent": "Sabastiani Leon",
+  "event": "W50 Evora",
   "date": "2026-09-06",
   "day": "today"
  },
@@ -184,6 +214,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "okst-w-h7",
+  "name": "Kylie Collins",
+  "teamId": "okst-w",
+  "gender": "women",
+  "opponent": "Jessica Hinojosa Gomez",
+  "event": "W50 Evora",
+  "date": "2026-09-06",
+  "day": "today"
+ },
+ {
   "playerId": "usc-m-h8",
   "name": "Learner Tien",
   "teamId": "usc-m",
@@ -304,6 +344,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tex-w-h11",
+  "name": "Tanya Sasnouskaya",
+  "teamId": "tex-w",
+  "gender": "women",
+  "opponent": "Jodie Anna Burrage",
+  "event": "W50 Evora",
+  "date": "2026-09-06",
+  "day": "today"
+ },
+ {
   "playerId": "tamu-m-p6",
   "name": "Togan Tokac",
   "teamId": "tamu-m",
@@ -334,12 +384,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "uk-m-h14",
+  "name": "Alafia Ayeni",
+  "teamId": "uk-m",
+  "gender": "men",
+  "opponent": "Carl Emil Overbeck",
+  "event": "Istanbul Challenger",
+  "date": "2026-09-07",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ncst-m-h11",
   "name": "Alexis Galarneau",
   "teamId": "ncst-m",
   "gender": "men",
   "opponent": "Semen Pankin",
   "event": "Shanghai Challenger",
+  "date": "2026-09-07",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "sc-m-p6",
+  "name": "Atakan Karahan",
+  "teamId": "sc-m",
+  "gender": "men",
+  "opponent": "Max Basing",
+  "event": "Istanbul Challenger",
+  "date": "2026-09-07",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "usd-m-h8",
+  "name": "August Holmgren",
+  "teamId": "usd-m",
+  "gender": "men",
+  "opponent": "Vadym Ursu",
+  "event": "Istanbul Challenger",
   "date": "2026-09-07",
   "day": "tomorrow"
  },
@@ -354,12 +434,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "cal-m-h6",
+  "name": "Carl Emil Overbeck",
+  "teamId": "cal-m",
+  "gender": "men",
+  "opponent": "Alafia Ayeni",
+  "event": "Istanbul Challenger",
+  "date": "2026-09-07",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "uva-w-h8",
   "name": "Emma Navarro",
   "teamId": "uva-w",
   "gender": "women",
   "opponent": "Anna Kalinskaya",
   "event": "U.S. Open - New York",
+  "date": "2026-09-07",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ariz-m-fp226",
+  "name": "Jay Friend",
+  "teamId": "ariz-m",
+  "gender": "men",
+  "opponent": "Michele Ribecai",
+  "event": "Istanbul Challenger",
   "date": "2026-09-07",
   "day": "tomorrow"
  },
@@ -380,6 +480,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Sandro Kopp",
   "event": "Tulln Challenger",
+  "date": "2026-09-07",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "stan-m-h6",
+  "name": "Max Basing",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Atakan Karahan",
+  "event": "Istanbul Challenger",
   "date": "2026-09-07",
   "day": "tomorrow"
  },
