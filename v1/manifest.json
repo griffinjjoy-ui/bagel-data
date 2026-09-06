@@ -1,6 +1,6 @@
 {
- "version": "0cf4c25d78",
- "asOf": "2026-09-05",
+ "version": "205263061d",
+ "asOf": "2026-09-06",
  "files": {
   "proRankings.js": {
    "hash": "dc21389aa4",
@@ -39,7 +39,7 @@
    "bytes": 68100
   },
   "itaTournaments.js": {
-   "hash": "066078a94f",
+   "hash": "db826132f4",
    "bytes": 1498721
   },
   "rankHistory.js": {
