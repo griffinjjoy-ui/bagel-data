@@ -281,17 +281,17 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "champion": null,
   "entries": [
    {
-    "playerId": "wsu-w-h7",
-    "seed": "4",
-    "entry": null,
+    "playerId": "tex-w-h11",
+    "seed": null,
+    "entry": "Q",
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "tex-w-h11",
-    "seed": null,
-    "entry": "Q",
+    "playerId": "wsu-w-h7",
+    "seed": "4",
+    "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -307,16 +307,16 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "champion": null,
   "entries": [
    {
-    "playerId": "tenn-w-h9",
-    "seed": "4",
+    "playerId": "ou-w-h9",
+    "seed": "3",
     "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "ou-w-h9",
-    "seed": "3",
+    "playerId": "tenn-w-h9",
+    "seed": "4",
     "entry": null,
     "inMain": true,
     "eliminated": true,
@@ -937,17 +937,17 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "scu-m-h2",
-    "seed": "7",
-    "entry": null,
+    "playerId": "tcu-m-h2",
+    "seed": null,
+    "entry": "Q",
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "tcu-m-h2",
-    "seed": null,
-    "entry": "Q",
+    "playerId": "scu-m-h2",
+    "seed": "7",
+    "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -1035,7 +1035,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "ou-m-h5",
+    "playerId": "usd-m-h3",
     "seed": null,
     "entry": null,
     "inMain": true,
@@ -1043,7 +1043,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "usd-m-h3",
+    "playerId": "ou-m-h5",
     "seed": null,
     "entry": null,
     "inMain": true,
@@ -2494,14 +2494,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "wsu-w-h7",
-  "event": "W15 Cap d'Agde",
-  "seed": "4",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
   "playerId": "tex-w-h11",
   "event": "W15 Cap d'Agde",
   "seed": null,
@@ -2510,8 +2502,8 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tenn-w-h9",
-  "event": "W15 Lujan",
+  "playerId": "wsu-w-h7",
+  "event": "W15 Cap d'Agde",
   "seed": "4",
   "entry": null,
   "inMain": true,
@@ -2521,6 +2513,14 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "playerId": "ou-w-h9",
   "event": "W15 Lujan",
   "seed": "3",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tenn-w-h9",
+  "event": "W15 Lujan",
+  "seed": "4",
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
@@ -2990,18 +2990,18 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "scu-m-h2",
-  "event": "M25+H Bagneres-de-Bigorre",
-  "seed": "7",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
   "playerId": "tcu-m-h2",
   "event": "M25+H Bagneres-de-Bigorre",
   "seed": null,
   "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "scu-m-h2",
+  "event": "M25+H Bagneres-de-Bigorre",
+  "seed": "7",
+  "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
@@ -3054,7 +3054,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "ou-m-h5",
+  "playerId": "usd-m-h3",
   "event": "M25 Meerbusch",
   "seed": null,
   "entry": null,
@@ -3062,7 +3062,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "usd-m-h3",
+  "playerId": "ou-m-h5",
   "event": "M25 Meerbusch",
   "seed": null,
   "entry": null,

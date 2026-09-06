@@ -44,26 +44,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "usc-m-p3",
-  "name": "Branko Djuric",
-  "teamId": "usc-m",
-  "gender": "men",
-  "opponent": "Dmitry Popko",
-  "event": "M15 Kursumlijska Banja",
-  "date": "2026-09-06",
-  "day": "today"
- },
- {
-  "playerId": "wash-m-h7",
-  "name": "Cesar Bouchelaghem",
-  "teamId": "wash-m",
-  "gender": "men",
-  "opponent": "Aziz Dougaz",
-  "event": "M15 Monastir",
-  "date": "2026-09-06",
-  "day": "today"
- },
- {
   "playerId": "asu-w-h8",
   "name": "Chelsea Fontenel",
   "teamId": "asu-w",
@@ -130,16 +110,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Felix Balshaw",
   "event": "Manacor Challenger",
-  "date": "2026-09-06",
-  "day": "today"
- },
- {
-  "playerId": "okst-m-h5",
-  "name": "Isaac Becroft",
-  "teamId": "okst-m",
-  "gender": "men",
-  "opponent": "Karan Singh",
-  "event": "M15 Bali",
   "date": "2026-09-06",
   "day": "today"
  },
@@ -234,16 +204,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "tex-m-n3",
-  "name": "Matej Dodig",
-  "teamId": "tex-m",
-  "gender": "men",
-  "opponent": "Juan Pablo Varillas",
-  "event": "Como Challenger",
-  "date": "2026-09-06",
-  "day": "today"
- },
- {
   "playerId": "ttu-m-h1",
   "name": "Olle Wallin",
   "teamId": "ttu-m",
@@ -270,16 +230,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Ying Zhang",
   "event": "W50 Guiyang",
-  "date": "2026-09-06",
-  "day": "today"
- },
- {
-  "playerId": "cal-m-h7",
-  "name": "Qian Sun",
-  "teamId": "cal-m",
-  "gender": "men",
-  "opponent": "Yuta Tomida",
-  "event": "M15 Wuning",
   "date": "2026-09-06",
   "day": "today"
  },
