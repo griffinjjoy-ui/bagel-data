@@ -404,16 +404,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "sc-m-p6",
-  "name": "Atakan Karahan",
-  "teamId": "sc-m",
-  "gender": "men",
-  "opponent": "Max Basing",
-  "event": "Istanbul Challenger",
-  "date": "2026-09-07",
-  "day": "tomorrow"
- },
- {
   "playerId": "usd-m-h8",
   "name": "August Holmgren",
   "teamId": "usd-m",
@@ -454,52 +444,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "ariz-m-fp226",
-  "name": "Jay Friend",
-  "teamId": "ariz-m",
-  "gender": "men",
-  "opponent": "Michele Ribecai",
-  "event": "Istanbul Challenger",
-  "date": "2026-09-07",
-  "day": "tomorrow"
- },
- {
-  "playerId": "ill-m-fp217",
-  "name": "Kenta Miyoshi",
-  "teamId": "ill-m",
-  "gender": "men",
-  "opponent": "Moise Kouame",
-  "event": "Phan Thiet 3 Challenger",
-  "date": "2026-09-07",
-  "day": "tomorrow"
- },
- {
   "playerId": "bay-m-h11",
   "name": "Matias Soto",
   "teamId": "bay-m",
   "gender": "men",
   "opponent": "Sandro Kopp",
   "event": "Tulln Challenger",
-  "date": "2026-09-07",
-  "day": "tomorrow"
- },
- {
-  "playerId": "stan-m-h6",
-  "name": "Max Basing",
-  "teamId": "stan-m",
-  "gender": "men",
-  "opponent": "Atakan Karahan",
-  "event": "Istanbul Challenger",
-  "date": "2026-09-07",
-  "day": "tomorrow"
- },
- {
-  "playerId": "mich-m-p8",
-  "name": "Pierce Shaya",
-  "teamId": "mich-m",
-  "gender": "men",
-  "opponent": "Kasidit Samrej",
-  "event": "Phan Thiet 3 Challenger",
   "date": "2026-09-07",
   "day": "tomorrow"
  },

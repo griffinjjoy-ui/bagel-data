@@ -5,6 +5,32 @@
 // on the ITF/Challenger/WTA-ATP circuit right now, ranked or not.
 export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWeek ?? [
  {
+  "playerId": "scu-m-p9",
+  "name": "Alexander Watanabe Eriksson",
+  "teamId": "scu-m",
+  "teamName": "Santa Clara",
+  "gender": "men",
+  "event": "M15 Monastir",
+  "round": "Q1",
+  "won": false,
+  "opponent": "Matthew Carroll",
+  "result": "6-2 3-1 ret.",
+  "date": "2026-09-06"
+ },
+ {
+  "playerId": "usc-m-p3",
+  "name": "Branko Djuric",
+  "teamId": "usc-m",
+  "teamName": "USC",
+  "gender": "men",
+  "event": "M15 Kursumlijska Banja",
+  "round": "Final",
+  "won": true,
+  "opponent": "Dmitry Popko",
+  "result": "6-7(3) 6-2 6-4",
+  "date": "2026-09-06"
+ },
+ {
   "playerId": "usc-m-h8",
   "name": "Learner Tien",
   "teamId": "usc-m",
@@ -28,19 +54,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Denis Shapovalov",
   "result": "7-6(3) 6-7(5) 6-3 6-4",
-  "date": "2026-09-05"
- },
- {
-  "playerId": "usc-m-p3",
-  "name": "Branko Djuric",
-  "teamId": "usc-m",
-  "teamName": "USC",
-  "gender": "men",
-  "event": "M15 Kursumlijska Banja",
-  "round": "1/2",
-  "won": true,
-  "opponent": "Nikita Bilozertsev",
-  "result": "6-1 6-2",
   "date": "2026-09-05"
  },
  {
@@ -12201,12 +12214,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "scu-m",
   "teamName": "Santa Clara",
   "gender": "men",
-  "event": "M25 Idanha-a-Nova",
-  "round": "First",
+  "event": "M15 Monastir",
+  "round": "Q1",
   "won": false,
-  "opponent": "Philip Henning",
-  "result": "6-2 6-1",
-  "date": "2026-08-20"
+  "opponent": "Matthew Carroll",
+  "result": "6-2 3-1 ret.",
+  "date": "2026-09-06"
  },
  "scu-w-p1": {
   "playerId": "scu-w-p1",
@@ -16934,11 +16947,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "USC",
   "gender": "men",
   "event": "M15 Kursumlijska Banja",
-  "round": "1/2",
+  "round": "Final",
   "won": true,
-  "opponent": "Nikita Bilozertsev",
-  "result": "6-1 6-2",
-  "date": "2026-09-05"
+  "opponent": "Dmitry Popko",
+  "result": "6-7(3) 6-2 6-4",
+  "date": "2026-09-06"
  },
  "usc-m-p6": {
   "playerId": "usc-m-p6",
