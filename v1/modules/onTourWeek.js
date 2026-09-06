@@ -18,6 +18,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-06"
  },
  {
+  "playerId": "ucla-w-p3",
+  "name": "Anne-Christine Lutkemeyer",
+  "teamId": "ucla-w",
+  "teamName": "UCLA",
+  "gender": "women",
+  "event": "W35 Reus",
+  "round": "Q1",
+  "won": false,
+  "opponent": "Unknown Player",
+  "result": "4-6 6-4 13-11",
+  "date": "2026-09-06"
+ },
+ {
   "playerId": "usc-m-p3",
   "name": "Branko Djuric",
   "teamId": "usc-m",
@@ -44,6 +57,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-06"
  },
  {
+  "playerId": "tex-m-n3",
+  "name": "Matej Dodig",
+  "teamId": "tex-m",
+  "teamName": "Texas",
+  "gender": "men",
+  "event": "Como Challenger",
+  "round": "Final",
+  "won": true,
+  "opponent": "Juan Pablo Varillas",
+  "result": "6-3 7-6(5)",
+  "date": "2026-09-06"
+ },
+ {
   "playerId": "fla-m-h8",
   "name": "Ben Shelton",
   "teamId": "fla-m",
@@ -54,19 +80,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Denis Shapovalov",
   "result": "7-6(3) 6-7(5) 6-3 6-4",
-  "date": "2026-09-05"
- },
- {
-  "playerId": "tex-m-n3",
-  "name": "Matej Dodig",
-  "teamId": "tex-m",
-  "teamName": "Texas",
-  "gender": "men",
-  "event": "Como Challenger",
-  "round": "1/2",
-  "won": true,
-  "opponent": "Johan Nikles",
-  "result": "6-3 6-0",
   "date": "2026-09-05"
  },
  {
@@ -159,19 +172,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "opponent": "Alexandre Aubriot",
   "result": "6-3 1-6 6-0",
   "date": "2026-09-04"
- },
- {
-  "playerId": "ucla-w-p3",
-  "name": "Anne-Christine Lutkemeyer",
-  "teamId": "ucla-w",
-  "teamName": "UCLA",
-  "gender": "women",
-  "event": "W15 Badalona",
-  "round": "Second",
-  "won": false,
-  "opponent": "Ashley Lahey",
-  "result": "6-2 6-3",
-  "date": "2026-09-03"
  },
  {
   "playerId": "ariz-m-fp226",
@@ -14165,11 +14165,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Texas",
   "gender": "men",
   "event": "Como Challenger",
-  "round": "1/2",
+  "round": "Final",
   "won": true,
-  "opponent": "Johan Nikles",
-  "result": "6-3 6-0",
-  "date": "2026-09-05"
+  "opponent": "Juan Pablo Varillas",
+  "result": "6-3 7-6(5)",
+  "date": "2026-09-06"
  },
  "tex-m-p1": {
   "playerId": "tex-m-p1",
@@ -15529,12 +15529,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ucla-w",
   "teamName": "UCLA",
   "gender": "women",
-  "event": "W15 Badalona",
-  "round": "Second",
+  "event": "W35 Reus",
+  "round": "Q1",
   "won": false,
-  "opponent": "Ashley Lahey",
-  "result": "6-2 6-3",
-  "date": "2026-09-03"
+  "opponent": "Unknown Player",
+  "result": "4-6 6-4 13-11",
+  "date": "2026-09-06"
  },
  "ucla-w-p5": {
   "playerId": "ucla-w-p5",

@@ -54,16 +54,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "aub-w-h6",
-  "name": "Carolyn Ansari",
-  "teamId": "aub-w",
-  "gender": "women",
-  "opponent": "Elyse Tse",
-  "event": "W15 Monastir",
-  "date": "2026-09-06",
-  "day": "today"
- },
- {
   "playerId": "wash-m-h7",
   "name": "Cesar Bouchelaghem",
   "teamId": "wash-m",
@@ -90,26 +80,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Adrian Oetzbach",
   "event": "M25 Meerbusch",
-  "date": "2026-09-06",
-  "day": "today"
- },
- {
-  "playerId": "wsu-w-h4",
-  "name": "Elyse Tse",
-  "teamId": "wsu-w",
-  "gender": "women",
-  "opponent": "Carolyn Ansari",
-  "event": "W15 Monastir",
-  "date": "2026-09-06",
-  "day": "today"
- },
- {
-  "playerId": "rice-w-h2",
-  "name": "Federica Trevisan",
-  "teamId": "rice-w",
-  "gender": "women",
-  "opponent": "Noemi Maines",
-  "event": "W15 Fiano Romano",
   "date": "2026-09-06",
   "day": "today"
  },
@@ -170,16 +140,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Karan Singh",
   "event": "M15 Bali",
-  "date": "2026-09-06",
-  "day": "today"
- },
- {
-  "playerId": "miss-m-h3",
-  "name": "John Hallquist Lithen",
-  "teamId": "miss-m",
-  "gender": "men",
-  "opponent": "Linus Lagerbohm",
-  "event": "M15 Szczawno",
   "date": "2026-09-06",
   "day": "today"
  },
