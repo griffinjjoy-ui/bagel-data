@@ -135,6 +135,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-07"
  },
  {
+  "playerId": "lsu-p12",
+  "name": "Florentine Dekkers",
+  "teamId": "lsu-w",
+  "teamName": "LSU",
+  "gender": "women",
+  "event": "W15 Hurghada",
+  "round": "Q2",
+  "won": false,
+  "opponent": "Sreemanya Reddy Anugonda",
+  "result": "4-6 7-6(8) 10-8",
+  "date": "2026-09-07"
+ },
+ {
   "playerId": "wash-w-h7",
   "name": "Hikaru Sato",
   "teamId": "wash-w",
@@ -200,6 +213,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-07"
  },
  {
+  "playerId": "msu-w-h16",
+  "name": "Mary Lewis",
+  "teamId": "msu-w",
+  "teamName": "Michigan State",
+  "gender": "women",
+  "event": "W50 Evora",
+  "round": "Q3",
+  "won": false,
+  "opponent": "Sofia Johnson",
+  "result": "6-3 6-4",
+  "date": "2026-09-07"
+ },
+ {
   "playerId": "bay-m-h11",
   "name": "Matias Soto",
   "teamId": "bay-m",
@@ -223,6 +249,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Norbert Gombos",
   "result": "7-6(4) 6-4",
+  "date": "2026-09-07"
+ },
+ {
+  "playerId": "neb-w-h7",
+  "name": "Raphaelle Lacasse",
+  "teamId": "neb-w",
+  "teamName": "Nebraska",
+  "gender": "women",
+  "event": "W50 Evora",
+  "round": "Q3",
+  "won": true,
+  "opponent": "Clara Vlasselaer",
+  "result": "6-4 6-3",
   "date": "2026-09-07"
  },
  {
@@ -382,19 +421,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-06"
  },
  {
-  "playerId": "lsu-p12",
-  "name": "Florentine Dekkers",
-  "teamId": "lsu-w",
-  "teamName": "LSU",
-  "gender": "women",
-  "event": "W15 Hurghada",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Elena Utkina",
-  "result": "3-0 ret.",
-  "date": "2026-09-06"
- },
- {
   "playerId": "scu-m-h2",
   "name": "Guillaume Dalmasso",
   "teamId": "scu-m",
@@ -512,19 +538,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-06"
  },
  {
-  "playerId": "msu-w-h16",
-  "name": "Mary Lewis",
-  "teamId": "msu-w",
-  "teamName": "Michigan State",
-  "gender": "women",
-  "event": "W50 Evora",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Alba Rey Garcia",
-  "result": "6-1 6-3",
-  "date": "2026-09-06"
- },
- {
   "playerId": "tex-m-n3",
   "name": "Matej Dodig",
   "teamId": "tex-m",
@@ -587,19 +600,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Robin Bertrand",
   "result": "4-6 6-2 6-3",
-  "date": "2026-09-06"
- },
- {
-  "playerId": "neb-w-h7",
-  "name": "Raphaelle Lacasse",
-  "teamId": "neb-w",
-  "teamName": "Nebraska",
-  "gender": "women",
-  "event": "W50 Evora",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Lina Glushko",
-  "result": "6-3 6-1",
   "date": "2026-09-06"
  },
  {
@@ -7457,11 +7457,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "LSU",
   "gender": "women",
   "event": "W15 Hurghada",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Elena Utkina",
-  "result": "3-0 ret.",
-  "date": "2026-09-06"
+  "round": "Q2",
+  "won": false,
+  "opponent": "Sreemanya Reddy Anugonda",
+  "result": "4-6 7-6(8) 10-8",
+  "date": "2026-09-07"
  },
  "lsu-p5": {
   "playerId": "lsu-p5",
@@ -8900,11 +8900,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Michigan State",
   "gender": "women",
   "event": "W50 Evora",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Alba Rey Garcia",
-  "result": "6-1 6-3",
-  "date": "2026-09-06"
+  "round": "Q3",
+  "won": false,
+  "opponent": "Sofia Johnson",
+  "result": "6-3 6-4",
+  "date": "2026-09-07"
  },
  "msu-w-n3": {
   "playerId": "msu-w-n3",
@@ -9498,11 +9498,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Nebraska",
   "gender": "women",
   "event": "W50 Evora",
-  "round": "Q1",
+  "round": "Q3",
   "won": true,
-  "opponent": "Lina Glushko",
-  "result": "6-3 6-1",
-  "date": "2026-09-06"
+  "opponent": "Clara Vlasselaer",
+  "result": "6-4 6-3",
+  "date": "2026-09-07"
  },
  "neb-w-p1": {
   "playerId": "neb-w-p1",

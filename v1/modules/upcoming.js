@@ -144,16 +144,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "usc-m-h8",
-  "name": "Learner Tien",
-  "teamId": "usc-m",
-  "gender": "men",
-  "opponent": "Karen Khachanov",
-  "event": "U.S. Open - New York",
-  "date": "2026-09-07",
-  "day": "today"
- },
- {
   "playerId": "usc-w-h12",
   "name": "Madison Sieg",
   "teamId": "usc-w",
@@ -224,6 +214,36 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "temple-m-n1",
+  "name": "Adrien Ducruet",
+  "teamId": "temple-m",
+  "gender": "men",
+  "opponent": "Grigoriy Lomakin",
+  "event": "Phan Thiet 3 Challenger",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "bay-w-h13",
+  "name": "Alicia Herrero Linana",
+  "teamId": "bay-w",
+  "gender": "women",
+  "opponent": "Nastasja Mariana Schunk",
+  "event": "ATIK Antalya Open - Antalya",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "neb-m-h9",
+  "name": "Anton Shepp",
+  "teamId": "neb-m",
+  "gender": "men",
+  "opponent": "Hitesh Chauhan",
+  "event": "M15 Bali",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "pur-w-h7",
   "name": "Antonia Pareja",
   "teamId": "pur-w",
@@ -254,6 +274,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "okst-m-h6",
+  "name": "Chase Ferguson",
+  "teamId": "okst-m",
+  "gender": "men",
+  "opponent": "Riku Takahata",
+  "event": "M25 Sapporo",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "uva-m-h4",
   "name": "Inaki Montes de la Torre",
   "teamId": "uva-m",
@@ -274,12 +304,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "ou-m-h2",
+  "name": "Jordan Hasson",
+  "teamId": "ou-m",
+  "gender": "men",
+  "opponent": "Tomohiro Masabayashi",
+  "event": "M15 Nonthaburi",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ill-m-fp217",
   "name": "Kenta Miyoshi",
   "teamId": "ill-m",
   "gender": "men",
   "opponent": "Moise Kouame",
   "event": "Phan Thiet 3 Challenger",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "usc-m-h8",
+  "name": "Learner Tien",
+  "teamId": "usc-m",
+  "gender": "men",
+  "opponent": "Karen Khachanov",
+  "event": "U.S. Open - New York",
   "date": "2026-09-08",
   "day": "tomorrow"
  },
@@ -314,6 +364,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "stan-m-p5",
+  "name": "Nathan Barki",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Kai-I Wang",
+  "event": "M15 Bali",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "fla-m-p8",
+  "name": "Pablo Perez Ramos",
+  "teamId": "fla-m",
+  "gender": "men",
+  "opponent": "Corban Crowther",
+  "event": "M15 Bali",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "mich-m-p8",
   "name": "Pierce Shaya",
   "teamId": "mich-m",
@@ -330,6 +400,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Gauthier Onclin",
   "event": "Cassis Challenger",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "cal-m-h3",
+  "name": "Yuta Kikuchi",
+  "teamId": "cal-m",
+  "gender": "men",
+  "opponent": "Sena Okabe",
+  "event": "M25 Sapporo",
   "date": "2026-09-08",
   "day": "tomorrow"
  }

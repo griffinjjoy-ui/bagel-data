@@ -1,5 +1,5 @@
 {
- "version": "37b5e003ac",
+ "version": "16c4a7791e",
  "asOf": "2026-09-07",
  "files": {
   "proRankings.js": {
@@ -7,12 +7,12 @@
    "bytes": 174699
   },
   "onTourWeek.js": {
-   "hash": "a8c0b00ee9",
-   "bytes": 419568
+   "hash": "a1b9b696f6",
+   "bytes": 419614
   },
   "upcoming.js": {
-   "hash": "713822d35a",
-   "bytes": 7642
+   "hash": "e45e0bd2a8",
+   "bytes": 9313
   },
   "itaNational.js": {
    "hash": "96ce82fd8d",
@@ -35,8 +35,8 @@
    "bytes": 597
   },
   "drawFixtures.js": {
-   "hash": "4d85378a37",
-   "bytes": 68536
+   "hash": "b2f634e21f",
+   "bytes": 70618
   },
   "itaTournaments.js": {
    "hash": "a244d9aa2a",
