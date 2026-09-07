@@ -124,6 +124,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tenn-p6",
+  "name": "Katrina Scott",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Varvara Lepchenko",
+  "event": "Kia Open - Barranquilla",
+  "date": "2026-09-07",
+  "day": "today"
+ },
+ {
   "playerId": "okst-w-h7",
   "name": "Kylie Collins",
   "teamId": "okst-w",
@@ -214,12 +224,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "pur-w-h7",
+  "name": "Antonia Pareja",
+  "teamId": "pur-w",
+  "gender": "women",
+  "opponent": "Lucrezia Stefanini",
+  "event": "Kia Open - Barranquilla",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "sc-m-p6",
   "name": "Atakan Karahan",
   "teamId": "sc-m",
   "gender": "men",
   "opponent": "Max Basing",
   "event": "Istanbul Challenger",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "lsu-p8",
+  "name": "Cadence Brace",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Sara Sorribes Tormo",
+  "event": "Kia Open - Barranquilla",
   "date": "2026-09-08",
   "day": "tomorrow"
  },
@@ -250,6 +280,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Moise Kouame",
   "event": "Phan Thiet 3 Challenger",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tamu-w-h5",
+  "name": "Mary Stoiana",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Jazmin Ortenzi",
+  "event": "Kia Open - Barranquilla",
   "date": "2026-09-08",
   "day": "tomorrow"
  },
