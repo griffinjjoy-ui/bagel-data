@@ -226,6 +226,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "7F8DDEA9-842F-4B0F-BF20-BE7C13E3597E",
+  "date": "2027-01-17",
+  "dateTime": "2027-01-17T06:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Univ. Of Texas, Rio Grande Valley",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "yale-m",
+   "name": "Yale University",
+   "side": 2
+  }
+ },
+ {
   "id": "25E7B743-ECD7-4344-99C7-C85C7E314C6E",
   "date": "2027-01-17",
   "dateTime": "2027-01-17T19:00:00.000Z",
@@ -1089,6 +1106,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "vt-m",
    "name": "Virginia Tech",
+   "side": 2
+  }
+ },
+ {
+  "id": "61C09F96-A771-4522-ABD6-A91414340DDC",
+  "date": "2027-02-12",
+  "dateTime": "2027-02-12T06:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Univ. Of Texas, Rio Grande Valley",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ucr-m",
+   "name": "University Of California, Riverside",
    "side": 2
   }
  },

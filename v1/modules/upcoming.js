@@ -224,6 +224,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "ucla-w-h3",
+  "name": "Alexandra Vagramov",
+  "teamId": "ucla-w",
+  "gender": "women",
+  "opponent": "Laetitia Pulchartova",
+  "event": "W15 Monastir",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "bay-w-h13",
   "name": "Alicia Herrero Linana",
   "teamId": "bay-w",
@@ -264,6 +274,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "ark-m-p3",
+  "name": "Ben Weintraub",
+  "teamId": "ark-m",
+  "gender": "men",
+  "opponent": "Radovan Michalik",
+  "event": "M15 Budapest",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "cal-m-p9",
+  "name": "Bernardo Munk Mesa",
+  "teamId": "cal-m",
+  "gender": "men",
+  "opponent": "Mario Arce Fernandez",
+  "event": "M25 Gijon",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "lsu-p8",
   "name": "Cadence Brace",
   "teamId": "lsu-w",
@@ -290,6 +320,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Raul Brancaccio",
   "event": "Seville Challenger",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "osu-m-fp278",
+  "name": "Jack Anthrop",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Guilherme Valdoleiros",
+  "event": "M25 Sintra",
   "date": "2026-09-08",
   "day": "tomorrow"
  },
@@ -334,6 +374,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "tex-w-h5",
+  "name": "Malaika Rapolu",
+  "teamId": "tex-w",
+  "gender": "women",
+  "opponent": "Paula Cembranos",
+  "event": "W50 Evora",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "tamu-w-h5",
   "name": "Mary Stoiana",
   "teamId": "tamu-w",
@@ -364,6 +414,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "wake-m-h1",
+  "name": "Melios Efstathiou",
+  "teamId": "wake-m",
+  "gender": "men",
+  "opponent": "Federico Bove",
+  "event": "M25 Pozzuoli",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "stan-m-p5",
   "name": "Nathan Barki",
   "teamId": "stan-m",
@@ -380,6 +440,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Corban Crowther",
   "event": "M15 Bali",
+  "date": "2026-09-08",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ucla-m-h5",
+  "name": "Patrick Zahraj",
+  "teamId": "ucla-m",
+  "gender": "men",
+  "opponent": "Matisse Martin",
+  "event": "M25 Plaisir",
   "date": "2026-09-08",
   "day": "tomorrow"
  },
