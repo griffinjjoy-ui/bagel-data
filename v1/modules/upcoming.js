@@ -464,6 +464,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "ucla-w-h6",
+  "name": "Fangran Tian",
+  "teamId": "ucla-w",
+  "gender": "women",
+  "opponent": "Han Shi",
+  "event": "W50 Guiyang",
+  "date": "2026-09-09",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "okst-m-h5",
   "name": "Isaac Becroft",
   "teamId": "okst-m",
@@ -504,12 +514,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "fla-m-p7",
+  "name": "Tanapatt Nirundorn",
+  "teamId": "fla-m",
+  "gender": "men",
+  "opponent": "Shintaro Imai",
+  "event": "M15 Nonthaburi",
+  "date": "2026-09-09",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "isu-w-h3",
   "name": "Thasaporn Naklo",
   "teamId": "isu-w",
   "gender": "women",
   "opponent": "Yujin Ahn",
   "event": "W15 Yeongwol",
+  "date": "2026-09-09",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "fsu-w-h5",
+  "name": "Victoria Allen",
+  "teamId": "fsu-w",
+  "gender": "women",
+  "opponent": "Kateryna Diatlova",
+  "event": "W15 Hurghada",
   "date": "2026-09-09",
   "day": "tomorrow"
  }
