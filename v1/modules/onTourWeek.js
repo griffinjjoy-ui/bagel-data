@@ -5,6 +5,84 @@
 // on the ITF/Challenger/WTA-ATP circuit right now, ranked or not.
 export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWeek ?? [
  {
+  "playerId": "bay-m-h12",
+  "name": "Adrian Boitan",
+  "teamId": "bay-m",
+  "teamName": "Baylor",
+  "gender": "men",
+  "event": "Istanbul Challenger",
+  "round": "First",
+  "won": true,
+  "opponent": "Juan Alejandro Hernandez",
+  "result": "7-6(2) 6-4",
+  "date": "2026-09-08"
+ },
+ {
+  "playerId": "neb-m-h9",
+  "name": "Anton Shepp",
+  "teamId": "neb-m",
+  "teamName": "Nebraska",
+  "gender": "men",
+  "event": "M15 Bali",
+  "round": "First",
+  "won": true,
+  "opponent": "Hitesh Chauhan",
+  "result": "6-1 6-3",
+  "date": "2026-09-08"
+ },
+ {
+  "playerId": "okst-m-h6",
+  "name": "Chase Ferguson",
+  "teamId": "okst-m",
+  "teamName": "Oklahoma State",
+  "gender": "men",
+  "event": "M25 Sapporo",
+  "round": "First",
+  "won": true,
+  "opponent": "Riku Takahata",
+  "result": "6-1 6-3",
+  "date": "2026-09-08"
+ },
+ {
+  "playerId": "ariz-m-fp226",
+  "name": "Jay Friend",
+  "teamId": "ariz-m",
+  "teamName": "Arizona",
+  "gender": "men",
+  "event": "Istanbul Challenger",
+  "round": "First",
+  "won": true,
+  "opponent": "Michele Ribecai",
+  "result": "2-6 6-4 6-4",
+  "date": "2026-09-08"
+ },
+ {
+  "playerId": "ou-m-h2",
+  "name": "Jordan Hasson",
+  "teamId": "ou-m",
+  "teamName": "Oklahoma",
+  "gender": "men",
+  "event": "M15 Nonthaburi",
+  "round": "First",
+  "won": true,
+  "opponent": "Tomohiro Masabayashi",
+  "result": "3-6 6-4 6-4",
+  "date": "2026-09-08"
+ },
+ {
+  "playerId": "ill-m-fp217",
+  "name": "Kenta Miyoshi",
+  "teamId": "ill-m",
+  "teamName": "Illinois",
+  "gender": "men",
+  "event": "Phan Thiet 3 Challenger",
+  "round": "First",
+  "won": true,
+  "opponent": "Moise Kouame",
+  "result": "4-6 6-4 7-5",
+  "date": "2026-09-08"
+ },
+ {
   "playerId": "usc-m-h8",
   "name": "Learner Tien",
   "teamId": "usc-m",
@@ -15,6 +93,45 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Karen Khachanov",
   "result": "7-5 4-6 6-7(6) 6-1 6-4",
+  "date": "2026-09-08"
+ },
+ {
+  "playerId": "stan-m-p5",
+  "name": "Nathan Barki",
+  "teamId": "stan-m",
+  "teamName": "Stanford",
+  "gender": "men",
+  "event": "M15 Bali",
+  "round": "First",
+  "won": true,
+  "opponent": "Kai-I Wang",
+  "result": "6-2 6-2",
+  "date": "2026-09-08"
+ },
+ {
+  "playerId": "ttu-m-h1",
+  "name": "Olle Wallin",
+  "teamId": "ttu-m",
+  "teamName": "Texas Tech",
+  "gender": "men",
+  "event": "Tulln Challenger",
+  "round": "First",
+  "won": false,
+  "opponent": "Zdenek Kolar",
+  "result": "6-3 7-5",
+  "date": "2026-09-08"
+ },
+ {
+  "playerId": "fla-m-p8",
+  "name": "Pablo Perez Ramos",
+  "teamId": "fla-m",
+  "teamName": "Florida",
+  "gender": "men",
+  "event": "M15 Bali",
+  "round": "First",
+  "won": true,
+  "opponent": "Corban Crowther",
+  "result": "6-4 6-3",
   "date": "2026-09-08"
  },
  {
@@ -29,19 +146,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "opponent": "Sena Okabe",
   "result": "7-6(4) 6-2",
   "date": "2026-09-08"
- },
- {
-  "playerId": "bay-m-h12",
-  "name": "Adrian Boitan",
-  "teamId": "bay-m",
-  "teamName": "Baylor",
-  "gender": "men",
-  "event": "Istanbul Challenger",
-  "round": "Q3",
-  "won": true,
-  "opponent": "Ergi Kirkin",
-  "result": "6-3 6-4",
-  "date": "2026-09-07"
  },
  {
   "playerId": "uk-m-h14",
@@ -275,19 +379,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Sandro Kopp",
   "result": "7-6(5) 6-2",
-  "date": "2026-09-07"
- },
- {
-  "playerId": "ttu-m-h1",
-  "name": "Olle Wallin",
-  "teamId": "ttu-m",
-  "teamName": "Texas Tech",
-  "gender": "men",
-  "event": "Tulln Challenger",
-  "round": "Q3",
-  "won": true,
-  "opponent": "Norbert Gombos",
-  "result": "7-6(4) 6-4",
   "date": "2026-09-07"
  },
  {
@@ -876,19 +967,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-04"
  },
  {
-  "playerId": "stan-m-p5",
-  "name": "Nathan Barki",
-  "teamId": "stan-m",
-  "teamName": "Stanford",
-  "gender": "men",
-  "event": "M15 Bali",
-  "round": "1/4",
-  "won": false,
-  "opponent": "Karan Singh",
-  "result": "6-1 6-4",
-  "date": "2026-09-04"
- },
- {
   "playerId": "fau-m-h11",
   "name": "Nicolas Jadoun",
   "teamId": "fau-m",
@@ -980,19 +1058,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-03"
  },
  {
-  "playerId": "okst-m-h6",
-  "name": "Chase Ferguson",
-  "teamId": "okst-m",
-  "teamName": "Oklahoma State",
-  "gender": "men",
-  "event": "M25 Urayasu",
-  "round": "Second",
-  "won": false,
-  "opponent": "Keisuke Saitoh",
-  "result": "6-2 6-3",
-  "date": "2026-09-03"
- },
- {
   "playerId": "ucla-w-h6",
   "name": "Fangran Tian",
   "teamId": "ucla-w",
@@ -1029,32 +1094,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Dimitris Sakellaridis",
   "result": "3-6 6-1 6-2",
-  "date": "2026-09-03"
- },
- {
-  "playerId": "ariz-m-fp226",
-  "name": "Jay Friend",
-  "teamId": "ariz-m",
-  "teamName": "Arizona",
-  "gender": "men",
-  "event": "Manacor Challenger",
-  "round": "Second",
-  "won": false,
-  "opponent": "Billy Harris",
-  "result": "7-5 6-4",
-  "date": "2026-09-03"
- },
- {
-  "playerId": "ou-m-h2",
-  "name": "Jordan Hasson",
-  "teamId": "ou-m",
-  "teamName": "Oklahoma",
-  "gender": "men",
-  "event": "M15 Nonthaburi",
-  "round": "Second",
-  "won": false,
-  "opponent": "Arthur Weber",
-  "result": "6-3 6-0",
   "date": "2026-09-03"
  },
  {
@@ -1552,19 +1591,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-01"
  },
  {
-  "playerId": "fla-m-p8",
-  "name": "Pablo Perez Ramos",
-  "teamId": "fla-m",
-  "teamName": "Florida",
-  "gender": "men",
-  "event": "M15 Bali",
-  "round": "First",
-  "won": false,
-  "opponent": "Nathan Anthony Barki",
-  "result": "6-2 2-6 6-4",
-  "date": "2026-09-01"
- },
- {
   "playerId": "unc-m-h13",
   "name": "Patrick Schoen",
   "teamId": "unc-m",
@@ -1614,19 +1640,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Giovanni Branchetti",
   "result": "6-3 6-4",
-  "date": "2026-08-31"
- },
- {
-  "playerId": "neb-m-h9",
-  "name": "Anton Shepp",
-  "teamId": "neb-m",
-  "teamName": "Nebraska",
-  "gender": "men",
-  "event": "Manacor Challenger",
-  "round": "Q1",
-  "won": false,
-  "opponent": "Mathys Erhard",
-  "result": "6-1 7-5",
   "date": "2026-08-31"
  },
  {
@@ -2165,12 +2178,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ariz-m",
   "teamName": "Arizona",
   "gender": "men",
-  "event": "Manacor Challenger",
-  "round": "Second",
-  "won": false,
-  "opponent": "Billy Harris",
-  "result": "7-5 6-4",
-  "date": "2026-09-03"
+  "event": "Istanbul Challenger",
+  "round": "First",
+  "won": true,
+  "opponent": "Michele Ribecai",
+  "result": "2-6 6-4 6-4",
+  "date": "2026-09-08"
  },
  "ariz-m-h1": {
   "playerId": "ariz-m-h1",
@@ -3089,11 +3102,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Baylor",
   "gender": "men",
   "event": "Istanbul Challenger",
-  "round": "Q3",
+  "round": "First",
   "won": true,
-  "opponent": "Ergi Kirkin",
-  "result": "6-3 6-4",
-  "date": "2026-09-07"
+  "opponent": "Juan Alejandro Hernandez",
+  "result": "7-6(2) 6-4",
+  "date": "2026-09-08"
  },
  "bay-m-h3": {
   "playerId": "bay-m-h3",
@@ -5378,10 +5391,10 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "gender": "men",
   "event": "M15 Bali",
   "round": "First",
-  "won": false,
-  "opponent": "Nathan Anthony Barki",
-  "result": "6-2 2-6 6-4",
-  "date": "2026-09-01"
+  "won": true,
+  "opponent": "Corban Crowther",
+  "result": "6-4 6-3",
+  "date": "2026-09-08"
  },
  "fla-m-p9": {
   "playerId": "fla-m-p9",
@@ -6299,12 +6312,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ill-m",
   "teamName": "Illinois",
   "gender": "men",
-  "event": "Winston-Salem Open - Winston-Salem",
-  "round": "Q1",
-  "won": false,
-  "opponent": "Pierre-Hugues Herbert",
-  "result": "6-2 4-6 6-2",
-  "date": "2026-08-22"
+  "event": "Phan Thiet 3 Challenger",
+  "round": "First",
+  "won": true,
+  "opponent": "Moise Kouame",
+  "result": "4-6 6-4 7-5",
+  "date": "2026-09-08"
  },
  "ill-m-h3": {
   "playerId": "ill-m-h3",
@@ -9263,12 +9276,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "neb-m",
   "teamName": "Nebraska",
   "gender": "men",
-  "event": "Manacor Challenger",
-  "round": "Q1",
-  "won": false,
-  "opponent": "Mathys Erhard",
-  "result": "6-1 7-5",
-  "date": "2026-08-31"
+  "event": "M15 Bali",
+  "round": "First",
+  "won": true,
+  "opponent": "Hitesh Chauhan",
+  "result": "6-1 6-3",
+  "date": "2026-09-08"
  },
  "neb-m-p3": {
   "playerId": "neb-m-p3",
@@ -9640,12 +9653,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "okst-m",
   "teamName": "Oklahoma State",
   "gender": "men",
-  "event": "M25 Urayasu",
-  "round": "Second",
-  "won": false,
-  "opponent": "Keisuke Saitoh",
-  "result": "6-2 6-3",
-  "date": "2026-09-03"
+  "event": "M25 Sapporo",
+  "round": "First",
+  "won": true,
+  "opponent": "Riku Takahata",
+  "result": "6-1 6-3",
+  "date": "2026-09-08"
  },
  "okst-m-p1": {
   "playerId": "okst-m-p1",
@@ -10304,11 +10317,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Oklahoma",
   "gender": "men",
   "event": "M15 Nonthaburi",
-  "round": "Second",
-  "won": false,
-  "opponent": "Arthur Weber",
-  "result": "6-3 6-0",
-  "date": "2026-09-03"
+  "round": "First",
+  "won": true,
+  "opponent": "Tomohiro Masabayashi",
+  "result": "3-6 6-4 6-4",
+  "date": "2026-09-08"
  },
  "ou-m-h5": {
   "playerId": "ou-m-h5",
@@ -12423,11 +12436,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Stanford",
   "gender": "men",
   "event": "M15 Bali",
-  "round": "1/4",
-  "won": false,
-  "opponent": "Karan Singh",
-  "result": "6-1 6-4",
-  "date": "2026-09-04"
+  "round": "First",
+  "won": true,
+  "opponent": "Kai-I Wang",
+  "result": "6-2 6-2",
+  "date": "2026-09-08"
  },
  "stan-w-h7": {
   "playerId": "stan-w-h7",
@@ -14256,11 +14269,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Texas Tech",
   "gender": "men",
   "event": "Tulln Challenger",
-  "round": "Q3",
-  "won": true,
-  "opponent": "Norbert Gombos",
-  "result": "7-6(4) 6-4",
-  "date": "2026-09-07"
+  "round": "First",
+  "won": false,
+  "opponent": "Zdenek Kolar",
+  "result": "6-3 7-5",
+  "date": "2026-09-08"
  },
  "ttu-m-h2": {
   "playerId": "ttu-m-h2",

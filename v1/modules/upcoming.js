@@ -194,6 +194,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "lsu-p6",
+  "name": "Kayla Cross",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Giulia Pereira De Aguiar",
+  "event": "W50 Evora",
+  "date": "2026-09-08",
+  "day": "today"
+ },
+ {
   "playerId": "ill-m-fp217",
   "name": "Kenta Miyoshi",
   "teamId": "ill-m",
@@ -210,6 +220,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Karen Khachanov",
   "event": "U.S. Open - New York",
+  "date": "2026-09-08",
+  "day": "today"
+ },
+ {
+  "playerId": "tenn-p3",
+  "name": "Leyla Britez Risso",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Maria Navarro Oliva",
+  "event": "W15 Pilar",
   "date": "2026-09-08",
   "day": "today"
  },
@@ -350,6 +370,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Gauthier Onclin",
   "event": "Cassis Challenger",
+  "date": "2026-09-08",
+  "day": "today"
+ },
+ {
+  "playerId": "tenn-w-h9",
+  "name": "Sofia Cabezas",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Melina Maria Maruca",
+  "event": "W15 Pilar",
   "date": "2026-09-08",
   "day": "today"
  },
