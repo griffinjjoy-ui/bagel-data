@@ -454,6 +454,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "aub-w-h6",
+  "name": "Carolyn Ansari",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Yekaterina Dmitrichenko",
+  "event": "W15 Monastir",
+  "date": "2026-09-09",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "uva-w-h8",
   "name": "Emma Navarro",
   "teamId": "uva-w",
