@@ -58,8 +58,18 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "name": "Antonia Pareja",
   "teamId": "pur-w",
   "gender": "women",
-  "opponent": "Lucrezia Stefanini",
+  "opponent": "Lizette Cabrera",
   "event": "Kia Open - Barranquilla",
+  "date": "2026-09-08",
+  "day": "today"
+ },
+ {
+  "playerId": "wash-w-h8",
+  "name": "Astrid Olsen",
+  "teamId": "wash-w",
+  "gender": "women",
+  "opponent": "Chiara Fornasieri",
+  "event": "W15 Viserba di Rimini",
   "date": "2026-09-08",
   "day": "today"
  },
@@ -114,6 +124,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "wash-m-h10",
+  "name": "Clement Chidekh",
+  "teamId": "wash-m",
+  "gender": "men",
+  "opponent": "Kenny de Schepper",
+  "event": "M25 Plaisir",
+  "date": "2026-09-08",
+  "day": "today"
+ },
+ {
+  "playerId": "ncst-w-h5",
+  "name": "Gina Dittmann",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Savine Erler",
+  "event": "W15 Dijon",
+  "date": "2026-09-08",
+  "day": "today"
+ },
+ {
   "playerId": "uva-m-h4",
   "name": "Inaki Montes de la Torre",
   "teamId": "uva-m",
@@ -154,6 +184,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "uva-w-h6",
+  "name": "Julia Adams",
+  "teamId": "uva-w",
+  "gender": "women",
+  "opponent": "Oriana Gniewkowska",
+  "event": "W15 Radom",
+  "date": "2026-09-08",
+  "day": "today"
+ },
+ {
   "playerId": "ill-m-fp217",
   "name": "Kenta Miyoshi",
   "teamId": "ill-m",
@@ -174,6 +214,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "miss-w-h1",
+  "name": "Lucie Petruzelova",
+  "teamId": "miss-w",
+  "gender": "women",
+  "opponent": "Barbora Michalkova",
+  "event": "W15 Radom",
+  "date": "2026-09-08",
+  "day": "today"
+ },
+ {
   "playerId": "tex-w-h5",
   "name": "Malaika Rapolu",
   "teamId": "tex-w",
@@ -190,16 +240,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Koki Matsuda",
   "event": "Phan Thiet 3 Challenger",
-  "date": "2026-09-08",
-  "day": "today"
- },
- {
-  "playerId": "tamu-w-h5",
-  "name": "Mary Stoiana",
-  "teamId": "tamu-w",
-  "gender": "women",
-  "opponent": "Jazmin Ortenzi",
-  "event": "Kia Open - Barranquilla",
   "date": "2026-09-08",
   "day": "today"
  },
@@ -234,12 +274,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "uga-w-h6",
+  "name": "Mell Reasco",
+  "teamId": "uga-w",
+  "gender": "women",
+  "opponent": "Katie Swan",
+  "event": "W50 Evora",
+  "date": "2026-09-08",
+  "day": "today"
+ },
+ {
   "playerId": "stan-m-p5",
   "name": "Nathan Barki",
   "teamId": "stan-m",
   "gender": "men",
   "opponent": "Kai-I Wang",
   "event": "M15 Bali",
+  "date": "2026-09-08",
+  "day": "today"
+ },
+ {
+  "playerId": "fau-m-h11",
+  "name": "Nicolas Jadoun",
+  "teamId": "fau-m",
+  "gender": "men",
+  "opponent": "Roan Jones",
+  "event": "M15 Monastir",
   "date": "2026-09-08",
   "day": "today"
  },
@@ -294,6 +354,46 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "uga-p10",
+  "name": "Sofia Rojas",
+  "teamId": "uga-w",
+  "gender": "women",
+  "opponent": "Maria Oliver Sanchez",
+  "event": "W15 Monastir",
+  "date": "2026-09-08",
+  "day": "today"
+ },
+ {
+  "playerId": "ucf-w-h5",
+  "name": "Sophia Biolay",
+  "teamId": "ucf-w",
+  "gender": "women",
+  "opponent": "Marie Mattel",
+  "event": "W15 Dijon",
+  "date": "2026-09-08",
+  "day": "today"
+ },
+ {
+  "playerId": "uga-m-h16",
+  "name": "Tristan McCormick",
+  "teamId": "uga-m",
+  "gender": "men",
+  "opponent": "Carlos Giraldi",
+  "event": "M25 Gijon",
+  "date": "2026-09-08",
+  "day": "today"
+ },
+ {
+  "playerId": "asu-m-p9",
+  "name": "Xavi Palomar",
+  "teamId": "asu-m",
+  "gender": "men",
+  "opponent": "Vicente Alcaraz Galbis",
+  "event": "M25 Gijon",
+  "date": "2026-09-08",
+  "day": "today"
+ },
+ {
   "playerId": "cal-m-h3",
   "name": "Yuta Kikuchi",
   "teamId": "cal-m",
@@ -330,6 +430,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Jessica Pegula",
   "event": "U.S. Open - New York",
+  "date": "2026-09-09",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tamu-w-h5",
+  "name": "Mary Stoiana",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Jazmin Ortenzi",
+  "event": "Kia Open - Barranquilla",
   "date": "2026-09-09",
   "day": "tomorrow"
  },
