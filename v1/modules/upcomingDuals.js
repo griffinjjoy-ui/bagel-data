@@ -243,6 +243,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "3F1E4482-8DE9-4C66-BC42-EC3A760B6799",
+  "date": "2027-01-17",
+  "dateTime": "2027-01-17T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Stetson University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ucf-w",
+   "name": "University Of Central Florida",
+   "side": 2
+  }
+ },
+ {
   "id": "25E7B743-ECD7-4344-99C7-C85C7E314C6E",
   "date": "2027-01-17",
   "dateTime": "2027-01-17T19:00:00.000Z",
@@ -1004,6 +1021,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "penn-m",
    "name": "Univ. Of Pennsylvania",
+   "side": 2
+  }
+ },
+ {
+  "id": "40A2261B-57F3-442E-9703-6E80D79F590F",
+  "date": "2027-02-06",
+  "dateTime": "2027-02-06T19:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Stetson University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ala-w",
+   "name": "University Of Alabama",
    "side": 2
   }
  },
@@ -1786,6 +1820,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Idaho State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "4536921E-BEDA-40A1-948B-127EB44B2F76",
+  "date": "2027-03-03",
+  "dateTime": "2027-03-03T19:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Stetson University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "usf-w",
+   "name": "Univ. Of South Florida",
    "side": 2
   }
  },

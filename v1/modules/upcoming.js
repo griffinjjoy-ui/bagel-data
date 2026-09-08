@@ -144,16 +144,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "uva-m-h4",
-  "name": "Inaki Montes de la Torre",
-  "teamId": "uva-m",
-  "gender": "men",
-  "opponent": "Raul Brancaccio",
-  "event": "Seville Challenger",
-  "date": "2026-09-08",
-  "day": "today"
- },
- {
   "playerId": "osu-m-fp278",
   "name": "Jack Anthrop",
   "teamId": "osu-m",
@@ -434,6 +424,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "uk-m-h14",
+  "name": "Alafia Ayeni",
+  "teamId": "uk-m",
+  "gender": "men",
+  "opponent": "Francesco Maestrelli",
+  "event": "Istanbul Challenger",
+  "date": "2026-09-09",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ncst-m-h11",
   "name": "Alexis Galarneau",
   "teamId": "ncst-m",
@@ -464,6 +464,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "okst-m-h5",
+  "name": "Isaac Becroft",
+  "teamId": "okst-m",
+  "gender": "men",
+  "opponent": "Anthony Susanto",
+  "event": "M15 Bali",
+  "date": "2026-09-09",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "tamu-w-h5",
   "name": "Mary Stoiana",
   "teamId": "tamu-w",
@@ -480,6 +490,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Marvin Moeller",
   "event": "Tulln Challenger",
+  "date": "2026-09-09",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ncst-m-h3",
+  "name": "Robin Catry",
+  "teamId": "ncst-m",
+  "gender": "men",
+  "opponent": "Kousuke Ogura",
+  "event": "M25 Sapporo",
+  "date": "2026-09-09",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "isu-w-h3",
+  "name": "Thasaporn Naklo",
+  "teamId": "isu-w",
+  "gender": "women",
+  "opponent": "Yujin Ahn",
+  "event": "W15 Yeongwol",
   "date": "2026-09-09",
   "day": "tomorrow"
  }
