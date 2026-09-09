@@ -64,6 +64,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "pur-w-h7",
+  "name": "Antonia Pareja",
+  "teamId": "pur-w",
+  "gender": "women",
+  "opponent": "Leolia Jeanjean",
+  "event": "Kia Open - Barranquilla",
+  "date": "2026-09-09",
+  "day": "today"
+ },
+ {
   "playerId": "fla-m-h8",
   "name": "Ben Shelton",
   "teamId": "fla-m",
@@ -424,6 +434,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "aub-m-h1",
+  "name": "Tyler Stice",
+  "teamId": "aub-m",
+  "gender": "men",
+  "opponent": "Valentin Lapalu",
+  "event": "M15 Monastir",
+  "date": "2026-09-09",
+  "day": "today"
+ },
+ {
   "playerId": "fsu-w-h5",
   "name": "Victoria Allen",
   "teamId": "fsu-w",
@@ -460,6 +480,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Tristan Mccormick",
   "event": "M25 Gijon",
+  "date": "2026-09-09",
+  "day": "today"
+ },
+ {
+  "playerId": "utah-w-h8",
+  "name": "Yasmin Ezzat",
+  "teamId": "utah-w",
+  "gender": "women",
+  "opponent": "Anastasia Lizunova",
+  "event": "W15 Hurghada",
   "date": "2026-09-09",
   "day": "today"
  },
