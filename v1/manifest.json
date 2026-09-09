@@ -1,10 +1,10 @@
 {
- "version": "bb1da4099f",
+ "version": "5ec3cb09af",
  "asOf": "2026-09-09",
  "files": {
   "proRankings.js": {
-   "hash": "7e81d28685",
-   "bytes": 285743
+   "hash": "0c183057de",
+   "bytes": 285126
   },
   "onTourWeek.js": {
    "hash": "8a61f08608",
@@ -43,8 +43,8 @@
    "bytes": 1498721
   },
   "rankHistory.js": {
-   "hash": "ecfd2b3837",
-   "bytes": 76038
+   "hash": "6159c2b912",
+   "bytes": 77236
   },
   "roster2627.js": {
    "hash": "b7bb74f214",

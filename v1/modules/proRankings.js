@@ -2606,19 +2606,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "cal-m-p5",
-  "name": "Fryderyk Lechno-Wasiutynski",
-  "teamId": "cal-m",
-  "teamName": "California",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 613,
-  "change": 42,
-  "weeks": 10,
-  "asOf": "2026-08-31"
- },
- {
   "playerId": "lsu-w-h11",
   "name": "Tilwith Di Girolami",
   "teamId": "lsu-w",
@@ -4959,19 +4946,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 900,
   "change": -9,
   "weeks": 6,
-  "asOf": "2026-07-13"
- },
- {
-  "playerId": "uga-m-p7",
-  "name": "Salvador Price",
-  "teamId": "uga-m",
-  "teamName": "Georgia",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 900,
-  "change": -5,
-  "weeks": 4,
   "asOf": "2026-07-13"
  },
  {
@@ -13262,18 +13236,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "cal-m-h7": [
   867
  ],
- "cal-m-p5": [
-  655,
-  656,
-  660,
-  635,
-  635,
-  633,
-  636,
-  643,
-  609,
-  613
- ],
  "cal-w-h1": [
   334,
   332,
@@ -15840,12 +15802,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   829,
   842,
   823
- ],
- "uga-m-p7": [
-  895,
-  893,
-  893,
-  900
  ],
  "uga-p2": [
   885,
