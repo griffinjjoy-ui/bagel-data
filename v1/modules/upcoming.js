@@ -524,6 +524,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "neb-m-h9",
+  "name": "Anton Shepp",
+  "teamId": "neb-m",
+  "gender": "men",
+  "opponent": "Nathan Anthony Barki",
+  "event": "M15 Bali",
+  "date": "2026-09-10",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "okst-m-h6",
+  "name": "Chase Ferguson",
+  "teamId": "okst-m",
+  "gender": "men",
+  "opponent": "Yuki Mochizuki",
+  "event": "M25 Sapporo",
+  "date": "2026-09-10",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ariz-m-fp226",
   "name": "Jay Friend",
   "teamId": "ariz-m",
@@ -564,12 +584,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "stan-m-p5",
+  "name": "Nathan Barki",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Anton Shepp",
+  "event": "M15 Bali",
+  "date": "2026-09-10",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "fla-m-p8",
+  "name": "Pablo Perez Ramos",
+  "teamId": "fla-m",
+  "gender": "men",
+  "opponent": "Arjun Mehrotra",
+  "event": "M15 Bali",
+  "date": "2026-09-10",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "tamu-m-h7",
   "name": "Raphael Perot",
   "teamId": "tamu-m",
   "gender": "men",
   "opponent": "Robin Bertrand",
   "event": "Cassis Challenger",
+  "date": "2026-09-10",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "cal-m-h3",
+  "name": "Yuta Kikuchi",
+  "teamId": "cal-m",
+  "gender": "men",
+  "opponent": "Yunseong Chung",
+  "event": "M25 Sapporo",
   "date": "2026-09-10",
   "day": "tomorrow"
  }
