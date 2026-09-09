@@ -514,6 +514,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "ucla-w-h3",
+  "name": "Alexandra Vagramov",
+  "teamId": "ucla-w",
+  "gender": "women",
+  "opponent": "Kristina Belkova",
+  "event": "W15 Monastir",
+  "date": "2026-09-10",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "bay-w-h13",
   "name": "Alicia Herrero Linana",
   "teamId": "bay-w",
@@ -544,12 +554,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "mem-m-h2",
+  "name": "Conor Gannon",
+  "teamId": "mem-m",
+  "gender": "men",
+  "opponent": "Gabriele Thomas Brancatelli",
+  "event": "M15 Hurghada",
+  "date": "2026-09-10",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tenn-w-h7",
+  "name": "Elza Tomase",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Agnese Gentili",
+  "event": "W15 Viserba di Rimini",
+  "date": "2026-09-10",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ariz-m-fp226",
   "name": "Jay Friend",
   "teamId": "ariz-m",
   "gender": "men",
   "opponent": "Samir Hamza Reguig",
   "event": "Istanbul Challenger",
+  "date": "2026-09-10",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ou-m-h2",
+  "name": "Jordan Hasson",
+  "teamId": "ou-m",
+  "gender": "men",
+  "opponent": "Shintaro Imai",
+  "event": "M15 Nonthaburi",
   "date": "2026-09-10",
   "day": "tomorrow"
  },
