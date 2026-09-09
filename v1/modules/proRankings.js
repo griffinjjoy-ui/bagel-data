@@ -1102,6 +1102,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 340,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -1116,6 +1117,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 344,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -1326,6 +1328,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 394,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -1382,8 +1385,22 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 400,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
+ },
+ {
+  "playerId": "ou-w-n3",
+  "name": "Reina Goto",
+  "teamId": "ou-w",
+  "teamName": "Oklahoma",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 401,
+  "change": 133,
+  "weeks": 10,
+  "asOf": "2026-08-10"
  },
  {
   "playerId": "tcu-w-h2",
@@ -1468,20 +1485,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "weeks": 11,
   "asOf": "2026-08-31",
   "source": "atp-official-refresh"
- },
- {
-  "playerId": "ou-w-n3",
-  "name": "Reina Goto",
-  "teamId": "ou-w",
-  "teamName": "Oklahoma",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 418,
-  "change": -6,
-  "weeks": 10,
-  "asOf": "2026-08-31",
-  "source": "wta-official-refresh"
  },
  {
   "playerId": "port-m-h5",
@@ -1634,6 +1637,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 451,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -1790,20 +1794,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "ou-w-n2",
-  "name": "Ekaterina Maklakova",
-  "teamId": "ou-w",
-  "teamName": "Oklahoma",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 478,
-  "change": -4,
-  "weeks": 10,
-  "asOf": "2026-08-31",
-  "source": "wta-official-refresh"
- },
- {
   "playerId": "pepp-m-h6",
   "name": "Eero Vasa",
   "teamId": "pepp-m",
@@ -1867,10 +1857,9 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 487,
-  "change": null,
-  "weeks": null,
-  "asOf": "2026-08-31",
-  "source": "atp-deep(tennisabstract)"
+  "change": 23,
+  "weeks": 10,
+  "asOf": "2026-08-31"
  },
  {
   "playerId": "aub-p12",
@@ -1897,6 +1886,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 492,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -2103,6 +2093,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 513,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -2215,6 +2206,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 545,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -2382,6 +2374,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 575,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -2466,6 +2459,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 591,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -2578,6 +2572,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 611,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -2606,6 +2601,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 613,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -2618,10 +2614,9 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 613,
-  "change": null,
-  "weeks": null,
-  "asOf": "2026-08-31",
-  "source": "atp-deep(tennisabstract)"
+  "change": 42,
+  "weeks": 10,
+  "asOf": "2026-08-31"
  },
  {
   "playerId": "lsu-w-h11",
@@ -2732,6 +2727,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 627,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -3296,20 +3292,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "tamu-m-n3",
-  "name": "Khololwam Montsi",
-  "teamId": "tamu-m",
-  "teamName": "Texas A&M",
-  "former": false,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 711,
-  "change": 14,
-  "weeks": 5,
-  "asOf": "2026-08-31",
-  "source": "atp-official-refresh"
- },
- {
   "playerId": "ucf-w-h5",
   "name": "Sophia Biolay",
   "teamId": "ucf-w",
@@ -3459,6 +3441,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 726,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -3555,10 +3538,9 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 739,
-  "change": null,
-  "weeks": null,
-  "asOf": "2026-08-31",
-  "source": "atp-deep(tennisabstract)"
+  "change": -28,
+  "weeks": 10,
+  "asOf": "2026-08-31"
  },
  {
   "playerId": "clem-m-p7",
@@ -3571,6 +3553,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 741,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -3611,10 +3594,9 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 748,
-  "change": null,
-  "weeks": null,
-  "asOf": "2026-08-31",
-  "source": "atp-deep(tennisabstract)"
+  "change": -101,
+  "weeks": 10,
+  "asOf": "2026-08-31"
  },
  {
   "playerId": "uva-m-p9",
@@ -3737,10 +3719,9 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 759,
-  "change": null,
-  "weeks": null,
-  "asOf": "2026-08-31",
-  "source": "atp-deep(tennisabstract)"
+  "change": 11,
+  "weeks": 3,
+  "asOf": "2026-08-31"
  },
  {
   "playerId": "ore-w-h7",
@@ -3808,6 +3789,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 770,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -3905,6 +3887,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 795,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -3931,10 +3914,9 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 802,
-  "change": null,
-  "weeks": null,
-  "asOf": "2026-08-31",
-  "source": "atp-deep(tennisabstract)"
+  "change": -31,
+  "weeks": 9,
+  "asOf": "2026-08-31"
  },
  {
   "playerId": "umd-w-h7",
@@ -3960,6 +3942,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 804,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -4084,6 +4067,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 814,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -4126,6 +4110,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 816,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -4503,6 +4488,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 861,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -4517,6 +4503,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 863,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -4597,6 +4584,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 867,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -4679,6 +4667,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 872,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -4817,6 +4806,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 888,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -4940,6 +4930,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 899,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -4954,6 +4945,19 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 900,
   "change": -9,
   "weeks": 6,
+  "asOf": "2026-07-13"
+ },
+ {
+  "playerId": "uga-m-p7",
+  "name": "Salvador Price",
+  "teamId": "uga-m",
+  "teamName": "Georgia",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 900,
+  "change": -5,
+  "weeks": 4,
   "asOf": "2026-07-13"
  },
  {
@@ -4995,6 +4999,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 907,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5065,6 +5070,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 919,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5107,6 +5113,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 930,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5135,6 +5142,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 936,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5149,6 +5157,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 937,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5233,6 +5242,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 954,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5317,6 +5327,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 966,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5359,6 +5370,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 970,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5415,20 +5427,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 990,
   "change": null,
   "weeks": null,
-  "asOf": "2026-08-31",
-  "source": "atp-deep(tennisabstract)"
- },
- {
-  "playerId": "uga-m-p7",
-  "name": "Salvador Price",
-  "teamId": "uga-m",
-  "teamName": "Georgia",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 993,
-  "change": null,
-  "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5485,6 +5484,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5527,6 +5527,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1011,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5541,6 +5542,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1014,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5569,6 +5571,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1016,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5585,20 +5588,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "weeks": 1,
   "asOf": "2026-08-31",
   "source": "wta-official"
- },
- {
-  "playerId": "corn-m-n2",
-  "name": "Cezar Gabriel Papoe",
-  "teamId": "corn-m",
-  "teamName": "Cornell",
-  "former": false,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 1021,
-  "change": null,
-  "weeks": null,
-  "asOf": "2026-08-31",
-  "source": "atp-deep(tennisabstract)"
  },
  {
   "playerId": "aub-p7",
@@ -5625,6 +5614,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1022,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5639,6 +5629,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1024,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5667,6 +5658,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1027,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5681,6 +5673,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1029,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5695,6 +5688,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1035,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5709,6 +5703,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1037,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5737,6 +5732,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1040,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5765,6 +5761,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1049,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5779,6 +5776,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1050,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5793,6 +5791,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1053,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5807,6 +5806,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1056,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5835,6 +5835,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1061,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5877,6 +5878,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1070,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5905,6 +5907,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1074,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5919,6 +5922,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1075,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5961,6 +5965,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1080,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -5989,6 +5994,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1086,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6017,6 +6023,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1089,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6031,6 +6038,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1089,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6045,6 +6053,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1091,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6059,6 +6068,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1093,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6073,6 +6083,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1098,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6087,6 +6098,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1104,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6129,6 +6141,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1105,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6157,6 +6170,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1112,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6171,6 +6185,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1113,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6185,6 +6200,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1118,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6227,6 +6243,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1127,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6255,6 +6272,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1129,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6269,6 +6287,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1130,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6283,20 +6302,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1131,
   "change": null,
   "weeks": null,
-  "asOf": "2026-08-31",
-  "source": "atp-deep(tennisabstract)"
- },
- {
-  "playerId": "uga-m-n8",
-  "name": "William Jansen",
-  "teamId": "uga-m",
-  "teamName": "Georgia",
-  "former": false,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 1132,
-  "change": null,
-  "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6311,6 +6317,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1135,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6325,6 +6332,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1136,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6339,6 +6347,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1138,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6395,6 +6404,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1153,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6409,6 +6419,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1154,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6423,6 +6434,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1155,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6451,6 +6463,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1164,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6465,6 +6478,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1166,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6521,20 +6535,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1182,
   "change": null,
   "weeks": null,
-  "asOf": "2026-08-31",
-  "source": "atp-deep(tennisabstract)"
- },
- {
-  "playerId": "tamu-m-n1",
-  "name": "Alexander Frusina",
-  "teamId": "tamu-m",
-  "teamName": "Texas A&M",
-  "former": false,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 1186,
-  "change": null,
-  "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6563,6 +6564,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1188,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6577,6 +6579,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1189,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6633,6 +6636,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1207,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6647,6 +6651,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1208,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6661,6 +6666,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1209,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6675,6 +6681,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1211,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6689,6 +6696,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1213,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6703,6 +6711,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1214,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6717,6 +6726,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1215,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6745,6 +6755,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1223,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6787,6 +6798,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1232,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6801,6 +6813,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1233,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6829,6 +6842,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1241,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6857,6 +6871,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1248,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6885,6 +6900,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1248,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6913,6 +6929,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1254,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6927,6 +6944,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1255,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6941,6 +6959,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1255,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6969,6 +6988,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1258,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6983,6 +7003,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1261,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -6997,6 +7018,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1263,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7011,6 +7033,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1264,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7039,6 +7062,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1283,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7053,6 +7077,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1286,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7067,6 +7092,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1288,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7081,6 +7107,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1288,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7109,6 +7136,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1292,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7123,6 +7151,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1294,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7137,6 +7166,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1296,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7151,6 +7181,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1297,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7165,6 +7196,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1298,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7179,6 +7211,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1301,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7193,6 +7226,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1304,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7221,6 +7255,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1306,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7249,6 +7284,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1310,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7263,6 +7299,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1317,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7347,6 +7384,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1340,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7361,6 +7399,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1341,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7375,6 +7414,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1342,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7403,6 +7443,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1342,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7417,6 +7458,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1344,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7487,6 +7529,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1352,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7501,6 +7544,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1356,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7515,6 +7559,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1358,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7529,6 +7574,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1358,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7571,6 +7617,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1371,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7599,6 +7646,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1375,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7613,6 +7661,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1377,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7627,6 +7676,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1378,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7641,6 +7691,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1378,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7655,6 +7706,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1381,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7669,6 +7721,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1383,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7697,6 +7750,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1388,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7781,6 +7835,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1399,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7795,6 +7850,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1405,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7809,6 +7865,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1412,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7823,6 +7880,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1412,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7837,6 +7895,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1412,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7865,6 +7924,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1417,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7879,6 +7939,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1421,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -7963,6 +8024,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1452,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8005,6 +8067,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1457,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8019,6 +8082,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1458,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8033,6 +8097,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1459,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8047,6 +8112,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1462,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8061,6 +8127,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1467,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8075,6 +8142,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1468,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8089,6 +8157,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1468,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8103,6 +8172,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1468,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8117,6 +8187,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1470,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8131,6 +8202,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1474,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8145,6 +8217,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1474,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8159,6 +8232,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1475,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8187,6 +8261,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1481,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8201,6 +8276,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1481,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8313,6 +8389,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1497,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8327,6 +8404,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1499,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8341,6 +8419,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1503,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8355,6 +8434,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1513,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8369,6 +8449,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1513,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8383,6 +8464,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1518,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8411,6 +8493,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1519,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8425,6 +8508,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1523,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8495,6 +8579,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1527,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8509,6 +8594,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1529,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8523,6 +8609,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1532,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8537,6 +8624,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1536,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8551,6 +8639,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1536,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8565,6 +8654,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1539,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8579,6 +8669,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1540,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8593,6 +8684,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1541,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8607,6 +8699,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1551,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8621,6 +8714,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1556,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8635,6 +8729,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1556,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8649,6 +8744,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1571,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8663,6 +8759,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1573,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8677,6 +8774,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1591,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8691,6 +8789,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1597,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8705,6 +8804,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1597,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8719,6 +8819,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1597,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8733,6 +8834,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1597,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8747,6 +8849,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1597,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8761,6 +8864,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1608,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8775,6 +8879,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1608,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8789,6 +8894,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1613,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8803,6 +8909,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1618,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8817,6 +8924,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1618,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8831,6 +8939,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1618,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8845,6 +8954,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1618,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8859,6 +8969,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1633,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8873,6 +8984,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1633,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8887,6 +8999,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1633,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8901,6 +9014,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1633,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8915,6 +9029,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1647,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8929,6 +9044,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1647,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8943,6 +9059,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1647,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8957,6 +9074,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1657,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8971,6 +9089,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1657,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8985,6 +9104,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1662,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -8999,6 +9119,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1663,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9013,6 +9134,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1676,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9027,6 +9149,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1699,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9041,6 +9164,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1699,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9055,6 +9179,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1699,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9069,6 +9194,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1699,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9083,6 +9209,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1708,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9097,6 +9224,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1716,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9111,6 +9239,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1718,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9125,6 +9254,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1724,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9139,6 +9269,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1724,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9153,6 +9284,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1724,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9167,6 +9299,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1724,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9181,6 +9314,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1724,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9195,6 +9329,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1724,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9209,6 +9344,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1724,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9223,6 +9359,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1746,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9237,6 +9374,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1746,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9251,6 +9389,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1746,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9265,6 +9404,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1746,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9279,6 +9419,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1746,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9293,6 +9434,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1759,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9307,6 +9449,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1759,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9321,6 +9464,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1759,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9335,6 +9479,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1759,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9349,6 +9494,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1774,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9363,6 +9509,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1774,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9377,6 +9524,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1782,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9391,6 +9539,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1782,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9405,6 +9554,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1782,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9419,6 +9569,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1782,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9433,6 +9584,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1811,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9447,6 +9599,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1811,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9461,6 +9614,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1811,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9475,6 +9629,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1811,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9489,6 +9644,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1811,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9503,6 +9659,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1838,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9517,6 +9674,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1838,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9531,6 +9689,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1838,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9545,6 +9704,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1838,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9559,6 +9719,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1838,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9573,6 +9734,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1838,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9587,6 +9749,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1838,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9601,6 +9764,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1838,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9615,6 +9779,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1860,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9629,6 +9794,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1860,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9643,6 +9809,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1860,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9657,6 +9824,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1860,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9671,6 +9839,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1860,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9685,6 +9854,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1860,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9699,6 +9869,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1875,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9713,6 +9884,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1875,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9727,6 +9899,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1875,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9741,6 +9914,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1875,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9755,6 +9929,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1890,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9769,6 +9944,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1906,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9783,6 +9959,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1920,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9797,6 +9974,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1923,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9811,6 +9989,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1923,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9825,6 +10004,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1923,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9839,6 +10019,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1923,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9853,6 +10034,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1923,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9867,6 +10049,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1923,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9881,6 +10064,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1923,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9895,6 +10079,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1923,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9909,6 +10094,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1923,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9923,6 +10109,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1923,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9937,6 +10124,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1923,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9951,6 +10139,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1923,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9965,6 +10154,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1923,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9979,6 +10169,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1923,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -9993,6 +10184,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1923,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10007,6 +10199,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1923,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10021,6 +10214,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10035,6 +10229,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10049,6 +10244,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10063,6 +10259,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10077,6 +10274,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10091,6 +10289,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10105,6 +10304,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10119,6 +10319,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10133,6 +10334,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10147,6 +10349,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10161,6 +10364,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10175,6 +10379,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10189,6 +10394,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10203,6 +10409,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10217,6 +10424,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10231,6 +10439,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10245,6 +10454,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10259,6 +10469,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2003,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10273,6 +10484,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10287,6 +10499,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10301,6 +10514,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10315,6 +10529,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10329,6 +10544,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10343,6 +10559,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10357,6 +10574,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10371,6 +10589,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10385,6 +10604,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10399,6 +10619,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10413,6 +10634,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10427,6 +10649,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10441,6 +10664,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10455,6 +10679,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10469,6 +10694,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10483,6 +10709,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10497,6 +10724,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10511,6 +10739,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10525,6 +10754,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10539,6 +10769,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10553,6 +10784,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2087,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10567,6 +10799,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2162,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10581,6 +10814,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2162,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10595,6 +10829,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2162,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10609,6 +10844,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2162,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10623,6 +10859,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2162,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10637,6 +10874,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2162,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10651,6 +10889,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2211,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10665,6 +10904,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2211,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10679,6 +10919,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2211,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10693,6 +10934,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2245,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10707,6 +10949,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2245,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10721,6 +10964,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2245,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10735,6 +10979,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2245,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10749,6 +10994,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2270,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  },
@@ -10763,6 +11009,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 2282,
   "change": null,
   "weeks": null,
+  "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
  }
@@ -10880,6 +11127,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
  "aub-w-h2": {
   "position": 1086,
   "date": "2019-09-30"
+ },
+ "bay-m-fp64": {
+  "position": 889,
+  "date": "2026-08-23"
  },
  "bay-m-h10": {
   "position": 1704,
@@ -11301,6 +11552,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
   "position": 900,
   "date": "2026-02-16"
  },
+ "lsu-m-p6": {
+  "position": 897,
+  "date": "2025-05-26"
+ },
  "lsu-w-h1": {
   "position": 891,
   "date": "2021-06-14"
@@ -11485,6 +11740,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
   "position": 852,
   "date": "2025-01-06"
  },
+ "nd-m-fp153": {
+  "position": 900,
+  "date": "2026-08-23"
+ },
  "nd-w-p1": {
   "position": 899,
   "date": "2022-10-10"
@@ -11580,6 +11839,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
  "ore-w-h5": {
   "position": 739,
   "date": "2026-08-24"
+ },
+ "osu-m-fp277": {
+  "position": 887,
+  "date": "2026-08-23"
  },
  "osu-m-h8": {
   "position": 781,
@@ -11740,6 +12003,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
  "prin-m-p3": {
   "position": 580,
   "date": "2026-08-10"
+ },
+ "prin-m-p6": {
+  "position": 886,
+  "date": "2026-08-23"
  },
  "psu-m-h16": {
   "position": 1852,
@@ -12240,6 +12507,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
  "uk-m-p5": {
   "position": 830,
   "date": "2025-01-06"
+ },
+ "unc-m-fp362": {
+  "position": 1367,
+  "date": "2026-08-23"
  },
  "unc-m-h16": {
   "position": 856,
@@ -12895,6 +13166,18 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "cal-m-h7": [
   867
  ],
+ "cal-m-p5": [
+  655,
+  656,
+  660,
+  635,
+  635,
+  633,
+  636,
+  643,
+  609,
+  613
+ ],
  "cal-w-h1": [
   334,
   332,
@@ -13238,6 +13521,18 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   852,
   850,
   733
+ ],
+ "fsu-m-n2": [
+  711,
+  714,
+  707,
+  709,
+  717,
+  735,
+  737,
+  741,
+  729,
+  739
  ],
  "fsu-w-h2": [
   619,
@@ -13644,6 +13939,18 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   742,
   654,
   645
+ ],
+ "miss-m-n3": [
+  647,
+  648,
+  664,
+  658,
+  667,
+  661,
+  665,
+  672,
+  739,
+  748
  ],
  "miss-m-p2": [
   857,
@@ -14239,19 +14546,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   478,
   462
  ],
- "ou-w-n2": [
-  520,
-  516,
-  469,
-  475,
-  488,
-  487,
-  445,
-  440,
-  448,
-  443,
-  478
- ],
  "ou-w-n3": [
   534,
   442,
@@ -14262,8 +14556,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   413,
   404,
   414,
-  401,
-  418
+  401
  ],
  "penn-w-h1": [
   746,
@@ -14585,14 +14878,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   337,
   338
  ],
- "tamu-m-n3": [
-  837,
-  708,
-  716,
-  721,
-  725,
-  711
- ],
  "tamu-m-n4": [
   445,
   429,
@@ -14709,6 +14994,17 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   588,
   573,
   612
+ ],
+ "tcu-m-fp104": [
+  771,
+  778,
+  850,
+  818,
+  816,
+  809,
+  806,
+  797,
+  802
  ],
  "tcu-m-fp28": [
   823,
@@ -15190,6 +15486,18 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   700,
   707
  ],
+ "ucf-m-fp42": [
+  510,
+  511,
+  541,
+  479,
+  470,
+  467,
+  474,
+  485,
+  483,
+  487
+ ],
  "ucf-m-h5": [
   591,
   603,
@@ -15428,6 +15736,12 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   829,
   842,
   823
+ ],
+ "uga-m-p7": [
+  895,
+  893,
+  893,
+  900
  ],
  "uga-p2": [
   885,
@@ -16201,6 +16515,11 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   873,
   883
  ],
+ "yale-m-fp149": [
+  770,
+  749,
+  759
+ ],
  "uga-p5": [
   1038
  ],
@@ -16606,9 +16925,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "uga-m-p6": [
   1258
  ],
- "uga-m-p7": [
-  993
- ],
  "uga-m-p8": [
   1860
  ],
@@ -16840,9 +17156,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "cal-m-p3": [
   1699
  ],
- "cal-m-p5": [
-  613
- ],
  "cal-m-p8": [
   2003
  ],
@@ -16894,9 +17207,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "asu-m-fp39": [
   1356
  ],
- "ucf-m-fp42": [
-  487
- ],
  "ucf-m-fp44": [
   1759
  ],
@@ -16918,14 +17228,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "fsu-m-fp100": [
   1811
  ],
- "tcu-m-fp104": [
-  802
- ],
  "ncst-m-fp116": [
   1774
- ],
- "yale-m-fp149": [
-  759
  ],
  "nd-m-fp153": [
   966
@@ -17035,9 +17339,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "aub-m-n4": [
   1297
  ],
- "corn-m-n2": [
-  1021
- ],
  "corn-m-n3": [
   1811
  ],
@@ -17052,9 +17353,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  ],
  "fla-m-n2": [
   1388
- ],
- "fsu-m-n2": [
-  739
  ],
  "fsu-m-n3": [
   1378
@@ -17076,9 +17374,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  ],
  "miss-m-n1": [
   1255
- ],
- "miss-m-n3": [
-  748
  ],
  "msst-m-n2": [
   1053
@@ -17110,9 +17405,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "scu-m-n3": [
   1716
  ],
- "tamu-m-n1": [
-  1186
- ],
  "tamu-m-n6": [
   1248
  ],
@@ -17139,9 +17431,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  ],
  "ucla-m-n5": [
   1310
- ],
- "uga-m-n8": [
-  1132
  ],
  "uga-m-n1": [
   1292

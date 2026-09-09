@@ -92,14 +92,6 @@ export const collegeRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.colle
   "listId": "2026-27_d1_women_singles_p2_v1",
   "region": null
  },
- "ou-w-n2": {
-  "rank": 105,
-  "wins": 0,
-  "losses": 0,
-  "listDate": "2026-08-25",
-  "listId": "2026-27_d1_women_singles_p2_v1",
-  "region": null
- },
  "tex-w-n2": {
   "rank": 111,
   "wins": 0,
@@ -246,14 +238,6 @@ export const collegeRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.colle
  },
  "lsu-m-n2": {
   "rank": 99,
-  "wins": 0,
-  "losses": 0,
-  "listDate": "2026-08-25",
-  "listId": "2026-27_d1_men_singles_p2_v2",
-  "region": null
- },
- "corn-m-n2": {
-  "rank": 100,
   "wins": 0,
   "losses": 0,
   "listDate": "2026-08-25",
@@ -742,14 +726,6 @@ export const collegeRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.colle
  },
  "stan-m-p3": {
   "rank": 56,
-  "wins": 0,
-  "losses": 0,
-  "listDate": "2026-08-25",
-  "listId": "2026-27_d1_men_singles_p2_v2",
-  "region": null
- },
- "tamu-m-n1": {
-  "rank": 57,
   "wins": 0,
   "losses": 0,
   "listDate": "2026-08-25",
@@ -3226,18 +3202,6 @@ export const doublesRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.doubl
   "listId": "2026-27_d1_men_doubles_p1_v3",
   "region": null
  },
- "tamu-m-n1|tamu-m-p9": {
-  "rank": 31,
-  "wins": 0,
-  "losses": 0,
-  "players": [
-   "tamu-m-n1",
-   "tamu-m-p9"
-  ],
-  "listDate": "2026-08-25",
-  "listId": "2026-27_d1_men_doubles_p1_v3",
-  "region": null
- },
  "unc-m-p10|unc-m-p7": {
   "rank": 32,
   "wins": 0,
@@ -3617,18 +3581,6 @@ export const doublesRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.doubl
   "players": [
    "asu-m-p10",
    "asu-m-p6"
-  ],
-  "listDate": "2026-08-25",
-  "listId": "2026-27_d1_men_doubles_p1_v3",
-  "region": null
- },
- "tamu-m-n3|tamu-m-n6": {
-  "rank": 66,
-  "wins": 0,
-  "losses": 0,
-  "players": [
-   "tamu-m-n3",
-   "tamu-m-n6"
   ],
   "listDate": "2026-08-25",
   "listId": "2026-27_d1_men_doubles_p1_v3",
@@ -4114,18 +4066,6 @@ export const doublesRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.doubl
   "listId": "2026-27_d1_women_doubles_p2_v5",
   "region": null
  },
- "ou-p4|ou-w-n2": {
-  "rank": 22,
-  "wins": 0,
-  "losses": 0,
-  "players": [
-   "ou-p4",
-   "ou-w-n2"
-  ],
-  "listDate": "2026-08-25",
-  "listId": "2026-27_d1_women_doubles_p2_v5",
-  "region": null
- },
  "ncst-w-p1|ncst-w-p3": {
   "rank": 23,
   "wins": 0,
@@ -4457,18 +4397,6 @@ export const doublesRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.doubl
   "players": [
    "duke-w-p2",
    "duke-w-p4"
-  ],
-  "listDate": "2026-08-25",
-  "listId": "2026-27_d1_women_doubles_p2_v5",
-  "region": null
- },
- "fsu-w-n1|fsu-w-p6": {
-  "rank": 53,
-  "wins": 0,
-  "losses": 0,
-  "players": [
-   "fsu-w-n1",
-   "fsu-w-p6"
   ],
   "listDate": "2026-08-25",
   "listId": "2026-27_d1_women_doubles_p2_v5",
