@@ -463,7 +463,9 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Senior",
   "hometown": null,
   "nationality": "Japan",
-  "former": false
+  "former": false,
+  "atpCareerHigh": 312,
+  "atpCareerHighDate": "2026-08-31"
  },
  "ariz-m-fp225": {
   "classYear": "Senior",
@@ -912,13 +914,17 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Sophomore",
   "hometown": "Badalona, Spain",
   "nationality": "Spain",
-  "former": false
+  "former": false,
+  "atpCareerHigh": 1200,
+  "atpCareerHighDate": "2025-07-21"
  },
  "aub-m-p10": {
   "classYear": "Sophomore",
   "hometown": "Segur de Calafell, Spain",
   "nationality": "Spain",
-  "former": false
+  "former": false,
+  "atpCareerHigh": 1139,
+  "atpCareerHighDate": "2025-05-19"
  },
  "aub-m-p3": {
   "former": true
@@ -2960,7 +2966,9 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Freshman",
   "hometown": "Gothenburg, Sweden",
   "nationality": "Sweden",
-  "former": false
+  "former": false,
+  "atpCareerHigh": 1649,
+  "atpCareerHighDate": "2026-08-24"
  },
  "duke-m-p2": {
   "classYear": "Freshman",
@@ -3771,7 +3779,9 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Junior",
   "hometown": null,
   "nationality": "Italy",
-  "former": false
+  "former": false,
+  "atpCareerHigh": 1735,
+  "atpCareerHighDate": "2026-07-27"
  },
  "gt-m-fp201": {
   "former": true
@@ -3834,7 +3844,9 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Senior",
   "hometown": "Charlottenlund, Denmark",
   "nationality": "Denmark",
-  "former": false
+  "former": false,
+  "atpCareerHigh": 1772,
+  "atpCareerHighDate": "2026-08-10"
  },
  "harv-m-p8": {
   "classYear": "Senior",
@@ -6717,7 +6729,9 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Senior",
   "hometown": "Bucharest, Romania",
   "nationality": "Romania",
-  "former": false
+  "former": false,
+  "atpCareerHigh": 1052,
+  "atpCareerHighDate": "2026-08-31"
  },
  "ore-m-p10": {
   "classYear": "Senior",
@@ -7046,7 +7060,9 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Junior",
   "hometown": "Mallorca, Spain",
   "nationality": "Spain",
-  "former": false
+  "former": false,
+  "atpCareerHigh": 1123,
+  "atpCareerHighDate": "2023-12-18"
  },
  "ou-m-p5": {
   "classYear": "Sophomore",
@@ -9544,7 +9560,9 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Senior",
   "hometown": "Asunción, Paraguay",
   "nationality": "Paraguay",
-  "former": false
+  "former": false,
+  "wtaCareerHigh": 1053,
+  "wtaCareerHighDate": "2026-07-20"
  },
  "tenn-p5": {
   "classYear": "Junior",
@@ -9777,7 +9795,9 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Junior",
   "hometown": "Kuala Lumpur, Malaysia",
   "nationality": "Malaysia",
-  "former": false
+  "former": false,
+  "atpCareerHigh": 1713,
+  "atpCareerHighDate": "2026-08-24"
  },
  "ttu-m-p6": {
   "classYear": "Senior",
@@ -9791,7 +9811,9 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Junior",
   "hometown": "Malaga, Spain",
   "nationality": "Spain",
-  "former": false
+  "former": false,
+  "atpCareerHigh": 1591,
+  "atpCareerHighDate": "2026-08-24"
  },
  "ttu-m-p3": {
   "classYear": "Junior",
@@ -11355,7 +11377,9 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Sophomore",
   "hometown": "Richmond Hill, Ontario, Canada",
   "nationality": "Canada",
-  "former": false
+  "former": false,
+  "atpCareerHigh": 978,
+  "atpCareerHighDate": "2025-11-17"
  },
  "uk-m-p2": {
   "classYear": "Sophomore",
@@ -11483,7 +11507,9 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Junior",
   "hometown": "Turin, Italy",
   "nationality": "Italy",
-  "former": false
+  "former": false,
+  "wtaCareerHigh": 941,
+  "wtaCareerHighDate": "2026-08-10"
  },
  "umd-w-p9": {
   "classYear": "Junior",
@@ -11910,7 +11936,9 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Senior",
   "hometown": "Arnsberg, Germany",
   "nationality": "Germany",
-  "former": false
+  "former": false,
+  "atpCareerHigh": 1312,
+  "atpCareerHighDate": "2026-07-27"
  },
  "usd-m-p3": {
   "classYear": "Junior",
@@ -12524,7 +12552,9 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Sophomore",
   "hometown": "Oviedo, Spain",
   "nationality": "Spain",
-  "former": false
+  "former": false,
+  "wtaCareerHigh": 1152,
+  "wtaCareerHighDate": "2026-08-24"
  },
  "uva-w-p7": {
   "classYear": "Sophomore",
@@ -13012,7 +13042,9 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "3rd",
   "hometown": "Montreal, Canada",
   "nationality": "Canada",
-  "former": false
+  "former": false,
+  "atpCareerHigh": 1592,
+  "atpCareerHighDate": "2025-09-08"
  },
  "wash-m-p5": {
   "classYear": "3rd",
@@ -13406,7 +13438,9 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Senior",
   "hometown": null,
   "nationality": "Spain",
-  "former": false
+  "former": false,
+  "wtaCareerHigh": 1327,
+  "wtaCareerHighDate": "2026-07-13"
  },
  "wsu-w-p6": {
   "classYear": "Senior",
@@ -14059,6 +14093,26 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
  "minn-w-n2": {
   "wtaCareerHigh": 1317,
   "wtaCareerHighDate": "2026-04-20"
+ },
+ "ou-m-n1": {
+  "atpCareerHigh": 691,
+  "atpCareerHighDate": "2026-08-24"
+ },
+ "ncst-m-n1": {
+  "atpCareerHigh": 598,
+  "atpCareerHighDate": "2021-11-29"
+ },
+ "bay-w-n1": {
+  "wtaCareerHigh": 1186,
+  "wtaCareerHighDate": "2024-09-23"
+ },
+ "ncst-m-n2": {
+  "atpCareerHigh": 1101,
+  "atpCareerHighDate": "2026-06-08"
+ },
+ "fla-m-n3": {
+  "atpCareerHigh": 1461,
+  "atpCareerHighDate": "2026-07-27"
  }
 };
 export const refresh2627TeamSeasons = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.refresh2627TeamSeasons ?? __r?.refresh2627TeamSeasons ?? {
