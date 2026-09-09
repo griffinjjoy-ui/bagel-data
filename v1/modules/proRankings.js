@@ -237,7 +237,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 90,
-  "change": 11,
+  "change": -2,
   "weeks": 11,
   "asOf": "2026-08-24"
  },
@@ -474,7 +474,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 184,
-  "change": 19,
+  "change": 2,
   "weeks": 10,
   "asOf": "2026-08-24"
  },
@@ -781,7 +781,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 284,
-  "change": 102,
+  "change": 6,
   "weeks": 10,
   "asOf": "2026-08-24"
  },
@@ -1046,7 +1046,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 331,
-  "change": 20,
+  "change": 0,
   "weeks": 10,
   "asOf": "2026-08-24"
  },
@@ -1059,7 +1059,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 334,
-  "change": 46,
+  "change": 7,
   "weeks": 10,
   "asOf": "2026-08-10"
  },
@@ -1398,7 +1398,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 401,
-  "change": 133,
+  "change": 13,
   "weeks": 10,
   "asOf": "2026-08-10"
  },
@@ -1720,7 +1720,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 462,
-  "change": -50,
+  "change": 16,
   "weeks": 10,
   "asOf": "2026-08-24"
  },
@@ -1733,7 +1733,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 465,
-  "change": 41,
+  "change": 16,
   "weeks": 10,
   "asOf": "2026-08-24"
  },
@@ -1830,7 +1830,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 481,
-  "change": -101,
+  "change": -9,
   "weeks": 10,
   "asOf": "2026-08-24"
  },
@@ -1857,7 +1857,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 487,
-  "change": 23,
+  "change": -4,
   "weeks": 10,
   "asOf": "2026-08-31"
  },
@@ -1913,7 +1913,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 498,
-  "change": -12,
+  "change": -10,
   "weeks": 10,
   "asOf": "2026-08-24"
  },
@@ -1954,7 +1954,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 500,
-  "change": -22,
+  "change": -35,
   "weeks": 11,
   "asOf": "2026-08-24"
  },
@@ -1981,7 +1981,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 501,
-  "change": -191,
+  "change": -140,
   "weeks": 11,
   "asOf": "2026-08-24"
  },
@@ -2078,7 +2078,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 513,
-  "change": 63,
+  "change": 4,
   "weeks": 10,
   "asOf": "2026-08-10"
  },
@@ -2233,7 +2233,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 553,
-  "change": -96,
+  "change": 9,
   "weeks": 10,
   "asOf": "2026-08-10"
  },
@@ -3385,7 +3385,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 720,
-  "change": -147,
+  "change": -2,
   "weeks": 8,
   "asOf": "2026-07-27"
  },
@@ -3539,7 +3539,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 739,
-  "change": -28,
+  "change": -10,
   "weeks": 10,
   "asOf": "2026-08-31"
  },
@@ -3595,7 +3595,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 748,
-  "change": -101,
+  "change": -9,
   "weeks": 10,
   "asOf": "2026-08-31"
  },
@@ -3720,7 +3720,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 759,
-  "change": 11,
+  "change": -10,
   "weeks": 3,
   "asOf": "2026-08-31"
  },
@@ -3747,7 +3747,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 762,
-  "change": -19,
+  "change": -7,
   "weeks": 9,
   "asOf": "2026-08-10"
  },
@@ -3859,7 +3859,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 781,
-  "change": -25,
+  "change": -8,
   "weeks": 5,
   "asOf": "2026-07-13"
  },
@@ -3915,7 +3915,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 802,
-  "change": -31,
+  "change": -5,
   "weeks": 9,
   "asOf": "2026-08-31"
  },
@@ -3928,7 +3928,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 804,
-  "change": 46,
+  "change": -4,
   "weeks": 3,
   "asOf": "2026-08-24"
  },
@@ -4012,7 +4012,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 811,
-  "change": -184,
+  "change": -8,
   "weeks": 9,
   "asOf": "2026-08-10"
  },
@@ -4025,7 +4025,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 812,
-  "change": -16,
+  "change": -2,
   "weeks": 5,
   "asOf": "2026-06-29"
  },
@@ -4166,7 +4166,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 822,
-  "change": -169,
+  "change": -42,
   "weeks": 10,
   "asOf": "2026-08-10"
  },
@@ -4517,7 +4517,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 864,
-  "change": -161,
+  "change": -83,
   "weeks": 5,
   "asOf": "2026-07-13"
  },
@@ -4543,7 +4543,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 866,
-  "change": -4,
+  "change": -10,
   "weeks": 3,
   "asOf": "2026-06-15"
  },
@@ -4570,7 +4570,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 867,
-  "change": 0,
+  "change": null,
   "weeks": 1,
   "asOf": "2026-06-08"
  },
@@ -4612,7 +4612,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 868,
-  "change": -45,
+  "change": -21,
   "weeks": 4,
   "asOf": "2026-06-29"
  },
@@ -4639,7 +4639,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 871,
-  "change": -177,
+  "change": -15,
   "weeks": 10,
   "asOf": "2026-08-10"
  },
@@ -4722,7 +4722,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 875,
-  "change": -125,
+  "change": -107,
   "weeks": 3,
   "asOf": "2026-06-15"
  },
@@ -4875,7 +4875,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 893,
-  "change": -27,
+  "change": 4,
   "weeks": 5,
   "asOf": "2026-08-24"
  },
@@ -4888,7 +4888,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 896,
-  "change": -14,
+  "change": -13,
   "weeks": 4,
   "asOf": "2026-06-29"
  },
@@ -4944,7 +4944,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 900,
-  "change": -9,
+  "change": -7,
   "weeks": 6,
   "asOf": "2026-07-13"
  },
