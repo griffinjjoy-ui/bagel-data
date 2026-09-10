@@ -1,5 +1,5 @@
 {
- "version": "5213d2301d",
+ "version": "f3c11fd1e8",
  "asOf": "2026-09-10",
  "files": {
   "proRankings.js": {
@@ -7,8 +7,8 @@
    "bytes": 286424
   },
   "onTourWeek.js": {
-   "hash": "c26ae30045",
-   "bytes": 413990
+   "hash": "3ac04083ae",
+   "bytes": 416153
   },
   "upcoming.js": {
    "hash": "dbd75006dc",
@@ -35,7 +35,7 @@
    "bytes": 752
   },
   "drawFixtures.js": {
-   "hash": "d355c1a90c",
+   "hash": "2a6f3478cb",
    "bytes": 49771
   },
   "itaTournaments.js": {
