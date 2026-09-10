@@ -164,12 +164,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ou-w-h9",
+  "name": "Florencia Urrutia",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Ana Julieta Lopez Ocampos",
+  "event": "W15 Pilar",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
   "playerId": "ncst-w-h5",
   "name": "Gina Dittmann",
   "teamId": "ncst-w",
   "gender": "women",
   "opponent": "Sarah Iliev",
   "event": "W15 Dijon",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
+  "playerId": "wake-m-h17",
+  "name": "Ioannis Xilas",
+  "teamId": "wake-m",
+  "gender": "men",
+  "opponent": "Reda El Aouni",
+  "event": "M25 Rabat",
   "date": "2026-09-10",
   "day": "today"
  },
@@ -290,16 +310,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Katie Swan",
   "event": "W50 Evora",
-  "date": "2026-09-10",
-  "day": "today"
- },
- {
-  "playerId": "tamu-w-h5",
-  "name": "Mary Stoiana",
-  "teamId": "tamu-w",
-  "gender": "women",
-  "opponent": "Julia Riera",
-  "event": "Kia Open - Barranquilla",
   "date": "2026-09-10",
   "day": "today"
  },
