@@ -135,6 +135,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-09"
  },
  {
+  "playerId": "mem-m-h2",
+  "name": "Conor Gannon",
+  "teamId": "mem-m",
+  "teamName": "Memphis",
+  "gender": "men",
+  "event": "M15 Hurghada",
+  "round": "First",
+  "won": true,
+  "opponent": "Markos Kalovelonis",
+  "result": "6-4 6-2",
+  "date": "2026-09-09"
+ },
+ {
   "playerId": "pepp-m-h1",
   "name": "Daniel De Jonge",
   "teamId": "pepp-m",
@@ -1433,19 +1446,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "opponent": "Gabriella Da Silva Fick",
   "result": "3-6 6-4 6-3",
   "date": "2026-09-06"
- },
- {
-  "playerId": "mem-m-h2",
-  "name": "Conor Gannon",
-  "teamId": "mem-m",
-  "teamName": "Memphis",
-  "gender": "men",
-  "event": "M15 Hurghada",
-  "round": "1/2",
-  "won": false,
-  "opponent": "Dev Javia",
-  "result": "7-5 4-3 ret.",
-  "date": "2026-09-05"
  },
  {
   "playerId": "wsu-w-h7",
@@ -7665,11 +7665,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Memphis",
   "gender": "men",
   "event": "M15 Hurghada",
-  "round": "1/2",
-  "won": false,
-  "opponent": "Dev Javia",
-  "result": "7-5 4-3 ret.",
-  "date": "2026-09-05"
+  "round": "First",
+  "won": true,
+  "opponent": "Markos Kalovelonis",
+  "result": "6-4 6-2",
+  "date": "2026-09-09"
  },
  "mem-m-h5": {
   "playerId": "mem-m-h5",
