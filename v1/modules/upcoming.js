@@ -34,6 +34,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "uga-w-h2",
+  "name": "Ania Hertel",
+  "teamId": "uga-w",
+  "gender": "women",
+  "opponent": "Sara Husar",
+  "event": "W15 Radom",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
   "playerId": "neb-m-h9",
   "name": "Anton Shepp",
   "teamId": "neb-m",
@@ -84,6 +94,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "wash-m-h10",
+  "name": "Clement Chidekh",
+  "teamId": "wash-m",
+  "gender": "men",
+  "opponent": "Axel Garcian",
+  "event": "M25 Plaisir",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
   "playerId": "mem-m-h2",
   "name": "Conor Gannon",
   "teamId": "mem-m",
@@ -100,6 +120,36 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Agnese Gentili",
   "event": "W15 Viserba di Rimini",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
+  "playerId": "tenn-m-h5",
+  "name": "Emile Hudd",
+  "teamId": "tenn-m",
+  "gender": "men",
+  "opponent": "Filippo Moroni",
+  "event": "M25 Pozzuoli",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
+  "playerId": "lmu-w-h8",
+  "name": "Eva Marie Voracek",
+  "teamId": "lmu-w",
+  "gender": "women",
+  "opponent": "Carla Giambelli",
+  "event": "W15 Viserba di Rimini",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
+  "playerId": "wake-m-h3",
+  "name": "Filippo Moroni",
+  "teamId": "wake-m",
+  "gender": "men",
+  "opponent": "Emile Hudd",
+  "event": "M25 Pozzuoli",
   "date": "2026-09-10",
   "day": "today"
  },
@@ -134,6 +184,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "osu-m-fp278",
+  "name": "Jack Anthrop",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Giorgio Tabacco",
+  "event": "M25 Sintra",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
   "playerId": "ariz-m-fp226",
   "name": "Jay Friend",
   "teamId": "ariz-m",
@@ -164,6 +224,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "uva-w-h6",
+  "name": "Julia Adams",
+  "teamId": "uva-w",
+  "gender": "women",
+  "opponent": "Greta Nemcsek",
+  "event": "W15 Radom",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
   "playerId": "lsu-p6",
   "name": "Kayla Cross",
   "teamId": "lsu-w",
@@ -184,6 +254,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tenn-p3",
+  "name": "Leyla Britez Risso",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Michela Castro Zunino",
+  "event": "W15 Pilar",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
   "playerId": "tcu-m-h2",
   "name": "Luc Fomba",
   "teamId": "tcu-m",
@@ -200,6 +280,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Sonja Zhenikhova",
   "event": "W15 Radom",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-w-h5",
+  "name": "Malaika Rapolu",
+  "teamId": "tex-w",
+  "gender": "women",
+  "opponent": "Katie Swan",
+  "event": "W50 Evora",
   "date": "2026-09-10",
   "day": "today"
  },
@@ -234,6 +324,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "wake-m-h1",
+  "name": "Melios Efstathiou",
+  "teamId": "wake-m",
+  "gender": "men",
+  "opponent": "Mariano Tammaro",
+  "event": "M25 Pozzuoli",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
   "playerId": "uk-m-h10",
   "name": "Millen Hurrion",
   "teamId": "uk-m",
@@ -264,12 +364,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "usc-m-h10",
+  "name": "Oscar Weightman",
+  "teamId": "usc-m",
+  "gender": "men",
+  "opponent": "Tiago Cacao",
+  "event": "M25 Sintra",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
   "playerId": "fla-m-p8",
   "name": "Pablo Perez Ramos",
   "teamId": "fla-m",
   "gender": "men",
   "opponent": "Arjun Mehrotra",
   "event": "M15 Bali",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
+  "playerId": "unc-m-h13",
+  "name": "Patrick Schoen",
+  "teamId": "unc-m",
+  "gender": "men",
+  "opponent": "Benjamin Thomas George",
+  "event": "M25 Sintra",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
+  "playerId": "ucla-m-h5",
+  "name": "Patrick Zahraj",
+  "teamId": "ucla-m",
+  "gender": "men",
+  "opponent": "Sven Corbinais",
+  "event": "M25 Plaisir",
   "date": "2026-09-10",
   "day": "today"
  },
@@ -284,12 +414,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "unc-w-p2",
+  "name": "Reese Brantmeier",
+  "teamId": "unc-w",
+  "gender": "women",
+  "opponent": "Aoi Ito",
+  "event": "W50 Evora",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
   "playerId": "uga-m-h1",
   "name": "Ryan Colby",
   "teamId": "uga-m",
   "gender": "men",
   "opponent": "Finn Murgett",
   "event": "M25 Sintra",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
+  "playerId": "stan-m-fp374",
+  "name": "Samir Banerjee",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Karl Friberg",
+  "event": "M25 Plaisir",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
+  "playerId": "tenn-w-h9",
+  "name": "Sofia Cabezas",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Maria Sofia Madrid Rocca",
+  "event": "W15 Pilar",
   "date": "2026-09-10",
   "day": "today"
  },
@@ -310,6 +470,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Mohamed Nazim Makhlouf",
   "event": "M15 Monastir",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
+  "playerId": "lou-m-fp70",
+  "name": "Walid Ahouda",
+  "teamId": "lou-m",
+  "gender": "men",
+  "opponent": "Karim Bennani",
+  "event": "M25 Rabat",
+  "date": "2026-09-10",
+  "day": "today"
+ },
+ {
+  "playerId": "asu-m-p9",
+  "name": "Xavi Palomar",
+  "teamId": "asu-m",
+  "gender": "men",
+  "opponent": "Anas Mazdrashki",
+  "event": "M25 Gijon",
   "date": "2026-09-10",
   "day": "today"
  },
