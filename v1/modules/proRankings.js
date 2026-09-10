@@ -3297,7 +3297,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "name": "Kholo Montsi",
   "teamId": "tamu-m",
   "teamName": "Texas A&M",
-  "former": false,
+  "former": true,
   "gender": "men",
   "tour": "ATP",
   "position": 711,
@@ -3305,6 +3305,21 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "weeks": 5,
   "asOf": "2026-08-31",
   "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "tamu-m-n8",
+  "name": "Khololwam Montsi",
+  "teamId": "tamu-m",
+  "teamName": "Texas A&M",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 711,
+  "change": null,
+  "weeks": null,
+  "high": null,
+  "asOf": "2026-08-31",
+  "source": "atp-deep(tennisabstract)"
  },
  {
   "playerId": "ucf-w-h5",
@@ -5192,20 +5207,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "mich-w-p9",
-  "name": "Emily Sartz-Lunde",
-  "teamId": "mich-w",
-  "teamName": "Michigan",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 943,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-08-31",
-  "source": "wta-official"
- },
- {
   "playerId": "duke-w-h6",
   "name": "Emma Jackson",
   "teamId": "duke-w",
@@ -5590,6 +5591,21 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "weeks": 1,
   "asOf": "2026-08-31",
   "source": "wta-official"
+ },
+ {
+  "playerId": "corn-m-n2",
+  "name": "Cezar Gabriel Papoe",
+  "teamId": "corn-m",
+  "teamName": "Cornell",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 1021,
+  "change": null,
+  "weeks": null,
+  "high": null,
+  "asOf": "2026-08-31",
+  "source": "atp-deep(tennisabstract)"
  },
  {
   "playerId": "aub-p7",
@@ -6339,6 +6355,21 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "uga-m-n8",
+  "name": "William Jansen",
+  "teamId": "uga-m",
+  "teamName": "Georgia",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 1132,
+  "change": null,
+  "weeks": null,
+  "high": null,
+  "asOf": "2026-08-31",
+  "source": "atp-deep(tennisabstract)"
+ },
+ {
   "playerId": "osu-m-p10",
   "name": "Denis Petak",
   "teamId": "osu-m",
@@ -6580,6 +6611,21 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "men",
   "tour": "ATP",
   "position": 1182,
+  "change": null,
+  "weeks": null,
+  "high": null,
+  "asOf": "2026-08-31",
+  "source": "atp-deep(tennisabstract)"
+ },
+ {
+  "playerId": "tamu-m-n7",
+  "name": "Alexander Frusina",
+  "teamId": "tamu-m",
+  "teamName": "Texas A&M",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 1186,
   "change": null,
   "weeks": null,
   "high": null,
@@ -7640,11 +7686,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "wta-official"
  },
  {
-  "playerId": "hou-w-p4",
-  "name": "Alexia Lavinia Puiac",
+  "playerId": "hou-w-fp130",
+  "name": "Alexia Puiac",
   "teamId": "hou-w",
   "teamName": "Houston",
-  "former": true,
+  "former": false,
   "gender": "women",
   "tour": "WTA",
   "position": 1371,
@@ -11708,6 +11754,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
   "position": 538,
   "date": "2026-08-10"
  },
+ "mich-w-fp400": {
+  "position": 871,
+  "date": "2026-07-20"
+ },
  "mich-w-h5": {
   "position": 1193,
   "date": "2019-12-30"
@@ -11719,10 +11769,6 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
  "mich-w-p3": {
   "position": 801,
   "date": "2026-08-10"
- },
- "mich-w-p9": {
-  "position": 871,
-  "date": "2026-07-20"
  },
  "minn-w-h2": {
   "position": 1181,
@@ -12416,10 +12462,6 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
   "position": 1911,
   "date": "2019-09-30"
  },
- "tulsa-m-p3": {
-  "position": 838,
-  "date": "2023-02-20"
- },
  "tulsa-w-h5": {
   "position": 1258,
   "date": "2019-09-09"
@@ -12428,13 +12470,13 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
   "position": 1925,
   "date": "2017-06-12"
  },
+ "ucd-m-fp172": {
+  "position": 1666,
+  "date": "2017-09-25"
+ },
  "ucd-m-h4": {
   "position": 1582,
   "date": "2019-12-23"
- },
- "ucd-m-p4": {
-  "position": 1666,
-  "date": "2017-09-25"
  },
  "ucd-w-n1": {
   "position": 1195,
@@ -16757,6 +16799,9 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "pepp-w-fp121": [
   907
  ],
+ "hou-w-fp130": [
+  1371
+ ],
  "miami-w-fp320": [
   1105
  ],
@@ -16862,9 +16907,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "hou-w-p2": [
   1433
  ],
- "hou-w-p4": [
-  1371
- ],
  "isu-w-p10": [
   1518
  ],
@@ -16873,9 +16915,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  ],
  "mich-w-p3": [
   855
- ],
- "mich-w-p9": [
-  943
  ],
  "okst-w-p1": [
   690
@@ -17180,9 +17219,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "clem-m-p1": [
   2211
  ],
- "clem-m-fp454": [
-  1241
- ],
  "clem-m-p3": [
   1470
  ],
@@ -17263,9 +17299,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  ],
  "cal-m-p11": [
   1860
- ],
- "vt-m-fp354": [
-  1129
  ],
  "vt-m-p6": [
   1923
@@ -17405,6 +17438,9 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "clem-m-fp327": [
   1233
  ],
+ "vt-m-fp354": [
+  1129
+ ],
  "unc-m-fp362": [
   1529
  ],
@@ -17420,6 +17456,9 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "stan-m-fp423": [
   1647
  ],
+ "clem-m-fp454": [
+  1241
+ ],
  "ariz-m-n1": [
   1551
  ],
@@ -17431,6 +17470,9 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  ],
  "aub-m-n4": [
   1297
+ ],
+ "corn-m-n2": [
+  1021
  ],
  "corn-m-n3": [
   1811
@@ -17504,6 +17546,12 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "scu-m-n3": [
   1716
  ],
+ "tamu-m-n7": [
+  1186
+ ],
+ "tamu-m-n8": [
+  711
+ ],
  "tamu-m-n6": [
   1248
  ],
@@ -17527,6 +17575,9 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  ],
  "ucla-m-n5": [
   1310
+ ],
+ "uga-m-n8": [
+  1132
  ],
  "uga-m-n1": [
   1292
