@@ -1794,6 +1794,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "wta-official-refresh"
  },
  {
+  "playerId": "ou-w-n2",
+  "name": "Katya Maklakova",
+  "teamId": "ou-w",
+  "teamName": "Oklahoma",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 478,
+  "change": -4,
+  "weeks": 10,
+  "asOf": "2026-08-31",
+  "source": "wta-official-refresh"
+ },
+ {
   "playerId": "pepp-m-h6",
   "name": "Eero Vasa",
   "teamId": "pepp-m",
@@ -14603,6 +14617,19 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   464,
   478,
   462
+ ],
+ "ou-w-n2": [
+  520,
+  516,
+  469,
+  475,
+  488,
+  487,
+  445,
+  440,
+  448,
+  443,
+  478
  ],
  "ou-w-n3": [
   534,
