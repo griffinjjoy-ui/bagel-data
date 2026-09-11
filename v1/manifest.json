@@ -1,5 +1,5 @@
 {
- "version": "c19ca03862",
+ "version": "93eb0a81c9",
  "asOf": "2026-09-11",
  "files": {
   "proRankings.js": {
@@ -19,12 +19,12 @@
    "bytes": 17314
   },
   "collegeRanks.js": {
-   "hash": "b13775fc61",
-   "bytes": 90036
+   "hash": "f44ee258b7",
+   "bytes": 93466
   },
   "itaRankedLists.js": {
-   "hash": "8779e05483",
-   "bytes": 76288
+   "hash": "912e61251e",
+   "bytes": 76393
   },
   "upcomingDuals.js": {
    "hash": "186c3bc352",

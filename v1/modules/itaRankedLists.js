@@ -20,7 +20,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "name": "Carmen Andreea Herea",
      "school": "University of Texas at Austin",
      "teamId": "tex-w",
-     "pid": null
+     "pid": "tex-p5"
     },
     {
      "rank": 3,
@@ -419,7 +419,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "name": "Eugenia Zozaya Menendez",
      "school": "University of Virginia",
      "teamId": "uva-w",
-     "pid": null
+     "pid": "uva-w-p9"
     },
     {
      "rank": 60,
@@ -741,7 +741,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "name": "Ekaterina Maklakova",
      "school": "University of Oklahoma",
      "teamId": "ou-w",
-     "pid": null
+     "pid": "ou-w-n2"
     },
     {
      "rank": 106,
@@ -769,7 +769,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "name": "Salakthip Ounmang",
      "school": "University of Oklahoma",
      "teamId": "ou-w",
-     "pid": null
+     "pid": "ou-p8"
     },
     {
      "rank": 110,
@@ -1286,7 +1286,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "name": "Alexander Frusina",
      "school": "Texas A&M University",
      "teamId": "tamu-m",
-     "pid": null
+     "pid": "tamu-m-n7"
     },
     {
      "rank": 58,
@@ -1321,7 +1321,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "name": "Johan Alexander Rodriguez Rodriguez",
      "school": "University of Oklahoma",
      "teamId": "ou-m",
-     "pid": null
+     "pid": "ou-m-p5"
     },
     {
      "rank": 63,
@@ -1517,7 +1517,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "name": "Yannick Theodor Alexandrescou",
      "school": "Duke",
      "teamId": "duke-m",
-     "pid": null
+     "pid": "duke-m-p1"
     },
     {
      "rank": 91,
@@ -1587,7 +1587,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "name": "Cezar Gabriel Papoe",
      "school": "Cornell",
      "teamId": "corn-m",
-     "pid": null
+     "pid": "corn-m-n2"
     },
     {
      "rank": 101,
@@ -1601,7 +1601,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "name": "Enzo Kohlmann",
      "school": "Louisiana State University",
      "teamId": "lsu-m",
-     "pid": null
+     "pid": "lsu-m-p4"
     },
     {
      "rank": 103,
@@ -1795,7 +1795,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "teamId": "ou-m",
      "pids": [
       "ou-m-n4",
-      null
+      "ou-m-p5"
      ]
     },
     {
@@ -2171,7 +2171,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "school": "Texas A&M University",
      "teamId": "tamu-m",
      "pids": [
-      null,
+      "tamu-m-n7",
       "tamu-m-p9"
      ]
     },
@@ -2419,7 +2419,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "teamId": "fsu-m",
      "pids": [
       "fsu-m-n2",
-      null
+      "fsu-m-p1"
      ]
     },
     {
@@ -2626,7 +2626,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "school": "Texas A&M University",
      "teamId": "tamu-m",
      "pids": [
-      null,
+      "tamu-m-n8",
       "tamu-m-n6"
      ]
     },
@@ -2665,7 +2665,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "school": "Louisiana State University",
      "teamId": "lsu-m",
      "pids": [
-      null,
+      "lsu-m-p4",
       "lsu-m-n3"
      ]
     },
@@ -3166,7 +3166,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "teamId": "tex-w",
      "pids": [
       "tex-w-n1",
-      null
+      "tex-p5"
      ]
     },
     {
@@ -3231,7 +3231,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "teamId": "ou-w",
      "pids": [
       "ou-p4",
-      null
+      "ou-w-n2"
      ]
     },
     {
@@ -3465,7 +3465,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "teamId": "ou-w",
      "pids": [
       "ou-w-n1",
-      null
+      "ou-p8"
      ]
     },
     {
@@ -3621,7 +3621,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "teamId": "uva-w",
      "pids": [
       "uva-w-p5",
-      null
+      "uva-w-p9"
      ]
     },
     {
@@ -3634,7 +3634,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "teamId": "fsu-w",
      "pids": [
       "fsu-w-p6",
-      null
+      "fsu-w-n1"
      ]
     },
     {
