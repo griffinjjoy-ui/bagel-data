@@ -434,19 +434,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-10"
  },
  {
-  "playerId": "tenn-m-n5",
-  "name": "Orel Kimhi",
-  "teamId": "tenn-m",
-  "teamName": "Tennessee",
-  "gender": "men",
-  "event": "M15 Budapest",
-  "round": "Second",
-  "won": true,
-  "opponent": "Rafael Kis Balazs",
-  "result": "6-2 6-4",
-  "date": "2026-09-10"
- },
- {
   "playerId": "usc-m-h10",
   "name": "Oscar Weightman",
   "teamId": "usc-m",
@@ -665,6 +652,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Francesco Maestrelli",
   "result": "6-7(2) 6-1 6-4",
+  "date": "2026-09-09"
+ },
+ {
+  "playerId": "ark-m-h14",
+  "name": "Alexandre Reco",
+  "teamId": "ark-m",
+  "teamName": "Arkansas",
+  "gender": "men",
+  "event": "M25 Plaisir",
+  "round": "First",
+  "won": false,
+  "opponent": "Samir Banerjee",
+  "result": "6-4 6-3",
   "date": "2026-09-09"
  },
  {
@@ -2535,6 +2535,32 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "opponent": "Isabella Marton",
   "result": "6-2 6-2",
   "date": "2026-07-12"
+ },
+ "ark-m-h14": {
+  "playerId": "ark-m-h14",
+  "name": "Alexandre Reco",
+  "teamId": "ark-m",
+  "teamName": "Arkansas",
+  "gender": "men",
+  "event": "M25 Plaisir",
+  "round": "First",
+  "won": false,
+  "opponent": "Samir Banerjee",
+  "result": "6-4 6-3",
+  "date": "2026-09-09"
+ },
+ "ark-m-h18": {
+  "playerId": "ark-m-h18",
+  "name": "Aleksa Bucan",
+  "teamId": "ark-m",
+  "teamName": "Arkansas",
+  "gender": "men",
+  "event": "M25 Columbus 2",
+  "round": "First",
+  "won": false,
+  "opponent": "Joshua Charlton",
+  "result": "6-1 6-2",
+  "date": "2022-11-16"
  },
  "ark-m-n3": {
   "playerId": "ark-m-n3",
@@ -13696,12 +13722,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "tenn-m",
   "teamName": "Tennessee",
   "gender": "men",
-  "event": "M15 Budapest",
-  "round": "Second",
+  "event": "M25 Hillcrest",
+  "round": "Final",
   "won": true,
-  "opponent": "Rafael Kis Balazs",
-  "result": "6-2 6-4",
-  "date": "2026-09-10"
+  "opponent": "Zsombor Velcz",
+  "result": "6-1 6-3",
+  "date": "2026-07-19"
  },
  "tenn-m-n6": {
   "playerId": "tenn-m-n6",
