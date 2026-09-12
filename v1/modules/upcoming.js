@@ -304,6 +304,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "ill-m-h3",
+  "name": "Hunter Heck",
+  "teamId": "ill-m",
+  "gender": "men",
+  "opponent": "Ethan Cook",
+  "event": "Phan Thiet 4 Challenger",
+  "date": "2026-09-13",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "pepp-w-h4",
   "name": "Janice Tjen",
   "teamId": "pepp-w",
@@ -314,12 +324,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "ore-m-h2",
+  "name": "Joshua Charlton",
+  "teamId": "ore-m",
+  "gender": "men",
+  "opponent": "Aditya Vishal Balsekar",
+  "event": "Phan Thiet 4 Challenger",
+  "date": "2026-09-13",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ncst-m-fp370",
+  "name": "Martin Borisiouk",
+  "teamId": "ncst-m",
+  "gender": "men",
+  "opponent": "Yuta Kawahashi",
+  "event": "Phan Thiet 4 Challenger",
+  "date": "2026-09-13",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "tex-w-h12",
   "name": "Peyton Stearns",
   "teamId": "tex-w",
   "gender": "women",
   "opponent": "Emiliana Arango",
   "event": "Guadalajara Open Akron - Guadalajara",
+  "date": "2026-09-13",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "cal-m-h3",
+  "name": "Yuta Kikuchi",
+  "teamId": "cal-m",
+  "gender": "men",
+  "opponent": "Mikalai Haliak",
+  "event": "Guangzhou Challenger",
   "date": "2026-09-13",
   "day": "tomorrow"
  }
