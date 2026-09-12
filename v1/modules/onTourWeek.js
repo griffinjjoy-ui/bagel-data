@@ -3680,6 +3680,32 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "result": "6-2 6-4",
   "date": "2019-06-04"
  },
+ "brown-m-fp178": {
+  "playerId": "brown-m-fp178",
+  "name": "Noah Hernandez",
+  "teamId": "brown-m",
+  "teamName": "Brown",
+  "gender": "men",
+  "event": "M25 Champaign 1",
+  "round": "Q1",
+  "won": false,
+  "opponent": "Alexander Petrov",
+  "result": "6-2 6-0",
+  "date": "2023-07-17"
+ },
+ "brown-m-h11": {
+  "playerId": "brown-m-h11",
+  "name": "Ching Lam",
+  "teamId": "brown-m",
+  "teamName": "Brown",
+  "gender": "men",
+  "event": "Davis Cup, World Group II, PO, POL-HKG 4-0",
+  "round": "Rubber 1",
+  "won": false,
+  "opponent": "Kacper Zuk",
+  "result": "6-2 6-1",
+  "date": "2020-03-06"
+ },
  "brown-m-p9": {
   "playerId": "brown-m-p9",
   "name": "Ivan Sodan",
