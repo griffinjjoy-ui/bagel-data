@@ -18,6 +18,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-12"
  },
  {
+  "playerId": "lsu-p8",
+  "name": "Cadence Brace",
+  "teamId": "lsu-w",
+  "teamName": "LSU",
+  "gender": "women",
+  "event": "SP Open - Sao Paulo",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Ana Candiotto",
+  "result": "6-3 6-4",
+  "date": "2026-09-12"
+ },
+ {
   "playerId": "wash-m-h7",
   "name": "Cesar Bouchelaghem",
   "teamId": "wash-m",
@@ -184,6 +197,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Amy Sucha",
   "result": "4-6 7-5 6-3",
+  "date": "2026-09-12"
+ },
+ {
+  "playerId": "tex-m-n3",
+  "name": "Matej Dodig",
+  "teamId": "tex-m",
+  "teamName": "Texas",
+  "gender": "men",
+  "event": "Genoa Challenger",
+  "round": "1/2",
+  "won": false,
+  "opponent": "Thiago Seyboth Wild",
+  "result": "7-5 4-6 6-2",
   "date": "2026-09-12"
  },
  {
@@ -457,19 +483,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Lourdes Ayala",
   "result": "6-0 6-3",
-  "date": "2026-09-11"
- },
- {
-  "playerId": "tex-m-n3",
-  "name": "Matej Dodig",
-  "teamId": "tex-m",
-  "teamName": "Texas",
-  "gender": "men",
-  "event": "Genoa Challenger",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Enrico Dalla Valle",
-  "result": "6-7(4) 6-2 7-6(5)",
   "date": "2026-09-11"
  },
  {
@@ -1068,19 +1081,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Mario Arce Fernandez",
   "result": "3-6 6-0 7-6(2)",
-  "date": "2026-09-08"
- },
- {
-  "playerId": "lsu-p8",
-  "name": "Cadence Brace",
-  "teamId": "lsu-w",
-  "teamName": "LSU",
-  "gender": "women",
-  "event": "Kia Open - Barranquilla",
-  "round": "First",
-  "won": false,
-  "opponent": "Sara Sorribes Tormo",
-  "result": "6-2 4-6 6-4",
   "date": "2026-09-08"
  },
  {
@@ -7612,12 +7612,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "lsu-w",
   "teamName": "LSU",
   "gender": "women",
-  "event": "Kia Open - Barranquilla",
-  "round": "First",
-  "won": false,
-  "opponent": "Sara Sorribes Tormo",
-  "result": "6-2 4-6 6-4",
-  "date": "2026-09-08"
+  "event": "SP Open - Sao Paulo",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Ana Candiotto",
+  "result": "6-3 6-4",
+  "date": "2026-09-12"
  },
  "lsu-w-h1": {
   "playerId": "lsu-w-h1",
@@ -14178,11 +14178,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Texas",
   "gender": "men",
   "event": "Genoa Challenger",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Enrico Dalla Valle",
-  "result": "6-7(4) 6-2 7-6(5)",
-  "date": "2026-09-11"
+  "round": "1/2",
+  "won": false,
+  "opponent": "Thiago Seyboth Wild",
+  "result": "7-5 4-6 6-2",
+  "date": "2026-09-12"
  },
  "tex-m-p10": {
   "playerId": "tex-m-p10",

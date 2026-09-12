@@ -84,16 +84,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "ou-w-h9",
-  "name": "Florencia Urrutia",
-  "teamId": "ou-w",
-  "gender": "women",
-  "opponent": "Anastasia Tikhonova",
-  "event": "SP Open - Sao Paulo",
-  "date": "2026-09-12",
-  "day": "today"
- },
- {
   "playerId": "wake-m-h17",
   "name": "Ioannis Xilas",
   "teamId": "wake-m",
@@ -360,6 +350,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Carlos Sanchez Jover",
   "event": "Szczecin Challenger",
+  "date": "2026-09-13",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ou-w-h9",
+  "name": "Florencia Urrutia",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Anastasia Tikhonova",
+  "event": "SP Open - Sao Paulo",
+  "date": "2026-09-13",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ncst-w-h5",
+  "name": "Gina Dittmann",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Charlotte Narti",
+  "event": "W75 Le Neubourg",
   "date": "2026-09-13",
   "day": "tomorrow"
  },

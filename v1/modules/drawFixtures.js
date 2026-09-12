@@ -23,6 +23,40 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
+  "event": "SP Open - Sao Paulo",
+  "tournamentId": 16746,
+  "tour": "wta",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "tamu-w-h5",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "lsu-p8",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "ou-w-h9",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": false,
+    "played": false
+   }
+  ]
+ },
+ {
   "event": "W15 Viserba di Rimini",
   "tournamentId": 17269,
   "tour": "wta",
@@ -891,6 +925,24 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
+  "event": "Genoa Challenger",
+  "tournamentId": 22019,
+  "tour": "atp",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "tex-m-n3",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
   "event": "M15 Bali",
   "tournamentId": 22056,
   "tour": "atp",
@@ -970,24 +1022,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "entry": null,
     "inMain": false,
     "eliminated": true,
-    "played": true
-   }
-  ]
- },
- {
-  "event": "Genoa Challenger",
-  "tournamentId": 22019,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "tex-m-n3",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
     "played": true
    }
   ]
@@ -1595,40 +1629,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
-  "event": "SP Open - Sao Paulo",
-  "tournamentId": 16746,
-  "tour": "wta",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "tamu-w-h5",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "lsu-p8",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "ou-w-h9",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": false
-   }
-  ]
- },
- {
   "event": "Rennes Challenger",
   "tournamentId": 22029,
   "tour": "atp",
@@ -2080,6 +2080,30 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
+ },
+ {
+  "playerId": "tamu-w-h5",
+  "event": "SP Open - Sao Paulo",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "lsu-p8",
+  "event": "SP Open - Sao Paulo",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "ou-w-h9",
+  "event": "SP Open - Sao Paulo",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": true
  },
  {
   "playerId": "lmu-w-h8",
@@ -2730,6 +2754,14 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
+  "playerId": "tex-m-n3",
+  "event": "Genoa Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
   "playerId": "stan-m-p5",
   "event": "M15 Bali",
   "seed": null,
@@ -2792,14 +2824,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "entry": null,
   "inMain": false,
   "hasUnplayed": false
- },
- {
-  "playerId": "tex-m-n3",
-  "event": "Genoa Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
  },
  {
   "playerId": "bay-m-h11",
@@ -3240,30 +3264,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "entry": null,
   "inMain": false,
   "hasUnplayed": false
- },
- {
-  "playerId": "tamu-w-h5",
-  "event": "SP Open - Sao Paulo",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "lsu-p8",
-  "event": "SP Open - Sao Paulo",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": true
- },
- {
-  "playerId": "ou-w-h9",
-  "event": "SP Open - Sao Paulo",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": true
  },
  {
   "playerId": "asu-m-h4",
