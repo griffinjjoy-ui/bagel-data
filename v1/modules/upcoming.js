@@ -64,6 +64,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tenn-w-h7",
+  "name": "Elza Tomase",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Anne Schaefer",
+  "event": "W15 Viserba di Rimini",
+  "date": "2026-09-12",
+  "day": "today"
+ },
+ {
   "playerId": "lmu-w-h8",
   "name": "Eva Marie Voracek",
   "teamId": "lmu-w",
@@ -80,6 +90,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Menelaos Efstathiou",
   "event": "M25 Pozzuoli",
+  "date": "2026-09-12",
+  "day": "today"
+ },
+ {
+  "playerId": "wake-m-h17",
+  "name": "Ioannis Xilas",
+  "teamId": "wake-m",
+  "gender": "men",
+  "opponent": "Max Houkes",
+  "event": "M25 Rabat",
   "date": "2026-09-12",
   "day": "today"
  },
@@ -110,6 +130,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Anna Kmiecik",
   "event": "W15 Radom",
+  "date": "2026-09-12",
+  "day": "today"
+ },
+ {
+  "playerId": "tenn-p6",
+  "name": "Katrina Scott",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Alexandra Panova",
+  "event": "Guadalajara Open Akron - Guadalajara",
+  "date": "2026-09-12",
+  "day": "today"
+ },
+ {
+  "playerId": "uga-w-h11",
+  "name": "Lea Ma",
+  "teamId": "uga-w",
+  "gender": "women",
+  "opponent": "Katarina Zavatska",
+  "event": "Guadalajara Open Akron - Guadalajara",
   "date": "2026-09-12",
   "day": "today"
  },
@@ -160,6 +200,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Sergey Petrov",
   "event": "M15 Hurghada",
+  "date": "2026-09-12",
+  "day": "today"
+ },
+ {
+  "playerId": "duke-w-n2",
+  "name": "Mimi Xu",
+  "teamId": "duke-w",
+  "gender": "women",
+  "opponent": "Caroline Dolehide",
+  "event": "Guadalajara Open Akron - Guadalajara",
   "date": "2026-09-12",
   "day": "today"
  },
@@ -240,6 +290,36 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Alexander Zverev",
   "event": "U.S. Open - New York",
+  "date": "2026-09-13",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "uga-w-h7",
+  "name": "Dasha Vidmanova",
+  "teamId": "uga-w",
+  "gender": "women",
+  "opponent": "Janice Tjen",
+  "event": "Guadalajara Open Akron - Guadalajara",
+  "date": "2026-09-13",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "pepp-w-h4",
+  "name": "Janice Tjen",
+  "teamId": "pepp-w",
+  "gender": "women",
+  "opponent": "Darja Vidmanova",
+  "event": "Guadalajara Open Akron - Guadalajara",
+  "date": "2026-09-13",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tex-w-h12",
+  "name": "Peyton Stearns",
+  "teamId": "tex-w",
+  "gender": "women",
+  "opponent": "Emiliana Arango",
+  "event": "Guadalajara Open Akron - Guadalajara",
   "date": "2026-09-13",
   "day": "tomorrow"
  }
