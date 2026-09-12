@@ -135,6 +135,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-11"
  },
  {
+  "playerId": "wake-m-h17",
+  "name": "Ioannis Xilas",
+  "teamId": "wake-m",
+  "teamName": "Wake Forest",
+  "gender": "men",
+  "event": "M25 Rabat",
+  "round": "1/4",
+  "won": true,
+  "opponent": "Jack Loge",
+  "result": "5-7 6-4 6-3",
+  "date": "2026-09-11"
+ },
+ {
   "playerId": "okst-m-h5",
   "name": "Isaac Becroft",
   "teamId": "okst-m",
@@ -522,19 +535,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Sarah Iliev",
   "result": "3-6 6-1 6-3",
-  "date": "2026-09-10"
- },
- {
-  "playerId": "wake-m-h17",
-  "name": "Ioannis Xilas",
-  "teamId": "wake-m",
-  "teamName": "Wake Forest",
-  "gender": "men",
-  "event": "M25 Rabat",
-  "round": "Second",
-  "won": true,
-  "opponent": "Reda El Aouni",
-  "result": "6-1 6-2",
   "date": "2026-09-10"
  },
  {
@@ -18481,11 +18481,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Wake Forest",
   "gender": "men",
   "event": "M25 Rabat",
-  "round": "Second",
+  "round": "1/4",
   "won": true,
-  "opponent": "Reda El Aouni",
-  "result": "6-1 6-2",
-  "date": "2026-09-10"
+  "opponent": "Jack Loge",
+  "result": "5-7 6-4 6-3",
+  "date": "2026-09-11"
  },
  "wake-m-h24": {
   "playerId": "wake-m-h24",
