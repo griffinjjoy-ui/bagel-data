@@ -24,6 +24,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "mich-m-h5",
+  "name": "Andrew Fenty",
+  "teamId": "mich-m",
+  "gender": "men",
+  "opponent": "Ryan Seggerman",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
   "playerId": "aub-w-h7",
   "name": "Ariana Arseneault",
   "teamId": "aub-w",
@@ -50,6 +60,36 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Alexander Zverev",
   "event": "U.S. Open - New York",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
+  "playerId": "ucf-m-h3",
+  "name": "Bogdan Pavel",
+  "teamId": "ucf-m",
+  "gender": "men",
+  "opponent": "Rudolf Molleker",
+  "event": "Szczecin Challenger",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
+  "playerId": "osu-m-p7",
+  "name": "Bryce Nakashima",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Kaylan Bigun",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
+  "playerId": "lsu-p8",
+  "name": "Cadence Brace",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Hayu Kinoshita",
+  "event": "SP Open - Sao Paulo",
   "date": "2026-09-13",
   "day": "today"
  },
@@ -94,6 +134,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "lsu-m-n1",
+  "name": "Daniil Ostapenkov",
+  "teamId": "lsu-m",
+  "gender": "men",
+  "opponent": "Gus Grumet",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
   "playerId": "uga-w-h7",
   "name": "Dasha Vidmanova",
   "teamId": "uga-w",
@@ -104,12 +154,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "lsu-m-p2",
+  "name": "Erik Arutiunian",
+  "teamId": "lsu-m",
+  "gender": "men",
+  "opponent": "Nicholas Godsick",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
   "playerId": "lmu-w-h8",
   "name": "Eva Marie Voracek",
   "teamId": "lmu-w",
   "gender": "women",
   "opponent": "Marta Lombardini",
   "event": "W15 Viserba di Rimini",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
+  "playerId": "corn-m-h11",
+  "name": "Evan Bynoe",
+  "teamId": "corn-m",
+  "gender": "men",
+  "opponent": "Timo Legout",
+  "event": "Tiburon Challenger",
   "date": "2026-09-13",
   "day": "today"
  },
@@ -194,16 +264,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "uva-m-h6",
-  "name": "Jeffrey von der Schulenburg",
-  "teamId": "uva-m",
-  "gender": "men",
-  "opponent": "Rudolf Molleker",
-  "event": "Szczecin Challenger",
-  "date": "2026-09-13",
-  "day": "today"
- },
- {
   "playerId": "ore-m-h2",
   "name": "Joshua Charlton",
   "teamId": "ore-m",
@@ -220,6 +280,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Lucie Petruzelova",
   "event": "W15 Radom",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
+  "playerId": "osu-m-h2",
+  "name": "Justin Boulais",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Theo Arribage",
+  "event": "Rennes Challenger",
   "date": "2026-09-13",
   "day": "today"
  },
@@ -244,6 +314,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ucla-m-h8",
+  "name": "Kaylan Bigun",
+  "teamId": "ucla-m",
+  "gender": "men",
+  "opponent": "Bryce Nakashima",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
   "playerId": "okst-w-h7",
   "name": "Kylie Collins",
   "teamId": "okst-w",
@@ -260,6 +340,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Iryna Shymanovich",
   "event": "Guadalajara Open Akron - Guadalajara",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
+  "playerId": "fla-m-p1",
+  "name": "Lorenzo Claverie",
+  "teamId": "fla-m",
+  "gender": "men",
+  "opponent": "Ozan Baris",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
+  "playerId": "ncst-m-h5",
+  "name": "Luca Staeheli",
+  "teamId": "ncst-m",
+  "gender": "men",
+  "opponent": "Maxwell Exsted",
+  "event": "Tiburon Challenger",
   "date": "2026-09-13",
   "day": "today"
  },
@@ -364,6 +464,36 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "stan-m-fp423",
+  "name": "Nicholas Godsick",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Erik Arutiunian",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
+  "playerId": "uci-m-h7",
+  "name": "Noah Zamora",
+  "teamId": "uci-m",
+  "gender": "men",
+  "opponent": "Quinn Vandecasteele",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
+  "playerId": "msu-m-fp274",
+  "name": "Ozan Baris",
+  "teamId": "msu-m",
+  "gender": "men",
+  "opponent": "Lorenzo Claverie",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
   "playerId": "unc-m-h13",
   "name": "Patrick Schoen",
   "teamId": "unc-m",
@@ -394,12 +524,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ore-m-h7",
+  "name": "Quinn Vandecasteele",
+  "teamId": "ore-m",
+  "gender": "men",
+  "opponent": "Noah Zamora",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
   "playerId": "unc-w-p2",
   "name": "Reese Brantmeier",
   "teamId": "unc-w",
   "gender": "women",
   "opponent": "Oceane Dodin",
   "event": "Ladies Open - Caldas da Rainha",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
+  "playerId": "tcu-m-p6",
+  "name": "Roger Pascual",
+  "teamId": "tcu-m",
+  "gender": "men",
+  "opponent": "Li Tu",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
+  "playerId": "unc-m-h9",
+  "name": "Ryan Seggerman",
+  "teamId": "unc-m",
+  "gender": "men",
+  "opponent": "Andrew Fenty",
+  "event": "Tiburon Challenger",
   "date": "2026-09-13",
   "day": "today"
  },
@@ -420,6 +580,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Giuseppe La Vela",
   "event": "Biella Challenger",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-m-h11",
+  "name": "Timo Legout",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Evan Bynoe",
+  "event": "Tiburon Challenger",
   "date": "2026-09-13",
   "day": "today"
  },
@@ -454,12 +624,62 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "fla-m-h9",
+  "name": "Abedallah Shelbayh",
+  "teamId": "fla-m",
+  "gender": "men",
+  "opponent": "Tyler Zink",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-14",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ncst-m-h11",
   "name": "Alexis Galarneau",
   "teamId": "ncst-m",
   "gender": "men",
   "opponent": "Fajing Sun",
   "event": "Guangzhou Challenger",
+  "date": "2026-09-14",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tenn-m-h10",
+  "name": "Blaise Bicknell",
+  "teamId": "tenn-m",
+  "gender": "men",
+  "opponent": "Trevor Svajda",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-14",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "harv-m-h3",
+  "name": "Daniel Milavsky",
+  "teamId": "harv-m",
+  "gender": "men",
+  "opponent": "Federico Agustin Gomez",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-14",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "pepp-m-p6",
+  "name": "Edward Winter",
+  "teamId": "pepp-m",
+  "gender": "men",
+  "opponent": "Tristan Boyer",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-14",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "wich-m-fp92",
+  "name": "Felix Bockelmann Evans",
+  "teamId": "wich-m",
+  "gender": "men",
+  "opponent": "Keegan Smith",
+  "event": "Tiburon Challenger",
   "date": "2026-09-14",
   "day": "tomorrow"
  },
@@ -484,6 +704,46 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "osu-m-h11",
+  "name": "Jeff Wolf",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Luciano Emanuel Ambrogi",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-14",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ucla-m-h15",
+  "name": "Keegan Smith",
+  "teamId": "ucla-m",
+  "gender": "men",
+  "opponent": "Mitchell Krueger",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-14",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ill-m-fp217",
+  "name": "Kenta Miyoshi",
+  "teamId": "ill-m",
+  "gender": "men",
+  "opponent": "Moerani Bouzige",
+  "event": "Phan Thiet 4 Challenger",
+  "date": "2026-09-14",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ou-m-n4",
+  "name": "Luciano Emanuel Ambrogi",
+  "teamId": "ou-m",
+  "gender": "men",
+  "opponent": "Jeff Wolf",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-14",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "tamu-w-h5",
   "name": "Mary Stoiana",
   "teamId": "tamu-w",
@@ -504,12 +764,52 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "stan-m-h8",
+  "name": "Nishesh Basavareddy",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Igor Ribeiro Marcondes",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-14",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "mich-m-h7",
+  "name": "Patrick Maloney",
+  "teamId": "mich-m",
+  "gender": "men",
+  "opponent": "Alastair Gray",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-14",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "port-m-h5",
   "name": "Sema Pankin",
   "teamId": "port-m",
   "gender": "men",
   "opponent": "Elias Ymer",
   "event": "Guangzhou Challenger",
+  "date": "2026-09-14",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "stan-m-h16",
+  "name": "Tristan Boyer",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Edward Winter",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-14",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "okst-m-h4",
+  "name": "Tyler Zink",
+  "teamId": "okst-m",
+  "gender": "men",
+  "opponent": "Abedallah Shelbayh",
+  "event": "Tiburon Challenger",
   "date": "2026-09-14",
   "day": "tomorrow"
  }
