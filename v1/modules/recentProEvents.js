@@ -415,6 +415,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "lsu-m-p2": [
+  {
+   "key": "22027",
+   "name": "Tiburon Challenger",
+   "date": "2026-09-14",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "90753266",
+     "date": "2026-09-13",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Nicholas Godsick",
+     "score": "6-3 6-1"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "lsu-p8": [
   {
    "key": "16746",
@@ -1141,6 +1163,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "green"
   }
  ],
+ "stan-m-fp423": [
+  {
+   "key": "22027",
+   "name": "Tiburon Challenger",
+   "date": "2026-09-14",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "90753266",
+     "date": "2026-09-13",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Erik Arutiunian",
+     "score": "6-3 6-1"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "stan-m-p5": [
   {
    "key": "22056",
@@ -1324,9 +1368,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Alexandra Panova",
      "score": "6-2 6-4"
+    },
+    {
+     "id": "79367522",
+     "date": "2026-09-13",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Carole Monnet",
+     "score": "7-6(6) 6-7(4) 6-2"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
