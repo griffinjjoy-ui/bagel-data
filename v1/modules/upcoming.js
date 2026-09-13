@@ -104,6 +104,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "wash-m-h7",
+  "name": "Cesar Bouchelaghem",
+  "teamId": "wash-m",
+  "gender": "men",
+  "opponent": "Oscar Brown",
+  "event": "M15 Monastir",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
   "playerId": "wash-m-h10",
   "name": "Clement Chidekh",
   "teamId": "wash-m",
@@ -264,6 +274,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "uva-w-h6",
+  "name": "Julia Adams",
+  "teamId": "uva-w",
+  "gender": "women",
+  "opponent": "Lucie Petruzelova",
+  "event": "W15 Radom",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
   "playerId": "osu-m-h2",
   "name": "Justin Boulais",
   "teamId": "osu-m",
@@ -344,6 +364,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "miss-w-h1",
+  "name": "Lucie Petruzelova",
+  "teamId": "miss-w",
+  "gender": "women",
+  "opponent": "Julia Adams",
+  "event": "W15 Radom",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
   "playerId": "usc-w-h12",
   "name": "Madison Sieg",
   "teamId": "usc-w",
@@ -404,6 +434,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "wake-m-h1",
+  "name": "Melios Efstathiou",
+  "teamId": "wake-m",
+  "gender": "men",
+  "opponent": "Leonardo Rossi",
+  "event": "M25 Pozzuoli",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
   "playerId": "uga-w-h6",
   "name": "Mell Reasco",
   "teamId": "uga-w",
@@ -450,6 +490,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Lorenzo Claverie",
   "event": "Tiburon Challenger",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
+  "playerId": "unc-m-h13",
+  "name": "Patrick Schoen",
+  "teamId": "unc-m",
+  "gender": "men",
+  "opponent": "Goncalo Marques",
+  "event": "M25 Sintra",
   "date": "2026-09-13",
   "day": "today"
  },
@@ -594,6 +644,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "bay-w-h13",
+  "name": "Alicia Herrero Linana",
+  "teamId": "bay-w",
+  "gender": "women",
+  "opponent": "Lucia Cortez Llorca",
+  "event": "BBVA Open Internacional - Valencia",
+  "date": "2026-09-14",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "tenn-m-h10",
   "name": "Blaise Bicknell",
   "teamId": "tenn-m",
@@ -634,6 +694,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "uga-m-h15",
+  "name": "Hamish Stewart",
+  "teamId": "uga-m",
+  "gender": "men",
+  "opponent": "Daniel Rincon",
+  "event": "Rennes Challenger",
+  "date": "2026-09-14",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "uva-m-h4",
   "name": "Inaki Montes de la Torre",
   "teamId": "uva-m",
@@ -650,16 +720,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Luciano Emanuel Ambrogi",
   "event": "Tiburon Challenger",
-  "date": "2026-09-14",
-  "day": "tomorrow"
- },
- {
-  "playerId": "lsu-p6",
-  "name": "Kayla Cross",
-  "teamId": "lsu-w",
-  "gender": "women",
-  "opponent": "Mariia Nozdrachova",
-  "event": "Ladies Open - Caldas da Rainha",
   "date": "2026-09-14",
   "day": "tomorrow"
  },
