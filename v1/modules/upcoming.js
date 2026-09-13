@@ -574,6 +574,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tenn-w-h9",
+  "name": "Sofia Cabezas",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Lourdes Ayala",
+  "event": "W15 Pilar",
+  "date": "2026-09-13",
+  "day": "today"
+ },
+ {
   "playerId": "miss-m-p2",
   "name": "Stefano D'Agostino",
   "teamId": "miss-m",
@@ -634,12 +644,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "ncst-m-h11",
-  "name": "Alexis Galarneau",
-  "teamId": "ncst-m",
-  "gender": "men",
-  "opponent": "Fajing Sun",
-  "event": "Guangzhou Challenger",
+  "playerId": "bay-w-h13",
+  "name": "Alicia Herrero Linana",
+  "teamId": "bay-w",
+  "gender": "women",
+  "opponent": "Lucia Cortez Llorca",
+  "event": "BBVA Open Internacional - Valencia",
   "date": "2026-09-14",
   "day": "tomorrow"
  },

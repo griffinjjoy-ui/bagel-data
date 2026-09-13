@@ -46,10 +46,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Maks Kasnikowski",
      "score": "7-6(4) 6-4"
+    },
+    {
+     "id": "83763680",
+     "date": "2026-09-13",
+     "roundId": 12,
+     "round": "Final",
+     "won": false,
+     "opponent": "Max Basing",
+     "score": "6-3 1-6 6-0"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Final",
+   "reachedTone": "amber"
   },
   {
    "key": "21942",
