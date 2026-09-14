@@ -319,6 +319,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "lsu-m-n1": [
+  {
+   "key": "22027",
+   "name": "Tiburon Challenger",
+   "date": "2026-09-14",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "99140479",
+     "date": "2026-09-13",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Gus Grumet",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "lsu-m-p2": [
   {
    "key": "22027",
@@ -546,9 +568,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Yuta Kawahashi",
      "score": "6-3 4-0 ret."
+    },
+    {
+     "id": "104731874",
+     "date": "2026-09-14",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Dong Ju Kim",
+     "score": "6-4 6-3"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -832,6 +863,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "osu-m-p7": [
+  {
+   "key": "22027",
+   "name": "Tiburon Challenger",
+   "date": "2026-09-14",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "97742641",
+     "date": "2026-09-13",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Kaylan Bigun",
+     "score": "7-5 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "21997",
    "name": "M15 Champaign",
