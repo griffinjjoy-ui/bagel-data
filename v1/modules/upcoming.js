@@ -464,6 +464,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "okst-w-h4",
+  "name": "Ayumi Miyamoto",
+  "teamId": "okst-w",
+  "gender": "women",
+  "opponent": "Rinko Matsuda",
+  "event": "W35 Kyoto",
+  "date": "2026-09-15",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "tenn-m-h10",
   "name": "Blaise Bicknell",
   "teamId": "tenn-m",
@@ -474,12 +484,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "wake-m-h24",
+  "name": "Borna Gojo",
+  "teamId": "wake-m",
+  "gender": "men",
+  "opponent": "Daniel Masur",
+  "event": "Rennes Challenger",
+  "date": "2026-09-15",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "wash-m-h10",
+  "name": "Clement Chidekh",
+  "teamId": "wash-m",
+  "gender": "men",
+  "opponent": "Finn Bass",
+  "event": "Rennes Challenger",
+  "date": "2026-09-15",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "harv-m-h3",
   "name": "Daniel Milavsky",
   "teamId": "harv-m",
   "gender": "men",
   "opponent": "Federico Agustin Gomez",
   "event": "Tiburon Challenger",
+  "date": "2026-09-15",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ucla-w-h8",
+  "name": "Ena Shibahara",
+  "teamId": "ucla-w",
+  "gender": "women",
+  "opponent": "Sakura Hosogi",
+  "event": "W35 Kyoto",
   "date": "2026-09-15",
   "day": "tomorrow"
  },
@@ -504,12 +544,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "uga-m-h15",
-  "name": "Hamish Stewart",
-  "teamId": "uga-m",
-  "gender": "men",
-  "opponent": "Daniel Rincon",
-  "event": "Rennes Challenger",
+  "playerId": "uva-w-h6",
+  "name": "Julia Adams",
+  "teamId": "uva-w",
+  "gender": "women",
+  "opponent": "Rositsa Dencheva",
+  "event": "W50 Pazardzhik",
   "date": "2026-09-15",
   "day": "tomorrow"
  },
@@ -544,6 +584,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "mich-m-h4",
+  "name": "Nino Ehrenschneider",
+  "teamId": "mich-m",
+  "gender": "men",
+  "opponent": "Lingxi Zhao",
+  "event": "M25 Guiyang",
+  "date": "2026-09-15",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "stan-m-h8",
   "name": "Nishesh Basavareddy",
   "teamId": "stan-m",
@@ -560,6 +610,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Diane Parry",
   "event": "Guadalajara Open Akron - Guadalajara",
+  "date": "2026-09-15",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ncst-w-h11",
+  "name": "Priska Nugroho",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Miho Kuramochi",
+  "event": "W35 Shenyang",
   "date": "2026-09-15",
   "day": "tomorrow"
  }

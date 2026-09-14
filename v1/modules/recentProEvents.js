@@ -878,9 +878,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Kaylan Bigun",
      "score": "7-5 6-0"
+    },
+    {
+     "id": "128491569",
+     "date": "2026-09-14",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Quinn Vandecasteele",
+     "score": "6-2 6-4"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
