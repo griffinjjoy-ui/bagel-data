@@ -44,6 +44,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "lsu-p8",
+  "name": "Cadence Brace",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Solana Sierra",
+  "event": "SP Open - Sao Paulo",
+  "date": "2026-09-14",
+  "day": "today"
+ },
+ {
   "playerId": "unc-w-h8",
   "name": "Carson Tanguilig",
   "teamId": "unc-w",
@@ -74,6 +84,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tenn-w-h4",
+  "name": "Daria Kuczer",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Amarissa Kiara Toth",
+  "event": "W50 Pazardzhik",
+  "date": "2026-09-14",
+  "day": "today"
+ },
+ {
   "playerId": "pepp-m-p6",
   "name": "Edward Winter",
   "teamId": "pepp-m",
@@ -100,6 +120,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Nikita Mashtakov",
   "event": "Szczecin Challenger",
+  "date": "2026-09-14",
+  "day": "today"
+ },
+ {
+  "playerId": "duke-m-h2",
+  "name": "Garrett Johns",
+  "teamId": "duke-m",
+  "gender": "men",
+  "opponent": "Lorenzo Rottoli",
+  "event": "M25 Santa Margherita di Pula",
   "date": "2026-09-14",
   "day": "today"
  },
@@ -190,6 +220,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Reese Brantmeier",
   "event": "Ladies Open - Caldas da Rainha",
+  "date": "2026-09-14",
+  "day": "today"
+ },
+ {
+  "playerId": "pepp-w-h5",
+  "name": "Lisa Zaar",
+  "teamId": "pepp-w",
+  "gender": "women",
+  "opponent": "Nikol Nuneva",
+  "event": "W50 Pazardzhik",
   "date": "2026-09-14",
   "day": "today"
  },
@@ -360,6 +400,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Edward Winter",
   "event": "Tiburon Challenger",
+  "date": "2026-09-14",
+  "day": "today"
+ },
+ {
+  "playerId": "uga-m-h16",
+  "name": "Tristan McCormick",
+  "teamId": "uga-m",
+  "gender": "men",
+  "opponent": "Marcello Serafini",
+  "event": "M25 Santa Margherita di Pula",
   "date": "2026-09-14",
   "day": "today"
  },

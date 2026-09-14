@@ -1005,10 +1005,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Patrick Zahraj",
      "score": "7-5 6-3"
+    },
+    {
+     "id": "111720859",
+     "date": "2026-09-13",
+     "roundId": 12,
+     "round": "Final",
+     "won": false,
+     "opponent": "Clement Chidekh",
+     "score": "7-6(5) 6-1"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Final",
+   "reachedTone": "amber"
   }
  ],
  "stan-m-fp423": [
