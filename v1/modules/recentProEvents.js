@@ -839,6 +839,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "pepp-m-p6": [
+  {
+   "key": "22027",
+   "name": "Tiburon Challenger",
+   "date": "2026-09-14",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "139672687",
+     "date": "2026-09-15",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Tristan Boyer",
+     "score": "6-2 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "sc-m-p6": [
   {
    "key": "22024",

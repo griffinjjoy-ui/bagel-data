@@ -224,16 +224,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "pepp-w-h4",
-  "name": "Janice Tjen",
-  "teamId": "pepp-w",
-  "gender": "women",
-  "opponent": "Sloane Stephens",
-  "event": "Guadalajara Open Akron - Guadalajara",
-  "date": "2026-09-15",
-  "day": "today"
- },
- {
   "playerId": "uva-w-h6",
   "name": "Julia Adams",
   "teamId": "uva-w",
@@ -244,12 +234,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tex-m-p9",
+  "name": "Kalin Ivanovski",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Ryo Tabata",
+  "event": "M25 Zlatibor",
+  "date": "2026-09-15",
+  "day": "today"
+ },
+ {
   "playerId": "ucla-m-h15",
   "name": "Keegan Smith",
   "teamId": "ucla-m",
   "gender": "men",
   "opponent": "Mitchell Krueger",
   "event": "Tiburon Challenger",
+  "date": "2026-09-15",
+  "day": "today"
+ },
+ {
+  "playerId": "osu-w-h3",
+  "name": "Kolie Allen",
+  "teamId": "osu-w",
+  "gender": "women",
+  "opponent": "Cristina Pescucci",
+  "event": "W35 Santa Margherita di Pula",
   "date": "2026-09-15",
   "day": "today"
  },
@@ -270,6 +280,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Katie Swan",
   "event": "Ladies Open - Caldas da Rainha",
+  "date": "2026-09-15",
+  "day": "today"
+ },
+ {
+  "playerId": "tcu-m-h2",
+  "name": "Luc Fomba",
+  "teamId": "tcu-m",
+  "gender": "men",
+  "opponent": "Yannis Batsabaken",
+  "event": "M25 Nevers",
   "date": "2026-09-15",
   "day": "today"
  },
@@ -390,6 +410,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Daniel Rincon",
   "event": "Rennes Challenger",
+  "date": "2026-09-16",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "pepp-w-h4",
+  "name": "Janice Tjen",
+  "teamId": "pepp-w",
+  "gender": "women",
+  "opponent": "Sloane Stephens",
+  "event": "Guadalajara Open Akron - Guadalajara",
   "date": "2026-09-16",
   "day": "tomorrow"
  }
