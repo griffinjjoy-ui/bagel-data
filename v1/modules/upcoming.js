@@ -494,16 +494,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "msu-m-h10",
-  "name": "Vuk Radjenovic",
-  "teamId": "msu-m",
-  "gender": "men",
-  "opponent": "Marko Nikolic",
-  "event": "M25 Zlatibor",
-  "date": "2026-09-15",
-  "day": "today"
- },
- {
   "playerId": "cal-m-h3",
   "name": "Yuta Kikuchi",
   "teamId": "cal-m",
@@ -524,12 +514,82 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "ncst-w-h3",
+  "name": "Amelia Rajecki",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Nagi Hanatani",
+  "event": "W35 Kyoto",
+  "date": "2026-09-16",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "unc-w-h8",
+  "name": "Carson Tanguilig",
+  "teamId": "unc-w",
+  "gender": "women",
+  "opponent": "Amandine Hesse",
+  "event": "W75 Le Neubourg",
+  "date": "2026-09-16",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "okst-m-h6",
+  "name": "Chase Ferguson",
+  "teamId": "okst-m",
+  "gender": "men",
+  "opponent": "Minghui Zhang",
+  "event": "M25 Guiyang",
+  "date": "2026-09-16",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "aub-m-h3",
+  "name": "Finlay Murgett",
+  "teamId": "aub-m",
+  "gender": "men",
+  "opponent": "Gian Luca Tanner",
+  "event": "M25 Sintra",
+  "date": "2026-09-16",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "unc-w-h2",
+  "name": "Fiona Crawley",
+  "teamId": "unc-w",
+  "gender": "women",
+  "opponent": "Sahaja Yamalapalli",
+  "event": "W75 Le Neubourg",
+  "date": "2026-09-16",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ncst-w-h5",
+  "name": "Gina Dittmann",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Hannah Klugman",
+  "event": "W75 Le Neubourg",
+  "date": "2026-09-16",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "uga-m-h15",
   "name": "Hamish Stewart",
   "teamId": "uga-m",
   "gender": "men",
   "opponent": "Daniel Rincon",
   "event": "Rennes Challenger",
+  "date": "2026-09-16",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "wash-w-h7",
+  "name": "Hikaru Sato",
+  "teamId": "wash-w",
+  "gender": "women",
+  "opponent": "Natsuki Yoshimoto",
+  "event": "W35 Kyoto",
   "date": "2026-09-16",
   "day": "tomorrow"
  },
@@ -554,12 +614,92 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "tcu-m-h5",
+  "name": "Lui Maxted",
+  "teamId": "tcu-m",
+  "gender": "men",
+  "opponent": "Goncalo Marques",
+  "event": "M25 Sintra",
+  "date": "2026-09-16",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "stan-m-h6",
+  "name": "Max Basing",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Giorgio Tabacco",
+  "event": "M25 Sintra",
+  "date": "2026-09-16",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "mich-m-h7",
   "name": "Patrick Maloney",
   "teamId": "mich-m",
   "gender": "men",
   "opponent": "Michael Mmoh",
   "event": "Tiburon Challenger",
+  "date": "2026-09-16",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "unc-m-h13",
+  "name": "Patrick Schoen",
+  "teamId": "unc-m",
+  "gender": "men",
+  "opponent": "Guilherme Valdoleiros",
+  "event": "M25 Sintra",
+  "date": "2026-09-16",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ncst-m-h3",
+  "name": "Robin Catry",
+  "teamId": "ncst-m",
+  "gender": "men",
+  "opponent": "Nick Beamish",
+  "event": "M25 Guiyang",
+  "date": "2026-09-16",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "uga-m-h1",
+  "name": "Ryan Colby",
+  "teamId": "uga-m",
+  "gender": "men",
+  "opponent": "Vasco Leote Prata",
+  "event": "M25 Sintra",
+  "date": "2026-09-16",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tcu-w-h2",
+  "name": "Tiphanie Lemaitre",
+  "teamId": "tcu-w",
+  "gender": "women",
+  "opponent": "Naiktha Bains",
+  "event": "W75 Le Neubourg",
+  "date": "2026-09-16",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "aub-m-h1",
+  "name": "Tyler Stice",
+  "teamId": "aub-m",
+  "gender": "men",
+  "opponent": "Adria Soriano Barrera",
+  "event": "M25 Sintra",
+  "date": "2026-09-16",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "msu-m-h10",
+  "name": "Vuk Radjenovic",
+  "teamId": "msu-m",
+  "gender": "men",
+  "opponent": "Marko Nikolic",
+  "event": "M25 Zlatibor",
   "date": "2026-09-16",
   "day": "tomorrow"
  }
