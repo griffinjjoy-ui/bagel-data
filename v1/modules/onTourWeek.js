@@ -57,6 +57,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-14"
  },
  {
+  "playerId": "lsu-m-n1",
+  "name": "Daniil Ostapenkov",
+  "teamId": "lsu-m",
+  "teamName": "LSU",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "Q3",
+  "won": false,
+  "opponent": "Timo Legout",
+  "result": "6-3 6-4",
+  "date": "2026-09-14"
+ },
+ {
   "playerId": "tenn-w-h4",
   "name": "Daria Kuczer",
   "teamId": "tenn-w",
@@ -67,6 +80,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Amarissa Kiara Toth",
   "result": "6-0 6-0",
+  "date": "2026-09-14"
+ },
+ {
+  "playerId": "lsu-m-p2",
+  "name": "Erik Arutiunian",
+  "teamId": "lsu-m",
+  "teamName": "LSU",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "Q3",
+  "won": true,
+  "opponent": "Spencer Johnson",
+  "result": "7-6(4) 7-6(6)",
   "date": "2026-09-14"
  },
  {
@@ -148,6 +174,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-14"
  },
  {
+  "playerId": "uva-m-h4",
+  "name": "Inaki Montes de la Torre",
+  "teamId": "uva-m",
+  "teamName": "Virginia",
+  "gender": "men",
+  "event": "Rennes Challenger",
+  "round": "First",
+  "won": false,
+  "opponent": "Murphy Cassone",
+  "result": "6-3 7-6(8)",
+  "date": "2026-09-14"
+ },
+ {
   "playerId": "bay-m-h6",
   "name": "Jake Finn Bass",
   "teamId": "bay-m",
@@ -158,6 +197,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Kenny de Schepper",
   "result": "7-6(5) 3-6 6-3",
+  "date": "2026-09-14"
+ },
+ {
+  "playerId": "osu-m-h11",
+  "name": "Jeff Wolf",
+  "teamId": "osu-m",
+  "teamName": "Ohio State",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "First",
+  "won": true,
+  "opponent": "Luciano Emanuel Ambrogi",
+  "result": "6-2 6-0",
   "date": "2026-09-14"
  },
  {
@@ -239,6 +291,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-14"
  },
  {
+  "playerId": "ou-m-n4",
+  "name": "Luciano Emanuel Ambrogi",
+  "teamId": "ou-m",
+  "teamName": "Oklahoma",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "First",
+  "won": false,
+  "opponent": "Jeff Wolf",
+  "result": "6-2 6-0",
+  "date": "2026-09-14"
+ },
+ {
   "playerId": "usc-w-h12",
   "name": "Madison Sieg",
   "teamId": "usc-w",
@@ -291,6 +356,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-14"
  },
  {
+  "playerId": "asu-m-h4",
+  "name": "Murphy Cassone",
+  "teamId": "asu-m",
+  "teamName": "Arizona State",
+  "gender": "men",
+  "event": "Rennes Challenger",
+  "round": "First",
+  "won": true,
+  "opponent": "Inaki Montes-De La Torre",
+  "result": "6-3 7-6(8)",
+  "date": "2026-09-14"
+ },
+ {
   "playerId": "msu-m-fp274",
   "name": "Ozan Baris",
   "teamId": "msu-m",
@@ -301,6 +379,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Evan Zhu",
   "result": "6-4 4-6 6-4",
+  "date": "2026-09-14"
+ },
+ {
+  "playerId": "mich-m-h7",
+  "name": "Patrick Maloney",
+  "teamId": "mich-m",
+  "teamName": "Michigan",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "First",
+  "won": true,
+  "opponent": "Alastair Gray",
+  "result": "6-3 5-7 7-6(3)",
   "date": "2026-09-14"
  },
  {
@@ -356,6 +447,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-14"
  },
  {
+  "playerId": "unc-m-h9",
+  "name": "Ryan Seggerman",
+  "teamId": "unc-m",
+  "teamName": "North Carolina",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "Q3",
+  "won": true,
+  "opponent": "Alex Rybakov",
+  "result": "7-6(6) 6-3",
+  "date": "2026-09-14"
+ },
+ {
   "playerId": "port-m-h5",
   "name": "Sema Pankin",
   "teamId": "port-m",
@@ -366,6 +470,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Elias Ymer",
   "result": "5-7 7-5 6-3",
+  "date": "2026-09-14"
+ },
+ {
+  "playerId": "tex-m-h11",
+  "name": "Timo Legout",
+  "teamId": "tex-m",
+  "teamName": "Texas",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "Q3",
+  "won": true,
+  "opponent": "Daniil Ostapenkov",
+  "result": "6-3 6-4",
   "date": "2026-09-14"
  },
  {
@@ -512,19 +629,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-13"
  },
  {
-  "playerId": "lsu-m-n1",
-  "name": "Daniil Ostapenkov",
-  "teamId": "lsu-m",
-  "teamName": "LSU",
-  "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Gus Grumet",
-  "result": "6-2 6-2",
-  "date": "2026-09-13"
- },
- {
   "playerId": "uga-w-h7",
   "name": "Dasha Vidmanova",
   "teamId": "uga-w",
@@ -535,19 +639,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Janice Tjen",
   "result": "7-6(6) 6-2",
-  "date": "2026-09-13"
- },
- {
-  "playerId": "lsu-m-p2",
-  "name": "Erik Arutiunian",
-  "teamId": "lsu-m",
-  "teamName": "LSU",
-  "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Nicholas Godsick",
-  "result": "6-3 6-1",
   "date": "2026-09-13"
  },
  {
@@ -863,19 +954,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-13"
  },
  {
-  "playerId": "unc-m-h9",
-  "name": "Ryan Seggerman",
-  "teamId": "unc-m",
-  "teamName": "North Carolina",
-  "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Andrew Fenty",
-  "result": "6-7(6) 7-5 6-2",
-  "date": "2026-09-13"
- },
- {
   "playerId": "stan-m-fp374",
   "name": "Samir Banerjee",
   "teamId": "stan-m",
@@ -912,19 +990,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Giuseppe La Vela",
   "result": "6-1 6-3",
-  "date": "2026-09-13"
- },
- {
-  "playerId": "tex-m-h11",
-  "name": "Timo Legout",
-  "teamId": "tex-m",
-  "teamName": "Texas",
-  "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Evan Bynoe",
-  "result": "6-1 6-4",
   "date": "2026-09-13"
  },
  {
@@ -1835,19 +1900,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Hugo Car",
   "result": "7-6(5) 6-4",
-  "date": "2026-09-06"
- },
- {
-  "playerId": "uva-m-h4",
-  "name": "Inaki Montes de la Torre",
-  "teamId": "uva-m",
-  "teamName": "Virginia",
-  "gender": "men",
-  "event": "Manacor Challenger",
-  "round": "Final",
-  "won": false,
-  "opponent": "Felix Balshaw",
-  "result": "3-6 6-2 6-3",
   "date": "2026-09-06"
  },
  {
@@ -2828,12 +2880,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "asu-m",
   "teamName": "Arizona State",
   "gender": "men",
-  "event": "Vancouver Challenger",
+  "event": "Rennes Challenger",
   "round": "First",
-  "won": false,
-  "opponent": "Harry Wendelken",
-  "result": "6-5 ret.",
-  "date": "2026-07-28"
+  "won": true,
+  "opponent": "Inaki Montes-De La Torre",
+  "result": "6-3 7-6(8)",
+  "date": "2026-09-14"
  },
  "asu-m-p1": {
   "playerId": "asu-m-p1",
@@ -7574,11 +7626,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "LSU",
   "gender": "men",
   "event": "Tiburon Challenger",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Gus Grumet",
-  "result": "6-2 6-2",
-  "date": "2026-09-13"
+  "round": "Q3",
+  "won": false,
+  "opponent": "Timo Legout",
+  "result": "6-3 6-4",
+  "date": "2026-09-14"
  },
  "lsu-m-n2": {
   "playerId": "lsu-m-n2",
@@ -7613,11 +7665,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "LSU",
   "gender": "men",
   "event": "Tiburon Challenger",
-  "round": "Q1",
+  "round": "Q3",
   "won": true,
-  "opponent": "Nicholas Godsick",
-  "result": "6-3 6-1",
-  "date": "2026-09-13"
+  "opponent": "Spencer Johnson",
+  "result": "7-6(4) 7-6(6)",
+  "date": "2026-09-14"
  },
  "lsu-m-p3": {
   "playerId": "lsu-m-p3",
@@ -8080,12 +8132,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "mich-m",
   "teamName": "Michigan",
   "gender": "men",
-  "event": "M25 East Lansing",
+  "event": "Tiburon Challenger",
   "round": "First",
-  "won": false,
-  "opponent": "Bryce Nakashima",
-  "result": "5-2 ret.",
-  "date": "2026-08-11"
+  "won": true,
+  "opponent": "Alastair Gray",
+  "result": "6-3 5-7 7-6(3)",
+  "date": "2026-09-14"
  },
  "mich-m-h8": {
   "playerId": "mich-m-h8",
@@ -10407,12 +10459,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "osu-m",
   "teamName": "Ohio State",
   "gender": "men",
-  "event": "U.S. Open - New York",
+  "event": "Tiburon Challenger",
   "round": "First",
-  "won": false,
-  "opponent": "Alexander Bublik",
-  "result": "6-4 6-2 3-6 6-1",
-  "date": "2026-08-31"
+  "won": true,
+  "opponent": "Luciano Emanuel Ambrogi",
+  "result": "6-2 6-0",
+  "date": "2026-09-14"
  },
  "osu-m-h2": {
   "playerId": "osu-m-h2",
@@ -10745,12 +10797,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ou-m",
   "teamName": "Oklahoma",
   "gender": "men",
-  "event": "Prague Challenger",
-  "round": "Q3",
+  "event": "Tiburon Challenger",
+  "round": "First",
   "won": false,
-  "opponent": "Oleksii Krutykh",
-  "result": "6-4 6-1",
-  "date": "2026-08-17"
+  "opponent": "Jeff Wolf",
+  "result": "6-2 6-0",
+  "date": "2026-09-14"
  },
  "ou-m-p1": {
   "playerId": "ou-m-p1",
@@ -14191,11 +14243,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Texas",
   "gender": "men",
   "event": "Tiburon Challenger",
-  "round": "Q1",
+  "round": "Q3",
   "won": true,
-  "opponent": "Evan Bynoe",
-  "result": "6-1 6-4",
-  "date": "2026-09-13"
+  "opponent": "Daniil Ostapenkov",
+  "result": "6-3 6-4",
+  "date": "2026-09-14"
  },
  "tex-m-h2": {
   "playerId": "tex-m-h2",
@@ -16648,11 +16700,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "North Carolina",
   "gender": "men",
   "event": "Tiburon Challenger",
-  "round": "Q1",
+  "round": "Q3",
   "won": true,
-  "opponent": "Andrew Fenty",
-  "result": "6-7(6) 7-5 6-2",
-  "date": "2026-09-13"
+  "opponent": "Alex Rybakov",
+  "result": "7-6(6) 6-3",
+  "date": "2026-09-14"
  },
  "unc-m-n1": {
   "playerId": "unc-m-n1",
@@ -17765,12 +17817,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "uva-m",
   "teamName": "Virginia",
   "gender": "men",
-  "event": "Manacor Challenger",
-  "round": "Final",
+  "event": "Rennes Challenger",
+  "round": "First",
   "won": false,
-  "opponent": "Felix Balshaw",
-  "result": "3-6 6-2 6-3",
-  "date": "2026-09-06"
+  "opponent": "Murphy Cassone",
+  "result": "6-3 7-6(8)",
+  "date": "2026-09-14"
  },
  "uva-m-h5": {
   "playerId": "uva-m-h5",
