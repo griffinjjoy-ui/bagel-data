@@ -595,9 +595,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Dong Ju Kim",
      "score": "6-4 6-3"
+    },
+    {
+     "id": "145263415",
+     "date": "2026-09-15",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Dominik Palan",
+     "score": "5-7 6-2 7-5"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   },
   {
