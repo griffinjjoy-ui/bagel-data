@@ -974,6 +974,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "152AC61B-AB84-42B2-B71E-84852C4F10A8",
+  "date": "2027-02-06",
+  "dateTime": "2027-02-06T05:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Presbyterian College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ala-w",
+   "name": "University Of Alabama",
+   "side": 2
+  }
+ },
+ {
   "id": "CB13E6BE-A73C-4DDF-8017-97095219925C",
   "date": "2027-02-06",
   "dateTime": "2027-02-06T16:00:00.000Z",
@@ -2619,6 +2636,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "aub-m",
    "name": "Auburn University",
+   "side": 2
+  }
+ },
+ {
+  "id": "0E7D2856-E711-45DA-B356-7AAC71F05659",
+  "date": "2027-03-27",
+  "dateTime": "2027-03-27T04:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Presbyterian College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ecu-w",
+   "name": "East Carolina University",
    "side": 2
   }
  },
