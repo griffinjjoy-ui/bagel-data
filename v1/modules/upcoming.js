@@ -74,6 +74,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "lsu-p8",
+  "name": "Cadence Brace",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Solana Sierra",
+  "event": "SP Open - Sao Paulo",
+  "date": "2026-09-16",
+  "day": "today"
+ },
+ {
   "playerId": "aub-w-h6",
   "name": "Carolyn Ansari",
   "teamId": "aub-w",
@@ -134,22 +144,22 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "lou-m-h5",
+  "name": "Etienne Donnet",
+  "teamId": "lou-m",
+  "gender": "men",
+  "opponent": "Sean Hodkin",
+  "event": "M25 Nevers",
+  "date": "2026-09-16",
+  "day": "today"
+ },
+ {
   "playerId": "msst-m-h1",
   "name": "Ewen Lumsden",
   "teamId": "msst-m",
   "gender": "men",
   "opponent": "William Nolan",
   "event": "M15 Monastir",
-  "date": "2026-09-16",
-  "day": "today"
- },
- {
-  "playerId": "wich-m-fp92",
-  "name": "Felix Bockelmann Evans",
-  "teamId": "wich-m",
-  "gender": "men",
-  "opponent": "Ryan Seggerman",
-  "event": "Tiburon Challenger",
   "date": "2026-09-16",
   "day": "today"
  },
@@ -170,6 +180,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Sahaja Yamalapalli",
   "event": "W75 Le Neubourg",
+  "date": "2026-09-16",
+  "day": "today"
+ },
+ {
+  "playerId": "lsu-p12",
+  "name": "Florentine Dekkers",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Nour Sahnoun",
+  "event": "W15 Monastir",
+  "date": "2026-09-16",
+  "day": "today"
+ },
+ {
+  "playerId": "duke-m-h2",
+  "name": "Garrett Johns",
+  "teamId": "duke-m",
+  "gender": "men",
+  "opponent": "Gabriele Maria Noce",
+  "event": "M25 Santa Margherita di Pula",
   "date": "2026-09-16",
   "day": "today"
  },
@@ -254,6 +284,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "gt-m-h3",
+  "name": "Keshav Chopra",
+  "teamId": "gt-m",
+  "gender": "men",
+  "opponent": "Raffael Gasanov",
+  "event": "M15 Hurghada",
+  "date": "2026-09-16",
+  "day": "today"
+ },
+ {
   "playerId": "osu-w-h3",
   "name": "Kolie Allen",
   "teamId": "osu-w",
@@ -334,6 +374,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "stan-m-h8",
+  "name": "Nishesh Basavareddy",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Sebastian Gorzny",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-16",
+  "day": "today"
+ },
+ {
   "playerId": "mich-m-h7",
   "name": "Patrick Maloney",
   "teamId": "mich-m",
@@ -384,11 +434,21 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "unc-m-h9",
-  "name": "Ryan Seggerman",
-  "teamId": "unc-m",
+  "playerId": "stan-m-fp374",
+  "name": "Samir Banerjee",
+  "teamId": "stan-m",
   "gender": "men",
-  "opponent": "Mitchell Krueger",
+  "opponent": "Noah Boutleux",
+  "event": "M25 Nevers",
+  "date": "2026-09-16",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-m-p8",
+  "name": "Sebastian Gorzny",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Nishesh Basavareddy",
   "event": "Tiburon Challenger",
   "date": "2026-09-16",
   "day": "today"
@@ -464,6 +524,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "osu-m-p7",
+  "name": "Bryce Nakashima",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Timo Legout",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-17",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "wich-m-fp92",
+  "name": "Felix Bockelmann Evans",
+  "teamId": "wich-m",
+  "gender": "men",
+  "opponent": "Ryan Seggerman",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-17",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "tamu-m-h16",
   "name": "Filip Pieczonka",
   "teamId": "tamu-m",
@@ -530,6 +610,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Florent Bax",
   "event": "Phan Thiet 4 Challenger",
+  "date": "2026-09-17",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "unc-m-h9",
+  "name": "Ryan Seggerman",
+  "teamId": "unc-m",
+  "gender": "men",
+  "opponent": "Mitchell Krueger",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-17",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tex-m-h11",
+  "name": "Timo Legout",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Bryce Nakashima",
+  "event": "Tiburon Challenger",
   "date": "2026-09-17",
   "day": "tomorrow"
  }
