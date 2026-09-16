@@ -161,6 +161,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "aub-m-p1": [
+  {
+   "key": "22066",
+   "name": "M15 Monastir",
+   "date": "2026-09-14",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "189993365",
+     "date": "2026-09-16",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Ammar Elamin",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "cal-m-p9": [
   {
    "key": "22047",

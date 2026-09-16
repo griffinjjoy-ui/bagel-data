@@ -544,6 +544,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "ucla-w-h8",
+  "name": "Ena Shibahara",
+  "teamId": "ucla-w",
+  "gender": "women",
+  "opponent": "Yuno Kitahara",
+  "event": "W35 Kyoto",
+  "date": "2026-09-17",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "wich-m-fp92",
   "name": "Felix Bockelmann Evans",
   "teamId": "wich-m",
@@ -624,12 +634,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "mich-m-h4",
+  "name": "Nino Ehrenschneider",
+  "teamId": "mich-m",
+  "gender": "men",
+  "opponent": "Kai-I Wang",
+  "event": "M25 Guiyang",
+  "date": "2026-09-17",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "tex-w-h12",
   "name": "Peyton Stearns",
   "teamId": "tex-w",
   "gender": "women",
   "opponent": "Sloane Stephens",
   "event": "Guadalajara Open Akron - Guadalajara",
+  "date": "2026-09-17",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ncst-w-h11",
+  "name": "Priska Nugroho",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Yufei Ren",
+  "event": "W35 Shenyang",
   "date": "2026-09-17",
   "day": "tomorrow"
  },
