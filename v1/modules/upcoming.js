@@ -524,6 +524,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "wake-m-h24",
+  "name": "Borna Gojo",
+  "teamId": "wake-m",
+  "gender": "men",
+  "opponent": "Matteo Martineau",
+  "event": "Rennes Challenger",
+  "date": "2026-09-17",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "osu-m-p7",
   "name": "Bryce Nakashima",
   "teamId": "osu-m",
@@ -610,6 +620,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Florent Bax",
   "event": "Phan Thiet 4 Challenger",
+  "date": "2026-09-17",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tex-w-h12",
+  "name": "Peyton Stearns",
+  "teamId": "tex-w",
+  "gender": "women",
+  "opponent": "Sloane Stephens",
+  "event": "Guadalajara Open Akron - Guadalajara",
   "date": "2026-09-17",
   "day": "tomorrow"
  },
