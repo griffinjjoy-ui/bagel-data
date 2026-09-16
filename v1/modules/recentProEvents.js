@@ -361,9 +361,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Hayu Kinoshita",
      "score": "7-5 7-6(9)"
+    },
+    {
+     "id": "172563578",
+     "date": "2026-09-16",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Solana Sierra",
+     "score": "6-4 3-6 6-1"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   },
   {
