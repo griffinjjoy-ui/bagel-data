@@ -44,6 +44,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-15"
  },
  {
+  "playerId": "haw-m-h2",
+  "name": "Andre Ilagan",
+  "teamId": "haw-m",
+  "teamName": "Hawaii",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "First",
+  "won": false,
+  "opponent": "Bryce Nakashima",
+  "result": "7-5 6-7(4) 7-6(3)",
+  "date": "2026-09-15"
+ },
+ {
   "playerId": "aub-w-h7",
   "name": "Ariana Arseneault",
   "teamId": "aub-w",
@@ -83,6 +96,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-15"
  },
  {
+  "playerId": "tenn-m-h10",
+  "name": "Blaise Bicknell",
+  "teamId": "tenn-m",
+  "teamName": "Tennessee",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "First",
+  "won": false,
+  "opponent": "Trevor Svajda",
+  "result": "4-6 7-5 7-5",
+  "date": "2026-09-15"
+ },
+ {
   "playerId": "wake-m-h24",
   "name": "Borna Gojo",
   "teamId": "wake-m",
@@ -106,6 +132,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Erik Arutiunian",
   "result": "6-3 6-4",
+  "date": "2026-09-15"
+ },
+ {
+  "playerId": "osu-m-p7",
+  "name": "Bryce Nakashima",
+  "teamId": "osu-m",
+  "teamName": "Ohio State",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "First",
+  "won": true,
+  "opponent": "Andre Ilagan",
+  "result": "7-5 6-7(4) 7-6(3)",
   "date": "2026-09-15"
  },
  {
@@ -434,6 +473,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-15"
  },
  {
+  "playerId": "stan-m-h8",
+  "name": "Nishesh Basavareddy",
+  "teamId": "stan-m",
+  "teamName": "Stanford",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "First",
+  "won": true,
+  "opponent": "Igor Ribeiro Marcondes",
+  "result": "6-2 6-2",
+  "date": "2026-09-15"
+ },
+ {
   "playerId": "ncst-w-h11",
   "name": "Priska Nugroho",
   "teamId": "ncst-w",
@@ -457,6 +509,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Aidan Mayo",
   "result": "1-6 6-4 6-4",
+  "date": "2026-09-15"
+ },
+ {
+  "playerId": "tex-m-h11",
+  "name": "Timo Legout",
+  "teamId": "tex-m",
+  "teamName": "Texas",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "First",
+  "won": true,
+  "opponent": "Henry Searle",
+  "result": "6-1 6-4",
   "date": "2026-09-15"
  },
  {
@@ -496,19 +561,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Tyler Zink",
   "result": "6-4 3-6 6-3",
-  "date": "2026-09-14"
- },
- {
-  "playerId": "osu-m-p7",
-  "name": "Bryce Nakashima",
-  "teamId": "osu-m",
-  "teamName": "Ohio State",
-  "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "Q3",
-  "won": true,
-  "opponent": "Quinn Vandecasteele",
-  "result": "6-2 6-4",
   "date": "2026-09-14"
  },
  {
@@ -834,19 +886,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Elias Ymer",
   "result": "5-7 7-5 6-3",
-  "date": "2026-09-14"
- },
- {
-  "playerId": "tex-m-h11",
-  "name": "Timo Legout",
-  "teamId": "tex-m",
-  "teamName": "Texas",
-  "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "Q3",
-  "won": true,
-  "opponent": "Daniil Ostapenkov",
-  "result": "6-3 6-4",
   "date": "2026-09-14"
  },
  {
@@ -6728,12 +6767,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "haw-m",
   "teamName": "Hawaii",
   "gender": "men",
-  "event": "U.S. Open - New York",
-  "round": "Q2",
+  "event": "Tiburon Challenger",
+  "round": "First",
   "won": false,
-  "opponent": "Hugo Gaston",
-  "result": "6-1 6-3",
-  "date": "2026-08-26"
+  "opponent": "Bryce Nakashima",
+  "result": "7-5 6-7(4) 7-6(3)",
+  "date": "2026-09-15"
  },
  "haw-m-n3": {
   "playerId": "haw-m-n3",
@@ -10694,11 +10733,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Ohio State",
   "gender": "men",
   "event": "Tiburon Challenger",
-  "round": "Q3",
+  "round": "First",
   "won": true,
-  "opponent": "Quinn Vandecasteele",
-  "result": "6-2 6-4",
-  "date": "2026-09-14"
+  "opponent": "Andre Ilagan",
+  "result": "7-5 6-7(4) 7-6(3)",
+  "date": "2026-09-15"
  },
  "osu-w-h11": {
   "playerId": "osu-w-h11",
@@ -12916,12 +12955,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "stan-m",
   "teamName": "Stanford",
   "gender": "men",
-  "event": "U.S. Open - New York",
+  "event": "Tiburon Challenger",
   "round": "First",
-  "won": false,
-  "opponent": "Tristan Schoolkate",
-  "result": "7-6(4) 3-6 6-3 6-4",
-  "date": "2026-09-01"
+  "won": true,
+  "opponent": "Igor Ribeiro Marcondes",
+  "result": "6-2 6-2",
+  "date": "2026-09-15"
  },
  "stan-m-p2": {
   "playerId": "stan-m-p2",
@@ -13904,12 +13943,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "tenn-m",
   "teamName": "Tennessee",
   "gender": "men",
-  "event": "Kingston 2 Challenger",
+  "event": "Tiburon Challenger",
   "round": "First",
   "won": false,
-  "opponent": "Ivan Marrero Curbelo",
-  "result": "3-6 7-5 6-2",
-  "date": "2026-08-26"
+  "opponent": "Trevor Svajda",
+  "result": "4-6 7-5 7-5",
+  "date": "2026-09-15"
  },
  "tenn-m-h11": {
   "playerId": "tenn-m-h11",
@@ -14373,11 +14412,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Texas",
   "gender": "men",
   "event": "Tiburon Challenger",
-  "round": "Q3",
+  "round": "First",
   "won": true,
-  "opponent": "Daniil Ostapenkov",
-  "result": "6-3 6-4",
-  "date": "2026-09-14"
+  "opponent": "Henry Searle",
+  "result": "6-1 6-4",
+  "date": "2026-09-15"
  },
  "tex-m-h2": {
   "playerId": "tex-m-h2",
