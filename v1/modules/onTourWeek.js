@@ -473,6 +473,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-16"
  },
  {
+  "playerId": "mich-m-h7",
+  "name": "Patrick Maloney",
+  "teamId": "mich-m",
+  "teamName": "Michigan",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "Second",
+  "won": false,
+  "opponent": "Michael Mmoh",
+  "result": "7-5 6-3",
+  "date": "2026-09-16"
+ },
+ {
   "playerId": "unc-m-h13",
   "name": "Patrick Schoen",
   "teamId": "unc-m",
@@ -1198,19 +1211,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Evan Zhu",
   "result": "6-4 4-6 6-4",
-  "date": "2026-09-14"
- },
- {
-  "playerId": "mich-m-h7",
-  "name": "Patrick Maloney",
-  "teamId": "mich-m",
-  "teamName": "Michigan",
-  "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Alastair Gray",
-  "result": "6-3 5-7 7-6(3)",
   "date": "2026-09-14"
  },
  {
@@ -8419,11 +8419,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Michigan",
   "gender": "men",
   "event": "Tiburon Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Alastair Gray",
-  "result": "6-3 5-7 7-6(3)",
-  "date": "2026-09-14"
+  "round": "Second",
+  "won": false,
+  "opponent": "Michael Mmoh",
+  "result": "7-5 6-3",
+  "date": "2026-09-16"
  },
  "mich-m-h8": {
   "playerId": "mich-m-h8",

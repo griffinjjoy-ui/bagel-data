@@ -2,7 +2,7 @@
 // Per-event draw state for this week: finished flag (the singleton
 // final round has a result), our champion when one of ours won it, and
 // per-player entry status (seed, main/quali, eliminated). Draws appear
-// when made: quali ~Saturday, main ~Sun/Mon. asOf 2026-09-16.
+// when made: quali ~Saturday, main ~Sun/Mon. asOf 2026-09-17.
 export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEvents ?? [
  {
   "event": "W35 Kyoto",
@@ -989,7 +989,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "seed": null,
     "entry": "PR",
     "inMain": true,
-    "eliminated": false,
+    "eliminated": true,
     "played": true
    },
    {
@@ -1081,7 +1081,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "ore-m-h7",
+    "playerId": "fla-m-p1",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -1089,7 +1089,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "fla-m-p1",
+    "playerId": "ore-m-h7",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -1105,7 +1105,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "tcu-m-p6",
+    "playerId": "uci-m-h7",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -1113,7 +1113,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "uci-m-h7",
+    "playerId": "tcu-m-p6",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -3095,7 +3095,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "seed": null,
   "entry": "PR",
   "inMain": true,
-  "hasUnplayed": true
+  "hasUnplayed": false
  },
  {
   "playerId": "ncst-m-h7",
@@ -3186,7 +3186,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "ore-m-h7",
+  "playerId": "fla-m-p1",
   "event": "Tiburon Challenger",
   "seed": null,
   "entry": null,
@@ -3194,7 +3194,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "fla-m-p1",
+  "playerId": "ore-m-h7",
   "event": "Tiburon Challenger",
   "seed": null,
   "entry": null,
@@ -3210,7 +3210,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tcu-m-p6",
+  "playerId": "uci-m-h7",
   "event": "Tiburon Challenger",
   "seed": null,
   "entry": null,
@@ -3218,7 +3218,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "uci-m-h7",
+  "playerId": "tcu-m-p6",
   "event": "Tiburon Challenger",
   "seed": null,
   "entry": null,
