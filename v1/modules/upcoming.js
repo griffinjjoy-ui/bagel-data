@@ -434,12 +434,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "tamu-m-h20",
+  "name": "Arthur Rinderknech",
+  "teamId": "tamu-m",
+  "gender": "men",
+  "opponent": "Liam Draxl",
+  "event": "Davis Cup, World Group, Q2, CAN-FRA",
+  "date": "2026-09-18",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "fla-m-h8",
+  "name": "Ben Shelton",
+  "teamId": "fla-m",
+  "gender": "men",
+  "opponent": "Jiri Lehecka",
+  "event": "Davis Cup, World Group, Q2, CZE-USA",
+  "date": "2026-09-18",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "wash-m-h10",
   "name": "Clement Chidekh",
   "teamId": "wash-m",
   "gender": "men",
   "opponent": "Harold Mayot",
   "event": "Rennes Challenger",
+  "date": "2026-09-18",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "wake-m-fp302",
+  "name": "Dhakshineswar Suresh",
+  "teamId": "wake-m",
+  "gender": "men",
+  "opponent": "Soon-Woo Kwon",
+  "event": "Davis Cup, World Group, Q2, KOR-IND",
   "date": "2026-09-18",
   "day": "tomorrow"
  },
@@ -460,6 +490,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Sebastian Gorzny",
   "event": "Tiburon Challenger",
+  "date": "2026-09-18",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "usc-m-h8",
+  "name": "Learner Tien",
+  "teamId": "usc-m",
+  "gender": "men",
+  "opponent": "Jakub Mensik",
+  "event": "Davis Cup, World Group, Q2, CZE-USA",
+  "date": "2026-09-18",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "uk-m-h1",
+  "name": "Liam Draxl",
+  "teamId": "uk-m",
+  "gender": "men",
+  "opponent": "Arthur Rinderknech",
+  "event": "Davis Cup, World Group, Q2, CAN-FRA",
   "date": "2026-09-18",
   "day": "tomorrow"
  },

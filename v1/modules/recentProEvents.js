@@ -177,9 +177,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Ammar Elamin",
      "score": "6-2 6-2"
+    },
+    {
+     "id": "230541647",
+     "date": "2026-09-17",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Mohamed Nazim Makhlouf",
+     "score": "7-5 0-6 6-4"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -778,9 +787,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Noah Boutleux",
      "score": "6-1 6-3"
+    },
+    {
+     "id": "230541392",
+     "date": "2026-09-17",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Robin Eldin",
+     "score": "6-3 7-5"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -1036,9 +1054,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Manuela Maia Citolino",
      "score": "6-0 6-1"
+    },
+    {
+     "id": "202041142",
+     "date": "2026-09-17",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Alicia Reichel",
+     "score": "6-0 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
