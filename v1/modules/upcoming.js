@@ -114,6 +114,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "msst-m-h1",
+  "name": "Ewen Lumsden",
+  "teamId": "msst-m",
+  "gender": "men",
+  "opponent": "Maxence Bertimon",
+  "event": "M15 Monastir",
+  "date": "2026-09-17",
+  "day": "today"
+ },
+ {
   "playerId": "wich-m-fp92",
   "name": "Felix Bockelmann Evans",
   "teamId": "wich-m",
@@ -244,6 +254,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tenn-p3",
+  "name": "Leyla Britez Risso",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Alicia Reichel",
+  "event": "W15 Sao Luis",
+  "date": "2026-09-17",
+  "day": "today"
+ },
+ {
   "playerId": "tcu-m-h5",
   "name": "Lui Maxted",
   "teamId": "tcu-m",
@@ -364,6 +384,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "unc-m-h2",
+  "name": "Vladislav Melnic",
+  "teamId": "unc-m",
+  "gender": "men",
+  "opponent": "Denys Klok",
+  "event": "M25 Zlatibor",
+  "date": "2026-09-17",
+  "day": "today"
+ },
+ {
   "playerId": "utah-w-h8",
   "name": "Yasmin Ezzat",
   "teamId": "utah-w",
@@ -404,12 +434,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "osu-m-h11",
+  "name": "Jeff Wolf",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Sebastian Gorzny",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-18",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "tex-w-h12",
   "name": "Peyton Stearns",
   "teamId": "tex-w",
   "gender": "women",
   "opponent": "Sloane Stephens",
   "event": "Guadalajara Open Akron - Guadalajara",
+  "date": "2026-09-18",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tex-m-p8",
+  "name": "Sebastian Gorzny",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Jeff Wolf",
+  "event": "Tiburon Challenger",
   "date": "2026-09-18",
   "day": "tomorrow"
  }

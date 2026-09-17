@@ -755,6 +755,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "stan-m-fp374": [
   {
+   "key": "22062",
+   "name": "M25 Nevers",
+   "date": "2026-09-14",
+   "surface": "I.hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "209566899",
+     "date": "2026-09-16",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Noah Boutleux",
+     "score": "6-1 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22045",
    "name": "M25 Plaisir",
    "date": "2026-09-07",
