@@ -114,6 +114,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "lou-m-h5",
+  "name": "Etienne Donnet",
+  "teamId": "lou-m",
+  "gender": "men",
+  "opponent": "Hugo Car",
+  "event": "M25 Nevers",
+  "date": "2026-09-17",
+  "day": "today"
+ },
+ {
   "playerId": "msst-m-h1",
   "name": "Ewen Lumsden",
   "teamId": "msst-m",
@@ -370,6 +380,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Mitchell Krueger",
   "event": "Tiburon Challenger",
+  "date": "2026-09-17",
+  "day": "today"
+ },
+ {
+  "playerId": "stan-m-fp374",
+  "name": "Samir Banerjee",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Robin Eldin",
+  "event": "M25 Nevers",
   "date": "2026-09-17",
   "day": "today"
  },

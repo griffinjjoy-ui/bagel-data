@@ -512,9 +512,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Dominik Palan",
      "score": "5-7 6-2 7-5"
+    },
+    {
+     "id": "210963605",
+     "date": "2026-09-17",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Florent Bax",
+     "score": "6-3 7-6(3)"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
