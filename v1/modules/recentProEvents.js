@@ -949,6 +949,37 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "tcu-m-fp30": [
+  {
+   "key": "22027",
+   "name": "Tiburon Challenger",
+   "date": "2026-09-14",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "92151205",
+     "date": "2026-09-13",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Li Tu",
+     "score": "6-4 6-4"
+    },
+    {
+     "id": "129889191",
+     "date": "2026-09-14",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Luca Staeheli",
+     "score": "4-6 6-2 6-3"
+    }
+   ],
+   "reached": "Q3",
+   "reachedTone": "neutral"
+  }
+ ],
  "tenn-m-n5": [
   {
    "key": "22055",
