@@ -354,12 +354,52 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "fla-m-h11",
+  "name": "Andres Andrade",
+  "teamId": "fla-m",
+  "gender": "men",
+  "opponent": "Toby Samuel",
+  "event": "Davis Cup, World Group, Q2, GBR-ECU",
+  "date": "2026-09-19",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "stan-m-h4",
+  "name": "Arthur Fery",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Alvaro Guillen Meza",
+  "event": "Davis Cup, World Group, Q2, GBR-ECU",
+  "date": "2026-09-19",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tex-m-n3",
+  "name": "Matej Dodig",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Alexander Zverev",
+  "event": "Davis Cup, World Group, Q2, GER-CRO",
+  "date": "2026-09-19",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "uva-m-h12",
   "name": "Rafael Jodar",
   "teamId": "uva-m",
   "gender": "men",
   "opponent": "Cristian Garin",
   "event": "Davis Cup, World Group, Q2, CHI-ESP",
+  "date": "2026-09-19",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "sc-m-h4",
+  "name": "Toby Samuel",
+  "teamId": "sc-m",
+  "gender": "men",
+  "opponent": "Andres Andrade",
+  "event": "Davis Cup, World Group, Q2, GBR-ECU",
   "date": "2026-09-19",
   "day": "tomorrow"
  }
