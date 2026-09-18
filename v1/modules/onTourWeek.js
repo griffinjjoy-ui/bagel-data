@@ -5,6 +5,19 @@
 // on the ITF/Challenger/WTA-ATP circuit right now, ranked or not.
 export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWeek ?? [
  {
+  "playerId": "ark-m-h14",
+  "name": "Alexandre Reco",
+  "teamId": "ark-m",
+  "teamName": "Arkansas",
+  "gender": "men",
+  "event": "M25 Nevers",
+  "round": "1/4",
+  "won": true,
+  "opponent": "Etienne Donnet",
+  "result": "6-4 3-6 6-1",
+  "date": "2026-09-18"
+ },
+ {
   "playerId": "bay-w-h13",
   "name": "Alicia Herrero Linana",
   "teamId": "bay-w",
@@ -15,6 +28,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Irene Burillo",
   "result": "6-2 6-1",
+  "date": "2026-09-18"
+ },
+ {
+  "playerId": "fla-m-h8",
+  "name": "Ben Shelton",
+  "teamId": "fla-m",
+  "teamName": "Florida",
+  "gender": "men",
+  "event": "Davis Cup, World Group, Q2, CZE-USA",
+  "round": "Rubber 2",
+  "won": false,
+  "opponent": "Jiri Lehecka",
+  "result": "6-4 6-4",
   "date": "2026-09-18"
  },
  {
@@ -67,6 +93,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Natsuki Yoshimoto",
   "result": "6-3 6-4",
+  "date": "2026-09-18"
+ },
+ {
+  "playerId": "lou-m-h5",
+  "name": "Etienne Donnet",
+  "teamId": "lou-m",
+  "teamName": "Louisville",
+  "gender": "men",
+  "event": "M25 Nevers",
+  "round": "1/4",
+  "won": false,
+  "opponent": "Alexandre Reco",
+  "result": "6-4 3-6 6-1",
   "date": "2026-09-18"
  },
  {
@@ -265,19 +304,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-18"
  },
  {
-  "playerId": "ark-m-h14",
-  "name": "Alexandre Reco",
-  "teamId": "ark-m",
-  "teamName": "Arkansas",
-  "gender": "men",
-  "event": "M25 Nevers",
-  "round": "Second",
-  "won": true,
-  "opponent": "Damien Clerc",
-  "result": "6-2 6-2",
-  "date": "2026-09-17"
- },
- {
   "playerId": "ncst-w-h3",
   "name": "Amelia Rajecki",
   "teamId": "ncst-w",
@@ -353,19 +379,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Martyna Kubka",
   "result": "7-5 4-6 6-1",
-  "date": "2026-09-17"
- },
- {
-  "playerId": "lou-m-h5",
-  "name": "Etienne Donnet",
-  "teamId": "lou-m",
-  "teamName": "Louisville",
-  "gender": "men",
-  "event": "M25 Nevers",
-  "round": "Second",
-  "won": true,
-  "opponent": "Hugo Car",
-  "result": "2-6 6-3 6-4",
   "date": "2026-09-17"
  },
  {
@@ -1406,19 +1419,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Oana Georgeta Simion",
   "result": "6-3 6-2",
-  "date": "2026-09-13"
- },
- {
-  "playerId": "fla-m-h8",
-  "name": "Ben Shelton",
-  "teamId": "fla-m",
-  "teamName": "Florida",
-  "gender": "men",
-  "event": "U.S. Open - New York",
-  "round": "Final",
-  "won": false,
-  "opponent": "Alexander Zverev",
-  "result": "6-3 7-6(2) 5-7 6-2",
   "date": "2026-09-13"
  },
  {
@@ -2712,11 +2712,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Arkansas",
   "gender": "men",
   "event": "M25 Nevers",
-  "round": "Second",
+  "round": "1/4",
   "won": true,
-  "opponent": "Damien Clerc",
-  "result": "6-2 6-2",
-  "date": "2026-09-17"
+  "opponent": "Etienne Donnet",
+  "result": "6-4 3-6 6-1",
+  "date": "2026-09-18"
  },
  "ark-m-h18": {
   "playerId": "ark-m-h18",
@@ -5766,12 +5766,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "fla-m",
   "teamName": "Florida",
   "gender": "men",
-  "event": "U.S. Open - New York",
-  "round": "Final",
+  "event": "Davis Cup, World Group, Q2, CZE-USA",
+  "round": "Rubber 2",
   "won": false,
-  "opponent": "Alexander Zverev",
-  "result": "6-3 7-6(2) 5-7 6-2",
-  "date": "2026-09-13"
+  "opponent": "Jiri Lehecka",
+  "result": "6-4 6-4",
+  "date": "2026-09-18"
  },
  "fla-m-h9": {
   "playerId": "fla-m-h9",
@@ -7574,11 +7574,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Louisville",
   "gender": "men",
   "event": "M25 Nevers",
-  "round": "Second",
-  "won": true,
-  "opponent": "Hugo Car",
-  "result": "2-6 6-3 6-4",
-  "date": "2026-09-17"
+  "round": "1/4",
+  "won": false,
+  "opponent": "Alexandre Reco",
+  "result": "6-4 3-6 6-1",
+  "date": "2026-09-18"
  },
  "lou-m-h7": {
   "playerId": "lou-m-h7",
