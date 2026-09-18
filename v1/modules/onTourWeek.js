@@ -70,6 +70,32 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-17"
  },
  {
+  "playerId": "wake-m-h24",
+  "name": "Borna Gojo",
+  "teamId": "wake-m",
+  "teamName": "Wake Forest",
+  "gender": "men",
+  "event": "Rennes Challenger",
+  "round": "Second",
+  "won": true,
+  "opponent": "Matteo Martineau",
+  "result": "6-4 6-4",
+  "date": "2026-09-17"
+ },
+ {
+  "playerId": "osu-m-p7",
+  "name": "Bryce Nakashima",
+  "teamId": "osu-m",
+  "teamName": "Ohio State",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "Second",
+  "won": true,
+  "opponent": "Timo Legout",
+  "result": "7-6(6) 6-2",
+  "date": "2026-09-17"
+ },
+ {
   "playerId": "unc-w-h8",
   "name": "Carson Tanguilig",
   "teamId": "unc-w",
@@ -431,6 +457,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Robin Eldin",
   "result": "6-3 7-5",
+  "date": "2026-09-17"
+ },
+ {
+  "playerId": "tex-m-h11",
+  "name": "Timo Legout",
+  "teamId": "tex-m",
+  "teamName": "Texas",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "Second",
+  "won": false,
+  "opponent": "Bryce Nakashima",
+  "result": "7-6(6) 6-2",
   "date": "2026-09-17"
  },
  {
@@ -889,32 +928,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-15"
  },
  {
-  "playerId": "wake-m-h24",
-  "name": "Borna Gojo",
-  "teamId": "wake-m",
-  "teamName": "Wake Forest",
-  "gender": "men",
-  "event": "Rennes Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Daniel Masur",
-  "result": "6-4 7-6(6)",
-  "date": "2026-09-15"
- },
- {
-  "playerId": "osu-m-p7",
-  "name": "Bryce Nakashima",
-  "teamId": "osu-m",
-  "teamName": "Ohio State",
-  "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Andre Ilagan",
-  "result": "7-5 6-7(4) 7-6(3)",
-  "date": "2026-09-15"
- },
- {
   "playerId": "harv-m-h3",
   "name": "Daniel Milavsky",
   "teamId": "harv-m",
@@ -1094,19 +1107,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Diane Parry",
   "result": "6-2 7-5",
-  "date": "2026-09-15"
- },
- {
-  "playerId": "tex-m-h11",
-  "name": "Timo Legout",
-  "teamId": "tex-m",
-  "teamName": "Texas",
-  "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Henry Searle",
-  "result": "6-1 6-4",
   "date": "2026-09-15"
  },
  {
@@ -10733,11 +10733,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Ohio State",
   "gender": "men",
   "event": "Tiburon Challenger",
-  "round": "First",
+  "round": "Second",
   "won": true,
-  "opponent": "Andre Ilagan",
-  "result": "7-5 6-7(4) 7-6(3)",
-  "date": "2026-09-15"
+  "opponent": "Timo Legout",
+  "result": "7-6(6) 6-2",
+  "date": "2026-09-17"
  },
  "osu-w-h11": {
   "playerId": "osu-w-h11",
@@ -14386,11 +14386,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Texas",
   "gender": "men",
   "event": "Tiburon Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Henry Searle",
-  "result": "6-1 6-4",
-  "date": "2026-09-15"
+  "round": "Second",
+  "won": false,
+  "opponent": "Bryce Nakashima",
+  "result": "7-6(6) 6-2",
+  "date": "2026-09-17"
  },
  "tex-m-h2": {
   "playerId": "tex-m-h2",
@@ -18715,11 +18715,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Wake Forest",
   "gender": "men",
   "event": "Rennes Challenger",
-  "round": "First",
+  "round": "Second",
   "won": true,
-  "opponent": "Daniel Masur",
-  "result": "6-4 7-6(6)",
-  "date": "2026-09-15"
+  "opponent": "Matteo Martineau",
+  "result": "6-4 6-4",
+  "date": "2026-09-17"
  },
  "wake-m-h3": {
   "playerId": "wake-m-h3",
