@@ -19,6 +19,12 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "end": "2026-09-20"
   },
   {
+    "id": "6aad8bb0e3ae706de93458a6",
+    "name": "2nd Annual Memphis Invite",
+    "start": "2026-09-18",
+    "end": "2026-09-20"
+  },
+  {
     "id": "6aa2d020e3ae706de9beb926",
     "name": "2026 ITA Men's All American Championships",
     "start": "2026-09-19",
