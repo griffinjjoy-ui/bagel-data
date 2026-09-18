@@ -54,6 +54,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "wake-m-h24",
+  "name": "Borna Gojo",
+  "teamId": "wake-m",
+  "gender": "men",
+  "opponent": "Titouan Droguet",
+  "event": "Rennes Challenger",
+  "date": "2026-09-18",
+  "day": "today"
+ },
+ {
+  "playerId": "osu-m-p7",
+  "name": "Bryce Nakashima",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Darwin Blanch",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-18",
+  "day": "today"
+ },
+ {
   "playerId": "okst-m-h6",
   "name": "Chase Ferguson",
   "teamId": "okst-m",
@@ -110,6 +130,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Ergi Kirkin",
   "event": "M15 Monastir",
+  "date": "2026-09-18",
+  "day": "today"
+ },
+ {
+  "playerId": "wich-m-fp92",
+  "name": "Felix Bockelmann Evans",
+  "teamId": "wich-m",
+  "gender": "men",
+  "opponent": "Michael Zheng",
+  "event": "Tiburon Challenger",
   "date": "2026-09-18",
   "day": "today"
  },
@@ -280,6 +310,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Alibek Kachmazov",
   "event": "M25 Guiyang",
+  "date": "2026-09-18",
+  "day": "today"
+ },
+ {
+  "playerId": "stan-m-fp374",
+  "name": "Samir Banerjee",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Loann Massard",
+  "event": "M25 Nevers",
   "date": "2026-09-18",
   "day": "today"
  },

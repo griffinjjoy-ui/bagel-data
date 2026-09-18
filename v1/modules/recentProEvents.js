@@ -12,7 +12,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "1293147",
+     "id": "1293212",
      "date": "2026-09-08",
      "roundId": 4,
      "round": "First",
@@ -21,7 +21,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "2-6 6-4 6-4"
     },
     {
-     "id": "1293131",
+     "id": "1293193",
      "date": "2026-09-10",
      "roundId": 5,
      "round": "Second",
@@ -30,7 +30,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-2 6-1"
     },
     {
-     "id": "12474024",
+     "id": "1293188",
      "date": "2026-09-11",
      "roundId": 9,
      "round": "QF",
@@ -39,7 +39,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "3-6 6-4 6-3"
     },
     {
-     "id": "44622756",
+     "id": "1293202",
      "date": "2026-09-12",
      "roundId": 10,
      "round": "SF",
@@ -48,7 +48,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "7-6(4) 6-4"
     },
     {
-     "id": "83763680",
+     "id": "1293206",
      "date": "2026-09-13",
      "roundId": 12,
      "round": "Final",
@@ -68,7 +68,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "1286586",
+     "id": "1286594",
      "date": "2026-09-02",
      "roundId": 4,
      "round": "First",
@@ -77,7 +77,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "7-6(2) 6-3"
     },
     {
-     "id": "1286601",
+     "id": "1286609",
      "date": "2026-09-03",
      "roundId": 5,
      "round": "Second",
@@ -99,7 +99,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "1294039",
+     "id": "1294568",
      "date": "2026-09-06",
      "roundId": 1,
      "round": "Q1",
@@ -108,7 +108,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-1 6-2"
     },
     {
-     "id": "1294038",
+     "id": "1294566",
      "date": "2026-09-07",
      "roundId": 2,
      "round": "Q2",
@@ -117,7 +117,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "3-6 6-1 11-9"
     },
     {
-     "id": "1294029",
+     "id": "1294556",
      "date": "2026-09-08",
      "roundId": 3,
      "round": "Q3",
@@ -126,7 +126,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-2 6-3"
     },
     {
-     "id": "1294030",
+     "id": "1294557",
      "date": "2026-09-09",
      "roundId": 4,
      "round": "First",
@@ -148,7 +148,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "1294036",
+     "id": "1294564",
      "date": "2026-09-09",
      "roundId": 4,
      "round": "First",
@@ -170,7 +170,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "189993365",
+     "id": "1295375",
      "date": "2026-09-16",
      "roundId": 4,
      "round": "First",
@@ -179,7 +179,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-2 6-2"
     },
     {
-     "id": "230541647",
+     "id": "1295382",
      "date": "2026-09-17",
      "roundId": 5,
      "round": "Second",
@@ -201,7 +201,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "1293460",
+     "id": "1293889",
      "date": "2026-09-08",
      "roundId": 4,
      "round": "First",
@@ -221,7 +221,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "1291937",
+     "id": "1291945",
      "date": "2026-09-02",
      "roundId": 4,
      "round": "First",
@@ -230,7 +230,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "4-6 6-2 5-2 ret."
     },
     {
-     "id": "1291956",
+     "id": "1291964",
      "date": "2026-09-03",
      "roundId": 5,
      "round": "Second",
@@ -239,7 +239,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-7(4) 6-2 6-3"
     },
     {
-     "id": "1291929",
+     "id": "1291937",
      "date": "2026-09-04",
      "roundId": 9,
      "round": "QF",
@@ -261,7 +261,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Tour",
    "matches": [
     {
-     "id": "48706222",
+     "id": "871491",
      "date": "2026-09-12",
      "roundId": 1,
      "round": "Q1",
@@ -283,7 +283,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "99140479",
+     "id": "1293390",
      "date": "2026-09-13",
      "roundId": 1,
      "round": "Q1",
@@ -292,7 +292,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-2 6-2"
     },
     {
-     "id": "131286824",
+     "id": "1293374",
      "date": "2026-09-14",
      "roundId": 3,
      "round": "Q3",
@@ -314,7 +314,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "90753266",
+     "id": "1293381",
      "date": "2026-09-13",
      "roundId": 1,
      "round": "Q1",
@@ -323,7 +323,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-3 6-1"
     },
     {
-     "id": "132684468",
+     "id": "1293389",
      "date": "2026-09-14",
      "roundId": 3,
      "round": "Q3",
@@ -332,7 +332,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "7-6(4) 7-6(6)"
     },
     {
-     "id": "164830456",
+     "id": "1293376",
      "date": "2026-09-15",
      "roundId": 4,
      "round": "First",
@@ -354,7 +354,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Tour",
    "matches": [
     {
-     "id": "53612592",
+     "id": "871534",
      "date": "2026-09-12",
      "roundId": 1,
      "round": "Q1",
@@ -363,7 +363,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-3 6-4"
     },
     {
-     "id": "84272008",
+     "id": "871539",
      "date": "2026-09-13",
      "roundId": 3,
      "round": "Q3",
@@ -372,7 +372,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "7-5 7-6(9)"
     },
     {
-     "id": "172563578",
+     "id": "871535",
      "date": "2026-09-16",
      "roundId": 4,
      "round": "First",
@@ -392,7 +392,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "904624",
+     "id": "904735",
      "date": "2026-09-08",
      "roundId": 4,
      "round": "First",
@@ -414,7 +414,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "78171971",
+     "id": "1293526",
      "date": "2026-09-13",
      "roundId": 1,
      "round": "Q1",
@@ -434,7 +434,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "1292033",
+     "id": "1292041",
      "date": "2026-09-02",
      "roundId": 4,
      "round": "First",
@@ -443,7 +443,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-4 6-4"
     },
     {
-     "id": "1292082",
+     "id": "1292090",
      "date": "2026-09-03",
      "roundId": 5,
      "round": "Second",
@@ -452,7 +452,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-3 6-3"
     },
     {
-     "id": "1292010",
+     "id": "1292018",
      "date": "2026-09-04",
      "roundId": 9,
      "round": "QF",
@@ -474,7 +474,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "1293949",
+     "id": "1294464",
      "date": "2026-09-09",
      "roundId": 4,
      "round": "First",
@@ -496,7 +496,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "69784534",
+     "id": "1293572",
      "date": "2026-09-13",
      "roundId": 1,
      "round": "Q1",
@@ -505,7 +505,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-3 4-0 ret."
     },
     {
-     "id": "104731874",
+     "id": "1293579",
      "date": "2026-09-14",
      "roundId": 3,
      "round": "Q3",
@@ -514,7 +514,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-4 6-3"
     },
     {
-     "id": "145263415",
+     "id": "1293585",
      "date": "2026-09-15",
      "roundId": 4,
      "round": "First",
@@ -523,7 +523,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "5-7 6-2 7-5"
     },
     {
-     "id": "210963605",
+     "id": "1293569",
      "date": "2026-09-17",
      "roundId": 5,
      "round": "Second",
@@ -543,7 +543,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "1293177",
+     "id": "1293251",
      "date": "2026-09-06",
      "roundId": 1,
      "round": "Q1",
@@ -552,7 +552,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-4 6-2"
     },
     {
-     "id": "1293190",
+     "id": "1293266",
      "date": "2026-09-07",
      "roundId": 3,
      "round": "Q3",
@@ -561,7 +561,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-3 6-2"
     },
     {
-     "id": "1293170",
+     "id": "1293242",
      "date": "2026-09-08",
      "roundId": 4,
      "round": "First",
@@ -583,7 +583,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "905121",
+     "id": "905441",
      "date": "2026-09-09",
      "roundId": 4,
      "round": "First",
@@ -592,7 +592,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-1 6-2"
     },
     {
-     "id": "905124",
+     "id": "905444",
      "date": "2026-09-10",
      "roundId": 5,
      "round": "Second",
@@ -612,7 +612,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "903563",
+     "id": "903661",
      "date": "2026-09-02",
      "roundId": 4,
      "round": "First",
@@ -634,7 +634,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "97742641",
+     "id": "1293382",
      "date": "2026-09-13",
      "roundId": 1,
      "round": "Q1",
@@ -643,7 +643,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "7-5 6-0"
     },
     {
-     "id": "128491569",
+     "id": "1293365",
      "date": "2026-09-14",
      "roundId": 3,
      "round": "Q3",
@@ -652,16 +652,25 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-2 6-4"
     },
     {
-     "id": "167626019",
+     "id": "1293359",
      "date": "2026-09-15",
      "roundId": 4,
      "round": "First",
      "won": true,
      "opponent": "Andre Ilagan",
      "score": "7-5 6-7(4) 7-6(3)"
+    },
+    {
+     "id": "1293368",
+     "date": "2026-09-17",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Timo Legout",
+     "score": "7-6(6) 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -674,7 +683,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "132684458",
+     "id": "1293369",
      "date": "2026-09-14",
      "roundId": 4,
      "round": "First",
@@ -696,7 +705,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "139672687",
+     "id": "1293372",
      "date": "2026-09-15",
      "roundId": 4,
      "round": "First",
@@ -718,7 +727,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "1293145",
+     "id": "1293210",
      "date": "2026-09-08",
      "roundId": 4,
      "round": "First",
@@ -740,7 +749,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "209566899",
+     "id": "1295114",
      "date": "2026-09-16",
      "roundId": 4,
      "round": "First",
@@ -749,7 +758,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-1 6-3"
     },
     {
-     "id": "230541392",
+     "id": "1295127",
      "date": "2026-09-17",
      "roundId": 5,
      "round": "Second",
@@ -769,7 +778,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "1293287",
+     "id": "1293698",
      "date": "2026-09-09",
      "roundId": 4,
      "round": "First",
@@ -778,7 +787,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-4 6-3"
     },
     {
-     "id": "1293278",
+     "id": "1293688",
      "date": "2026-09-10",
      "roundId": 5,
      "round": "Second",
@@ -787,7 +796,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-3 6-4"
     },
     {
-     "id": "16667241",
+     "id": "1293684",
      "date": "2026-09-11",
      "roundId": 9,
      "round": "QF",
@@ -796,7 +805,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-3 6-4"
     },
     {
-     "id": "57203704",
+     "id": "1293697",
      "date": "2026-09-12",
      "roundId": 10,
      "round": "SF",
@@ -805,7 +814,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "7-5 6-3"
     },
     {
-     "id": "111720859",
+     "id": "1293709",
      "date": "2026-09-13",
      "roundId": 12,
      "round": "Final",
@@ -827,7 +836,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "90753266",
+     "id": "1293381",
      "date": "2026-09-13",
      "roundId": 1,
      "round": "Q1",
@@ -849,7 +858,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "1294123",
+     "id": "1294659",
      "date": "2026-09-08",
      "roundId": 4,
      "round": "First",
@@ -858,7 +867,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-2 6-2"
     },
     {
-     "id": "1294117",
+     "id": "1294652",
      "date": "2026-09-10",
      "roundId": 5,
      "round": "Second",
@@ -867,7 +876,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-4 6-3"
     },
     {
-     "id": "8282120",
+     "id": "1294650",
      "date": "2026-09-11",
      "roundId": 9,
      "round": "QF",
@@ -876,7 +885,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-4 2-6 7-6(4)"
     },
     {
-     "id": "41828167",
+     "id": "1294661",
      "date": "2026-09-12",
      "roundId": 10,
      "round": "SF",
@@ -896,7 +905,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "1291766",
+     "id": "1291774",
      "date": "2026-09-01",
      "roundId": 4,
      "round": "First",
@@ -905,7 +914,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-2 2-6 6-4"
     },
     {
-     "id": "1291756",
+     "id": "1291764",
      "date": "2026-09-03",
      "roundId": 5,
      "round": "Second",
@@ -914,7 +923,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "7-5 ret."
     },
     {
-     "id": "1291776",
+     "id": "1291784",
      "date": "2026-09-04",
      "roundId": 9,
      "round": "QF",
@@ -936,7 +945,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "92151205",
+     "id": "1293347",
      "date": "2026-09-13",
      "roundId": 1,
      "round": "Q1",
@@ -945,7 +954,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-4 6-4"
     },
     {
-     "id": "129889191",
+     "id": "1293378",
      "date": "2026-09-14",
      "roundId": 3,
      "round": "Q3",
@@ -967,7 +976,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "1294053",
+     "id": "1294582",
      "date": "2026-09-09",
      "roundId": 4,
      "round": "First",
@@ -976,7 +985,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-3 1-6 6-1"
     },
     {
-     "id": "1294021",
+     "id": "1294544",
      "date": "2026-09-10",
      "roundId": 5,
      "round": "Second",
@@ -985,7 +994,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-2 6-4"
     },
     {
-     "id": "50215180",
+     "id": "1294552",
      "date": "2026-09-11",
      "roundId": 9,
      "round": "QF",
@@ -1007,7 +1016,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "143161478",
+     "id": "906134",
      "date": "2026-09-15",
      "roundId": 4,
      "round": "First",
@@ -1016,7 +1025,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-0 6-1"
     },
     {
-     "id": "202041142",
+     "id": "906118",
      "date": "2026-09-17",
      "roundId": 5,
      "round": "Second",
@@ -1036,7 +1045,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "905247",
+     "id": "905586",
      "date": "2026-09-08",
      "roundId": 4,
      "round": "First",
@@ -1045,7 +1054,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-4 6-0"
     },
     {
-     "id": "905265",
+     "id": "905610",
      "date": "2026-09-10",
      "roundId": 5,
      "round": "Second",
@@ -1054,7 +1063,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-2 6-1"
     },
     {
-     "id": "20528903",
+     "id": "905594",
      "date": "2026-09-11",
      "roundId": 9,
      "round": "QF",
@@ -1076,7 +1085,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Tour",
    "matches": [
     {
-     "id": "47479645",
+     "id": "871460",
      "date": "2026-09-12",
      "roundId": 1,
      "round": "Q1",
@@ -1085,7 +1094,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-2 6-4"
     },
     {
-     "id": "79367522",
+     "id": "871487",
      "date": "2026-09-13",
      "roundId": 3,
      "round": "Q3",
@@ -1105,7 +1114,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "904618",
+     "id": "904729",
      "date": "2026-09-07",
      "roundId": 4,
      "round": "First",
@@ -1127,7 +1136,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "1292841",
+     "id": "1292849",
      "date": "2026-09-08",
      "roundId": 4,
      "round": "First",
@@ -1136,7 +1145,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-3 4-0 ret."
     },
     {
-     "id": "1292842",
+     "id": "1292850",
      "date": "2026-09-10",
      "roundId": 5,
      "round": "Second",
@@ -1145,7 +1154,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "5-3 ret."
     },
     {
-     "id": "25053236",
+     "id": "1292860",
      "date": "2026-09-11",
      "roundId": 9,
      "round": "QF",
@@ -1154,7 +1163,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-7(4) 6-2 7-6(5)"
     },
     {
-     "id": "61396863",
+     "id": "1292895",
      "date": "2026-09-12",
      "roundId": 10,
      "round": "SF",
@@ -1174,7 +1183,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "Challenger",
    "matches": [
     {
-     "id": "1286535",
+     "id": "1286543",
      "date": "2026-08-31",
      "roundId": 4,
      "round": "First",
@@ -1183,7 +1192,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-2 6-3"
     },
     {
-     "id": "1286549",
+     "id": "1286557",
      "date": "2026-09-02",
      "roundId": 5,
      "round": "Second",
@@ -1192,7 +1201,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-7(1) 7-6(3) 7-5"
     },
     {
-     "id": "1286545",
+     "id": "1286553",
      "date": "2026-09-04",
      "roundId": 9,
      "round": "QF",
@@ -1201,7 +1210,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "2-6 7-6(1) 6-3"
     },
     {
-     "id": "1286506",
+     "id": "1286514",
      "date": "2026-09-05",
      "roundId": 10,
      "round": "SF",
@@ -1210,7 +1219,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-3 6-0"
     },
     {
-     "id": "1286502",
+     "id": "1286510",
      "date": "2026-09-06",
      "roundId": 12,
      "round": "Final",
@@ -1232,7 +1241,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "1292175",
+     "id": "1292183",
      "date": "2026-09-01",
      "roundId": 4,
      "round": "First",
@@ -1250,7 +1259,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-2 6-3"
     },
     {
-     "id": "1292179",
+     "id": "1292187",
      "date": "2026-09-02",
      "roundId": 5,
      "round": "Second",
@@ -1272,7 +1281,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "1292020",
+     "id": "1292028",
      "date": "2026-09-02",
      "roundId": 4,
      "round": "First",
@@ -1281,7 +1290,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-1 6-1"
     },
     {
-     "id": "1292006",
+     "id": "1292014",
      "date": "2026-09-03",
      "roundId": 5,
      "round": "Second",
@@ -1290,7 +1299,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-3 6-2"
     },
     {
-     "id": "1292025",
+     "id": "1292033",
      "date": "2026-09-04",
      "roundId": 9,
      "round": "QF",
@@ -1299,7 +1308,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-7(8) 6-4 6-4"
     },
     {
-     "id": "1292038",
+     "id": "1292046",
      "date": "2026-09-05",
      "roundId": 10,
      "round": "SF",
@@ -1308,7 +1317,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-1 6-2"
     },
     {
-     "id": "1292000",
+     "id": "1292008",
      "date": "2026-09-06",
      "roundId": 12,
      "round": "Final",
@@ -1330,7 +1339,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "904421",
+     "id": "904519",
      "date": "2026-09-02",
      "roundId": 4,
      "round": "First",
