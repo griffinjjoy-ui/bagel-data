@@ -668,9 +668,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Timo Legout",
      "score": "7-6(6) 6-2"
+    },
+    {
+     "id": "23670287",
+     "date": "2026-09-18",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Darwin Blanch",
+     "score": "6-3 6-3"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -1032,9 +1041,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Alicia Reichel",
      "score": "6-0 6-1"
+    },
+    {
+     "id": "19311219",
+     "date": "2026-09-18",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Beatriz Nahmias Melo Rodrigues",
+     "score": "6-4 6-2"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {

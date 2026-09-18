@@ -44,6 +44,32 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-18"
  },
  {
+  "playerId": "wake-m-h24",
+  "name": "Borna Gojo",
+  "teamId": "wake-m",
+  "teamName": "Wake Forest",
+  "gender": "men",
+  "event": "Rennes Challenger",
+  "round": "1/4",
+  "won": false,
+  "opponent": "Titouan Droguet",
+  "result": "6-2 3-6 6-3",
+  "date": "2026-09-18"
+ },
+ {
+  "playerId": "osu-m-p7",
+  "name": "Bryce Nakashima",
+  "teamId": "osu-m",
+  "teamName": "Ohio State",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "1/4",
+  "won": false,
+  "opponent": "Darwin Blanch",
+  "result": "6-3 6-3",
+  "date": "2026-09-18"
+ },
+ {
   "playerId": "okst-m-h6",
   "name": "Chase Ferguson",
   "teamId": "okst-m",
@@ -213,6 +239,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-18"
  },
  {
+  "playerId": "tenn-p3",
+  "name": "Leyla Britez Risso",
+  "teamId": "tenn-w",
+  "teamName": "Tennessee",
+  "gender": "women",
+  "event": "W15 Sao Luis",
+  "round": "1/4",
+  "won": true,
+  "opponent": "Beatriz Nahmias Melo Rodrigues",
+  "result": "6-4 6-2",
+  "date": "2026-09-18"
+ },
+ {
   "playerId": "tcu-m-h5",
   "name": "Lui Maxted",
   "teamId": "tcu-m",
@@ -343,32 +382,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-17"
  },
  {
-  "playerId": "wake-m-h24",
-  "name": "Borna Gojo",
-  "teamId": "wake-m",
-  "teamName": "Wake Forest",
-  "gender": "men",
-  "event": "Rennes Challenger",
-  "round": "Second",
-  "won": true,
-  "opponent": "Matteo Martineau",
-  "result": "6-4 6-4",
-  "date": "2026-09-17"
- },
- {
-  "playerId": "osu-m-p7",
-  "name": "Bryce Nakashima",
-  "teamId": "osu-m",
-  "teamName": "Ohio State",
-  "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "Second",
-  "won": true,
-  "opponent": "Timo Legout",
-  "result": "7-6(6) 6-2",
-  "date": "2026-09-17"
- },
- {
   "playerId": "unc-w-h8",
   "name": "Carson Tanguilig",
   "teamId": "unc-w",
@@ -457,19 +470,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Ivan Gretskiy",
   "result": "4-6 6-3 6-4",
-  "date": "2026-09-17"
- },
- {
-  "playerId": "tenn-p3",
-  "name": "Leyla Britez Risso",
-  "teamId": "tenn-w",
-  "teamName": "Tennessee",
-  "gender": "women",
-  "event": "W15 Sao Luis",
-  "round": "Second",
-  "won": true,
-  "opponent": "Alicia Reichel",
-  "result": "6-0 6-1",
   "date": "2026-09-17"
  },
  {
@@ -10681,11 +10681,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Ohio State",
   "gender": "men",
   "event": "Tiburon Challenger",
-  "round": "Second",
-  "won": true,
-  "opponent": "Timo Legout",
-  "result": "7-6(6) 6-2",
-  "date": "2026-09-17"
+  "round": "1/4",
+  "won": false,
+  "opponent": "Darwin Blanch",
+  "result": "6-3 6-3",
+  "date": "2026-09-18"
  },
  "osu-w-h11": {
   "playerId": "osu-w-h11",
@@ -14165,11 +14165,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Tennessee",
   "gender": "women",
   "event": "W15 Sao Luis",
-  "round": "Second",
+  "round": "1/4",
   "won": true,
-  "opponent": "Alicia Reichel",
-  "result": "6-0 6-1",
-  "date": "2026-09-17"
+  "opponent": "Beatriz Nahmias Melo Rodrigues",
+  "result": "6-4 6-2",
+  "date": "2026-09-18"
  },
  "tenn-p5": {
   "playerId": "tenn-p5",
@@ -18663,11 +18663,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Wake Forest",
   "gender": "men",
   "event": "Rennes Challenger",
-  "round": "Second",
-  "won": true,
-  "opponent": "Matteo Martineau",
-  "result": "6-4 6-4",
-  "date": "2026-09-17"
+  "round": "1/4",
+  "won": false,
+  "opponent": "Titouan Droguet",
+  "result": "6-2 3-6 6-3",
+  "date": "2026-09-18"
  },
  "wake-m-h3": {
   "playerId": "wake-m-h3",

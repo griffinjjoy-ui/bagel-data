@@ -8,7 +8,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "provider": "0C0C5061-99EE-47B8-98F6-10707CB21B46",
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
-  "fetchedAt": "2026-09-18T19:26:09.558Z",
+  "fetchedAt": "2026-09-18T21:38:01.477Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -109,12 +109,12 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          {
           "pos": 9,
           "bye": false,
-          "seed": 3,
-          "name": "Victor Lilov",
-          "school": "Ohio State University",
+          "seed": null,
+          "name": "Lachlan Gaskell",
+          "school": "UNC Chapel Hill",
           "abbr": null,
-          "pid": "osu-m-p6",
-          "wtn": 6.04
+          "pid": "unc-m-p1",
+          "wtn": 7.55
          },
          {
           "pos": 10,
@@ -150,11 +150,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 13,
           "bye": false,
           "seed": null,
-          "name": "Cassius Chinlund",
-          "school": "UCLA",
+          "name": "Blake Hilsen",
+          "school": "Virginia Tech",
           "abbr": null,
-          "pid": "ucla-m-p1",
-          "wtn": 6.48
+          "pid": "vt-m-p2",
+          "wtn": 7.58
          },
          {
           "pos": 14,
@@ -2320,12 +2320,12 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "University Of Tulsa",
             "sides": [
              {
-              "name": "Victor Lilov",
+              "name": "Lachlan Gaskell",
               "abbr": null,
-              "school": "Ohio State University",
-              "pid": "osu-m-p6",
-              "wtn": 6.04,
-              "seed": 3
+              "school": "UNC Chapel Hill",
+              "pid": "unc-m-p1",
+              "wtn": 7.55,
+              "seed": null
              },
              {
               "name": "Lenn Luemkemann",
@@ -2372,11 +2372,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "University Of Tulsa",
             "sides": [
              {
-              "name": "Cassius Chinlund",
+              "name": "Blake Hilsen",
               "abbr": null,
-              "school": "UCLA",
-              "pid": "ucla-m-p1",
-              "wtn": 6.48,
+              "school": "Virginia Tech",
+              "pid": "vt-m-p2",
+              "wtn": 7.58,
               "seed": null
              },
              {
@@ -6489,8 +6489,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          {
           "pos": 5,
           "bye": false,
-          "seed": 3,
-          "name": "Bracks/Gokpinar",
+          "seed": null,
+          "name": "Auytayakul/Santiago Arraez",
           "school": null,
           "abbr": null,
           "pid": null,
@@ -6832,12 +6832,12 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "University Of Tulsa",
             "sides": [
              {
-              "name": "Bracks/Gokpinar",
+              "name": "Auytayakul/Santiago Arraez",
               "abbr": null,
               "school": null,
               "pid": null,
               "wtn": null,
-              "seed": 3
+              "seed": null
              },
              {
               "name": "Pires/Farzam",
@@ -7402,7 +7402,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "provider": "ADFB82DF-D1F9-4F1A-B4DA-7EDA8F7A1B5B",
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
-  "fetchedAt": "2026-09-18T19:26:11.928Z",
+  "fetchedAt": "2026-09-18T21:38:03.981Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
