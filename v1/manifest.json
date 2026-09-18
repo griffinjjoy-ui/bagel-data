@@ -1,5 +1,5 @@
 {
- "version": "a8591ade97",
+ "version": "8d2df5f21b",
  "asOf": "2026-09-18",
  "files": {
   "proRankings.js": {
@@ -47,12 +47,12 @@
    "bytes": 77236
   },
   "roster2627.js": {
-   "hash": "36101a08bb",
-   "bytes": 374682
+   "hash": "25bf05acad",
+   "bytes": 374734
   },
   "recentProEvents.js": {
-   "hash": "19b8fd6fd1",
-   "bytes": 26291
+   "hash": "b882c620bf",
+   "bytes": 26106
   }
  }
 }

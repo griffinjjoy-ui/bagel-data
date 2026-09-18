@@ -659,18 +659,9 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Andre Ilagan",
      "score": "7-5 6-7(4) 7-6(3)"
-    },
-    {
-     "id": "233336527",
-     "date": "2026-09-17",
-     "roundId": 5,
-     "round": "Second",
-     "won": true,
-     "opponent": "Timo Legout",
-     "score": "7-6(6) 6-2"
     }
    ],
-   "reached": "Second",
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
