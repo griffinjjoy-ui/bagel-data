@@ -5,6 +5,45 @@
 // on the ITF/Challenger/WTA-ATP circuit right now, ranked or not.
 export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWeek ?? [
  {
+  "playerId": "okst-m-h6",
+  "name": "Chase Ferguson",
+  "teamId": "okst-m",
+  "teamName": "Oklahoma State",
+  "gender": "men",
+  "event": "M25 Guiyang",
+  "round": "1/4",
+  "won": true,
+  "opponent": "Sheng Tang",
+  "result": "6-3 6-4",
+  "date": "2026-09-18"
+ },
+ {
+  "playerId": "wake-m-fp302",
+  "name": "Dhakshineswar Suresh",
+  "teamId": "wake-m",
+  "teamName": "Wake Forest",
+  "gender": "men",
+  "event": "Davis Cup, World Group, Q2, KOR-IND",
+  "round": "Rubber 1",
+  "won": false,
+  "opponent": "Soon-Woo Kwon",
+  "result": "3-6 6-3 6-4",
+  "date": "2026-09-18"
+ },
+ {
+  "playerId": "ucla-w-h8",
+  "name": "Ena Shibahara",
+  "teamId": "ucla-w",
+  "teamName": "UCLA",
+  "gender": "women",
+  "event": "W35 Kyoto",
+  "round": "1/4",
+  "won": true,
+  "opponent": "Natsuki Yoshimoto",
+  "result": "6-3 6-4",
+  "date": "2026-09-18"
+ },
+ {
   "playerId": "ill-m-h3",
   "name": "Hunter Heck",
   "teamId": "ill-m",
@@ -18,6 +57,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-18"
  },
  {
+  "playerId": "mich-m-h4",
+  "name": "Nino Ehrenschneider",
+  "teamId": "mich-m",
+  "teamName": "Michigan",
+  "gender": "men",
+  "event": "M25 Guiyang",
+  "round": "1/4",
+  "won": false,
+  "opponent": "Nikolai Barsukov",
+  "result": "6-3 6-7(1) 6-1",
+  "date": "2026-09-18"
+ },
+ {
   "playerId": "tex-w-h12",
   "name": "Peyton Stearns",
   "teamId": "tex-w",
@@ -28,6 +80,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Sloane Stephens",
   "result": "7-6(6) 6-4",
+  "date": "2026-09-18"
+ },
+ {
+  "playerId": "ncst-m-h3",
+  "name": "Robin Catry",
+  "teamId": "ncst-m",
+  "teamName": "NC State",
+  "gender": "men",
+  "event": "M25 Guiyang",
+  "round": "1/4",
+  "won": false,
+  "opponent": "Alibek Kachmazov",
+  "result": "6-3 6-4",
   "date": "2026-09-18"
  },
  {
@@ -132,32 +197,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Martyna Kubka",
   "result": "7-5 4-6 6-1",
-  "date": "2026-09-17"
- },
- {
-  "playerId": "okst-m-h6",
-  "name": "Chase Ferguson",
-  "teamId": "okst-m",
-  "teamName": "Oklahoma State",
-  "gender": "men",
-  "event": "M25 Guiyang",
-  "round": "Second",
-  "won": true,
-  "opponent": "Zhenxiong Dong",
-  "result": "4-6 6-4 6-4",
-  "date": "2026-09-17"
- },
- {
-  "playerId": "ucla-w-h8",
-  "name": "Ena Shibahara",
-  "teamId": "ucla-w",
-  "teamName": "UCLA",
-  "gender": "women",
-  "event": "W35 Kyoto",
-  "round": "Second",
-  "won": true,
-  "opponent": "Yuno Kitahara",
-  "result": "6-1 6-2",
   "date": "2026-09-17"
  },
  {
@@ -395,19 +434,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-17"
  },
  {
-  "playerId": "mich-m-h4",
-  "name": "Nino Ehrenschneider",
-  "teamId": "mich-m",
-  "teamName": "Michigan",
-  "gender": "men",
-  "event": "M25 Guiyang",
-  "round": "Second",
-  "won": true,
-  "opponent": "Kai-I Wang",
-  "result": "7-6(5) 6-4",
-  "date": "2026-09-17"
- },
- {
   "playerId": "unc-m-h13",
   "name": "Patrick Schoen",
   "teamId": "unc-m",
@@ -444,19 +470,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Alibek Kachmazov",
   "result": "7-5 6-1",
-  "date": "2026-09-17"
- },
- {
-  "playerId": "ncst-m-h3",
-  "name": "Robin Catry",
-  "teamId": "ncst-m",
-  "teamName": "NC State",
-  "gender": "men",
-  "event": "M25 Guiyang",
-  "round": "Second",
-  "won": true,
-  "opponent": "Seon Yong Han",
-  "result": "6-1 4-6 7-6(4)",
   "date": "2026-09-17"
  },
  {
@@ -8198,11 +8211,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Michigan",
   "gender": "men",
   "event": "M25 Guiyang",
-  "round": "Second",
-  "won": true,
-  "opponent": "Kai-I Wang",
-  "result": "7-6(5) 6-4",
-  "date": "2026-09-17"
+  "round": "1/4",
+  "won": false,
+  "opponent": "Nikolai Barsukov",
+  "result": "6-3 6-7(1) 6-1",
+  "date": "2026-09-18"
  },
  "mich-m-h5": {
   "playerId": "mich-m-h5",
@@ -9433,11 +9446,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "NC State",
   "gender": "men",
   "event": "M25 Guiyang",
-  "round": "Second",
-  "won": true,
-  "opponent": "Seon Yong Han",
-  "result": "6-1 4-6 7-6(4)",
-  "date": "2026-09-17"
+  "round": "1/4",
+  "won": false,
+  "opponent": "Alibek Kachmazov",
+  "result": "6-3 6-4",
+  "date": "2026-09-18"
  },
  "ncst-m-h5": {
   "playerId": "ncst-m-h5",
@@ -10187,11 +10200,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Oklahoma State",
   "gender": "men",
   "event": "M25 Guiyang",
-  "round": "Second",
+  "round": "1/4",
   "won": true,
-  "opponent": "Zhenxiong Dong",
-  "result": "4-6 6-4 6-4",
-  "date": "2026-09-17"
+  "opponent": "Sheng Tang",
+  "result": "6-3 6-4",
+  "date": "2026-09-18"
  },
  "okst-m-p1": {
   "playerId": "okst-m-p1",
@@ -15725,11 +15738,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "UCLA",
   "gender": "women",
   "event": "W35 Kyoto",
-  "round": "Second",
+  "round": "1/4",
   "won": true,
-  "opponent": "Yuno Kitahara",
-  "result": "6-1 6-2",
-  "date": "2026-09-17"
+  "opponent": "Natsuki Yoshimoto",
+  "result": "6-3 6-4",
+  "date": "2026-09-18"
  },
  "ucla-w-n1": {
   "playerId": "ucla-w-n1",
@@ -18571,12 +18584,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "wake-m",
   "teamName": "Wake Forest",
   "gender": "men",
-  "event": "Winston-Salem Open - Winston-Salem",
-  "round": "Second",
+  "event": "Davis Cup, World Group, Q2, KOR-IND",
+  "round": "Rubber 1",
   "won": false,
-  "opponent": "Juan Manuel Cerundolo",
-  "result": "7-6(10) 6-3",
-  "date": "2026-08-25"
+  "opponent": "Soon-Woo Kwon",
+  "result": "3-6 6-3 6-4",
+  "date": "2026-09-18"
  },
  "wake-m-h1": {
   "playerId": "wake-m-h1",

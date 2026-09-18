@@ -1330,6 +1330,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "gold"
   }
  ],
+ "wake-m-fp302": [
+  {
+   "key": "22115",
+   "name": "Davis Cup, World Group, Q2, KOR-IND",
+   "date": "2026-09-14",
+   "surface": "Hard",
+   "tier": "Davis/Fed Cup",
+   "matches": [
+    {
+     "id": "6889432",
+     "date": "2026-09-18",
+     "roundId": 13,
+     "round": "Rubber 1",
+     "won": false,
+     "opponent": "Soon-Woo Kwon",
+     "score": "3-6 6-3 6-4"
+    }
+   ],
+   "reached": "Rubber 1",
+   "reachedTone": "neutral"
+  }
+ ],
  "wash-w-p7": [
   {
    "key": "17249",

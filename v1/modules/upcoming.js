@@ -34,6 +34,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "duke-m-h1",
+  "name": "Andreja Petrovic",
+  "teamId": "duke-m",
+  "gender": "men",
+  "opponent": "Thomas Faurel",
+  "event": "M25 Nevers",
+  "date": "2026-09-18",
+  "day": "today"
+ },
+ {
   "playerId": "tamu-m-h20",
   "name": "Arthur Rinderknech",
   "teamId": "tamu-m",
@@ -224,6 +234,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tenn-p3",
+  "name": "Leyla Britez Risso",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Beatriz Nahmias Melo Rodrigues",
+  "event": "W15 Sao Luis",
+  "date": "2026-09-18",
+  "day": "today"
+ },
+ {
   "playerId": "uk-m-h1",
   "name": "Liam Draxl",
   "teamId": "uk-m",
@@ -332,6 +352,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "event": "Tiburon Challenger",
   "date": "2026-09-18",
   "day": "today"
+ },
+ {
+  "playerId": "uva-m-h12",
+  "name": "Rafael Jodar",
+  "teamId": "uva-m",
+  "gender": "men",
+  "opponent": "Cristian Garin",
+  "event": "Davis Cup, World Group, Q2, CHI-ESP",
+  "date": "2026-09-19",
+  "day": "tomorrow"
  }
 ];
 
