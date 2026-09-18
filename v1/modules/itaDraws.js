@@ -8,7 +8,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "provider": "0C0C5061-99EE-47B8-98F6-10707CB21B46",
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
-  "fetchedAt": "2026-09-18T17:44:00.084Z",
+  "fetchedAt": "2026-09-18T18:02:47.664Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -7402,7 +7402,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "provider": "ADFB82DF-D1F9-4F1A-B4DA-7EDA8F7A1B5B",
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
-  "fetchedAt": "2026-09-18T17:44:02.754Z",
+  "fetchedAt": "2026-09-18T18:02:50.318Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -10072,7 +10072,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 124,
           "bye": false,
           "seed": null,
-          "name": "Georgia Kulevich Georgia Kulevich",
+          "name": "Georgia Kulevich",
           "school": "University Of Kentucky",
           "abbr": "UK",
           "pid": "uk-p4",
@@ -12622,7 +12622,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "seed": null
              },
              {
-              "name": "Georgia Kulevich Georgia Kulevich",
+              "name": "Georgia Kulevich",
               "abbr": "UK",
               "school": "University Of Kentucky",
               "pid": "uk-p4",
