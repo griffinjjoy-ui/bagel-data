@@ -1,5 +1,5 @@
 {
- "version": "471041c496",
+ "version": "4b6cf392cf",
  "asOf": "2026-09-18",
  "files": {
   "proRankings.js": {
@@ -7,8 +7,8 @@
    "bytes": 286667
   },
   "onTourWeek.js": {
-   "hash": "1d2d0ca24b",
-   "bytes": 426763
+   "hash": "b12adb6e34",
+   "bytes": 424482
   },
   "upcoming.js": {
    "hash": "50d1d82dd3",
@@ -19,8 +19,8 @@
    "bytes": 17314
   },
   "itaDraws.js": {
-   "hash": "e773365fbb",
-   "bytes": 456400
+   "hash": "59a3579ba2",
+   "bytes": 456412
   },
   "collegeRanks.js": {
    "hash": "f44ee258b7",

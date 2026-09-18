@@ -8,7 +8,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "provider": "0C0C5061-99EE-47B8-98F6-10707CB21B46",
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
-  "fetchedAt": "2026-09-18T21:47:14.585Z",
+  "fetchedAt": "2026-09-18T22:37:06.375Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -7402,13 +7402,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "provider": "ADFB82DF-D1F9-4F1A-B4DA-7EDA8F7A1B5B",
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
-  "fetchedAt": "2026-09-18T21:47:17.402Z",
+  "fetchedAt": "2026-09-18T22:37:09.345Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
     "name": "Women's open doubles",
     "type": "doubles",
-    "fieldSize": 480,
+    "fieldSize": 481,
     "draws": [
      {
       "drawName": "Pre Qualifying Draw",
@@ -8826,7 +8826,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
     "eventId": "E7DFA31E-6393-4B00-96A0-0C04B28B95FC",
     "name": "Women's open singles",
     "type": "singles",
-    "fieldSize": 480,
+    "fieldSize": 481,
     "draws": [
      {
       "drawName": "Pre Qualifying Draw",
@@ -10431,12 +10431,12 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          {
           "pos": 160,
           "bye": false,
-          "seed": 40,
-          "name": "Karolina Kozakova",
-          "school": "University Of Washington",
-          "abbr": "UW",
-          "pid": "wash-w-p3",
-          "wtn": 14.56
+          "seed": null,
+          "name": "Dominika Podhajecka",
+          "school": "University Of Miami",
+          "abbr": "MIAMI",
+          "pid": "miami-w-fp320",
+          "wtn": 15.77
          },
          {
           "pos": 161,
@@ -13090,12 +13090,12 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "seed": null
              },
              {
-              "name": "Karolina Kozakova",
-              "abbr": "UW",
-              "school": "University Of Washington",
-              "pid": "wash-w-p3",
-              "wtn": 14.56,
-              "seed": 40
+              "name": "Dominika Podhajecka",
+              "abbr": "MIAMI",
+              "school": "University Of Miami",
+              "pid": "miami-w-fp320",
+              "wtn": 15.77,
+              "seed": null
              }
             ]
            },

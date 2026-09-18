@@ -5201,19 +5201,6 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "result": "6-2 4-6 6-0",
   "date": "2019-05-02"
  },
- "duke-m-p5": {
-  "playerId": "duke-m-p5",
-  "name": "Dylan Long",
-  "teamId": "duke-m",
-  "teamName": "Duke",
-  "gender": "men",
-  "event": "Turkey F23",
-  "round": "Q1",
-  "won": false,
-  "opponent": "Javier Araya",
-  "result": "6-1 6-0",
-  "date": "2014-06-30"
- },
  "duke-m-p8": {
   "playerId": "duke-m-p8",
   "name": "Cooper Williams",
@@ -5798,19 +5785,6 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "opponent": "Roan Jones",
   "result": "7-6(6) 6-2",
   "date": "2026-07-17"
- },
- "fla-m-n3": {
-  "playerId": "fla-m-n3",
-  "name": "Chen Ye",
-  "teamId": "fla-m",
-  "teamName": "Florida",
-  "gender": "men",
-  "event": "China F8",
-  "round": "First",
-  "won": false,
-  "opponent": "Daniel Yoo",
-  "result": "6-2 6-2",
-  "date": "2011-06-13"
  },
  "fla-m-p1": {
   "playerId": "fla-m-p1",
@@ -7319,19 +7293,6 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "opponent": "Mei Hasegawa",
   "result": "3-0 ret.",
   "date": "2023-07-27"
- },
- "ku-w-p8": {
-  "playerId": "ku-w-p8",
-  "name": "Anna Putilina",
-  "teamId": "ku-w",
-  "teamName": "Kansas",
-  "gender": "women",
-  "event": "Buffalo",
-  "round": "Q2",
-  "won": false,
-  "opponent": "Vanessa Ong",
-  "result": "6-0 6-3",
-  "date": "2016-05-30"
  },
  "lbsu-w-fp345": {
   "playerId": "lbsu-w-fp345",
@@ -11324,19 +11285,6 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "result": "6-3 6-4",
   "date": "2024-08-02"
  },
- "penn-w-p8": {
-  "playerId": "penn-w-p8",
-  "name": "Emma Tomova",
-  "teamId": "penn-w",
-  "teamName": "Penn",
-  "gender": "women",
-  "event": "Athens Open - Athens",
-  "round": "First",
-  "won": false,
-  "opponent": "Barbora Krejcikova",
-  "result": "6-3 6-3",
-  "date": "2026-07-14"
- },
  "pepp-m-h1": {
   "playerId": "pepp-m-h1",
   "name": "Daniel De Jonge",
@@ -12597,19 +12545,6 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "opponent": "Mario Mansilla Diez",
   "result": "6-3 6-0",
   "date": "2019-11-17"
- },
- "smc-m-p2": {
-  "playerId": "smc-m-p2",
-  "name": "Juan Pedro Etchecoin",
-  "teamId": "smc-m",
-  "teamName": "Saint Mary's",
-  "gender": "men",
-  "event": "Maceio",
-  "round": "First",
-  "won": false,
-  "opponent": "Francisco Roig",
-  "result": "3-6 6-3 6-2",
-  "date": "1992-02-03"
  },
  "smc-m-p7": {
   "playerId": "smc-m-p7",
@@ -15302,19 +15237,6 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "result": "6-1 6-4",
   "date": "2026-06-04"
  },
- "ucd-m-fp172": {
-  "playerId": "ucd-m-fp172",
-  "name": "Perry Di Giulio",
-  "teamId": "ucd-m",
-  "teamName": "UC Davis",
-  "gender": "men",
-  "event": "USA F29",
-  "round": "Second",
-  "won": false,
-  "opponent": "Mackenzie Mcdonald",
-  "result": "4-6 6-1 6-2",
-  "date": "2016-09-22"
- },
  "ucd-m-h4": {
   "playerId": "ucd-m-h4",
   "name": "Andras Necz",
@@ -15340,19 +15262,6 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "opponent": "Evan Bynoe",
   "result": "6-2 6-0",
   "date": "2022-07-11"
- },
- "ucd-w-n1": {
-  "playerId": "ucd-w-n1",
-  "name": "Eva Wang",
-  "teamId": "ucd-w",
-  "teamName": "UC Davis",
-  "gender": "women",
-  "event": "Advanta Championships - Philadelphia, Pennsylvania",
-  "round": "Q2",
-  "won": false,
-  "opponent": "Katie Schlukebir",
-  "result": "6-2 7-5",
-  "date": "2000-11-06"
  },
  "ucf-m-h1": {
   "playerId": "ucf-m-h1",
@@ -15873,19 +15782,6 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "opponent": "Alyssa Ahn",
   "result": "5-7 6-4 10-6",
   "date": "2026-08-04"
- },
- "ucr-m-p1": {
-  "playerId": "ucr-m-p1",
-  "name": "Michael Chang",
-  "teamId": "ucr-m",
-  "teamName": "UC Riverside",
-  "gender": "men",
-  "event": "U.S. Open - New York",
-  "round": "First",
-  "won": false,
-  "opponent": "Fernando Gonzalez",
-  "result": "6-3 7-5 5-7 6-4",
-  "date": "2003-08-26"
  },
  "ucsb-m-h3": {
   "playerId": "ucsb-m-h3",
