@@ -4,6 +4,16 @@
 // included). Opponent + event, no result yet. Re-run the script to refresh.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
+  "playerId": "ark-m-h14",
+  "name": "Alexandre Reco",
+  "teamId": "ark-m",
+  "gender": "men",
+  "opponent": "Aidan Mchugh",
+  "event": "M25 Nevers",
+  "date": "2026-09-19",
+  "day": "today"
+ },
+ {
   "playerId": "bay-w-h13",
   "name": "Alicia Herrero Linana",
   "teamId": "bay-w",
@@ -94,6 +104,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "unc-w-h2",
+  "name": "Fiona Crawley",
+  "teamId": "unc-w",
+  "gender": "women",
+  "opponent": "Manon Leonard",
+  "event": "W75 Le Neubourg",
+  "date": "2026-09-19",
+  "day": "today"
+ },
+ {
   "playerId": "cuse-w-h8",
   "name": "Gabriela Andrea Knutson",
   "teamId": "cuse-w",
@@ -114,6 +134,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "osu-m-h11",
+  "name": "Jeff Wolf",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Michael Mmoh",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-19",
+  "day": "today"
+ },
+ {
   "playerId": "corn-w-h13",
   "name": "Lan Mi",
   "teamId": "corn-w",
@@ -130,6 +160,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Jiri Lehecka",
   "event": "Davis Cup, World Group, Q2, CZE-USA",
+  "date": "2026-09-19",
+  "day": "today"
+ },
+ {
+  "playerId": "tenn-p3",
+  "name": "Leyla Britez Risso",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Julia Konishi Camargo Silva",
+  "event": "W15 Sao Luis",
   "date": "2026-09-19",
   "day": "today"
  },
@@ -168,7 +208,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "name": "Peyton Stearns",
   "teamId": "tex-w",
   "gender": "women",
-  "opponent": "Liudmila Samsonova",
+  "opponent": "Iva Jovic",
   "event": "Guadalajara Open Akron - Guadalajara",
   "date": "2026-09-19",
   "day": "today"

@@ -754,9 +754,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Robin Eldin",
      "score": "6-3 7-5"
+    },
+    {
+     "id": "34861353",
+     "date": "2026-09-18",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Loann Massard",
+     "score": "6-4 6-3"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
