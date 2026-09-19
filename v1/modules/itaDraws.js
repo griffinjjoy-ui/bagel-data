@@ -8,7 +8,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "provider": "0C0C5061-99EE-47B8-98F6-10707CB21B46",
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
-  "fetchedAt": "2026-09-19T00:12:50.319Z",
+  "tz": null,
+  "fetchedAt": "2026-09-19T01:29:36.950Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -6550,7 +6551,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 11,
           "bye": false,
           "seed": null,
-          "name": "Vedovelli/Baroni",
+          "name": "Kamendje/Purohit",
           "school": null,
           "abbr": null,
           "pid": null,
@@ -6910,7 +6911,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "LaFortune",
             "sides": [
              {
-              "name": "Vedovelli/Baroni",
+              "name": "Kamendje/Purohit",
               "abbr": null,
               "school": null,
               "pid": null,
@@ -7402,7 +7403,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "provider": "ADFB82DF-D1F9-4F1A-B4DA-7EDA8F7A1B5B",
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
-  "fetchedAt": "2026-09-19T00:12:52.965Z",
+  "tz": "ET",
+  "fetchedAt": "2026-09-19T01:29:39.503Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
