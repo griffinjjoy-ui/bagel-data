@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-19T19:44:21.752Z",
+  "fetchedAt": "2026-09-19T19:56:21.973Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -3121,8 +3121,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            {
             "roundName": "R256",
             "status": "COMPLETED",
-            "score": "6-4 2-6 1-6",
-            "winningSide": 2,
+            "score": "4-6 6-2 6-1",
+            "winningSide": 1,
             "when": "2026-09-19T11:00",
             "venue": "LaFortune",
             "sides": [
@@ -5321,12 +5321,12 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "seed": null
              },
              {
-              "name": "Chris Xu",
+              "name": "Yazid Lahjomri",
               "abbr": null,
-              "school": "UNC Chapel Hill",
-              "pid": "unc-m-p10",
-              "wtn": 6.3,
-              "seed": 18
+              "school": "Univ. Of Nevada, Las Vegas",
+              "pid": null,
+              "wtn": 7.28,
+              "seed": null
              }
             ]
            },
@@ -7789,7 +7789,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-19T19:44:24.581Z",
+  "fetchedAt": "2026-09-19T19:56:24.774Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -12916,9 +12916,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 3-6",
+            "winningSide": 2,
             "when": "2026-09-19T14:00",
             "venue": "CTP",
             "sides": [
@@ -12942,9 +12942,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "2-6 4-6",
+            "winningSide": 2,
             "when": "2026-09-19T14:00",
             "venue": "CTP",
             "sides": [
@@ -14773,8 +14773,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
-             null
+             {
+              "name": "Ekua Youri",
+              "abbr": "UCSB",
+              "school": "University Of California, Santa Barbara",
+              "pid": "ucsb-w-p10",
+              "wtn": 15.54,
+              "seed": null
+             },
+             {
+              "name": "Maddy Zampardo",
+              "abbr": "UNC",
+              "school": "UNC Chapel Hill",
+              "pid": "unc-w-p11",
+              "wtn": 14.57,
+              "seed": 30
+             }
             ]
            },
            {
@@ -17053,15 +17067,23 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 123,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Sara Shumate",
+          "school": "University Of Oklahoma",
+          "abbr": "OKLA",
+          "pid": "ou-w-n4",
+          "wtn": 15.59
          },
          {
           "pos": 124,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Gabriella Rawles",
+          "school": "University of Notre Dame",
+          "abbr": "NOTRD",
+          "pid": "nd-w-p5",
+          "wtn": 15.55
          },
          {
           "pos": 125,
@@ -18262,8 +18284,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
-             null
+             {
+              "name": "Sara Shumate",
+              "abbr": "OKLA",
+              "school": "University Of Oklahoma",
+              "pid": "ou-w-n4",
+              "wtn": 15.59,
+              "seed": null
+             },
+             {
+              "name": "Gabriella Rawles",
+              "abbr": "NOTRD",
+              "school": "University of Notre Dame",
+              "pid": "nd-w-p5",
+              "wtn": 15.55,
+              "seed": null
+             }
             ]
            },
            {
@@ -19169,7 +19205,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,
