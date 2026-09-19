@@ -5,6 +5,45 @@
 // on the ITF/Challenger/WTA-ATP circuit right now, ranked or not.
 export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWeek ?? [
  {
+  "playerId": "okst-m-h6",
+  "name": "Chase Ferguson",
+  "teamId": "okst-m",
+  "teamName": "Oklahoma State",
+  "gender": "men",
+  "event": "M25 Guiyang",
+  "round": "1/2",
+  "won": false,
+  "opponent": "Yunseong Chung",
+  "result": "6-2 6-3",
+  "date": "2026-09-19"
+ },
+ {
+  "playerId": "ucla-w-h8",
+  "name": "Ena Shibahara",
+  "teamId": "ucla-w",
+  "teamName": "UCLA",
+  "gender": "women",
+  "event": "W35 Kyoto",
+  "round": "1/2",
+  "won": false,
+  "opponent": "Jia-Jing Lu",
+  "result": "6-2 6-4",
+  "date": "2026-09-19"
+ },
+ {
+  "playerId": "ill-m-h3",
+  "name": "Hunter Heck",
+  "teamId": "ill-m",
+  "teamName": "Illinois",
+  "gender": "men",
+  "event": "Phan Thiet 4 Challenger",
+  "round": "1/2",
+  "won": false,
+  "opponent": "Ilia Simakin",
+  "result": "6-7(7) 7-5 6-2",
+  "date": "2026-09-19"
+ },
+ {
   "playerId": "tex-w-h12",
   "name": "Peyton Stearns",
   "teamId": "tex-w",
@@ -122,19 +161,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-18"
  },
  {
-  "playerId": "okst-m-h6",
-  "name": "Chase Ferguson",
-  "teamId": "okst-m",
-  "teamName": "Oklahoma State",
-  "gender": "men",
-  "event": "M25 Guiyang",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Sheng Tang",
-  "result": "6-3 6-4",
-  "date": "2026-09-18"
- },
- {
   "playerId": "wash-m-h10",
   "name": "Clement Chidekh",
   "teamId": "wash-m",
@@ -158,19 +184,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Soon-Woo Kwon",
   "result": "3-6 6-3 6-4",
-  "date": "2026-09-18"
- },
- {
-  "playerId": "ucla-w-h8",
-  "name": "Ena Shibahara",
-  "teamId": "ucla-w",
-  "teamName": "UCLA",
-  "gender": "women",
-  "event": "W35 Kyoto",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Natsuki Yoshimoto",
-  "result": "6-3 6-4",
   "date": "2026-09-18"
  },
  {
@@ -236,19 +249,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Malaika Rapolu",
   "result": "6-2 1-6 6-4",
-  "date": "2026-09-18"
- },
- {
-  "playerId": "ill-m-h3",
-  "name": "Hunter Heck",
-  "teamId": "ill-m",
-  "teamName": "Illinois",
-  "gender": "men",
-  "event": "Phan Thiet 4 Challenger",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Matthew Dellavedova",
-  "result": "6-4 6-2",
   "date": "2026-09-18"
  },
  {
@@ -6794,11 +6794,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Illinois",
   "gender": "men",
   "event": "Phan Thiet 4 Challenger",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Matthew Dellavedova",
-  "result": "6-4 6-2",
-  "date": "2026-09-18"
+  "round": "1/2",
+  "won": false,
+  "opponent": "Ilia Simakin",
+  "result": "6-7(7) 7-5 6-2",
+  "date": "2026-09-19"
  },
  "ill-m-h7": {
   "playerId": "ill-m-h7",
@@ -10122,11 +10122,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Oklahoma State",
   "gender": "men",
   "event": "M25 Guiyang",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Sheng Tang",
-  "result": "6-3 6-4",
-  "date": "2026-09-18"
+  "round": "1/2",
+  "won": false,
+  "opponent": "Yunseong Chung",
+  "result": "6-2 6-3",
+  "date": "2026-09-19"
  },
  "okst-m-p1": {
   "playerId": "okst-m-p1",
@@ -15608,11 +15608,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "UCLA",
   "gender": "women",
   "event": "W35 Kyoto",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Natsuki Yoshimoto",
-  "result": "6-3 6-4",
-  "date": "2026-09-18"
+  "round": "1/2",
+  "won": false,
+  "opponent": "Jia-Jing Lu",
+  "result": "6-2 6-4",
+  "date": "2026-09-19"
  },
  "ucla-w-n1": {
   "playerId": "ucla-w-n1",

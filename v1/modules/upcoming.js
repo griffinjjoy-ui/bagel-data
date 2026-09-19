@@ -24,6 +24,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "duke-m-h1",
+  "name": "Andreja Petrovic",
+  "teamId": "duke-m",
+  "gender": "men",
+  "opponent": "Samir Banerjee",
+  "event": "M25 Nevers",
+  "date": "2026-09-19",
+  "day": "today"
+ },
+ {
   "playerId": "fla-m-h11",
   "name": "Andres Andrade",
   "teamId": "fla-m",
@@ -134,16 +144,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "osu-m-h11",
-  "name": "Jeff Wolf",
-  "teamId": "osu-m",
-  "gender": "men",
-  "opponent": "Michael Mmoh",
-  "event": "Tiburon Challenger",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
   "playerId": "corn-w-h13",
   "name": "Lan Mi",
   "teamId": "corn-w",
@@ -170,6 +170,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Julia Konishi Camargo Silva",
   "event": "W15 Sao Luis",
+  "date": "2026-09-19",
+  "day": "today"
+ },
+ {
+  "playerId": "uk-m-h1",
+  "name": "Liam Draxl",
+  "teamId": "uk-m",
+  "gender": "men",
+  "opponent": "Quentin Halys",
+  "event": "Davis Cup, World Group, Q2, CAN-FRA",
   "date": "2026-09-19",
   "day": "today"
  },
@@ -224,6 +234,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "stan-m-fp374",
+  "name": "Samir Banerjee",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Andreja Petrovic",
+  "event": "M25 Nevers",
+  "date": "2026-09-19",
+  "day": "today"
+ },
+ {
   "playerId": "sc-m-h4",
   "name": "Toby Samuel",
   "teamId": "sc-m",
@@ -232,6 +252,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "event": "Davis Cup, World Group, Q2, GBR-ECU",
   "date": "2026-09-19",
   "day": "today"
+ },
+ {
+  "playerId": "osu-m-h11",
+  "name": "Jeff Wolf",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Michael Mmoh",
+  "event": "Tiburon Challenger",
+  "date": "2026-09-20",
+  "day": "tomorrow"
  }
 ];
 
