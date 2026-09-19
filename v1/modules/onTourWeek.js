@@ -31,6 +31,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-18"
  },
  {
+  "playerId": "tamu-m-h20",
+  "name": "Arthur Rinderknech",
+  "teamId": "tamu-m",
+  "teamName": "Texas A&M",
+  "gender": "men",
+  "event": "Davis Cup, World Group, Q2, CAN-FRA",
+  "round": "Rubber 1",
+  "won": false,
+  "opponent": "Liam Draxl",
+  "result": "6-2 7-5",
+  "date": "2026-09-18"
+ },
+ {
   "playerId": "fla-m-h8",
   "name": "Ben Shelton",
   "teamId": "fla-m",
@@ -252,6 +265,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-18"
  },
  {
+  "playerId": "uk-m-h1",
+  "name": "Liam Draxl",
+  "teamId": "uk-m",
+  "teamName": "Kentucky",
+  "gender": "men",
+  "event": "Davis Cup, World Group, Q2, CAN-FRA",
+  "round": "Rubber 1",
+  "won": true,
+  "opponent": "Arthur Rinderknech",
+  "result": "6-2 7-5",
+  "date": "2026-09-18"
+ },
+ {
   "playerId": "tcu-m-h5",
   "name": "Lui Maxted",
   "teamId": "tcu-m",
@@ -275,6 +301,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Gabriela Andrea Knutson",
   "result": "6-2 1-6 6-4",
+  "date": "2026-09-18"
+ },
+ {
+  "playerId": "tamu-w-h5",
+  "name": "Mary Stoiana",
+  "teamId": "tamu-w",
+  "teamName": "Texas A&M",
+  "gender": "women",
+  "event": "SP Open - Sao Paulo",
+  "round": "1/4",
+  "won": false,
+  "opponent": "Paula Badosa Gibert",
+  "result": "6-4 6-2",
   "date": "2026-09-18"
  },
  {
@@ -483,19 +522,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Florent Bax",
   "result": "6-3 7-6(3)",
-  "date": "2026-09-17"
- },
- {
-  "playerId": "tamu-w-h5",
-  "name": "Mary Stoiana",
-  "teamId": "tamu-w",
-  "teamName": "Texas A&M",
-  "gender": "women",
-  "event": "SP Open - Sao Paulo",
-  "round": "Second",
-  "won": true,
-  "opponent": "Dominika Salkova",
-  "result": "7-6(5) 6-1",
   "date": "2026-09-17"
  },
  {
@@ -13020,12 +13046,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "tamu-m",
   "teamName": "Texas A&M",
   "gender": "men",
-  "event": "U.S. Open - New York",
-  "round": "Third",
+  "event": "Davis Cup, World Group, Q2, CAN-FRA",
+  "round": "Rubber 1",
   "won": false,
-  "opponent": "Daniil Medvedev",
-  "result": "6-4 6-4 6-4",
-  "date": "2026-09-04"
+  "opponent": "Liam Draxl",
+  "result": "6-2 7-5",
+  "date": "2026-09-18"
  },
  "tamu-m-h5": {
   "playerId": "tamu-m-h5",
@@ -13307,11 +13333,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Texas A&M",
   "gender": "women",
   "event": "SP Open - Sao Paulo",
-  "round": "Second",
-  "won": true,
-  "opponent": "Dominika Salkova",
-  "result": "7-6(5) 6-1",
-  "date": "2026-09-17"
+  "round": "1/4",
+  "won": false,
+  "opponent": "Paula Badosa Gibert",
+  "result": "6-4 6-2",
+  "date": "2026-09-18"
  },
  "tamu-w-h6": {
   "playerId": "tamu-w-h6",
@@ -16309,12 +16335,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "uk-m",
   "teamName": "Kentucky",
   "gender": "men",
-  "event": "U.S. Open - New York",
-  "round": "Q3",
-  "won": false,
-  "opponent": "Tristan Schoolkate",
-  "result": "4-6 7-5 7-6(7)",
-  "date": "2026-08-28"
+  "event": "Davis Cup, World Group, Q2, CAN-FRA",
+  "round": "Rubber 1",
+  "won": true,
+  "opponent": "Arthur Rinderknech",
+  "result": "6-2 7-5",
+  "date": "2026-09-18"
  },
  "uk-m-h10": {
   "playerId": "uk-m-h10",
