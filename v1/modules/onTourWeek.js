@@ -5,6 +5,32 @@
 // on the ITF/Challenger/WTA-ATP circuit right now, ranked or not.
 export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWeek ?? [
  {
+  "playerId": "fla-m-h11",
+  "name": "Andres Andrade",
+  "teamId": "fla-m",
+  "teamName": "Florida",
+  "gender": "men",
+  "event": "Davis Cup, World Group, Q2, GBR-ECU",
+  "round": "Rubber 1",
+  "won": false,
+  "opponent": "Toby Samuel",
+  "result": "4-6 6-4 6-1",
+  "date": "2026-09-19"
+ },
+ {
+  "playerId": "stan-m-h4",
+  "name": "Arthur Fery",
+  "teamId": "stan-m",
+  "teamName": "Stanford",
+  "gender": "men",
+  "event": "Davis Cup, World Group, Q2, GBR-ECU",
+  "round": "Rubber 2",
+  "won": true,
+  "opponent": "Alvaro Guillen Meza",
+  "result": "7-5 6-0",
+  "date": "2026-09-19"
+ },
+ {
   "playerId": "okst-m-h6",
   "name": "Chase Ferguson",
   "teamId": "okst-m",
@@ -31,6 +57,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-19"
  },
  {
+  "playerId": "cuse-w-h8",
+  "name": "Gabriela Andrea Knutson",
+  "teamId": "cuse-w",
+  "teamName": "Syracuse",
+  "gender": "women",
+  "event": "Ladies Open - Caldas da Rainha",
+  "round": "1/2",
+  "won": true,
+  "opponent": "Mia Pohankova",
+  "result": "7-5 5-7 6-3",
+  "date": "2026-09-19"
+ },
+ {
   "playerId": "ill-m-h3",
   "name": "Hunter Heck",
   "teamId": "ill-m",
@@ -44,6 +83,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-19"
  },
  {
+  "playerId": "uk-m-h10",
+  "name": "Millen Hurrion",
+  "teamId": "uk-m",
+  "teamName": "Kentucky",
+  "gender": "men",
+  "event": "M15 Hurghada",
+  "round": "1/2",
+  "won": false,
+  "opponent": "Charles Bertimon",
+  "result": "6-4 7-5",
+  "date": "2026-09-19"
+ },
+ {
   "playerId": "tex-w-h12",
   "name": "Peyton Stearns",
   "teamId": "tex-w",
@@ -54,6 +106,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Liudmila Samsonova",
   "result": "7-6(7) 6-2",
+  "date": "2026-09-19"
+ },
+ {
+  "playerId": "sc-m-h4",
+  "name": "Toby Samuel",
+  "teamId": "sc-m",
+  "teamName": "South Carolina",
+  "gender": "men",
+  "event": "Davis Cup, World Group, Q2, GBR-ECU",
+  "round": "Rubber 1",
+  "won": true,
+  "opponent": "Andres Andrade",
+  "result": "4-6 6-4 6-1",
   "date": "2026-09-19"
  },
  {
@@ -239,19 +304,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-18"
  },
  {
-  "playerId": "cuse-w-h8",
-  "name": "Gabriela Andrea Knutson",
-  "teamId": "cuse-w",
-  "teamName": "Syracuse",
-  "gender": "women",
-  "event": "Ladies Open - Caldas da Rainha",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Malaika Rapolu",
-  "result": "6-2 1-6 6-4",
-  "date": "2026-09-18"
- },
- {
   "playerId": "osu-m-h11",
   "name": "Jeff Wolf",
   "teamId": "osu-m",
@@ -366,19 +418,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Paula Badosa Gibert",
   "result": "6-4 6-2",
-  "date": "2026-09-18"
- },
- {
-  "playerId": "uk-m-h10",
-  "name": "Millen Hurrion",
-  "teamId": "uk-m",
-  "teamName": "Kentucky",
-  "gender": "men",
-  "event": "M15 Hurghada",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Chirag Duhan",
-  "result": "6-2 7-6(4)",
   "date": "2026-09-18"
  },
  {
@@ -5013,11 +5052,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Syracuse",
   "gender": "women",
   "event": "Ladies Open - Caldas da Rainha",
-  "round": "1/4",
+  "round": "1/2",
   "won": true,
-  "opponent": "Malaika Rapolu",
-  "result": "6-2 1-6 6-4",
-  "date": "2026-09-18"
+  "opponent": "Mia Pohankova",
+  "result": "7-5 5-7 6-3",
+  "date": "2026-09-19"
  },
  "cuse-w-n2": {
   "playerId": "cuse-w-n2",
@@ -5649,12 +5688,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "fla-m",
   "teamName": "Florida",
   "gender": "men",
-  "event": "Kingston 2 Challenger",
-  "round": "Final",
+  "event": "Davis Cup, World Group, Q2, GBR-ECU",
+  "round": "Rubber 1",
   "won": false,
-  "opponent": "Aidan Mayo",
-  "result": "6-3 7-6(7)",
-  "date": "2026-08-30"
+  "opponent": "Toby Samuel",
+  "result": "4-6 6-4 6-1",
+  "date": "2026-09-19"
  },
  "fla-m-h2": {
   "playerId": "fla-m-h2",
@@ -12084,12 +12123,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "sc-m",
   "teamName": "South Carolina",
   "gender": "men",
-  "event": "U.S. Open - New York",
-  "round": "Second",
-  "won": false,
-  "opponent": "Jiri Lehecka",
-  "result": "6-4 6-2 6-4",
-  "date": "2026-09-02"
+  "event": "Davis Cup, World Group, Q2, GBR-ECU",
+  "round": "Rubber 1",
+  "won": true,
+  "opponent": "Andres Andrade",
+  "result": "4-6 6-4 6-1",
+  "date": "2026-09-19"
  },
  "sc-m-h5": {
   "playerId": "sc-m-h5",
@@ -12760,12 +12799,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "stan-m",
   "teamName": "Stanford",
   "gender": "men",
-  "event": "U.S. Open - New York",
-  "round": "First",
-  "won": false,
-  "opponent": "Lorenzo Musetti",
-  "result": "6-3 6-3 7-5",
-  "date": "2026-09-01"
+  "event": "Davis Cup, World Group, Q2, GBR-ECU",
+  "round": "Rubber 2",
+  "won": true,
+  "opponent": "Alvaro Guillen Meza",
+  "result": "7-5 6-0",
+  "date": "2026-09-19"
  },
  "stan-m-h6": {
   "playerId": "stan-m-h6",
@@ -16271,11 +16310,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Kentucky",
   "gender": "men",
   "event": "M15 Hurghada",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Chirag Duhan",
-  "result": "6-2 7-6(4)",
-  "date": "2026-09-18"
+  "round": "1/2",
+  "won": false,
+  "opponent": "Charles Bertimon",
+  "result": "6-4 7-5",
+  "date": "2026-09-19"
  },
  "uk-m-h12": {
   "playerId": "uk-m-h12",
