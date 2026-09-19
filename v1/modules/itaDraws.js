@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-19T16:25:24.190Z",
+  "fetchedAt": "2026-09-19T16:27:32.126Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -7495,7 +7495,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-19T16:25:27.156Z",
+  "fetchedAt": "2026-09-19T16:27:34.837Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -12154,9 +12154,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-6 2-6",
+            "winningSide": 2,
             "when": "2026-09-19T10:30",
             "venue": "CTP",
             "sides": [
@@ -13116,9 +13116,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 6-0",
+            "winningSide": 1,
             "when": "2026-09-19T10:30",
             "venue": "CTP",
             "sides": [
@@ -14175,7 +14175,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Patricia Grigoras",
+              "abbr": "PENNST",
+              "school": "Penn State University",
+              "pid": "psu-w-p7",
+              "wtn": 15.33,
+              "seed": null
+             },
              null
             ]
            },
@@ -14448,7 +14455,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Mia Yamakita",
+              "abbr": "VNDY",
+              "school": "Vanderbilt University",
+              "pid": "van-p9",
+              "wtn": 15.11,
+              "seed": null
+             }
             ]
            },
            {
@@ -16259,9 +16273,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 105,
-          "bye": true,
-          "seed": null,
-          "name": null
+          "bye": false,
+          "seed": 21,
+          "name": "Michaela Laki",
+          "school": "University Of Miami",
+          "abbr": "MIAMI",
+          "pid": "miami-w-n1",
+          "wtn": null
          },
          {
           "pos": 106,
@@ -16513,9 +16531,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 142,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Celia Anson Sanchez",
+          "school": "Clemson University",
+          "abbr": "CLEM",
+          "pid": "clem-w-n2",
+          "wtn": 15.04
          },
          {
           "pos": 143,
@@ -17224,7 +17246,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Michaela Laki",
+              "abbr": "MIAMI",
+              "school": "University Of Miami",
+              "pid": "miami-w-n1",
+              "wtn": null,
+              "seed": 21
+             },
              null
             ]
            },
@@ -17497,7 +17526,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Celia Anson Sanchez",
+              "abbr": "CLEM",
+              "school": "Clemson University",
+              "pid": "clem-w-n2",
+              "wtn": 15.04,
+              "seed": null
+             }
             ]
            },
            {
