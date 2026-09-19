@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-19T21:01:38.366Z",
+  "fetchedAt": "2026-09-19T21:08:37.344Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -3952,9 +3952,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 4-6 2-6",
+            "winningSide": 2,
             "when": "2026-09-19T13:30",
             "venue": "LaFortune",
             "sides": [
@@ -5729,7 +5729,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 7.44,
               "seed": null
              },
-             null
+             {
+              "name": "Kevin Edengren",
+              "abbr": null,
+              "school": "University of Florida",
+              "pid": "fla-m-p3",
+              "wtn": 6.32,
+              "seed": 34
+             }
             ]
            },
            {
@@ -7894,7 +7901,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-19T21:01:41.381Z",
+  "fetchedAt": "2026-09-19T21:08:40.199Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -11767,9 +11774,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 7-6(5) 4-6",
+            "winningSide": 2,
             "when": "2026-09-19T13:30",
             "venue": "CTP",
             "sides": [
@@ -14338,7 +14345,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 15.26,
               "seed": null
              },
-             null
+             {
+              "name": "Anna Perelman",
+              "abbr": "MIAMI",
+              "school": "University Of Miami",
+              "pid": "miami-w-n2",
+              "wtn": 14.58,
+              "seed": 4
+             }
             ]
            },
            {
@@ -16808,9 +16822,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 72,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Azuna Ichioka",
+          "school": "San Diego State University",
+          "abbr": "SDSU",
+          "pid": null,
+          "wtn": 15.01
          },
          {
           "pos": 73,
@@ -17915,7 +17933,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 15,
               "seed": null
              },
-             null
+             {
+              "name": "Azuna Ichioka",
+              "abbr": "SDSU",
+              "school": "San Diego State University",
+              "pid": null,
+              "wtn": 15.01,
+              "seed": null
+             }
             ]
            },
            {
@@ -19178,7 +19203,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,
