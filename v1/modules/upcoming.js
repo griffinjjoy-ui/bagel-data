@@ -64,16 +64,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "fla-m-h8",
-  "name": "Ben Shelton",
-  "teamId": "fla-m",
-  "gender": "men",
-  "opponent": "Jakub Mensik",
-  "event": "Davis Cup, World Group, Q2, CZE-USA",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
   "playerId": "okst-m-h6",
   "name": "Chase Ferguson",
   "teamId": "okst-m",
@@ -150,16 +140,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Matilde Mariani",
   "event": "W15 Monastir",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "usc-m-h8",
-  "name": "Learner Tien",
-  "teamId": "usc-m",
-  "gender": "men",
-  "opponent": "Jiri Lehecka",
-  "event": "Davis Cup, World Group, Q2, CZE-USA",
   "date": "2026-09-19",
   "day": "today"
  },
@@ -254,12 +234,92 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ncst-w-h1",
+  "name": "Alana Smith",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Duru Arslan",
+  "event": "Ankara Open - Ankara",
+  "date": "2026-09-20",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "wash-w-h8",
+  "name": "Astrid Olsen",
+  "teamId": "wash-w",
+  "gender": "women",
+  "opponent": "Anja Stankovic",
+  "event": "W50 Plovdiv",
+  "date": "2026-09-20",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "lou-w-h9",
+  "name": "Jamilah Snells",
+  "teamId": "lou-w",
+  "gender": "women",
+  "opponent": "Iva Primorac",
+  "event": "Tolentino Open - Tolentino",
+  "date": "2026-09-20",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "osu-m-h11",
   "name": "Jeff Wolf",
   "teamId": "osu-m",
   "gender": "men",
   "opponent": "Michael Mmoh",
   "event": "Tiburon Challenger",
+  "date": "2026-09-20",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "uva-w-h6",
+  "name": "Julia Adams",
+  "teamId": "uva-w",
+  "gender": "women",
+  "opponent": "Darya Velikova",
+  "event": "W50 Plovdiv",
+  "date": "2026-09-20",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "okst-w-h7",
+  "name": "Kylie Collins",
+  "teamId": "okst-w",
+  "gender": "women",
+  "opponent": "Jessica Hinojosa Gomez",
+  "event": "Eupago Porto Open - Porto",
+  "date": "2026-09-20",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "pepp-w-h5",
+  "name": "Lisa Zaar",
+  "teamId": "pepp-w",
+  "gender": "women",
+  "opponent": "Arianna Ovarelli",
+  "event": "Tolentino Open - Tolentino",
+  "date": "2026-09-20",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ala-w-h1",
+  "name": "Margaux Maquet",
+  "teamId": "ala-w",
+  "gender": "women",
+  "opponent": "Amy Sucha",
+  "event": "W50 Plovdiv",
+  "date": "2026-09-20",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "unc-w-p2",
+  "name": "Reese Brantmeier",
+  "teamId": "unc-w",
+  "gender": "women",
+  "opponent": "Jasmijn Gimbrere",
+  "event": "Eupago Porto Open - Porto",
   "date": "2026-09-20",
   "day": "tomorrow"
  }

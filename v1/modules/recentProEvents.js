@@ -763,10 +763,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Loann Massard",
      "score": "6-4 6-3"
+    },
+    {
+     "id": "57240920",
+     "date": "2026-09-19",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Andreja Petrovic",
+     "score": "5-7 6-1 6-4"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "22045",
@@ -1039,10 +1048,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Beatriz Nahmias Melo Rodrigues",
      "score": "6-4 6-2"
+    },
+    {
+     "id": "49988856",
+     "date": "2026-09-19",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Julia Konishi Camargo Silva",
+     "score": "6-1 6-3"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "17275",
