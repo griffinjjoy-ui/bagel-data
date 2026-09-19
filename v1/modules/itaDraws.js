@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-19T15:48:33.679Z",
+  "fetchedAt": "2026-09-19T16:00:36.298Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -7495,7 +7495,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-19T15:48:36.838Z",
+  "fetchedAt": "2026-09-19T16:00:39.318Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -11348,9 +11348,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-2 6-3",
+            "winningSide": 1,
             "when": "2026-09-19T10:00",
             "venue": "CTP",
             "sides": [
@@ -12440,7 +12440,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": "",
             "winningSide": null,
             "when": "2026-09-19T11:30",
@@ -12908,9 +12908,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "1-6 4-6",
+            "winningSide": 2,
             "when": "2026-09-19T10:00",
             "venue": "CTP",
             "sides": [
@@ -12934,7 +12934,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-19T11:30",
@@ -13858,7 +13858,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Elle Warren",
+              "abbr": "FURM",
+              "school": "Furman University",
+              "pid": null,
+              "wtn": 15.97,
+              "seed": null
+             }
             ]
            },
            {
@@ -14351,7 +14358,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 14.42,
               "seed": 35
              },
-             null
+             {
+              "name": "Amelie Smejkalova",
+              "abbr": "NCST",
+              "school": "North Carolina State Univ.",
+              "pid": "ncst-w-p8",
+              "wtn": 15.31,
+              "seed": null
+             }
             ]
            },
            {
@@ -15952,9 +15966,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 74,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Maeve Thornton",
+          "school": "Univ. Of Tennessee, Knoxville",
+          "abbr": "TENN",
+          "pid": "tenn-p8",
+          "wtn": 15.25
          },
          {
           "pos": 75,
@@ -16388,9 +16406,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 134,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Addison Bowman",
+          "school": "University Of Alabama",
+          "abbr": "ALAB",
+          "pid": "ala-p2",
+          "wtn": 15.73
          },
          {
           "pos": 135,
@@ -16830,7 +16852,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Maeve Thornton",
+              "abbr": "TENN",
+              "school": "Univ. Of Tennessee, Knoxville",
+              "pid": "tenn-p8",
+              "wtn": 15.25,
+              "seed": null
+             }
             ]
            },
            {
@@ -17323,7 +17352,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 15.5,
               "seed": null
              },
-             null
+             {
+              "name": "Addison Bowman",
+              "abbr": "ALAB",
+              "school": "University Of Alabama",
+              "pid": "ala-p2",
+              "wtn": 15.73,
+              "seed": null
+             }
             ]
            },
            {
@@ -18089,7 +18125,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,
