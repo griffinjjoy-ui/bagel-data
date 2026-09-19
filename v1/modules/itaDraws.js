@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-19T20:20:28.816Z",
+  "fetchedAt": "2026-09-19T20:32:32.046Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -7817,7 +7817,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-19T20:20:31.559Z",
+  "fetchedAt": "2026-09-19T20:32:35.291Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -12866,9 +12866,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-5 3-6 5-7",
+            "winningSide": 2,
             "when": "2026-09-19T13:30",
             "venue": "CTP",
             "sides": [
@@ -14785,7 +14785,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 15.42,
               "seed": null
              },
-             null
+             {
+              "name": "Jasmine Conway",
+              "abbr": "NCST",
+              "school": "North Carolina State Univ.",
+              "pid": "ncst-w-p3",
+              "wtn": 14.6,
+              "seed": 28
+             }
             ]
            },
            {
@@ -17102,9 +17109,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 120,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Polina Marakhtanova",
+          "school": "UCLA",
+          "abbr": "UCLA",
+          "pid": "ucla-w-n2",
+          "wtn": 15.5
          },
          {
           "pos": 121,
@@ -18329,7 +18340,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 16.78,
               "seed": null
              },
-             null
+             {
+              "name": "Polina Marakhtanova",
+              "abbr": "UCLA",
+              "school": "UCLA",
+              "pid": "ucla-w-n2",
+              "wtn": 15.5,
+              "seed": null
+             }
             ]
            },
            {
@@ -18337,7 +18355,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-20T15:30",
+            "when": "2026-09-20T12:30",
             "venue": "CTP",
             "sides": [
              {
@@ -19263,7 +19281,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,
