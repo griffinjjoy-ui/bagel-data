@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-19T15:12:19.990Z",
+  "fetchedAt": "2026-09-19T15:24:32.671Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -2678,9 +2678,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-2 6-0",
+            "winningSide": 1,
             "when": "2026-09-19T09:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -4985,7 +4985,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Tomas Zlatohlavek",
+              "abbr": null,
+              "school": "Univ. Of Wisconsin, Madison",
+              "pid": "wisc-m-p9",
+              "wtn": 7.1,
+              "seed": null
+             },
              null
             ]
            },
@@ -7404,7 +7411,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-19T15:12:23.107Z",
+  "fetchedAt": "2026-09-19T15:24:35.222Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -11283,9 +11290,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-3 1-6 6-3",
+            "winningSide": 1,
             "when": "2026-09-19T09:00",
             "venue": "CTP",
             "sides": [
@@ -11413,9 +11420,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-7(5) 3-6",
+            "winningSide": 2,
             "when": "2026-09-19T09:00",
             "venue": "CTP",
             "sides": [
@@ -11595,7 +11602,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-19T11:00",
@@ -11933,7 +11940,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-19T11:00",
@@ -12661,9 +12668,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R256",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "2-6 6-2 1-6",
+            "winningSide": 2,
             "when": "2026-09-19T09:00",
             "venue": "CTP",
             "sides": [
@@ -13778,7 +13785,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Lucie Urbanova",
+              "abbr": "WISC",
+              "school": "Univ. Of Wisconsin, Madison",
+              "pid": "wisc-w-p8",
+              "wtn": 15.38,
+              "seed": null
+             },
              {
               "name": "Addison Iacono",
               "abbr": "CHATT",
@@ -13831,7 +13845,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 15.51,
               "seed": null
              },
-             null
+             {
+              "name": "Cayetana Gay",
+              "abbr": "TCU",
+              "school": "Texas Christian University",
+              "pid": "tcu-w-p5",
+              "wtn": 14.54,
+              "seed": 8
+             }
             ]
            },
            {
@@ -14175,7 +14196,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Jessica Kovalcik",
+              "abbr": "NOTRD",
+              "school": "University of Notre Dame",
+              "pid": "nd-w-p6",
+              "wtn": 14.47,
+              "seed": 32
+             }
             ]
            },
            {
@@ -15818,9 +15846,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 75,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Ava Rodriguez",
+          "school": "University Of Georgia",
+          "abbr": "UGA",
+          "pid": "uga-w-n4",
+          "wtn": 15.99
          },
          {
           "pos": 76,
@@ -15864,9 +15896,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 80,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Amy Lee",
+          "school": "Columbia University",
+          "abbr": "COLU",
+          "pid": "colum-w-n4",
+          "wtn": 15.22
          },
          {
           "pos": 81,
@@ -16184,9 +16220,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 128,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Nicole Weng",
+          "school": "Vanderbilt University",
+          "abbr": "VNDY",
+          "pid": "van-w-n3",
+          "wtn": 15.04
          },
          {
           "pos": 129,
@@ -16673,7 +16713,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Ava Rodriguez",
+              "abbr": "UGA",
+              "school": "University Of Georgia",
+              "pid": "uga-w-n4",
+              "wtn": 15.99,
+              "seed": null
+             },
              {
               "name": "Maria Taranova",
               "abbr": "NEB",
@@ -16726,7 +16773,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 14.91,
               "seed": null
              },
-             null
+             {
+              "name": "Amy Lee",
+              "abbr": "COLU",
+              "school": "Columbia University",
+              "pid": "colum-w-n4",
+              "wtn": 15.22,
+              "seed": null
+             }
             ]
            },
            {
@@ -17070,7 +17124,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Nicole Weng",
+              "abbr": "VNDY",
+              "school": "Vanderbilt University",
+              "pid": "van-w-n3",
+              "wtn": 15.04,
+              "seed": null
+             }
             ]
            },
            {
@@ -17524,7 +17585,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -17548,7 +17609,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,
