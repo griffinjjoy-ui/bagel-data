@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-20T13:25:15.956Z",
+  "fetchedAt": "2026-09-20T13:39:28.273Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -11801,7 +11801,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-20T13:25:18.688Z",
+  "fetchedAt": "2026-09-20T13:39:31.089Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -22587,11 +22587,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 95,
           "bye": false,
           "seed": null,
-          "name": "YI-CHING HUANG",
-          "school": "Austin Peay State University",
-          "abbr": "APSU",
+          "name": "Alina Mokrynska",
+          "school": "Marshall University",
+          "abbr": "MRSHL",
           "pid": null,
-          "wtn": 17.48
+          "wtn": 15.73
          },
          {
           "pos": 96,
@@ -23027,11 +23027,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 139,
           "bye": false,
           "seed": null,
-          "name": "Alina Mokrynska",
-          "school": "Marshall University",
-          "abbr": "MRSHL",
+          "name": "YI-CHING HUANG",
+          "school": "Austin Peay State University",
+          "abbr": "APSU",
           "pid": null,
-          "wtn": 15.73
+          "wtn": 17.48
          },
          {
           "pos": 140,
@@ -23775,11 +23775,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "CTP",
             "sides": [
              {
-              "name": "YI-CHING HUANG",
-              "abbr": "APSU",
-              "school": "Austin Peay State University",
+              "name": "Alina Mokrynska",
+              "abbr": "MRSHL",
+              "school": "Marshall University",
               "pid": null,
-              "wtn": 17.48,
+              "wtn": 15.73,
               "seed": null
              },
              {
@@ -24347,11 +24347,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "CTP",
             "sides": [
              {
-              "name": "Alina Mokrynska",
-              "abbr": "MRSHL",
-              "school": "Marshall University",
+              "name": "YI-CHING HUANG",
+              "abbr": "APSU",
+              "school": "Austin Peay State University",
               "pid": null,
-              "wtn": 15.73,
+              "wtn": 17.48,
               "seed": null
              },
              {
