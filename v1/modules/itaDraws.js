@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-19T22:48:25.932Z",
+  "fetchedAt": "2026-09-20T00:06:54.962Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -4874,8 +4874,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T08:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Niels Ratiu",
@@ -4900,8 +4900,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T08:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Kyran Magimay",
@@ -4926,8 +4926,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T09:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Lenn Luemkemann",
@@ -4952,8 +4952,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T09:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Blake Hilsen",
@@ -4978,8 +4978,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T08:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Marko Maksimovic",
@@ -5004,8 +5004,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T08:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Henrik Bladelius",
@@ -5030,8 +5030,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T08:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Vlado Jankanj",
@@ -5056,8 +5056,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T08:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Simon Caldwell",
@@ -5082,8 +5082,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T08:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Ian Mayew",
@@ -5108,8 +5108,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T08:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Tomas Zlatohlavek",
@@ -5134,8 +5134,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T08:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Matthieu Chambonniere",
@@ -5160,8 +5160,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T08:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Dmitry Kopilevich",
@@ -5186,8 +5186,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T08:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Glib Sekachov",
@@ -5212,8 +5212,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T08:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Braeden Gelletich",
@@ -5238,8 +5238,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T12:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Kriish Tyagi",
@@ -5264,8 +5264,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T12:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Mason Landreth",
@@ -5290,8 +5290,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T09:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Patrik Meszaros",
@@ -5316,8 +5316,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T09:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Lev Seidman",
@@ -5342,8 +5342,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T12:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Nikola Djosic",
@@ -5368,8 +5368,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T12:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Jakub Jupa",
@@ -5394,8 +5394,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T09:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Niksa Arsic",
@@ -5420,8 +5420,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T09:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Sebastian Medica",
@@ -5446,8 +5446,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T10:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Sydney Zick",
@@ -5472,8 +5472,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T10:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Filip Soderqvist",
@@ -5498,8 +5498,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T10:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Noah Johnston",
@@ -5524,8 +5524,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T10:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Victor Tosetto",
@@ -5550,8 +5550,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T10:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Matthias Uwe Kask",
@@ -5576,8 +5576,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T10:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Saahith Jayaraman",
@@ -5602,8 +5602,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T10:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Soham Purohit",
@@ -5628,8 +5628,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T10:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Callum Markowitz",
@@ -5654,8 +5654,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T11:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Marko Mesarovic",
@@ -5680,8 +5680,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T11:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Aniss Rafiq",
@@ -5706,8 +5706,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T11:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Emanuel Ivanisevic",
@@ -5732,8 +5732,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T11:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Radek Chodora",
@@ -5758,8 +5758,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T12:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Mariano Dedura-Palomero",
@@ -5784,8 +5784,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T12:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Rafael Ymer",
@@ -5810,8 +5810,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T12:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Hank Trondson",
@@ -5836,8 +5836,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T12:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Alejandro Melero",
@@ -5862,8 +5862,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T11:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Jeremy Zhang",
@@ -5888,8 +5888,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T11:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "David Schwarc",
@@ -6207,8 +6207,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T13:00",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6219,8 +6219,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T14:00",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6231,8 +6231,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T13:00",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6243,8 +6243,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T13:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6255,8 +6255,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T13:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6267,8 +6267,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T13:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6279,8 +6279,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T13:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6291,8 +6291,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T15:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6303,8 +6303,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T14:00",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6315,8 +6315,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T15:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6327,8 +6327,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T14:00",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6339,8 +6339,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T14:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6351,8 +6351,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T14:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6363,8 +6363,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T14:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6375,8 +6375,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T14:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6387,8 +6387,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T15:00",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6399,8 +6399,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T15:00",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6411,8 +6411,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T15:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6423,8 +6423,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T15:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6435,8 +6435,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-20T15:00",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -6988,6 +6988,3229 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
         ]
        }
       ]
+     },
+     {
+      "drawName": "PQ Consolation",
+      "stage": "MAIN",
+      "generated": true,
+      "completed": false,
+      "structures": [
+       {
+        "name": "Main",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": false,
+          "seed": null,
+          "name": "Luca Bluett",
+          "school": "Santa Clara University",
+          "abbr": null,
+          "pid": "scu-m-p1",
+          "wtn": 7.16
+         },
+         {
+          "pos": 2,
+          "bye": false,
+          "seed": null,
+          "name": "Max Wuelfing",
+          "school": "Loyola Marymount University",
+          "abbr": null,
+          "pid": "lmu-m-p9",
+          "wtn": 6.77
+         },
+         {
+          "pos": 3,
+          "bye": false,
+          "seed": null,
+          "name": "STEWART ARONSON",
+          "school": "Boise State University",
+          "abbr": null,
+          "pid": "clem-m-h9",
+          "wtn": 7.02
+         },
+         {
+          "pos": 4,
+          "bye": false,
+          "seed": null,
+          "name": "Oskar Jansson",
+          "school": null,
+          "abbr": null,
+          "pid": "ariz-m-fp304",
+          "wtn": 6.31
+         },
+         {
+          "pos": 5,
+          "bye": false,
+          "seed": null,
+          "name": "Lachlan Gaskell",
+          "school": "UNC Chapel Hill",
+          "abbr": null,
+          "pid": "unc-m-p1",
+          "wtn": 7.55
+         },
+         {
+          "pos": 6,
+          "bye": false,
+          "seed": null,
+          "name": "Nischal Spurling",
+          "school": "Univ. Of Pennsylvania",
+          "abbr": null,
+          "pid": "penn-m-p9",
+          "wtn": 7.23
+         },
+         {
+          "pos": 7,
+          "bye": false,
+          "seed": null,
+          "name": "Haydar Cem Gokpinar",
+          "school": "Oklahoma State University",
+          "abbr": null,
+          "pid": "okst-m-fp206",
+          "wtn": 6.85
+         },
+         {
+          "pos": 8,
+          "bye": false,
+          "seed": null,
+          "name": "Noah Lopez Cherubino",
+          "school": "Clemson University",
+          "abbr": null,
+          "pid": "clem-m-fp454",
+          "wtn": 6.45
+         },
+         {
+          "pos": 9,
+          "bye": false,
+          "seed": null,
+          "name": "Edouard Aubert",
+          "school": "Univ. Of Wisconsin, Madison",
+          "abbr": null,
+          "pid": "wisc-m-p1",
+          "wtn": 7.13
+         },
+         {
+          "pos": 10,
+          "bye": false,
+          "seed": null,
+          "name": "Valentin Faure",
+          "school": "Santa Clara University",
+          "abbr": null,
+          "pid": "scu-m-p3",
+          "wtn": 7.18
+         },
+         {
+          "pos": 11,
+          "bye": false,
+          "seed": null,
+          "name": "Bengt Johan Reinhard",
+          "school": "UCLA",
+          "abbr": null,
+          "pid": "ucla-m-fp371",
+          "wtn": 6.99
+         },
+         {
+          "pos": 12,
+          "bye": false,
+          "seed": null,
+          "name": "Tom Sickenberger",
+          "school": "University Of Kentucky",
+          "abbr": null,
+          "pid": "uk-m-n2",
+          "wtn": 6.47
+         },
+         {
+          "pos": 13,
+          "bye": false,
+          "seed": null,
+          "name": "Benjamin Sparks",
+          "school": "Liberty University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 7.45
+         },
+         {
+          "pos": 14,
+          "bye": false,
+          "seed": null,
+          "name": "Stephane Kamendje",
+          "school": "University Of Washington",
+          "abbr": null,
+          "pid": "wash-m-p4",
+          "wtn": 6.83
+         },
+         {
+          "pos": 15,
+          "bye": false,
+          "seed": null,
+          "name": "Piotr Andrzejewski",
+          "school": "Michigan State University",
+          "abbr": null,
+          "pid": "msu-m-n4",
+          "wtn": 7.4
+         },
+         {
+          "pos": 16,
+          "bye": false,
+          "seed": null,
+          "name": "Adrien Berrut",
+          "school": "University Of San Diego",
+          "abbr": null,
+          "pid": "usd-m-p3",
+          "wtn": 6.36
+         },
+         {
+          "pos": 17,
+          "bye": false,
+          "seed": null,
+          "name": "Ty Host",
+          "school": "University of Florida",
+          "abbr": null,
+          "pid": "fla-m-n2",
+          "wtn": 6.52
+         },
+         {
+          "pos": 18,
+          "bye": false,
+          "seed": null,
+          "name": "Jakub Kroslak",
+          "school": "University Of Miami",
+          "abbr": null,
+          "pid": "miami-m-fp79",
+          "wtn": 6.72
+         },
+         {
+          "pos": 19,
+          "bye": false,
+          "seed": null,
+          "name": "Ausias Martin Melo",
+          "school": "Troy University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 8.19
+         },
+         {
+          "pos": 20,
+          "bye": false,
+          "seed": null,
+          "name": "Maxime Dubouch",
+          "school": "University Of Georgia",
+          "abbr": null,
+          "pid": "uga-m-n3",
+          "wtn": 6.51
+         },
+         {
+          "pos": 21,
+          "bye": false,
+          "seed": null,
+          "name": "Carson Baker",
+          "school": "Virginia Tech",
+          "abbr": null,
+          "pid": "vt-m-p9",
+          "wtn": 7.08
+         },
+         {
+          "pos": 22,
+          "bye": false,
+          "seed": null,
+          "name": "Miguel Angel Machado",
+          "school": "Texas Tech University",
+          "abbr": null,
+          "pid": "ttu-m-p4",
+          "wtn": 7.24
+         },
+         {
+          "pos": 23,
+          "bye": false,
+          "seed": null,
+          "name": "Otso Martikainen",
+          "school": "University of Tulsa",
+          "abbr": null,
+          "pid": "tulsa-m-n5",
+          "wtn": 7.06
+         },
+         {
+          "pos": 24,
+          "bye": false,
+          "seed": null,
+          "name": "Matei Cristian Onofrei",
+          "school": "University Of Louisville",
+          "abbr": null,
+          "pid": "lou-m-fp68",
+          "wtn": 6.64
+         },
+         {
+          "pos": 25,
+          "bye": false,
+          "seed": null,
+          "name": "Aleksandar Mitric",
+          "school": "Princeton University",
+          "abbr": null,
+          "pid": "prin-m-p5",
+          "wtn": 6.98
+         },
+         {
+          "pos": 26,
+          "bye": false,
+          "seed": null,
+          "name": "Peter Nad",
+          "school": "University Of Notre Dame",
+          "abbr": null,
+          "pid": "nd-m-p6",
+          "wtn": 7.09
+         },
+         {
+          "pos": 27,
+          "bye": false,
+          "seed": null,
+          "name": "Jan KLIMAS",
+          "school": "Arizona State University",
+          "abbr": null,
+          "pid": "asu-m-p6",
+          "wtn": 7.02
+         },
+         {
+          "pos": 28,
+          "bye": false,
+          "seed": null,
+          "name": "Antonio Voljavec",
+          "school": null,
+          "abbr": null,
+          "pid": "ala-m-p9",
+          "wtn": 6.46
+         },
+         {
+          "pos": 29,
+          "bye": false,
+          "seed": null,
+          "name": "Aidan Atwood",
+          "school": "Indiana University",
+          "abbr": null,
+          "pid": "ind-m-p2",
+          "wtn": 7.27
+         },
+         {
+          "pos": 30,
+          "bye": false,
+          "seed": null,
+          "name": "Luca Lemaitre Vilchis",
+          "school": "Santa Clara University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 6.79
+         },
+         {
+          "pos": 31,
+          "bye": false,
+          "seed": null,
+          "name": "Eudald Gonzalez",
+          "school": "University Of Georgia",
+          "abbr": null,
+          "pid": "uga-m-n4",
+          "wtn": 7.23
+         },
+         {
+          "pos": 32,
+          "bye": false,
+          "seed": null,
+          "name": "Nav Dayal",
+          "school": "UCLA",
+          "abbr": null,
+          "pid": "ucla-m-n4",
+          "wtn": 6.92
+         },
+         {
+          "pos": 33,
+          "bye": false,
+          "seed": null,
+          "name": "Adam Farag-Cao",
+          "school": "Santa Clara University",
+          "abbr": null,
+          "pid": "scu-m-n3",
+          "wtn": 7.32
+         },
+         {
+          "pos": 34,
+          "bye": false,
+          "seed": null,
+          "name": "Ludovico Vaccari",
+          "school": "Texas Tech University",
+          "abbr": null,
+          "pid": "ttu-m-p8",
+          "wtn": 6.74
+         },
+         {
+          "pos": 35,
+          "bye": false,
+          "seed": null,
+          "name": "Eyal Shumilov",
+          "school": "Virginia Tech",
+          "abbr": null,
+          "pid": "vt-m-p4",
+          "wtn": 6.74
+         },
+         {
+          "pos": 36,
+          "bye": false,
+          "seed": null,
+          "name": "Yazid Lahjomri",
+          "school": "Univ. Of Nevada, Las Vegas",
+          "abbr": null,
+          "pid": null,
+          "wtn": 7.28
+         },
+         {
+          "pos": 37,
+          "bye": false,
+          "seed": null,
+          "name": "Nico Jamison",
+          "school": "Cleveland State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.57
+         },
+         {
+          "pos": 38,
+          "bye": false,
+          "seed": null,
+          "name": "Pablo Roche Alcaya",
+          "school": "Wichita State University",
+          "abbr": null,
+          "pid": "wich-m-p7",
+          "wtn": 7.23
+         },
+         {
+          "pos": 39,
+          "bye": false,
+          "seed": null,
+          "name": "Oliver Sanders",
+          "school": "University Of Georgia",
+          "abbr": null,
+          "pid": "uga-m-n6",
+          "wtn": 7.25
+         },
+         {
+          "pos": 40,
+          "bye": false,
+          "seed": null,
+          "name": "Felipe Pagnacco",
+          "school": "Texas Tech University",
+          "abbr": null,
+          "pid": "ttu-m-p6",
+          "wtn": 7.24
+         },
+         {
+          "pos": 41,
+          "bye": false,
+          "seed": null,
+          "name": "Lukas Maskow",
+          "school": "Santa Clara University",
+          "abbr": null,
+          "pid": "scu-m-p7",
+          "wtn": 7.25
+         },
+         {
+          "pos": 42,
+          "bye": false,
+          "seed": null,
+          "name": "Drew Fishback",
+          "school": "Virginia Tech",
+          "abbr": null,
+          "pid": "vt-m-p6",
+          "wtn": 6.88
+         },
+         {
+          "pos": 43,
+          "bye": false,
+          "seed": null,
+          "name": "Brett Gloria",
+          "school": "University of Tulsa",
+          "abbr": null,
+          "pid": "tulsa-m-n1",
+          "wtn": 9.02
+         },
+         {
+          "pos": 44,
+          "bye": false,
+          "seed": null,
+          "name": "Patrik Jurina",
+          "school": "Virginia Tech",
+          "abbr": null,
+          "pid": "vt-m-p3",
+          "wtn": 6.8
+         },
+         {
+          "pos": 45,
+          "bye": false,
+          "seed": null,
+          "name": "Vojtech Vales",
+          "school": "Univ. Of Pennsylvania",
+          "abbr": null,
+          "pid": "penn-m-p10",
+          "wtn": 7.17
+         },
+         {
+          "pos": 46,
+          "bye": false,
+          "seed": null,
+          "name": "Samuel Alejandro Linde Palacios",
+          "school": "University Of Miami",
+          "abbr": null,
+          "pid": "miami-m-n5",
+          "wtn": 6.45
+         },
+         {
+          "pos": 47,
+          "bye": false,
+          "seed": null,
+          "name": "Siwanat Auytayakul",
+          "school": "Liberty University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 7.06
+         },
+         {
+          "pos": 48,
+          "bye": false,
+          "seed": null,
+          "name": "Cyrus Mahjoob",
+          "school": "Northwestern University",
+          "abbr": null,
+          "pid": "nw-m-p7",
+          "wtn": 6.85
+         },
+         {
+          "pos": 49,
+          "bye": false,
+          "seed": null,
+          "name": "Brendan Boland",
+          "school": null,
+          "abbr": null,
+          "pid": "ark-m-p7",
+          "wtn": 7.45
+         },
+         {
+          "pos": 50,
+          "bye": false,
+          "seed": null,
+          "name": "Rafael Segado Esteve",
+          "school": "University Of Miami",
+          "abbr": null,
+          "pid": "miami-m-fp81",
+          "wtn": 6.89
+         },
+         {
+          "pos": 51,
+          "bye": false,
+          "seed": null,
+          "name": "Lathan Skrobarcek",
+          "school": "Texas A&M University",
+          "abbr": null,
+          "pid": "tamu-m-p11",
+          "wtn": 6.77
+         },
+         {
+          "pos": 52,
+          "bye": false,
+          "seed": null,
+          "name": "Arsene Pougault",
+          "school": "Boise State University",
+          "abbr": null,
+          "pid": "ark-m-p2",
+          "wtn": 7.18
+         },
+         {
+          "pos": 53,
+          "bye": false,
+          "seed": null,
+          "name": "Taym Alazmeh",
+          "school": "Michigan State University",
+          "abbr": null,
+          "pid": "msu-m-p1",
+          "wtn": 6.21
+         },
+         {
+          "pos": 54,
+          "bye": false,
+          "seed": null,
+          "name": "Luka Butera",
+          "school": "Univ. Of Pennsylvania",
+          "abbr": null,
+          "pid": "penn-m-p4",
+          "wtn": 7.09
+         },
+         {
+          "pos": 55,
+          "bye": false,
+          "seed": null,
+          "name": "Jakub Jedrzejczak",
+          "school": "Northern Arizona University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 7.17
+         },
+         {
+          "pos": 56,
+          "bye": false,
+          "seed": null,
+          "name": "Timothee Andriveau",
+          "school": null,
+          "abbr": null,
+          "pid": "ark-m-n2",
+          "wtn": 7.51
+         },
+         {
+          "pos": 57,
+          "bye": false,
+          "seed": null,
+          "name": "Cole Stelse",
+          "school": null,
+          "abbr": null,
+          "pid": "ariz-m-fp313",
+          "wtn": 7.1
+         },
+         {
+          "pos": 58,
+          "bye": false,
+          "seed": null,
+          "name": "Jeri Lassila",
+          "school": "University Of Nebraska",
+          "abbr": null,
+          "pid": "neb-m-p5",
+          "wtn": 6.67
+         },
+         {
+          "pos": 59,
+          "bye": false,
+          "seed": null,
+          "name": "Darius Florin Pop",
+          "school": "NC State",
+          "abbr": null,
+          "pid": "ncst-m-fp116",
+          "wtn": 6.86
+         },
+         {
+          "pos": 60,
+          "bye": false,
+          "seed": null,
+          "name": "Tiago Pires",
+          "school": "Clemson University",
+          "abbr": null,
+          "pid": "clem-m-p8",
+          "wtn": 6.45
+         },
+         {
+          "pos": 61,
+          "bye": false,
+          "seed": null,
+          "name": "Rafael Botran",
+          "school": "Rice University",
+          "abbr": null,
+          "pid": "rice-m-p1",
+          "wtn": 7
+         },
+         {
+          "pos": 62,
+          "bye": false,
+          "seed": null,
+          "name": "Braden Hannig",
+          "school": null,
+          "abbr": null,
+          "pid": "ala-m-p2",
+          "wtn": 7.25
+         },
+         {
+          "pos": 63,
+          "bye": false,
+          "seed": null,
+          "name": "Mikkel Zinder",
+          "school": "University Of Dayton",
+          "abbr": null,
+          "pid": null,
+          "wtn": 7.33
+         },
+         {
+          "pos": 64,
+          "bye": false,
+          "seed": null,
+          "name": "Cornelius Alexander Shalmi",
+          "school": "Wake Forest University",
+          "abbr": null,
+          "pid": "wake-m-fp50",
+          "wtn": 7.3
+         },
+         {
+          "pos": 65,
+          "bye": false,
+          "seed": null,
+          "name": "Diego Alcala",
+          "school": "Fairfield University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.69
+         },
+         {
+          "pos": 66,
+          "bye": false,
+          "seed": null,
+          "name": "Thomas Nicholas Gadecki",
+          "school": "Oklahoma State University",
+          "abbr": null,
+          "pid": "okst-m-fp203",
+          "wtn": 7.27
+         },
+         {
+          "pos": 67,
+          "bye": false,
+          "seed": null,
+          "name": "Luis Llorens Saracho",
+          "school": "University Of Notre Dame",
+          "abbr": null,
+          "pid": "nd-m-p7",
+          "wtn": 7
+         },
+         {
+          "pos": 68,
+          "bye": false,
+          "seed": null,
+          "name": "Thiago Guglieri",
+          "school": "Texas Tech University",
+          "abbr": null,
+          "pid": "ttu-m-p3",
+          "wtn": 7.01
+         },
+         {
+          "pos": 69,
+          "bye": false,
+          "seed": null,
+          "name": "Alexandre Bergeron",
+          "school": "Stetson University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 7.23
+         },
+         {
+          "pos": 70,
+          "bye": false,
+          "seed": null,
+          "name": "Henry Lamchinniah",
+          "school": "University Of Nebraska",
+          "abbr": null,
+          "pid": "neb-m-p4",
+          "wtn": 7.31
+         },
+         {
+          "pos": 71,
+          "bye": false,
+          "seed": null,
+          "name": "Nicolas Kobelt",
+          "school": "Oklahoma State University",
+          "abbr": null,
+          "pid": "okst-m-p5",
+          "wtn": 6.66
+         },
+         {
+          "pos": 72,
+          "bye": false,
+          "seed": null,
+          "name": "Ashton Adesoro",
+          "school": "University Of Miami",
+          "abbr": null,
+          "pid": "miami-m-n1",
+          "wtn": 7.45
+         },
+         {
+          "pos": 73,
+          "bye": false,
+          "seed": null,
+          "name": "Zachary Viiala",
+          "school": "University Of Illinois",
+          "abbr": null,
+          "pid": "ill-m-fp219",
+          "wtn": 6.26
+         },
+         {
+          "pos": 74,
+          "bye": false,
+          "seed": null,
+          "name": "Dani Szabo",
+          "school": "University of Tulsa",
+          "abbr": null,
+          "pid": "tulsa-m-n6",
+          "wtn": 8.99
+         },
+         {
+          "pos": 75,
+          "bye": false,
+          "seed": null,
+          "name": "Chen Ye",
+          "school": "University of Florida",
+          "abbr": null,
+          "pid": "fla-m-n3",
+          "wtn": 6.76
+         },
+         {
+          "pos": 76,
+          "bye": false,
+          "seed": null,
+          "name": "Jan Sebesta",
+          "school": "University Of Nebraska",
+          "abbr": null,
+          "pid": "neb-m-p7",
+          "wtn": 7.37
+         },
+         {
+          "pos": 77,
+          "bye": false,
+          "seed": null,
+          "name": "Alejandro Arcila",
+          "school": null,
+          "abbr": null,
+          "pid": "ariz-m-fp227",
+          "wtn": 6.28
+         },
+         {
+          "pos": 78,
+          "bye": false,
+          "seed": null,
+          "name": "Ian Bracks",
+          "school": "Oklahoma State University",
+          "abbr": null,
+          "pid": "okst-m-p1",
+          "wtn": 6.73
+         },
+         {
+          "pos": 79,
+          "bye": false,
+          "seed": null,
+          "name": "Milan Markovits",
+          "school": "Princeton University",
+          "abbr": null,
+          "pid": "prin-m-p4",
+          "wtn": 7.12
+         },
+         {
+          "pos": 80,
+          "bye": false,
+          "seed": null,
+          "name": "Andreas Timini",
+          "school": "University of Florida",
+          "abbr": null,
+          "pid": "fla-m-p10",
+          "wtn": 6.43
+         },
+         {
+          "pos": 81,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 82,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 83,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 84,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 85,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 86,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 87,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 88,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 89,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 90,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 91,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 92,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 93,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 94,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 95,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 96,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 97,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 98,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 99,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 100,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 101,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 102,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 103,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 104,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 105,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 106,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 107,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 108,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 109,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 110,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 111,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 112,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 113,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 114,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 115,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 116,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 117,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 118,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 119,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 120,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 121,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 122,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 123,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 124,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 125,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 126,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 127,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 128,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T09:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Luca Bluett",
+              "abbr": null,
+              "school": "Santa Clara University",
+              "pid": "scu-m-p1",
+              "wtn": 7.16,
+              "seed": null
+             },
+             {
+              "name": "Max Wuelfing",
+              "abbr": null,
+              "school": "Loyola Marymount University",
+              "pid": "lmu-m-p9",
+              "wtn": 6.77,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T08:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "STEWART ARONSON",
+              "abbr": null,
+              "school": "Boise State University",
+              "pid": "clem-m-h9",
+              "wtn": 7.02,
+              "seed": null
+             },
+             {
+              "name": "Oskar Jansson",
+              "abbr": null,
+              "school": null,
+              "pid": "ariz-m-fp304",
+              "wtn": 6.31,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T10:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Lachlan Gaskell",
+              "abbr": null,
+              "school": "UNC Chapel Hill",
+              "pid": "unc-m-p1",
+              "wtn": 7.55,
+              "seed": null
+             },
+             {
+              "name": "Nischal Spurling",
+              "abbr": null,
+              "school": "Univ. Of Pennsylvania",
+              "pid": "penn-m-p9",
+              "wtn": 7.23,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T09:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Haydar Cem Gokpinar",
+              "abbr": null,
+              "school": "Oklahoma State University",
+              "pid": "okst-m-fp206",
+              "wtn": 6.85,
+              "seed": null
+             },
+             {
+              "name": "Noah Lopez Cherubino",
+              "abbr": null,
+              "school": "Clemson University",
+              "pid": "clem-m-fp454",
+              "wtn": 6.45,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T08:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Edouard Aubert",
+              "abbr": null,
+              "school": "Univ. Of Wisconsin, Madison",
+              "pid": "wisc-m-p1",
+              "wtn": 7.13,
+              "seed": null
+             },
+             {
+              "name": "Valentin Faure",
+              "abbr": null,
+              "school": "Santa Clara University",
+              "pid": "scu-m-p3",
+              "wtn": 7.18,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T09:30",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Bengt Johan Reinhard",
+              "abbr": null,
+              "school": "UCLA",
+              "pid": "ucla-m-fp371",
+              "wtn": 6.99,
+              "seed": null
+             },
+             {
+              "name": "Tom Sickenberger",
+              "abbr": null,
+              "school": "University Of Kentucky",
+              "pid": "uk-m-n2",
+              "wtn": 6.47,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T08:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Benjamin Sparks",
+              "abbr": null,
+              "school": "Liberty University",
+              "pid": null,
+              "wtn": 7.45,
+              "seed": null
+             },
+             {
+              "name": "Stephane Kamendje",
+              "abbr": null,
+              "school": "University Of Washington",
+              "pid": "wash-m-p4",
+              "wtn": 6.83,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T09:30",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Piotr Andrzejewski",
+              "abbr": null,
+              "school": "Michigan State University",
+              "pid": "msu-m-n4",
+              "wtn": 7.4,
+              "seed": null
+             },
+             {
+              "name": "Adrien Berrut",
+              "abbr": null,
+              "school": "University Of San Diego",
+              "pid": "usd-m-p3",
+              "wtn": 6.36,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T08:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Ty Host",
+              "abbr": null,
+              "school": "University of Florida",
+              "pid": "fla-m-n2",
+              "wtn": 6.52,
+              "seed": null
+             },
+             {
+              "name": "Jakub Kroslak",
+              "abbr": null,
+              "school": "University Of Miami",
+              "pid": "miami-m-fp79",
+              "wtn": 6.72,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T09:30",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Ausias Martin Melo",
+              "abbr": null,
+              "school": "Troy University",
+              "pid": null,
+              "wtn": 8.19,
+              "seed": null
+             },
+             {
+              "name": "Maxime Dubouch",
+              "abbr": null,
+              "school": "University Of Georgia",
+              "pid": "uga-m-n3",
+              "wtn": 6.51,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T08:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Carson Baker",
+              "abbr": null,
+              "school": "Virginia Tech",
+              "pid": "vt-m-p9",
+              "wtn": 7.08,
+              "seed": null
+             },
+             {
+              "name": "Miguel Angel Machado",
+              "abbr": null,
+              "school": "Texas Tech University",
+              "pid": "ttu-m-p4",
+              "wtn": 7.24,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T13:00",
+            "venue": "University Of Tulsa",
+            "sides": [
+             {
+              "name": "Otso Martikainen",
+              "abbr": null,
+              "school": "University of Tulsa",
+              "pid": "tulsa-m-n5",
+              "wtn": 7.06,
+              "seed": null
+             },
+             {
+              "name": "Matei Cristian Onofrei",
+              "abbr": null,
+              "school": "University Of Louisville",
+              "pid": "lou-m-fp68",
+              "wtn": 6.64,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T09:30",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Aleksandar Mitric",
+              "abbr": null,
+              "school": "Princeton University",
+              "pid": "prin-m-p5",
+              "wtn": 6.98,
+              "seed": null
+             },
+             {
+              "name": "Peter Nad",
+              "abbr": null,
+              "school": "University Of Notre Dame",
+              "pid": "nd-m-p6",
+              "wtn": 7.09,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T09:30",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Jan KLIMAS",
+              "abbr": null,
+              "school": "Arizona State University",
+              "pid": "asu-m-p6",
+              "wtn": 7.02,
+              "seed": null
+             },
+             {
+              "name": "Antonio Voljavec",
+              "abbr": null,
+              "school": null,
+              "pid": "ala-m-p9",
+              "wtn": 6.46,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T08:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Aidan Atwood",
+              "abbr": null,
+              "school": "Indiana University",
+              "pid": "ind-m-p2",
+              "wtn": 7.27,
+              "seed": null
+             },
+             {
+              "name": "Luca Lemaitre Vilchis",
+              "abbr": null,
+              "school": "Santa Clara University",
+              "pid": null,
+              "wtn": 6.79,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T10:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Eudald Gonzalez",
+              "abbr": null,
+              "school": "University Of Georgia",
+              "pid": "uga-m-n4",
+              "wtn": 7.23,
+              "seed": null
+             },
+             {
+              "name": "Nav Dayal",
+              "abbr": null,
+              "school": "UCLA",
+              "pid": "ucla-m-n4",
+              "wtn": 6.92,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T08:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Adam Farag-Cao",
+              "abbr": null,
+              "school": "Santa Clara University",
+              "pid": "scu-m-n3",
+              "wtn": 7.32,
+              "seed": null
+             },
+             {
+              "name": "Ludovico Vaccari",
+              "abbr": null,
+              "school": "Texas Tech University",
+              "pid": "ttu-m-p8",
+              "wtn": 6.74,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T08:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Eyal Shumilov",
+              "abbr": null,
+              "school": "Virginia Tech",
+              "pid": "vt-m-p4",
+              "wtn": 6.74,
+              "seed": null
+             },
+             {
+              "name": "Yazid Lahjomri",
+              "abbr": null,
+              "school": "Univ. Of Nevada, Las Vegas",
+              "pid": null,
+              "wtn": 7.28,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T10:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Nico Jamison",
+              "abbr": null,
+              "school": "Cleveland State University",
+              "pid": null,
+              "wtn": 9.57,
+              "seed": null
+             },
+             {
+              "name": "Pablo Roche Alcaya",
+              "abbr": null,
+              "school": "Wichita State University",
+              "pid": "wich-m-p7",
+              "wtn": 7.23,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T10:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Oliver Sanders",
+              "abbr": null,
+              "school": "University Of Georgia",
+              "pid": "uga-m-n6",
+              "wtn": 7.25,
+              "seed": null
+             },
+             {
+              "name": "Felipe Pagnacco",
+              "abbr": null,
+              "school": "Texas Tech University",
+              "pid": "ttu-m-p6",
+              "wtn": 7.24,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T10:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Lukas Maskow",
+              "abbr": null,
+              "school": "Santa Clara University",
+              "pid": "scu-m-p7",
+              "wtn": 7.25,
+              "seed": null
+             },
+             {
+              "name": "Drew Fishback",
+              "abbr": null,
+              "school": "Virginia Tech",
+              "pid": "vt-m-p6",
+              "wtn": 6.88,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T11:30",
+            "venue": "University Of Tulsa",
+            "sides": [
+             {
+              "name": "Brett Gloria",
+              "abbr": null,
+              "school": "University of Tulsa",
+              "pid": "tulsa-m-n1",
+              "wtn": 9.02,
+              "seed": null
+             },
+             {
+              "name": "Patrik Jurina",
+              "abbr": null,
+              "school": "Virginia Tech",
+              "pid": "vt-m-p3",
+              "wtn": 6.8,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T08:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Vojtech Vales",
+              "abbr": null,
+              "school": "Univ. Of Pennsylvania",
+              "pid": "penn-m-p10",
+              "wtn": 7.17,
+              "seed": null
+             },
+             {
+              "name": "Samuel Alejandro Linde Palacios",
+              "abbr": null,
+              "school": "University Of Miami",
+              "pid": "miami-m-n5",
+              "wtn": 6.45,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T08:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Siwanat Auytayakul",
+              "abbr": null,
+              "school": "Liberty University",
+              "pid": null,
+              "wtn": 7.06,
+              "seed": null
+             },
+             {
+              "name": "Cyrus Mahjoob",
+              "abbr": null,
+              "school": "Northwestern University",
+              "pid": "nw-m-p7",
+              "wtn": 6.85,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T08:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Brendan Boland",
+              "abbr": null,
+              "school": null,
+              "pid": "ark-m-p7",
+              "wtn": 7.45,
+              "seed": null
+             },
+             {
+              "name": "Rafael Segado Esteve",
+              "abbr": null,
+              "school": "University Of Miami",
+              "pid": "miami-m-fp81",
+              "wtn": 6.89,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T10:30",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Lathan Skrobarcek",
+              "abbr": null,
+              "school": "Texas A&M University",
+              "pid": "tamu-m-p11",
+              "wtn": 6.77,
+              "seed": null
+             },
+             {
+              "name": "Arsene Pougault",
+              "abbr": null,
+              "school": "Boise State University",
+              "pid": "ark-m-p2",
+              "wtn": 7.18,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T10:30",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Taym Alazmeh",
+              "abbr": null,
+              "school": "Michigan State University",
+              "pid": "msu-m-p1",
+              "wtn": 6.21,
+              "seed": null
+             },
+             {
+              "name": "Luka Butera",
+              "abbr": null,
+              "school": "Univ. Of Pennsylvania",
+              "pid": "penn-m-p4",
+              "wtn": 7.09,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T10:30",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Jakub Jedrzejczak",
+              "abbr": null,
+              "school": "Northern Arizona University",
+              "pid": null,
+              "wtn": 7.17,
+              "seed": null
+             },
+             {
+              "name": "Timothee Andriveau",
+              "abbr": null,
+              "school": null,
+              "pid": "ark-m-n2",
+              "wtn": 7.51,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T08:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Cole Stelse",
+              "abbr": null,
+              "school": null,
+              "pid": "ariz-m-fp313",
+              "wtn": 7.1,
+              "seed": null
+             },
+             {
+              "name": "Jeri Lassila",
+              "abbr": null,
+              "school": "University Of Nebraska",
+              "pid": "neb-m-p5",
+              "wtn": 6.67,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T08:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Darius Florin Pop",
+              "abbr": null,
+              "school": "NC State",
+              "pid": "ncst-m-fp116",
+              "wtn": 6.86,
+              "seed": null
+             },
+             {
+              "name": "Tiago Pires",
+              "abbr": null,
+              "school": "Clemson University",
+              "pid": "clem-m-p8",
+              "wtn": 6.45,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T10:30",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Rafael Botran",
+              "abbr": null,
+              "school": "Rice University",
+              "pid": "rice-m-p1",
+              "wtn": 7,
+              "seed": null
+             },
+             {
+              "name": "Braden Hannig",
+              "abbr": null,
+              "school": null,
+              "pid": "ala-m-p2",
+              "wtn": 7.25,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T11:00",
+            "venue": "University Of Tulsa",
+            "sides": [
+             {
+              "name": "Mikkel Zinder",
+              "abbr": null,
+              "school": "University Of Dayton",
+              "pid": null,
+              "wtn": 7.33,
+              "seed": null
+             },
+             {
+              "name": "Cornelius Alexander Shalmi",
+              "abbr": null,
+              "school": "Wake Forest University",
+              "pid": "wake-m-fp50",
+              "wtn": 7.3,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T08:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Diego Alcala",
+              "abbr": null,
+              "school": "Fairfield University",
+              "pid": null,
+              "wtn": 9.69,
+              "seed": null
+             },
+             {
+              "name": "Thomas Nicholas Gadecki",
+              "abbr": null,
+              "school": "Oklahoma State University",
+              "pid": "okst-m-fp203",
+              "wtn": 7.27,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T08:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Luis Llorens Saracho",
+              "abbr": null,
+              "school": "University Of Notre Dame",
+              "pid": "nd-m-p7",
+              "wtn": 7,
+              "seed": null
+             },
+             {
+              "name": "Thiago Guglieri",
+              "abbr": null,
+              "school": "Texas Tech University",
+              "pid": "ttu-m-p3",
+              "wtn": 7.01,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T11:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Alexandre Bergeron",
+              "abbr": null,
+              "school": "Stetson University",
+              "pid": null,
+              "wtn": 7.23,
+              "seed": null
+             },
+             {
+              "name": "Henry Lamchinniah",
+              "abbr": null,
+              "school": "University Of Nebraska",
+              "pid": "neb-m-p4",
+              "wtn": 7.31,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T11:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Nicolas Kobelt",
+              "abbr": null,
+              "school": "Oklahoma State University",
+              "pid": "okst-m-p5",
+              "wtn": 6.66,
+              "seed": null
+             },
+             {
+              "name": "Ashton Adesoro",
+              "abbr": null,
+              "school": "University Of Miami",
+              "pid": "miami-m-n1",
+              "wtn": 7.45,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T13:30",
+            "venue": "University Of Tulsa",
+            "sides": [
+             {
+              "name": "Zachary Viiala",
+              "abbr": null,
+              "school": "University Of Illinois",
+              "pid": "ill-m-fp219",
+              "wtn": 6.26,
+              "seed": null
+             },
+             {
+              "name": "Dani Szabo",
+              "abbr": null,
+              "school": "University of Tulsa",
+              "pid": "tulsa-m-n6",
+              "wtn": 8.99,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T11:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Chen Ye",
+              "abbr": null,
+              "school": "University of Florida",
+              "pid": "fla-m-n3",
+              "wtn": 6.76,
+              "seed": null
+             },
+             {
+              "name": "Jan Sebesta",
+              "abbr": null,
+              "school": "University Of Nebraska",
+              "pid": "neb-m-p7",
+              "wtn": 7.37,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T09:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Alejandro Arcila",
+              "abbr": null,
+              "school": null,
+              "pid": "ariz-m-fp227",
+              "wtn": 6.28,
+              "seed": null
+             },
+             {
+              "name": "Ian Bracks",
+              "abbr": null,
+              "school": "Oklahoma State University",
+              "pid": "okst-m-p1",
+              "wtn": 6.73,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-20T11:00",
+            "venue": "LaFortune",
+            "sides": [
+             {
+              "name": "Milan Markovits",
+              "abbr": null,
+              "school": "Princeton University",
+              "pid": "prin-m-p4",
+              "wtn": 7.12,
+              "seed": null
+             },
+             {
+              "name": "Andreas Timini",
+              "abbr": null,
+              "school": "University of Florida",
+              "pid": "fla-m-p10",
+              "wtn": 6.43,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R128",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 5,
+          "matchUps": [
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Quarterfinals",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Quarterfinals",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 6,
+          "matchUps": [
+           {
+            "roundName": "Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Semifinals",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 7,
+          "matchUps": [
+           {
+            "roundName": "Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
      }
     ]
    },
@@ -7386,9 +10609,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "1-6 6-7(5)",
+            "winningSide": 2,
             "when": "2026-09-19T16:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -7412,9 +10635,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-6 3-6",
+            "winningSide": 2,
             "when": "2026-09-19T16:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -7438,9 +10661,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "5-7 6-4 [5-10]",
+            "winningSide": 2,
             "when": "2026-09-19T15:30",
             "venue": "LaFortune",
             "sides": [
@@ -7464,9 +10687,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-6 6-3 [10-4]",
+            "winningSide": 1,
             "when": "2026-09-19T15:30",
             "venue": "LaFortune",
             "sides": [
@@ -7490,9 +10713,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 4-6",
+            "winningSide": 2,
             "when": "2026-09-19T16:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -7516,9 +10739,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 5-7",
+            "winningSide": 2,
             "when": "2026-09-19T16:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -7542,9 +10765,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-6 6-7(2)",
+            "winningSide": 2,
             "when": "2026-09-19T16:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -7568,9 +10791,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 6-2",
+            "winningSide": 1,
             "when": "2026-09-19T16:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -7594,9 +10817,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-0 7-5",
+            "winningSide": 1,
             "when": "2026-09-19T16:30",
             "venue": "LaFortune",
             "sides": [
@@ -7620,9 +10843,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-5 6-4",
+            "winningSide": 1,
             "when": "2026-09-19T16:30",
             "venue": "LaFortune",
             "sides": [
@@ -7646,9 +10869,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-0 4-6 [10-12]",
+            "winningSide": 2,
             "when": "2026-09-19T16:30",
             "venue": "LaFortune",
             "sides": [
@@ -7672,9 +10895,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-6 2-6",
+            "winningSide": 2,
             "when": "2026-09-19T16:30",
             "venue": "LaFortune",
             "sides": [
@@ -7698,9 +10921,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-3 7-6(4)",
+            "winningSide": 1,
             "when": "2026-09-19T16:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -7724,9 +10947,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "5-7 3-6",
+            "winningSide": 2,
             "when": "2026-09-19T16:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -7780,8 +11003,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
-             null
+             {
+              "name": "Pires/Farzam",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Ivanisevic/Mosejczuk",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": 4
+             }
             ]
            },
            {
@@ -7792,8 +11029,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
-             null
+             {
+              "name": "Sec/Mayew",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Kamendje/Purohit",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -7804,8 +11055,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
-             null
+             {
+              "name": "Faure/Bluett",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Vales/Bharadwaj",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": 8
+             }
             ]
            },
            {
@@ -7816,8 +11081,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
-             null
+             {
+              "name": "Sarr/Villard",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Fahim/Baker",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -7828,8 +11107,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
-             null
+             {
+              "name": "Badenhorst/Baierl",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": 11
+             },
+             {
+              "name": "Pouatcha/Luemkemann",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -7840,8 +11133,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
-             null
+             {
+              "name": "Meszaros/Kloesters",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Guglieri/Arsic",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": 14
+             }
             ]
            },
            {
@@ -7852,8 +11159,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
-             null
+             {
+              "name": "Mashni/Sandler",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": 15
+             },
+             {
+              "name": "Chambonniere/Dussault",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": 16
+             }
             ]
            }
           ]
@@ -7971,7 +11292,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-19T22:48:29.019Z",
+  "fetchedAt": "2026-09-20T00:06:58.574Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -8550,9 +11871,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "IN_PROGRESS",
-            "score": "",
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-6 2-6",
+            "winningSide": 2,
             "when": "2026-09-19T15:30",
             "venue": "CTP",
             "sides": [
@@ -8855,7 +12176,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": null,
               "seed": 8
              },
-             null
+             {
+              "name": "El Aouni/Lanton",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": 9
+             }
             ]
            },
            {
@@ -9183,9 +12511,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 18,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Schultz/Chalard",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
          },
          {
           "pos": 19,
@@ -9372,7 +12704,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": null,
               "seed": null
              },
-             null
+             {
+              "name": "Schultz/Chalard",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -9508,7 +12847,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R16",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,

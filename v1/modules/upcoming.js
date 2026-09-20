@@ -4,236 +4,6 @@
 // included). Opponent + event, no result yet. Re-run the script to refresh.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
-  "playerId": "ark-m-h14",
-  "name": "Alexandre Reco",
-  "teamId": "ark-m",
-  "gender": "men",
-  "opponent": "Aidan Mchugh",
-  "event": "M25 Nevers",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "bay-w-h13",
-  "name": "Alicia Herrero Linana",
-  "teamId": "bay-w",
-  "gender": "women",
-  "opponent": "Yasmine Kabbaj",
-  "event": "BBVA Open Internacional - Valencia",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "duke-m-h1",
-  "name": "Andreja Petrovic",
-  "teamId": "duke-m",
-  "gender": "men",
-  "opponent": "Samir Banerjee",
-  "event": "M25 Nevers",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "fla-m-h11",
-  "name": "Andres Andrade",
-  "teamId": "fla-m",
-  "gender": "men",
-  "opponent": "Toby Samuel",
-  "event": "Davis Cup, World Group, Q2, GBR-ECU",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "stan-m-h4",
-  "name": "Arthur Fery",
-  "teamId": "stan-m",
-  "gender": "men",
-  "opponent": "Alvaro Guillen Meza",
-  "event": "Davis Cup, World Group, Q2, GBR-ECU",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "tamu-m-h20",
-  "name": "Arthur Rinderknech",
-  "teamId": "tamu-m",
-  "gender": "men",
-  "opponent": "Felix Auger Aliassime",
-  "event": "Davis Cup, World Group, Q2, CAN-FRA",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "okst-m-h6",
-  "name": "Chase Ferguson",
-  "teamId": "okst-m",
-  "gender": "men",
-  "opponent": "Yunseong Chung",
-  "event": "M25 Guiyang",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "wake-m-fp302",
-  "name": "Dhakshineswar Suresh",
-  "teamId": "wake-m",
-  "gender": "men",
-  "opponent": "Hyeon Chung",
-  "event": "Davis Cup, World Group, Q2, KOR-IND",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "ucla-w-h8",
-  "name": "Ena Shibahara",
-  "teamId": "ucla-w",
-  "gender": "women",
-  "opponent": "Jia-Jing Lu",
-  "event": "W35 Kyoto",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "msst-m-h1",
-  "name": "Ewen Lumsden",
-  "teamId": "msst-m",
-  "gender": "men",
-  "opponent": "Kasra Rahmani",
-  "event": "M15 Monastir",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "unc-w-h2",
-  "name": "Fiona Crawley",
-  "teamId": "unc-w",
-  "gender": "women",
-  "opponent": "Manon Leonard",
-  "event": "W75 Le Neubourg",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "cuse-w-h8",
-  "name": "Gabriela Andrea Knutson",
-  "teamId": "cuse-w",
-  "gender": "women",
-  "opponent": "Mia Pohankova",
-  "event": "Ladies Open - Caldas da Rainha",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "ill-m-h3",
-  "name": "Hunter Heck",
-  "teamId": "ill-m",
-  "gender": "men",
-  "opponent": "Ilia Simakin",
-  "event": "Phan Thiet 4 Challenger",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "corn-w-h13",
-  "name": "Lan Mi",
-  "teamId": "corn-w",
-  "gender": "women",
-  "opponent": "Matilde Mariani",
-  "event": "W15 Monastir",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "tenn-p3",
-  "name": "Leyla Britez Risso",
-  "teamId": "tenn-w",
-  "gender": "women",
-  "opponent": "Julia Konishi Camargo Silva",
-  "event": "W15 Sao Luis",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "uk-m-h1",
-  "name": "Liam Draxl",
-  "teamId": "uk-m",
-  "gender": "men",
-  "opponent": "Quentin Halys",
-  "event": "Davis Cup, World Group, Q2, CAN-FRA",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "tex-m-n3",
-  "name": "Matej Dodig",
-  "teamId": "tex-m",
-  "gender": "men",
-  "opponent": "Alexander Zverev",
-  "event": "Davis Cup, World Group, Q2, GER-CRO",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "uk-m-h10",
-  "name": "Millen Hurrion",
-  "teamId": "uk-m",
-  "gender": "men",
-  "opponent": "Charles Bertimon",
-  "event": "M15 Hurghada",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "unc-m-h13",
-  "name": "Patrick Schoen",
-  "teamId": "unc-m",
-  "gender": "men",
-  "opponent": "Tiago Cacao",
-  "event": "M25 Sintra",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "tex-w-h12",
-  "name": "Peyton Stearns",
-  "teamId": "tex-w",
-  "gender": "women",
-  "opponent": "Iva Jovic",
-  "event": "Guadalajara Open Akron - Guadalajara",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "uva-m-h12",
-  "name": "Rafael Jodar",
-  "teamId": "uva-m",
-  "gender": "men",
-  "opponent": "Cristian Garin",
-  "event": "Davis Cup, World Group, Q2, CHI-ESP",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "stan-m-fp374",
-  "name": "Samir Banerjee",
-  "teamId": "stan-m",
-  "gender": "men",
-  "opponent": "Andreja Petrovic",
-  "event": "M25 Nevers",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
-  "playerId": "sc-m-h4",
-  "name": "Toby Samuel",
-  "teamId": "sc-m",
-  "gender": "men",
-  "opponent": "Andres Andrade",
-  "event": "Davis Cup, World Group, Q2, GBR-ECU",
-  "date": "2026-09-19",
-  "day": "today"
- },
- {
   "playerId": "ncst-w-h1",
   "name": "Alana Smith",
   "teamId": "ncst-w",
@@ -241,7 +11,37 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Duru Arslan",
   "event": "Ankara Open - Ankara",
   "date": "2026-09-20",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "bay-w-h13",
+  "name": "Alicia Herrero Linana",
+  "teamId": "bay-w",
+  "gender": "women",
+  "opponent": "Clara Burel",
+  "event": "BBVA Open Internacional - Valencia",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
+  "playerId": "fla-m-h11",
+  "name": "Andres Andrade",
+  "teamId": "fla-m",
+  "gender": "men",
+  "opponent": "Arthur Fery",
+  "event": "Davis Cup, World Group, Q2, GBR-ECU",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
+  "playerId": "stan-m-h4",
+  "name": "Arthur Fery",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Andres Andrade",
+  "event": "Davis Cup, World Group, Q2, GBR-ECU",
+  "date": "2026-09-20",
+  "day": "today"
  },
  {
   "playerId": "wash-w-h8",
@@ -251,7 +51,17 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Anja Stankovic",
   "event": "W50 Plovdiv",
   "date": "2026-09-20",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "cuse-w-h8",
+  "name": "Gabriela Andrea Knutson",
+  "teamId": "cuse-w",
+  "gender": "women",
+  "opponent": "Lisa Pigato",
+  "event": "Ladies Open - Caldas da Rainha",
+  "date": "2026-09-20",
+  "day": "today"
  },
  {
   "playerId": "lou-w-h9",
@@ -261,7 +71,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Iva Primorac",
   "event": "Tolentino Open - Tolentino",
   "date": "2026-09-20",
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "osu-m-h11",
@@ -271,7 +81,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Michael Mmoh",
   "event": "Tiburon Challenger",
   "date": "2026-09-20",
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "uva-w-h6",
@@ -281,7 +91,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Darya Velikova",
   "event": "W50 Plovdiv",
   "date": "2026-09-20",
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "okst-w-h7",
@@ -291,7 +101,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Jessica Hinojosa Gomez",
   "event": "Eupago Porto Open - Porto",
   "date": "2026-09-20",
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "pepp-w-h5",
@@ -301,7 +111,17 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Arianna Ovarelli",
   "event": "Tolentino Open - Tolentino",
   "date": "2026-09-20",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "miss-w-h1",
+  "name": "Lucie Petruzelova",
+  "teamId": "miss-w",
+  "gender": "women",
+  "opponent": "Beatris Spasova",
+  "event": "W50 Plovdiv",
+  "date": "2026-09-20",
+  "day": "today"
  },
  {
   "playerId": "ala-w-h1",
@@ -311,7 +131,27 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Amy Sucha",
   "event": "W50 Plovdiv",
   "date": "2026-09-20",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "tex-m-n3",
+  "name": "Matej Dodig",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Daniel Altmaier",
+  "event": "Davis Cup, World Group, Q2, GER-CRO",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
+  "playerId": "unc-m-h13",
+  "name": "Patrick Schoen",
+  "teamId": "unc-m",
+  "gender": "men",
+  "opponent": "Fausto Tabacco",
+  "event": "M25 Sintra",
+  "date": "2026-09-20",
+  "day": "today"
  },
  {
   "playerId": "unc-w-p2",
@@ -321,11 +161,41 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Jasmijn Gimbrere",
   "event": "Eupago Porto Open - Porto",
   "date": "2026-09-20",
+  "day": "today"
+ },
+ {
+  "playerId": "sc-m-h4",
+  "name": "Toby Samuel",
+  "teamId": "sc-m",
+  "gender": "men",
+  "opponent": "Alvaro Guillen Meza",
+  "event": "Davis Cup, World Group, Q2, GBR-ECU",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
+  "playerId": "pepp-w-h4",
+  "name": "Janice Tjen",
+  "teamId": "pepp-w",
+  "gender": "women",
+  "opponent": "Alycia Parks",
+  "event": "Singapore Tennis Open - Singapore",
+  "date": "2026-09-21",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "okst-w-h10",
+  "name": "Mananchaya Sawangkaew",
+  "teamId": "okst-w",
+  "gender": "women",
+  "opponent": "Alina Korneeva",
+  "event": "Korea Open - Seoul",
+  "date": "2026-09-21",
   "day": "tomorrow"
  }
 ];
 
-export const upcomingDates = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomingDates ?? ["2026-09-19","2026-09-20"];
+export const upcomingDates = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomingDates ?? ["2026-09-20","2026-09-21"];
 
 // Scheduled matches for a gender, soonest first (today before tomorrow).
 export function getUpcoming(gender) {

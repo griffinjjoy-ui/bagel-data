@@ -70,6 +70,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-19"
  },
  {
+  "playerId": "tamu-m-h20",
+  "name": "Arthur Rinderknech",
+  "teamId": "tamu-m",
+  "teamName": "Texas A&M",
+  "gender": "men",
+  "event": "Davis Cup, World Group, Q2, CAN-FRA",
+  "round": "Rubber 4",
+  "won": false,
+  "opponent": "Felix Auger Aliassime",
+  "result": "4-6 7-6(5) 6-4",
+  "date": "2026-09-19"
+ },
+ {
   "playerId": "fla-m-h8",
   "name": "Ben Shelton",
   "teamId": "fla-m",
@@ -288,19 +301,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Michael Mmoh",
   "result": "6-4 6-4",
-  "date": "2026-09-18"
- },
- {
-  "playerId": "tamu-m-h20",
-  "name": "Arthur Rinderknech",
-  "teamId": "tamu-m",
-  "teamName": "Texas A&M",
-  "gender": "men",
-  "event": "Davis Cup, World Group, Q2, CAN-FRA",
-  "round": "Rubber 1",
-  "won": false,
-  "opponent": "Liam Draxl",
-  "result": "6-2 7-5",
   "date": "2026-09-18"
  },
  {
@@ -13021,11 +13021,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Texas A&M",
   "gender": "men",
   "event": "Davis Cup, World Group, Q2, CAN-FRA",
-  "round": "Rubber 1",
+  "round": "Rubber 4",
   "won": false,
-  "opponent": "Liam Draxl",
-  "result": "6-2 7-5",
-  "date": "2026-09-18"
+  "opponent": "Felix Auger Aliassime",
+  "result": "4-6 7-6(5) 6-4",
+  "date": "2026-09-19"
  },
  "tamu-m-h5": {
   "playerId": "tamu-m-h5",
