@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-20T00:26:47.888Z",
+  "fetchedAt": "2026-09-20T01:04:59.584Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -5082,7 +5082,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-20T08:00",
+            "when": "2026-09-20T09:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -5108,7 +5108,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-20T08:00",
+            "when": "2026-09-20T09:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -5186,7 +5186,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-20T08:00",
+            "when": "2026-09-20T09:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -5212,7 +5212,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-20T08:00",
+            "when": "2026-09-20T09:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -8513,7 +8513,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-20T08:00",
+            "when": "2026-09-20T09:00",
             "venue": "LaFortune",
             "sides": [
              {
@@ -10557,9 +10557,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 7-5 [10-8]",
+            "winningSide": 1,
             "when": "2026-09-19T15:00",
             "venue": "LaFortune",
             "sides": [
@@ -10984,7 +10984,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Vaccari/Abdul Hazli",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
              {
               "name": "Skigelstrand/McNally",
               "abbr": null,
@@ -11292,13 +11299,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-20T00:26:50.414Z",
+  "fetchedAt": "2026-09-20T01:05:02.702Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
     "name": "Women's open doubles",
     "type": "doubles",
-    "fieldSize": 483,
+    "fieldSize": 486,
     "draws": [
      {
       "drawName": "Pre Qualifying Draw",
@@ -13004,7 +13011,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
     "eventId": "E7DFA31E-6393-4B00-96A0-0C04B28B95FC",
     "name": "Women's open singles",
     "type": "singles",
-    "fieldSize": 483,
+    "fieldSize": 486,
     "draws": [
      {
       "drawName": "Pre Qualifying Draw",
