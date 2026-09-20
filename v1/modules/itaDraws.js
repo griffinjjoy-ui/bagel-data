@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-20T13:39:28.273Z",
+  "fetchedAt": "2026-09-20T13:51:33.666Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -11801,7 +11801,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-20T13:39:31.089Z",
+  "fetchedAt": "2026-09-20T13:51:36.425Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -22586,12 +22586,12 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          {
           "pos": 95,
           "bye": false,
-          "seed": null,
-          "name": "Alina Mokrynska",
-          "school": "Marshall University",
-          "abbr": "MRSHL",
-          "pid": null,
-          "wtn": 15.73
+          "seed": 38,
+          "name": "Nikola Daubnerova",
+          "school": "University Of Florida",
+          "abbr": "UF",
+          "pid": "fla-p2",
+          "wtn": 14.51
          },
          {
           "pos": 96,
@@ -23027,21 +23027,21 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 139,
           "bye": false,
           "seed": null,
+          "name": "Alina Mokrynska",
+          "school": "Marshall University",
+          "abbr": "MRSHL",
+          "pid": null,
+          "wtn": 15.73
+         },
+         {
+          "pos": 140,
+          "bye": false,
+          "seed": null,
           "name": "YI-CHING HUANG",
           "school": "Austin Peay State University",
           "abbr": "APSU",
           "pid": null,
           "wtn": 17.48
-         },
-         {
-          "pos": 140,
-          "bye": false,
-          "seed": 38,
-          "name": "Nikola Daubnerova",
-          "school": "University Of Florida",
-          "abbr": "UF",
-          "pid": "fla-p2",
-          "wtn": 14.51
          },
          {
           "pos": 141,
@@ -23768,19 +23768,19 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128-Q",
-            "status": "TO_BE_PLAYED",
-            "score": null,
+            "status": "CANCELLED",
+            "score": "",
             "winningSide": null,
-            "when": "2026-09-20T11:00",
-            "venue": "CTP",
+            "when": null,
+            "venue": null,
             "sides": [
              {
-              "name": "Alina Mokrynska",
-              "abbr": "MRSHL",
-              "school": "Marshall University",
-              "pid": null,
-              "wtn": 15.73,
-              "seed": null
+              "name": "Nikola Daubnerova",
+              "abbr": "UF",
+              "school": "University Of Florida",
+              "pid": "fla-p2",
+              "wtn": 14.51,
+              "seed": 38
              },
              {
               "name": "Alice Xu",
@@ -24347,20 +24347,20 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "CTP",
             "sides": [
              {
+              "name": "Alina Mokrynska",
+              "abbr": "MRSHL",
+              "school": "Marshall University",
+              "pid": null,
+              "wtn": 15.73,
+              "seed": null
+             },
+             {
               "name": "YI-CHING HUANG",
               "abbr": "APSU",
               "school": "Austin Peay State University",
               "pid": null,
               "wtn": 17.48,
               "seed": null
-             },
-             {
-              "name": "Nikola Daubnerova",
-              "abbr": "UF",
-              "school": "University Of Florida",
-              "pid": "fla-p2",
-              "wtn": 14.51,
-              "seed": 38
              }
             ]
            },
