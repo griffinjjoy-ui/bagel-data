@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-20T16:41:13.595Z",
+  "fetchedAt": "2026-09-20T16:47:57.340Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -8242,9 +8242,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-7(4) 4-6",
+            "winningSide": 2,
             "when": "2026-09-20T09:00",
             "venue": "LaFortune",
             "sides": [
@@ -8658,9 +8658,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "1-6 2-6",
+            "winningSide": 2,
             "when": "2026-09-20T10:00",
             "venue": "LaFortune",
             "sides": [
@@ -9523,7 +9523,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Noah Lopez Cherubino",
+              "abbr": null,
+              "school": "Clemson University",
+              "pid": "clem-m-fp454",
+              "wtn": 6.45,
+              "seed": null
+             }
             ]
            },
            {
@@ -9682,7 +9689,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Felipe Pagnacco",
+              "abbr": null,
+              "school": "Texas Tech University",
+              "pid": "ttu-m-p6",
+              "wtn": 7.24,
+              "seed": null
+             }
             ]
            },
            {
@@ -11825,8 +11839,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R16",
-            "status": "TO_BE_PLAYED",
-            "score": null,
+            "status": "CANCELLED",
+            "score": "",
             "winningSide": null,
             "when": "2026-09-20T11:30",
             "venue": "LaFortune",
@@ -11990,7 +12004,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-20T16:41:16.673Z",
+  "fetchedAt": "2026-09-20T16:48:00.890Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -23982,9 +23996,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128-Q",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-3 6-3",
+            "winningSide": 1,
             "when": "2026-09-20T11:00",
             "venue": "CTP",
             "sides": [
@@ -25238,7 +25252,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Madeleine Jessup",
+              "abbr": "PRIN",
+              "school": "Princeton University",
+              "pid": "prin-w-p5",
+              "wtn": 14.93,
+              "seed": null
+             }
             ]
            },
            {

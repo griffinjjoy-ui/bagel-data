@@ -564,6 +564,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "sc-w-h2",
+  "name": "Ayana Akli",
+  "teamId": "sc-w",
+  "gender": "women",
+  "opponent": "Anouk Koevermans",
+  "event": "Eupago Porto Open - Porto",
+  "date": "2026-09-21",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "uga-p7",
+  "name": "Aysegul Mert",
+  "teamId": "uga-w",
+  "gender": "women",
+  "opponent": "Isabella Shinikova",
+  "event": "Ankara Open - Ankara",
+  "date": "2026-09-21",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ncst-m-h7",
   "name": "Braden Shick",
   "teamId": "ncst-m",
@@ -600,6 +620,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Keegan Smith",
   "event": "San Diego 2 Challenger",
+  "date": "2026-09-21",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ucla-w-h6",
+  "name": "Fangran Tian",
+  "teamId": "ucla-w",
+  "gender": "women",
+  "opponent": "Aliona Falei",
+  "event": "Ankara Open - Ankara",
   "date": "2026-09-21",
   "day": "tomorrow"
  },

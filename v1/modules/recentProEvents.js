@@ -378,6 +378,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "miss-m-p2": [
   {
+   "key": "22036",
+   "name": "Genoa 2 Challenger",
+   "date": "2026-09-21",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "85215269",
+     "date": "2026-09-20",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Niccolo Ciavarella",
+     "score": "6-2 7-6(3)"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22030",
    "name": "Biella Challenger",
    "date": "2026-09-14",
