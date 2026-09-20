@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-20T16:26:19.601Z",
+  "fetchedAt": "2026-09-20T16:38:22.443Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -8294,9 +8294,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "2-6 5-7",
+            "winningSide": 2,
             "when": "2026-09-20T09:30",
             "venue": "LaFortune",
             "sides": [
@@ -8346,9 +8346,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 1-6",
+            "winningSide": 2,
             "when": "2026-09-20T09:30",
             "venue": "LaFortune",
             "sides": [
@@ -9542,7 +9542,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 7.18,
               "seed": null
              },
-             null
+             {
+              "name": "Tom Sickenberger",
+              "abbr": null,
+              "school": "University Of Kentucky",
+              "pid": "uk-m-n2",
+              "wtn": 6.47,
+              "seed": null
+             }
             ]
            },
            {
@@ -9561,7 +9568,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 7.45,
               "seed": null
              },
-             null
+             {
+              "name": "Adrien Berrut",
+              "abbr": null,
+              "school": "University Of San Diego",
+              "pid": "usd-m-p3",
+              "wtn": 6.36,
+              "seed": null
+             }
             ]
            },
            {
@@ -11976,7 +11990,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-20T16:26:22.858Z",
+  "fetchedAt": "2026-09-20T16:38:25.548Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -20552,9 +20566,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-5 6-2",
+            "winningSide": 1,
             "when": "2026-09-20T10:30",
             "venue": "CTP",
             "sides": [
@@ -20916,9 +20930,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-2 6-7(1) 3-6",
+            "winningSide": 2,
             "when": "2026-09-20T09:00",
             "venue": "CTP",
             "sides": [
@@ -21559,7 +21573,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 15.04,
               "seed": null
              },
-             null
+             {
+              "name": "Alexandra Panagiotidou",
+              "abbr": "ARK",
+              "school": "Univ. Of Arkansas, Fayetteville",
+              "pid": "ark-p4",
+              "wtn": 15.6,
+              "seed": null
+             }
             ]
            },
            {
@@ -21734,7 +21755,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 14.47,
               "seed": 37
              },
-             null
+             {
+              "name": "Berta Miret",
+              "abbr": "LOUISV",
+              "school": "University Of Louisville",
+              "pid": "lou-w-p6",
+              "wtn": 15.21,
+              "seed": null
+             }
             ]
            },
            {
@@ -24519,7 +24547,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128-Q",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-20T12:30",
