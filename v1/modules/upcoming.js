@@ -44,16 +44,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "bay-w-h13",
-  "name": "Alicia Herrero Linana",
-  "teamId": "bay-w",
-  "gender": "women",
-  "opponent": "Clara Burel",
-  "event": "BBVA Open Internacional - Valencia",
-  "date": "2026-09-20",
-  "day": "today"
- },
- {
   "playerId": "fla-m-h11",
   "name": "Andres Andrade",
   "teamId": "fla-m",
@@ -190,16 +180,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Anna Siskova",
   "event": "W75 Le Neubourg",
-  "date": "2026-09-20",
-  "day": "today"
- },
- {
-  "playerId": "cuse-w-h8",
-  "name": "Gabriela Andrea Knutson",
-  "teamId": "cuse-w",
-  "gender": "women",
-  "opponent": "Lisa Pigato",
-  "event": "Ladies Open - Caldas da Rainha",
   "date": "2026-09-20",
   "day": "today"
  },
@@ -580,6 +560,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Isabella Shinikova",
   "event": "Ankara Open - Ankara",
+  "date": "2026-09-21",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "okst-w-h4",
+  "name": "Ayumi Miyamoto",
+  "teamId": "okst-w",
+  "gender": "women",
+  "opponent": "Maiko Uchijima",
+  "event": "W50 Nanao",
   "date": "2026-09-21",
   "day": "tomorrow"
  },

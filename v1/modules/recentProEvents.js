@@ -110,6 +110,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "ark-m-p6": [
+  {
+   "key": "22035",
+   "name": "San Diego 2 Challenger",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "92208690",
+     "date": "2026-09-20",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Blaise Bicknell",
+     "score": "6-3 3-1 ret."
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "asu-m-p2": [
   {
    "key": "22055",
@@ -277,6 +299,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "lsu-m-p2": [
+  {
+   "key": "22035",
+   "name": "San Diego 2 Challenger",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "90809981",
+     "date": "2026-09-20",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Luca Staeheli",
+     "score": "6-4 6-4"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "22027",
    "name": "Tiburon Challenger",
@@ -763,10 +805,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Andreja Petrovic",
      "score": "5-7 6-1 6-4"
+    },
+    {
+     "id": "90811531",
+     "date": "2026-09-20",
+     "roundId": 12,
+     "round": "Final",
+     "won": false,
+     "opponent": "Aidan Mchugh",
+     "score": "6-4 6-4"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Final",
+   "reachedTone": "amber"
   },
   {
    "key": "22045",
@@ -1048,10 +1099,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Julia Konishi Camargo Silva",
      "score": "6-1 6-3"
+    },
+    {
+     "id": "79439201",
+     "date": "2026-09-20",
+     "roundId": 12,
+     "round": "Final",
+     "won": true,
+     "opponent": "Ava Catanzarite",
+     "score": "6-1 6-1"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Title",
+   "reachedTone": "gold"
   },
   {
    "key": "17275",

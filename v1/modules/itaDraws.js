@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-20T21:25:18.587Z",
+  "fetchedAt": "2026-09-20T21:29:18.123Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -5261,9 +5261,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "5-7 2-6",
+            "winningSide": 2,
             "when": "2026-09-20T12:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -5339,9 +5339,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-0 2-6 6-3",
+            "winningSide": 1,
             "when": "2026-09-20T12:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -5365,9 +5365,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-7(2) 1-6",
+            "winningSide": 2,
             "when": "2026-09-20T12:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -5755,9 +5755,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 6-4",
+            "winningSide": 1,
             "when": "2026-09-20T12:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -5833,9 +5833,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 4-6",
+            "winningSide": 2,
             "when": "2026-09-20T12:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -5885,9 +5885,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 6-4 3-6",
+            "winningSide": 2,
             "when": "2026-09-20T11:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -6400,7 +6400,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 6.14,
               "seed": 15
              },
-             null
+             {
+              "name": "Hugo Coquelin",
+              "abbr": null,
+              "school": "Vanderbilt University",
+              "pid": "van-m-p2",
+              "wtn": 6.39,
+              "seed": 16
+             }
             ]
            },
            {
@@ -6437,8 +6444,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-09-20T15:30",
             "venue": "University Of Tulsa",
             "sides": [
-             null,
-             null
+             {
+              "name": "Nikola Djosic",
+              "abbr": null,
+              "school": "Arizona State University",
+              "pid": "asu-m-p10",
+              "wtn": 6.17,
+              "seed": 19
+             },
+             {
+              "name": "Landon Ardila",
+              "abbr": null,
+              "school": "Princeton University",
+              "pid": "prin-m-p1",
+              "wtn": 6.28,
+              "seed": 20
+             }
             ]
            },
            {
@@ -6631,7 +6652,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-09-20T15:30",
             "venue": "University Of Tulsa",
             "sides": [
-             null,
+             {
+              "name": "Mariano Dedura-Palomero",
+              "abbr": null,
+              "school": "Univ. Of Texas, Austin",
+              "pid": "tex-m-p5",
+              "wtn": 6.26,
+              "seed": 35
+             },
              null
             ]
            },
@@ -6644,7 +6672,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "University Of Tulsa",
             "sides": [
              null,
-             null
+             {
+              "name": "Mitchell Sheldon",
+              "abbr": null,
+              "school": "Michigan State University",
+              "pid": "msu-m-p3",
+              "wtn": 6.38,
+              "seed": 38
+             }
             ]
            },
            {
@@ -6656,7 +6691,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "University Of Tulsa",
             "sides": [
              null,
-             null
+             {
+              "name": "Imran Daniel Abdul Hazli",
+              "abbr": null,
+              "school": "Texas Tech University",
+              "pid": "ttu-m-p2",
+              "wtn": 7.25,
+              "seed": null
+             }
             ]
            },
            {
@@ -12291,7 +12333,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-20T21:25:21.937Z",
+  "fetchedAt": "2026-09-20T21:29:20.531Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
