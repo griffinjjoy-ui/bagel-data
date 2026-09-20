@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-20T11:57:38.152Z",
+  "fetchedAt": "2026-09-20T12:09:43.358Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -7723,11 +7723,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 73,
           "bye": false,
           "seed": null,
-          "name": "Zachary Viiala",
-          "school": "University Of Illinois",
+          "name": "Stefan Vedovelli",
+          "school": "University Of Mississippi",
           "abbr": null,
-          "pid": "ill-m-fp219",
-          "wtn": 6.26
+          "pid": "miss-m-n5",
+          "wtn": 7.86
          },
          {
           "pos": 74,
@@ -9037,11 +9037,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "University Of Tulsa",
             "sides": [
              {
-              "name": "Zachary Viiala",
+              "name": "Stefan Vedovelli",
               "abbr": null,
-              "school": "University Of Illinois",
-              "pid": "ill-m-fp219",
-              "wtn": 6.26,
+              "school": "University Of Mississippi",
+              "pid": "miss-m-n5",
+              "wtn": 7.86,
               "seed": null
              },
              {
@@ -10081,14 +10081,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             {
-              "name": "Zachary Viiala",
-              "abbr": null,
-              "school": "University Of Illinois",
-              "pid": "ill-m-fp219",
-              "wtn": 6.26,
-              "seed": null
-             },
+             null,
              null
             ]
            },
@@ -11808,7 +11801,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-20T11:57:40.638Z",
+  "fetchedAt": "2026-09-20T12:09:46.629Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
