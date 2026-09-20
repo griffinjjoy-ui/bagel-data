@@ -9,13 +9,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-20T12:16:40.172Z",
+  "fetchedAt": "2026-09-20T12:21:39.555Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
     "name": "Men's open singles",
     "type": "singles",
-    "fieldSize": 535,
+    "fieldSize": 536,
     "draws": [
      {
       "drawName": "Prequalifying",
@@ -7563,11 +7563,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 57,
           "bye": false,
           "seed": null,
-          "name": "Cole Stelse",
+          "name": "Sander Juuhl Sivertsen",
           "school": null,
           "abbr": null,
-          "pid": "ariz-m-fp313",
-          "wtn": 7.1
+          "pid": "ariz-m-n2",
+          "wtn": 7.43
          },
          {
           "pos": 58,
@@ -8829,11 +8829,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "LaFortune",
             "sides": [
              {
-              "name": "Cole Stelse",
+              "name": "Sander Juuhl Sivertsen",
               "abbr": null,
               "school": null,
-              "pid": "ariz-m-fp313",
-              "wtn": 7.1,
+              "pid": "ariz-m-n2",
+              "wtn": 7.43,
               "seed": null
              },
              {
@@ -10232,7 +10232,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
     "eventId": "D2E8F215-B622-4412-9D30-B3AB190944AE",
     "name": "Men's open doubles",
     "type": "doubles",
-    "fieldSize": 535,
+    "fieldSize": 536,
     "draws": [
      {
       "drawName": "Prequalifying",
@@ -11801,7 +11801,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-20T12:16:42.971Z",
+  "fetchedAt": "2026-09-20T12:21:42.519Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
