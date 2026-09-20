@@ -4,6 +4,16 @@
 // included). Opponent + event, no result yet. Re-run the script to refresh.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
+  "playerId": "bay-m-h12",
+  "name": "Adrian Boitan",
+  "teamId": "bay-m",
+  "gender": "men",
+  "opponent": "Vadym Ursu",
+  "event": "St. Tropez Challenger",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
   "playerId": "ncst-w-h1",
   "name": "Alana Smith",
   "teamId": "ncst-w",
@@ -34,6 +44,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "aub-w-h7",
+  "name": "Ariana Arseneault",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Catarina Gomes",
+  "event": "Eupago Porto Open - Porto",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
   "playerId": "stan-m-h4",
   "name": "Arthur Fery",
   "teamId": "stan-m",
@@ -54,12 +74,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "wash-m-h7",
+  "name": "Cesar Bouchelaghem",
+  "teamId": "wash-m",
+  "gender": "men",
+  "opponent": "Matteo Martineau",
+  "event": "St. Tropez Challenger",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
+  "playerId": "unc-w-h2",
+  "name": "Fiona Crawley",
+  "teamId": "unc-w",
+  "gender": "women",
+  "opponent": "Anna Siskova",
+  "event": "W75 Le Neubourg",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
   "playerId": "cuse-w-h8",
   "name": "Gabriela Andrea Knutson",
   "teamId": "cuse-w",
   "gender": "women",
   "opponent": "Lisa Pigato",
   "event": "Ladies Open - Caldas da Rainha",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
+  "playerId": "tamu-p3",
+  "name": "Ilinca Amariei",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Aleksandra Rangelova",
+  "event": "W50 Plovdiv",
   "date": "2026-09-20",
   "day": "today"
  },
@@ -94,12 +144,52 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "osu-m-h2",
+  "name": "Justin Boulais",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Mickael Kaouk",
+  "event": "St. Tropez Challenger",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
+  "playerId": "unc-m-h8",
+  "name": "Karl Poling",
+  "teamId": "unc-m",
+  "gender": "men",
+  "opponent": "Yanis Ghazouani Durand",
+  "event": "St. Tropez Challenger",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
+  "playerId": "tulsa-m-h3",
+  "name": "Kody Pearson",
+  "teamId": "tulsa-m",
+  "gender": "men",
+  "opponent": "Giovanni Oradini",
+  "event": "Genoa 2 Challenger",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
   "playerId": "okst-w-h7",
   "name": "Kylie Collins",
   "teamId": "okst-w",
   "gender": "women",
   "opponent": "Jessica Hinojosa Gomez",
   "event": "Eupago Porto Open - Porto",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
+  "playerId": "tenn-p3",
+  "name": "Leyla Britez Risso",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Ava Catanzarite",
+  "event": "W15 Sao Luis",
   "date": "2026-09-20",
   "day": "today"
  },
@@ -134,12 +224,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ala-p10",
+  "name": "Maria Andrienko",
+  "teamId": "ala-w",
+  "gender": "women",
+  "opponent": "Merel Hoedt",
+  "event": "W50 Plovdiv",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
   "playerId": "tex-m-n3",
   "name": "Matej Dodig",
   "teamId": "tex-m",
   "gender": "men",
   "opponent": "Daniel Altmaier",
   "event": "Davis Cup, World Group, Q2, GER-CRO",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
+  "playerId": "asu-m-h4",
+  "name": "Murphy Cassone",
+  "teamId": "asu-m",
+  "gender": "men",
+  "opponent": "Hugo Car",
+  "event": "St. Tropez Challenger",
   "date": "2026-09-20",
   "day": "today"
  },
@@ -154,12 +264,52 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ucla-m-h5",
+  "name": "Patrick Zahraj",
+  "teamId": "ucla-m",
+  "gender": "men",
+  "opponent": "Mathys Erhard",
+  "event": "St. Tropez Challenger",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
+  "playerId": "uva-m-h12",
+  "name": "Rafael Jodar",
+  "teamId": "uva-m",
+  "gender": "men",
+  "opponent": "Alejandro Tabilo",
+  "event": "Davis Cup, World Group, Q2, CHI-ESP",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
   "playerId": "unc-w-p2",
   "name": "Reese Brantmeier",
   "teamId": "unc-w",
   "gender": "women",
   "opponent": "Jasmijn Gimbrere",
   "event": "Eupago Porto Open - Porto",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
+  "playerId": "stan-m-fp374",
+  "name": "Samir Banerjee",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Aidan Mchugh",
+  "event": "M25 Nevers",
+  "date": "2026-09-20",
+  "day": "today"
+ },
+ {
+  "playerId": "miss-m-p2",
+  "name": "Stefano D'Agostino",
+  "teamId": "miss-m",
+  "gender": "men",
+  "opponent": "Niccolo Ciavarella",
+  "event": "Genoa 2 Challenger",
   "date": "2026-09-20",
   "day": "today"
  },
