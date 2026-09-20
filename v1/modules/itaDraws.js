@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-20T13:01:09.753Z",
+  "fetchedAt": "2026-09-20T13:13:13.669Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -11801,7 +11801,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-20T13:01:12.310Z",
+  "fetchedAt": "2026-09-20T13:13:16.634Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -12931,8 +12931,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          {
           "pos": 9,
           "bye": false,
-          "seed": 1,
-          "name": "Xu/Bucher",
+          "seed": null,
+          "name": "Pearce/Weng",
           "school": null,
           "abbr": null,
           "pid": null,
@@ -12981,8 +12981,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          {
           "pos": 14,
           "bye": false,
-          "seed": null,
-          "name": "Pearce/Weng",
+          "seed": 1,
+          "name": "Xu/Bucher",
           "school": null,
           "abbr": null,
           "pid": null,
@@ -13102,12 +13102,12 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "CTP",
             "sides": [
              {
-              "name": "Xu/Bucher",
+              "name": "Pearce/Weng",
               "abbr": null,
               "school": null,
               "pid": null,
               "wtn": null,
-              "seed": 1
+              "seed": null
              },
              {
               "name": "Block/Rajaram",
@@ -13147,11 +13147,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R16-Q",
-            "status": "TO_BE_PLAYED",
-            "score": null,
+            "status": "CANCELLED",
+            "score": "",
             "winningSide": null,
-            "when": "2026-09-20T16:30",
-            "venue": "CTP",
+            "when": null,
+            "venue": null,
             "sides": [
              {
               "name": "Buchwald/Pate",
@@ -13162,12 +13162,12 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "seed": null
              },
              {
-              "name": "Pearce/Weng",
+              "name": "Xu/Bucher",
               "abbr": null,
               "school": null,
               "pid": null,
               "wtn": null,
-              "seed": null
+              "seed": 1
              }
             ]
            },
