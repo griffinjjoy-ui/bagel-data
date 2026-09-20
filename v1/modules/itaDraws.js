@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-20T12:33:45.988Z",
+  "fetchedAt": "2026-09-20T12:45:51.178Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -11801,7 +11801,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-20T12:33:49.423Z",
+  "fetchedAt": "2026-09-20T12:45:54.294Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -20689,7 +20689,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-20T09:00",
@@ -20741,7 +20741,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-20T09:00",
@@ -20767,7 +20767,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-20T09:00",
@@ -20793,7 +20793,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-20T09:00",
@@ -22326,12 +22326,12 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          {
           "pos": 69,
           "bye": false,
-          "seed": 3,
-          "name": "Eleana Yu",
-          "school": "Duke University",
-          "abbr": "DUKE",
-          "pid": "duke-w-p7",
-          "wtn": 13.78
+          "seed": null,
+          "name": "Martina Genis Salas",
+          "school": "University Of Virginia",
+          "abbr": "UVA",
+          "pid": "uva-w-p2",
+          "wtn": 15.03
          },
          {
           "pos": 70,
@@ -22366,12 +22366,12 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          {
           "pos": 73,
           "bye": false,
-          "seed": null,
-          "name": "Martina Genis Salas",
-          "school": "University Of Virginia",
-          "abbr": "UVA",
-          "pid": "uva-w-p2",
-          "wtn": 15.03
+          "seed": 3,
+          "name": "Eleana Yu",
+          "school": "Duke University",
+          "abbr": "DUKE",
+          "pid": "duke-w-p7",
+          "wtn": 13.78
          },
          {
           "pos": 74,
@@ -23437,12 +23437,12 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "CTP",
             "sides": [
              {
-              "name": "Eleana Yu",
-              "abbr": "DUKE",
-              "school": "Duke University",
-              "pid": "duke-w-p7",
-              "wtn": 13.78,
-              "seed": 3
+              "name": "Martina Genis Salas",
+              "abbr": "UVA",
+              "school": "University Of Virginia",
+              "pid": "uva-w-p2",
+              "wtn": 15.03,
+              "seed": null
              },
              {
               "name": "Autumn Rabjohns",
@@ -23482,19 +23482,19 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128-Q",
-            "status": "TO_BE_PLAYED",
-            "score": null,
+            "status": "CANCELLED",
+            "score": "",
             "winningSide": null,
-            "when": "2026-09-20T15:00",
-            "venue": "CTP",
+            "when": null,
+            "venue": null,
             "sides": [
              {
-              "name": "Martina Genis Salas",
-              "abbr": "UVA",
-              "school": "University Of Virginia",
-              "pid": "uva-w-p2",
-              "wtn": 15.03,
-              "seed": null
+              "name": "Eleana Yu",
+              "abbr": "DUKE",
+              "school": "Duke University",
+              "pid": "duke-w-p7",
+              "wtn": 13.78,
+              "seed": 3
              },
              {
               "name": "Maeve Thornton",
