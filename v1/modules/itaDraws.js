@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-20T21:01:11.746Z",
+  "fetchedAt": "2026-09-20T21:13:18.727Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -9229,8 +9229,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            {
             "roundName": "R128",
             "status": "COMPLETED",
-            "score": "6-2 6-3",
-            "winningSide": 1,
+            "score": "2-6 3-6",
+            "winningSide": 2,
             "when": "2026-09-20T11:00",
             "venue": "LaFortune",
             "sides": [
@@ -10101,11 +10101,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "seed": null
              },
              {
-              "name": "Nicolas Kobelt",
+              "name": "Ashton Adesoro",
               "abbr": null,
-              "school": "Oklahoma State University",
-              "pid": "okst-m-p5",
-              "wtn": 6.66,
+              "school": "University Of Miami",
+              "pid": "miami-m-n1",
+              "wtn": 7.45,
               "seed": null
              }
             ]
@@ -12291,7 +12291,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-20T21:01:14.671Z",
+  "fetchedAt": "2026-09-20T21:13:21.747Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -24775,9 +24775,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128-Q",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-2 2-6 1-6",
+            "winningSide": 2,
             "when": "2026-09-20T15:00",
             "venue": "CTP",
             "sides": [
@@ -25954,7 +25954,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Monika Wojcik",
+              "abbr": "SYR",
+              "school": "Syracuse University",
+              "pid": "cuse-w-p10",
+              "wtn": 15.54,
+              "seed": null
+             }
             ]
            },
            {
