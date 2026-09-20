@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-20T20:49:06.825Z",
+  "fetchedAt": "2026-09-20T21:01:11.746Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -12291,7 +12291,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-20T20:49:09.681Z",
+  "fetchedAt": "2026-09-20T21:01:14.671Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -24983,9 +24983,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128-Q",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 4-6",
+            "winningSide": 2,
             "when": "2026-09-20T15:00",
             "venue": "CTP",
             "sides": [
@@ -26092,7 +26092,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Polina Marakhtanova",
+              "abbr": "UCLA",
+              "school": "UCLA",
+              "pid": "ucla-w-n2",
+              "wtn": 15.5,
+              "seed": null
+             }
             ]
            },
            {
