@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-20T16:38:22.443Z",
+  "fetchedAt": "2026-09-20T16:41:13.595Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -11990,7 +11990,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-20T16:38:25.548Z",
+  "fetchedAt": "2026-09-20T16:41:16.673Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -20332,9 +20332,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-5 6-2",
+            "winningSide": 1,
             "when": "2026-09-20T11:00",
             "venue": "CTP",
             "sides": [
@@ -21475,7 +21475,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-09-20T15:00",
             "venue": "CTP",
             "sides": [
-             null,
+             {
+              "name": "Sophia Webster",
+              "abbr": "VNDY",
+              "school": "Vanderbilt University",
+              "pid": "van-p8",
+              "wtn": 15.63,
+              "seed": null
+             },
              null
             ]
            },
