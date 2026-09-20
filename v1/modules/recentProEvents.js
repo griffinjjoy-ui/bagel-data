@@ -1125,6 +1125,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "tex-m-n3": [
   {
+   "key": "22118",
+   "name": "Davis Cup, World Group, Q2, GER-CRO",
+   "date": "2026-09-14",
+   "surface": "I.hard",
+   "tier": "Davis/Fed Cup",
+   "matches": [
+    {
+     "id": "75425713",
+     "date": "2026-09-19",
+     "roundId": 13,
+     "round": "Rubber 1",
+     "won": false,
+     "opponent": "Alexander Zverev",
+     "score": "6-4 7-6(3)"
+    }
+   ],
+   "reached": "Rubber 1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22019",
    "name": "Genoa Challenger",
    "date": "2026-09-07",
