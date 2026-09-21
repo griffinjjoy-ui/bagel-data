@@ -1112,7 +1112,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  "tex-m-n3": [
   {
    "key": "22118",
-   "name": "Davis Cup, World Group, Q2, GER-CRO",
+   "name": "Davis Cup, World Group, Q2, GER-CRO 3-1",
    "date": "2026-09-14",
    "surface": "I.hard",
    "tier": "Davis/Fed Cup",
@@ -1292,10 +1292,32 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "gold"
   }
  ],
+ "usf-m-p3": [
+  {
+   "key": "22077",
+   "name": "M15 Curitiba",
+   "date": "2026-09-21",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "106197257",
+     "date": "2026-09-20",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Andrey Barbiero",
+     "score": "6-2 6-1"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "wake-m-fp302": [
   {
    "key": "22115",
-   "name": "Davis Cup, World Group, Q2, KOR-IND",
+   "name": "Davis Cup, World Group, Q2, KOR-IND 3-1",
    "date": "2026-09-14",
    "surface": "Hard",
    "tier": "Davis/Fed Cup",

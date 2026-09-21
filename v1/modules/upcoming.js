@@ -4,6 +4,16 @@
 // included). Opponent + event, no result yet. Re-run the script to refresh.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
+  "playerId": "aub-p3",
+  "name": "Aishi Das",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Kira Matushkina",
+  "event": "W50 Berkeley",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
   "playerId": "uk-m-h14",
   "name": "Alafia Ayeni",
   "teamId": "uk-m",
@@ -34,6 +44,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ou-w-h7",
+  "name": "Alina Shcherbinina",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Krisha Mahendran",
+  "event": "W50 Berkeley",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
   "playerId": "mich-m-h5",
   "name": "Andrew Fenty",
   "teamId": "mich-m",
@@ -44,12 +64,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "lsu-w-h3",
+  "name": "Anita Sahdiieva",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Jenna Defalco",
+  "event": "W50 Berkeley",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
   "playerId": "aub-w-h7",
   "name": "Ariana Arseneault",
   "teamId": "aub-w",
   "gender": "women",
   "opponent": "Angelina Voloshchuk",
   "event": "Eupago Porto Open - Porto",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-w-n2",
+  "name": "Arianna Zucchini",
+  "teamId": "tex-w",
+  "gender": "women",
+  "opponent": "Maria Aytoyan",
+  "event": "W50 Berkeley",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
+  "playerId": "tamu-w-n8",
+  "name": "Arina Bulatova",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Ava Quincy Brewer",
+  "event": "W50 Berkeley",
   "date": "2026-09-21",
   "day": "today"
  },
@@ -104,12 +154,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "lsu-p5",
+  "name": "Carolina Kuhl",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Tori Kinard",
+  "event": "W50 Berkeley",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
   "playerId": "asu-w-h8",
   "name": "Chelsea Fontenel",
   "teamId": "asu-w",
   "gender": "women",
   "opponent": "Elza Tomase",
   "event": "W50 Yecla",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-p8",
+  "name": "Christasha McNeil",
+  "teamId": "tex-w",
+  "gender": "women",
+  "opponent": "Emma Kamper Malmkjaer",
+  "event": "W50 Berkeley",
   "date": "2026-09-21",
   "day": "today"
  },
@@ -124,12 +194,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "pepp-w-p5",
+  "name": "Duru Söke",
+  "teamId": "pepp-w",
+  "gender": "women",
+  "opponent": "Madison Rose",
+  "event": "W50 Berkeley",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
   "playerId": "uva-m-p2",
   "name": "Dylan Dietrich",
   "teamId": "uva-m",
   "gender": "men",
   "opponent": "Dinko Dinev",
   "event": "San Diego 2 Challenger",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
+  "playerId": "ou-p5",
+  "name": "Edda Mamedova",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Anna Pushkareva",
+  "event": "W50 Berkeley",
   "date": "2026-09-21",
   "day": "today"
  },
@@ -144,12 +234,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "miami-w-fp324",
+  "name": "Ela Plosnik",
+  "teamId": "miami-w",
+  "gender": "women",
+  "opponent": "Olivia Lincer",
+  "event": "W50 Berkeley",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
   "playerId": "tenn-w-h7",
   "name": "Elza Tomase",
   "teamId": "tenn-w",
   "gender": "women",
   "opponent": "Chelsea Fontenel",
   "event": "W50 Yecla",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
+  "playerId": "aub-p6",
+  "name": "Emma Kamper",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Christasha McNeil",
+  "event": "W50 Berkeley",
   "date": "2026-09-21",
   "day": "today"
  },
@@ -180,6 +290,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Federico Arnaboldi",
   "event": "Genoa 2 Challenger",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
+  "playerId": "duke-m-h2",
+  "name": "Garrett Johns",
+  "teamId": "duke-m",
+  "gender": "men",
+  "opponent": "Tristan Mccormick",
+  "event": "M25 Santa Margherita di Pula",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
+  "playerId": "usd-m-h3",
+  "name": "Iiro Vasa",
+  "teamId": "usd-m",
+  "gender": "men",
+  "opponent": "Saba George Nanobashvili",
+  "event": "M25 Falun",
   "date": "2026-09-21",
   "day": "today"
  },
@@ -244,12 +374,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ala-p1",
+  "name": "Karla Bartel",
+  "teamId": "ala-w",
+  "gender": "women",
+  "opponent": "Janae Preston",
+  "event": "W50 Berkeley",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
   "playerId": "ucla-m-h15",
   "name": "Keegan Smith",
   "teamId": "ucla-m",
   "gender": "men",
   "opponent": "Edward Winter",
   "event": "San Diego 2 Challenger",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
+  "playerId": "tcu-w-p6",
+  "name": "Kira Matushkina",
+  "teamId": "tcu-w",
+  "gender": "women",
+  "opponent": "Aishi Das",
+  "event": "W50 Berkeley",
   "date": "2026-09-21",
   "day": "today"
  },
@@ -310,6 +460,36 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Lucie Petruzelova",
   "event": "W50 Plovdiv",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
+  "playerId": "wisc-w-p7",
+  "name": "Maria Sholokhova",
+  "teamId": "wisc-w",
+  "gender": "women",
+  "opponent": "Adriana Reami",
+  "event": "W50 Berkeley",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
+  "playerId": "ucla-w-p7",
+  "name": "Mayu Crossley",
+  "teamId": "ucla-w",
+  "gender": "women",
+  "opponent": "Mckenna Schaefbauer",
+  "event": "W50 Berkeley",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
+  "playerId": "mich-w-n1",
+  "name": "McKenna Schaefbauer",
+  "teamId": "mich-w",
+  "gender": "women",
+  "opponent": "Mayu Crossley",
+  "event": "W50 Berkeley",
   "date": "2026-09-21",
   "day": "today"
  },
@@ -404,6 +584,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "uga-m-h16",
+  "name": "Tristan McCormick",
+  "teamId": "uga-m",
+  "gender": "men",
+  "opponent": "Garrett Johns",
+  "event": "M25 Santa Margherita di Pula",
+  "date": "2026-09-21",
+  "day": "today"
+ },
+ {
   "playerId": "fla-m-h9",
   "name": "Abedallah Shelbayh",
   "teamId": "fla-m",
@@ -414,12 +604,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "ncst-m-h11",
+  "name": "Alexis Galarneau",
+  "teamId": "ncst-m",
+  "gender": "men",
+  "opponent": "Elias Ymer",
+  "event": "Chengdu Open - Chengdu",
+  "date": "2026-09-22",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "bay-w-h13",
   "name": "Alicia Herrero Linana",
   "teamId": "bay-w",
   "gender": "women",
   "opponent": "Barbora Palicova",
   "event": "Tolentino Open - Tolentino",
+  "date": "2026-09-22",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "haw-m-h2",
+  "name": "Andre Ilagan",
+  "teamId": "haw-m",
+  "gender": "men",
+  "opponent": "Petr Bar Biryukov",
+  "event": "Chengdu Open - Chengdu",
   "date": "2026-09-22",
   "day": "tomorrow"
  },
@@ -500,6 +710,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Darwin Blanch",
   "event": "San Diego 2 Challenger",
+  "date": "2026-09-22",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ill-m-fp217",
+  "name": "Kenta Miyoshi",
+  "teamId": "ill-m",
+  "gender": "men",
+  "opponent": "Lloyd Harris",
+  "event": "Chengdu Open - Chengdu",
   "date": "2026-09-22",
   "day": "tomorrow"
  },
