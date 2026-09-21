@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-21T22:26:51.882Z",
+  "fetchedAt": "2026-09-21T22:49:57.093Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -12070,9 +12070,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 7-5 6-3",
+            "winningSide": 1,
             "when": "2026-09-21T14:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -12654,7 +12654,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 6.14,
               "seed": null
              },
-             null
+             {
+              "name": "Kyle McNally",
+              "abbr": null,
+              "school": "University Of Dayton",
+              "pid": null,
+              "wtn": 6.51,
+              "seed": null
+             }
             ]
            },
            {
@@ -13202,9 +13209,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 20,
-          "bye": true,
-          "seed": null,
-          "name": null
+          "bye": false,
+          "seed": 23,
+          "name": "Yannick Theodor Alexandrescou",
+          "school": "Duke University",
+          "abbr": null,
+          "pid": "duke-m-p1",
+          "wtn": 5.72
          },
          {
           "pos": 21,
@@ -13570,7 +13581,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 6.79,
               "seed": 10
              },
-             null
+             {
+              "name": "Yannick Theodor Alexandrescou",
+              "abbr": null,
+              "school": "Duke University",
+              "pid": "duke-m-p1",
+              "wtn": 5.72,
+              "seed": 23
+             }
             ]
            },
            {
@@ -17376,9 +17394,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-7(7) 6-2 [13-11]",
+            "winningSide": 1,
             "when": "2026-09-21T15:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -17625,7 +17643,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": null,
               "seed": null
              },
-             null
+             {
+              "name": "Vales/Bharadwaj",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -17793,7 +17818,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-21T22:26:54.696Z",
+  "fetchedAt": "2026-09-21T22:50:00.433Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -19976,8 +20001,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "R32",
-            "status": "IN_PROGRESS",
-            "score": null,
+            "status": "TO_BE_PLAYED",
+            "score": "",
             "winningSide": null,
             "when": "2026-09-21T17:00",
             "venue": "CTP",
@@ -20002,11 +20027,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "IN_PROGRESS",
-            "score": null,
+            "status": "TO_BE_PLAYED",
+            "score": "",
             "winningSide": null,
             "when": "2026-09-21T16:30",
-            "venue": "CTP",
+            "venue": "CTP- INDOORS",
             "sides": [
              {
               "name": "Conway/Smejkalova",
@@ -20054,8 +20079,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "IN_PROGRESS",
-            "score": null,
+            "status": "TO_BE_PLAYED",
+            "score": "",
             "winningSide": null,
             "when": "2026-09-21T17:00",
             "venue": "CTP",
@@ -20106,8 +20131,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "IN_PROGRESS",
-            "score": null,
+            "status": "TO_BE_PLAYED",
+            "score": "",
             "winningSide": null,
             "when": "2026-09-21T17:00",
             "venue": "CTP",
@@ -20158,8 +20183,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "IN_PROGRESS",
-            "score": null,
+            "status": "TO_BE_PLAYED",
+            "score": "",
             "winningSide": null,
             "when": "2026-09-21T16:30",
             "venue": "CTP",
@@ -20288,8 +20313,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "IN_PROGRESS",
-            "score": null,
+            "status": "TO_BE_PLAYED",
+            "score": "",
             "winningSide": null,
             "when": "2026-09-21T17:00",
             "venue": "CTP",
