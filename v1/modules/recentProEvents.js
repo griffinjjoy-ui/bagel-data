@@ -400,28 +400,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
- "mich-m-p6": [
-  {
-   "key": "22131",
-   "name": "Davis Cup, Group I, 1R, TPE-SWE 3-2",
-   "date": "2026-09-14",
-   "surface": "I.hard",
-   "tier": "Davis/Fed Cup",
-   "matches": [
-    {
-     "id": "86616341",
-     "date": "2026-09-20",
-     "roundId": 17,
-     "round": "Rubber 5",
-     "won": false,
-     "opponent": "Tung-Lin Wu",
-     "score": "6-4 6-4"
-    }
-   ],
-   "reached": "Rubber 5",
-   "reachedTone": "neutral"
-  }
- ],
  "miss-m-p2": [
   {
    "key": "22036",
@@ -438,18 +416,9 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Niccolo Ciavarella",
      "score": "6-2 7-6(3)"
-    },
-    {
-     "id": "118782160",
-     "date": "2026-09-21",
-     "roundId": 3,
-     "round": "Q3",
-     "won": true,
-     "opponent": "Lorenzo Rottoli",
-     "score": "6-3 6-3"
     }
    ],
-   "reached": "Q3",
+   "reached": "Q1",
    "reachedTone": "neutral"
   },
   {
@@ -690,28 +659,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "First",
-   "reachedTone": "neutral"
-  }
- ],
- "ou-m-p5": [
-  {
-   "key": "22123",
-   "name": "Davis Cup, Group I, 1R, NED-COL 4-0",
-   "date": "2026-09-14",
-   "surface": "I.hard",
-   "tier": "Davis/Fed Cup",
-   "matches": [
-    {
-     "id": "53045046",
-     "date": "2026-09-18",
-     "roundId": 13,
-     "round": "Rubber 1",
-     "won": false,
-     "opponent": "Botic Van De Zandschulp",
-     "score": "4-6 6-1 7-5"
-    }
-   ],
-   "reached": "Rubber 1",
    "reachedTone": "neutral"
   }
  ],
@@ -1285,28 +1232,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    ],
    "reached": "Title",
    "reachedTone": "gold"
-  }
- ],
- "uga-p7": [
-  {
-   "key": "17260",
-   "name": "Ankara Open - Ankara",
-   "date": "2026-09-21",
-   "surface": "Hard",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "106430859",
-     "date": "2026-09-21",
-     "roundId": 4,
-     "round": "First",
-     "won": true,
-     "opponent": "Isabella Shinikova",
-     "score": "4-6 6-1 6-3"
-    }
-   ],
-   "reached": "First",
-   "reachedTone": "neutral"
   }
  ],
  "usc-m-p3": [

@@ -4090,13 +4090,13 @@ export const doublesRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.doubl
   "listId": "2026-27_d1_women_doubles_p2_v5",
   "region": null
  },
- "uga-p3|uga-w-n6": {
+ "uga-p3|uga-w-n1": {
   "rank": 12,
   "wins": 0,
   "losses": 0,
   "players": [
    "uga-p3",
-   "uga-w-n6"
+   "uga-w-n1"
   ],
   "listDate": "2026-08-25",
   "listId": "2026-27_d1_women_doubles_p2_v5",
@@ -4594,18 +4594,6 @@ export const doublesRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.doubl
   "listId": "2026-27_d1_women_doubles_p2_v5",
   "region": null
  },
- "sc-p4|sc-w-n4": {
-  "rank": 54,
-  "wins": 0,
-  "losses": 0,
-  "players": [
-   "sc-p4",
-   "sc-w-n4"
-  ],
-  "listDate": "2026-08-25",
-  "listId": "2026-27_d1_women_doubles_p2_v5",
-  "region": null
- },
  "tenn-p5|tenn-w-n3": {
   "rank": 55,
   "wins": 0,
@@ -4714,13 +4702,13 @@ export const doublesRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.doubl
   "listId": "2026-27_d1_women_doubles_p2_v5",
   "region": null
  },
- "fla-w-n2|fla-w-n4": {
+ "fla-w-n2|fla-w-n3": {
   "rank": 65,
   "wins": 0,
   "losses": 0,
   "players": [
    "fla-w-n2",
-   "fla-w-n4"
+   "fla-w-n3"
   ],
   "listDate": "2026-08-25",
   "listId": "2026-27_d1_women_doubles_p2_v5",
@@ -4846,13 +4834,13 @@ export const doublesRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.doubl
   "listId": "2026-27_d1_women_doubles_p2_v5",
   "region": null
  },
- "colum-w-n4|colum-w-n7": {
+ "colum-w-n3|colum-w-n4": {
   "rank": 77,
   "wins": 0,
   "losses": 0,
   "players": [
-   "colum-w-n4",
-   "colum-w-n7"
+   "colum-w-n3",
+   "colum-w-n4"
   ],
   "listDate": "2026-08-25",
   "listId": "2026-27_d1_women_doubles_p2_v5",

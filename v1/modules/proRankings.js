@@ -15,8 +15,22 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 4,
   "change": 5,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "ncst-w-h8",
+  "name": "Diana Shnaider",
+  "teamId": "ncst-w",
+  "teamName": "NC State",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 13,
+  "change": 3,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "usc-m-h8",
@@ -29,22 +43,8 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 13,
   "change": 2,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
- },
- {
-  "playerId": "ncst-w-h8",
-  "name": "Diana Shnaider",
-  "teamId": "ncst-w",
-  "teamName": "NC State",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 14,
-  "change": -1,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
  },
  {
   "playerId": "uva-m-h12",
@@ -57,7 +57,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 14,
   "change": -1,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -71,7 +71,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 16,
   "change": 1,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -82,10 +82,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 19,
-  "change": 4,
+  "position": 21,
+  "change": 2,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -96,10 +96,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 23,
-  "change": 1,
+  "position": 24,
+  "change": 3,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -110,10 +110,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 31,
-  "change": -2,
+  "position": 32,
+  "change": -3,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -127,22 +127,8 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 36,
   "change": 1,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
- },
- {
-  "playerId": "tex-w-h12",
-  "name": "Peyton Stearns",
-  "teamId": "tex-w",
-  "teamName": "Texas",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 36,
-  "change": 24,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
  },
  {
   "playerId": "tcu-m-h11",
@@ -155,7 +141,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 39,
   "change": -6,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -166,10 +152,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 46,
-  "change": 5,
+  "position": 51,
+  "change": -15,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -183,7 +169,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 54,
   "change": 0,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -197,8 +183,22 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 57,
   "change": 3,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "tex-w-h12",
+  "name": "Peyton Stearns",
+  "teamId": "tex-w",
+  "teamName": "Texas",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 60,
+  "change": -5,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "fla-w-h11",
@@ -208,10 +208,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 72,
-  "change": 1,
+  "position": 73,
+  "change": -7,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -222,10 +222,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 85,
-  "change": -8,
+  "position": 84,
+  "change": -7,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -236,10 +236,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 89,
-  "change": -1,
+  "position": 88,
+  "change": 6,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -256,20 +256,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-24"
  },
  {
-  "playerId": "tcu-m-h1",
-  "name": "Jacob Fearnley",
-  "teamId": "tcu-m",
-  "teamName": "TCU",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 94,
-  "change": 6,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
   "playerId": "sc-m-h4",
   "name": "Toby Samuel",
   "teamId": "sc-m",
@@ -277,10 +263,24 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 98,
-  "change": 12,
+  "position": 95,
+  "change": 15,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "tcu-m-h1",
+  "name": "Jacob Fearnley",
+  "teamId": "tcu-m",
+  "teamName": "TCU",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 97,
+  "change": 3,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -291,10 +291,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 99,
-  "change": -6,
+  "position": 102,
+  "change": -9,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -305,25 +305,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 114,
-  "change": 2,
+  "position": 116,
+  "change": 6,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
- },
- {
-  "playerId": "uk-m-h12",
-  "name": "Gabriel Diallo",
-  "teamId": "uk-m",
-  "teamName": "Kentucky",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 122,
-  "change": -8,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
  },
  {
   "playerId": "tex-m-h6",
@@ -333,38 +319,24 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 123,
+  "position": 122,
+  "change": -10,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "uk-m-h12",
+  "name": "Gabriel Diallo",
+  "teamId": "uk-m",
+  "teamName": "Kentucky",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 125,
   "change": -11,
   "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "uva-m-h5",
-  "name": "Chris Rodesch",
-  "teamId": "uva-m",
-  "teamName": "Virginia",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 149,
-  "change": 2,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "wake-m-h24",
-  "name": "Borna Gojo",
-  "teamId": "wake-m",
-  "teamName": "Wake Forest",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 150,
-  "change": 12,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -375,10 +347,52 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 156,
-  "change": -10,
+  "position": 145,
+  "change": 1,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "uva-m-h5",
+  "name": "Chris Rodesch",
+  "teamId": "uva-m",
+  "teamName": "Virginia",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 150,
+  "change": 1,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "stan-m-h8",
+  "name": "Nishesh Basavareddy",
+  "teamId": "stan-m",
+  "teamName": "Stanford",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 151,
+  "change": 12,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "wake-m-h24",
+  "name": "Borna Gojo",
+  "teamId": "wake-m",
+  "teamName": "Wake Forest",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 156,
+  "change": 6,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -389,25 +403,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 157,
-  "change": 2,
+  "position": 159,
+  "change": 3,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
- },
- {
-  "playerId": "stan-m-h8",
-  "name": "Nishesh Basavareddy",
-  "teamId": "stan-m",
-  "teamName": "Stanford",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 167,
-  "change": -4,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
  },
  {
   "playerId": "tex-m-n3",
@@ -417,24 +417,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 174,
-  "change": 77,
+  "position": 171,
+  "change": 80,
   "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "wash-m-h10",
-  "name": "Clement Chidekh",
-  "teamId": "wash-m",
-  "teamName": "Washington",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 177,
-  "change": 8,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -445,10 +431,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 179,
-  "change": 4,
+  "position": 176,
+  "change": 7,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -459,10 +445,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 184,
-  "change": 0,
+  "position": 181,
+  "change": 3,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -486,10 +472,24 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 192,
-  "change": -27,
+  "position": 189,
+  "change": -24,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "wash-m-h10",
+  "name": "Clement Chidekh",
+  "teamId": "wash-m",
+  "teamName": "Washington",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 191,
+  "change": -6,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -500,24 +500,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 194,
-  "change": -1,
+  "position": 192,
+  "change": 1,
   "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "ncst-m-h7",
-  "name": "Braden Shick",
-  "teamId": "ncst-m",
-  "teamName": "NC State",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 202,
-  "change": 13,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -528,10 +514,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 205,
-  "change": 16,
+  "position": 202,
+  "change": 19,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -542,24 +528,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 206,
-  "change": 37,
+  "position": 203,
+  "change": 40,
   "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "stan-m-h16",
-  "name": "Tristan Boyer",
-  "teamId": "stan-m",
-  "teamName": "Stanford",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 208,
-  "change": -26,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -570,81 +542,39 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 209,
-  "change": 8,
+  "position": 205,
+  "change": 12,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "osu-m-h11",
-  "name": "Jeff Wolf",
-  "teamId": "osu-m",
-  "teamName": "Ohio State",
+  "playerId": "ncst-m-h7",
+  "name": "Braden Shick",
+  "teamId": "ncst-m",
+  "teamName": "NC State",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 218,
-  "change": 30,
-  "weeks": 7,
-  "asOf": "2026-09-21",
+  "position": 206,
+  "change": 9,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "bay-w-h13",
-  "name": "Alicia Herrero Linana",
-  "teamId": "bay-w",
-  "teamName": "Baylor",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 223,
-  "change": 40,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "uva-m-h4",
-  "name": "Inaki Montes de la Torre",
-  "teamId": "uva-m",
-  "teamName": "Virginia",
+  "playerId": "stan-m-h16",
+  "name": "Tristan Boyer",
+  "teamId": "stan-m",
+  "teamName": "Stanford",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 226,
-  "change": 54,
+  "position": 214,
+  "change": -32,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
- },
- {
-  "playerId": "unc-w-h2",
-  "name": "Fiona Crawley",
-  "teamId": "unc-w",
-  "teamName": "North Carolina",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 227,
-  "change": 31,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "tenn-p6",
-  "name": "Katrina Scott",
-  "teamId": "tenn-w",
-  "teamName": "Tennessee",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 238,
-  "change": 0,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
  },
  {
   "playerId": "stan-m-h6",
@@ -654,52 +584,24 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 241,
-  "change": 25,
+  "position": 219,
+  "change": 47,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "usd-m-h8",
-  "name": "August Holmgren",
-  "teamId": "usd-m",
-  "teamName": "San Diego",
+  "playerId": "uva-m-h4",
+  "name": "Inaki Montes de la Torre",
+  "teamId": "uva-m",
+  "teamName": "Virginia",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 242,
-  "change": 2,
+  "position": 222,
+  "change": 58,
   "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "lsu-p8",
-  "name": "Cadence Brace",
-  "teamId": "lsu-w",
-  "teamName": "LSU",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 245,
-  "change": 4,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "bay-m-h11",
-  "name": "Matias Soto",
-  "teamId": "bay-m",
-  "teamName": "Baylor",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 246,
-  "change": 15,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -710,10 +612,38 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 247,
-  "change": -12,
+  "position": 235,
+  "change": 3,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "bay-m-h11",
+  "name": "Matias Soto",
+  "teamId": "bay-m",
+  "teamName": "Baylor",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 237,
+  "change": 24,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "tenn-p6",
+  "name": "Katrina Scott",
+  "teamId": "tenn-w",
+  "teamName": "Tennessee",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 238,
+  "change": 7,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -724,39 +654,53 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 248,
-  "change": -8,
+  "position": 240,
+  "change": 11,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "fla-m-h9",
-  "name": "Abedallah Shelbayh",
-  "teamId": "fla-m",
-  "teamName": "Florida",
+  "playerId": "usd-m-h8",
+  "name": "August Holmgren",
+  "teamId": "usd-m",
+  "teamName": "San Diego",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 250,
-  "change": 6,
+  "position": 241,
+  "change": 3,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "ariz-m-fp226",
-  "name": "Jay Friend",
-  "teamId": "ariz-m",
-  "teamName": "Arizona",
-  "former": false,
+  "playerId": "osu-m-h11",
+  "name": "Jeff Wolf",
+  "teamId": "osu-m",
+  "teamName": "Ohio State",
+  "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 258,
-  "change": 56,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "position": 246,
+  "change": 2,
+  "weeks": 7,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "lsu-p8",
+  "name": "Cadence Brace",
+  "teamId": "lsu-w",
+  "teamName": "LSU",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 249,
+  "change": 9,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "ucla-w-h6",
@@ -766,10 +710,66 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 260,
-  "change": -6,
+  "position": 254,
+  "change": 1,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "ariz-m-fp226",
+  "name": "Jay Friend",
+  "teamId": "ariz-m",
+  "teamName": "Arizona",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 254,
+  "change": 60,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "fla-m-h9",
+  "name": "Abedallah Shelbayh",
+  "teamId": "fla-m",
+  "teamName": "Florida",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 258,
+  "change": -2,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "unc-w-h2",
+  "name": "Fiona Crawley",
+  "teamId": "unc-w",
+  "teamName": "North Carolina",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 258,
+  "change": -9,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "bay-w-h13",
+  "name": "Alicia Herrero Linana",
+  "teamId": "bay-w",
+  "teamName": "Baylor",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 263,
+  "change": 38,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -780,10 +780,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 268,
-  "change": 4,
+  "position": 264,
+  "change": 8,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -794,10 +794,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 276,
-  "change": 6,
+  "position": 282,
+  "change": 5,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -821,10 +821,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 289,
-  "change": -5,
+  "position": 284,
+  "change": -19,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -835,10 +835,24 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 290,
-  "change": 3,
+  "position": 289,
+  "change": 4,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "tamu-m-h7",
+  "name": "Raphael Perot",
+  "teamId": "tamu-m",
+  "teamName": "Texas A&M",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 295,
+  "change": 42,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -849,25 +863,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 294,
-  "change": 3,
+  "position": 297,
+  "change": 6,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
- },
- {
-  "playerId": "tamu-m-h7",
-  "name": "Raphael Perot",
-  "teamId": "tamu-m",
-  "teamName": "Texas A&M",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 294,
-  "change": 43,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
  },
  {
   "playerId": "tenn-m-h7",
@@ -877,10 +877,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 297,
-  "change": 14,
+  "position": 298,
+  "change": 13,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -891,10 +891,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 299,
-  "change": 1,
+  "position": 300,
+  "change": 7,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -905,10 +905,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 301,
-  "change": 28,
+  "position": 302,
+  "change": 27,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -919,25 +919,39 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 302,
-  "change": 3,
+  "position": 303,
+  "change": 2,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "tex-w-h5",
-  "name": "Malaika Rapolu",
-  "teamId": "tex-w",
-  "teamName": "Texas",
-  "former": true,
+  "playerId": "smu-w-p3",
+  "name": "Gina Feistel",
+  "teamId": "smu-w",
+  "teamName": "SMU",
+  "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 305,
-  "change": 28,
+  "position": 308,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "gt-m-h8",
+  "name": "Andres Martin",
+  "teamId": "gt-m",
+  "teamName": "Georgia Tech",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 313,
+  "change": 10,
   "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
  },
  {
   "playerId": "harv-m-h3",
@@ -947,10 +961,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 312,
-  "change": 4,
+  "position": 314,
+  "change": 2,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -964,21 +978,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 315,
   "change": -7,
   "weeks": 11,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "asu-m-h4",
-  "name": "Murphy Cassone",
-  "teamId": "asu-m",
-  "teamName": "Arizona State",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 318,
-  "change": -14,
-  "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -989,39 +989,25 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 319,
-  "change": 0,
+  "position": 320,
+  "change": -1,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "gt-m-h8",
-  "name": "Andres Martin",
-  "teamId": "gt-m",
-  "teamName": "Georgia Tech",
+  "playerId": "okst-m-h4",
+  "name": "Tyler Zink",
+  "teamId": "okst-m",
+  "teamName": "Oklahoma State",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 322,
-  "change": 1,
+  "position": 323,
+  "change": 3,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
- },
- {
-  "playerId": "smu-w-p3",
-  "name": "Gina Feistel",
-  "teamId": "smu-w",
-  "teamName": "SMU",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 324,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "msst-m-h9",
@@ -1034,22 +1020,22 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 327,
   "change": -31,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "okst-w-h7",
-  "name": "Kylie Collins",
-  "teamId": "okst-w",
-  "teamName": "Oklahoma State",
+  "playerId": "asu-m-h4",
+  "name": "Murphy Cassone",
+  "teamId": "asu-m",
+  "teamName": "Arizona State",
   "former": true,
-  "gender": "women",
-  "tour": "WTA",
+  "gender": "men",
+  "tour": "ATP",
   "position": 330,
-  "change": 34,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
+  "change": -26,
+  "weeks": 11,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
  },
  {
   "playerId": "uga-w-h6",
@@ -1063,6 +1049,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "change": 0,
   "weeks": 10,
   "asOf": "2026-08-24"
+ },
+ {
+  "playerId": "tex-w-h5",
+  "name": "Malaika Rapolu",
+  "teamId": "tex-w",
+  "teamName": "Texas",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 333,
+  "change": 19,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "tamu-p5",
@@ -1085,25 +1085,25 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 335,
-  "change": -1,
+  "position": 334,
+  "change": 5,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "okst-m-h4",
-  "name": "Tyler Zink",
-  "teamId": "okst-m",
-  "teamName": "Oklahoma State",
+  "playerId": "uva-w-h3",
+  "name": "Hibah Shaikh",
+  "teamId": "uva-w",
+  "teamName": "Virginia",
   "former": true,
-  "gender": "men",
-  "tour": "ATP",
+  "gender": "women",
+  "tour": "WTA",
   "position": 337,
-  "change": -11,
+  "change": -28,
   "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "wake-m-p5",
@@ -1136,17 +1136,31 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "uva-w-h3",
-  "name": "Hibah Shaikh",
-  "teamId": "uva-w",
-  "teamName": "Virginia",
+  "playerId": "usc-w-h12",
+  "name": "Madison Sieg",
+  "teamId": "usc-w",
+  "teamName": "USC",
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 351,
-  "change": -14,
+  "position": 354,
+  "change": 1,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "okst-w-h7",
+  "name": "Kylie Collins",
+  "teamId": "okst-w",
+  "teamName": "Oklahoma State",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 364,
+  "change": 3,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -1157,10 +1171,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 359,
-  "change": 35,
+  "position": 367,
+  "change": 27,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -1171,24 +1185,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 365,
-  "change": 2,
+  "position": 367,
+  "change": 31,
   "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "usc-w-h12",
-  "name": "Madison Sieg",
-  "teamId": "usc-w",
-  "teamName": "USC",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 368,
-  "change": -14,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -1200,23 +1200,37 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 370,
-  "change": 0,
+  "change": 2,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "wich-m-fp92",
-  "name": "Felix Bockelmann Evans",
-  "teamId": "wich-m",
-  "teamName": "Wichita State",
-  "former": false,
+  "playerId": "uga-m-h15",
+  "name": "Hamish Stewart",
+  "teamId": "uga-m",
+  "teamName": "Georgia",
+  "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 372,
-  "change": -18,
+  "position": 371,
+  "change": -24,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "uk-m-ita-p5",
+  "name": "Antoine Ghibaudo",
+  "teamId": "uk-m",
+  "teamName": "Kentucky",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 374,
+  "change": -33,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -1227,10 +1241,24 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 381,
-  "change": -4,
+  "position": 377,
+  "change": 5,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "pepp-w-p7",
+  "name": "Sonja Zhiyenbayeva",
+  "teamId": "pepp-w",
+  "teamName": "Pepperdine",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 382,
+  "change": 5,
+  "weeks": 9,
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -1241,25 +1269,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 383,
-  "change": -16,
+  "position": 388,
+  "change": -21,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
- },
- {
-  "playerId": "pepp-w-p7",
-  "name": "Sonja Zhiyenbayeva",
-  "teamId": "pepp-w",
-  "teamName": "Pepperdine",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 384,
-  "change": -2,
-  "weeks": 9,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
  },
  {
   "playerId": "unc-w-p2",
@@ -1269,25 +1283,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 385,
+  "position": 390,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
- },
- {
-  "playerId": "uk-m-ita-p5",
-  "name": "Antoine Ghibaudo",
-  "teamId": "uk-m",
-  "teamName": "Kentucky",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 391,
-  "change": -50,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
  },
  {
   "playerId": "ncst-w-h3",
@@ -1297,10 +1297,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 392,
-  "change": -1,
+  "position": 391,
+  "change": -5,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -1319,48 +1319,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "tcu-m-h5",
-  "name": "Lui Maxted",
-  "teamId": "tcu-m",
-  "teamName": "TCU",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 394,
-  "change": -32,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "uga-m-h15",
-  "name": "Hamish Stewart",
-  "teamId": "uga-m",
-  "teamName": "Georgia",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 398,
-  "change": -51,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "tenn-m-h10",
-  "name": "Blaise Bicknell",
-  "teamId": "tenn-m",
-  "teamName": "Tennessee",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 399,
-  "change": -16,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
   "playerId": "smu-m-fp12",
   "name": "Trevor Svajda",
   "teamId": "smu-m",
@@ -1376,101 +1334,17 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "ttu-m-h1",
-  "name": "Olle Wallin",
-  "teamId": "ttu-m",
-  "teamName": "Texas Tech",
+  "playerId": "tcu-m-h5",
+  "name": "Lui Maxted",
+  "teamId": "tcu-m",
+  "teamName": "TCU",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 402,
-  "change": 7,
+  "position": 401,
+  "change": -39,
   "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "ou-w-n3",
-  "name": "Reina Goto",
-  "teamId": "ou-w",
-  "teamName": "Oklahoma",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 407,
-  "change": 1,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "uva-m-p2",
-  "name": "Dylan Dietrich",
-  "teamId": "uva-m",
-  "teamName": "Virginia",
-  "former": false,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 409,
-  "change": 33,
-  "weeks": 8,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "tex-m-h11",
-  "name": "Timo Legout",
-  "teamId": "tex-m",
-  "teamName": "Texas",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 410,
-  "change": 31,
-  "weeks": 7,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "unc-m-h13",
-  "name": "Patrick Schoen",
-  "teamId": "unc-m",
-  "teamName": "North Carolina",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 413,
-  "change": 79,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "duke-w-n1",
-  "name": "Nina Vargova",
-  "teamId": "duke-w",
-  "teamName": "Duke",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 416,
-  "change": -1,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "msu-m-fp274",
-  "name": "Ozan Baris",
-  "teamId": "msu-m",
-  "teamName": "Michigan State",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 416,
-  "change": 6,
-  "weeks": 8,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -1481,24 +1355,94 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 418,
-  "change": -23,
+  "position": 403,
+  "change": -8,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "uva-w-h6",
-  "name": "Julia Adams",
-  "teamId": "uva-w",
-  "teamName": "Virginia",
+  "playerId": "tenn-m-h10",
+  "name": "Blaise Bicknell",
+  "teamId": "tenn-m",
+  "teamName": "Tennessee",
   "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 404,
+  "change": -21,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "ttu-m-h1",
+  "name": "Olle Wallin",
+  "teamId": "ttu-m",
+  "teamName": "Texas Tech",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 407,
+  "change": 2,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "ou-w-n3",
+  "name": "Reina Goto",
+  "teamId": "ou-w",
+  "teamName": "Oklahoma",
+  "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 419,
-  "change": 32,
+  "position": 408,
+  "change": 10,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "wich-m-fp92",
+  "name": "Felix Bockelmann Evans",
+  "teamId": "wich-m",
+  "teamName": "Wichita State",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 412,
+  "change": -58,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "uva-m-p2",
+  "name": "Dylan Dietrich",
+  "teamId": "uva-m",
+  "teamName": "Virginia",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 413,
+  "change": 29,
+  "weeks": 8,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "duke-w-n1",
+  "name": "Nina Vargova",
+  "teamId": "duke-w",
+  "teamName": "Duke",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 415,
+  "change": -6,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -1509,10 +1453,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 419,
-  "change": 1,
+  "position": 416,
+  "change": 4,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -1523,24 +1467,24 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 421,
-  "change": -1,
+  "position": 420,
+  "change": 68,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "wake-m-h17",
-  "name": "Ioannis Xilas",
-  "teamId": "wake-m",
-  "teamName": "Wake Forest",
+  "playerId": "msu-m-fp274",
+  "name": "Ozan Baris",
+  "teamId": "msu-m",
+  "teamName": "Michigan State",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 427,
-  "change": -9,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "position": 420,
+  "change": 2,
+  "weeks": 8,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -1551,10 +1495,38 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 431,
-  "change": -17,
+  "position": 424,
+  "change": -10,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "duke-m-h2",
+  "name": "Garrett Johns",
+  "teamId": "duke-m",
+  "teamName": "Duke",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 437,
+  "change": -31,
+  "weeks": 11,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "wake-m-h17",
+  "name": "Ioannis Xilas",
+  "teamId": "wake-m",
+  "teamName": "Wake Forest",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 440,
+  "change": -22,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -1565,52 +1537,52 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 441,
-  "change": -1,
+  "position": 440,
+  "change": -38,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "duke-m-h2",
-  "name": "Garrett Johns",
-  "teamId": "duke-m",
-  "teamName": "Duke",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 442,
-  "change": -36,
-  "weeks": 11,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "tex-m-p8",
-  "name": "Sebastian Gorzny",
+  "playerId": "tex-m-h11",
+  "name": "Timo Legout",
   "teamId": "tex-m",
   "teamName": "Texas",
   "former": true,
   "gender": "men",
   "tour": "ATP",
   "position": 444,
-  "change": 338,
-  "weeks": 3,
-  "asOf": "2026-09-21",
+  "change": -3,
+  "weeks": 7,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "ill-m-fp217",
-  "name": "Kenta Miyoshi",
-  "teamId": "ill-m",
-  "teamName": "Illinois",
+  "playerId": "uk-m-h14",
+  "name": "Alafia Ayeni",
+  "teamId": "uk-m",
+  "teamName": "Kentucky",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 447,
-  "change": 15,
+  "position": 445,
+  "change": 5,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "pepp-m-h6",
+  "name": "Eero Vasa",
+  "teamId": "pepp-m",
+  "teamName": "Pepperdine",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 446,
+  "change": 26,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -1621,25 +1593,39 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 449,
-  "change": -2,
+  "position": 447,
+  "change": -11,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "ncst-m-h5",
-  "name": "Luca Staeheli",
-  "teamId": "ncst-m",
-  "teamName": "NC State",
+  "playerId": "tenn-m-h5",
+  "name": "Emile Hudd",
+  "teamId": "tenn-m",
+  "teamName": "Tennessee",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 451,
-  "change": -9,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "position": 450,
+  "change": 16,
+  "weeks": 11,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "uva-w-h6",
+  "name": "Julia Adams",
+  "teamId": "uva-w",
+  "teamName": "Virginia",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 451,
+  "change": 29,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "ucla-m-p10",
@@ -1657,20 +1643,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "uk-m-h14",
-  "name": "Alafia Ayeni",
-  "teamId": "uk-m",
-  "teamName": "Kentucky",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 453,
-  "change": -3,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
   "playerId": "lsu-p1",
   "name": "Ella McDonald",
   "teamId": "lsu-w",
@@ -1678,24 +1650,24 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 454,
-  "change": -2,
+  "position": 452,
+  "change": 10,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "pepp-m-h6",
-  "name": "Eero Vasa",
-  "teamId": "pepp-m",
-  "teamName": "Pepperdine",
+  "playerId": "ill-m-fp217",
+  "name": "Kenta Miyoshi",
+  "teamId": "ill-m",
+  "teamName": "Illinois",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 455,
-  "change": 17,
+  "position": 452,
+  "change": 10,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -1706,24 +1678,24 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 458,
-  "change": -2,
+  "position": 456,
+  "change": 16,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "tenn-m-h5",
-  "name": "Emile Hudd",
-  "teamId": "tenn-m",
-  "teamName": "Tennessee",
+  "playerId": "ncst-m-h5",
+  "name": "Luca Staeheli",
+  "teamId": "ncst-m",
+  "teamName": "NC State",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 459,
-  "change": 7,
-  "weeks": 11,
-  "asOf": "2026-09-21",
+  "position": 456,
+  "change": -14,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -1734,10 +1706,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 460,
-  "change": -8,
+  "position": 457,
+  "change": -5,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -1748,10 +1720,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 461,
-  "change": -2,
+  "position": 459,
+  "change": 15,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -1781,18 +1753,18 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-24"
  },
  {
-  "playerId": "ore-m-h7",
-  "name": "Quinn Vandecasteele",
-  "teamId": "ore-m",
-  "teamName": "Oregon",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 465,
-  "change": -9,
+  "playerId": "ou-w-n2",
+  "name": "Ekaterina Maklakova",
+  "teamId": "ou-w",
+  "teamName": "Oklahoma",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 466,
+  "change": 12,
   "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "cal-w-h2",
@@ -1802,10 +1774,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 465,
-  "change": 2,
+  "position": 467,
+  "change": 17,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -1816,38 +1788,38 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 466,
-  "change": 2,
+  "position": 468,
+  "change": -8,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "ou-w-n2",
-  "name": "Ekaterina Maklakova",
-  "teamId": "ou-w",
-  "teamName": "Oklahoma",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 467,
-  "change": -1,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "wash-m-h7",
-  "name": "Cesar Bouchelaghem",
-  "teamId": "wash-m",
-  "teamName": "Washington",
+  "playerId": "ore-m-h7",
+  "name": "Quinn Vandecasteele",
+  "teamId": "ore-m",
+  "teamName": "Oregon",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 470,
-  "change": 36,
+  "position": 468,
+  "change": -12,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "bay-m-h12",
+  "name": "Adrian Boitan",
+  "teamId": "bay-m",
+  "teamName": "Baylor",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 477,
+  "change": 17,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -1858,10 +1830,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 480,
+  "position": 479,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -1878,6 +1850,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-24"
  },
  {
+  "playerId": "unc-m-h13",
+  "name": "Patrick Schoen",
+  "teamId": "unc-m",
+  "teamName": "North Carolina",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 481,
+  "change": 11,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
   "playerId": "ou-w-h3",
   "name": "Dana Guzman",
   "teamId": "ou-w",
@@ -1885,10 +1871,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 484,
-  "change": -1,
+  "position": 483,
+  "change": 21,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -1899,11 +1885,39 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 485,
-  "change": -1,
+  "position": 484,
+  "change": -59,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "tex-m-p8",
+  "name": "Sebastian Gorzny",
+  "teamId": "tex-m",
+  "teamName": "Texas",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 484,
+  "change": 298,
+  "weeks": 3,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "temple-w-p6",
+  "name": "Maria Martinez",
+  "teamId": "temple-w",
+  "teamName": "Temple",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 487,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "ucf-m-fp42",
@@ -1919,20 +1933,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-31"
  },
  {
-  "playerId": "temple-w-p6",
-  "name": "Maria Martinez",
-  "teamId": "temple-w",
-  "teamName": "Temple",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 489,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "ucsb-w-h3",
   "name": "Amelia Honer",
   "teamId": "ucsb-w",
@@ -1940,11 +1940,25 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 490,
-  "change": -2,
+  "position": 488,
+  "change": -35,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "wash-m-h7",
+  "name": "Cesar Bouchelaghem",
+  "teamId": "wash-m",
+  "teamName": "Washington",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 490,
+  "change": 16,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
  },
  {
   "playerId": "ala-m-h4",
@@ -1957,7 +1971,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 491,
   "change": 30,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -1976,20 +1990,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "neb-m-h9",
-  "name": "Anton Shepp",
-  "teamId": "neb-m",
-  "teamName": "Nebraska",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 496,
-  "change": -3,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
   "playerId": "tenn-w-h9",
   "name": "Sofia Cabezas",
   "teamId": "tenn-w",
@@ -2001,6 +2001,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "change": -10,
   "weeks": 10,
   "asOf": "2026-08-24"
+ },
+ {
+  "playerId": "neb-m-h9",
+  "name": "Anton Shepp",
+  "teamId": "neb-m",
+  "teamName": "Nebraska",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 500,
+  "change": -7,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
  },
  {
   "playerId": "lmu-w-h8",
@@ -2036,25 +2050,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 503,
-  "change": 108,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "isu-w-h3",
-  "name": "Thasaporn Naklo",
-  "teamId": "isu-w",
-  "teamName": "Iowa State",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
   "position": 504,
-  "change": 9,
-  "weeks": 11,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
+  "change": 107,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
  },
  {
   "playerId": "tamu-m-n4",
@@ -2064,24 +2064,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 510,
-  "change": -62,
+  "position": 511,
+  "change": -63,
   "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "bay-m-h12",
-  "name": "Adrian Boitan",
-  "teamId": "bay-m",
-  "teamName": "Baylor",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 512,
-  "change": -18,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -2113,17 +2099,31 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "ucla-m-h5",
-  "name": "Patrick Zahraj",
-  "teamId": "ucla-m",
-  "teamName": "UCLA",
+  "playerId": "isu-w-h3",
+  "name": "Thasaporn Naklo",
+  "teamId": "isu-w",
+  "teamName": "Iowa State",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 513,
+  "change": 20,
+  "weeks": 11,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "usc-m-h3",
+  "name": "Peter Makk",
+  "teamId": "usc-m",
+  "teamName": "USC",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 514,
-  "change": -103,
-  "weeks": 11,
-  "asOf": "2026-09-21",
+  "position": 517,
+  "change": -12,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -2134,24 +2134,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 520,
-  "change": 4,
+  "position": 524,
+  "change": 8,
   "weeks": 11,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "ncst-w-h5",
-  "name": "Gina Dittmann",
-  "teamId": "ncst-w",
-  "teamName": "NC State",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 527,
-  "change": 9,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -2162,10 +2148,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 532,
-  "change": -3,
+  "position": 529,
+  "change": 16,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -2176,10 +2162,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 536,
-  "change": 20,
+  "position": 531,
+  "change": 25,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -2190,38 +2176,38 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 540,
-  "change": -76,
+  "position": 533,
+  "change": -69,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "wake-m-h1",
-  "name": "Melios Efstathiou",
-  "teamId": "wake-m",
-  "teamName": "Wake Forest",
+  "playerId": "ncst-w-h5",
+  "name": "Gina Dittmann",
+  "teamId": "ncst-w",
+  "teamName": "NC State",
   "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 543,
-  "change": 106,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 536,
+  "change": -13,
   "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
-  "playerId": "usc-m-h3",
-  "name": "Peter Makk",
-  "teamId": "usc-m",
-  "teamName": "USC",
+  "playerId": "ucla-m-h5",
+  "name": "Patrick Zahraj",
+  "teamId": "ucla-m",
+  "teamName": "UCLA",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 544,
-  "change": -39,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "position": 539,
+  "change": -128,
+  "weeks": 11,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -2247,81 +2233,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 547,
-  "change": 3,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "uk-m-h10",
-  "name": "Millen Hurrion",
-  "teamId": "uk-m",
-  "teamName": "Kentucky",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 549,
-  "change": 59,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "unc-w-h8",
-  "name": "Carson Tanguilig",
-  "teamId": "unc-w",
-  "teamName": "North Carolina",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
   "position": 550,
-  "change": 33,
+  "change": 12,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
- },
- {
-  "playerId": "miss-w-h1",
-  "name": "Lucie Petruzelova",
-  "teamId": "miss-w",
-  "teamName": "Ole Miss",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 551,
-  "change": 14,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "uga-w-n6",
-  "name": "bella payne",
-  "teamId": "uga-w",
-  "teamName": "Georgia",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 553,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "uga-w-n1",
-  "name": "Bella Payne",
-  "teamId": "uga-w",
-  "teamName": "Georgia",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 553,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "uga-w-n5",
@@ -2337,18 +2253,18 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-10"
  },
  {
-  "playerId": "ou-w-h7",
-  "name": "Alina Shcherbinina",
-  "teamId": "ou-w",
-  "teamName": "Oklahoma",
-  "former": true,
+  "playerId": "uga-w-n1",
+  "name": "Bella Payne",
+  "teamId": "uga-w",
+  "teamName": "Georgia",
+  "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 555,
-  "change": 1,
-  "weeks": 7,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
+  "position": 554,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "lsu-m-n1",
@@ -2358,11 +2274,39 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 555,
-  "change": -30,
+  "position": 554,
+  "change": -29,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "miss-m-h3",
+  "name": "John Hallquist Lithen",
+  "teamId": "miss-m",
+  "teamName": "Ole Miss",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 555,
+  "change": 99,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "ou-w-h7",
+  "name": "Alina Shcherbinina",
+  "teamId": "ou-w",
+  "teamName": "Oklahoma",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 556,
+  "change": 20,
+  "weeks": 7,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "asu-w-h8",
@@ -2372,38 +2316,52 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 560,
-  "change": -1,
+  "position": 559,
+  "change": 66,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "uga-w-n3",
-  "name": "Linea Bajraliu",
-  "teamId": "uga-w",
-  "teamName": "Georgia",
+  "playerId": "tex-p1",
+  "name": "Anastasia Abbagnato",
+  "teamId": "tex-w",
+  "teamName": "Texas",
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 566,
+  "position": 562,
   "change": 3,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "utah-w-h8",
-  "name": "Yasmin Ezzat",
-  "teamId": "utah-w",
-  "teamName": "Utah",
+  "playerId": "aub-p1",
+  "name": "Yara Bartashevich",
+  "teamId": "aub-w",
+  "teamName": "Auburn",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 564,
+  "change": -34,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "miss-w-h1",
+  "name": "Lucie Petruzelova",
+  "teamId": "miss-w",
+  "teamName": "Ole Miss",
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 569,
-  "change": 39,
+  "position": 565,
+  "change": 12,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -2414,10 +2372,52 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 574,
-  "change": -9,
+  "position": 566,
+  "change": -1,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "pepp-m-h1",
+  "name": "Daniel De Jonge",
+  "teamId": "pepp-m",
+  "teamName": "Pepperdine",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 567,
+  "change": -5,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "uga-w-n3",
+  "name": "Linea Bajraliu",
+  "teamId": "uga-w",
+  "teamName": "Georgia",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 569,
+  "change": 5,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "mich-m-h4",
+  "name": "Nino Ehrenschneider",
+  "teamId": "mich-m",
+  "teamName": "Michigan",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 569,
+  "change": 16,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -2436,59 +2436,59 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "aub-p1",
-  "name": "Yara Bartashevich",
-  "teamId": "aub-w",
-  "teamName": "Auburn",
+  "playerId": "uva-m-p8",
+  "name": "Keegan Rice",
+  "teamId": "uva-m",
+  "teamName": "Virginia",
   "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 575,
-  "change": -11,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "mich-m-h4",
-  "name": "Nino Ehrenschneider",
-  "teamId": "mich-m",
-  "teamName": "Michigan",
-  "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 576,
-  "change": 9,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "position": 578,
+  "change": 13,
+  "weeks": 4,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "miss-m-h3",
-  "name": "John Hallquist Lithen",
-  "teamId": "miss-m",
-  "teamName": "Ole Miss",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 577,
-  "change": 77,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "tex-p1",
-  "name": "Anastasia Abbagnato",
-  "teamId": "tex-w",
-  "teamName": "Texas",
+  "playerId": "msst-w-n2",
+  "name": "Sarah Rokusek",
+  "teamId": "msst-w",
+  "teamName": "Mississippi State",
   "former": false,
   "gender": "women",
   "tour": "WTA",
   "position": 580,
-  "change": -18,
+  "change": 23,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "ucla-m-h8",
+  "name": "Kaylan Bigun",
+  "teamId": "ucla-m",
+  "teamName": "UCLA",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 582,
+  "change": 18,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "unc-w-h8",
+  "name": "Carson Tanguilig",
+  "teamId": "unc-w",
+  "teamName": "North Carolina",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 583,
+  "change": 28,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -2499,25 +2499,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 582,
+  "position": 584,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
- },
- {
-  "playerId": "pepp-m-h1",
-  "name": "Daniel De Jonge",
-  "teamId": "pepp-m",
-  "teamName": "Pepperdine",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 583,
-  "change": -21,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
  },
  {
   "playerId": "lsu-w-h11",
@@ -2527,25 +2513,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 584,
-  "change": 1,
-  "weeks": 11,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "uva-m-p8",
-  "name": "Keegan Rice",
-  "teamId": "uva-m",
-  "teamName": "Virginia",
-  "former": false,
-  "gender": "men",
-  "tour": "ATP",
   "position": 585,
-  "change": 6,
-  "weeks": 4,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
+  "change": 28,
+  "weeks": 11,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "ucla-w-p3",
@@ -2555,11 +2527,25 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 586,
+  "position": 587,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
+ },
+ {
+  "playerId": "lsu-p5",
+  "name": "Carolina Kuhl",
+  "teamId": "lsu-w",
+  "teamName": "LSU",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 588,
+  "change": 27,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "prin-m-p3",
@@ -2577,32 +2563,46 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "msst-w-n2",
-  "name": "Sarah Rokusek",
-  "teamId": "msst-w",
-  "teamName": "Mississippi State",
+  "playerId": "ncst-m-h3",
+  "name": "Robin Catry",
+  "teamId": "ncst-m",
+  "teamName": "NC State",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 592,
+  "change": -14,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "tex-w-n2",
+  "name": "Arianna Zucchini",
+  "teamId": "tex-w",
+  "teamName": "Texas",
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 591,
-  "change": -11,
+  "position": 595,
+  "change": 28,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "tenn-w-h4",
-  "name": "Daria Kuczer",
-  "teamId": "tenn-w",
-  "teamName": "Tennessee",
+  "playerId": "uk-m-h10",
+  "name": "Millen Hurrion",
+  "teamId": "uk-m",
+  "teamName": "Kentucky",
   "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 592,
-  "change": 30,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
+  "gender": "men",
+  "tour": "ATP",
+  "position": 599,
+  "change": 9,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
  },
  {
   "playerId": "lsu-m-p2",
@@ -2612,38 +2612,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 594,
-  "change": 34,
+  "position": 600,
+  "change": 28,
   "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "ucla-m-h8",
-  "name": "Kaylan Bigun",
-  "teamId": "ucla-m",
-  "teamName": "UCLA",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 596,
-  "change": 4,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "ncst-m-h3",
-  "name": "Robin Catry",
-  "teamId": "ncst-m",
-  "teamName": "NC State",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 597,
-  "change": -19,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -2654,80 +2626,38 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 599,
-  "change": 2,
-  "weeks": 11,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "tex-w-n2",
-  "name": "Arianna Zucchini",
-  "teamId": "tex-w",
-  "teamName": "Texas",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
   "position": 601,
-  "change": -6,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "change": 30,
+  "weeks": 11,
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "ill-m-h3",
-  "name": "Hunter Heck",
-  "teamId": "ill-m",
-  "teamName": "Illinois",
+  "playerId": "scu-m-h2",
+  "name": "Guillaume Dalmasso",
+  "teamId": "scu-m",
+  "teamName": "Santa Clara",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 603,
-  "change": 107,
-  "weeks": 11,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "okst-m-h6",
-  "name": "Chase Ferguson",
-  "teamId": "okst-m",
-  "teamName": "Oklahoma State",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 604,
-  "change": 36,
+  "position": 607,
+  "change": -18,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "unc-m-h9",
-  "name": "Ryan Seggerman",
-  "teamId": "unc-m",
-  "teamName": "North Carolina",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 606,
-  "change": 67,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "ucla-w-h3",
-  "name": "Alexandra Vagramov",
-  "teamId": "ucla-w",
-  "teamName": "UCLA",
+  "playerId": "utah-w-h8",
+  "name": "Yasmin Ezzat",
+  "teamId": "utah-w",
+  "teamName": "Utah",
   "former": true,
   "gender": "women",
   "tour": "WTA",
   "position": 608,
-  "change": 5,
+  "change": 114,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -2744,6 +2674,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
+ },
+ {
+  "playerId": "ucla-w-h3",
+  "name": "Alexandra Vagramov",
+  "teamId": "ucla-w",
+  "teamName": "UCLA",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 613,
+  "change": 1,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "cal-m-fp2",
@@ -2768,39 +2712,39 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 618,
-  "change": 1,
+  "position": 614,
+  "change": 5,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "wisc-w-h9",
-  "name": "Ava Markham",
-  "teamId": "wisc-w",
-  "teamName": "Wisconsin",
+  "playerId": "tenn-w-h4",
+  "name": "Daria Kuczer",
+  "teamId": "tenn-w",
+  "teamName": "Tennessee",
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 625,
-  "change": 4,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "position": 622,
+  "change": 26,
+  "weeks": 1,
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "lsu-p5",
-  "name": "Carolina Kuhl",
-  "teamId": "lsu-w",
-  "teamName": "LSU",
+  "playerId": "uva-w-p5",
+  "name": "Shannon Lam",
+  "teamId": "uva-w",
+  "teamName": "Virginia",
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 626,
-  "change": -38,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
+  "position": 623,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "lsu-m-n2",
@@ -2810,10 +2754,24 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 626,
-  "change": -84,
+  "position": 624,
+  "change": -82,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "okst-m-h6",
+  "name": "Chase Ferguson",
+  "teamId": "okst-m",
+  "teamName": "Oklahoma State",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 626,
+  "change": 14,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -2832,6 +2790,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "wisc-w-h9",
+  "name": "Ava Markham",
+  "teamId": "wisc-w",
+  "teamName": "Wisconsin",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 629,
+  "change": 26,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
   "playerId": "tamu-w-h6",
   "name": "Carson Branstine",
   "teamId": "tamu-w",
@@ -2840,9 +2812,9 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 630,
-  "change": 0,
+  "change": -59,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -2856,35 +2828,21 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 630,
   "change": 47,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "scu-m-h2",
-  "name": "Guillaume Dalmasso",
-  "teamId": "scu-m",
-  "teamName": "Santa Clara",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 632,
-  "change": -43,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "uga-m-h1",
-  "name": "Ryan Colby",
-  "teamId": "uga-m",
-  "teamName": "Georgia",
-  "former": true,
+  "playerId": "stan-m-fp374",
+  "name": "Samir Banerjee",
+  "teamId": "stan-m",
+  "teamName": "Stanford",
+  "former": false,
   "gender": "men",
   "tour": "ATP",
   "position": 636,
-  "change": 11,
+  "change": -108,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -2896,9 +2854,9 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 637,
-  "change": 0,
+  "change": -25,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -2912,21 +2870,35 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 640,
   "change": -99,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "tcu-m-fp30",
-  "name": "Roger Pascual Ferra",
-  "teamId": "tcu-m",
-  "teamName": "TCU",
+  "playerId": "uga-m-h1",
+  "name": "Ryan Colby",
+  "teamId": "uga-m",
+  "teamName": "Georgia",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 644,
+  "change": 3,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "temple-m-n1",
+  "name": "Adrien Ducruet",
+  "teamId": "temple-m",
+  "teamName": "Temple",
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 642,
-  "change": 13,
+  "position": 648,
+  "change": -93,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -2940,7 +2912,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 650,
   "change": 4,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -2951,24 +2923,24 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 651,
-  "change": 1,
+  "position": 652,
+  "change": -6,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "temple-m-n1",
-  "name": "Adrien Ducruet",
-  "teamId": "temple-m",
-  "teamName": "Temple",
-  "former": false,
+  "playerId": "wake-m-h1",
+  "name": "Melios Efstathiou",
+  "teamId": "wake-m",
+  "teamName": "Wake Forest",
+  "former": true,
   "gender": "men",
   "tour": "ATP",
   "position": 653,
-  "change": -98,
+  "change": -4,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -2980,24 +2952,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 654,
-  "change": 0,
+  "change": 24,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
- },
- {
-  "playerId": "okst-m-h5",
-  "name": "Isaac Becroft",
-  "teamId": "okst-m",
-  "teamName": "Oklahoma State",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 656,
-  "change": 33,
-  "weeks": 4,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
  },
  {
   "playerId": "usd-w-h6",
@@ -3008,9 +2966,37 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 657,
-  "change": 0,
+  "change": 23,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "tcu-m-fp30",
+  "name": "Roger Pascual Ferra",
+  "teamId": "tcu-m",
+  "teamName": "TCU",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 657,
+  "change": -2,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "lsu-w-n5",
+  "name": "Nada Fouad",
+  "teamId": "lsu-w",
+  "teamName": "LSU",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 659,
+  "change": 5,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -3021,10 +3007,38 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 662,
-  "change": -23,
+  "position": 661,
+  "change": -22,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "okst-m-h5",
+  "name": "Isaac Becroft",
+  "teamId": "okst-m",
+  "teamName": "Oklahoma State",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 664,
+  "change": 25,
+  "weeks": 4,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "tex-m-n1",
+  "name": "Gabriel Debru",
+  "teamId": "tex-m",
+  "teamName": "Texas",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 666,
+  "change": 24,
+  "weeks": 2,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -3035,39 +3049,25 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 665,
-  "change": 2,
+  "position": 667,
+  "change": 20,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "tex-m-n1",
-  "name": "Gabriel Debru",
-  "teamId": "tex-m",
-  "teamName": "Texas",
-  "former": false,
+  "playerId": "unc-m-h9",
+  "name": "Ryan Seggerman",
+  "teamId": "unc-m",
+  "teamName": "North Carolina",
+  "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 668,
-  "change": 22,
-  "weeks": 2,
-  "asOf": "2026-09-21",
+  "position": 672,
+  "change": 1,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
- },
- {
-  "playerId": "tamu-w-n2",
-  "name": "Olivia Lincer",
-  "teamId": "tamu-w",
-  "teamName": "Texas A&M",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 668,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "tulsa-w-n5",
@@ -3077,39 +3077,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 669,
+  "position": 673,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
- },
- {
-  "playerId": "ala-w-h8",
-  "name": "Petra Sedlackova",
-  "teamId": "ala-w",
-  "teamName": "Alabama",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 671,
-  "change": 6,
-  "weeks": 9,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "okst-w-h2",
-  "name": "Kristina Novak",
-  "teamId": "okst-w",
-  "teamName": "Oklahoma State",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 673,
-  "change": 9,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
  },
  {
   "playerId": "van-m-p5",
@@ -3122,91 +3094,35 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 673,
   "change": -46,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "unc-w-n1",
-  "name": "Alexis Nguyen",
-  "teamId": "unc-w",
-  "teamName": "North Carolina",
+  "playerId": "tamu-w-n2",
+  "name": "Olivia Lincer",
+  "teamId": "tamu-w",
+  "teamName": "Texas A&M",
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 674,
-  "change": 10,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "ore-w-h5",
-  "name": "Jo-Yee Chan",
-  "teamId": "ore-w",
-  "teamName": "Oregon",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 679,
+  "position": 675,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
-  "playerId": "uva-w-p5",
-  "name": "Shannon Lam",
-  "teamId": "uva-w",
-  "teamName": "Virginia",
-  "former": false,
+  "playerId": "ala-w-h8",
+  "name": "Petra Sedlackova",
+  "teamId": "ala-w",
+  "teamName": "Alabama",
+  "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 680,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "lou-m-fp70",
-  "name": "Walid Ahouda",
-  "teamId": "lou-m",
-  "teamName": "Louisville",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 685,
-  "change": 119,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "ill-m-h7",
-  "name": "Karlis Ozolins",
-  "teamId": "ill-m",
-  "teamName": "Illinois",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 687,
-  "change": -22,
-  "weeks": 11,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "lsu-w-n5",
-  "name": "Nada Fouad",
-  "teamId": "lsu-w",
-  "teamName": "LSU",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 687,
-  "change": -28,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "position": 677,
+  "change": 17,
+  "weeks": 9,
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -3217,94 +3133,52 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 690,
-  "change": -9,
+  "position": 678,
+  "change": 3,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
-  "playerId": "osu-w-p3",
-  "name": "Teah Chavez",
-  "teamId": "osu-w",
-  "teamName": "Ohio State",
-  "former": false,
+  "playerId": "okst-w-h2",
+  "name": "Kristina Novak",
+  "teamId": "okst-w",
+  "teamName": "Oklahoma State",
+  "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 695,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
+  "position": 682,
+  "change": 9,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
-  "playerId": "unc-w-p3",
-  "name": "Tatum Evans",
+  "playerId": "unc-w-n1",
+  "name": "Alexis Nguyen",
   "teamId": "unc-w",
   "teamName": "North Carolina",
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 696,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "okst-w-p1",
-  "name": "Bianca Barbulescu",
-  "teamId": "okst-w",
-  "teamName": "Oklahoma State",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 698,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "gt-m-h3",
-  "name": "Keshav Chopra",
-  "teamId": "gt-m",
-  "teamName": "Georgia Tech",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 698,
-  "change": 79,
-  "weeks": 6,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "ncst-m-h2",
-  "name": "Rafael Iziquierdo Luque",
-  "teamId": "ncst-m",
-  "teamName": "NC State",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 700,
-  "change": -2,
+  "position": 684,
+  "change": 4,
   "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
-  "playerId": "tamu-m-p3",
-  "name": "Kholo Montsi",
-  "teamId": "tamu-m",
-  "teamName": "Texas A&M",
+  "playerId": "ill-m-h7",
+  "name": "Karlis Ozolins",
+  "teamId": "ill-m",
+  "teamName": "Illinois",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 704,
-  "change": 21,
-  "weeks": 5,
-  "asOf": "2026-09-21",
+  "position": 684,
+  "change": -19,
+  "weeks": 11,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -3315,10 +3189,150 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 705,
-  "change": -5,
+  "position": 685,
+  "change": 15,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "ore-w-h5",
+  "name": "Jo-Yee Chan",
+  "teamId": "ore-w",
+  "teamName": "Oregon",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 687,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "gt-m-h3",
+  "name": "Keshav Chopra",
+  "teamId": "gt-m",
+  "teamName": "Georgia Tech",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 690,
+  "change": 87,
+  "weeks": 6,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "ncst-m-h2",
+  "name": "Rafael Iziquierdo Luque",
+  "teamId": "ncst-m",
+  "teamName": "NC State",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 692,
+  "change": 6,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "uga-m-h16",
+  "name": "Tristan McCormick",
+  "teamId": "uga-m",
+  "teamName": "Georgia",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 697,
+  "change": 21,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "tamu-m-p3",
+  "name": "Kholo Montsi",
+  "teamId": "tamu-m",
+  "teamName": "Texas A&M",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 698,
+  "change": 27,
+  "weeks": 5,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "osu-w-p3",
+  "name": "Teah Chavez",
+  "teamId": "osu-w",
+  "teamName": "Ohio State",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 698,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "unc-w-p3",
+  "name": "Tatum Evans",
+  "teamId": "unc-w",
+  "teamName": "North Carolina",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 699,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "okst-w-p1",
+  "name": "Bianca Barbulescu",
+  "teamId": "okst-w",
+  "teamName": "Oklahoma State",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 700,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "ill-m-h3",
+  "name": "Hunter Heck",
+  "teamId": "ill-m",
+  "teamName": "Illinois",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 700,
+  "change": 10,
+  "weeks": 11,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "sc-m-h5",
+  "name": "James Story",
+  "teamId": "sc-m",
+  "teamName": "South Carolina",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 706,
+  "change": -54,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -3329,66 +3343,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 707,
-  "change": 1,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "uga-m-h16",
-  "name": "Tristan McCormick",
-  "teamId": "uga-m",
-  "teamName": "Georgia",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 707,
-  "change": 11,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "tenn-m-n5",
-  "name": "Orel Kimhi",
-  "teamId": "tenn-m",
-  "teamName": "Tennessee",
-  "former": false,
-  "gender": "men",
-  "tour": "ATP",
   "position": 708,
-  "change": -3,
-  "weeks": 3,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "fla-w-n4",
-  "name": "capucine jauffret",
-  "teamId": "fla-w",
-  "teamName": "Florida",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 711,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "fla-w-n3",
-  "name": "Capucine Jauffret",
-  "teamId": "fla-w",
-  "teamName": "Florida",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 711,
-  "change": 1,
+  "change": 22,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -3399,10 +3357,24 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 711,
-  "change": 3,
+  "position": 709,
+  "change": 5,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "msst-m-h4",
+  "name": "Carles Hernandez",
+  "teamId": "msst-m",
+  "teamName": "Mississippi State",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 710,
+  "change": 35,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -3421,18 +3393,18 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "stan-m-fp374",
-  "name": "Samir Banerjee",
-  "teamId": "stan-m",
-  "teamName": "Stanford",
+  "playerId": "fla-w-n3",
+  "name": "Capucine Jauffret",
+  "teamId": "fla-w",
+  "teamName": "Florida",
   "former": false,
-  "gender": "men",
-  "tour": "ATP",
+  "gender": "women",
+  "tour": "WTA",
   "position": 712,
-  "change": -184,
+  "change": 21,
   "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "ariz-m-h1",
@@ -3445,7 +3417,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 713,
   "change": 3,
   "weeks": 7,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -3456,10 +3428,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 715,
-  "change": -1,
+  "position": 714,
+  "change": 3,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -3470,11 +3442,25 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 717,
+  "position": 715,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
+ },
+ {
+  "playerId": "tenn-m-n5",
+  "name": "Orel Kimhi",
+  "teamId": "tenn-m",
+  "teamName": "Tennessee",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 716,
+  "change": -11,
+  "weeks": 3,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
  },
  {
   "playerId": "msu-w-h16",
@@ -3484,10 +3470,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 720,
-  "change": -2,
+  "position": 718,
+  "change": -22,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -3504,18 +3490,32 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-07-27"
  },
  {
-  "playerId": "osu-m-fp278",
-  "name": "Jack Anthrop",
-  "teamId": "osu-m",
-  "teamName": "Ohio State",
+  "playerId": "bay-m-h7",
+  "name": "Oskar Brostrom Poulsen",
+  "teamId": "bay-m",
+  "teamName": "Baylor",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 721,
-  "change": 86,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "position": 723,
+  "change": 3,
+  "weeks": 11,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "ucf-w-h5",
+  "name": "Sophia Biolay",
+  "teamId": "ucf-w",
+  "teamName": "UCF",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 724,
+  "change": -11,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "fau-m-h11",
@@ -3528,7 +3528,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 726,
   "change": 142,
   "weeks": 11,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -3547,20 +3547,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "sc-m-h5",
-  "name": "James Story",
-  "teamId": "sc-m",
-  "teamName": "South Carolina",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 728,
-  "change": -76,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
   "playerId": "lsu-m-p1",
   "name": "Olaf Pieczkowski",
   "teamId": "lsu-m",
@@ -3568,10 +3554,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 738,
-  "change": -55,
+  "position": 735,
+  "change": -52,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -3588,32 +3574,18 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-31"
  },
  {
-  "playerId": "bay-m-h7",
-  "name": "Oskar Brostrom Poulsen",
-  "teamId": "bay-m",
-  "teamName": "Baylor",
+  "playerId": "neb-m-h6",
+  "name": "Calvin Mueller",
+  "teamId": "neb-m",
+  "teamName": "Nebraska",
   "former": true,
   "gender": "men",
   "tour": "ATP",
   "position": 740,
-  "change": -14,
-  "weeks": 11,
-  "asOf": "2026-09-21",
+  "change": 106,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
- },
- {
-  "playerId": "ucla-w-p7",
-  "name": "Mayu Crossley",
-  "teamId": "ucla-w",
-  "teamName": "UCLA",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 741,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "clem-m-p7",
@@ -3631,6 +3603,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "ucla-w-p7",
+  "name": "Mayu Crossley",
+  "teamId": "ucla-w",
+  "teamName": "UCLA",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 742,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "ou-p5",
   "name": "Edda Mamedova",
   "teamId": "ou-w",
@@ -3638,39 +3624,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 742,
-  "change": 1,
+  "position": 743,
+  "change": 15,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
- },
- {
-  "playerId": "neb-m-h6",
-  "name": "Calvin Mueller",
-  "teamId": "neb-m",
-  "teamName": "Nebraska",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 744,
-  "change": 102,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "uga-p10",
-  "name": "Sofia Rojas",
-  "teamId": "uga-w",
-  "teamName": "Georgia",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 744,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "corn-m-h11",
@@ -3680,10 +3638,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 746,
-  "change": -2,
+  "position": 743,
+  "change": 1,
   "weeks": 3,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -3694,11 +3652,25 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 747,
-  "change": 6,
+  "position": 744,
+  "change": 9,
   "weeks": 5,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "uga-p10",
+  "name": "Sofia Rojas",
+  "teamId": "uga-w",
+  "teamName": "Georgia",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 745,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "miss-m-n3",
@@ -3714,17 +3686,17 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-31"
  },
  {
-  "playerId": "tenn-w-h7",
-  "name": "Elza Tomase",
+  "playerId": "tenn-w-n5",
+  "name": "Stefani Webb",
   "teamId": "tenn-w",
   "teamName": "Tennessee",
-  "former": true,
+  "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 751,
-  "change": 14,
+  "position": 750,
+  "change": -13,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -3736,9 +3708,9 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 752,
-  "change": 0,
+  "change": 8,
   "weeks": 5,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -3749,10 +3721,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 755,
-  "change": 99,
+  "position": 753,
+  "change": 101,
   "weeks": 7,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -3763,11 +3735,39 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 759,
-  "change": -2,
+  "position": 757,
+  "change": 16,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "ou-m-p1",
+  "name": "Luis Alvarez",
+  "teamId": "ou-m",
+  "teamName": "Oklahoma",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 759,
+  "change": 79,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "aub-w-n1",
+  "name": "Maya Iyengar",
+  "teamId": "aub-w",
+  "teamName": "Auburn",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 759,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "yale-m-fp149",
@@ -3783,31 +3783,17 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-31"
  },
  {
-  "playerId": "aub-w-n1",
-  "name": "Maya Iyengar",
-  "teamId": "aub-w",
-  "teamName": "Auburn",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 761,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "ou-m-p1",
-  "name": "Luis Alvarez",
-  "teamId": "ou-m",
-  "teamName": "Oklahoma",
+  "playerId": "uci-m-h7",
+  "name": "Noah Zamora",
+  "teamId": "uci-m",
+  "teamName": "UC Irvine",
   "former": true,
   "gender": "men",
   "tour": "ATP",
   "position": 762,
-  "change": 76,
+  "change": 0,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -3824,34 +3810,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-10"
  },
  {
-  "playerId": "uci-m-h7",
-  "name": "Noah Zamora",
-  "teamId": "uci-m",
-  "teamName": "UC Irvine",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 765,
-  "change": -3,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "ucf-w-h5",
-  "name": "Sophia Biolay",
-  "teamId": "ucf-w",
-  "teamName": "UCF",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 766,
-  "change": -42,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
   "playerId": "sc-m-p1",
   "name": "Lucas Andrade da Silva",
   "teamId": "sc-m",
@@ -3859,11 +3817,25 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 767,
-  "change": 53,
+  "position": 764,
+  "change": 56,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "tenn-w-h7",
+  "name": "Elza Tomase",
+  "teamId": "tenn-w",
+  "teamName": "Tennessee",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 765,
+  "change": -95,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "clem-m-fp162",
@@ -3873,25 +3845,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 768,
-  "change": 94,
+  "position": 765,
+  "change": 97,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
- },
- {
-  "playerId": "tenn-w-n5",
-  "name": "Stefani Webb",
-  "teamId": "tenn-w",
-  "teamName": "Tennessee",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 768,
-  "change": -18,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
  },
  {
   "playerId": "uva-m-p9",
@@ -3901,10 +3859,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 769,
-  "change": -11,
+  "position": 766,
+  "change": -8,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -3923,20 +3881,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "mem-m-h2",
-  "name": "Conor Gannon",
-  "teamId": "mem-m",
-  "teamName": "Memphis",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 774,
-  "change": 44,
-  "weeks": 2,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
   "playerId": "neb-w-h7",
   "name": "Raphaelle Lacasse",
   "teamId": "neb-w",
@@ -3944,10 +3888,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 778,
-  "change": -5,
+  "position": 773,
+  "change": 36,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -3958,11 +3902,39 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 781,
-  "change": 42,
+  "position": 776,
+  "change": 47,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "uga-p2",
+  "name": "Deniz Dilek",
+  "teamId": "uga-w",
+  "teamName": "Georgia",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 780,
+  "change": 25,
+  "weeks": 8,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "fla-p1",
+  "name": "Brooke Black",
+  "teamId": "fla-w",
+  "teamName": "Florida",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 781,
+  "change": 25,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "ucla-m-h7",
@@ -3978,60 +3950,18 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-07-13"
  },
  {
-  "playerId": "msst-m-h4",
-  "name": "Carles Hernandez",
-  "teamId": "msst-m",
-  "teamName": "Mississippi State",
+  "playerId": "osu-m-fp278",
+  "name": "Jack Anthrop",
+  "teamId": "osu-m",
+  "teamName": "Ohio State",
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 784,
-  "change": -39,
+  "position": 782,
+  "change": 25,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
- },
- {
-  "playerId": "uga-p2",
-  "name": "Deniz Dilek",
-  "teamId": "uga-w",
-  "teamName": "Georgia",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 786,
-  "change": -6,
-  "weeks": 8,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "fla-p1",
-  "name": "Brooke Black",
-  "teamId": "fla-w",
-  "teamName": "Florida",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 787,
-  "change": -6,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "rice-w-h2",
-  "name": "Federica Trevisan",
-  "teamId": "rice-w",
-  "teamName": "Rice",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 790,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "tcu-w-h8",
@@ -4041,10 +3971,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 793,
-  "change": -7,
+  "position": 786,
+  "change": 53,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -4055,11 +3985,67 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 795,
+  "position": 788,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
+ },
+ {
+  "playerId": "mem-m-h2",
+  "name": "Conor Gannon",
+  "teamId": "mem-m",
+  "teamName": "Memphis",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 789,
+  "change": 29,
+  "weeks": 2,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "tex-p9",
+  "name": "Eszter Meri",
+  "teamId": "tex-w",
+  "teamName": "Texas",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 789,
+  "change": 25,
+  "weeks": 8,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "wsu-w-h7",
+  "name": "Michaela Bayerlova",
+  "teamId": "wsu-w",
+  "teamName": "Washington State",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 791,
+  "change": 92,
+  "weeks": 9,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "ou-p7",
+  "name": "Chloé Noël",
+  "teamId": "ou-w",
+  "teamName": "Oklahoma",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 792,
+  "change": 25,
+  "weeks": 9,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "duke-m-p1",
@@ -4075,48 +4061,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
- },
- {
-  "playerId": "tex-p9",
-  "name": "Eszter Meri",
-  "teamId": "tex-w",
-  "teamName": "Texas",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 796,
-  "change": -7,
-  "weeks": 8,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "wsu-w-h7",
-  "name": "Michaela Bayerlova",
-  "teamId": "wsu-w",
-  "teamName": "Washington State",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 798,
-  "change": -7,
-  "weeks": 9,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "ou-p7",
-  "name": "Chloé Noël",
-  "teamId": "ou-w",
-  "teamName": "Oklahoma",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 799,
-  "change": -7,
-  "weeks": 9,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
  },
  {
   "playerId": "tcu-m-fp104",
@@ -4173,17 +4117,17 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "usc-m-h10",
-  "name": "Oscar Weightman",
-  "teamId": "usc-m",
-  "teamName": "USC",
+  "playerId": "lou-m-fp70",
+  "name": "Walid Ahouda",
+  "teamId": "lou-m",
+  "teamName": "Louisville",
   "former": true,
   "gender": "men",
   "tour": "ATP",
   "position": 804,
-  "change": 6,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "change": 0,
+  "weeks": 1,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -4194,10 +4138,24 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 809,
-  "change": 0,
+  "position": 806,
+  "change": 3,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "usc-m-h10",
+  "name": "Oscar Weightman",
+  "teamId": "usc-m",
+  "teamName": "USC",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 807,
+  "change": 3,
+  "weeks": 10,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -4208,11 +4166,24 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 810,
-  "change": -49,
+  "position": 808,
+  "change": -47,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "wake-m-h3",
+  "name": "Filippo Moroni",
+  "teamId": "wake-m",
+  "teamName": "Wake Forest",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 811,
+  "change": -8,
+  "weeks": 9,
+  "asOf": "2026-08-10"
  },
  {
   "playerId": "aub-m-h3",
@@ -4235,10 +4206,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 812,
-  "change": 1,
+  "position": 813,
+  "change": 20,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -4249,10 +4220,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 813,
+  "position": 814,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -4293,10 +4264,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 820,
-  "change": 22,
+  "position": 818,
+  "change": 24,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -4308,9 +4279,9 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "gender": "women",
   "tour": "WTA",
   "position": 821,
-  "change": 0,
+  "change": 20,
   "weeks": 6,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -4327,6 +4298,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-10"
  },
  {
+  "playerId": "wsu-w-h4",
+  "name": "Elyse Tse",
+  "teamId": "wsu-w",
+  "teamName": "Washington State",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 826,
+  "change": 150,
+  "weeks": 3,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
   "playerId": "lou-m-h5",
   "name": "Etienne Donnet",
   "teamId": "lou-m",
@@ -4340,34 +4325,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-24"
  },
  {
-  "playerId": "tamu-w-h1",
-  "name": "Salma Ewing",
-  "teamId": "tamu-w",
-  "teamName": "Texas A&M",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 827,
-  "change": 3,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "tex-p8",
-  "name": "Christasha McNeil",
-  "teamId": "tex-w",
-  "teamName": "Texas",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 830,
-  "change": 4,
-  "weeks": 9,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
   "playerId": "ore-m-h2",
   "name": "Joshua Charlton",
   "teamId": "ore-m",
@@ -4375,10 +4332,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "men",
   "tour": "ATP",
-  "position": 830,
-  "change": -84,
+  "position": 827,
+  "change": -81,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -4389,11 +4346,39 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 831,
-  "change": -171,
+  "position": 829,
+  "change": -169,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "tamu-w-h1",
+  "name": "Salma Ewing",
+  "teamId": "tamu-w",
+  "teamName": "Texas A&M",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 830,
+  "change": 17,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "tex-p8",
+  "name": "Christasha McNeil",
+  "teamId": "tex-w",
+  "teamName": "Texas",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 834,
+  "change": 18,
+  "weeks": 9,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "mich-w-p3",
@@ -4403,25 +4388,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 834,
+  "position": 839,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
- },
- {
-  "playerId": "uga-w-h2",
-  "name": "Ania Hertel",
-  "teamId": "uga-w",
-  "teamName": "Georgia",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 841,
-  "change": 4,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
  },
  {
   "playerId": "van-m-p8",
@@ -4431,10 +4402,66 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 845,
-  "change": 6,
+  "position": 842,
+  "change": 9,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "tamu-m-p9",
+  "name": "Markus Molder",
+  "teamId": "tamu-m",
+  "teamName": "Texas A&M",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 844,
+  "change": 11,
+  "weeks": 7,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "uga-w-h2",
+  "name": "Ania Hertel",
+  "teamId": "uga-w",
+  "teamName": "Georgia",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 845,
+  "change": 16,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "lou-m-h7",
+  "name": "Natan Rodrigues",
+  "teamId": "lou-m",
+  "teamName": "Louisville",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 847,
+  "change": -2,
+  "weeks": 11,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "bay-m-h5",
+  "name": "Marko Miladinovic",
+  "teamId": "bay-m",
+  "teamName": "Baylor",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 850,
+  "change": -10,
+  "weeks": 11,
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
  },
  {
@@ -4445,10 +4472,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 845,
-  "change": 6,
+  "position": 851,
+  "change": -59,
   "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -4459,52 +4486,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 846,
+  "position": 852,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
- },
- {
-  "playerId": "tamu-m-p9",
-  "name": "Markus Molder",
-  "teamId": "tamu-m",
-  "teamName": "Texas A&M",
-  "former": false,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 847,
-  "change": 8,
-  "weeks": 7,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "usf-m-h4",
-  "name": "Alvin Tudorica",
-  "teamId": "usf-m",
-  "teamName": "South Florida",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 849,
-  "change": 10,
-  "weeks": 2,
-  "asOf": "2026-08-24"
- },
- {
-  "playerId": "lou-m-h7",
-  "name": "Natan Rodrigues",
-  "teamId": "lou-m",
-  "teamName": "Louisville",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 849,
-  "change": -4,
-  "weeks": 11,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
  },
  {
   "playerId": "lsu-w-h3",
@@ -4514,80 +4500,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 850,
-  "change": 7,
+  "position": 857,
+  "change": 15,
   "weeks": 11,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "stan-w-p4",
-  "name": "Monika Ekstrand",
-  "teamId": "stan-w",
-  "teamName": "Stanford",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 851,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "unc-w-p4",
-  "name": "Anna Frey",
-  "teamId": "unc-w",
-  "teamName": "North Carolina",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 852,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "bay-m-h5",
-  "name": "Marko Miladinovic",
-  "teamId": "bay-m",
-  "teamName": "Baylor",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 852,
-  "change": -12,
-  "weeks": 11,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "fla-w-n1",
-  "name": "Jana Hossam Salah",
-  "teamId": "fla-w",
-  "teamName": "Florida",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 856,
-  "change": 6,
-  "weeks": 4,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "van-w-h3",
-  "name": "Amy Stevens",
-  "teamId": "van-w",
-  "teamName": "Vanderbilt",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 858,
-  "change": 5,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -4598,11 +4514,39 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "men",
   "tour": "ATP",
-  "position": 860,
-  "change": -23,
+  "position": 858,
+  "change": -21,
   "weeks": 7,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "atp-official-refresh"
+ },
+ {
+  "playerId": "stan-w-p4",
+  "name": "Monika Ekstrand",
+  "teamId": "stan-w",
+  "teamName": "Stanford",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 858,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "unc-w-p4",
+  "name": "Anna Frey",
+  "teamId": "unc-w",
+  "teamName": "North Carolina",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 859,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "tcu-m-p1",
@@ -4620,6 +4564,34 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "fla-w-n1",
+  "name": "Jana Hossam Salah",
+  "teamId": "fla-w",
+  "teamName": "Florida",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 862,
+  "change": 15,
+  "weeks": 4,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "van-w-h3",
+  "name": "Amy Stevens",
+  "teamId": "van-w",
+  "teamName": "Vanderbilt",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 863,
+  "change": 15,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
   "playerId": "usc-m-fp27",
   "name": "Maxwell Exsted",
   "teamId": "usc-m",
@@ -4633,20 +4605,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
- },
- {
-  "playerId": "wake-m-h3",
-  "name": "Filippo Moroni",
-  "teamId": "wake-m",
-  "teamName": "Wake Forest",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 864,
-  "change": -53,
-  "weeks": 9,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
  },
  {
   "playerId": "mich-m-h7",
@@ -4688,20 +4646,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-06-15"
  },
  {
-  "playerId": "wsu-w-h4",
-  "name": "Elyse Tse",
-  "teamId": "wsu-w",
-  "teamName": "Washington State",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 866,
-  "change": -40,
-  "weeks": 3,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
   "playerId": "cal-m-h7",
   "name": "Qian Sun",
   "teamId": "cal-m",
@@ -4730,6 +4674,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "fla-m-n1",
+  "name": "Alaa Trifi",
+  "teamId": "fla-m",
+  "teamName": "Florida",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 868,
+  "change": -1,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
   "playerId": "tcu-m-fp28",
   "name": "Albert Pedrico Kravtsov",
   "teamId": "tcu-m",
@@ -4743,6 +4701,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-06-29"
  },
  {
+  "playerId": "usf-m-h2",
+  "name": "Davide Tortora",
+  "teamId": "usf-m",
+  "teamName": "South Florida",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 870,
+  "change": 17,
+  "weeks": 3,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
   "playerId": "smu-w-p9",
   "name": "Amelie Van Impe",
   "teamId": "smu-w",
@@ -4753,7 +4725,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 871,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -4785,32 +4757,18 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "fla-m-n1",
-  "name": "Alaa Trifi",
-  "teamId": "fla-m",
-  "teamName": "Florida",
-  "former": false,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 874,
-  "change": -7,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "usc-w-p7",
-  "name": "Krisha Mahendran",
-  "teamId": "usc-w",
-  "teamName": "USC",
-  "former": false,
+  "playerId": "fsu-w-h2",
+  "name": "Ellie Schoppe",
+  "teamId": "fsu-w",
+  "teamName": "Florida State",
+  "former": true,
   "gender": "women",
   "tour": "WTA",
   "position": 874,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
+  "change": -106,
+  "weeks": 11,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "wake-m-p4",
@@ -4826,6 +4784,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-06-15"
  },
  {
+  "playerId": "usc-w-p7",
+  "name": "Krisha Mahendran",
+  "teamId": "usc-w",
+  "teamName": "USC",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 875,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "ncst-m-n1",
   "name": "Toby Kodat",
   "teamId": "ncst-m",
@@ -4837,20 +4809,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "change": -107,
   "weeks": 3,
   "asOf": "2026-06-15"
- },
- {
-  "playerId": "usf-m-h2",
-  "name": "Davide Tortora",
-  "teamId": "usf-m",
-  "teamName": "South Florida",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 876,
-  "change": 11,
-  "weeks": 3,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
  },
  {
   "playerId": "cal-m-h3",
@@ -4866,6 +4824,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-24"
  },
  {
+  "playerId": "fla-m-p1",
+  "name": "Lorenzo Claverie",
+  "teamId": "fla-m",
+  "teamName": "Florida",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 880,
+  "change": -3,
+  "weeks": 5,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
   "playerId": "smc-m-h1",
   "name": "James Watt",
   "teamId": "smc-m",
@@ -4877,20 +4849,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "change": 5,
   "weeks": 10,
   "asOf": "2026-08-24"
- },
- {
-  "playerId": "fla-m-p1",
-  "name": "Lorenzo Claverie",
-  "teamId": "fla-m",
-  "teamName": "Florida",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 884,
-  "change": -7,
-  "weeks": 5,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
  },
  {
   "playerId": "mich-m-p6",
@@ -4915,11 +4873,25 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 889,
+  "position": 888,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
+ },
+ {
+  "playerId": "fla-m-h2",
+  "name": "William Grant",
+  "teamId": "fla-m",
+  "teamName": "Florida",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 890,
+  "change": 0,
+  "weeks": 11,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
  },
  {
   "playerId": "uga-p3",
@@ -4935,6 +4907,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-10"
  },
  {
+  "playerId": "tamu-m-h6",
+  "name": "Giulio Perego",
+  "teamId": "tamu-m",
+  "teamName": "Texas A&M",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 892,
+  "change": -1,
+  "weeks": 4,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
+ },
+ {
   "playerId": "ariz-w-h5",
   "name": "Midori Castillo",
   "teamId": "ariz-w",
@@ -4948,32 +4934,18 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-08-24"
  },
  {
-  "playerId": "fla-m-h2",
-  "name": "William Grant",
-  "teamId": "fla-m",
-  "teamName": "Florida",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 893,
-  "change": -3,
-  "weeks": 11,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
- },
- {
-  "playerId": "tamu-m-h6",
-  "name": "Giulio Perego",
-  "teamId": "tamu-m",
-  "teamName": "Texas A&M",
-  "former": true,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 894,
-  "change": -3,
-  "weeks": 4,
-  "asOf": "2026-09-21",
-  "source": "atp-official-refresh"
+  "playerId": "ucla-w-p9",
+  "name": "Kate Fakih",
+  "teamId": "ucla-w",
+  "teamName": "UCLA",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 896,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "tenn-m-h11",
@@ -4987,6 +4959,48 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "change": -13,
   "weeks": 4,
   "asOf": "2026-06-29"
+ },
+ {
+  "playerId": "ala-p10",
+  "name": "Maria Andrienko",
+  "teamId": "ala-w",
+  "teamName": "Alabama",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 897,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "utah-w-h2",
+  "name": "Yuhan Liu",
+  "teamId": "utah-w",
+  "teamName": "Utah",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 898,
+  "change": -39,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "usf-m-h4",
+  "name": "Alvin Tudorica",
+  "teamId": "usf-m",
+  "teamName": "South Florida",
+  "former": true,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 899,
+  "change": -50,
+  "weeks": 2,
+  "asOf": "2026-09-14",
+  "source": "atp-official-refresh"
  },
  {
   "playerId": "stan-m-p9",
@@ -5004,18 +5018,18 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "ucla-w-p9",
-  "name": "Kate Fakih",
-  "teamId": "ucla-w",
-  "teamName": "UCLA",
+  "playerId": "tex-p4",
+  "name": "Salma Drugdova",
+  "teamId": "tex-w",
+  "teamName": "Texas",
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 900,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
+  "position": 899,
+  "change": 9,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "miami-m-n3",
@@ -5031,46 +5045,18 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "asOf": "2026-07-13"
  },
  {
-  "playerId": "ala-p10",
-  "name": "Maria Andrienko",
-  "teamId": "ala-w",
-  "teamName": "Alabama",
+  "playerId": "colo-w-h1",
+  "name": "Aya El Sayed",
+  "teamId": "colo-w",
+  "teamName": "Colorado",
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 901,
+  "position": 905,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
- },
- {
-  "playerId": "utah-w-h2",
-  "name": "Yuhan Liu",
-  "teamId": "utah-w",
-  "teamName": "Utah",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 902,
-  "change": -4,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
-  "playerId": "tex-p4",
-  "name": "Salma Drugdova",
-  "teamId": "tex-w",
-  "teamName": "Texas",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 903,
-  "change": -4,
-  "weeks": 10,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
  },
  {
   "playerId": "msst-m-p8",
@@ -5088,20 +5074,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "fsu-w-h2",
-  "name": "Ellie Schoppe",
-  "teamId": "fsu-w",
-  "teamName": "Florida State",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 907,
-  "change": -33,
-  "weeks": 11,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
   "playerId": "mich-w-h1",
   "name": "Jaedan Brown",
   "teamId": "mich-w",
@@ -5109,10 +5081,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 911,
-  "change": -1,
+  "position": 910,
+  "change": 10,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -5123,25 +5095,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 917,
-  "change": -1,
+  "position": 916,
+  "change": 13,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
- },
- {
-  "playerId": "colo-w-h1",
-  "name": "Aya El Sayed",
-  "teamId": "colo-w",
-  "teamName": "Colorado",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 918,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "tamu-w-n3",
@@ -5151,10 +5109,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 919,
-  "change": -2,
+  "position": 917,
+  "change": 13,
   "weeks": 2,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -5180,10 +5138,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 928,
+  "position": 926,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -5194,11 +5152,25 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 929,
-  "change": -2,
+  "position": 927,
+  "change": 15,
   "weeks": 3,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
+ },
+ {
+  "playerId": "rice-w-h2",
+  "name": "Federica Trevisan",
+  "teamId": "rice-w",
+  "teamName": "Rice",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 929,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "wake-m-p6",
@@ -5223,10 +5195,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 931,
+  "position": 930,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -5237,10 +5209,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 932,
+  "position": 931,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -5281,10 +5253,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 940,
+  "position": 942,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -5295,10 +5267,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 941,
+  "position": 943,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -5309,10 +5281,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 942,
+  "position": 944,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -5323,11 +5295,25 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 943,
+  "position": 945,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
+ },
+ {
+  "playerId": "aub-w-h1",
+  "name": "Ava Hrastar",
+  "teamId": "aub-w",
+  "teamName": "Auburn",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 947,
+  "change": 13,
+  "weeks": 10,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "ala-p1",
@@ -5337,25 +5323,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 946,
+  "position": 949,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
- },
- {
-  "playerId": "aub-p6",
-  "name": "Emma Kamper",
-  "teamId": "aub-w",
-  "teamName": "Auburn",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 952,
-  "change": 5,
-  "weeks": 3,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
  },
  {
   "playerId": "fla-m-p8",
@@ -5373,32 +5345,18 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "aub-w-h1",
-  "name": "Ava Hrastar",
+  "playerId": "aub-p6",
+  "name": "Emma Kamper",
   "teamId": "aub-w",
   "teamName": "Auburn",
-  "former": true,
+  "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 956,
-  "change": -9,
-  "weeks": 10,
-  "asOf": "2026-09-21",
+  "position": 957,
+  "change": 12,
+  "weeks": 3,
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
- },
- {
-  "playerId": "tex-w-h13",
-  "name": "Allura Zamarripa",
-  "teamId": "tex-w",
-  "teamName": "Texas",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 964,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "nd-m-fp153",
@@ -5414,6 +5372,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
+ },
+ {
+  "playerId": "tex-w-h13",
+  "name": "Allura Zamarripa",
+  "teamId": "tex-w",
+  "teamName": "Texas",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 970,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "usd-m-h3",
@@ -5438,10 +5410,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 971,
-  "change": 1,
+  "position": 972,
+  "change": -4,
   "weeks": 2,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -5452,10 +5424,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 974,
+  "position": 982,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -5466,10 +5438,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 978,
-  "change": 9,
+  "position": 987,
+  "change": 15,
   "weeks": 6,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official-refresh"
  },
  {
@@ -5480,24 +5452,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 979,
+  "position": 988,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "usd-w-h1",
-  "name": "Solymar Colling",
-  "teamId": "usd-w",
-  "teamName": "San Diego",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 982,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -5516,45 +5474,17 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "sc-w-n3",
-  "name": "Pietra Rivoli",
-  "teamId": "sc-w",
-  "teamName": "South Carolina",
-  "former": false,
+  "playerId": "usd-w-h1",
+  "name": "Solymar Colling",
+  "teamId": "usd-w",
+  "teamName": "San Diego",
+  "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 1000,
+  "position": 992,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "pepp-w-p1",
-  "name": "Živa Falkner",
-  "teamId": "pepp-w",
-  "teamName": "Pepperdine",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1002,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "aub-p7",
-  "name": "Isabella Kruger",
-  "teamId": "aub-w",
-  "teamName": "Auburn",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1003,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -5573,31 +5503,45 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "uga-w-n7",
-  "name": "nadia lagaev",
-  "teamId": "uga-w",
-  "teamName": "Georgia",
+  "playerId": "sc-w-n3",
+  "name": "Pietra Rivoli",
+  "teamId": "sc-w",
+  "teamName": "South Carolina",
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1008,
+  "position": 1006,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
-  "playerId": "uga-w-n2",
-  "name": "Nadia Lagaev",
-  "teamId": "uga-w",
-  "teamName": "Georgia",
+  "playerId": "pepp-w-p1",
+  "name": "Živa Falkner",
+  "teamId": "pepp-w",
+  "teamName": "Pepperdine",
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1008,
+  "position": 1009,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "aub-p7",
+  "name": "Isabella Kruger",
+  "teamId": "aub-w",
+  "teamName": "Auburn",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1010,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -5614,6 +5558,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
+ },
+ {
+  "playerId": "uga-w-n2",
+  "name": "Nadia Lagaev",
+  "teamId": "uga-w",
+  "teamName": "Georgia",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1013,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "aub-m-n3",
@@ -5646,20 +5604,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "uga-p5",
-  "name": "Anastasiia Gureva",
-  "teamId": "uga-w",
-  "teamName": "Georgia",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1017,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "corn-m-n2",
   "name": "Cezar Gabriel Papoe",
   "teamId": "corn-m",
@@ -5673,6 +5617,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
+ },
+ {
+  "playerId": "uga-p5",
+  "name": "Anastasiia Gureva",
+  "teamId": "uga-w",
+  "teamName": "Georgia",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1022,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "wake-m-p1",
@@ -5720,20 +5678,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "lou-w-h9",
-  "name": "Jamilah Snells",
-  "teamId": "lou-w",
-  "teamName": "Louisville",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1027,
-  "change": 4,
-  "weeks": 5,
-  "asOf": "2026-09-21",
-  "source": "wta-official-refresh"
- },
- {
   "playerId": "ou-m-p6",
   "name": "Luka Talan Lopatic",
   "teamId": "ou-m",
@@ -5747,6 +5691,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
+ },
+ {
+  "playerId": "lou-w-h9",
+  "name": "Jamilah Snells",
+  "teamId": "lou-w",
+  "teamName": "Louisville",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1031,
+  "change": -16,
+  "weeks": 5,
+  "asOf": "2026-09-14",
+  "source": "wta-official-refresh"
  },
  {
   "playerId": "corn-m-p7",
@@ -5779,20 +5737,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "uva-w-p11",
-  "name": "Annabelle Xu",
-  "teamId": "uva-w",
-  "teamName": "Virginia",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1040,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "uk-m-p1",
   "name": "Mikael Arseneault",
   "teamId": "uk-m",
@@ -5808,20 +5752,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "smu-w-p5",
-  "name": "Sophie Llewellyn",
-  "teamId": "smu-w",
-  "teamName": "SMU",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1042,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "byu-w-p4",
   "name": "Cara Korhonen",
   "teamId": "byu-w",
@@ -5829,24 +5759,24 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1047,
+  "position": 1043,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
-  "playerId": "uga-w-n4",
-  "name": "Ava Rodriguez",
-  "teamId": "uga-w",
-  "teamName": "Georgia",
-  "former": false,
+  "playerId": "uva-w-p11",
+  "name": "Annabelle Xu",
+  "teamId": "uva-w",
+  "teamName": "Virginia",
+  "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 1048,
+  "position": 1049,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -5880,11 +5810,25 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "tenn-p3",
+  "name": "Leyla Britez Risso",
+  "teamId": "tenn-w",
+  "teamName": "Tennessee",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1051,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "ore-m-p1",
   "name": "Vlad Breazu",
   "teamId": "ore-m",
   "teamName": "Oregon",
-  "former": true,
+  "former": false,
   "gender": "men",
   "tour": "ATP",
   "position": 1052,
@@ -5910,45 +5854,17 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "ou-p2",
-  "name": "Julia Garcia Ruiz",
-  "teamId": "ou-w",
-  "teamName": "Oklahoma",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1055,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "aub-p11",
-  "name": "DJ Bennett",
-  "teamId": "aub-w",
-  "teamName": "Auburn",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1056,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "usc-w-fp72",
-  "name": "Imogen Haddad",
-  "teamId": "usc-w",
-  "teamName": "USC",
+  "playerId": "smu-w-p5",
+  "name": "Sophie Llewellyn",
+  "teamId": "smu-w",
+  "teamName": "SMU",
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1056,
+  "position": 1053,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -5967,31 +5883,17 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "osu-w-p9",
-  "name": "Luciana Perry",
-  "teamId": "osu-w",
-  "teamName": "Ohio State",
+  "playerId": "uga-w-n4",
+  "name": "Ava Rodriguez",
+  "teamId": "uga-w",
+  "teamName": "Georgia",
   "former": false,
   "gender": "women",
   "tour": "WTA",
   "position": 1060,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "wvu-w-n2",
-  "name": "Ela Plosnik",
-  "teamId": "wvu-w",
-  "teamName": "West Virginia",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1061,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -6010,6 +5912,34 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "aub-p11",
+  "name": "DJ Bennett",
+  "teamId": "aub-w",
+  "teamName": "Auburn",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1068,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "osu-w-p9",
+  "name": "Luciana Perry",
+  "teamId": "osu-w",
+  "teamName": "Ohio State",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1070,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "ariz-m-fp225",
   "name": "Sasha Rozin",
   "teamId": "ariz-m",
@@ -6025,17 +5955,17 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "tenn-p3",
-  "name": "Leyla Britez Risso",
-  "teamId": "tenn-w",
-  "teamName": "Tennessee",
+  "playerId": "wvu-w-n2",
+  "name": "Ela Plosnik",
+  "teamId": "wvu-w",
+  "teamName": "West Virginia",
   "former": false,
   "gender": "women",
   "tour": "WTA",
   "position": 1073,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -6084,34 +6014,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "miami-w-fp320",
-  "name": "Dominika Podhajecka",
-  "teamId": "miami-w",
-  "teamName": "Miami",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1082,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "harv-w-n3",
-  "name": "Anna Tabunshchyk",
-  "teamId": "harv-w",
-  "teamName": "Harvard",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1084,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "ou-m-p2",
   "name": "Asahi Harazaki",
   "teamId": "ou-m",
@@ -6125,6 +6027,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
+ },
+ {
+  "playerId": "ou-p2",
+  "name": "Julia Garcia Ruiz",
+  "teamId": "ou-w",
+  "teamName": "Oklahoma",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1088,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "wake-m-p3",
@@ -6157,20 +6073,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "ncst-w-p6",
-  "name": "Victoria Osuigwe",
-  "teamId": "ncst-w",
-  "teamName": "NC State",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1090,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "aub-m-p1",
   "name": "Billy Blaydes",
   "teamId": "aub-m",
@@ -6184,6 +6086,34 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
+ },
+ {
+  "playerId": "miami-w-fp320",
+  "name": "Dominika Podhajecka",
+  "teamId": "miami-w",
+  "teamName": "Miami",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1092,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "harv-w-n3",
+  "name": "Anna Tabunshchyk",
+  "teamId": "harv-w",
+  "teamName": "Harvard",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1093,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "prin-m-n2",
@@ -6216,17 +6146,17 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "okst-w-p6",
-  "name": "Lucia Peyre",
-  "teamId": "okst-w",
-  "teamName": "Oklahoma State",
+  "playerId": "ncst-w-p6",
+  "name": "Victoria Osuigwe",
+  "teamId": "ncst-w",
+  "teamName": "NC State",
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1098,
+  "position": 1104,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -6260,17 +6190,17 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "osu-w-h3",
-  "name": "Kolie Allen",
-  "teamId": "osu-w",
-  "teamName": "Ohio State",
-  "former": true,
+  "playerId": "okst-w-p6",
+  "name": "Lucia Peyre",
+  "teamId": "okst-w",
+  "teamName": "Oklahoma State",
+  "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1109,
+  "position": 1110,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -6302,6 +6232,34 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
+ },
+ {
+  "playerId": "miss-w-ita-p3",
+  "name": "Beatrice Stagno",
+  "teamId": "miss-w",
+  "teamName": "Ole Miss",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1114,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "osu-w-h3",
+  "name": "Kolie Allen",
+  "teamId": "osu-w",
+  "teamName": "Ohio State",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1117,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "ncst-m-n2",
@@ -6341,24 +6299,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1120,
+  "position": 1125,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "ucsb-w-n1",
-  "name": "marianne angel",
-  "teamId": "ucsb-w",
-  "teamName": "UC Santa Barbara",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1120,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -6375,20 +6319,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
- },
- {
-  "playerId": "mich-w-n1",
-  "name": "McKenna Schaefbauer",
-  "teamId": "mich-w",
-  "teamName": "Michigan",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1127,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "colum-m-n4",
@@ -6421,20 +6351,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "wsu-w-p8",
-  "name": "Ava-Monet Sycamore",
-  "teamId": "wsu-w",
-  "teamName": "Washington State",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1130,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "ucf-m-p5",
   "name": "Clement Lemire",
   "teamId": "ucf-m",
@@ -6465,17 +6381,17 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "tcu-w-p6",
-  "name": "Kira Matushkina",
-  "teamId": "tcu-w",
-  "teamName": "TCU",
+  "playerId": "mich-w-n1",
+  "name": "McKenna Schaefbauer",
+  "teamId": "mich-w",
+  "teamName": "Michigan",
   "former": false,
   "gender": "women",
   "tour": "WTA",
   "position": 1132,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -6524,6 +6440,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "wsu-w-p8",
+  "name": "Ava-Monet Sycamore",
+  "teamId": "wsu-w",
+  "teamName": "Washington State",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1138,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "neb-m-p2",
   "name": "Vincent Dullinger",
   "teamId": "neb-m",
@@ -6539,6 +6469,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "tcu-w-p6",
+  "name": "Kira Matushkina",
+  "teamId": "tcu-w",
+  "teamName": "TCU",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1139,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "uva-w-p9",
   "name": "Eugenia Zozaya",
   "teamId": "uva-w",
@@ -6546,52 +6490,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1143,
+  "position": 1147,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "miz-w-n5",
-  "name": "Mariana Isabel Higuita Barraza",
-  "teamId": "miz-w",
-  "teamName": "Missouri",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1146,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "nd-w-p1",
-  "name": "Anastasia Sysoeva",
-  "teamId": "nd-w",
-  "teamName": "Notre Dame",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1151,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "ucf-w-p9",
-  "name": "Jantje Tilbuerger",
-  "teamId": "ucf-w",
-  "teamName": "UCF",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1151,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -6608,6 +6510,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
+ },
+ {
+  "playerId": "miz-w-n5",
+  "name": "Mariana Isabel Higuita Barraza",
+  "teamId": "miz-w",
+  "teamName": "Missouri",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1152,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "osu-m-p2",
@@ -6655,17 +6571,31 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "miz-w-n4",
-  "name": "Danielle Dai Chapman",
-  "teamId": "miz-w",
-  "teamName": "Missouri",
+  "playerId": "nd-w-p1",
+  "name": "Anastasia Sysoeva",
+  "teamId": "nd-w",
+  "teamName": "Notre Dame",
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1163,
+  "position": 1156,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "ucf-w-p9",
+  "name": "Jantje Tilbuerger",
+  "teamId": "ucf-w",
+  "teamName": "UCF",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1156,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -6682,6 +6612,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
+ },
+ {
+  "playerId": "miz-w-n4",
+  "name": "Danielle Dai Chapman",
+  "teamId": "miz-w",
+  "teamName": "Missouri",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1166,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "bay-m-h14",
@@ -6706,10 +6650,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1178,
+  "position": 1175,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -6720,10 +6664,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 1180,
+  "position": 1177,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -6742,6 +6686,34 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "miz-w-n1",
+  "name": "Alexandra Irina Anghel",
+  "teamId": "miz-w",
+  "teamName": "Missouri",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1184,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "lsu-w-n3",
+  "name": "Dora Miskovic",
+  "teamId": "lsu-w",
+  "teamName": "LSU",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1185,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "tamu-m-n7",
   "name": "Alexander Frusina",
   "teamId": "tamu-m",
@@ -6755,20 +6727,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
- },
- {
-  "playerId": "lsu-w-n3",
-  "name": "Dora Miskovic",
-  "teamId": "lsu-w",
-  "teamName": "LSU",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1187,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "fla-m-p3",
@@ -6876,48 +6834,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "lsu-w-n7",
-  "name": "tegan bush",
-  "teamId": "lsu-w",
-  "teamName": "LSU",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1213,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "lsu-w-n4",
-  "name": "Tegan Bush",
-  "teamId": "lsu-w",
-  "teamName": "LSU",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1213,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "tenn-w-n2",
-  "name": "Sarah Mildren",
-  "teamId": "tenn-w",
-  "teamName": "Tennessee",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1214,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "osu-m-p6",
   "name": "Victor Lilov",
   "teamId": "osu-m",
@@ -6948,6 +6864,34 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "lsu-w-n4",
+  "name": "Tegan Bush",
+  "teamId": "lsu-w",
+  "teamName": "LSU",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1218,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "tenn-w-n2",
+  "name": "Sarah Mildren",
+  "teamId": "tenn-w",
+  "teamName": "Tennessee",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1219,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "aub-m-p7",
   "name": "Manel Lazaro",
   "teamId": "aub-m",
@@ -6961,20 +6905,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
- },
- {
-  "playerId": "uk-p5",
-  "name": "Donna Le Roux",
-  "teamId": "uk-w",
-  "teamName": "Kentucky",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1222,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "clem-m-p5",
@@ -6992,6 +6922,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "uk-p5",
+  "name": "Donna Le Roux",
+  "teamId": "uk-w",
+  "teamName": "Kentucky",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1226,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "tex-p6",
   "name": "Elizabeth Ionescu",
   "teamId": "tex-w",
@@ -6999,38 +6943,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1227,
+  "position": 1232,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "lsu-w-n2",
-  "name": "Aya El Aouni",
-  "teamId": "lsu-w",
-  "teamName": "LSU",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1229,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "tamu-w-n4",
-  "name": "Yoana Konstantinova",
-  "teamId": "tamu-w",
-  "teamName": "Texas A&M",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1230,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -7064,17 +6980,31 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "tamu-w-n6",
-  "name": "Rachael Smith",
+  "playerId": "lsu-w-n2",
+  "name": "Aya El Aouni",
+  "teamId": "lsu-w",
+  "teamName": "LSU",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1234,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "tamu-w-n4",
+  "name": "Yoana Konstantinova",
   "teamId": "tamu-w",
   "teamName": "Texas A&M",
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1238,
+  "position": 1235,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -7091,6 +7021,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
+ },
+ {
+  "playerId": "tamu-w-n6",
+  "name": "Rachael Smith",
+  "teamId": "tamu-w",
+  "teamName": "Texas A&M",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1242,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "tamu-m-n6",
@@ -7121,20 +7065,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
- },
- {
-  "playerId": "tamu-p6",
-  "name": "Violeta Martinez",
-  "teamId": "tamu-w",
-  "teamName": "Texas A&M",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1252,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "prin-m-p1",
@@ -7182,6 +7112,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "tamu-p6",
+  "name": "Violeta Martinez",
+  "teamId": "tamu-w",
+  "teamName": "Texas A&M",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1260,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "ucf-m-p4",
   "name": "Fadi Bidan",
   "teamId": "ucf-m",
@@ -7227,34 +7171,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "colum-w-n7",
-  "name": "kenzie nguyen",
-  "teamId": "colum-w",
-  "teamName": "Columbia",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1278,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "colum-w-n3",
-  "name": "Kenzie Nguyen",
-  "teamId": "colum-w",
-  "teamName": "Columbia",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1278,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "fla-m-h10",
   "name": "Duarte Vale",
   "teamId": "fla-m",
@@ -7268,6 +7184,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
+ },
+ {
+  "playerId": "colum-w-n3",
+  "name": "Kenzie Nguyen",
+  "teamId": "colum-w",
+  "teamName": "Columbia",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1285,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "ttu-m-p1",
@@ -7360,20 +7290,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "aub-p8",
-  "name": "Kaya Moe",
-  "teamId": "aub-w",
-  "teamName": "Auburn",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1296,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "aub-m-n4",
   "name": "Patrik Munkhammar",
   "teamId": "aub-m",
@@ -7419,6 +7335,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "aub-p8",
+  "name": "Kaya Moe",
+  "teamId": "aub-w",
+  "teamName": "Auburn",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1302,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "van-m-p9",
   "name": "Jack Satterfield",
   "teamId": "van-m",
@@ -7432,20 +7362,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
- },
- {
-  "playerId": "uab-w-p7",
-  "name": "Klara Kajabova",
-  "teamId": "uab-w",
-  "teamName": "UAB",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1305,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "pepp-m-p1",
@@ -7463,6 +7379,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "uab-w-p7",
+  "name": "Klara Kajabova",
+  "teamId": "uab-w",
+  "teamName": "UAB",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1309,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "ucla-m-n5",
   "name": "Lev Seidman",
   "teamId": "ucla-m",
@@ -7478,20 +7408,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "miss-w-ita-p3",
-  "name": "Beatrice Stagno",
-  "teamId": "miss-w",
-  "teamName": "Ole Miss",
-  "former": true,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1312,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "asu-w-p2",
   "name": "Lily Taylor",
   "teamId": "asu-w",
@@ -7499,10 +7415,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1312,
+  "position": 1316,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -7513,10 +7429,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1312,
+  "position": 1316,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -7535,6 +7451,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "prin-w-p4",
+  "name": "Alice Ferlito",
+  "teamId": "prin-w",
+  "teamName": "Princeton",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1319,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "fau-w-p2",
   "name": "Panna Bartha",
   "teamId": "fau-w",
@@ -7545,7 +7475,21 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1321,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "clt-w-p3",
+  "name": "Elizabeth Ivanov",
+  "teamId": "clt-w",
+  "teamName": "Charlotte",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1327,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -7556,10 +7500,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 1328,
+  "position": 1327,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -7570,10 +7514,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1331,
+  "position": 1333,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -7584,10 +7528,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1334,
+  "position": 1336,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -7598,10 +7542,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1334,
+  "position": 1336,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -7665,20 +7609,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "cal-w-p6",
-  "name": "Mao Mushika",
-  "teamId": "cal-w",
-  "teamName": "California",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1344,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "msu-m-p3",
   "name": "Mitchell Sheldon",
   "teamId": "msu-m",
@@ -7692,6 +7622,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
+ },
+ {
+  "playerId": "cal-w-p6",
+  "name": "Mao Mushika",
+  "teamId": "cal-w",
+  "teamName": "California",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1348,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "ill-m-p8",
@@ -7709,34 +7653,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "hou-w-fp130",
-  "name": "Alexia Puiac",
-  "teamId": "hou-w",
-  "teamName": "Houston",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1353,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "clt-w-p3",
-  "name": "Elizabeth Ivanov",
-  "teamId": "clt-w",
-  "teamName": "Charlotte",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1353,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "asu-m-fp39",
   "name": "Mathis Bondaz",
   "teamId": "asu-m",
@@ -7750,6 +7666,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
+ },
+ {
+  "playerId": "hou-w-fp130",
+  "name": "Alexia Puiac",
+  "teamId": "hou-w",
+  "teamName": "Houston",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1358,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
  },
  {
   "playerId": "uga-m-p3",
@@ -7804,24 +7734,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1371,
+  "position": 1374,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "wash-w-p3",
-  "name": "Karolina Kozakova",
-  "teamId": "wash-w",
-  "teamName": "Washington",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1373,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -7840,6 +7756,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "wash-w-p3",
+  "name": "Karolina Kozakova",
+  "teamId": "wash-w",
+  "teamName": "Washington",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1376,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "dart-m-n2",
   "name": "Dillon Beckles",
   "teamId": "dart-m",
@@ -7853,20 +7783,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
- },
- {
-  "playerId": "unc-w-p9",
-  "name": "Theadora Rabman",
-  "teamId": "unc-w",
-  "teamName": "North Carolina",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1377,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "usc-m-p1",
@@ -7899,6 +7815,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "unc-w-p9",
+  "name": "Theadora Rabman",
+  "teamId": "unc-w",
+  "teamName": "North Carolina",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1379,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "okst-m-fp205",
   "name": "Alessio Basile",
   "teamId": "okst-m",
@@ -7921,10 +7851,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1381,
+  "position": 1383,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -7935,10 +7865,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1381,
+  "position": 1383,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -7949,10 +7879,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1381,
+  "position": 1383,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -8026,7 +7956,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1411,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -8082,10 +8012,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1413,
+  "position": 1414,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -8096,10 +8026,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1413,
+  "position": 1414,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -8110,10 +8040,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1413,
+  "position": 1414,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -8124,10 +8054,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1413,
+  "position": 1414,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -8138,10 +8068,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1413,
+  "position": 1414,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -8182,10 +8112,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1438,
+  "position": 1434,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -8196,10 +8126,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 1438,
+  "position": 1434,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -8210,10 +8140,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1444,
+  "position": 1441,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -8262,6 +8192,20 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "tamu-p9",
+  "name": "Mia Kupres",
+  "teamId": "tamu-w",
+  "teamName": "Texas A&M",
+  "former": true,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1458,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "okst-m-fp206",
   "name": "Haydar Cem Gokpinar",
   "teamId": "okst-m",
@@ -8277,17 +8221,17 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "tamu-p9",
-  "name": "Mia Kupres",
-  "teamId": "tamu-w",
-  "teamName": "Texas A&M",
-  "former": true,
+  "playerId": "ariz-w-p4",
+  "name": "Ciara Moore",
+  "teamId": "ariz-w",
+  "teamName": "Arizona",
+  "former": false,
   "gender": "women",
   "tour": "WTA",
-  "position": 1460,
+  "position": 1462,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -8306,34 +8250,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "miz-w-n1",
-  "name": "Alexandra Irina Anghel",
-  "teamId": "miz-w",
-  "teamName": "Missouri",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1464,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "ariz-w-p4",
-  "name": "Ciara Moore",
-  "teamId": "ariz-w",
-  "teamName": "Arizona",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1464,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "sc-w-h1",
   "name": "Olympe Lancelot",
   "teamId": "sc-w",
@@ -8341,10 +8257,10 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "former": true,
   "gender": "women",
   "tour": "WTA",
-  "position": 1464,
+  "position": 1462,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -8393,6 +8309,76 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
+  "playerId": "msst-p2",
+  "name": "Chiara Di Genova",
+  "teamId": "msst-w",
+  "teamName": "Mississippi State",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1469,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "rice-w-p4",
+  "name": "Josephine Kunz",
+  "teamId": "rice-w",
+  "teamName": "Rice",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1469,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "fau-w-p6",
+  "name": "Malwina Rowinska",
+  "teamId": "fau-w",
+  "teamName": "FAU",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1469,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "minn-w-n2",
+  "name": "Massiva Boukirat",
+  "teamId": "minn-w",
+  "teamName": "Minnesota",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1469,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "ore-w-p2",
+  "name": "Virginia Crocker",
+  "teamId": "ore-w",
+  "teamName": "Oregon",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1469,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
   "playerId": "clem-m-p3",
   "name": "Matisse Farzam",
   "teamId": "clem-m",
@@ -8406,76 +8392,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
- },
- {
-  "playerId": "msst-p2",
-  "name": "Chiara Di Genova",
-  "teamId": "msst-w",
-  "teamName": "Mississippi State",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1473,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "rice-w-p4",
-  "name": "Josephine Kunz",
-  "teamId": "rice-w",
-  "teamName": "Rice",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1473,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "fau-w-p6",
-  "name": "Malwina Rowinska",
-  "teamId": "fau-w",
-  "teamName": "FAU",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1473,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "minn-w-n2",
-  "name": "Massiva Boukirat",
-  "teamId": "minn-w",
-  "teamName": "Minnesota",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1473,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
-  "playerId": "ore-w-p2",
-  "name": "Virginia Crocker",
-  "teamId": "ore-w",
-  "teamName": "Oregon",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1473,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "tcu-m-p2",
@@ -8563,7 +8479,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1496,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -8607,7 +8523,21 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1503,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
+  "source": "wta-official"
+ },
+ {
+  "playerId": "wisc-w-p8",
+  "name": "Lucie Urbanova",
+  "teamId": "wisc-w",
+  "teamName": "Wisconsin",
+  "former": false,
+  "gender": "women",
+  "tour": "WTA",
+  "position": 1503,
+  "change": null,
+  "weeks": 1,
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -8621,7 +8551,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "position": 1503,
   "change": null,
   "weeks": 1,
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-14",
   "source": "wta-official"
  },
  {
@@ -10170,21 +10100,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "ore-m-n3",
-  "name": "Alexis Berquier",
-  "teamId": "ore-m",
-  "teamName": "Oregon",
-  "former": false,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 1923,
-  "change": null,
-  "weeks": null,
-  "high": null,
-  "asOf": "2026-08-31",
-  "source": "atp-deep(tennisabstract)"
- },
- {
   "playerId": "mich-m-fp309",
   "name": "Bjorn Swenson",
   "teamId": "mich-m",
@@ -11040,21 +10955,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "byu-m-n1",
-  "name": "Leon Peranovic",
-  "teamId": "byu-m",
-  "teamName": "BYU",
-  "former": false,
-  "gender": "men",
-  "tour": "ATP",
-  "position": 2162,
-  "change": null,
-  "weeks": null,
-  "high": null,
-  "asOf": "2026-08-31",
-  "source": "atp-deep(tennisabstract)"
- },
- {
   "playerId": "ariz-m-fp229",
   "name": "Matthias Uwe Kask",
   "teamId": "ariz-m",
@@ -11270,7 +11170,7 @@ export function getProRankings(gender) {
   return proRankings.filter((r) => r.gender === gender);
 }
 
-export const proRankingsAsOf = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRankingsAsOf ?? "2026-09-21";
+export const proRankingsAsOf = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRankingsAsOf ?? "2026-09-14";
 
 // Last-known positions for players the tour NO LONGER ranks. Never render
 // these as a current rank -- that is the §82 bug this map exists to fix.
@@ -11651,6 +11551,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
   "position": 698,
   "date": "2023-10-02"
  },
+ "fla-m-n3": {
+  "position": 1248,
+  "date": "2012-05-28"
+ },
  "fla-m-p6": {
   "position": 892,
   "date": "2024-06-24"
@@ -11754,6 +11658,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
  "ku-w-h9": {
   "position": 1113,
   "date": "2015-07-27"
+ },
+ "ku-w-p8": {
+  "position": 1024,
+  "date": "2011-07-25"
  },
  "lmu-w-h2": {
   "position": 1183,
@@ -12179,6 +12087,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
   "position": 1229,
   "date": "2014-11-24"
  },
+ "penn-w-p8": {
+  "position": 258,
+  "date": "2026-08-10"
+ },
  "pepp-m-h11": {
   "position": 1472,
   "date": "2019-08-19"
@@ -12563,9 +12475,17 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
   "position": 1925,
   "date": "2017-06-12"
  },
+ "ucd-m-fp172": {
+  "position": 1666,
+  "date": "2017-09-25"
+ },
  "ucd-m-h4": {
   "position": 1582,
   "date": "2019-12-23"
+ },
+ "ucd-w-n1": {
+  "position": 1195,
+  "date": "2002-11-04"
  },
  "ucf-m-h1": {
   "position": 1712,
@@ -12650,6 +12570,10 @@ export const proRankLastKnown = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.pr
  "ucla-w-p9": {
   "position": 898,
   "date": "2026-08-10"
+ },
+ "ucr-m-p1": {
+  "position": 1039,
+  "date": "2004-09-06"
  },
  "ucsb-m-h3": {
   "position": 900,
@@ -13036,7 +12960,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   592,
   544,
   552,
-  520
+  524
  ],
  "ala-w-h8": [
   877,
@@ -13048,7 +12972,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   707,
   708,
   705,
-  671
+  677
  ],
  "ariz-m-fp226": [
   401,
@@ -13061,7 +12985,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   314,
   315,
   314,
-  258
+  254
  ],
  "ariz-m-h1": [
   900,
@@ -13085,7 +13009,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   197,
   200,
   221,
-  205
+  202
  ],
  "ariz-w-h5": [
   866,
@@ -13106,7 +13030,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   615,
   629,
   623,
-  599
+  601
  ],
  "asu-m-h2": [
   538,
@@ -13120,7 +13044,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   632,
   639,
   639,
-  662
+  661
  ],
  "asu-m-h4": [
   264,
@@ -13134,7 +13058,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   288,
   291,
   304,
-  318
+  330
  ],
  "asu-w-h8": [
   762,
@@ -13148,7 +13072,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   640,
   641,
   631,
-  560
+  559
  ],
  "aub-m-h3": [
   796,
@@ -13168,7 +13092,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   502,
   493,
   522,
-  575
+  564
  ],
  "aub-p10": [
   626,
@@ -13194,7 +13118,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   515,
   522,
   508,
-  421
+  420
  ],
  "aub-p3": [
   885,
@@ -13221,7 +13145,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   889,
   883,
   892,
-  952
+  957
  ],
  "aub-w-h1": [
   773,
@@ -13234,7 +13158,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   808,
   813,
   806,
-  956
+  947
  ],
  "aub-w-h6": [
   254,
@@ -13247,7 +13171,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   255,
   260,
   249,
-  248
+  248,
+  240
  ],
  "aub-w-h7": [
   451,
@@ -13260,7 +13185,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   407,
   352,
   381,
-  381
+  381,
+  377
  ],
  "bay-m-h11": [
   316,
@@ -13273,7 +13199,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   256,
   262,
   261,
-  246
+  237
  ],
  "bay-m-h12": [
   404,
@@ -13286,7 +13212,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   435,
   441,
   494,
-  512
+  477
  ],
  "bay-m-h4": [
   694,
@@ -13312,7 +13238,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   768,
   778,
   840,
-  852
+  850
  ],
  "bay-m-h7": [
   734,
@@ -13326,7 +13252,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   746,
   747,
   726,
-  740
+  723
  ],
  "bay-w-h13": [
   388,
@@ -13339,7 +13265,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   320,
   318,
   305,
-  223
+  263
  ],
  "cal-m-h3": [
   642,
@@ -13366,7 +13292,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   344,
   323,
   293,
-  290
+  289
  ],
  "cal-m-h7": [
   867
@@ -13383,7 +13309,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   432,
   447,
   470,
-  461
+  459
  ],
  "cal-w-h2": [
   726,
@@ -13397,7 +13323,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   496,
   476,
   480,
-  465
+  467
  ],
  "clem-m-fp162": [
   885,
@@ -13410,13 +13336,13 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   867,
   868,
   862,
-  768
+  765
  ],
  "corn-m-h11": [
   708,
   713,
   744,
-  746
+  743
  ],
  "corn-m-h6": [
   491,
@@ -13481,7 +13407,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   706,
   687,
   681,
-  690
+  678
  ],
  "duke-m-h2": [
   375,
@@ -13495,12 +13421,12 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   381,
   390,
   406,
-  442
+  437
  ],
  "duke-w-h5": [
   900,
   898,
-  971
+  972
  ],
  "duke-w-n1": [
   538,
@@ -13513,7 +13439,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   405,
   413,
   404,
-  416
+  415
  ],
  "duke-w-n2": [
   257,
@@ -13526,7 +13452,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   332,
   335,
   333,
-  335
+  334
  ],
  "fau-m-h11": [
   854,
@@ -13558,7 +13484,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   251,
   256,
   243,
-  206
+  203
  ],
  "fla-m-h2": [
   810,
@@ -13571,8 +13497,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   854,
   858,
   873,
-  890,
-  893
+  890
  ],
  "fla-m-h8": [
   5,
@@ -13598,7 +13523,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   267,
   253,
   256,
-  250
+  258
  ],
  "fla-m-n1": [
   876,
@@ -13611,7 +13536,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   859,
   853,
   867,
-  874
+  868
  ],
  "fla-m-p1": [
   871,
@@ -13619,7 +13544,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   868,
   862,
   877,
-  884
+  880
  ],
  "fla-m-p4": [
   568,
@@ -13632,7 +13557,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   755,
   754,
   761,
-  810
+  808
  ],
  "fla-p1": [
   851,
@@ -13645,7 +13570,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   818,
   827,
   754,
-  787
+  781
  ],
  "fla-w-h11": [
   39,
@@ -13658,7 +13583,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   48,
   58,
   65,
-  72
+  73
  ],
  "fla-w-h4": [
   281,
@@ -13671,8 +13596,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   225,
   230,
   226,
-  235,
-  247
+  235
  ],
  "fla-w-h7": [
   661,
@@ -13681,14 +13605,14 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   790,
   794,
   900,
-  978
+  987
  ],
  "fla-w-n1": [
   865,
   866,
   877,
   870,
-  856
+  862
  ],
  "fla-w-n2": [
   858,
@@ -13701,7 +13625,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   711,
   722,
   727,
-  665
+  667
  ],
  "fla-w-n3": [
   855,
@@ -13714,7 +13638,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   842,
   852,
   850,
-  711
+  712
  ],
  "fsu-m-n2": [
   711,
@@ -13740,7 +13664,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   765,
   760,
   758,
-  907
+  874
  ],
  "fsu-w-h5": [
   433,
@@ -13754,7 +13678,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   425,
   438,
   433,
-  449
+  447
  ],
  "gt-m-h3": [
   830,
@@ -13763,7 +13687,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   792,
   792,
   777,
-  698
+  690
  ],
  "gt-m-h8": [
   315,
@@ -13776,7 +13700,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   340,
   320,
   323,
-  322
+  313
  ],
  "harv-m-h3": [
   348,
@@ -13790,7 +13714,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   306,
   310,
   316,
-  312
+  314
  ],
  "haw-m-h2": [
   335,
@@ -13803,7 +13727,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   248,
   243,
   210,
-  184
+  184,
+  181
  ],
  "ill-m-fp217": [
   758,
@@ -13816,7 +13741,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   525,
   495,
   462,
-  447
+  452
  ],
  "ill-m-h3": [
   767,
@@ -13830,7 +13755,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   731,
   730,
   710,
-  603
+  700
  ],
  "ill-m-h7": [
   616,
@@ -13844,7 +13769,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   676,
   684,
   665,
-  687
+  684
  ],
  "isu-w-h3": [
   596,
@@ -13858,7 +13783,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   553,
   546,
   523,
-  504
+  513
  ],
  "ku-w-h3": [
   310,
@@ -13887,8 +13812,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   500
  ],
  "lou-m-fp70": [
-  804,
-  685
+  804
  ],
  "lou-m-h5": [
   576,
@@ -13915,7 +13839,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   830,
   843,
   845,
-  849
+  847
  ],
  "lou-w-h9": [
   792,
@@ -13923,7 +13847,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   861,
   854,
   891,
-  1027
+  1031
  ],
  "lsu-m-n1": [
   607,
@@ -13936,7 +13860,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   536,
   533,
   525,
-  555
+  554
  ],
  "lsu-m-n2": [
   530,
@@ -13949,7 +13873,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   535,
   540,
   542,
-  626
+  624
  ],
  "lsu-m-p1": [
   552,
@@ -13962,7 +13886,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   643,
   674,
   683,
-  738
+  735
  ],
  "lsu-m-p2": [
   623,
@@ -13975,7 +13899,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   619,
   621,
   628,
-  594
+  600
  ],
  "lsu-p1": [
   527,
@@ -13988,7 +13912,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   528,
   531,
   521,
-  454
+  452
  ],
  "lsu-p5": [
   627,
@@ -14001,7 +13925,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   533,
   537,
   639,
-  626
+  588
  ],
  "lsu-p6": [
   199,
@@ -14014,7 +13938,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   172,
   177,
   163,
-  157
+  159
  ],
  "lsu-p8": [
   202,
@@ -14027,7 +13951,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   254,
   258,
   253,
-  245
+  249
  ],
  "lsu-w-h11": [
   693,
@@ -14041,7 +13965,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   654,
   609,
   609,
-  584
+  585
  ],
  "lsu-w-h3": [
   739,
@@ -14055,7 +13979,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   882,
   875,
   863,
-  850
+  857
  ],
  "lsu-w-n5": [
   722,
@@ -14068,12 +13992,12 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   654,
   660,
   660,
-  687
+  659
  ],
  "mem-m-h2": [
   824,
   818,
-  774
+  789
  ],
  "miami-m-n3": [
   891,
@@ -14094,7 +14018,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   599,
   608,
   585,
-  576
+  569
  ],
  "mich-m-h5": [
   382,
@@ -14107,7 +14031,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   394,
   401,
   414,
-  431
+  424
  ],
  "mich-m-h7": [
   703,
@@ -14118,7 +14042,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  ],
  "mich-w-h1": [
   900,
-  911
+  910
  ],
  "miss-m-h3": [
   774,
@@ -14131,7 +14055,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   758,
   742,
   654,
-  577
+  555
  ],
  "miss-m-n3": [
   647,
@@ -14153,7 +14077,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   836,
   846,
   854,
-  755
+  753
  ],
  "miss-w-h1": [
   814,
@@ -14166,7 +14090,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   632,
   583,
   583,
-  551
+  565
  ],
  "msst-m-h10": [
   865,
@@ -14183,7 +14107,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   786,
   766,
   745,
-  784
+  710
  ],
  "msst-m-h9": [
   375,
@@ -14208,7 +14132,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   589,
   586,
   596,
-  591
+  591,
+  580
  ],
  "msu-m-fp274": [
   708,
@@ -14219,7 +14144,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   486,
   433,
   422,
-  416
+  420
  ],
  "msu-m-fp445": [
   503,
@@ -14231,7 +14156,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   637,
   640,
   630,
-  809
+  809,
+  806
  ],
  "msu-w-h16": [
   680,
@@ -14244,7 +14170,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   688,
   689,
   691,
-  720
+  718
  ],
  "ncst-m-h11": [
   187,
@@ -14257,7 +14183,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   175,
   185,
   183,
-  179
+  176
  ],
  "ncst-m-h2": [
   810,
@@ -14270,7 +14196,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   722,
   726,
   698,
-  700
+  692
  ],
  "ncst-m-h3": [
   550,
@@ -14283,7 +14209,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   609,
   595,
   578,
-  597
+  592
  ],
  "ncst-m-h5": [
   604,
@@ -14296,7 +14222,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   521,
   529,
   442,
-  451
+  456
  ],
  "ncst-m-h7": [
   324,
@@ -14309,7 +14235,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   216,
   219,
   215,
-  202
+  206
  ],
  "ncst-m-n1": [
   750,
@@ -14327,7 +14253,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   475,
   458,
   420,
-  485
+  484
  ],
  "ncst-w-h11": [
   468,
@@ -14340,7 +14266,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   380,
   395,
   395,
-  365
+  367
  ],
  "ncst-w-h3": [
   455,
@@ -14353,7 +14279,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   440,
   434,
   382,
-  392
+  391
  ],
  "ncst-w-h5": [
   488,
@@ -14366,7 +14292,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   482,
   515,
   512,
-  527
+  536
  ],
  "ncst-w-h8": [
   16,
@@ -14379,7 +14305,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   17,
   14,
   16,
-  14
+  13
  ],
  "neb-m-h6": [
   853,
@@ -14392,7 +14318,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   831,
   844,
   846,
-  744
+  740
  ],
  "neb-m-h9": [
   521,
@@ -14405,7 +14331,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   490,
   498,
   493,
-  496
+  500
  ],
  "neb-w-h7": [
   745,
@@ -14418,7 +14344,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   728,
   725,
   798,
-  778
+  773
  ],
  "okst-m-h4": [
   328,
@@ -14431,14 +14357,14 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   320,
   325,
   326,
-  337
+  323
  ],
  "okst-m-h5": [
   898,
   872,
   750,
   689,
-  656
+  664
  ],
  "okst-m-h6": [
   678,
@@ -14451,7 +14377,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   641,
   650,
   640,
-  604
+  626
  ],
  "okst-w-h10": [
   166,
@@ -14464,7 +14390,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   109,
   105,
   97,
-  89
+  88
  ],
  "okst-w-h2": [
   733,
@@ -14477,7 +14403,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   693,
   694,
   685,
-  673
+  682
  ],
  "okst-w-h4": [
   781,
@@ -14490,7 +14416,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   773,
   765,
   763,
-  759
+  757
  ],
  "okst-w-h7": [
   479,
@@ -14503,7 +14429,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   412,
   407,
   407,
-  330
+  364
  ],
  "ore-m-h2": [
   746,
@@ -14516,7 +14442,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   759,
   767,
   746,
-  830
+  827
  ],
  "ore-m-h7": [
   468,
@@ -14529,7 +14455,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   471,
   483,
   456,
-  465
+  468
  ],
  "ore-w-h7": [
   860,
@@ -14550,7 +14476,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   865,
   847,
   807,
-  721
+  782
  ],
  "osu-m-h11": [
   685,
@@ -14560,7 +14486,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   282,
   285,
   248,
-  218
+  246
  ],
  "osu-m-h2": [
   363,
@@ -14573,7 +14499,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   391,
   398,
   395,
-  418
+  403
  ],
  "osu-m-h4": [
   432,
@@ -14586,7 +14512,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   426,
   430,
   464,
-  540
+  533
  ],
  "ou-m-h10": [
   313,
@@ -14599,7 +14525,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   361,
   367,
   367,
-  383
+  388
  ],
  "ou-m-n1": [
   849,
@@ -14612,7 +14538,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   822,
   709,
   714,
-  711
+  709
  ],
  "ou-m-n4": [
   379,
@@ -14624,7 +14550,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   313,
   311,
   313,
-  319
+  319,
+  320
  ],
  "ou-m-p1": [
   612,
@@ -14637,7 +14564,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   806,
   825,
   838,
-  762
+  759
  ],
  "ou-m-p5": [
   692,
@@ -14650,7 +14577,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   659,
   662,
   660,
-  831
+  829
  ],
  "ou-p4": [
   796,
@@ -14663,7 +14590,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   561,
   569,
   556,
-  547
+  550
  ],
  "ou-p5": [
   734,
@@ -14676,7 +14603,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   832,
   842,
   737,
-  742
+  743
  ],
  "ou-p7": [
   789,
@@ -14688,7 +14615,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   900,
   801,
   812,
-  799
+  792
  ],
  "ou-w-h13": [
   684,
@@ -14701,7 +14628,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   656,
   721,
   817,
-  845
+  851
  ],
  "ou-w-h3": [
   529,
@@ -14714,7 +14641,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   479,
   525,
   497,
-  484
+  483
  ],
  "ou-w-h7": [
   846,
@@ -14724,7 +14651,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   583,
   569,
   570,
-  555
+  556
  ],
  "ou-w-h9": [
   412,
@@ -14749,7 +14676,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   440,
   448,
   443,
-  467
+  466
  ],
  "ou-w-n3": [
   534,
@@ -14762,7 +14689,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   404,
   414,
   401,
-  407
+  408
  ],
  "penn-w-h1": [
   746,
@@ -14774,7 +14701,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   709,
   720,
   715,
-  715
+  715,
+  714
  ],
  "pepp-m-h1": [
   598,
@@ -14787,7 +14715,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   607,
   593,
   562,
-  583
+  567
  ],
  "pepp-m-h6": [
   456,
@@ -14800,7 +14728,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   480,
   468,
   472,
-  455
+  446
  ],
  "pepp-w-h4": [
   40,
@@ -14814,7 +14742,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   36,
   37,
   35,
-  46
+  51
  ],
  "pepp-w-h5": [
   297,
@@ -14827,7 +14755,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   308,
   339,
   300,
-  294
+  297
  ],
  "pepp-w-h7": [
   629,
@@ -14840,7 +14768,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   311,
   306,
   304,
-  299
+  300
  ],
  "pepp-w-p7": [
   759,
@@ -14851,7 +14779,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   735,
   738,
   450,
-  384
+  384,
+  382
  ],
  "port-m-h5": [
   414,
@@ -14864,7 +14793,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   421,
   426,
   420,
-  419
+  416
  ],
  "pur-w-h6": [
   803,
@@ -14876,7 +14805,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   659,
   564,
   533,
-  532
+  532,
+  529
  ],
  "pur-w-h7": [
   386,
@@ -14901,7 +14831,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   109,
   113,
   110,
-  98
+  95
  ],
  "sc-m-h5": [
   554,
@@ -14914,7 +14844,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   557,
   563,
   652,
-  728
+  706
  ],
  "sc-m-p1": [
   798,
@@ -14927,7 +14857,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   666,
   810,
   820,
-  767
+  764
  ],
  "sc-w-h2": [
   299,
@@ -14940,15 +14870,15 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   242,
   265,
   263,
-  289
+  284
  ],
  "sc-w-h3": [
   880,
-  917
+  916
  ],
  "sc-w-n2": [
   824,
-  812
+  813
  ],
  "scu-m-h2": [
   634,
@@ -14961,7 +14891,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   597,
   606,
   589,
-  632
+  607
  ],
  "smc-m-h1": [
   688,
@@ -14986,7 +14916,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   496,
   494,
   528,
-  712
+  636
  ],
  "stan-m-h16": [
   198,
@@ -14999,7 +14929,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   168,
   170,
   182,
-  208
+  214
  ],
  "stan-m-h4": [
   141,
@@ -15025,7 +14955,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   250,
   248,
   266,
-  241
+  219
  ],
  "stan-m-h8": [
   136,
@@ -15038,7 +14968,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   146,
   148,
   163,
-  167
+  151
  ],
  "tamu-m-h19": [
   20,
@@ -15051,7 +14981,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   18,
   19,
   23,
-  19
+  21
  ],
  "tamu-m-h20": [
   24,
@@ -15064,14 +14994,14 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   29,
   28,
   29,
-  31
+  32
  ],
  "tamu-m-h6": [
   895,
   884,
   883,
   891,
-  894
+  892
  ],
  "tamu-m-h7": [
   409,
@@ -15084,7 +15014,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   345,
   353,
   337,
-  294
+  295
  ],
  "tamu-m-n4": [
   445,
@@ -15097,7 +15027,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   469,
   460,
   448,
-  510
+  511
  ],
  "tamu-m-p3": [
   837,
@@ -15105,7 +15035,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   716,
   721,
   725,
-  704
+  698
  ],
  "tamu-m-p4": [
   771,
@@ -15128,7 +15058,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   892,
   892,
   855,
-  847
+  844
  ],
  "tamu-p3": [
   515,
@@ -15141,7 +15071,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   576,
   541,
   624,
-  651
+  652
  ],
  "tamu-p5": [
   380,
@@ -15166,7 +15096,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   701,
   709,
   838,
-  827
+  830
  ],
  "tamu-w-h5": [
   142,
@@ -15179,7 +15109,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   127,
   130,
   122,
-  114
+  116
  ],
  "tamu-w-h6": [
   343,
@@ -15197,7 +15127,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "tamu-w-n3": [
   895,
   889,
-  919
+  917
  ],
  "tamu-w-n8": [
   575,
@@ -15240,7 +15170,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   673,
   682,
   655,
-  642
+  657
  ],
  "tcu-m-h1": [
   145,
@@ -15253,7 +15183,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   110,
   107,
   100,
-  94
+  97
  ],
  "tcu-m-h11": [
   29,
@@ -15279,7 +15209,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   396,
   403,
   362,
-  394
+  401
  ],
  "tcu-m-h8": [
   132,
@@ -15293,7 +15223,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   172,
   177,
   165,
-  192
+  189
  ],
  "tcu-w-h2": [
   355,
@@ -15306,7 +15236,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   387,
   400,
   400,
-  441
+  440
  ],
  "tcu-w-h8": [
   787,
@@ -15319,7 +15249,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   785,
   830,
   826,
-  793
+  786
  ],
  "temple-m-n1": [
   488,
@@ -15332,7 +15262,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   548,
   547,
   555,
-  653
+  648
  ],
  "tenn-m-h10": [
   317,
@@ -15345,7 +15275,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   373,
   379,
   383,
-  399
+  404
  ],
  "tenn-m-h11": [
   882,
@@ -15364,7 +15294,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   97,
   98,
   93,
-  99
+  102
  ],
  "tenn-m-h5": [
   529,
@@ -15378,7 +15308,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   517,
   475,
   466,
-  459
+  450
  ],
  "tenn-m-h6": [
   536,
@@ -15391,7 +15321,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   652,
   648,
   556,
-  536
+  531
  ],
  "tenn-m-h7": [
   274,
@@ -15404,19 +15334,19 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   315,
   312,
   311,
-  297
+  298
  ],
  "tenn-m-n5": [
   696,
   697,
   705,
-  708
+  716
  ],
  "tenn-p5": [
   882,
   895,
   858,
-  929
+  927
  ],
  "tenn-p6": [
   250,
@@ -15442,11 +15372,11 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   465,
   470,
   468,
-  458
+  456
  ],
  "tenn-w-h4": [
   711,
-  592
+  622
  ],
  "tenn-w-h7": [
   870,
@@ -15459,7 +15389,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   740,
   656,
   665,
-  751
+  765
  ],
  "tenn-w-h9": [
   486,
@@ -15484,7 +15414,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   747,
   754,
   739,
-  768
+  750
  ],
  "tex-m-h11": [
   895,
@@ -15494,7 +15424,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   530,
   535,
   441,
-  410
+  444
  ],
  "tex-m-h6": [
   95,
@@ -15507,12 +15437,12 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   115,
   117,
   112,
-  123
+  122
  ],
  "tex-m-n1": [
   684,
   690,
-  668
+  666
  ],
  "tex-m-n2": [
   504,
@@ -15538,7 +15468,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   258,
   257,
   251,
-  174
+  171
  ],
  "tex-m-p7": [
   792,
@@ -15551,13 +15481,13 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   818,
   811,
   823,
-  781
+  776
  ],
  "tex-m-p8": [
   883,
   876,
   782,
-  444
+  484
  ],
  "tex-m-p9": [
   710,
@@ -15565,7 +15495,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   752,
   743,
   753,
-  747
+  744
  ],
  "tex-p1": [
   463,
@@ -15578,7 +15508,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   511,
   518,
   557,
-  580
+  562
  ],
  "tex-p4": [
   810,
@@ -15591,7 +15521,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   844,
   855,
   881,
-  903
+  899
  ],
  "tex-p5": [
   576,
@@ -15615,7 +15545,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   836,
   848,
   845,
-  830
+  834
  ],
  "tex-p9": [
   892,
@@ -15626,7 +15556,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   852,
   862,
   804,
-  796
+  789
  ],
  "tex-w-h12": [
   62,
@@ -15639,7 +15569,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   57,
   53,
   54,
-  36
+  60
  ],
  "tex-w-h5": [
   429,
@@ -15652,7 +15582,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   336,
   335,
   346,
-  305
+  333
  ],
  "tex-w-n1": [
   710,
@@ -15665,7 +15595,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   767,
   735,
   733,
-  707
+  708
  ],
  "tex-w-n2": [
   549,
@@ -15678,7 +15608,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   545,
   549,
   621,
-  601
+  595
  ],
  "ttu-m-h1": [
   433,
@@ -15691,7 +15621,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   407,
   415,
   409,
-  402
+  407
  ],
  "ttu-m-h2": [
   744,
@@ -15704,7 +15634,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   733,
   724,
   700,
-  705
+  685
  ],
  "ucf-m-fp42": [
   510,
@@ -15729,7 +15659,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   622,
   631,
   619,
-  618
+  614
  ],
  "ucf-w-h5": [
   734,
@@ -15742,7 +15672,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   708,
   710,
   708,
-  766
+  724
  ],
  "uci-m-h7": [
   878,
@@ -15754,8 +15684,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   787,
   783,
   789,
-  762,
-  765
+  762
  ],
  "ucla-m-h13": [
   88,
@@ -15768,7 +15697,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   81,
   83,
   77,
-  85
+  84
  ],
  "ucla-m-h14": [
   125,
@@ -15781,7 +15710,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   144,
   144,
   146,
-  156
+  145
  ],
  "ucla-m-h15": [
   252,
@@ -15794,7 +15723,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   195,
   198,
   193,
-  194
+  192
  ],
  "ucla-m-h5": [
   395,
@@ -15808,7 +15737,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   408,
   413,
   411,
-  514
+  539
  ],
  "ucla-m-h7": [
   756,
@@ -15828,7 +15757,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   542,
   548,
   600,
-  596
+  582
  ],
  "ucla-w-h3": [
   624,
@@ -15840,7 +15769,8 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   614,
   616,
   607,
-  608
+  608,
+  613
  ],
  "ucla-w-h6": [
   245,
@@ -15853,7 +15783,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   254,
   257,
   256,
-  260
+  254
  ],
  "ucla-w-h8": [
   380,
@@ -15878,7 +15808,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   373,
   449,
   450,
-  490
+  488
  ],
  "uga-m-h1": [
   659,
@@ -15891,7 +15821,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   664,
   655,
   647,
-  636
+  644
  ],
  "uga-m-h10": [
   67,
@@ -15917,7 +15847,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   334,
   345,
   347,
-  398
+  371
  ],
  "uga-m-h16": [
   593,
@@ -15930,7 +15860,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   646,
   658,
   718,
-  707
+  697
  ],
  "uga-m-h5": [
   250,
@@ -15943,7 +15873,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   298,
   299,
   272,
-  268
+  264
  ],
  "uga-m-p1": [
   595,
@@ -15956,7 +15886,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   808,
   829,
   842,
-  820
+  818
  ],
  "uga-p2": [
   885,
@@ -15967,7 +15897,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   797,
   805,
   799,
-  786
+  780
  ],
  "uga-p3": [
   898,
@@ -15984,7 +15914,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   279,
   288,
   283,
-  276
+  282
  ],
  "uga-w-h2": [
   585,
@@ -15997,7 +15927,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   709,
   758,
   851,
-  841
+  845
  ],
  "uga-w-h6": [
   351,
@@ -16035,7 +15965,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   668,
   579,
   567,
-  566
+  569
  ],
  "uga-w-n5": [
   457,
@@ -16060,7 +15990,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   209,
   216,
   217,
-  209
+  205
  ],
  "uk-m-h10": [
   571,
@@ -16073,7 +16003,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   670,
   618,
   608,
-  549
+  599
  ],
  "uk-m-h12": [
   54,
@@ -16086,7 +16016,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   108,
   105,
   114,
-  122
+  125
  ],
  "uk-m-h14": [
   444,
@@ -16099,7 +16029,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   451,
   460,
   450,
-  453
+  445
  ],
  "uk-m-h15": [
   507,
@@ -16112,7 +16042,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   545,
   551,
   565,
-  574
+  566
  ],
  "uk-m-ita-p5": [
   291,
@@ -16125,7 +16055,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   349,
   351,
   341,
-  391
+  374
  ],
  "uk-m-p2": [
   573,
@@ -16153,7 +16083,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   489,
   497,
   492,
-  413
+  481
  ],
  "unc-m-h8": [
   505,
@@ -16166,7 +16096,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   482,
   491,
   452,
-  460
+  457
  ],
  "unc-m-h9": [
   748,
@@ -16179,7 +16109,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   650,
   659,
   673,
-  606
+  672
  ],
  "unc-w-h2": [
   204,
@@ -16192,7 +16122,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   253,
   266,
   264,
-  227
+  258
  ],
  "unc-w-h8": [
   618,
@@ -16205,7 +16135,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   622,
   611,
   606,
-  550
+  583
  ],
  "unc-w-n1": [
   730,
@@ -16218,7 +16148,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   719,
   730,
   685,
-  674
+  684
  ],
  "usc-m-h10": [
   694,
@@ -16231,7 +16161,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   701,
   692,
   810,
-  804
+  807
  ],
  "usc-m-h13": [
   59,
@@ -16256,7 +16186,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   546,
   553,
   505,
-  544
+  517
  ],
  "usc-m-h8": [
   19,
@@ -16282,7 +16212,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   586,
   597,
   611,
-  503
+  504
  ],
  "usc-w-h12": [
   423,
@@ -16295,7 +16225,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   372,
   344,
   348,
-  368
+  354
  ],
  "usc-w-h2": [
   324,
@@ -16321,7 +16251,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   224,
   226,
   244,
-  242
+  241
  ],
  "usd-m-p8": [
   342,
@@ -16334,7 +16264,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   436,
   380,
   329,
-  301
+  302
  ],
  "usd-w-h6": [
   730,
@@ -16353,11 +16283,12 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   900,
   892,
   887,
-  876
+  870
  ],
  "usf-m-h4": [
   859,
-  849
+  849,
+  899
  ],
  "utah-w-h2": [
   839,
@@ -16370,7 +16301,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   854,
   852,
   849,
-  902
+  898
  ],
  "utah-w-h8": [
   782,
@@ -16383,7 +16314,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   721,
   720,
   720,
-  569
+  608
  ],
  "uva-m-h12": [
   23,
@@ -16422,7 +16353,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   269,
   275,
   280,
-  226
+  222
  ],
  "uva-m-h5": [
   177,
@@ -16435,7 +16366,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   150,
   153,
   151,
-  149
+  150
  ],
  "uva-m-h6": [
   854,
@@ -16453,7 +16384,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   434,
   437,
   442,
-  409
+  413
  ],
  "uva-m-p5": [
   867,
@@ -16463,14 +16394,14 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   832,
   824,
   837,
-  860
+  858
  ],
  "uva-m-p8": [
   900,
   831,
   582,
   591,
-  585
+  578
  ],
  "uva-m-p9": [
   712,
@@ -16483,7 +16414,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   754,
   752,
   758,
-  769
+  766
  ],
  "uva-w-h3": [
   308,
@@ -16496,7 +16427,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   312,
   308,
   306,
-  351
+  337
  ],
  "uva-w-h6": [
   490,
@@ -16509,7 +16440,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   484,
   477,
   476,
-  419
+  451
  ],
  "uva-w-h8": [
   25,
@@ -16522,7 +16453,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   28,
   28,
   27,
-  23
+  24
  ],
  "van-m-p5": [
   711,
@@ -16548,7 +16479,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   841,
   837,
   851,
-  845
+  842
  ],
  "van-w-h3": [
   845,
@@ -16561,7 +16492,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   831,
   745,
   869,
-  858
+  863
  ],
  "vt-m-h5": [
   743,
@@ -16585,7 +16516,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   393,
   400,
   394,
-  359
+  367
  ],
  "wake-m-h1": [
   675,
@@ -16598,7 +16529,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   657,
   666,
   649,
-  543
+  653
  ],
  "wake-m-h15": [
   265,
@@ -16611,7 +16542,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   275,
   279,
   305,
-  302
+  303
  ],
  "wake-m-h17": [
   356,
@@ -16624,7 +16555,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   382,
   391,
   418,
-  427
+  440
  ],
  "wake-m-h24": [
   178,
@@ -16637,7 +16568,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   163,
   161,
   162,
-  150
+  156
  ],
  "wake-m-h3": [
   627,
@@ -16648,8 +16579,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   772,
   780,
   803,
-  811,
-  864
+  811
  ],
  "wake-m-p4": [
   877,
@@ -16666,7 +16596,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   202,
   205,
   185,
-  177
+  191
  ],
  "wash-m-h7": [
   590,
@@ -16679,7 +16609,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   505,
   510,
   506,
-  470
+  490
  ],
  "wash-w-h7": [
   517,
@@ -16692,7 +16622,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   473,
   466,
   456,
-  466
+  468
  ],
  "wich-m-fp92": [
   348,
@@ -16705,7 +16635,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   349,
   356,
   354,
-  372
+  412
  ],
  "wisc-w-h9": [
   607,
@@ -16718,13 +16648,13 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   655,
   654,
   650,
-  625
+  629
  ],
  "wsu-w-h4": [
   891,
   884,
   882,
-  866
+  826
  ],
  "wsu-w-h7": [
   881,
@@ -16736,7 +16666,7 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   886,
   893,
   873,
-  798
+  791
  ],
  "yale-m-fp149": [
   770,
@@ -16744,394 +16674,379 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   759
  ],
  "uga-p5": [
-  1017
+  1022
  ],
  "uga-p10": [
-  744
+  745
  ],
  "ou-p2": [
-  1055
+  1088
  ],
  "ala-p1": [
-  946
+  949
  ],
  "ala-p10": [
-  901
+  897
  ],
  "fla-p4": [
-  1180
+  1177
  ],
  "fla-p8": [
-  979
+  988
  ],
  "msst-p2": [
-  1473
+  1469
  ],
  "miss-p4": [
-  1381
+  1383
  ],
  "miss-p7": [
   1503
  ],
  "tenn-p1": [
-  1334
+  1336
  ],
  "tenn-p3": [
-  1073
+  1051
  ],
  "tex-p6": [
-  1227
+  1232
  ],
  "tex-p7": [
-  974
+  982
  ],
  "tex-p10": [
-  1381
+  1383
  ],
  "aub-p7": [
-  1003
+  1010
  ],
  "aub-p8": [
-  1296
+  1302
  ],
  "aub-p11": [
-  1056
+  1068
  ],
  "tamu-p6": [
-  1252
+  1260
  ],
  "tamu-p8": [
-  928
+  926
  ],
  "tamu-p9": [
-  1460
+  1458
  ],
  "uk-p5": [
-  1222
+  1226
  ],
  "sc-p4": [
-  943
+  945
  ],
  "uva-w-p1": [
-  1120
+  1125
  ],
  "uva-w-p5": [
-  680
+  623
  ],
  "uva-w-p9": [
-  1143
+  1147
  ],
  "uva-w-p11": [
-  1040
+  1049
  ],
  "duke-w-p2": [
-  480
+  479
  ],
  "duke-w-p6": [
-  813
+  814
  ],
  "nd-w-p1": [
-  1151
+  1156
  ],
  "ncst-w-p6": [
-  1090
+  1104
  ],
  "ncst-w-p7": [
-  889
+  888
  ],
  "ncst-w-p9": [
-  940
+  942
  ],
  "stan-w-p3": [
-  941
+  943
  ],
  "stan-w-p4": [
-  851
+  858
  ],
  "stan-w-p7": [
-  582
+  584
  ],
  "unc-w-p2": [
-  385
+  390
  ],
  "unc-w-p3": [
-  696
+  699
  ],
  "unc-w-p4": [
-  852
+  859
  ],
  "unc-w-p9": [
-  1377
+  1379
  ],
  "smu-w-p3": [
-  324
+  308
  ],
  "smu-w-p5": [
-  1042
+  1053
  ],
  "smu-w-p9": [
   871
  ],
  "cal-w-p4": [
-  1178
+  1175
  ],
  "cal-w-p6": [
-  1344
+  1348
  ],
  "cal-w-p8": [
-  717
+  715
  ],
  "clem-w-p3": [
-  1328
+  1327
  ],
  "miss-w-ita-p3": [
-  1312
- ],
- "usc-w-fp72": [
-  1056
+  1114
  ],
  "pepp-w-fp121": [
-  932
+  931
  ],
  "hou-w-fp130": [
-  1353
+  1358
  ],
  "miami-w-fp320": [
-  1082
+  1092
  ],
  "aub-w-n1": [
-  761
+  759
  ],
  "clem-w-n2": [
-  1381
+  1383
  ],
  "colum-w-n3": [
-  1278
- ],
- "colum-w-n7": [
-  1278
- ],
- "fla-w-n4": [
-  711
+  1285
  ],
  "harv-w-n3": [
-  1084
+  1093
  ],
  "lsu-w-n2": [
-  1229
+  1234
  ],
  "lsu-w-n3": [
-  1187
+  1185
  ],
  "lsu-w-n4": [
-  1213
- ],
- "lsu-w-n7": [
-  1213
+  1218
  ],
  "miami-w-n3": [
-  1331
+  1333
  ],
  "mich-w-n1": [
-  1127
+  1132
  ],
  "minn-w-n2": [
-  1473
+  1469
  ],
  "miz-w-n1": [
-  1464
+  1184
  ],
  "miz-w-n5": [
-  1146
+  1152
  ],
  "miz-w-n4": [
-  1163
+  1166
  ],
  "sc-w-n3": [
-  1000
+  1006
  ],
  "tamu-w-n1": [
-  1413
+  1414
  ],
  "tamu-w-n2": [
-  668
+  675
  ],
  "tamu-w-n4": [
-  1230
+  1235
  ],
  "tamu-w-n5": [
   1411
  ],
  "tamu-w-n6": [
-  1238
+  1242
  ],
  "tenn-w-n2": [
-  1214
+  1219
  ],
  "ttu-w-n2": [
-  1371
+  1374
  ],
  "tulsa-w-n5": [
-  669
- ],
- "ucsb-w-n1": [
-  1120
+  673
  ],
  "uga-w-n1": [
-  553
+  554
  ],
  "uga-w-n2": [
-  1008
+  1013
  ],
  "uga-w-n4": [
-  1048
- ],
- "uga-w-n6": [
-  553
- ],
- "uga-w-n7": [
-  1008
+  1060
  ],
  "wvu-w-n2": [
-  1061
+  1073
  ],
  "ariz-w-p4": [
-  1464
+  1462
  ],
  "asu-w-p2": [
-  1312
+  1316
  ],
  "asu-w-p5": [
-  1413
+  1414
  ],
  "byu-w-p4": [
-  1047
+  1043
  ],
  "clt-w-p3": [
-  1353
+  1327
  ],
  "fau-w-p2": [
   1321
  ],
  "fau-w-p6": [
-  1473
+  1469
  ],
  "hou-w-p2": [
-  1413
+  1414
  ],
  "isu-w-p10": [
   1496
  ],
  "lmu-w-p2": [
-  1312
+  1316
  ],
  "mich-w-p3": [
-  834
+  839
  ],
  "okst-w-p1": [
-  698
+  700
  ],
  "okst-w-p2": [
-  1444
+  1441
  ],
  "okst-w-p6": [
-  1098
+  1110
  ],
  "ore-w-p2": [
-  1473
+  1469
  ],
  "osu-w-p3": [
-  695
+  698
  ],
  "osu-w-p6": [
-  1413
+  1414
  ],
  "osu-w-p9": [
-  1060
+  1070
  ],
  "pepp-w-p1": [
-  1002
+  1009
  ],
  "pepp-w-p5": [
-  795
+  788
+ ],
+ "prin-w-p4": [
+  1319
  ],
  "rice-w-p4": [
-  1473
+  1469
  ],
  "tcu-w-p1": [
-  1413
+  1414
  ],
  "tcu-w-p5": [
-  1438
+  1434
  ],
  "tcu-w-p6": [
-  1132
+  1139
  ],
  "temple-w-p6": [
-  489
+  487
  ],
  "uab-w-p7": [
-  1305
+  1309
  ],
  "ucf-w-p9": [
-  1151
+  1156
  ],
  "ucla-w-p3": [
-  586
+  587
  ],
  "ucla-w-p7": [
-  741
+  742
  ],
  "ucla-w-p9": [
-  900
+  896
  ],
  "ucsb-w-p9": [
-  1334
+  1336
  ],
  "umd-w-p5": [
-  942
+  944
  ],
  "usc-w-p7": [
-  874
+  875
  ],
  "wash-w-p3": [
-  1373
+  1376
  ],
  "wisc-w-p7": [
-  846
+  852
+ ],
+ "wisc-w-p8": [
+  1503
  ],
  "wsu-w-p8": [
-  1130
+  1138
  ],
  "colo-w-h1": [
-  918
+  905
  ],
  "duke-w-h6": [
-  931
+  930
  ],
  "fsu-w-h7": [
   1503
  ],
  "ore-w-h5": [
-  679
+  687
  ],
  "osu-w-h3": [
-  1109
+  1117
  ],
  "rice-w-h2": [
-  790
+  929
  ],
  "sc-w-h1": [
-  1464
+  1462
  ],
  "tenn-w-h10": [
-  1438
+  1434
  ],
  "tex-w-h13": [
-  964
+  970
  ],
  "usd-w-h1": [
-  982
+  992
  ],
  "van-m-p2": [
   1540
@@ -17577,9 +17492,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "aub-m-n4": [
   1297
  ],
- "byu-m-n1": [
-  2162
- ],
  "colum-m-n4": [
   1128
  ],
@@ -17639,9 +17551,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  ],
  "nw-m-n2": [
   2087
- ],
- "ore-m-n3": [
-  1923
  ],
  "ou-m-n2": [
   1211

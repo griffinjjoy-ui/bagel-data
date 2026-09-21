@@ -29,11 +29,5 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "name": "Florida Bedford Cup",
     "start": "2026-09-25",
     "end": "2026-09-27"
-  },
-  {
-    "id": "6ab190a6e3ae706de9cf9513",
-    "name": "2026 ITA JUCO Women's Southeast Regional Championships",
-    "start": "2026-09-25",
-    "end": "2026-09-27"
   }
 ];

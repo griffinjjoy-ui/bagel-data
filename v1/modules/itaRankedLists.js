@@ -3101,7 +3101,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "teamId": "uga-w",
      "pids": [
       "uga-p3",
-      "uga-w-n6"
+      "uga-w-n1"
      ]
     },
     {
@@ -3647,7 +3647,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "teamId": "sc-w",
      "pids": [
       "sc-p4",
-      "sc-w-n4"
+      null
      ]
     },
     {
@@ -3789,7 +3789,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "school": "University Of Florida",
      "teamId": "fla-w",
      "pids": [
-      "fla-w-n4",
+      "fla-w-n3",
       "fla-w-n2"
      ]
     },
@@ -3946,7 +3946,7 @@ export const itaRankedLists = globalThis.__BAGEL_REMOTE__?.["itaRankedLists"]?.i
      "teamId": "colum-w",
      "pids": [
       "colum-w-n4",
-      "colum-w-n7"
+      "colum-w-n3"
      ]
     },
     {
