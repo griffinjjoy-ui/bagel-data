@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-21T16:37:00.465Z",
+  "fetchedAt": "2026-09-21T16:48:57.637Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -17250,7 +17250,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-21T16:37:03.332Z",
+  "fetchedAt": "2026-09-21T16:49:01.070Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -33253,9 +33253,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-7(6) 4-6",
+            "winningSide": 2,
             "when": "2026-09-21T10:15",
             "venue": "CTP",
             "sides": [
@@ -33383,8 +33383,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
+            "status": "TO_BE_PLAYED",
+            "score": "",
             "winningSide": null,
             "when": "2026-09-21T10:15",
             "venue": "CTP",
@@ -34070,7 +34070,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Patricija Paukstyte",
+              "abbr": "UGA",
+              "school": "University Of Georgia",
+              "pid": "uga-p9",
+              "wtn": 15.04,
+              "seed": null
+             },
              {
               "name": "lucie urbanova",
               "abbr": "WISC",
@@ -34652,9 +34659,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 19,
-          "bye": true,
-          "seed": null,
-          "name": null
+          "bye": false,
+          "seed": 18,
+          "name": "Addison Lanton",
+          "school": "Louisiana State University",
+          "abbr": "LSU",
+          "pid": "lsu-p4",
+          "wtn": 14.66
          },
          {
           "pos": 20,
@@ -34917,7 +34928,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Addison Lanton",
+              "abbr": "LSU",
+              "school": "Louisiana State University",
+              "pid": "lsu-p4",
+              "wtn": 14.66,
+              "seed": 18
+             },
              {
               "name": "Shannon Lam",
               "abbr": "UVA",
@@ -35192,7 +35210,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -35216,7 +35234,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,
