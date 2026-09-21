@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-21T22:07:56.641Z",
+  "fetchedAt": "2026-09-21T22:26:51.882Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -11966,9 +11966,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-3 3-6 4-6",
+            "winningSide": 2,
             "when": "2026-09-21T13:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -12609,7 +12609,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 6.52,
               "seed": null
              },
-             null
+             {
+              "name": "Noa Vukadin",
+              "abbr": null,
+              "school": "Clemson University",
+              "pid": "clem-m-p7",
+              "wtn": 5.8,
+              "seed": 25
+             }
             ]
            },
            {
@@ -13159,9 +13166,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 16,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Landon Ardila",
+          "school": "Princeton University",
+          "abbr": null,
+          "pid": "prin-m-p1",
+          "wtn": 6.28
          },
          {
           "pos": 17,
@@ -13514,7 +13525,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 6.12,
               "seed": 8
              },
-             null
+             {
+              "name": "Landon Ardila",
+              "abbr": null,
+              "school": "Princeton University",
+              "pid": "prin-m-p1",
+              "wtn": 6.28,
+              "seed": null
+             }
             ]
            },
            {
@@ -17332,9 +17350,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-7(1) 2-6",
+            "winningSide": 2,
             "when": "2026-09-21T15:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -17599,7 +17617,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Guglieri/Arsic",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
              null
             ]
            },
@@ -17768,7 +17793,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-21T22:07:59.061Z",
+  "fetchedAt": "2026-09-21T22:26:54.696Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
