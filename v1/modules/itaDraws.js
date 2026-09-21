@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-21T17:49:10.759Z",
+  "fetchedAt": "2026-09-21T18:01:11.547Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -17466,7 +17466,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-21T17:49:13.787Z",
+  "fetchedAt": "2026-09-21T18:01:14.928Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -33703,9 +33703,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-5 3-6 6-7(5)",
+            "winningSide": 2,
             "when": "2026-09-21T10:30",
             "venue": "CTP",
             "sides": [
@@ -34391,7 +34391,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 15.36,
               "seed": 22
              },
-             null
+             {
+              "name": "Gloriana Nahum",
+              "abbr": "OKLA",
+              "school": "University Of Oklahoma",
+              "pid": "ou-p6",
+              "wtn": 13.69,
+              "seed": 7
+             }
             ]
            },
            {
@@ -35003,9 +35010,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 28,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Sofiia Mykhailets",
+          "school": "Texas Christian University",
+          "abbr": "TCU",
+          "pid": "tcu-w-p7",
+          "wtn": 14.02
          },
          {
           "pos": 29,
@@ -35315,7 +35326,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 14.02,
               "seed": null
              },
-             null
+             {
+              "name": "Sofiia Mykhailets",
+              "abbr": "TCU",
+              "school": "Texas Christian University",
+              "pid": "tcu-w-p7",
+              "wtn": 14.02,
+              "seed": null
+             }
             ]
            },
            {
@@ -35582,7 +35600,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,
