@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-21T00:12:39.302Z",
+  "fetchedAt": "2026-09-21T00:26:36.117Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -12410,13 +12410,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-21T00:12:42.504Z",
+  "fetchedAt": "2026-09-21T00:26:39.619Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
     "name": "Women's open doubles",
     "type": "doubles",
-    "fieldSize": 506,
+    "fieldSize": 528,
     "draws": [
      {
       "drawName": "Pre Qualifying Draw",
@@ -14280,7 +14280,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 2,
           "bye": false,
           "seed": null,
-          "name": "Qualifier/Qualifier",
+          "name": "jessup/ferlito",
           "school": null,
           "abbr": null,
           "pid": null,
@@ -14370,7 +14370,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 11,
           "bye": false,
           "seed": null,
-          "name": "Qualifier/Qualifier",
+          "name": "black/daubnerova",
           "school": null,
           "abbr": null,
           "pid": null,
@@ -14400,7 +14400,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 14,
           "bye": false,
           "seed": null,
-          "name": "Qualifier/Qualifier",
+          "name": "bush/xi",
           "school": null,
           "abbr": null,
           "pid": null,
@@ -14480,7 +14480,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 22,
           "bye": false,
           "seed": null,
-          "name": "Qualifier/Qualifier",
+          "name": "oboniye/pitta",
           "school": null,
           "abbr": null,
           "pid": null,
@@ -14490,7 +14490,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 23,
           "bye": false,
           "seed": null,
-          "name": "Qualifier/Qualifier",
+          "name": "mushika/xu",
           "school": null,
           "abbr": null,
           "pid": null,
@@ -14520,7 +14520,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 26,
           "bye": false,
           "seed": null,
-          "name": "Qualifier/Qualifier",
+          "name": "krebs hyllested/read",
           "school": null,
           "abbr": null,
           "pid": null,
@@ -14530,7 +14530,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 27,
           "bye": false,
           "seed": null,
-          "name": "Qualifier/Qualifier",
+          "name": "Payne/paukstyte",
           "school": null,
           "abbr": null,
           "pid": null,
@@ -14560,7 +14560,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 30,
           "bye": false,
           "seed": null,
-          "name": "Qualifier/Qualifier",
+          "name": "reding/bergeron",
           "school": null,
           "abbr": null,
           "pid": null,
@@ -14608,7 +14608,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "seed": 1
              },
              {
-              "name": "Qualifier/Qualifier",
+              "name": "jessup/ferlito",
               "abbr": null,
               "school": null,
               "pid": null,
@@ -14730,7 +14730,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "CTP",
             "sides": [
              {
-              "name": "Qualifier/Qualifier",
+              "name": "black/daubnerova",
               "abbr": null,
               "school": null,
               "pid": null,
@@ -14764,7 +14764,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "seed": 4
              },
              {
-              "name": "Qualifier/Qualifier",
+              "name": "bush/xi",
               "abbr": null,
               "school": null,
               "pid": null,
@@ -14868,7 +14868,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "seed": 6
              },
              {
-              "name": "Qualifier/Qualifier",
+              "name": "oboniye/pitta",
               "abbr": null,
               "school": null,
               "pid": null,
@@ -14886,7 +14886,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "CTP",
             "sides": [
              {
-              "name": "Qualifier/Qualifier",
+              "name": "mushika/xu",
               "abbr": null,
               "school": null,
               "pid": null,
@@ -14920,7 +14920,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "seed": 7
              },
              {
-              "name": "Qualifier/Qualifier",
+              "name": "krebs hyllested/read",
               "abbr": null,
               "school": null,
               "pid": null,
@@ -14938,7 +14938,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "CTP",
             "sides": [
              {
-              "name": "Qualifier/Qualifier",
+              "name": "Payne/paukstyte",
               "abbr": null,
               "school": null,
               "pid": null,
@@ -14972,7 +14972,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "seed": 8
              },
              {
-              "name": "Qualifier/Qualifier",
+              "name": "reding/bergeron",
               "abbr": null,
               "school": null,
               "pid": null,
@@ -15672,7 +15672,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
     "eventId": "E7DFA31E-6393-4B00-96A0-0C04B28B95FC",
     "name": "Women's open singles",
     "type": "singles",
-    "fieldSize": 506,
+    "fieldSize": 528,
     "draws": [
      {
       "drawName": "Pre Qualifying Draw",
