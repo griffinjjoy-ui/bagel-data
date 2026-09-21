@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-21T18:25:22.282Z",
+  "fetchedAt": "2026-09-21T18:27:44.213Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -17466,7 +17466,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-21T18:25:25.642Z",
+  "fetchedAt": "2026-09-21T18:27:47.696Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -33963,9 +33963,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "1-6 2-6",
+            "winningSide": 2,
             "when": "2026-09-21T13:00",
             "venue": "CTP",
             "sides": [
@@ -34507,7 +34507,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": null,
               "seed": 27
              },
-             null
+             {
+              "name": "Nicole Khirin",
+              "abbr": "UNC",
+              "school": "UNC Chapel Hill",
+              "pid": "unc-w-n3",
+              "wtn": 12.4,
+              "seed": 12
+             }
             ]
            },
            {
@@ -35116,9 +35123,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 38,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "amina salibayeva",
+          "school": "University Of Alabama",
+          "abbr": "ALAB",
+          "pid": "ala-p7",
+          "wtn": null
          },
          {
           "pos": 39,
@@ -35464,7 +35475,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 13.98,
               "seed": null
              },
-             null
+             {
+              "name": "amina salibayeva",
+              "abbr": "ALAB",
+              "school": "University Of Alabama",
+              "pid": "ala-p7",
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -35696,7 +35714,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,
