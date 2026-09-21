@@ -44,6 +44,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-20"
  },
  {
+  "playerId": "lsu-m-h12",
+  "name": "Aleksi Lofman",
+  "teamId": "lsu-m",
+  "teamName": "LSU",
+  "gender": "men",
+  "event": "San Diego 2 Challenger",
+  "round": "Q1",
+  "won": false,
+  "opponent": "Evan Zhu",
+  "result": "6-1 7-5",
+  "date": "2026-09-20"
+ },
+ {
   "playerId": "scu-m-p9",
   "name": "Alexander Watanabe Eriksson",
   "teamId": "scu-m",
@@ -603,6 +616,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-20"
  },
  {
+  "playerId": "tex-m-p8",
+  "name": "Sebastian Gorzny",
+  "teamId": "tex-m",
+  "teamName": "Texas",
+  "gender": "men",
+  "event": "San Diego 2 Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Andrew Johnson",
+  "result": "7-5 6-0",
+  "date": "2026-09-20"
+ },
+ {
   "playerId": "tenn-m-h6",
   "name": "Shunsuke Mitsui",
   "teamId": "tenn-m",
@@ -652,6 +678,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Pedro Rodrigues Longobardi",
   "result": "6-3 4-6 11-9",
+  "date": "2026-09-20"
+ },
+ {
+  "playerId": "tex-m-h11",
+  "name": "Timo Legout",
+  "teamId": "tex-m",
+  "teamName": "Texas",
+  "gender": "men",
+  "event": "San Diego 2 Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Darian King",
+  "result": "6-2 6-0",
   "date": "2026-09-20"
  },
  {
@@ -1058,19 +1097,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-18"
  },
  {
-  "playerId": "tex-m-p8",
-  "name": "Sebastian Gorzny",
-  "teamId": "tex-m",
-  "teamName": "Texas",
-  "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "1/4",
-  "won": false,
-  "opponent": "Jeff Wolf",
-  "result": "7-6(5) 1-6 7-5",
-  "date": "2026-09-18"
- },
- {
   "playerId": "ncst-w-h3",
   "name": "Amelia Rajecki",
   "teamId": "ncst-w",
@@ -1211,19 +1237,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Mitchell Krueger",
   "result": "4-6 6-1 7-6(3)",
-  "date": "2026-09-17"
- },
- {
-  "playerId": "tex-m-h11",
-  "name": "Timo Legout",
-  "teamId": "tex-m",
-  "teamName": "Texas",
-  "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "Second",
-  "won": false,
-  "opponent": "Bryce Nakashima",
-  "result": "7-6(6) 6-2",
   "date": "2026-09-17"
  },
  {
@@ -7716,12 +7729,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "lsu-m",
   "teamName": "LSU",
   "gender": "men",
-  "event": "M15 Vaasa",
-  "round": "First",
+  "event": "San Diego 2 Challenger",
+  "round": "Q1",
   "won": false,
-  "opponent": "Matt Ponchet",
-  "result": "6-1 6-2",
-  "date": "2026-06-10"
+  "opponent": "Evan Zhu",
+  "result": "6-1 7-5",
+  "date": "2026-09-20"
  },
  "lsu-m-n1": {
   "playerId": "lsu-m-n1",
@@ -14294,12 +14307,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "tex-m",
   "teamName": "Texas",
   "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "Second",
-  "won": false,
-  "opponent": "Bryce Nakashima",
-  "result": "7-6(6) 6-2",
-  "date": "2026-09-17"
+  "event": "San Diego 2 Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Darian King",
+  "result": "6-2 6-0",
+  "date": "2026-09-20"
  },
  "tex-m-h2": {
   "playerId": "tex-m-h2",
@@ -14502,12 +14515,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "tex-m",
   "teamName": "Texas",
   "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "1/4",
-  "won": false,
-  "opponent": "Jeff Wolf",
-  "result": "7-6(5) 1-6 7-5",
-  "date": "2026-09-18"
+  "event": "San Diego 2 Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Andrew Johnson",
+  "result": "7-5 6-0",
+  "date": "2026-09-20"
  },
  "tex-m-p9": {
   "playerId": "tex-m-p9",
