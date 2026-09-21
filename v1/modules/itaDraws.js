@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-21T15:53:48.838Z",
+  "fetchedAt": "2026-09-21T16:12:48.178Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -17250,7 +17250,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-21T15:53:51.822Z",
+  "fetchedAt": "2026-09-21T16:12:51.771Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -33513,9 +33513,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "2-6 7-6(4) 5-7",
+            "winningSide": 2,
             "when": "2026-09-21T09:00",
             "venue": "CTP",
             "sides": [
@@ -34158,7 +34158,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "ahmani guichard",
+              "abbr": "UCLA",
+              "school": "UCLA",
+              "pid": "ucla-w-p5",
+              "wtn": null,
+              "seed": null
+             },
              {
               "name": "Gianna Oboniye",
               "abbr": "MISSST",
@@ -34707,9 +34714,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 29,
-          "bye": true,
-          "seed": null,
-          "name": null
+          "bye": false,
+          "seed": 23,
+          "name": "Alice Ferlito",
+          "school": "Princeton University",
+          "abbr": "PRIN",
+          "pid": "prin-w-p4",
+          "wtn": 14.06
          },
          {
           "pos": 30,
@@ -34972,7 +34983,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Alice Ferlito",
+              "abbr": "PRIN",
+              "school": "Princeton University",
+              "pid": "prin-w-p4",
+              "wtn": 14.06,
+              "seed": 23
+             },
              {
               "name": "Peyton Capuano",
               "abbr": "DART",
@@ -35198,7 +35216,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,
