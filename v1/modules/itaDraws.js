@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-21T00:00:08.370Z",
+  "fetchedAt": "2026-09-21T00:10:24.637Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -6308,9 +6308,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "5-7 6-4 6-4",
+            "winningSide": 1,
             "when": "2026-09-20T13:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -6334,9 +6334,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-3 1-6 7-6(3)",
+            "winningSide": 1,
             "when": "2026-09-20T13:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -6924,8 +6924,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
-             null
+             {
+              "name": "Kyle McNally",
+              "abbr": null,
+              "school": "University Of Dayton",
+              "pid": null,
+              "wtn": 6.51,
+              "seed": null
+             },
+             {
+              "name": "Matthieu Chambonniere",
+              "abbr": null,
+              "school": "Texas Christian University",
+              "pid": "tcu-m-p2",
+              "wtn": 6.11,
+              "seed": 11
+             }
             ]
            },
            {
@@ -12396,7 +12410,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-21T00:00:11.693Z",
+  "fetchedAt": "2026-09-21T00:10:27.402Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
