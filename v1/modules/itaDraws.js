@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-21T16:24:51.913Z",
+  "fetchedAt": "2026-09-21T16:37:00.465Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -17250,13 +17250,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-21T16:24:55.534Z",
+  "fetchedAt": "2026-09-21T16:37:03.332Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
     "name": "Women's open doubles",
     "type": "doubles",
-    "fieldSize": 531,
+    "fieldSize": 532,
     "draws": [
      {
       "drawName": "Pre Qualifying Draw",
@@ -20512,7 +20512,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
     "eventId": "E7DFA31E-6393-4B00-96A0-0C04B28B95FC",
     "name": "Women's open singles",
     "type": "singles",
-    "fieldSize": 531,
+    "fieldSize": 532,
     "draws": [
      {
       "drawName": "Pre Qualifying Draw",
@@ -32928,11 +32928,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 38,
           "bye": false,
           "seed": null,
-          "name": "Jermine Sherif",
-          "school": "University Of Washington",
-          "abbr": "UW",
-          "pid": "wash-w-p7",
-          "wtn": 14.62
+          "name": "esha velaga",
+          "school": "Univ. Of Pennsylvania",
+          "abbr": "PENN",
+          "pid": "penn-w-p10",
+          "wtn": null
          },
          {
           "pos": 39,
@@ -33435,7 +33435,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-21T12:00",
@@ -33643,9 +33643,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 6-4",
+            "winningSide": 1,
             "when": "2026-09-21T11:00",
             "venue": "CTP",
             "sides": [
@@ -33669,7 +33669,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-21T12:00",
@@ -33684,11 +33684,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "seed": 26
              },
              {
-              "name": "Jermine Sherif",
-              "abbr": "UW",
-              "school": "University Of Washington",
-              "pid": "wash-w-p7",
-              "wtn": 14.62,
+              "name": "esha velaga",
+              "abbr": "PENN",
+              "school": "Univ. Of Pennsylvania",
+              "pid": "penn-w-p10",
+              "wtn": null,
               "seed": null
              }
             ]
@@ -33903,7 +33903,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-21T12:00",
@@ -34197,7 +34197,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "ava krug",
+              "abbr": "DUKE",
+              "school": "Duke University",
+              "pid": "duke-w-p5",
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -34759,9 +34766,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 34,
-          "bye": true,
-          "seed": null,
-          "name": null
+          "bye": false,
+          "seed": 10,
+          "name": "Zoie Epps",
+          "school": "University Of Oklahoma",
+          "abbr": "OKLA",
+          "pid": "ou-w-n1",
+          "wtn": 13.57
          },
          {
           "pos": 35,
@@ -35033,7 +35044,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Zoie Epps",
+              "abbr": "OKLA",
+              "school": "University Of Oklahoma",
+              "pid": "ou-w-n1",
+              "wtn": 13.57,
+              "seed": 10
+             }
             ]
            },
            {
