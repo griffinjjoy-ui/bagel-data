@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-21T14:53:38.707Z",
+  "fetchedAt": "2026-09-21T15:05:44.060Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -17250,7 +17250,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-21T14:53:41.676Z",
+  "fetchedAt": "2026-09-21T15:05:46.965Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -34007,9 +34007,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-6(0) 6-2",
+            "winningSide": 1,
             "when": "2026-09-21T09:00",
             "venue": "CTP",
             "sides": [
@@ -34274,7 +34274,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 13.09,
               "seed": 32
              },
-             null
+             {
+              "name": "bella payne",
+              "abbr": "UGA",
+              "school": "University Of Georgia",
+              "pid": "uga-w-n1",
+              "wtn": null,
+              "seed": null
+             }
             ]
            }
           ]
@@ -34797,9 +34804,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 48,
-          "bye": true,
-          "seed": null,
-          "name": null
+          "bye": false,
+          "seed": 17,
+          "name": "Alian Zack",
+          "school": "Baylor University",
+          "abbr": "BAY",
+          "pid": "bay-w-p8",
+          "wtn": 13.41
          }
         ],
         "rounds": [
@@ -35044,7 +35055,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 14.81,
               "seed": null
              },
-             null
+             {
+              "name": "Alian Zack",
+              "abbr": "BAY",
+              "school": "Baylor University",
+              "pid": "bay-w-p8",
+              "wtn": 13.41,
+              "seed": 17
+             }
             ]
            }
           ]
@@ -35234,7 +35252,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,
