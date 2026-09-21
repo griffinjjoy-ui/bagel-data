@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-21T00:10:24.637Z",
+  "fetchedAt": "2026-09-21T00:12:39.302Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -12410,13 +12410,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-21T00:10:27.402Z",
+  "fetchedAt": "2026-09-21T00:12:42.504Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
     "name": "Women's open doubles",
     "type": "doubles",
-    "fieldSize": 505,
+    "fieldSize": 506,
     "draws": [
      {
       "drawName": "Pre Qualifying Draw",
@@ -15672,7 +15672,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
     "eventId": "E7DFA31E-6393-4B00-96A0-0C04B28B95FC",
     "name": "Women's open singles",
     "type": "singles",
-    "fieldSize": 505,
+    "fieldSize": 506,
     "draws": [
      {
       "drawName": "Pre Qualifying Draw",

@@ -18,19 +18,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-20"
  },
  {
-  "playerId": "uk-m-h14",
-  "name": "Alafia Ayeni",
-  "teamId": "uk-m",
-  "teamName": "Kentucky",
-  "gender": "men",
-  "event": "San Diego 2 Challenger",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Li Tu",
-  "result": "6-3 7-6(7)",
-  "date": "2026-09-20"
- },
- {
   "playerId": "ncst-w-h1",
   "name": "Alana Smith",
   "teamId": "ncst-w",
@@ -187,19 +174,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-20"
  },
  {
-  "playerId": "lsu-m-n1",
-  "name": "Daniil Ostapenkov",
-  "teamId": "lsu-m",
-  "teamName": "LSU",
-  "gender": "men",
-  "event": "San Diego 2 Challenger",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Quinn Vandecasteele",
-  "result": "7-5 4-6 6-3",
-  "date": "2026-09-20"
- },
- {
   "playerId": "tenn-w-h7",
   "name": "Elza Tomase",
   "teamId": "tenn-w",
@@ -314,19 +288,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Iva Primorac",
   "result": "6-2 2-6 6-3",
-  "date": "2026-09-20"
- },
- {
-  "playerId": "tenn-m-p6",
-  "name": "Jan Kobierski",
-  "teamId": "tenn-m",
-  "teamName": "Tennessee",
-  "gender": "men",
-  "event": "San Diego 2 Challenger",
-  "round": "Q1",
-  "won": false,
-  "opponent": "Spencer Johnson",
-  "result": "7-6(3) 6-3",
   "date": "2026-09-20"
  },
  {
@@ -548,19 +509,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Mathys Erhard",
   "result": "4-6 7-5 7-6(9)",
-  "date": "2026-09-20"
- },
- {
-  "playerId": "ore-m-h7",
-  "name": "Quinn Vandecasteele",
-  "teamId": "ore-m",
-  "teamName": "Oregon",
-  "gender": "men",
-  "event": "San Diego 2 Challenger",
-  "round": "Q1",
-  "won": false,
-  "opponent": "Daniil Ostapenkov",
-  "result": "7-5 4-6 6-3",
   "date": "2026-09-20"
  },
  {
@@ -1695,6 +1643,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-14"
  },
  {
+  "playerId": "lsu-m-n1",
+  "name": "Daniil Ostapenkov",
+  "teamId": "lsu-m",
+  "teamName": "LSU",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "Q3",
+  "won": false,
+  "opponent": "Timo Legout",
+  "result": "6-3 6-4",
+  "date": "2026-09-14"
+ },
+ {
   "playerId": "tamu-m-h6",
   "name": "Giulio Perego",
   "teamId": "tamu-m",
@@ -1744,6 +1705,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Jeff Wolf",
   "result": "6-2 6-0",
+  "date": "2026-09-14"
+ },
+ {
+  "playerId": "ore-m-h7",
+  "name": "Quinn Vandecasteele",
+  "teamId": "ore-m",
+  "teamName": "Oregon",
+  "gender": "men",
+  "event": "Tiburon Challenger",
+  "round": "Q3",
+  "won": false,
+  "opponent": "Bryce Nakashima",
+  "result": "6-2 6-4",
   "date": "2026-09-14"
  },
  {
@@ -7729,12 +7703,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "lsu-m",
   "teamName": "LSU",
   "gender": "men",
-  "event": "San Diego 2 Challenger",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Quinn Vandecasteele",
-  "result": "7-5 4-6 6-3",
-  "date": "2026-09-20"
+  "event": "Tiburon Challenger",
+  "round": "Q3",
+  "won": false,
+  "opponent": "Timo Legout",
+  "result": "6-3 6-4",
+  "date": "2026-09-14"
  },
  "lsu-m-n2": {
   "playerId": "lsu-m-n2",
@@ -10407,12 +10381,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ore-m",
   "teamName": "Oregon",
   "gender": "men",
-  "event": "San Diego 2 Challenger",
-  "round": "Q1",
+  "event": "Tiburon Challenger",
+  "round": "Q3",
   "won": false,
-  "opponent": "Daniil Ostapenkov",
-  "result": "7-5 4-6 6-3",
-  "date": "2026-09-20"
+  "opponent": "Bryce Nakashima",
+  "result": "6-2 6-4",
+  "date": "2026-09-14"
  },
  "ore-m-p1": {
   "playerId": "ore-m-p1",
@@ -14047,12 +14021,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "tenn-m",
   "teamName": "Tennessee",
   "gender": "men",
-  "event": "San Diego 2 Challenger",
-  "round": "Q1",
+  "event": "M15 Wels",
+  "round": "First",
   "won": false,
-  "opponent": "Spencer Johnson",
-  "result": "7-6(3) 6-3",
-  "date": "2026-09-20"
+  "opponent": "John Hallquist Lithen",
+  "result": "6-2 6-3",
+  "date": "2026-07-29"
  },
  "tenn-m-p7": {
   "playerId": "tenn-m-p7",
@@ -16374,12 +16348,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "uk-m",
   "teamName": "Kentucky",
   "gender": "men",
-  "event": "San Diego 2 Challenger",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Li Tu",
-  "result": "6-3 7-6(7)",
-  "date": "2026-09-20"
+  "event": "Istanbul Challenger",
+  "round": "Second",
+  "won": false,
+  "opponent": "Francesco Maestrelli",
+  "result": "6-7(2) 6-1 6-4",
+  "date": "2026-09-09"
  },
  "uk-m-h15": {
   "playerId": "uk-m-h15",
