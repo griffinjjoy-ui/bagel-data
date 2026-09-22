@@ -14,6 +14,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "aub-p3",
+  "name": "Aishi Das",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Katherine Hui",
+  "event": "W50 Berkeley",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
   "playerId": "scu-m-p9",
   "name": "Alexander Watanabe Eriksson",
   "teamId": "scu-m",
@@ -40,6 +50,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Barbora Palicova",
   "event": "Tolentino Open - Tolentino",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "ou-w-h7",
+  "name": "Alina Shcherbinina",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Berta Passola",
+  "event": "W50 Berkeley",
   "date": "2026-09-22",
   "day": "today"
  },
@@ -80,6 +100,46 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Jenna Defalco",
   "event": "W50 Berkeley",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "ucla-w-p3",
+  "name": "Anne-Christine Lutkemeyer",
+  "teamId": "ucla-w",
+  "gender": "women",
+  "opponent": "Madison Brengle",
+  "event": "W50 Berkeley",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-w-n2",
+  "name": "Arianna Zucchini",
+  "teamId": "tex-w",
+  "gender": "women",
+  "opponent": "Janae Preston",
+  "event": "W50 Berkeley",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "tamu-w-n8",
+  "name": "Arina Bulatova",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Jenna Defalco",
+  "event": "W50 Berkeley",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "sc-m-p6",
+  "name": "Atakan Karahan",
+  "teamId": "sc-m",
+  "gender": "men",
+  "opponent": "Henry Lieberman",
+  "event": "M15 Columbia",
   "date": "2026-09-22",
   "day": "today"
  },
@@ -134,6 +194,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "lsu-p5",
+  "name": "Carolina Kuhl",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Anna Pushkareva",
+  "event": "W50 Berkeley",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
   "playerId": "aub-w-h6",
   "name": "Carolyn Ansari",
   "teamId": "aub-w",
@@ -154,12 +224,52 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "fsu-m-fp26",
+  "name": "Corey Craig",
+  "teamId": "fsu-m",
+  "gender": "men",
+  "opponent": "Gianluca Carlini",
+  "event": "M15 Columbia",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "harv-m-h3",
+  "name": "Daniel Milavsky",
+  "teamId": "harv-m",
+  "gender": "men",
+  "opponent": "Timo Legout",
+  "event": "San Diego 2 Challenger",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
   "playerId": "uga-p2",
   "name": "Deniz Dilek",
   "teamId": "uga-w",
   "gender": "women",
   "opponent": "Solana Sierra",
   "event": "Ankara Open - Ankara",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "ou-m-n1",
+  "name": "Dragos Cazacu",
+  "teamId": "ou-m",
+  "gender": "men",
+  "opponent": "Gabe Avram",
+  "event": "M15 Columbia",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "pepp-w-p5",
+  "name": "Duru Söke",
+  "teamId": "pepp-w",
+  "gender": "women",
+  "opponent": "Connie Ma",
+  "event": "W50 Berkeley",
   "date": "2026-09-22",
   "day": "today"
  },
@@ -174,12 +284,62 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ou-w-n2",
+  "name": "Ekaterina Maklakova",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Jo-Yee Chan",
+  "event": "W50 Berkeley",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "aub-p6",
+  "name": "Emma Kamper",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Mayu Crossley",
+  "event": "W50 Berkeley",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "lsu-m-p2",
+  "name": "Erik Arutiunian",
+  "teamId": "lsu-m",
+  "gender": "men",
+  "opponent": "Trevor Svajda",
+  "event": "San Diego 2 Challenger",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "ou-p4",
+  "name": "Evialina Laskevich",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Victoria Rodriguez",
+  "event": "W50 Berkeley",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
   "playerId": "msst-m-h1",
   "name": "Ewen Lumsden",
   "teamId": "msst-m",
   "gender": "men",
   "opponent": "Alexander Watanabe Eriksson",
   "event": "M15 Monastir",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "wich-m-fp92",
+  "name": "Felix Bockelmann Evans",
+  "teamId": "wich-m",
+  "gender": "men",
+  "opponent": "Sebastian Gorzny",
+  "event": "San Diego 2 Challenger",
   "date": "2026-09-22",
   "day": "today"
  },
@@ -264,6 +424,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tex-m-p2",
+  "name": "Jonah Braswell",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Novak Novakovic",
+  "event": "M15 Columbia",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
   "playerId": "ou-m-h2",
   "name": "Jordan Hasson",
   "teamId": "ou-m",
@@ -280,6 +450,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Harold Mayot",
   "event": "St. Tropez Challenger",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "usd-w-h6",
+  "name": "Kailey Evans",
+  "teamId": "usd-w",
+  "gender": "women",
+  "opponent": "Hanna Chang",
+  "event": "W50 Berkeley",
   "date": "2026-09-22",
   "day": "today"
  },
@@ -344,12 +524,52 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "wisc-w-p7",
+  "name": "Maria Sholokhova",
+  "teamId": "wisc-w",
+  "gender": "women",
+  "opponent": "Olivia Lincer",
+  "event": "W50 Berkeley",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "sc-m-p7",
+  "name": "Max Stenzer",
+  "teamId": "sc-m",
+  "gender": "men",
+  "opponent": "Alexander Bernard",
+  "event": "M15 Columbia",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "ucla-w-p7",
+  "name": "Mayu Crossley",
+  "teamId": "ucla-w",
+  "gender": "women",
+  "opponent": "Emma Kamper Malmkjaer",
+  "event": "W50 Berkeley",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
   "playerId": "wake-m-p5",
   "name": "Mees Rottgering",
   "teamId": "wake-m",
   "gender": "men",
   "opponent": "Nishesh Basavareddy",
   "event": "San Diego 2 Challenger",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-m-h2",
+  "name": "Micah Braswell",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Gavin Goode",
+  "event": "M15 Columbia",
   "date": "2026-09-22",
   "day": "today"
  },
@@ -384,6 +604,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "van-m-p3",
+  "name": "Nathan Cox",
+  "teamId": "van-m",
+  "gender": "men",
+  "opponent": "Shu Matsuoka",
+  "event": "M15 Columbia",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
   "playerId": "stan-m-h8",
   "name": "Nishesh Basavareddy",
   "teamId": "stan-m",
@@ -410,6 +640,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Sarina Schnyder",
   "event": "W15 Monastir",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "msu-m-fp274",
+  "name": "Ozan Baris",
+  "teamId": "msu-m",
+  "gender": "men",
+  "opponent": "Igor Ribeiro Marcondes",
+  "event": "San Diego 2 Challenger",
   "date": "2026-09-22",
   "day": "today"
  },
@@ -464,12 +704,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tex-m-p8",
+  "name": "Sebastian Gorzny",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Mitchell Krueger",
+  "event": "San Diego 2 Challenger",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
   "playerId": "port-m-h5",
   "name": "Sema Pankin",
   "teamId": "port-m",
   "gender": "men",
   "opponent": "Yaojie Zeng",
   "event": "M25 Yinchuan",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "asu-m-fp38",
+  "name": "Shu Matsuoka",
+  "teamId": "asu-m",
+  "gender": "men",
+  "opponent": "Nathan Cox",
+  "event": "M15 Columbia",
   "date": "2026-09-22",
   "day": "today"
  },
@@ -490,6 +750,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Camila Zouein Yanez",
   "event": "W15 Monastir",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-m-h11",
+  "name": "Timo Legout",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Daniel Milavsky",
+  "event": "San Diego 2 Challenger",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "stan-m-h16",
+  "name": "Tristan Boyer",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Spencer Johnson",
+  "event": "San Diego 2 Challenger",
   "date": "2026-09-22",
   "day": "today"
  },
@@ -539,6 +819,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "teamId": "fla-m",
   "gender": "men",
   "opponent": "Abedallah Shelbayh",
+  "event": "San Diego 2 Challenger",
+  "date": "2026-09-23",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "uva-m-p2",
+  "name": "Dylan Dietrich",
+  "teamId": "uva-m",
+  "gender": "men",
+  "opponent": "Keegan Smith",
+  "event": "San Diego 2 Challenger",
+  "date": "2026-09-23",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ucla-m-h15",
+  "name": "Keegan Smith",
+  "teamId": "ucla-m",
+  "gender": "men",
+  "opponent": "Dylan Dietrich",
   "event": "San Diego 2 Challenger",
   "date": "2026-09-23",
   "day": "tomorrow"

@@ -3,6 +3,28 @@
 // feed and merges over the baked §355 shards at render.
 export const recentAsOf = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?.recentAsOf ?? "2026-09-22";
 export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?.recentProEvents ?? {
+ "ala-p1": [
+  {
+   "key": "17287",
+   "name": "W50 Berkeley",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122384139",
+     "date": "2026-09-21",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Janae Preston",
+     "score": "6-3 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "ariz-m-fp226": [
   {
    "key": "22024",
@@ -141,6 +163,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "asu-m-fp38": [
+  {
+   "key": "22078",
+   "name": "M15 Columbia",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "139766174",
+     "date": "2026-09-21",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Alejandro Moreno",
+     "score": "6-2 7-5"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "asu-m-p2": [
   {
    "key": "22055",
@@ -191,6 +235,72 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Second",
+   "reachedTone": "neutral"
+  }
+ ],
+ "aub-p10": [
+  {
+   "key": "17287",
+   "name": "W50 Berkeley",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122384132",
+     "date": "2026-09-21",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Connie Ma",
+     "score": "6-1 5-7 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "aub-p3": [
+  {
+   "key": "17287",
+   "name": "W50 Berkeley",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122384137",
+     "date": "2026-09-21",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Kira Matushkina",
+     "score": "1-6 6-4 6-4"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "aub-p6": [
+  {
+   "key": "17287",
+   "name": "W50 Berkeley",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122384141",
+     "date": "2026-09-21",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Christasha McNeil",
+     "score": "6-1 4-6 6-4"
+    }
+   ],
+   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],
@@ -367,6 +477,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "lsu-p5": [
+  {
+   "key": "17287",
+   "name": "W50 Berkeley",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122384127",
+     "date": "2026-09-21",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Tori Kinard",
+     "score": "6-4 4-6 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "lsu-p8": [
   {
    "key": "16746",
@@ -449,6 +581,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "mich-w-n1": [
+  {
+   "key": "17287",
+   "name": "W50 Berkeley",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122384133",
+     "date": "2026-09-21",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Mayu Crossley",
+     "score": "6-1 3-6 7-6(2)"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "miss-m-p2": [
   {
    "key": "22036",
@@ -474,9 +628,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Lorenzo Rottoli",
      "score": "6-3 6-3"
+    },
+    {
+     "id": "149556029",
+     "date": "2026-09-22",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Lukas Neumayer",
+     "score": "6-3 7-6(4)"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   },
   {
@@ -742,6 +905,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "ou-p5": [
+  {
+   "key": "17287",
+   "name": "W50 Berkeley",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122384134",
+     "date": "2026-09-21",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Anna Pushkareva",
+     "score": "6-0 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "pepp-m-p6": [
   {
    "key": "22035",
@@ -784,7 +969,49 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "pepp-w-p5": [
+  {
+   "key": "17287",
+   "name": "W50 Berkeley",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122384135",
+     "date": "2026-09-21",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Madison Rose",
+     "score": "6-1 6-1"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "sc-m-p6": [
+  {
+   "key": "22078",
+   "name": "M15 Columbia",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "139766179",
+     "date": "2026-09-21",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Donald Nikolas Stoot",
+     "score": "6-2 4-6 12-10"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "22024",
    "name": "Istanbul Challenger",
@@ -922,6 +1149,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "stan-m-fp423": [
   {
+   "key": "22078",
+   "name": "M15 Columbia",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "139766172",
+     "date": "2026-09-21",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Henry Lieberman",
+     "score": "7-5 6-4"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22027",
    "name": "Tiburon Challenger",
    "date": "2026-09-14",
@@ -991,6 +1238,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "green"
   }
  ],
+ "tamu-w-n8": [
+  {
+   "key": "17287",
+   "name": "W50 Berkeley",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122384142",
+     "date": "2026-09-21",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Ava Quincy Brewer",
+     "score": "6-2 6-1"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "tcu-m-fp30": [
   {
    "key": "22027",
@@ -1019,6 +1288,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Q3",
+   "reachedTone": "neutral"
+  }
+ ],
+ "tcu-w-p6": [
+  {
+   "key": "17287",
+   "name": "W50 Berkeley",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122384137",
+     "date": "2026-09-21",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Aishi Das",
+     "score": "1-6 6-4 6-4"
+    }
+   ],
+   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],
@@ -1334,6 +1625,72 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "gold"
   }
  ],
+ "tex-p8": [
+  {
+   "key": "17287",
+   "name": "W50 Berkeley",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122384141",
+     "date": "2026-09-21",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Emma Kamper Malmkjaer",
+     "score": "6-1 4-6 6-4"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "tex-w-n2": [
+  {
+   "key": "17287",
+   "name": "W50 Berkeley",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122384140",
+     "date": "2026-09-21",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Maria Aytoyan",
+     "score": "6-1 5-7 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "ucla-w-p7": [
+  {
+   "key": "17287",
+   "name": "W50 Berkeley",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122384133",
+     "date": "2026-09-21",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Mckenna Schaefbauer",
+     "score": "6-1 3-6 7-6(2)"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "uga-p7": [
   {
    "key": "17260",
@@ -1430,9 +1787,27 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Andrey Barbiero",
      "score": "6-2 6-1"
+    },
+    {
+     "id": "139766151",
+     "date": "2026-09-21",
+     "roundId": 2,
+     "round": "Q2",
+     "won": true,
+     "opponent": "Tomas Dummer Macedo",
+     "score": "6-3 6-7(2) 10-4"
+    },
+    {
+     "id": "141164984",
+     "date": "2026-09-21",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Eduardo Lage",
+     "score": "7-6(1) 7-6(4)"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
