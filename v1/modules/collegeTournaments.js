@@ -19,6 +19,12 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "end": "2026-09-26"
   },
   {
+    "id": "6ab2a015e3ae706de9a8920b",
+    "name": "2026 ITA NAIA Men's and Women's Central East Regional Championship",
+    "start": "2026-09-23",
+    "end": "2026-09-25"
+  },
+  {
     "id": "6ab0280ce3ae706de9772798",
     "name": "2026 ITA DIII Women's Southwest Regional Championships",
     "start": "2026-09-24",

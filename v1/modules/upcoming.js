@@ -814,12 +814,52 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "ncst-w-h3",
+  "name": "Amelia Rajecki",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Kurea Hayasaka",
+  "event": "W50 Nanao",
+  "date": "2026-09-23",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "fla-m-h11",
   "name": "Andres Andrade",
   "teamId": "fla-m",
   "gender": "men",
   "opponent": "Abedallah Shelbayh",
   "event": "San Diego 2 Challenger",
+  "date": "2026-09-23",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "sc-w-h2",
+  "name": "Ayana Akli",
+  "teamId": "sc-w",
+  "gender": "women",
+  "opponent": "Gabriela Andrea Knutson",
+  "event": "Eupago Porto Open - Porto",
+  "date": "2026-09-23",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "uga-p7",
+  "name": "Aysegul Mert",
+  "teamId": "uga-w",
+  "gender": "women",
+  "opponent": "Berfu Cengiz",
+  "event": "Ankara Open - Ankara",
+  "date": "2026-09-23",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "okst-m-h6",
+  "name": "Chase Ferguson",
+  "teamId": "okst-m",
+  "gender": "men",
+  "opponent": "Nino Ehrenschneider",
+  "event": "M25 Yinchuan",
   "date": "2026-09-23",
   "day": "tomorrow"
  },
@@ -834,12 +874,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "wash-w-h7",
+  "name": "Hikaru Sato",
+  "teamId": "wash-w",
+  "gender": "women",
+  "opponent": "Kisa Yoshioka",
+  "event": "W50 Nanao",
+  "date": "2026-09-23",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ucla-m-h15",
   "name": "Keegan Smith",
   "teamId": "ucla-m",
   "gender": "men",
   "opponent": "Dylan Dietrich",
   "event": "San Diego 2 Challenger",
+  "date": "2026-09-23",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "mich-m-h4",
+  "name": "Nino Ehrenschneider",
+  "teamId": "mich-m",
+  "gender": "men",
+  "opponent": "Chase Ferguson",
+  "event": "M25 Yinchuan",
   "date": "2026-09-23",
   "day": "tomorrow"
  }
