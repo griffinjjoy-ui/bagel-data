@@ -515,6 +515,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "6AC9A42E-4E76-46C2-A2D9-0FD12898EBFE",
+  "date": "2027-01-23",
+  "dateTime": "2027-01-23T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Utah Tech",
+   "side": 2
+  }
+ },
+ {
   "id": "4257C28E-0C50-4C84-94C9-CE8618E8F96B",
   "date": "2027-01-23",
   "dateTime": "2027-01-23T20:00:00.000Z",
@@ -528,6 +545,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "ind-m",
    "name": "Indiana University",
+   "side": 2
+  }
+ },
+ {
+  "id": "6EC02305-C8B6-4E14-9C0D-B422F082A6B3",
+  "date": "2027-01-23",
+  "dateTime": "2027-01-23T22:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Weber State University",
    "side": 2
   }
  },
@@ -596,6 +630,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "East Tennessee State Univ.",
+   "side": 2
+  }
+ },
+ {
+  "id": "15EBD117-4C88-40AB-A219-BD335BFD6030",
+  "date": "2027-01-27",
+  "dateTime": "2027-01-27T20:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Idaho State University",
    "side": 2
   }
  },
@@ -753,6 +804,40 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "8C06DC94-C2D5-4A27-A823-C46675919901",
+  "date": "2027-01-30",
+  "dateTime": "2027-01-30T07:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Idaho State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "CECF8956-5679-42B7-A895-89C960A1F48D",
+  "date": "2027-01-30",
+  "dateTime": "2027-01-30T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "wsu-w",
+   "name": "Washington State Univ.",
+   "side": 2
+  }
+ },
+ {
   "id": "39D0E9BE-94EC-4680-934B-19C019EB7ED7",
   "date": "2027-01-30",
   "dateTime": "2027-01-30T22:00:00.000Z",
@@ -783,6 +868,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "harv-w",
    "name": "Harvard University",
+   "side": 2
+  }
+ },
+ {
+  "id": "AFED1D72-9C0E-4191-A36F-D56A9EEC106F",
+  "date": "2027-01-31",
+  "dateTime": "2027-01-31T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "gonz-w",
+   "name": "Gonzaga University",
    "side": 2
   }
  },
@@ -974,6 +1076,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "3FB38ED9-817D-47EB-9A4B-9B59F49FBE85",
+  "date": "2027-02-05",
+  "dateTime": "2027-02-05T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ucsd-w",
+   "name": "University Of California, San Diego",
+   "side": 2
+  }
+ },
+ {
   "id": "067B9D5D-19A3-4B08-9DC4-8EF11FE4D799",
   "date": "2027-02-05",
   "dateTime": "2027-02-05T19:00:00.000Z",
@@ -1021,6 +1140,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "ala-w",
    "name": "University Of Alabama",
+   "side": 2
+  }
+ },
+ {
+  "id": "B9062DF1-EC94-4746-94B1-C88A943BC3DD",
+  "date": "2027-02-06",
+  "dateTime": "2027-02-06T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "San Diego State University",
    "side": 2
   }
  },
@@ -1297,6 +1433,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "6AC2264F-E2D5-49B2-9705-DDFDCB842784",
+  "date": "2027-02-13",
+  "dateTime": "2027-02-13T07:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "lmu-m",
+   "name": "Loyola Marymount University",
+   "side": 2
+  }
+ },
+ {
   "id": "1F8E03F2-DEA9-45CD-BE2E-FB51AE500BD3",
   "date": "2027-02-13",
   "dateTime": "2027-02-13T16:00:00.000Z",
@@ -1382,6 +1535,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "E7474E1D-E9CD-43BE-8E7C-DF11448322DB",
+  "date": "2027-02-14",
+  "dateTime": "2027-02-14T07:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Univ. Of Nevada, Las Vegas",
+   "side": 2
+  }
+ },
+ {
   "id": "691B5BF6-C50F-4B9C-B683-0708BECFF1EE",
   "date": "2027-02-14",
   "dateTime": "2027-02-14T16:00:00.000Z",
@@ -1446,6 +1616,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "okst-m",
    "name": "Oklahoma State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "DDB7FE88-1ED5-44FE-9189-32FAE8329589",
+  "date": "2027-02-19",
+  "dateTime": "2027-02-19T07:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Middle Tennessee State University",
    "side": 2
   }
  },
@@ -1586,6 +1773,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "4956DB36-6F6C-4C50-AED2-60D26EEFFB8E",
+  "date": "2027-02-20",
+  "dateTime": "2027-02-20T07:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "clt-m",
+   "name": "UNC Charlotte",
+   "side": 2
+  }
+ },
+ {
   "id": "E897C84C-4CE8-4619-A7CA-97D4E0CF58CD",
   "date": "2027-02-20",
   "dateTime": "2027-02-20T17:00:00.000Z",
@@ -1633,6 +1837,40 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "U.S. Air Force Academy",
+   "side": 2
+  }
+ },
+ {
+  "id": "783692F7-463A-4E40-A716-F99CEE3888B7",
+  "date": "2027-02-21",
+  "dateTime": "2027-02-21T07:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "University Of New Mexico",
+   "side": 2
+  }
+ },
+ {
+  "id": "60162AEA-DC9D-4DAB-9B63-5C46AB3AA9EA",
+  "date": "2027-02-21",
+  "dateTime": "2027-02-21T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "haw-w",
+   "name": "University Of Hawaii",
    "side": 2
   }
  },
@@ -1756,6 +1994,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "E70BE024-31CC-4ADD-8894-6CA9455C7429",
+  "date": "2027-02-26",
+  "dateTime": "2027-02-26T07:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "University Of Denver",
+   "side": 2
+  }
+ },
+ {
   "id": "CA1FCAA9-886B-44E8-BE45-7AC6102BE93C",
   "date": "2027-02-26",
   "dateTime": "2027-02-26T18:00:00.000Z",
@@ -1803,6 +2058,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "corn-w",
    "name": "Cornell University",
+   "side": 2
+  }
+ },
+ {
+  "id": "8D1A332C-B760-4DB7-A728-78777F187BB9",
+  "date": "2027-02-27",
+  "dateTime": "2027-02-27T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "wash-w",
+   "name": "University Of Washington",
    "side": 2
   }
  },
@@ -1875,6 +2147,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "C83CBFDD-9610-415C-BD0C-4AB92E2FFDC9",
+  "date": "2027-02-28",
+  "dateTime": "2027-02-28T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "usd-w",
+   "name": "University Of San Diego",
+   "side": 2
+  }
+ },
+ {
   "id": "FACC3664-F1CF-4628-BF25-930D5D28E919",
   "date": "2027-02-28",
   "dateTime": "2027-02-28T19:00:00.000Z",
@@ -1922,6 +2211,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "fla-m",
    "name": "University of Florida",
+   "side": 2
+  }
+ },
+ {
+  "id": "49657B4E-9A2E-437E-B876-7A689EE358D0",
+  "date": "2027-03-04",
+  "dateTime": "2027-03-04T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "asu-w",
+   "name": "Arizona State University",
    "side": 2
   }
  },
@@ -2024,6 +2330,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "sc-m",
    "name": "University Of South Carolina",
+   "side": 2
+  }
+ },
+ {
+  "id": "CA5AC996-4FAE-4512-8B16-CA7EBABF1CF2",
+  "date": "2027-03-06",
+  "dateTime": "2027-03-06T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ariz-w",
+   "name": "University Of Arizona",
    "side": 2
   }
  },
@@ -2147,6 +2470,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "1F529A7B-B01C-42C0-ABBA-85E9622CD2F5",
+  "date": "2027-03-11",
+  "dateTime": "2027-03-11T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ksu-w",
+   "name": "Kansas State Univ.",
+   "side": 2
+  }
+ },
+ {
   "id": "0E60A6AC-8453-4B32-A95D-C8FC4BF2694F",
   "date": "2027-03-12",
   "dateTime": "2027-03-12T05:00:00.000Z",
@@ -2181,6 +2521,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "2972140A-12DF-47DC-B00C-D4A8E33E8EC3",
+  "date": "2027-03-12",
+  "dateTime": "2027-03-12T07:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 2
+  }
+ },
+ {
   "id": "81EFE22E-D94C-49FC-9454-03F12AE462BD",
   "date": "2027-03-12",
   "dateTime": "2027-03-12T16:00:00.000Z",
@@ -2211,6 +2568,40 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "wich-w",
    "name": "Wichita State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "A3E043E9-E37F-4A9F-82DA-44B42975FB69",
+  "date": "2027-03-13",
+  "dateTime": "2027-03-13T07:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Creighton University",
+   "side": 2
+  }
+ },
+ {
+  "id": "715C1AC9-FFFC-4FFA-9A47-29538F183073",
+  "date": "2027-03-13",
+  "dateTime": "2027-03-13T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "okst-w",
+   "name": "Oklahoma State University",
    "side": 2
   }
  },
@@ -2385,6 +2776,40 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "0A3D1E2A-4A14-4C1F-98FD-1DE273A32F0B",
+  "date": "2027-03-18",
+  "dateTime": "2027-03-18T22:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ucf-w",
+   "name": "University Of Central Florida",
+   "side": 2
+  }
+ },
+ {
+  "id": "9A9CBAA3-F719-4BAF-81B3-4D166DFB08F2",
+  "date": "2027-03-19",
+  "dateTime": "2027-03-19T06:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "University Of Nevada",
+   "side": 2
+  }
+ },
+ {
   "id": "8ABA7167-749F-4F6D-8DB8-C18F857F1A56",
   "date": "2027-03-19",
   "dateTime": "2027-03-19T15:00:00.000Z",
@@ -2436,6 +2861,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "DFC0C0E3-BC45-49EE-91B6-9993EA3E7B01",
+  "date": "2027-03-20",
+  "dateTime": "2027-03-20T06:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "byu-m",
+   "name": "Brigham Young University",
+   "side": 2
+  }
+ },
+ {
   "id": "24ED696F-522F-4471-AA08-4FD8D606AC7B",
   "date": "2027-03-20",
   "dateTime": "2027-03-20T16:00:00.000Z",
@@ -2449,6 +2891,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Univ. Of Texas, Rio Grande Valley",
+   "side": 2
+  }
+ },
+ {
+  "id": "6FE1CA66-A136-43BB-850F-F5E329191749",
+  "date": "2027-03-20",
+  "dateTime": "2027-03-20T16:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "hou-w",
+   "name": "University Of Houston",
    "side": 2
   }
  },
@@ -2606,6 +3065,40 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "5F88B92F-D971-4998-8B01-FA2DC0DE7FAC",
+  "date": "2027-03-25",
+  "dateTime": "2027-03-25T06:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "okst-m",
+   "name": "Oklahoma State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "2203F204-3F80-4895-85BC-DB9D9FF624AC",
+  "date": "2027-03-25",
+  "dateTime": "2027-03-25T06:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "cincy-w",
+   "name": "University Of Cincinnati",
+   "side": 2
+  }
+ },
+ {
   "id": "00915560-87F1-4C38-87C4-3E217BF7A6FC",
   "date": "2027-03-25",
   "dateTime": "2027-03-25T21:00:00.000Z",
@@ -2742,6 +3235,40 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "5A2F16C4-07A5-4F47-A200-793F3A7D46BC",
+  "date": "2027-03-27",
+  "dateTime": "2027-03-27T15:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "wvu-w",
+   "name": "West Virginia University",
+   "side": 2
+  }
+ },
+ {
+  "id": "C08215FE-2092-4EFB-B1A8-D12AFFE7C7E1",
+  "date": "2027-03-28",
+  "dateTime": "2027-03-28T06:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ttu-m",
+   "name": "Texas Tech University",
+   "side": 2
+  }
+ },
+ {
   "id": "7F00A626-C1A8-411A-AA2B-2A6C28A73450",
   "date": "2027-04-01",
   "dateTime": "2027-04-01T04:00:00.000Z",
@@ -2772,6 +3299,40 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "wich-m",
    "name": "Wichita State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "CD77BE94-42C1-43B4-90BB-51FA72418C65",
+  "date": "2027-04-01",
+  "dateTime": "2027-04-01T06:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "tcu-m",
+   "name": "Texas Christian University",
+   "side": 2
+  }
+ },
+ {
+  "id": "B5FF08DF-728F-4AAE-AFA4-BDF65D7AA7AC",
+  "date": "2027-04-01",
+  "dateTime": "2027-04-01T21:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ku-w",
+   "name": "University Of Kansas",
    "side": 2
   }
  },
@@ -2861,6 +3422,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "CEEF778E-0DE9-4B88-AB9F-6409A56AE3D0",
+  "date": "2027-04-03",
+  "dateTime": "2027-04-03T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "isu-w",
+   "name": "Iowa State University",
+   "side": 2
+  }
+ },
+ {
   "id": "4F15E369-8D58-4501-BC1F-51D5742679C8",
   "date": "2027-04-03",
   "dateTime": "2027-04-03T18:00:00.000Z",
@@ -2912,6 +3490,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "BF0820A4-94DC-452C-A8A7-A547043D6CBE",
+  "date": "2027-04-04",
+  "dateTime": "2027-04-04T06:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ucf-m",
+   "name": "University Of Central Florida",
+   "side": 2
+  }
+ },
+ {
   "id": "149902F9-8AA9-4F93-8FA9-31ADCA74F638",
   "date": "2027-04-04",
   "dateTime": "2027-04-04T07:00:00.000Z",
@@ -2942,6 +3537,40 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "UNC Greensboro",
+   "side": 2
+  }
+ },
+ {
+  "id": "5BFCDE2B-7E3F-4992-9CD6-ED2ED7ABCABB",
+  "date": "2027-04-08",
+  "dateTime": "2027-04-08T06:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "bay-m",
+   "name": "Baylor University",
+   "side": 2
+  }
+ },
+ {
+  "id": "8A1500D6-AF40-45FC-8165-0488106ED3EA",
+  "date": "2027-04-08",
+  "dateTime": "2027-04-08T23:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "colo-w",
+   "name": "University Of Colorado",
    "side": 2
   }
  },
@@ -3082,6 +3711,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "98D7AE47-5402-4FE6-B443-283B8F0AFB15",
+  "date": "2027-04-10",
+  "dateTime": "2027-04-10T18:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ttu-w",
+   "name": "Texas Tech University",
+   "side": 2
+  }
+ },
+ {
   "id": "C3232544-5875-40EF-AE66-A020624E60B7",
   "date": "2027-04-11",
   "dateTime": "2027-04-11T04:00:00.000Z",
@@ -3167,6 +3813,40 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "8592FC59-D804-412D-B0A4-6B2B4863BD16",
+  "date": "2027-04-13",
+  "dateTime": "2027-04-13T06:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Grand Canyon University",
+   "side": 2
+  }
+ },
+ {
+  "id": "5EB70F69-203A-4827-B631-EAEF9455A6B1",
+  "date": "2027-04-15",
+  "dateTime": "2027-04-15T06:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ariz-m",
+   "name": "University of Arizona",
+   "side": 2
+  }
+ },
+ {
   "id": "66FE7A1B-A394-4ABA-B390-F19C2F2EC2CB",
   "date": "2027-04-16",
   "dateTime": "2027-04-16T05:00:00.000Z",
@@ -3231,6 +3911,40 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "rice-m",
    "name": "Rice University",
+   "side": 2
+  }
+ },
+ {
+  "id": "8AC72D1C-C5F1-45FE-BE03-E501F5FB113C",
+  "date": "2027-04-17",
+  "dateTime": "2027-04-17T06:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "asu-m",
+   "name": "Arizona State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "633C848B-446C-49B6-9A53-B388C4675FFF",
+  "date": "2027-04-17",
+  "dateTime": "2027-04-17T06:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utah-w",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "byu-w",
+   "name": "Brigham Young University",
    "side": 2
   }
  },
