@@ -744,6 +744,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "pepp-m-p6": [
   {
+   "key": "22035",
+   "name": "San Diego 2 Challenger",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "132769715",
+     "date": "2026-09-21",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Keegan Smith",
+     "score": "6-3 4-6 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22027",
    "name": "Tiburon Challenger",
    "date": "2026-09-14",

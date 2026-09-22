@@ -54,6 +54,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "duke-m-h1",
+  "name": "Andreja Petrovic",
+  "teamId": "duke-m",
+  "gender": "men",
+  "opponent": "Luc Fomba",
+  "event": "M25 Falun",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
   "playerId": "gt-m-h8",
   "name": "Andres Martin",
   "teamId": "gt-m",
@@ -244,6 +254,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "uva-m-h6",
+  "name": "Jeffrey von der Schulenburg",
+  "teamId": "uva-m",
+  "gender": "men",
+  "opponent": "Gerard Campana Lee",
+  "event": "M25 Sabadell",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
   "playerId": "ou-m-h2",
   "name": "Jordan Hasson",
   "teamId": "ou-m",
@@ -300,6 +320,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Rebeka Masarova",
   "event": "Tolentino Open - Tolentino",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "tcu-m-h2",
+  "name": "Luc Fomba",
+  "teamId": "tcu-m",
+  "gender": "men",
+  "opponent": "Andreja Petrovic",
+  "event": "M25 Falun",
   "date": "2026-09-22",
   "day": "today"
  },
@@ -420,6 +450,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Mukund Sasikumar",
   "event": "M25 Yinchuan",
+  "date": "2026-09-22",
+  "day": "today"
+ },
+ {
+  "playerId": "stan-m-fp374",
+  "name": "Samir Banerjee",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Aryan Lakshmanan",
+  "event": "M25 Falun",
   "date": "2026-09-22",
   "day": "today"
  },

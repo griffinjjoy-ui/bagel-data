@@ -187,6 +187,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-21"
  },
  {
+  "playerId": "pepp-m-p6",
+  "name": "Edward Winter",
+  "teamId": "pepp-m",
+  "teamName": "Pepperdine",
+  "gender": "men",
+  "event": "San Diego 2 Challenger",
+  "round": "First",
+  "won": false,
+  "opponent": "Keegan Smith",
+  "result": "6-3 4-6 6-2",
+  "date": "2026-09-21"
+ },
+ {
   "playerId": "tenn-w-h7",
   "name": "Elza Tomase",
   "teamId": "tenn-w",
@@ -366,6 +379,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Moez Echargui",
   "result": "6-4 7-6(8)",
+  "date": "2026-09-21"
+ },
+ {
+  "playerId": "ucla-m-h15",
+  "name": "Keegan Smith",
+  "teamId": "ucla-m",
+  "teamName": "UCLA",
+  "gender": "men",
+  "event": "San Diego 2 Challenger",
+  "round": "First",
+  "won": true,
+  "opponent": "Edward Winter",
+  "result": "6-3 4-6 6-2",
   "date": "2026-09-21"
  },
  {
@@ -1825,19 +1851,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-15"
  },
  {
-  "playerId": "pepp-m-p6",
-  "name": "Edward Winter",
-  "teamId": "pepp-m",
-  "teamName": "Pepperdine",
-  "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "First",
-  "won": false,
-  "opponent": "Tristan Boyer",
-  "result": "6-2 6-4",
-  "date": "2026-09-15"
- },
- {
   "playerId": "scu-m-h2",
   "name": "Guillaume Dalmasso",
   "teamId": "scu-m",
@@ -1874,19 +1887,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Clement Chidekh",
   "result": "7-5 6-4",
-  "date": "2026-09-15"
- },
- {
-  "playerId": "ucla-m-h15",
-  "name": "Keegan Smith",
-  "teamId": "ucla-m",
-  "teamName": "UCLA",
-  "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "First",
-  "won": false,
-  "opponent": "Mitchell Krueger",
-  "result": "7-6(1) 6-7(2) 6-4",
   "date": "2026-09-15"
  },
  {
@@ -11525,12 +11525,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "pepp-m",
   "teamName": "Pepperdine",
   "gender": "men",
-  "event": "Tiburon Challenger",
+  "event": "San Diego 2 Challenger",
   "round": "First",
   "won": false,
-  "opponent": "Tristan Boyer",
-  "result": "6-2 6-4",
-  "date": "2026-09-15"
+  "opponent": "Keegan Smith",
+  "result": "6-3 4-6 6-2",
+  "date": "2026-09-21"
  },
  "pepp-m-p7": {
   "playerId": "pepp-m-p7",
@@ -15698,12 +15698,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ucla-m",
   "teamName": "UCLA",
   "gender": "men",
-  "event": "Tiburon Challenger",
+  "event": "San Diego 2 Challenger",
   "round": "First",
-  "won": false,
-  "opponent": "Mitchell Krueger",
-  "result": "7-6(1) 6-7(2) 6-4",
-  "date": "2026-09-15"
+  "won": true,
+  "opponent": "Edward Winter",
+  "result": "6-3 4-6 6-2",
+  "date": "2026-09-21"
  },
  "ucla-m-h5": {
   "playerId": "ucla-m-h5",
