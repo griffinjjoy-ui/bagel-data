@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-22T20:43:24.162Z",
+  "fetchedAt": "2026-09-22T21:14:35.561Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -12803,9 +12803,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 6-4",
+            "winningSide": 1,
             "when": "2026-09-22T12:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -13002,7 +13002,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 5.94,
               "seed": 18
              },
-             null
+             {
+              "name": "Tomasz Berkieta",
+              "abbr": null,
+              "school": "Univ. Of Texas, Austin",
+              "pid": "tex-m-n2",
+              "wtn": 5.62,
+              "seed": 16
+             }
             ]
            }
           ]
@@ -13725,9 +13732,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-7(6) 3-6",
+            "winningSide": 2,
             "when": "2026-09-22T13:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -13976,7 +13983,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "ilia Snitari",
+              "abbr": null,
+              "school": "Texas A&M University",
+              "pid": "tamu-m-n5",
+              "wtn": 5.55,
+              "seed": null
+             }
             ]
            },
            {
@@ -14260,9 +14274,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 16,
-          "bye": true,
-          "seed": null,
-          "name": null
+          "bye": false,
+          "seed": 17,
+          "name": "Ilyas Milad Fahim",
+          "school": "Virginia Tech",
+          "abbr": null,
+          "pid": "vt-m-fp354",
+          "wtn": 5.87
          }
         ],
         "rounds": [
@@ -14439,7 +14457,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 5.55,
               "seed": 15
              },
-             null
+             {
+              "name": "Ilyas Milad Fahim",
+              "abbr": null,
+              "school": "Virginia Tech",
+              "pid": "vt-m-fp354",
+              "wtn": 5.87,
+              "seed": 17
+             }
             ]
            }
           ]
@@ -14645,9 +14670,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 12,
-          "bye": true,
-          "seed": null,
-          "name": null
+          "bye": false,
+          "seed": 12,
+          "name": "William Manning",
+          "school": "NC State",
+          "abbr": null,
+          "pid": "ncst-m-p4",
+          "wtn": 5.93
          },
          {
           "pos": 13,
@@ -14804,7 +14833,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "William Manning",
+              "abbr": null,
+              "school": "NC State",
+              "pid": "ncst-m-p4",
+              "wtn": 5.93,
+              "seed": 12
+             }
             ]
            },
            {
@@ -18793,7 +18829,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-22T20:43:27.696Z",
+  "fetchedAt": "2026-09-22T21:14:38.072Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -21397,9 +21433,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "R16",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-6 3-6",
+            "winningSide": 2,
             "when": "2026-09-22T15:30",
             "venue": "CTP",
             "sides": [
@@ -21423,7 +21459,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R16",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-22T17:15",
@@ -21553,7 +21589,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R16",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-22T17:00",
@@ -21616,7 +21652,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Conway/Smejkalova",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
              null
             ]
            },
