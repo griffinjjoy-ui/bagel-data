@@ -406,18 +406,9 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Reid Jarvis",
      "score": "6-1 6-2"
-    },
-    {
-     "id": "184536249",
-     "date": "2026-09-22",
-     "roundId": 3,
-     "round": "Q3",
-     "won": true,
-     "opponent": "Gianluca Carlini",
-     "score": "2-6 6-2 10-8"
     }
    ],
-   "reached": "Q3",
+   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],
@@ -528,18 +519,9 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Andrew Fenty",
      "score": "6-3 6-3"
-    },
-    {
-     "id": "204122645",
-     "date": "2026-09-22",
-     "roundId": 4,
-     "round": "First",
-     "won": false,
-     "opponent": "Trevor Svajda",
-     "score": "6-3 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -604,26 +586,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "lsu-p8": [
-  {
-   "key": "17286",
-   "name": "W50 Yecla",
-   "date": "2026-09-21",
-   "surface": "Hard",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "173930617",
-     "date": "2026-09-22",
-     "roundId": 4,
-     "round": "First",
-     "won": false,
-     "opponent": "Emily Appleton",
-     "score": "6-2 1-6 6-3"
-    }
-   ],
-   "reached": "First",
-   "reachedTone": "neutral"
-  },
   {
    "key": "16746",
    "name": "SP Open - Sao Paulo",
@@ -1131,18 +1093,9 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Donald Nikolas Stoot",
      "score": "6-2 4-6 12-10"
-    },
-    {
-     "id": "184536239",
-     "date": "2026-09-22",
-     "roundId": 3,
-     "round": "Q3",
-     "won": true,
-     "opponent": "Henry Lieberman",
-     "score": "6-3 6-4"
     }
    ],
-   "reached": "Q3",
+   "reached": "Q1",
    "reachedTone": "neutral"
   },
   {
@@ -1182,18 +1135,9 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "William Mirarchi",
      "score": "6-7(5) 7-6(6) 11-9"
-    },
-    {
-     "id": "184536245",
-     "date": "2026-09-22",
-     "roundId": 3,
-     "round": "Q3",
-     "won": false,
-     "opponent": "Alexander Bernard",
-     "score": "6-2 7-5"
     }
    ],
-   "reached": "Q3",
+   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],

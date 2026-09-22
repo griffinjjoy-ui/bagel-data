@@ -834,16 +834,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "aub-p12",
-  "name": "Angella Okutoyi",
-  "teamId": "aub-w",
-  "gender": "women",
-  "opponent": "Anna Petkovic",
-  "event": "W35 Santa Margherita di Pula",
-  "date": "2026-09-23",
-  "day": "tomorrow"
- },
- {
   "playerId": "sc-w-h2",
   "name": "Ayana Akli",
   "teamId": "sc-w",
@@ -864,26 +854,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "aub-m-p1",
-  "name": "Billy Blaydes",
-  "teamId": "aub-m",
-  "gender": "men",
-  "opponent": "Daniel Domingos",
-  "event": "M15 Monastir",
-  "date": "2026-09-23",
-  "day": "tomorrow"
- },
- {
-  "playerId": "neb-m-h6",
-  "name": "Calvin Mueller",
-  "teamId": "neb-m",
-  "gender": "men",
-  "opponent": "Fons Van Sambeek",
-  "event": "M15 Forbach",
-  "date": "2026-09-23",
-  "day": "tomorrow"
- },
- {
   "playerId": "okst-m-h6",
   "name": "Chase Ferguson",
   "teamId": "okst-m",
@@ -894,32 +864,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "pepp-m-h1",
-  "name": "Daniel De Jonge",
-  "teamId": "pepp-m",
-  "gender": "men",
-  "opponent": "Noah Thurner",
-  "event": "M15 Forbach",
-  "date": "2026-09-23",
-  "day": "tomorrow"
- },
- {
   "playerId": "uva-m-p2",
   "name": "Dylan Dietrich",
   "teamId": "uva-m",
   "gender": "men",
   "opponent": "Keegan Smith",
   "event": "San Diego 2 Challenger",
-  "date": "2026-09-23",
-  "day": "tomorrow"
- },
- {
-  "playerId": "tenn-w-h3",
-  "name": "Esther Adeshina",
-  "teamId": "tenn-w",
-  "gender": "women",
-  "opponent": "Daria Zelinskaya",
-  "event": "W35 Sharm ElSheikh",
   "date": "2026-09-23",
   "day": "tomorrow"
  },
@@ -944,72 +894,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "corn-w-h13",
-  "name": "Lan Mi",
-  "teamId": "corn-w",
-  "gender": "women",
-  "opponent": "Midori Castillo Meza",
-  "event": "W15 Monastir",
-  "date": "2026-09-23",
-  "day": "tomorrow"
- },
- {
-  "playerId": "ala-w-h1",
-  "name": "Margaux Maquet",
-  "teamId": "ala-w",
-  "gender": "women",
-  "opponent": "Elizara Yaneva",
-  "event": "W50 Plovdiv",
-  "date": "2026-09-23",
-  "day": "tomorrow"
- },
- {
-  "playerId": "ariz-w-h5",
-  "name": "Midori Castillo",
-  "teamId": "ariz-w",
-  "gender": "women",
-  "opponent": "Lan Mi",
-  "event": "W15 Monastir",
-  "date": "2026-09-23",
-  "day": "tomorrow"
- },
- {
   "playerId": "mich-m-h4",
   "name": "Nino Ehrenschneider",
   "teamId": "mich-m",
   "gender": "men",
   "opponent": "Chase Ferguson",
   "event": "M25 Yinchuan",
-  "date": "2026-09-23",
-  "day": "tomorrow"
- },
- {
-  "playerId": "mich-m-h7",
-  "name": "Patrick Maloney",
-  "teamId": "mich-m",
-  "gender": "men",
-  "opponent": "Igor Ribeiro Marcondes",
-  "event": "San Diego 2 Challenger",
-  "date": "2026-09-23",
-  "day": "tomorrow"
- },
- {
-  "playerId": "usc-m-h3",
-  "name": "Peter Makk",
-  "teamId": "usc-m",
-  "gender": "men",
-  "opponent": "Louis Tessa",
-  "event": "M15 Monastir",
-  "date": "2026-09-23",
-  "day": "tomorrow"
- },
- {
-  "playerId": "utah-w-h8",
-  "name": "Yasmin Ezzat",
-  "teamId": "utah-w",
-  "gender": "women",
-  "opponent": "Ekaterina Perelygina",
-  "event": "W35 Sharm ElSheikh",
   "date": "2026-09-23",
   "day": "tomorrow"
  }
