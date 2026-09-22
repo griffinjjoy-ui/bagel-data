@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-22T17:18:49.451Z",
+  "fetchedAt": "2026-09-22T17:31:02.504Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -12491,9 +12491,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 6-4",
+            "winningSide": 1,
             "when": "2026-09-22T10:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -12860,7 +12860,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 6.08,
               "seed": 3
              },
-             null
+             {
+              "name": "Nikita Volonski",
+              "abbr": null,
+              "school": "University of Tulsa",
+              "pid": "tulsa-m-p9",
+              "wtn": 6.66,
+              "seed": null
+             }
             ]
            },
            {
@@ -14064,9 +14071,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 4,
-          "bye": true,
-          "seed": null,
-          "name": null
+          "bye": false,
+          "seed": 29,
+          "name": "Mikael Arseneault",
+          "school": "University Of Kentucky",
+          "abbr": null,
+          "pid": "uk-m-p1",
+          "wtn": 5.93
          },
          {
           "pos": 5,
@@ -14185,7 +14196,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 7.35,
               "seed": null
              },
-             null
+             {
+              "name": "Mikael Arseneault",
+              "abbr": null,
+              "school": "University Of Kentucky",
+              "pid": "uk-m-p1",
+              "wtn": 5.93,
+              "seed": 29
+             }
             ]
            },
            {
@@ -18570,7 +18588,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-22T17:18:52.812Z",
+  "fetchedAt": "2026-09-22T17:31:06.041Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -36986,9 +37004,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32-Q",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 5-7",
+            "winningSide": 2,
             "when": "2026-09-22T11:30",
             "venue": "CTP",
             "sides": [
@@ -37330,7 +37348,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Zoie Epps",
+              "abbr": "OKLA",
+              "school": "University Of Oklahoma",
+              "pid": "ou-w-n1",
+              "wtn": 13.57,
+              "seed": 10
+             }
             ]
            },
            {
@@ -37520,7 +37545,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Zoie Epps",
+              "abbr": "OKLA",
+              "school": "University Of Oklahoma",
+              "pid": "ou-w-n1",
+              "wtn": 13.57,
+              "seed": 10
+             },
              null
             ]
            },
