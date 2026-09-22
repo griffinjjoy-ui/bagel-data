@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-22T01:44:31.962Z",
+  "fetchedAt": "2026-09-22T02:08:13.064Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -12416,7 +12416,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T10:00",
+            "when": "2026-09-22T10:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -12442,7 +12442,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T11:30",
+            "when": "2026-09-22T11:30",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -12468,7 +12468,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T10:00",
+            "when": "2026-09-22T10:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -12494,7 +12494,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T10:00",
+            "when": "2026-09-22T10:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -12520,7 +12520,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T11:30",
+            "when": "2026-09-22T11:30",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -12546,7 +12546,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T10:00",
+            "when": "2026-09-22T10:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -12572,7 +12572,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T10:00",
+            "when": "2026-09-22T10:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -12598,7 +12598,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T11:30",
+            "when": "2026-09-22T11:30",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -12624,7 +12624,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T12:00",
+            "when": "2026-09-22T12:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -12650,7 +12650,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T12:00",
+            "when": "2026-09-22T12:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -12676,7 +12676,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T10:00",
+            "when": "2026-09-22T10:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -12702,7 +12702,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T12:00",
+            "when": "2026-09-22T12:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -12728,7 +12728,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T12:30",
+            "when": "2026-09-22T12:30",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -12754,7 +12754,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T10:00",
+            "when": "2026-09-22T10:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -12780,7 +12780,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T10:00",
+            "when": "2026-09-22T10:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -12806,7 +12806,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T12:30",
+            "when": "2026-09-22T12:30",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -13365,7 +13365,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T10:00",
+            "when": "2026-09-22T10:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -13391,7 +13391,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T10:00",
+            "when": "2026-09-22T10:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -13443,7 +13443,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T10:00",
+            "when": "2026-09-22T10:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -13469,7 +13469,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T12:30",
+            "when": "2026-09-22T12:30",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -13495,7 +13495,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "CANCELLED",
             "score": "",
             "winningSide": null,
-            "when": "2026-09-19T10:00",
+            "when": "2026-09-22T10:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -13521,7 +13521,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T11:00",
+            "when": "2026-09-22T11:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -13547,7 +13547,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T11:00",
+            "when": "2026-09-22T11:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -13573,7 +13573,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T11:00",
+            "when": "2026-09-22T11:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -13599,7 +13599,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T13:00",
+            "when": "2026-09-22T13:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -13625,7 +13625,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T13:30",
+            "when": "2026-09-22T13:30",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -13651,7 +13651,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T13:30",
+            "when": "2026-09-22T13:30",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -13703,7 +13703,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T14:00",
+            "when": "2026-09-22T14:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -13729,7 +13729,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T13:00",
+            "when": "2026-09-22T13:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -13755,7 +13755,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-09-19T13:00",
+            "when": "2026-09-22T13:00",
             "venue": "University Of Tulsa",
             "sides": [
              {
@@ -17292,9 +17292,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-5 6-4",
+            "winningSide": 1,
             "when": "2026-09-21T17:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -17638,8 +17638,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-22T16:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Ratiu/Xu",
@@ -17664,8 +17664,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-22T16:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Martikainen/Tosetto",
@@ -17675,7 +17675,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": null,
               "seed": null
              },
-             null
+             {
+              "name": "Skigelstrand/McNally",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -17683,8 +17690,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-22T15:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Forbes/Okonkwo",
@@ -17709,8 +17716,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-22T15:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Vukadin/Markov",
@@ -17735,8 +17742,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-22T15:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Guglieri/Arsic",
@@ -17761,8 +17768,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-22T15:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Jefferson/Host",
@@ -17787,8 +17794,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-22T15:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Palavestra/Petak",
@@ -17813,8 +17820,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-22T16:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Rice/Preda",
@@ -17938,6 +17945,494 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
         ]
        }
       ]
+     },
+     {
+      "drawName": "Qualifying Consolation",
+      "stage": "QUAL",
+      "generated": true,
+      "completed": false,
+      "structures": [
+       {
+        "name": "Main",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": false,
+          "seed": null,
+          "name": "Fahim/Baker",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 2,
+          "bye": false,
+          "seed": null,
+          "name": "Frutos Alonso/Szabo",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 3,
+          "bye": false,
+          "seed": null,
+          "name": "Mesarovic/Bladelius",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 4,
+          "bye": false,
+          "seed": null,
+          "name": "Stepanov/Aney",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 5,
+          "bye": false,
+          "seed": null,
+          "name": "Badenhorst/Baierl",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 6,
+          "bye": false,
+          "seed": null,
+          "name": "Dubouch/Alonso",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 7,
+          "bye": false,
+          "seed": null,
+          "name": "Mashni/Sandler",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 8,
+          "bye": false,
+          "seed": null,
+          "name": "Kriznik/Kalina",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 9,
+          "bye": false,
+          "seed": null,
+          "name": "Harazaki/Melero",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 10,
+          "bye": false,
+          "seed": null,
+          "name": "Kudriashov/Milburn",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 11,
+          "bye": false,
+          "seed": null,
+          "name": "Sec/Mayew",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 12,
+          "bye": false,
+          "seed": null,
+          "name": "Zick/Kobelt",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 13,
+          "bye": false,
+          "seed": null,
+          "name": "KLIMAS/Djosic",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 14,
+          "bye": false,
+          "seed": null,
+          "name": "Bracks/Gokpinar",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 15,
+          "bye": false,
+          "seed": null,
+          "name": "Edengren/Timini",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 16,
+          "bye": false,
+          "seed": null,
+          "name": "Fuchs/Stearns",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-22T16:00",
+            "venue": "University Of Tulsa",
+            "sides": [
+             {
+              "name": "Fahim/Baker",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Frutos Alonso/Szabo",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-22T14:30",
+            "venue": "University Of Tulsa",
+            "sides": [
+             {
+              "name": "Mesarovic/Bladelius",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Stepanov/Aney",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-22T15:30",
+            "venue": "University Of Tulsa",
+            "sides": [
+             {
+              "name": "Badenhorst/Baierl",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Dubouch/Alonso",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-22T16:30",
+            "venue": "University Of Tulsa",
+            "sides": [
+             {
+              "name": "Mashni/Sandler",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Kriznik/Kalina",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-22T16:00",
+            "venue": "University Of Tulsa",
+            "sides": [
+             {
+              "name": "Harazaki/Melero",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Kudriashov/Milburn",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-22T14:30",
+            "venue": "University Of Tulsa",
+            "sides": [
+             {
+              "name": "Sec/Mayew",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Zick/Kobelt",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-22T10:00",
+            "venue": "University Of Tulsa",
+            "sides": [
+             {
+              "name": "KLIMAS/Djosic",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Bracks/Gokpinar",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-22T14:30",
+            "venue": "University Of Tulsa",
+            "sides": [
+             {
+              "name": "Edengren/Timini",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Fuchs/Stearns",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
      }
     ]
    }
@@ -17949,7 +18444,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-22T01:44:35.274Z",
+  "fetchedAt": "2026-09-22T02:08:16.291Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
