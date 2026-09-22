@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-22T18:55:22.605Z",
+  "fetchedAt": "2026-09-22T19:39:59.096Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -12699,9 +12699,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 5-7",
+            "winningSide": 2,
             "when": "2026-09-22T12:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -12950,7 +12950,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Denis Petak",
+              "abbr": null,
+              "school": "Ohio State University",
+              "pid": "osu-m-p10",
+              "wtn": 5.84,
+              "seed": 21
+             }
             ]
            },
            {
@@ -14192,9 +14199,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 12,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Matthieu Chambonniere",
+          "school": "Texas Christian University",
+          "abbr": null,
+          "pid": "tcu-m-p2",
+          "wtn": 6.11
          },
          {
           "pos": 13,
@@ -14351,7 +14362,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Matthieu Chambonniere",
+              "abbr": null,
+              "school": "Texas Christian University",
+              "pid": "tcu-m-p2",
+              "wtn": 6.11,
+              "seed": null
+             }
             ]
            },
            {
@@ -18721,7 +18739,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-22T18:55:25.541Z",
+  "fetchedAt": "2026-09-22T19:40:02.353Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -21325,7 +21343,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "R16",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-22T15:30",
@@ -21403,9 +21421,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R16",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-0 6-2",
+            "winningSide": 1,
             "when": "2026-09-22T14:30",
             "venue": "CTP",
             "sides": [
@@ -21557,7 +21575,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Miller/Charney",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": 4
+             }
             ]
            },
            {
@@ -37177,9 +37202,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32-Q",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "1-6 6-2 7-6(6)",
+            "winningSide": 1,
             "when": "2026-09-22T12:30",
             "venue": "CTP",
             "sides": [
@@ -37528,7 +37553,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Vilma Krebs Hyllested",
+              "abbr": "USD",
+              "school": "University Of San Diego",
+              "pid": "usd-w-p3",
+              "wtn": 13.67,
+              "seed": 16
+             }
             ]
            },
            {
@@ -37749,7 +37781,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 13.57,
               "seed": 10
              },
-             null
+             {
+              "name": "Vilma Krebs Hyllested",
+              "abbr": "USD",
+              "school": "University Of San Diego",
+              "pid": "usd-w-p3",
+              "wtn": 13.67,
+              "seed": 16
+             }
             ]
            },
            {
