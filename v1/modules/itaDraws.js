@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-22T20:31:19.005Z",
+  "fetchedAt": "2026-09-22T20:43:24.162Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -18793,7 +18793,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-22T20:31:22.552Z",
+  "fetchedAt": "2026-09-22T20:43:27.696Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -21579,9 +21579,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R16",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 6-3",
+            "winningSide": 1,
             "when": "2026-09-22T15:00",
             "venue": "CTP",
             "sides": [
@@ -21667,7 +21667,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Zozaya Menendez/Lam",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": 8
+             }
             ]
            }
           ]
@@ -37285,8 +37292,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            {
             "roundName": "C-R32-Q",
             "status": "COMPLETED",
-            "score": "1-6 6-2 7-6(6)",
-            "winningSide": 1,
+            "score": "6-1 2-6 6-7(6)",
+            "winningSide": 2,
             "when": "2026-09-22T12:30",
             "venue": "CTP",
             "sides": [
@@ -37643,12 +37650,12 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "sides": [
              null,
              {
-              "name": "Vilma Krebs Hyllested",
-              "abbr": "USD",
-              "school": "University Of San Diego",
-              "pid": "usd-w-p3",
-              "wtn": 13.67,
-              "seed": 16
+              "name": "nika hurkacz",
+              "abbr": "CAL",
+              "school": "Univ. Of California, Berkeley",
+              "pid": "cal-w-p4",
+              "wtn": null,
+              "seed": null
              }
             ]
            },
@@ -37878,12 +37885,12 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "seed": 10
              },
              {
-              "name": "Vilma Krebs Hyllested",
-              "abbr": "USD",
-              "school": "University Of San Diego",
-              "pid": "usd-w-p3",
-              "wtn": 13.67,
-              "seed": 16
+              "name": "nika hurkacz",
+              "abbr": "CAL",
+              "school": "Univ. Of California, Berkeley",
+              "pid": "cal-w-p4",
+              "wtn": null,
+              "seed": null
              }
             ]
            },
