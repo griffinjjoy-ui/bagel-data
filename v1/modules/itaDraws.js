@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-22T12:35:06.739Z",
+  "fetchedAt": "2026-09-22T13:30:38.783Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -18444,7 +18444,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-22T12:35:09.684Z",
+  "fetchedAt": "2026-09-22T13:30:42.037Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -20706,7 +20706,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            {
             "roundName": "R32",
             "status": "COMPLETED",
-            "score": "4-6 6-7(4)",
+            "score": "6-2 2-6 [8-10]",
             "winningSide": 2,
             "when": "2026-09-21T17:00",
             "venue": "CTP- INDOORS",
@@ -35282,7 +35282,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            {
             "roundName": "R64",
             "status": "COMPLETED",
-            "score": "7-6(2) 6-0",
+            "score": "7-6(4) 6-0",
             "winningSide": 1,
             "when": "2026-09-21T09:00",
             "venue": "CTP",
@@ -35780,9 +35780,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "WALKOVER",
+            "score": "",
+            "winningSide": 2,
             "when": "2026-09-22T11:00",
             "venue": "CTP",
             "sides": [
@@ -36007,7 +36007,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Nicole Khirin",
+              "abbr": "UNC",
+              "school": "UNC Chapel Hill",
+              "pid": "unc-w-n3",
+              "wtn": 12.4,
+              "seed": 12
+             },
              null
             ]
            },
