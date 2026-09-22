@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-22T17:43:00.984Z",
+  "fetchedAt": "2026-09-22T17:55:02.502Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -13553,9 +13553,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-1 6-2",
+            "winningSide": 1,
             "when": "2026-09-22T11:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -13881,7 +13881,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Johan Oscar Lien",
+              "abbr": null,
+              "school": "University Of Kentucky",
+              "pid": "uk-m-n4",
+              "wtn": 6.02,
+              "seed": null
+             },
              null
             ]
            },
@@ -14456,9 +14463,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 7,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Daniel Uta",
+          "school": "University Of Oklahoma",
+          "abbr": null,
+          "pid": "ou-m-n3",
+          "wtn": 6.02
          },
          {
           "pos": 8,
@@ -14588,7 +14599,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Daniel Uta",
+              "abbr": null,
+              "school": "University Of Oklahoma",
+              "pid": "ou-m-n3",
+              "wtn": 6.02,
+              "seed": null
+             },
              null
             ]
            },
@@ -18595,7 +18613,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-22T17:43:04.768Z",
+  "fetchedAt": "2026-09-22T17:55:05.532Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
