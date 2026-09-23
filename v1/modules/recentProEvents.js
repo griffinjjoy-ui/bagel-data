@@ -218,6 +218,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "aub-m-p1": [
   {
+   "key": "22076",
+   "name": "M15 Monastir",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "402829189",
+     "date": "2026-09-23",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Daniel Domingos",
+     "score": "5-7 6-1 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22066",
    "name": "M15 Monastir",
    "date": "2026-09-14",
@@ -934,6 +954,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "okst-w-p1": [
   {
+   "key": "17295",
+   "name": "W15 Constanta",
+   "date": "2026-09-21",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "353140060",
+     "date": "2026-09-23",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Melissa Boyden",
+     "score": "4-6 7-6(7) 3-2 ret."
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17273",
    "name": "W15 Campulung",
    "date": "2026-09-07",
@@ -1204,6 +1244,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "pepp-w-p7": [
+  {
+   "key": "17314",
+   "name": "Billie Jean King Cup, Finals",
+   "date": "2026-09-23",
+   "surface": "I.hard",
+   "tier": "Davis/Fed Cup",
+   "matches": [
+    {
+     "id": "317539843",
+     "date": "2026-09-23",
+     "roundId": 13,
+     "round": "Rubber 1",
+     "won": false,
+     "opponent": "Jessica Bouzas Maneiro",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "Rubber 1",
+   "reachedTone": "neutral"
+  }
+ ],
  "sc-m-p6": [
   {
    "key": "22078",
@@ -1302,9 +1364,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Aryan Lakshmanan",
      "score": "6-0 6-2"
+    },
+    {
+     "id": "436417356",
+     "date": "2026-09-23",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Michael Minasyan",
+     "score": "4-6 6-3 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -1973,9 +2044,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Isabella Shinikova",
      "score": "4-6 6-1 6-3"
+    },
+    {
+     "id": "353138286",
+     "date": "2026-09-23",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Berfu Cengiz",
+     "score": "7-6(2) 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -2101,9 +2181,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Melvin Kumar",
      "score": "6-4 6-4"
+    },
+    {
+     "id": "436417356",
+     "date": "2026-09-23",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Samir Banerjee",
+     "score": "4-6 6-3 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ]

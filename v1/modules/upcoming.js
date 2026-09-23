@@ -568,7 +568,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "name": "Michael Bassem Sobhy",
   "teamId": "lsu-m",
   "gender": "men",
-  "opponent": "Teodor Davidov",
+  "opponent": "Shu Matsuoka",
   "event": "M15 Columbia",
   "date": "2026-09-23",
   "day": "today"
@@ -644,16 +644,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "unc-m-h13",
-  "name": "Patrick Schoen",
-  "teamId": "unc-m",
-  "gender": "men",
-  "opponent": "Francisco Rocha",
-  "event": "M25 Setubal",
-  "date": "2026-09-23",
-  "day": "today"
- },
- {
   "playerId": "duke-m-fp157",
   "name": "Pedro Rodenas",
   "teamId": "duke-m",
@@ -720,6 +710,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Martina Okalova",
   "event": "W50 Berkeley",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
+  "playerId": "asu-m-fp38",
+  "name": "Shu Matsuoka",
+  "teamId": "asu-m",
+  "gender": "men",
+  "opponent": "Michael Bassem Sobhy",
+  "event": "M15 Columbia",
   "date": "2026-09-23",
   "day": "today"
  },
@@ -854,6 +854,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "temple-m-n1",
+  "name": "Adrien Ducruet",
+  "teamId": "temple-m",
+  "gender": "men",
+  "opponent": "Enzo Aguiard",
+  "event": "M25 Yinchuan",
+  "date": "2026-09-24",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ariz-m-h3",
   "name": "Colton Smith",
   "teamId": "ariz-m",
@@ -884,6 +894,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "asu-m-h4",
+  "name": "Murphy Cassone",
+  "teamId": "asu-m",
+  "gender": "men",
+  "opponent": "Billy Harris",
+  "event": "St. Tropez Challenger",
+  "date": "2026-09-24",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "stan-m-h8",
   "name": "Nishesh Basavareddy",
   "teamId": "stan-m",
@@ -910,6 +930,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Tristan Boyer",
   "event": "San Diego 2 Challenger",
+  "date": "2026-09-24",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "port-m-h5",
+  "name": "Sema Pankin",
+  "teamId": "port-m",
+  "gender": "men",
+  "opponent": "Sheng Tang",
+  "event": "M25 Yinchuan",
   "date": "2026-09-24",
   "day": "tomorrow"
  },

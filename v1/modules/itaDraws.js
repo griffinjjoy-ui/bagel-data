@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-23T17:42:13.556Z",
+  "fetchedAt": "2026-09-23T17:52:46.539Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -16935,9 +16935,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "2-6 6-2 7-5",
+            "winningSide": 1,
             "when": "2026-09-23T10:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -17143,9 +17143,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-2 6-3",
+            "winningSide": 1,
             "when": "2026-09-23T11:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -17374,7 +17374,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Timofey Stepanov",
+              "abbr": null,
+              "school": "Univ. Of California, Berkeley",
+              "pid": "cal-m-p11",
+              "wtn": 6.11,
+              "seed": null
+             }
             ]
            },
            {
@@ -17450,7 +17457,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Bryan Hernandez Cortes",
+              "abbr": null,
+              "school": "Mississippi State Univ.",
+              "pid": "msst-m-p3",
+              "wtn": 6.14,
+              "seed": null
+             }
             ]
            },
            {
@@ -17957,9 +17971,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 46,
-          "bye": true,
-          "seed": null,
-          "name": null
+          "bye": false,
+          "seed": 11,
+          "name": "Cooper Woestendick",
+          "school": "Texas Christian University",
+          "abbr": null,
+          "pid": "tcu-m-p9",
+          "wtn": 5.7
          },
          {
           "pos": 47,
@@ -18021,9 +18039,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 54,
-          "bye": true,
-          "seed": null,
-          "name": null
+          "bye": false,
+          "seed": 15,
+          "name": "Alexander Razeghi",
+          "school": "Stanford University",
+          "abbr": null,
+          "pid": "stan-m-fp53",
+          "wtn": 5.74
          },
          {
           "pos": 55,
@@ -18192,7 +18214,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Cooper Woestendick",
+              "abbr": null,
+              "school": "Texas Christian University",
+              "pid": "tcu-m-p9",
+              "wtn": 5.7,
+              "seed": 11
+             }
             ]
            },
            {
@@ -18268,7 +18297,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Alexander Razeghi",
+              "abbr": null,
+              "school": "Stanford University",
+              "pid": "stan-m-fp53",
+              "wtn": 5.74,
+              "seed": 15
+             }
             ]
            },
            {
@@ -23497,7 +23533,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-23T17:42:17.003Z",
+  "fetchedAt": "2026-09-23T17:52:50.225Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -45197,7 +45233,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-23T14:00",

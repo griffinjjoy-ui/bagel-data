@@ -49,6 +49,12 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "end": "2026-09-28"
   },
   {
+    "id": "6ab3e952e3ae706de927e5cc",
+    "name": "2026 ITA JUCO Women's Florida Regional Championship",
+    "start": "2026-09-24",
+    "end": "2026-09-25"
+  },
+  {
     "id": "6ab035fde3ae706de98cdf10",
     "name": "Florida Bedford Cup",
     "start": "2026-09-25",
@@ -71,5 +77,29 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "name": "2026 ITA NAIA Men's and Women's Central West Regional Championship",
     "start": "2026-09-25",
     "end": "2026-09-27"
+  },
+  {
+    "id": "6ab3f30ee3ae706de93b2628",
+    "name": "2026 ITA DIII Women's South Regional Championship",
+    "start": "2026-09-25",
+    "end": "2026-09-27"
+  },
+  {
+    "id": "6ab3f5aee3ae706de940f182",
+    "name": "2026 ITA DIII Men's Northeast Regional Championship",
+    "start": "2026-09-25",
+    "end": "2026-09-28"
+  },
+  {
+    "id": "6ab3f7b1e3ae706de9470ecc",
+    "name": "2026 ITA DIII Women's Southeast Regional Championship",
+    "start": "2026-09-25",
+    "end": "2026-09-28"
+  },
+  {
+    "id": "6ab40520e3ae706de969c0a8",
+    "name": "2026 ITA DIII Men's Northwest Regional Championships",
+    "start": "2026-09-26",
+    "end": "2026-09-28"
   }
 ];
