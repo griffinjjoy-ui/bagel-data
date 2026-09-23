@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-23T20:09:19.433Z",
+  "fetchedAt": "2026-09-23T20:21:22.752Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -16519,9 +16519,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-6 4-6",
+            "winningSide": 2,
             "when": "2026-09-23T13:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -17285,7 +17285,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Nicolas Arseneault",
+              "abbr": null,
+              "school": "University Of Kentucky",
+              "pid": "uk-m-p2",
+              "wtn": 5.72,
+              "seed": null
+             }
             ]
            },
            {
@@ -17963,9 +17970,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 30,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Jeremy Zhang",
+          "school": "University Of Illinois",
+          "abbr": null,
+          "pid": "ill-m-p8",
+          "wtn": 6.65
          },
          {
           "pos": 31,
@@ -18257,7 +18268,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Jeremy Zhang",
+              "abbr": null,
+              "school": "University Of Illinois",
+              "pid": "ill-m-p8",
+              "wtn": 6.65,
+              "seed": null
+             }
             ]
            },
            {
@@ -23749,7 +23767,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-23T20:09:22.530Z",
+  "fetchedAt": "2026-09-23T20:21:25.503Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
