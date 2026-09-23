@@ -744,16 +744,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "pepp-w-p7",
-  "name": "Sonja Zhiyenbayeva",
-  "teamId": "pepp-w",
-  "gender": "women",
-  "opponent": "Jessica Bouzas Maneiro",
-  "event": "Billie Jean King Cup, Finals",
-  "date": "2026-09-23",
-  "day": "today"
- },
- {
   "playerId": "tex-w-h11",
   "name": "Tanya Sasnouskaya",
   "teamId": "tex-w",
@@ -890,6 +880,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Elena Micic",
   "event": "Ankara Open - Ankara",
+  "date": "2026-09-24",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "lsu-p12",
+  "name": "Florentine Dekkers",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Kristina Kroitor",
+  "event": "W15 Monastir",
+  "date": "2026-09-24",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "uk-m-h10",
+  "name": "Millen Hurrion",
+  "teamId": "uk-m",
+  "gender": "men",
+  "opponent": "Snir Morag",
+  "event": "M15 Baku",
   "date": "2026-09-24",
   "day": "tomorrow"
  },

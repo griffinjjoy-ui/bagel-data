@@ -188,9 +188,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Nathan Cox",
      "score": "7-6(1) 6-0"
+    },
+    {
+     "id": "493802434",
+     "date": "2026-09-23",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Michael Bassem Sobhy",
+     "score": "6-1 4-6 6-4"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -547,6 +556,50 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Q3",
+   "reachedTone": "neutral"
+  }
+ ],
+ "lsu-m-n2": [
+  {
+   "key": "22078",
+   "name": "M15 Columbia",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "493802434",
+     "date": "2026-09-23",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Shu Matsuoka",
+     "score": "6-1 4-6 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "lsu-m-p1": [
+  {
+   "key": "22078",
+   "name": "M15 Columbia",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "493802429",
+     "date": "2026-09-23",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Zsombor Velcz",
+     "score": "6-3 6-3"
+    }
+   ],
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -1061,6 +1114,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "ou-m-n1": [
+  {
+   "key": "22078",
+   "name": "M15 Columbia",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "493802427",
+     "date": "2026-09-22",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Gabe Avram",
+     "score": "6-1 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "ou-m-n4": [
   {
    "key": "22027",
@@ -1345,6 +1420,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Q3",
+   "reachedTone": "neutral"
+  }
+ ],
+ "sc-m-p8": [
+  {
+   "key": "22078",
+   "name": "M15 Columbia",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "493802437",
+     "date": "2026-09-23",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Duje Markovina",
+     "score": "6-4 6-0"
+    }
+   ],
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -2056,6 +2153,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Second",
+   "reachedTone": "neutral"
+  }
+ ],
+ "usc-m-p3": [
+  {
+   "key": "22074",
+   "name": "M25 Sharm ElSheikh",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "493802186",
+     "date": "2026-09-23",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Alexander Gammariello",
+     "score": "3-6 7-6(0) 1-0 ret."
+    }
+   ],
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
