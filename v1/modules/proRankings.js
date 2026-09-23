@@ -2296,20 +2296,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "wta-official-refresh"
  },
  {
-  "playerId": "uga-w-n6",
-  "name": "bella payne",
-  "teamId": "uga-w",
-  "teamName": "Georgia",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 553,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "uga-w-n1",
   "name": "Bella Payne",
   "teamId": "uga-w",
@@ -3362,20 +3348,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "weeks": 3,
   "asOf": "2026-09-21",
   "source": "atp-official-refresh"
- },
- {
-  "playerId": "fla-w-n4",
-  "name": "capucine jauffret",
-  "teamId": "fla-w",
-  "teamName": "Florida",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 711,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "fla-w-n3",
@@ -5573,20 +5545,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "uga-w-n7",
-  "name": "nadia lagaev",
-  "teamId": "uga-w",
-  "teamName": "Georgia",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1008,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "uga-w-n2",
   "name": "Nadia Lagaev",
   "teamId": "uga-w",
@@ -6876,20 +6834,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "atp-deep(tennisabstract)"
  },
  {
-  "playerId": "lsu-w-n7",
-  "name": "tegan bush",
-  "teamId": "lsu-w",
-  "teamName": "LSU",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1213,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
- },
- {
   "playerId": "lsu-w-n4",
   "name": "Tegan Bush",
   "teamId": "lsu-w",
@@ -7225,20 +7169,6 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "high": null,
   "asOf": "2026-08-31",
   "source": "atp-deep(tennisabstract)"
- },
- {
-  "playerId": "colum-w-n7",
-  "name": "kenzie nguyen",
-  "teamId": "colum-w",
-  "teamName": "Columbia",
-  "former": false,
-  "gender": "women",
-  "tour": "WTA",
-  "position": 1278,
-  "change": null,
-  "weeks": 1,
-  "asOf": "2026-09-21",
-  "source": "wta-official"
  },
  {
   "playerId": "colum-w-n3",
@@ -16908,12 +16838,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  "colum-w-n3": [
   1278
  ],
- "colum-w-n7": [
-  1278
- ],
- "fla-w-n4": [
-  711
- ],
  "harv-w-n3": [
   1084
  ],
@@ -16924,9 +16848,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   1187
  ],
  "lsu-w-n4": [
-  1213
- ],
- "lsu-w-n7": [
   1213
  ],
  "miami-w-n3": [
@@ -16985,12 +16906,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  ],
  "uga-w-n4": [
   1048
- ],
- "uga-w-n6": [
-  553
- ],
- "uga-w-n7": [
-  1008
  ],
  "wvu-w-n2": [
   1061

@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-23T22:24:47.286Z",
+  "fetchedAt": "2026-09-23T22:25:40.675Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -24026,7 +24026,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-23T22:24:50.419Z",
+  "fetchedAt": "2026-09-23T22:25:43.480Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -29385,7 +29385,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "Capucine Jauffret",
           "school": "University Of Florida",
           "abbr": "UF",
-          "pid": null,
+          "pid": "fla-w-n3",
           "wtn": 13.83
          },
          {
@@ -29545,7 +29545,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "Bella Payne",
           "school": "University Of Georgia",
           "abbr": "UGA",
-          "pid": null,
+          "pid": "uga-w-n1",
           "wtn": 14.14
          },
          {
@@ -30095,7 +30095,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "Kenzie Nguyen",
           "school": "Columbia University",
           "abbr": "COLU",
-          "pid": null,
+          "pid": "colum-w-n3",
           "wtn": 14.5
          },
          {
@@ -30185,7 +30185,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "Tegan Bush",
           "school": "Louisiana State University",
           "abbr": "LSU",
-          "pid": null,
+          "pid": "lsu-w-n4",
           "wtn": 14.29
          },
          {
@@ -30445,7 +30445,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "Nadia Lagaev",
           "school": "University Of Georgia",
           "abbr": "UGA",
-          "pid": null,
+          "pid": "uga-w-n2",
           "wtn": 14.77
          },
          {
@@ -30805,7 +30805,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "Ni Xi",
           "school": "Louisiana State University",
           "abbr": "LSU",
-          "pid": null,
+          "pid": "lsu-w-n1",
           "wtn": 15.67
          },
          {
@@ -31619,7 +31619,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Capucine Jauffret",
               "abbr": "UF",
               "school": "University Of Florida",
-              "pid": null,
+              "pid": "fla-w-n3",
               "wtn": 13.83,
               "seed": 5
              },
@@ -31827,7 +31827,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Bella Payne",
               "abbr": "UGA",
               "school": "University Of Georgia",
-              "pid": null,
+              "pid": "uga-w-n1",
               "wtn": 14.14,
               "seed": 9
              },
@@ -32537,7 +32537,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Kenzie Nguyen",
               "abbr": "COLU",
               "school": "Columbia University",
-              "pid": null,
+              "pid": "colum-w-n3",
               "wtn": 14.5,
               "seed": 22
              }
@@ -32659,7 +32659,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Tegan Bush",
               "abbr": "LSU",
               "school": "Louisiana State University",
-              "pid": null,
+              "pid": "lsu-w-n4",
               "wtn": 14.29,
               "seed": 25
              },
@@ -32997,7 +32997,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Nadia Lagaev",
               "abbr": "UGA",
               "school": "University Of Georgia",
-              "pid": null,
+              "pid": "uga-w-n2",
               "wtn": 14.77,
               "seed": null
              },
@@ -33465,7 +33465,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Ni Xi",
               "abbr": "LSU",
               "school": "Louisiana State University",
-              "pid": null,
+              "pid": "lsu-w-n1",
               "wtn": 15.67,
               "seed": null
              },
@@ -34176,7 +34176,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Capucine Jauffret",
               "abbr": "UF",
               "school": "University Of Florida",
-              "pid": null,
+              "pid": "fla-w-n3",
               "wtn": 13.83,
               "seed": 5
              },
@@ -34280,7 +34280,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Bella Payne",
               "abbr": "UGA",
               "school": "University Of Georgia",
-              "pid": null,
+              "pid": "uga-w-n1",
               "wtn": 14.14,
               "seed": 9
              },
@@ -34626,7 +34626,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Kenzie Nguyen",
               "abbr": "COLU",
               "school": "Columbia University",
-              "pid": null,
+              "pid": "colum-w-n3",
               "wtn": 14.5,
               "seed": 22
              }
@@ -34696,7 +34696,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Tegan Bush",
               "abbr": "LSU",
               "school": "Louisiana State University",
-              "pid": null,
+              "pid": "lsu-w-n4",
               "wtn": 14.29,
               "seed": 25
              },
@@ -34860,7 +34860,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Nadia Lagaev",
               "abbr": "UGA",
               "school": "University Of Georgia",
-              "pid": null,
+              "pid": "uga-w-n2",
               "wtn": 14.77,
               "seed": null
              }
@@ -35457,7 +35457,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Capucine Jauffret",
               "abbr": "UF",
               "school": "University Of Florida",
-              "pid": null,
+              "pid": "fla-w-n3",
               "wtn": 13.83,
               "seed": 5
              },
@@ -35509,7 +35509,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Bella Payne",
               "abbr": "UGA",
               "school": "University Of Georgia",
-              "pid": null,
+              "pid": "uga-w-n1",
               "wtn": 14.14,
               "seed": 9
              },
@@ -35673,7 +35673,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Kenzie Nguyen",
               "abbr": "COLU",
               "school": "Columbia University",
-              "pid": null,
+              "pid": "colum-w-n3",
               "wtn": 14.5,
               "seed": 22
              }
@@ -35717,7 +35717,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Tegan Bush",
               "abbr": "LSU",
               "school": "Louisiana State University",
-              "pid": null,
+              "pid": "lsu-w-n4",
               "wtn": 14.29,
               "seed": 25
              },
@@ -35795,7 +35795,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Nadia Lagaev",
               "abbr": "UGA",
               "school": "University Of Georgia",
-              "pid": null,
+              "pid": "uga-w-n2",
               "wtn": 14.77,
               "seed": null
              },
@@ -36126,7 +36126,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Bella Payne",
               "abbr": "UGA",
               "school": "University Of Georgia",
-              "pid": null,
+              "pid": "uga-w-n1",
               "wtn": 14.14,
               "seed": 9
              },
@@ -36204,7 +36204,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Kenzie Nguyen",
               "abbr": "COLU",
               "school": "Columbia University",
-              "pid": null,
+              "pid": "colum-w-n3",
               "wtn": 14.5,
               "seed": 22
              },
@@ -36264,7 +36264,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Nadia Lagaev",
               "abbr": "UGA",
               "school": "University Of Georgia",
-              "pid": null,
+              "pid": "uga-w-n2",
               "wtn": 14.77,
               "seed": null
              }
@@ -37783,7 +37783,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "Ni Xi",
           "school": "Louisiana State University",
           "abbr": "LSU",
-          "pid": null,
+          "pid": "lsu-w-n1",
           "wtn": 15.67
          },
          {
@@ -39113,7 +39113,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Ni Xi",
               "abbr": "LSU",
               "school": "Louisiana State University",
-              "pid": null,
+              "pid": "lsu-w-n1",
               "wtn": 15.67,
               "seed": null
              }
@@ -40152,7 +40152,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Ni Xi",
               "abbr": "LSU",
               "school": "Louisiana State University",
-              "pid": null,
+              "pid": "lsu-w-n1",
               "wtn": 15.67,
               "seed": null
              }
@@ -41265,7 +41265,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "tegan bush",
           "school": "Louisiana State University",
           "abbr": "LSU",
-          "pid": null,
+          "pid": "lsu-w-n4",
           "wtn": null
          },
          {
@@ -41345,7 +41345,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "capucine jauffret",
           "school": "University Of Florida",
           "abbr": "UF",
-          "pid": null,
+          "pid": "fla-w-n3",
           "wtn": null
          },
          {
@@ -41355,7 +41355,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "nadia lagaev",
           "school": "University Of Georgia",
           "abbr": "UGA",
-          "pid": null,
+          "pid": "uga-w-n2",
           "wtn": null
          },
          {
@@ -41555,7 +41555,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "kenzie nguyen",
           "school": "Columbia University",
           "abbr": "COLU",
-          "pid": null,
+          "pid": "colum-w-n3",
           "wtn": null
          },
          {
@@ -41875,7 +41875,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "bella payne",
           "school": "University Of Georgia",
           "abbr": "UGA",
-          "pid": null,
+          "pid": "uga-w-n1",
           "wtn": null
          },
          {
@@ -41913,7 +41913,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "tegan bush",
               "abbr": "LSU",
               "school": "Louisiana State University",
-              "pid": null,
+              "pid": "lsu-w-n4",
               "wtn": null,
               "seed": null
              }
@@ -42017,7 +42017,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "capucine jauffret",
               "abbr": "UF",
               "school": "University Of Florida",
-              "pid": null,
+              "pid": "fla-w-n3",
               "wtn": null,
               "seed": null
              }
@@ -42035,7 +42035,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "nadia lagaev",
               "abbr": "UGA",
               "school": "University Of Georgia",
-              "pid": null,
+              "pid": "uga-w-n2",
               "wtn": null,
               "seed": null
              },
@@ -42295,7 +42295,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "kenzie nguyen",
               "abbr": "COLU",
               "school": "Columbia University",
-              "pid": null,
+              "pid": "colum-w-n3",
               "wtn": null,
               "seed": null
              },
@@ -42711,7 +42711,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "bella payne",
               "abbr": "UGA",
               "school": "University Of Georgia",
-              "pid": null,
+              "pid": "uga-w-n1",
               "wtn": null,
               "seed": null
              },
@@ -42794,7 +42794,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "capucine jauffret",
               "abbr": "UF",
               "school": "University Of Florida",
-              "pid": null,
+              "pid": "fla-w-n3",
               "wtn": null,
               "seed": null
              },
@@ -42802,7 +42802,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "nadia lagaev",
               "abbr": "UGA",
               "school": "University Of Georgia",
-              "pid": null,
+              "pid": "uga-w-n2",
               "wtn": null,
               "seed": null
              }
@@ -43140,7 +43140,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "bella payne",
               "abbr": "UGA",
               "school": "University Of Georgia",
-              "pid": null,
+              "pid": "uga-w-n1",
               "wtn": null,
               "seed": null
              }
@@ -43179,7 +43179,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -43189,7 +43189,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "capucine jauffret",
               "abbr": "UF",
               "school": "University Of Florida",
-              "pid": null,
+              "pid": "fla-w-n3",
               "wtn": null,
               "seed": null
              },
@@ -43353,7 +43353,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "bella payne",
               "abbr": "UGA",
               "school": "University Of Georgia",
-              "pid": null,
+              "pid": "uga-w-n1",
               "wtn": null,
               "seed": null
              }
@@ -43569,7 +43569,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "tegan bush",
           "school": "Louisiana State University",
           "abbr": "LSU",
-          "pid": null,
+          "pid": "lsu-w-n4",
           "wtn": null
          },
          {
@@ -43719,7 +43719,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "kenzie nguyen",
           "school": "Columbia University",
           "abbr": "COLU",
-          "pid": null,
+          "pid": "colum-w-n3",
           "wtn": null
          },
          {
@@ -43895,7 +43895,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "tegan bush",
               "abbr": "LSU",
               "school": "Louisiana State University",
-              "pid": null,
+              "pid": "lsu-w-n4",
               "wtn": null,
               "seed": null
              },
@@ -44085,7 +44085,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "kenzie nguyen",
               "abbr": "COLU",
               "school": "Columbia University",
-              "pid": null,
+              "pid": "colum-w-n3",
               "wtn": null,
               "seed": null
              }
@@ -45078,7 +45078,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "capucine jauffret",
           "school": "University Of Florida",
           "abbr": "UF",
-          "pid": null,
+          "pid": "fla-w-n3",
           "wtn": null
          },
          {
@@ -45228,7 +45228,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "bella payne",
           "school": "University Of Georgia",
           "abbr": "UGA",
-          "pid": null,
+          "pid": "uga-w-n1",
           "wtn": null
          },
          {
@@ -45774,7 +45774,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "capucine jauffret",
               "abbr": "UF",
               "school": "University Of Florida",
-              "pid": null,
+              "pid": "fla-w-n3",
               "wtn": null,
               "seed": null
              }
@@ -45974,7 +45974,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "bella payne",
               "abbr": "UGA",
               "school": "University Of Georgia",
-              "pid": null,
+              "pid": "uga-w-n1",
               "wtn": null,
               "seed": null
              },
@@ -47238,7 +47238,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "capucine jauffret",
           "school": "University Of Florida",
           "abbr": "UF",
-          "pid": null,
+          "pid": "fla-w-n3",
           "wtn": null
          },
          {
@@ -47318,7 +47318,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "bella payne",
           "school": "University Of Georgia",
           "abbr": "UGA",
-          "pid": null,
+          "pid": "uga-w-n1",
           "wtn": null
          },
          {
@@ -47592,7 +47592,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "capucine jauffret",
               "abbr": "UF",
               "school": "University Of Florida",
-              "pid": null,
+              "pid": "fla-w-n3",
               "wtn": null,
               "seed": null
              },
@@ -47696,7 +47696,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "bella payne",
               "abbr": "UGA",
               "school": "University Of Georgia",
-              "pid": null,
+              "pid": "uga-w-n1",
               "wtn": null,
               "seed": null
              },
