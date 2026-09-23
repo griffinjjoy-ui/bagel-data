@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-23T20:33:33.800Z",
+  "fetchedAt": "2026-09-23T20:41:36.218Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -23821,7 +23821,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-23T20:33:37.660Z",
+  "fetchedAt": "2026-09-23T20:41:39.708Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -27918,7 +27918,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-23T16:30",
@@ -27944,7 +27944,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-09-23T16:30",
@@ -45885,9 +45885,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "5-7 1-6",
+            "winningSide": 2,
             "when": "2026-09-23T13:30",
             "venue": "CARY",
             "sides": [
@@ -46398,7 +46398,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 15.14,
               "seed": null
              },
-             null
+             {
+              "name": "Helena Buchwald",
+              "abbr": "SCAR",
+              "school": "University Of South Carolina",
+              "pid": "sc-p3",
+              "wtn": 13.28,
+              "seed": 12
+             }
             ]
            },
            {
@@ -47083,9 +47090,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 50,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Margot Phanthala",
+          "school": "Columbia University",
+          "abbr": "COLU",
+          "pid": "colum-w-n2",
+          "wtn": 15.4
          },
          {
           "pos": 51,
@@ -47480,7 +47491,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 14.5,
               "seed": null
              },
-             null
+             {
+              "name": "Margot Phanthala",
+              "abbr": "COLU",
+              "school": "Columbia University",
+              "pid": "colum-w-n2",
+              "wtn": 15.4,
+              "seed": null
+             }
             ]
            },
            {
