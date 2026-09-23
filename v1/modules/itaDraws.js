@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-23T18:05:03.269Z",
+  "fetchedAt": "2026-09-23T18:17:10.403Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -16987,9 +16987,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 6-4 6-7(4)",
+            "winningSide": 2,
             "when": "2026-09-23T10:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -17195,9 +17195,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "1-6 3-6",
+            "winningSide": 2,
             "when": "2026-09-23T11:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -17400,7 +17400,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 5.82,
               "seed": null
              },
-             null
+             {
+              "name": "Aidan Kim",
+              "abbr": null,
+              "school": "Ohio State University",
+              "pid": "osu-m-p5",
+              "wtn": 5.2,
+              "seed": 12
+             }
             ]
            },
            {
@@ -17476,7 +17483,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Keegan Rice",
+              "abbr": null,
+              "school": "University Of Virginia",
+              "pid": "uva-m-p8",
+              "wtn": 4.57,
+              "seed": 16
+             }
             ]
            }
           ]
@@ -17991,9 +18005,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 48,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Romain Gales",
+          "school": "Clemson University",
+          "abbr": null,
+          "pid": "clem-m-p4",
+          "wtn": 6.46
          },
          {
           "pos": 49,
@@ -18055,9 +18073,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 56,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Kyle McNally",
+          "school": "University Of Dayton",
+          "abbr": null,
+          "pid": null,
+          "wtn": 6.51
          }
         ],
         "rounds": [
@@ -18240,7 +18262,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 5.64,
               "seed": null
              },
-             null
+             {
+              "name": "Romain Gales",
+              "abbr": null,
+              "school": "Clemson University",
+              "pid": "clem-m-p4",
+              "wtn": 6.46,
+              "seed": null
+             }
             ]
            },
            {
@@ -18316,7 +18345,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Kyle McNally",
+              "abbr": null,
+              "school": "University Of Dayton",
+              "pid": null,
+              "wtn": 6.51,
+              "seed": null
+             }
             ]
            }
           ]
@@ -23533,7 +23569,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-23T18:05:05.846Z",
+  "fetchedAt": "2026-09-23T18:17:13.361Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
