@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-23T23:01:08.923Z",
+  "fetchedAt": "2026-09-23T23:01:22.719Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -24094,7 +24094,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-23T23:01:12.366Z",
+  "fetchedAt": "2026-09-23T23:01:25.368Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -41509,7 +41509,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "Salakthip Ounmang",
           "school": "University Of Oklahoma",
           "abbr": "OKLA",
-          "pid": null,
+          "pid": "ou-p8",
           "wtn": 13.63
          },
          {
@@ -42199,7 +42199,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Salakthip Ounmang",
               "abbr": "OKLA",
               "school": "University Of Oklahoma",
-              "pid": null,
+              "pid": "ou-p8",
               "wtn": 13.63,
               "seed": 5
              }
@@ -42932,7 +42932,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Salakthip Ounmang",
               "abbr": "OKLA",
               "school": "University Of Oklahoma",
-              "pid": null,
+              "pid": "ou-p8",
               "wtn": 13.63,
               "seed": 5
              }
@@ -43301,7 +43301,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "Salakthip Ounmang",
               "abbr": "OKLA",
               "school": "University Of Oklahoma",
-              "pid": null,
+              "pid": "ou-p8",
               "wtn": 13.63,
               "seed": 5
              }
@@ -45412,7 +45412,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "name": "salakthip ounmang",
           "school": "University Of Oklahoma",
           "abbr": "OKLA",
-          "pid": null,
+          "pid": "ou-p8",
           "wtn": null
          },
          {
@@ -46182,7 +46182,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "salakthip ounmang",
               "abbr": "OKLA",
               "school": "University Of Oklahoma",
-              "pid": null,
+              "pid": "ou-p8",
               "wtn": null,
               "seed": null
              },
@@ -46759,7 +46759,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "name": "salakthip ounmang",
               "abbr": "OKLA",
               "school": "University Of Oklahoma",
-              "pid": null,
+              "pid": "ou-p8",
               "wtn": null,
               "seed": null
              },
