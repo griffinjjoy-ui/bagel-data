@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-23T20:21:22.752Z",
+  "fetchedAt": "2026-09-23T20:33:33.800Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -16545,9 +16545,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-3 7-5",
+            "winningSide": 1,
             "when": "2026-09-23T13:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -16571,9 +16571,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "RETIRED",
+            "score": "6-4",
+            "winningSide": 1,
             "when": "2026-09-23T13:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -16597,9 +16597,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-2 6-4",
+            "winningSide": 1,
             "when": "2026-09-23T13:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -17303,8 +17303,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
-             null
+             {
+              "name": "Rodrigo Fernandes",
+              "abbr": null,
+              "school": "Cornell University",
+              "pid": "corn-m-p3",
+              "wtn": 5.64,
+              "seed": 4
+             },
+             {
+              "name": "Andres Santamarta Roig",
+              "abbr": null,
+              "school": "University Of Virginia",
+              "pid": "uva-m-p9",
+              "wtn": 5.39,
+              "seed": null
+             }
             ]
            },
            {
@@ -17315,7 +17329,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Theo Papamalamis",
+              "abbr": null,
+              "school": "Texas A&M University",
+              "pid": "tamu-m-p4",
+              "wtn": 5.46,
+              "seed": 5
+             },
              {
               "name": "Alex Okonkwo",
               "abbr": null,
@@ -17980,21 +18001,33 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 31,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Andy Nguyen",
+          "school": "UCLA",
+          "abbr": null,
+          "pid": "ucla-m-p3",
+          "wtn": 6.55
          },
          {
           "pos": 32,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Oliver Ojakaar",
+          "school": "Univ. Of Texas, Austin",
+          "abbr": null,
+          "pid": "tex-m-p11",
+          "wtn": 5.69
          },
          {
           "pos": 33,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Vit Kalina",
+          "school": "University of Alabama",
+          "abbr": null,
+          "pid": "ala-m-p5",
+          "wtn": 6.17
          },
          {
           "pos": 34,
@@ -18286,8 +18319,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
-             null
+             {
+              "name": "Andy Nguyen",
+              "abbr": null,
+              "school": "UCLA",
+              "pid": "ucla-m-p3",
+              "wtn": 6.55,
+              "seed": null
+             },
+             {
+              "name": "Oliver Ojakaar",
+              "abbr": null,
+              "school": "Univ. Of Texas, Austin",
+              "pid": "tex-m-p11",
+              "wtn": 5.69,
+              "seed": null
+             }
             ]
            },
            {
@@ -18298,7 +18345,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Vit Kalina",
+              "abbr": null,
+              "school": "University of Alabama",
+              "pid": "ala-m-p5",
+              "wtn": 6.17,
+              "seed": null
+             },
              {
               "name": "Hudson Rivera",
               "abbr": null,
@@ -23767,7 +23821,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-23T20:21:25.503Z",
+  "fetchedAt": "2026-09-23T20:33:37.660Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -45441,9 +45495,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-3 6-3",
+            "winningSide": 1,
             "when": "2026-09-23T14:00",
             "venue": "CARY",
             "sides": [
@@ -46154,7 +46208,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Kaitlyn Carnicella",
+              "abbr": "SCAR",
+              "school": "University Of South Carolina",
+              "pid": "sc-p4",
+              "wtn": 13.08,
+              "seed": null
+             },
              {
               "name": "linea bajraliu",
               "abbr": "UGA",
@@ -46872,9 +46933,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 35,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Kyoka Kubo",
+          "school": "University Of Kansas",
+          "abbr": "KAN",
+          "pid": "ku-w-p6",
+          "wtn": 13.82
          },
          {
           "pos": 36,
@@ -47225,7 +47290,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Kyoka Kubo",
+              "abbr": "KAN",
+              "school": "University Of Kansas",
+              "pid": "ku-w-p6",
+              "wtn": 13.82,
+              "seed": null
+             },
              {
               "name": "Alyssa Ahn",
               "abbr": "STAN",
