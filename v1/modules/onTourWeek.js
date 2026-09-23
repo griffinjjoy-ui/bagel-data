@@ -395,6 +395,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-22"
  },
  {
+  "playerId": "uk-m-h1",
+  "name": "Liam Draxl",
+  "teamId": "uk-m",
+  "teamName": "Kentucky",
+  "gender": "men",
+  "event": "San Diego 2 Challenger",
+  "round": "First",
+  "won": true,
+  "opponent": "Jack Kennedy",
+  "result": "6-4 6-4",
+  "date": "2026-09-22"
+ },
+ {
   "playerId": "pepp-w-h5",
   "name": "Lisa Zaar",
   "teamId": "pepp-w",
@@ -626,6 +639,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Camila Zouein Yanez",
   "result": "6-2 6-3",
+  "date": "2026-09-22"
+ },
+ {
+  "playerId": "stan-m-h16",
+  "name": "Tristan Boyer",
+  "teamId": "stan-m",
+  "teamName": "Stanford",
+  "gender": "men",
+  "event": "San Diego 2 Challenger",
+  "round": "First",
+  "won": true,
+  "opponent": "Spencer Johnson",
+  "result": "7-6(4) 6-1",
   "date": "2026-09-22"
  },
  {
@@ -2007,19 +2033,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-18"
  },
  {
-  "playerId": "uk-m-h1",
-  "name": "Liam Draxl",
-  "teamId": "uk-m",
-  "teamName": "Kentucky",
-  "gender": "men",
-  "event": "Davis Cup, World Group, Q2, CAN-FRA 3-1",
-  "round": "Rubber 1",
-  "won": true,
-  "opponent": "Arthur Rinderknech",
-  "result": "6-2 7-5",
-  "date": "2026-09-18"
- },
- {
   "playerId": "tcu-m-h5",
   "name": "Lui Maxted",
   "teamId": "tcu-m",
@@ -2355,19 +2368,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Naiktha Bains",
   "result": "6-3 7-6(4)",
-  "date": "2026-09-16"
- },
- {
-  "playerId": "stan-m-h16",
-  "name": "Tristan Boyer",
-  "teamId": "stan-m",
-  "teamName": "Stanford",
-  "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "Second",
-  "won": false,
-  "opponent": "Abedallah Shelbayh",
-  "result": "7-6(2) 6-1",
   "date": "2026-09-16"
  },
  {
@@ -13345,12 +13345,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "stan-m",
   "teamName": "Stanford",
   "gender": "men",
-  "event": "Tiburon Challenger",
-  "round": "Second",
-  "won": false,
-  "opponent": "Abedallah Shelbayh",
-  "result": "7-6(2) 6-1",
-  "date": "2026-09-16"
+  "event": "San Diego 2 Challenger",
+  "round": "First",
+  "won": true,
+  "opponent": "Spencer Johnson",
+  "result": "7-6(4) 6-1",
+  "date": "2026-09-22"
  },
  "stan-m-h2": {
   "playerId": "stan-m-h2",
@@ -16868,12 +16868,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "uk-m",
   "teamName": "Kentucky",
   "gender": "men",
-  "event": "Davis Cup, World Group, Q2, CAN-FRA 3-1",
-  "round": "Rubber 1",
+  "event": "San Diego 2 Challenger",
+  "round": "First",
   "won": true,
-  "opponent": "Arthur Rinderknech",
-  "result": "6-2 7-5",
-  "date": "2026-09-18"
+  "opponent": "Jack Kennedy",
+  "result": "6-4 6-4",
+  "date": "2026-09-22"
  },
  "uk-m-h10": {
   "playerId": "uk-m-h10",
