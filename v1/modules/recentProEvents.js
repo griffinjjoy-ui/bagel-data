@@ -1925,6 +1925,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "wake-m-p5": [
+  {
+   "key": "22035",
+   "name": "San Diego 2 Challenger",
+   "date": "2026-09-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "233507074",
+     "date": "2026-09-22",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Nishesh Basavareddy",
+     "score": "6-3 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "wisc-m-p7": [
   {
    "key": "22069",

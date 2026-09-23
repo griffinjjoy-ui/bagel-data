@@ -43,6 +43,12 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "end": "2026-09-28"
   },
   {
+    "id": "6ab360c8e3ae706de998a846",
+    "name": "2026 ITA NAIA Men's & Women's Southeast Regional Championship",
+    "start": "2026-09-24",
+    "end": "2026-09-28"
+  },
+  {
     "id": "6ab035fde3ae706de98cdf10",
     "name": "Florida Bedford Cup",
     "start": "2026-09-25",

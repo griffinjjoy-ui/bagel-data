@@ -277,6 +277,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "B1F6336E-1CCB-4F9F-8B2B-29DE6C60DE7D",
+  "date": "2027-01-17",
+  "dateTime": "2027-01-17T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Western Kentucky University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "lou-w",
+   "name": "University Of Louisville",
+   "side": 2
+  }
+ },
+ {
   "id": "25E7B743-ECD7-4344-99C7-C85C7E314C6E",
   "date": "2027-01-17",
   "dateTime": "2027-01-17T19:00:00.000Z",
@@ -834,6 +851,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "wsu-w",
    "name": "Washington State Univ.",
+   "side": 2
+  }
+ },
+ {
+  "id": "14C53243-ED3E-4E1E-9143-F5FABF1430E3",
+  "date": "2027-01-30",
+  "dateTime": "2027-01-30T18:30:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Western Kentucky University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "cincy-w",
+   "name": "University Of Cincinnati",
    "side": 2
   }
  },
@@ -1926,6 +1960,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "C8277962-A249-4662-8EFD-050E62360B57",
+  "date": "2027-02-21",
+  "dateTime": "2027-02-21T16:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Stony Brook University (SUNY)",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "brown-w",
+   "name": "Brown University",
+   "side": 2
+  }
+ },
+ {
   "id": "C097E7FE-B99B-40DD-93B0-48B4E076CEEF",
   "date": "2027-02-22",
   "dateTime": "2027-02-22T22:00:00.000Z",
@@ -2109,6 +2160,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "uab-w",
    "name": "Univ. Of Alabama, Birmingham",
+   "side": 2
+  }
+ },
+ {
+  "id": "ED20CA92-E373-4809-9C88-C6AE4D3C6E2E",
+  "date": "2027-02-27",
+  "dateTime": "2027-02-27T19:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Stony Brook University (SUNY)",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "corn-w",
+   "name": "Cornell University",
    "side": 2
   }
  },
@@ -3809,6 +3877,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "corn-w",
    "name": "Cornell University",
+   "side": 2
+  }
+ },
+ {
+  "id": "C2072B24-0C85-42A6-B372-90AB83D100EC",
+  "date": "2027-04-11",
+  "dateTime": "2027-04-11T18:30:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Western Kentucky University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "uab-w",
+   "name": "Univ. Of Alabama, Birmingham",
    "side": 2
   }
  },

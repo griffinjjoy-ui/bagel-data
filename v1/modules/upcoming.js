@@ -44,11 +44,31 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "duke-m-h1",
+  "name": "Andreja Petrovic",
+  "teamId": "duke-m",
+  "gender": "men",
+  "opponent": "Jack Karlsson Wistrand",
+  "event": "M25 Falun",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
   "playerId": "fla-m-h11",
   "name": "Andres Andrade",
   "teamId": "fla-m",
   "gender": "men",
   "opponent": "Abedallah Shelbayh",
+  "event": "San Diego 2 Challenger",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
+  "playerId": "gt-m-h8",
+  "name": "Andres Martin",
+  "teamId": "gt-m",
+  "gender": "men",
+  "opponent": "Keaton Hance",
   "event": "San Diego 2 Challenger",
   "date": "2026-09-23",
   "day": "today"
@@ -84,6 +104,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "okst-w-p1",
+  "name": "Bianca Barbulescu",
+  "teamId": "okst-w",
+  "gender": "women",
+  "opponent": "Melissa Boyden",
+  "event": "W15 Constanta",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
   "playerId": "aub-m-p1",
   "name": "Billy Blaydes",
   "teamId": "aub-m",
@@ -110,6 +140,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Fons Van Sambeek",
   "event": "M15 Forbach",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
+  "playerId": "pur-w-h6",
+  "name": "Carmen Gallardo Guevara",
+  "teamId": "pur-w",
+  "gender": "women",
+  "opponent": "Tian Jialin",
+  "event": "W50 Yecla",
   "date": "2026-09-23",
   "day": "today"
  },
@@ -144,6 +184,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "pepp-m-h6",
+  "name": "Eero Vasa",
+  "teamId": "pepp-m",
+  "gender": "men",
+  "opponent": "Kenzo Koistila Larsson",
+  "event": "M25 Falun",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
   "playerId": "tenn-w-h7",
   "name": "Elza Tomase",
   "teamId": "tenn-w",
@@ -170,6 +220,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Sven Corbinais",
   "event": "M15 Monastir",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
+  "playerId": "aub-m-h3",
+  "name": "Finlay Murgett",
+  "teamId": "aub-m",
+  "gender": "men",
+  "opponent": "Diogo Marques",
+  "event": "M25 Setubal",
   "date": "2026-09-23",
   "day": "today"
  },
@@ -204,12 +264,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "usd-m-h3",
+  "name": "Iiro Vasa",
+  "teamId": "usd-m",
+  "gender": "men",
+  "opponent": "Wojciech Marek",
+  "event": "M25 Falun",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
   "playerId": "tamu-p3",
   "name": "Ilinca Amariei",
   "teamId": "tamu-w",
   "gender": "women",
   "opponent": "Selena Janicijevic",
   "event": "W50 Plovdiv",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
+  "playerId": "uva-m-h4",
+  "name": "Inaki Montes de la Torre",
+  "teamId": "uva-m",
+  "gender": "men",
+  "opponent": "Benjamin Thomas George",
+  "event": "M25 Setubal",
   "date": "2026-09-23",
   "day": "today"
  },
@@ -234,6 +314,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "osu-m-fp278",
+  "name": "Jack Anthrop",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Fausto Tabacco",
+  "event": "M25 Setubal",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
   "playerId": "tex-m-p9",
   "name": "Kalin Ivanovski",
   "teamId": "tex-m",
@@ -250,6 +340,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Dylan Dietrich",
   "event": "San Diego 2 Challenger",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
+  "playerId": "gt-m-h3",
+  "name": "Keshav Chopra",
+  "teamId": "gt-m",
+  "gender": "men",
+  "opponent": "Aristarkh Safonov",
+  "event": "M25 Sharm ElSheikh",
   "date": "2026-09-23",
   "day": "today"
  },
@@ -284,6 +384,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "wisc-m-p7",
+  "name": "Michael Minasyan",
+  "teamId": "wisc-m",
+  "gender": "men",
+  "opponent": "Samir Banerjee",
+  "event": "M25 Falun",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
   "playerId": "ariz-w-h5",
   "name": "Midori Castillo",
   "teamId": "ariz-w",
@@ -304,12 +414,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "bay-m-h7",
+  "name": "Oskar Brostrom Poulsen",
+  "teamId": "bay-m",
+  "gender": "men",
+  "opponent": "Lewie Lane",
+  "event": "M25 Falun",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
   "playerId": "mich-m-h7",
   "name": "Patrick Maloney",
   "teamId": "mich-m",
   "gender": "men",
   "opponent": "Igor Ribeiro Marcondes",
   "event": "San Diego 2 Challenger",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
+  "playerId": "unc-m-h13",
+  "name": "Patrick Schoen",
+  "teamId": "unc-m",
+  "gender": "men",
+  "opponent": "Francisco Rocha",
+  "event": "M25 Setubal",
   "date": "2026-09-23",
   "day": "today"
  },
@@ -350,6 +480,36 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Aziz Dougaz",
   "event": "M25 Yinchuan",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
+  "playerId": "stan-m-fp374",
+  "name": "Samir Banerjee",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Michael Minasyan",
+  "event": "M25 Falun",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
+  "playerId": "uga-p10",
+  "name": "Sofia Rojas",
+  "teamId": "uga-w",
+  "gender": "women",
+  "opponent": "Rebecca Munk Mortensen",
+  "event": "W50 Yecla",
+  "date": "2026-09-23",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-w-h11",
+  "name": "Tanya Sasnouskaya",
+  "teamId": "tex-w",
+  "gender": "women",
+  "opponent": "Alena Kharchenko",
+  "event": "W15 Monastir",
   "date": "2026-09-23",
   "day": "today"
  },
