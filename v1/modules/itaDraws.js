@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-24T16:07:35.680Z",
+  "fetchedAt": "2026-09-24T16:08:30.188Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -18776,7 +18776,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -18915,7 +18915,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -18934,7 +18934,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -24162,7 +24162,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "C-Quarterfinals",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -24205,7 +24205,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-Quarterfinals",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -24276,7 +24276,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
      }
     ]
    }
-  ]
+  ],
+  "consolationOneDone": true
  },
  "6aaade1be3ae706de9f4abb8": {
   "tournamentId": "6aaade1be3ae706de9f4abb8",
@@ -24284,7 +24285,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-24T16:07:39.116Z",
+  "fetchedAt": "2026-09-24T16:08:32.964Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -25990,7 +25991,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "C-Quarterfinals",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -26016,7 +26017,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-Quarterfinals",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -26035,7 +26036,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-Quarterfinals",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -26061,7 +26062,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-Quarterfinals",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -27826,7 +27827,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-Quarterfinals",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -27845,7 +27846,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-Quarterfinals",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -27864,7 +27865,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-Quarterfinals",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -29547,7 +29548,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "C-Quarterfinals",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -39866,7 +39867,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -39885,7 +39886,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -39904,7 +39905,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -39923,7 +39924,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -39954,7 +39955,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -39973,7 +39974,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -39992,7 +39993,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40011,7 +40012,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40030,7 +40031,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40049,7 +40050,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40068,7 +40069,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40087,7 +40088,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40106,7 +40107,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40125,7 +40126,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40156,7 +40157,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40175,7 +40176,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40194,7 +40195,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40213,7 +40214,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40232,7 +40233,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40251,7 +40252,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40270,7 +40271,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40289,7 +40290,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40308,7 +40309,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40327,7 +40328,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40346,7 +40347,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40365,7 +40366,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40384,7 +40385,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40403,7 +40404,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40422,7 +40423,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40441,7 +40442,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40460,7 +40461,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40479,7 +40480,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40498,7 +40499,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40517,7 +40518,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40536,7 +40537,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40555,7 +40556,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40574,7 +40575,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -40593,7 +40594,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R128",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -45046,7 +45047,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "C-R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -45072,7 +45073,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -45098,7 +45099,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -45124,7 +45125,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -45150,7 +45151,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -45176,7 +45177,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -45202,7 +45203,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -45221,7 +45222,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -48425,7 +48426,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -48525,7 +48526,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -48575,7 +48576,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -48961,6 +48962,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
      }
     ]
    }
-  ]
+  ],
+  "consolationOneDone": true
  }
 };
