@@ -1377,9 +1377,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Jo-Yee Chan",
      "score": "7-6(3) 6-4"
+    },
+    {
+     "id": "744739140",
+     "date": "2026-09-24",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Madison Brengle",
+     "score": "6-3 7-6(2)"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -1399,9 +1408,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Johanne Svendsen",
      "score": "6-1 6-3"
+    },
+    {
+     "id": "744739156",
+     "date": "2026-09-24",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Lucciana Perez Alarcon",
+     "score": "6-0 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -1660,9 +1678,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Michael Minasyan",
      "score": "4-6 6-3 6-2"
+    },
+    {
+     "id": "847950984",
+     "date": "2026-09-24",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Oskar Brostrom Poulsen",
+     "score": "6-2 4-6 7-5"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -1885,9 +1912,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Ena Koike",
      "score": "7-5 7-6(3)"
+    },
+    {
+     "id": "744739156",
+     "date": "2026-09-24",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Reina Goto",
+     "score": "6-0 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
