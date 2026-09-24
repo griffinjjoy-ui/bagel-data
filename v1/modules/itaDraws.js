@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-24T18:46:59.878Z",
+  "fetchedAt": "2026-09-24T18:59:10.310Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -17330,9 +17330,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 6-3",
+            "winningSide": 1,
             "when": "2026-09-24T12:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -17677,7 +17677,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Theo Papamalamis",
+              "abbr": null,
+              "school": "Texas A&M University",
+              "pid": "tamu-m-p4",
+              "wtn": 5.46,
+              "seed": 5
+             },
              {
               "name": "Tomasz Berkieta",
               "abbr": null,
@@ -18019,9 +18026,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 20,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Alex Okonkwo",
+          "school": "Ohio State University",
+          "abbr": null,
+          "pid": "osu-m-p8",
+          "wtn": 5.99
          },
          {
           "pos": 21,
@@ -19024,7 +19035,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Alex Okonkwo",
+              "abbr": null,
+              "school": "Ohio State University",
+              "pid": "osu-m-p8",
+              "wtn": 5.99,
+              "seed": null
+             },
              {
               "name": "Jangjun Kim",
               "abbr": null,
@@ -24445,7 +24463,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-24T18:47:03.649Z",
+  "fetchedAt": "2026-09-24T18:59:13.881Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -47135,9 +47153,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-5 3-6 6-2",
+            "winningSide": 1,
             "when": "2026-09-24T12:30",
             "venue": "CTP",
             "sides": [
@@ -47492,7 +47510,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": null,
               "seed": 5
              },
-             null
+             {
+              "name": "Kaitlyn Carnicella",
+              "abbr": "SCAR",
+              "school": "University Of South Carolina",
+              "pid": "sc-p4",
+              "wtn": 13.08,
+              "seed": null
+             }
             ]
            },
            {
@@ -47860,9 +47885,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 19,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "linea bajraliu",
+          "school": "University Of Georgia",
+          "abbr": "UGA",
+          "pid": "uga-w-n3",
+          "wtn": null
          },
          {
           "pos": 20,
@@ -48872,7 +48901,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "linea bajraliu",
+              "abbr": "UGA",
+              "school": "University Of Georgia",
+              "pid": "uga-w-n3",
+              "wtn": null,
+              "seed": null
+             },
              {
               "name": "Victoria Osuigwe",
               "abbr": "NCST",
