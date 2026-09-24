@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-24T17:58:49.705Z",
+  "fetchedAt": "2026-09-24T18:10:54.088Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -17460,9 +17460,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-3 1-6 7-6(3)",
+            "winningSide": 1,
             "when": "2026-09-24T10:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -17716,7 +17716,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 6.66,
               "seed": null
              },
-             null
+             {
+              "name": "Dominick Mosejczuk",
+              "abbr": null,
+              "school": "Wake Forest University",
+              "pid": "wake-m-p3",
+              "wtn": 5.94,
+              "seed": null
+             }
             ]
            },
            {
@@ -17948,9 +17955,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 15,
-          "bye": true,
-          "seed": null,
-          "name": null
+          "bye": false,
+          "seed": 10,
+          "name": "Gabriel Debru",
+          "school": "Univ. Of Texas, Austin",
+          "abbr": null,
+          "pid": "tex-m-n1",
+          "wtn": null
          },
          {
           "pos": 16,
@@ -18875,7 +18886,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Gabriel Debru",
+              "abbr": null,
+              "school": "Univ. Of Texas, Austin",
+              "pid": "tex-m-n1",
+              "wtn": null,
+              "seed": 10
+             },
              null
             ]
            },
@@ -24391,7 +24409,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-24T17:58:53.003Z",
+  "fetchedAt": "2026-09-24T18:10:56.604Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
