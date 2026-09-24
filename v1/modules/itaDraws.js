@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-24T19:23:14.789Z",
+  "fetchedAt": "2026-09-24T19:35:26.476Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -17278,9 +17278,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-7(9) 0-6",
+            "winningSide": 2,
             "when": "2026-09-24T12:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -17665,7 +17665,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Nicolas Arseneault",
+              "abbr": null,
+              "school": "University Of Kentucky",
+              "pid": "uk-m-p2",
+              "wtn": 5.72,
+              "seed": null
+             },
              null
             ]
            },
@@ -18042,9 +18049,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 22,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Aryan Shah",
+          "school": "Wake Forest University",
+          "abbr": null,
+          "pid": "wake-m-p6",
+          "wtn": 5.84
          },
          {
           "pos": 23,
@@ -19087,7 +19098,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Aryan Shah",
+              "abbr": null,
+              "school": "Wake Forest University",
+              "pid": "wake-m-p6",
+              "wtn": 5.84,
+              "seed": null
+             },
              {
               "name": "Jakub Vrba",
               "abbr": null,
@@ -24470,7 +24488,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-24T19:23:18.456Z",
+  "fetchedAt": "2026-09-24T19:35:29.927Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -48507,9 +48525,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32-Q",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-2 6-1",
+            "winningSide": 1,
             "when": "2026-09-24T14:00",
             "venue": "CTP",
             "sides": [
@@ -48907,7 +48925,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -48921,7 +48939,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 13.94,
               "seed": 7
              },
-             null
+             {
+              "name": "bella payne",
+              "abbr": "UGA",
+              "school": "University Of Georgia",
+              "pid": "uga-w-n1",
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
