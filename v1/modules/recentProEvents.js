@@ -1149,9 +1149,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Melissa Boyden",
      "score": "4-6 7-6(7) 3-2 ret."
+    },
+    {
+     "id": "587566304",
+     "date": "2026-09-24",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Anne Schaefer",
+     "score": "6-4 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {

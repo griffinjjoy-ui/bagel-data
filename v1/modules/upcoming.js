@@ -14,6 +14,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ou-w-h7",
+  "name": "Alina Shcherbinina",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Hanna Chang",
+  "event": "W50 Berkeley",
+  "date": "2026-09-24",
+  "day": "today"
+ },
+ {
   "playerId": "duke-m-h1",
   "name": "Andreja Petrovic",
   "teamId": "duke-m",
@@ -74,6 +84,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tamu-w-h6",
+  "name": "Carson Branstine",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Emma Kamper Malmkjaer",
+  "event": "W50 Berkeley",
+  "date": "2026-09-24",
+  "day": "today"
+ },
+ {
   "playerId": "sc-m-p8",
   "name": "Charlie Swaine",
   "teamId": "sc-m",
@@ -100,6 +120,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Timo Legout",
   "event": "San Diego 2 Challenger",
+  "date": "2026-09-24",
+  "day": "today"
+ },
+ {
+  "playerId": "fsu-m-fp26",
+  "name": "Corey Craig",
+  "teamId": "fsu-m",
+  "gender": "men",
+  "opponent": "William Jansen",
+  "event": "M15 Columbia",
   "date": "2026-09-24",
   "day": "today"
  },
@@ -154,12 +184,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "lsu-p1",
+  "name": "Ella McDonald",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Savannah Broadus",
+  "event": "W50 Berkeley",
+  "date": "2026-09-24",
+  "day": "today"
+ },
+ {
   "playerId": "tenn-w-h7",
   "name": "Elza Tomase",
   "teamId": "tenn-w",
   "gender": "women",
   "opponent": "Kira Pavlova",
   "event": "W50 Yecla",
+  "date": "2026-09-24",
+  "day": "today"
+ },
+ {
+  "playerId": "aub-p6",
+  "name": "Emma Kamper",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Carson Branstine",
+  "event": "W50 Berkeley",
   "date": "2026-09-24",
   "day": "today"
  },
@@ -180,6 +230,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Oluwaseun Peter Ogunsakin",
   "event": "M15 Monastir",
+  "date": "2026-09-24",
+  "day": "today"
+ },
+ {
+  "playerId": "corn-m-h11",
+  "name": "Evan Bynoe",
+  "teamId": "corn-m",
+  "gender": "men",
+  "opponent": "Luis Felipe Miguel",
+  "event": "M15 Columbia",
+  "date": "2026-09-24",
+  "day": "today"
+ },
+ {
+  "playerId": "ou-p4",
+  "name": "Evialina Laskevich",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Kayla Day",
+  "event": "W50 Berkeley",
   "date": "2026-09-24",
   "day": "today"
  },
@@ -324,6 +394,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tamu-p5",
+  "name": "Lucciana Perez",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Reina Goto",
+  "event": "W50 Berkeley",
+  "date": "2026-09-24",
+  "day": "today"
+ },
+ {
   "playerId": "tcu-m-h5",
   "name": "Lui Maxted",
   "teamId": "tcu-m",
@@ -334,12 +414,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "fsu-m-fp23",
+  "name": "Luis Felipe Miguel",
+  "teamId": "fsu-m",
+  "gender": "men",
+  "opponent": "Evan Bynoe",
+  "event": "M15 Columbia",
+  "date": "2026-09-24",
+  "day": "today"
+ },
+ {
   "playerId": "ou-m-p6",
   "name": "Luka Talan Lopatic",
   "teamId": "ou-m",
   "gender": "men",
   "opponent": "Pedro Vives Marcos",
   "event": "M25 Sabadell",
+  "date": "2026-09-24",
+  "day": "today"
+ },
+ {
+  "playerId": "lsu-m-n2",
+  "name": "Michael Bassem Sobhy",
+  "teamId": "lsu-m",
+  "gender": "men",
+  "opponent": "Tito Chavez",
+  "event": "M15 Columbia",
   "date": "2026-09-24",
   "day": "today"
  },
@@ -370,6 +470,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Keaton Hance",
   "event": "San Diego 2 Challenger",
+  "date": "2026-09-24",
+  "day": "today"
+ },
+ {
+  "playerId": "lsu-m-p1",
+  "name": "Olaf Pieczkowski",
+  "teamId": "lsu-m",
+  "gender": "men",
+  "opponent": "Sean Daryabeigi",
+  "event": "M15 Columbia",
   "date": "2026-09-24",
   "day": "today"
  },
@@ -424,6 +534,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ou-w-n3",
+  "name": "Reina Goto",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Lucciana Perez Alarcon",
+  "event": "W50 Berkeley",
+  "date": "2026-09-24",
+  "day": "today"
+ },
+ {
   "playerId": "tulsa-m-p5",
   "name": "Reiya Komagata",
   "teamId": "tulsa-m",
@@ -440,6 +560,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Oskar Brostrom Poulsen",
   "event": "M25 Falun",
+  "date": "2026-09-24",
+  "day": "today"
+ },
+ {
+  "playerId": "pepp-w-h7",
+  "name": "Savannah Broadus",
+  "teamId": "pepp-w",
+  "gender": "women",
+  "opponent": "Ella Mcdonald",
+  "event": "W50 Berkeley",
+  "date": "2026-09-24",
+  "day": "today"
+ },
+ {
+  "playerId": "sc-m-p4",
+  "name": "Sean Daryabeigi",
+  "teamId": "sc-m",
+  "gender": "men",
+  "opponent": "Olaf Pieczkowski",
+  "event": "M15 Columbia",
   "date": "2026-09-24",
   "day": "today"
  },
@@ -520,6 +660,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Lui Maxted",
   "event": "M25 Setubal",
+  "date": "2026-09-24",
+  "day": "today"
+ },
+ {
+  "playerId": "uga-m-n8",
+  "name": "William Jansen",
+  "teamId": "uga-m",
+  "gender": "men",
+  "opponent": "Corey Craig",
+  "event": "M15 Columbia",
+  "date": "2026-09-24",
+  "day": "today"
+ },
+ {
+  "playerId": "aub-p1",
+  "name": "Yara Bartashevich",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Anna Sinclair Rogers",
+  "event": "W50 Berkeley",
   "date": "2026-09-24",
   "day": "today"
  },
