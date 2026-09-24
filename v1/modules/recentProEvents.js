@@ -2364,9 +2364,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Solana Sierra",
      "score": "6-3 6-3"
+    },
+    {
+     "id": "687022471",
+     "date": "2026-09-24",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Cagla Buyukakcay",
+     "score": "6-1 2-6 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -2417,9 +2426,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Alexander Gammariello",
      "score": "3-6 7-6(0) 1-0 ret."
+    },
+    {
+     "id": "765353706",
+     "date": "2026-09-24",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Aristarkh Safonov",
+     "score": "6-0 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],

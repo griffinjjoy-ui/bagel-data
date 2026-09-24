@@ -79,6 +79,18 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "end": "2026-09-28"
   },
   {
+    "id": "6ab52370e3ae706de98db30b",
+    "name": "2026 ITA JUCO Women's Central Regional Championships",
+    "start": "2026-09-25",
+    "end": "2026-09-27"
+  },
+  {
+    "id": "6ab52730e3ae706de9905686",
+    "name": "2026 ITA JUCO Men's Central Regional Championships",
+    "start": "2026-09-25",
+    "end": "2026-09-27"
+  },
+  {
     "id": "6ab40520e3ae706de969c0a8",
     "name": "2026 ITA DIII Men's Northwest Regional Championships",
     "start": "2026-09-26",

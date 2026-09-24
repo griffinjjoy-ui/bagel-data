@@ -684,12 +684,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "uva-m-h16",
+  "name": "Brandon Nakashima",
+  "teamId": "uva-m",
+  "gender": "men",
+  "opponent": "Jakub Mensik",
+  "event": "Laver Cup - London",
+  "date": "2026-09-25",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "cuse-w-h8",
   "name": "Gabriela Andrea Knutson",
   "teamId": "cuse-w",
   "gender": "women",
   "opponent": "Maria Timofeeva",
   "event": "Eupago Porto Open - Porto",
+  "date": "2026-09-25",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "uva-m-h12",
+  "name": "Rafael Jodar",
+  "teamId": "uva-m",
+  "gender": "men",
+  "opponent": "Alexander Bublik",
+  "event": "Laver Cup - London",
   "date": "2026-09-25",
   "day": "tomorrow"
  }
