@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-25T00:18:57.344Z",
+  "fetchedAt": "2026-09-25T01:47:17.195Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -17863,8 +17863,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T18:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -17875,8 +17875,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T18:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -17887,8 +17887,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T18:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -17899,8 +17899,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T18:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -18994,9 +18994,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "SUPERSEDED",
-            "score": null,
-            "winningSide": null,
+            "status": "WALKOVER",
+            "score": "",
+            "winningSide": 1,
             "when": "2026-09-25T09:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -19340,32 +19340,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "C-R16-Q",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "C-R16-Q",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T13:00",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -19376,8 +19352,39 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T13:00",
+            "venue": "University Of Tulsa",
+            "sides": [
+             null,
+             {
+              "name": "Connor Henry Van Schalkwyk",
+              "abbr": null,
+              "school": "Baylor University",
+              "pid": "bay-m-fp67",
+              "wtn": 5.99,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "C-R16-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-25T18:30",
+            "venue": "University Of Tulsa",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R16-Q",
+            "status": "SUPERSEDED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-09-25T18:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Louis Bowden",
@@ -19395,8 +19402,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T12:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -19407,8 +19414,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T12:30",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -19419,8 +19426,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T13:00",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -19431,8 +19438,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T13:00",
+            "venue": "University Of Tulsa",
             "sides": [
              null,
              null
@@ -23848,9 +23855,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R16",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-6 7-5 [4-10]",
+            "winningSide": 2,
             "when": "2026-09-24T16:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -23908,8 +23915,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T15:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Carpico/Filin",
@@ -23934,8 +23941,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T15:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Kudernatsch/Pampanin",
@@ -23960,8 +23967,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T15:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Ruland/Berrut",
@@ -23986,10 +23993,17 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T15:30",
+            "venue": "University Of Tulsa",
             "sides": [
-             null,
+             {
+              "name": "Robertson/Barbier Gazeu",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": 7
+             },
              {
               "name": "Kim/Nakashima",
               "abbr": null,
@@ -24642,8 +24656,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T15:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Exsted/Trouve",
@@ -24668,8 +24682,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T13:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Vales/Bharadwaj",
@@ -24694,8 +24708,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T16:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Kim/Santamarta Roig",
@@ -24720,8 +24734,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-25T13:30",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Roh/Martinez Gomez",
@@ -24804,7 +24818,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-25T00:19:00.471Z",
+  "fetchedAt": "2026-09-25T01:47:19.675Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
