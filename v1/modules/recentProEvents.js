@@ -1639,9 +1639,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "John Hallquist Lithen",
      "score": "6-2 6-4"
+    },
+    {
+     "id": "1242779700",
+     "date": "2026-09-25",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Oliver Bonding",
+     "score": "6-4 6-0"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -1679,10 +1688,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Oskar Brostrom Poulsen",
      "score": "6-2 4-6 7-5"
+    },
+    {
+     "id": "1242778945",
+     "date": "2026-09-25",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Eero Vasa",
+     "score": "6-2 6-1"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "22062",
