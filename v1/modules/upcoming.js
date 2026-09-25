@@ -54,6 +54,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "sc-m-p8",
+  "name": "Charlie Swaine",
+  "teamId": "sc-m",
+  "gender": "men",
+  "opponent": "Oliver Bonding",
+  "event": "M15 Columbia",
+  "date": "2026-09-25",
+  "day": "today"
+ },
+ {
   "playerId": "pepp-m-h1",
   "name": "Daniel De Jonge",
   "teamId": "pepp-m",
@@ -94,6 +104,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "lsu-p1",
+  "name": "Ella McDonald",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Madison Brengle",
+  "event": "W50 Berkeley",
+  "date": "2026-09-25",
+  "day": "today"
+ },
+ {
+  "playerId": "aub-p6",
+  "name": "Emma Kamper",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Lucciana Perez Alarcon",
+  "event": "W50 Berkeley",
+  "date": "2026-09-25",
+  "day": "today"
+ },
+ {
   "playerId": "tenn-w-h3",
   "name": "Esther Adeshina",
   "teamId": "tenn-w",
@@ -110,6 +140,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Liam Branger",
   "event": "M15 Monastir",
+  "date": "2026-09-25",
+  "day": "today"
+ },
+ {
+  "playerId": "corn-m-h11",
+  "name": "Evan Bynoe",
+  "teamId": "corn-m",
+  "gender": "men",
+  "opponent": "William Jansen",
+  "event": "M15 Columbia",
   "date": "2026-09-25",
   "day": "today"
  },
@@ -214,6 +254,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tamu-p5",
+  "name": "Lucciana Perez",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Emma Kamper Malmkjaer",
+  "event": "W50 Berkeley",
+  "date": "2026-09-25",
+  "day": "today"
+ },
+ {
   "playerId": "tcu-m-h5",
   "name": "Lui Maxted",
   "teamId": "tcu-m",
@@ -294,6 +344,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "sc-m-p4",
+  "name": "Sean Daryabeigi",
+  "teamId": "sc-m",
+  "gender": "men",
+  "opponent": "Tito Chavez",
+  "event": "M15 Columbia",
+  "date": "2026-09-25",
+  "day": "today"
+ },
+ {
   "playerId": "tex-m-h11",
   "name": "Timo Legout",
   "teamId": "tex-m",
@@ -322,6 +382,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "event": "San Diego 2 Challenger",
   "date": "2026-09-25",
   "day": "today"
+ },
+ {
+  "playerId": "uga-m-n8",
+  "name": "William Jansen",
+  "teamId": "uga-m",
+  "gender": "men",
+  "opponent": "Evan Bynoe",
+  "event": "M15 Columbia",
+  "date": "2026-09-25",
+  "day": "today"
+ },
+ {
+  "playerId": "ncst-w-h3",
+  "name": "Amelia Rajecki",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Hiroko Kuwata",
+  "event": "Jingshan Tennis Open - Jingshan",
+  "date": "2026-09-26",
+  "day": "tomorrow"
  },
  {
   "playerId": "fla-m-h11",

@@ -2410,9 +2410,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Cagla Buyukakcay",
      "score": "6-1 2-6 6-2"
+    },
+    {
+     "id": "1048067582",
+     "date": "2026-09-25",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Anastasia Gasanova",
+     "score": "4-6 6-2 7-5"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -2472,9 +2481,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Aristarkh Safonov",
      "score": "6-0 6-2"
+    },
+    {
+     "id": "1161566460",
+     "date": "2026-09-25",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Chirag Duhan",
+     "score": "6-3 6-3"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
