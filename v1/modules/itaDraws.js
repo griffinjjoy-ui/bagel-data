@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-26T02:00:33.752Z",
+  "fetchedAt": "2026-09-26T06:07:31.150Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -17860,9 +17860,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "Quarterfinals",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 7-6(7) 3-6",
+            "winningSide": 2,
             "when": "2026-09-25T18:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -17912,9 +17912,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "Quarterfinals",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-6 6-3 6-4",
+            "winningSide": 1,
             "when": "2026-09-25T18:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -17975,7 +17975,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-09-26T12:00",
             "venue": "University Of Tulsa",
             "sides": [
-             null,
+             {
+              "name": "Nicolas Arseneault",
+              "abbr": null,
+              "school": "University Of Kentucky",
+              "pid": "uk-m-p2",
+              "wtn": 5.72,
+              "seed": null
+             },
              {
               "name": "Roger Pascual Ferra",
               "abbr": null,
@@ -17994,7 +18001,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-09-26T12:00",
             "venue": "University Of Tulsa",
             "sides": [
-             null,
+             {
+              "name": "Dominick Mosejczuk",
+              "abbr": null,
+              "school": "Wake Forest University",
+              "pid": "wake-m-p3",
+              "wtn": 5.94,
+              "seed": null
+             },
              {
               "name": "Keegan Rice",
               "abbr": null,
@@ -19439,9 +19453,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "C-R16-Q",
-            "status": "SUPERSEDED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 4-6 6-3",
+            "winningSide": 1,
             "when": "2026-09-25T13:00",
             "venue": "University Of Tulsa",
             "sides": [
@@ -19652,7 +19666,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "C-R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": "2026-09-26T10:30",
@@ -19666,7 +19680,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 5.74,
               "seed": null
              },
-             null
+             {
+              "name": "Henry Jefferson",
+              "abbr": null,
+              "school": "University of Florida",
+              "pid": "fla-m-p5",
+              "wtn": 6.28,
+              "seed": null
+             }
             ]
            },
            {
@@ -24302,9 +24323,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "Quarterfinals",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "2-6 6-7(6)",
+            "winningSide": 2,
             "when": "2026-09-25T15:30",
             "venue": "University Of Tulsa",
             "sides": [
@@ -24373,7 +24394,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": null,
               "seed": null
              },
-             null
+             {
+              "name": "Kim/Nakashima",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
             ]
            }
           ]
@@ -25098,8 +25126,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-09-26T11:00",
+            "venue": "University Of Tulsa",
             "sides": [
              {
               "name": "Exsted/Trouve",
@@ -25179,7 +25207,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-26T02:00:37.049Z",
+  "fetchedAt": "2026-09-26T06:07:34.488Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
