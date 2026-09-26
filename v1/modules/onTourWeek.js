@@ -57,6 +57,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-26"
  },
  {
+  "playerId": "pur-w-h6",
+  "name": "Carmen Gallardo Guevara",
+  "teamId": "pur-w",
+  "teamName": "Purdue",
+  "gender": "women",
+  "event": "W50 Yecla",
+  "round": "1/2",
+  "won": true,
+  "opponent": "Angela Fita Boluda",
+  "result": "6-2 7-5",
+  "date": "2026-09-26"
+ },
+ {
   "playerId": "uga-p2",
   "name": "Deniz Dilek",
   "teamId": "uga-w",
@@ -200,6 +213,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-26"
  },
  {
+  "playerId": "sc-m-p4",
+  "name": "Sean Daryabeigi",
+  "teamId": "sc-m",
+  "teamName": "South Carolina",
+  "gender": "men",
+  "event": "M15 Columbia",
+  "round": "1/2",
+  "won": true,
+  "opponent": "William Jansen",
+  "result": "7-6(4) ret.",
+  "date": "2026-09-26"
+ },
+ {
   "playerId": "tamu-m-h19",
   "name": "Valentin Vacherot",
   "teamId": "tamu-m",
@@ -210,6 +236,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Lloyd Harris",
   "result": "6-4 7-6(5)",
+  "date": "2026-09-26"
+ },
+ {
+  "playerId": "uga-m-n8",
+  "name": "William Jansen",
+  "teamId": "uga-m",
+  "teamName": "Georgia",
+  "gender": "men",
+  "event": "M15 Columbia",
+  "round": "1/2",
+  "won": false,
+  "opponent": "Sean Daryabeigi",
+  "result": "7-6(4) ret.",
   "date": "2026-09-26"
  },
  {
@@ -236,19 +275,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Jakub Mensik",
   "result": "6-1 3-6 10-7",
-  "date": "2026-09-25"
- },
- {
-  "playerId": "pur-w-h6",
-  "name": "Carmen Gallardo Guevara",
-  "teamId": "pur-w",
-  "teamName": "Purdue",
-  "gender": "women",
-  "event": "W50 Yecla",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Georgina Garcia-Perez",
-  "result": "6-4 6-4",
   "date": "2026-09-25"
  },
  {
@@ -525,19 +551,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-25"
  },
  {
-  "playerId": "sc-m-p4",
-  "name": "Sean Daryabeigi",
-  "teamId": "sc-m",
-  "teamName": "South Carolina",
-  "gender": "men",
-  "event": "M15 Columbia",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Tito Chavez",
-  "result": "6-4 7-6(3)",
-  "date": "2026-09-25"
- },
- {
   "playerId": "tex-m-h11",
   "name": "Timo Legout",
   "teamId": "tex-m",
@@ -574,19 +587,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Timo Legout",
   "result": "2-6 7-5 7-5",
-  "date": "2026-09-25"
- },
- {
-  "playerId": "uga-m-n8",
-  "name": "William Jansen",
-  "teamId": "uga-m",
-  "teamName": "Georgia",
-  "gender": "men",
-  "event": "M15 Columbia",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Evan Bynoe",
-  "result": "6-3 6-3",
   "date": "2026-09-25"
  },
  {
@@ -12579,11 +12579,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Purdue",
   "gender": "women",
   "event": "W50 Yecla",
-  "round": "1/4",
+  "round": "1/2",
   "won": true,
-  "opponent": "Georgina Garcia-Perez",
-  "result": "6-4 6-4",
-  "date": "2026-09-25"
+  "opponent": "Angela Fita Boluda",
+  "result": "6-2 7-5",
+  "date": "2026-09-26"
  },
  "pur-w-h7": {
   "playerId": "pur-w-h7",
@@ -12943,11 +12943,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "South Carolina",
   "gender": "men",
   "event": "M15 Columbia",
-  "round": "1/4",
+  "round": "1/2",
   "won": true,
-  "opponent": "Tito Chavez",
-  "result": "6-4 7-6(3)",
-  "date": "2026-09-25"
+  "opponent": "William Jansen",
+  "result": "7-6(4) ret.",
+  "date": "2026-09-26"
  },
  "sc-m-p6": {
   "playerId": "sc-m-p6",
@@ -16791,11 +16791,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Georgia",
   "gender": "men",
   "event": "M15 Columbia",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Evan Bynoe",
-  "result": "6-3 6-3",
-  "date": "2026-09-25"
+  "round": "1/2",
+  "won": false,
+  "opponent": "Sean Daryabeigi",
+  "result": "7-6(4) ret.",
+  "date": "2026-09-26"
  },
  "uga-m-p1": {
   "playerId": "uga-m-p1",

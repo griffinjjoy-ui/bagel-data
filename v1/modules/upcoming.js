@@ -224,6 +224,96 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ark-m-h14",
+  "name": "Alexandre Reco",
+  "teamId": "ark-m",
+  "gender": "men",
+  "opponent": "Justin Boulais",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "date": "2026-09-27",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "cal-m-h6",
+  "name": "Carl Emil Overbeck",
+  "teamId": "cal-m",
+  "gender": "men",
+  "opponent": "Fausto Tabacco",
+  "event": "Porto Challenger",
+  "date": "2026-09-27",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tenn-m-h5",
+  "name": "Emile Hudd",
+  "teamId": "tenn-m",
+  "gender": "men",
+  "opponent": "Yanis Ghazouani Durand",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "date": "2026-09-27",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "wake-m-h3",
+  "name": "Filippo Moroni",
+  "teamId": "wake-m",
+  "gender": "men",
+  "opponent": "Gianmarco Ferrari",
+  "event": "Bari Challenger",
+  "date": "2026-09-27",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "osu-m-h2",
+  "name": "Justin Boulais",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Alexandre Reco",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "date": "2026-09-27",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "unc-m-h8",
+  "name": "Karl Poling",
+  "teamId": "unc-m",
+  "gender": "men",
+  "opponent": "Patrick Zahraj",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "date": "2026-09-27",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tcu-m-h5",
+  "name": "Lui Maxted",
+  "teamId": "tcu-m",
+  "gender": "men",
+  "opponent": "Francisco Rocha",
+  "event": "Porto Challenger",
+  "date": "2026-09-27",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ou-m-p1",
+  "name": "Luis Alvarez",
+  "teamId": "ou-m",
+  "gender": "men",
+  "opponent": "Svyatoslav Gulin",
+  "event": "Bari Challenger",
+  "date": "2026-09-27",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ucla-m-h5",
+  "name": "Patrick Zahraj",
+  "teamId": "ucla-m",
+  "gender": "men",
+  "opponent": "Karl Poling",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "date": "2026-09-27",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ncst-w-h11",
   "name": "Priska Nugroho",
   "teamId": "ncst-w",

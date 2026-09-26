@@ -1471,10 +1471,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Tito Chavez",
      "score": "6-4 7-6(3)"
+    },
+    {
+     "id": "1598462716",
+     "date": "2026-09-26",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "William Jansen",
+     "score": "7-6(4) ret."
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "sc-m-p6": [
@@ -2358,10 +2367,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Evan Bynoe",
      "score": "6-3 6-3"
+    },
+    {
+     "id": "1598462716",
+     "date": "2026-09-26",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Sean Daryabeigi",
+     "score": "7-6(4) ret."
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "uga-p2": [
