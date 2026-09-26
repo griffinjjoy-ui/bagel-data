@@ -24,6 +24,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "uga-p7",
+  "name": "Aysegul Mert",
+  "teamId": "uga-w",
+  "gender": "women",
+  "opponent": "Anastasia Tikhonova",
+  "event": "Adana Open - Adana",
+  "date": "2026-09-26",
+  "day": "today"
+ },
+ {
   "playerId": "usc-m-p3",
   "name": "Branko Djuric",
   "teamId": "usc-m",
@@ -64,6 +74,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "lsu-p1",
+  "name": "Ella McDonald",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Kayla Day",
+  "event": "W50 Berkeley",
+  "date": "2026-09-26",
+  "day": "today"
+ },
+ {
   "playerId": "lou-m-h5",
   "name": "Etienne Donnet",
   "teamId": "lou-m",
@@ -74,12 +94,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "unc-w-h2",
+  "name": "Fiona Crawley",
+  "teamId": "unc-w",
+  "gender": "women",
+  "opponent": "Adelina Lachinova",
+  "event": "Adana Open - Adana",
+  "date": "2026-09-26",
+  "day": "today"
+ },
+ {
   "playerId": "uva-m-h4",
   "name": "Inaki Montes de la Torre",
   "teamId": "uva-m",
   "gender": "men",
   "opponent": "Michael Agwi",
   "event": "M25 Setubal",
+  "date": "2026-09-26",
+  "day": "today"
+ },
+ {
+  "playerId": "usc-m-h8",
+  "name": "Learner Tien",
+  "teamId": "usc-m",
+  "gender": "men",
+  "opponent": "Flavio Cobolli",
+  "event": "Laver Cup - London",
+  "date": "2026-09-26",
+  "day": "today"
+ },
+ {
+  "playerId": "tamu-p5",
+  "name": "Lucciana Perez",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Janae Preston",
+  "event": "W50 Berkeley",
   "date": "2026-09-26",
   "day": "today"
  },
@@ -134,6 +184,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "sc-m-p4",
+  "name": "Sean Daryabeigi",
+  "teamId": "sc-m",
+  "gender": "men",
+  "opponent": "William Jansen",
+  "event": "M15 Columbia",
+  "date": "2026-09-26",
+  "day": "today"
+ },
+ {
   "playerId": "tex-m-h11",
   "name": "Timo Legout",
   "teamId": "tex-m",
@@ -150,6 +210,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Lloyd Harris",
   "event": "Chengdu Open - Chengdu",
+  "date": "2026-09-26",
+  "day": "today"
+ },
+ {
+  "playerId": "uga-m-n8",
+  "name": "William Jansen",
+  "teamId": "uga-m",
+  "gender": "men",
+  "opponent": "Sean Daryabeigi",
+  "event": "M15 Columbia",
   "date": "2026-09-26",
   "day": "today"
  }

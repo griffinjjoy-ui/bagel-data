@@ -2397,6 +2397,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "uga-p7": [
   {
+   "key": "17261",
+   "name": "Adana Open - Adana",
+   "date": "2026-09-28",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "1299769626",
+     "date": "2026-09-26",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Anastasia Tikhonova",
+     "score": "7-6(3) 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17260",
    "name": "Ankara Open - Ankara",
    "date": "2026-09-21",
