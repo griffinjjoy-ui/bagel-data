@@ -222,6 +222,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "event": "M15 Columbia",
   "date": "2026-09-26",
   "day": "today"
+ },
+ {
+  "playerId": "ncst-w-h11",
+  "name": "Priska Nugroho",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Unknown Player",
+  "event": "Jingshan Tennis Open - Jingshan",
+  "date": "2026-09-27",
+  "day": "tomorrow"
  }
 ];
 

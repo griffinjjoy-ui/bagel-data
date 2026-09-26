@@ -1631,10 +1631,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Eero Vasa",
      "score": "6-2 6-1"
+    },
+    {
+     "id": "1555049601",
+     "date": "2026-09-26",
+     "roundId": 12,
+     "round": "Final",
+     "won": false,
+     "opponent": "Henry Bernet",
+     "score": "7-6(3) 6-4"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Final",
+   "reachedTone": "amber"
   },
   {
    "key": "22062",
@@ -2389,10 +2398,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Anastasia Gasanova",
      "score": "4-6 6-2 7-5"
+    },
+    {
+     "id": "1335389217",
+     "date": "2026-09-26",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Berfu Cengiz",
+     "score": "6-1 6-1"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "uga-p7": [
@@ -2480,10 +2498,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Chirag Duhan",
      "score": "6-3 6-3"
+    },
+    {
+     "id": "1492033649",
+     "date": "2026-09-26",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Robert Strombachs",
+     "score": "6-4 6-2"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "usf-m-p3": [
