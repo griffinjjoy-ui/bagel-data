@@ -5,6 +5,32 @@
 // on the ITF/Challenger/WTA-ATP circuit right now, ranked or not.
 export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWeek ?? [
  {
+  "playerId": "ark-m-h14",
+  "name": "Alexandre Reco",
+  "teamId": "ark-m",
+  "teamName": "Arkansas",
+  "gender": "men",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Justin Boulais",
+  "result": "6-4 6-4",
+  "date": "2026-09-27"
+ },
+ {
+  "playerId": "pur-w-h6",
+  "name": "Carmen Gallardo Guevara",
+  "teamId": "pur-w",
+  "teamName": "Purdue",
+  "gender": "women",
+  "event": "W50 Yecla",
+  "round": "Final",
+  "won": false,
+  "opponent": "Charo Esquiva Banuls",
+  "result": "6-3 6-2",
+  "date": "2026-09-27"
+ },
+ {
   "playerId": "uva-m-p2",
   "name": "Dylan Dietrich",
   "teamId": "uva-m",
@@ -15,6 +41,32 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Nishesh Basavareddy",
   "result": "6-7(10) 6-4 5-1 ret.",
+  "date": "2026-09-27"
+ },
+ {
+  "playerId": "osu-m-h2",
+  "name": "Justin Boulais",
+  "teamId": "osu-m",
+  "teamName": "Ohio State",
+  "gender": "men",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "round": "Q1",
+  "won": false,
+  "opponent": "Alexandre Reco",
+  "result": "6-4 6-4",
+  "date": "2026-09-27"
+ },
+ {
+  "playerId": "unc-m-h8",
+  "name": "Karl Poling",
+  "teamId": "unc-m",
+  "teamName": "North Carolina",
+  "gender": "men",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "round": "Q1",
+  "won": false,
+  "opponent": "Patrick Zahraj",
+  "result": "3-6 6-3 6-2",
   "date": "2026-09-27"
  },
  {
@@ -31,6 +83,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-27"
  },
  {
+  "playerId": "ucla-m-h5",
+  "name": "Patrick Zahraj",
+  "teamId": "ucla-m",
+  "teamName": "UCLA",
+  "gender": "men",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Karl Poling",
+  "result": "3-6 6-3 6-2",
+  "date": "2026-09-27"
+ },
+ {
   "playerId": "ncst-w-h11",
   "name": "Priska Nugroho",
   "teamId": "ncst-w",
@@ -41,6 +106,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Unknown Player",
   "result": "6-4 7-5",
+  "date": "2026-09-27"
+ },
+ {
+  "playerId": "unc-w-p2",
+  "name": "Reese Brantmeier",
+  "teamId": "unc-w",
+  "teamName": "North Carolina",
+  "gender": "women",
+  "event": "Eupago Porto Open - Porto",
+  "round": "Final",
+  "won": false,
+  "opponent": "Maria Timofeeva",
+  "result": "7-6(8) 6-2",
   "date": "2026-09-27"
  },
  {
@@ -93,19 +171,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Robert Strombachs",
   "result": "6-4 6-2",
-  "date": "2026-09-26"
- },
- {
-  "playerId": "pur-w-h6",
-  "name": "Carmen Gallardo Guevara",
-  "teamId": "pur-w",
-  "teamName": "Purdue",
-  "gender": "women",
-  "event": "W50 Yecla",
-  "round": "1/2",
-  "won": true,
-  "opponent": "Angela Fita Boluda",
-  "result": "6-2 7-5",
   "date": "2026-09-26"
  },
  {
@@ -223,19 +288,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Alec Deckers",
   "result": "6-4 6-4",
-  "date": "2026-09-26"
- },
- {
-  "playerId": "unc-w-p2",
-  "name": "Reese Brantmeier",
-  "teamId": "unc-w",
-  "teamName": "North Carolina",
-  "gender": "women",
-  "event": "Eupago Porto Open - Porto",
-  "round": "1/2",
-  "won": true,
-  "opponent": "Sinja Kraus",
-  "result": "6-3 6-0",
   "date": "2026-09-26"
  },
  {
@@ -1747,19 +1799,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-22"
  },
  {
-  "playerId": "osu-m-h2",
-  "name": "Justin Boulais",
-  "teamId": "osu-m",
-  "teamName": "Ohio State",
-  "gender": "men",
-  "event": "St. Tropez Challenger",
-  "round": "First",
-  "won": false,
-  "opponent": "Harold Mayot",
-  "result": "6-4 2-6 7-6(2)",
-  "date": "2026-09-22"
- },
- {
   "playerId": "usd-w-h6",
   "name": "Kailey Evans",
   "teamId": "usd-w",
@@ -1770,19 +1809,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Hanna Chang",
   "result": "7-5 3-6 6-1",
-  "date": "2026-09-22"
- },
- {
-  "playerId": "unc-m-h8",
-  "name": "Karl Poling",
-  "teamId": "unc-m",
-  "teamName": "North Carolina",
-  "gender": "men",
-  "event": "St. Tropez Challenger",
-  "round": "First",
-  "won": false,
-  "opponent": "Titouan Droguet",
-  "result": "6-7(6) 6-4 7-6(4)",
   "date": "2026-09-22"
  },
  {
@@ -2319,19 +2345,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-21"
  },
  {
-  "playerId": "ucla-m-h5",
-  "name": "Patrick Zahraj",
-  "teamId": "ucla-m",
-  "teamName": "UCLA",
-  "gender": "men",
-  "event": "St. Tropez Challenger",
-  "round": "Q3",
-  "won": false,
-  "opponent": "Murphy Cassone",
-  "result": "6-2 7-5",
-  "date": "2026-09-21"
- },
- {
   "playerId": "fla-m-p7",
   "name": "Tanapatt Nirundorn",
   "teamId": "fla-m",
@@ -2629,19 +2642,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "opponent": "Ozan Baris",
   "result": "6-1 6-2",
   "date": "2026-09-20"
- },
- {
-  "playerId": "ark-m-h14",
-  "name": "Alexandre Reco",
-  "teamId": "ark-m",
-  "teamName": "Arkansas",
-  "gender": "men",
-  "event": "M25 Nevers",
-  "round": "1/2",
-  "won": false,
-  "opponent": "Aidan Mchugh",
-  "result": "7-6(2) 6-3",
-  "date": "2026-09-19"
  },
  {
   "playerId": "stan-m-h4",
@@ -3361,12 +3361,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ark-m",
   "teamName": "Arkansas",
   "gender": "men",
-  "event": "M25 Nevers",
-  "round": "1/2",
-  "won": false,
-  "opponent": "Aidan Mchugh",
-  "result": "7-6(2) 6-3",
-  "date": "2026-09-19"
+  "event": "Mouilleron-Le-Captif Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Justin Boulais",
+  "result": "6-4 6-4",
+  "date": "2026-09-27"
  },
  "ark-m-h18": {
   "playerId": "ark-m-h18",
@@ -11200,12 +11200,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "osu-m",
   "teamName": "Ohio State",
   "gender": "men",
-  "event": "St. Tropez Challenger",
-  "round": "First",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "round": "Q1",
   "won": false,
-  "opponent": "Harold Mayot",
-  "result": "6-4 2-6 7-6(2)",
-  "date": "2026-09-22"
+  "opponent": "Alexandre Reco",
+  "result": "6-4 6-4",
+  "date": "2026-09-27"
  },
  "osu-m-h4": {
   "playerId": "osu-m-h4",
@@ -12475,11 +12475,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Purdue",
   "gender": "women",
   "event": "W50 Yecla",
-  "round": "1/2",
-  "won": true,
-  "opponent": "Angela Fita Boluda",
-  "result": "6-2 7-5",
-  "date": "2026-09-26"
+  "round": "Final",
+  "won": false,
+  "opponent": "Charo Esquiva Banuls",
+  "result": "6-3 6-2",
+  "date": "2026-09-27"
  },
  "pur-w-h7": {
   "playerId": "pur-w-h7",
@@ -16205,12 +16205,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ucla-m",
   "teamName": "UCLA",
   "gender": "men",
-  "event": "St. Tropez Challenger",
-  "round": "Q3",
-  "won": false,
-  "opponent": "Murphy Cassone",
-  "result": "6-2 7-5",
-  "date": "2026-09-21"
+  "event": "Mouilleron-Le-Captif Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Karl Poling",
+  "result": "3-6 6-3 6-2",
+  "date": "2026-09-27"
  },
  "ucla-m-h7": {
   "playerId": "ucla-m-h7",
@@ -17310,12 +17310,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "unc-m",
   "teamName": "North Carolina",
   "gender": "men",
-  "event": "St. Tropez Challenger",
-  "round": "First",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "round": "Q1",
   "won": false,
-  "opponent": "Titouan Droguet",
-  "result": "6-7(6) 6-4 7-6(4)",
-  "date": "2026-09-22"
+  "opponent": "Patrick Zahraj",
+  "result": "3-6 6-3 6-2",
+  "date": "2026-09-27"
  },
  "unc-m-h9": {
   "playerId": "unc-m-h9",
@@ -17467,11 +17467,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "North Carolina",
   "gender": "women",
   "event": "Eupago Porto Open - Porto",
-  "round": "1/2",
-  "won": true,
-  "opponent": "Sinja Kraus",
-  "result": "6-3 6-0",
-  "date": "2026-09-26"
+  "round": "Final",
+  "won": false,
+  "opponent": "Maria Timofeeva",
+  "result": "7-6(8) 6-2",
+  "date": "2026-09-27"
  },
  "unc-w-p3": {
   "playerId": "unc-w-p3",
