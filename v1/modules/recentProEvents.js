@@ -435,28 +435,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
- "clem-m-p9": [
-  {
-   "key": "22039",
-   "name": "Columbus Challenger",
-   "date": "2026-09-28",
-   "surface": "I.hard",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "1700696049",
-     "date": "2026-09-27",
-     "roundId": 1,
-     "round": "Q1",
-     "won": false,
-     "opponent": "Luca Staeheli",
-     "score": "6-3 6-2"
-    }
-   ],
-   "reached": "Q1",
-   "reachedTone": "neutral"
-  }
- ],
  "duke-w-n2": [
   {
    "key": "16745",
