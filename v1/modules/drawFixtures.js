@@ -2,7 +2,7 @@
 // Per-event draw state for this week: finished flag (the singleton
 // final round has a result), our champion when one of ours won it, and
 // per-player entry status (seed, main/quali, eliminated). Draws appear
-// when made: quali ~Saturday, main ~Sun/Mon. asOf 2026-09-26.
+// when made: quali ~Saturday, main ~Sun/Mon. asOf 2026-09-27.
 export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEvents ?? [
  {
   "event": "Jingshan Tennis Open - Jingshan",
@@ -343,14 +343,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "pepp-w-h7",
-    "seed": "6",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
     "playerId": "wisc-w-p7",
     "seed": null,
     "entry": "Q",
@@ -359,8 +351,8 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "ou-w-n3",
-    "seed": null,
+    "playerId": "pepp-w-h7",
+    "seed": "6",
     "entry": null,
     "inMain": true,
     "eliminated": true,
@@ -370,6 +362,14 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "playerId": "ucla-w-p3",
     "seed": null,
     "entry": "WC",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ou-w-n3",
+    "seed": null,
+    "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -431,7 +431,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "ou-p5",
+    "playerId": "aub-p3",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -439,7 +439,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "aub-p3",
+    "playerId": "ou-p5",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -1309,7 +1309,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "tenn-m-h6",
+    "playerId": "lsu-m-n1",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -1317,7 +1317,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "lsu-m-n1",
+    "playerId": "tenn-m-h6",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -3257,6 +3257,24 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": false
    }
   ]
+ },
+ {
+  "event": "W35 Reims",
+  "tournamentId": null,
+  "tour": "wta",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "lsu-p12",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": false,
+    "played": false
+   }
+  ]
  }
 ];
 
@@ -3627,14 +3645,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "pepp-w-h7",
-  "event": "W50 Berkeley",
-  "seed": "6",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
   "playerId": "wisc-w-p7",
   "event": "W50 Berkeley",
   "seed": null,
@@ -3643,9 +3653,9 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "ou-w-n3",
+  "playerId": "pepp-w-h7",
   "event": "W50 Berkeley",
-  "seed": null,
+  "seed": "6",
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
@@ -3655,6 +3665,14 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "event": "W50 Berkeley",
   "seed": null,
   "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ou-w-n3",
+  "event": "W50 Berkeley",
+  "seed": null,
+  "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
@@ -3715,7 +3733,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "ou-p5",
+  "playerId": "aub-p3",
   "event": "W50 Berkeley",
   "seed": null,
   "entry": null,
@@ -3723,7 +3741,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "aub-p3",
+  "playerId": "ou-p5",
   "event": "W50 Berkeley",
   "seed": null,
   "entry": null,
@@ -4419,7 +4437,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tenn-m-h6",
+  "playerId": "lsu-m-n1",
   "event": "San Diego 2 Challenger",
   "seed": null,
   "entry": null,
@@ -4427,7 +4445,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "lsu-m-n1",
+  "playerId": "tenn-m-h6",
   "event": "San Diego 2 Challenger",
   "seed": null,
   "entry": null,
@@ -5997,6 +6015,14 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
  {
   "playerId": "ou-m-p1",
   "event": "Bari Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "lsu-p12",
+  "event": "W35 Reims",
   "seed": null,
   "entry": null,
   "inMain": false,
