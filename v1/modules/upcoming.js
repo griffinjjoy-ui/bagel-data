@@ -44,6 +44,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "uva-m-p2",
+  "name": "Dylan Dietrich",
+  "teamId": "uva-m",
+  "gender": "men",
+  "opponent": "Nishesh Basavareddy",
+  "event": "San Diego 2 Challenger",
+  "date": "2026-09-27",
+  "day": "today"
+ },
+ {
   "playerId": "tenn-m-h5",
   "name": "Emile Hudd",
   "teamId": "tenn-m",
@@ -144,6 +154,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "stan-m-h8",
+  "name": "Nishesh Basavareddy",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Dylan Dietrich",
+  "event": "San Diego 2 Challenger",
+  "date": "2026-09-27",
+  "day": "today"
+ },
+ {
   "playerId": "ucla-m-h5",
   "name": "Patrick Zahraj",
   "teamId": "ucla-m",
@@ -172,6 +192,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "event": "Eupago Porto Open - Porto",
   "date": "2026-09-27",
   "day": "today"
+ },
+ {
+  "playerId": "sc-m-p4",
+  "name": "Sean Daryabeigi",
+  "teamId": "sc-m",
+  "gender": "men",
+  "opponent": "Oliver Bonding",
+  "event": "M15 Columbia",
+  "date": "2026-09-27",
+  "day": "today"
+ },
+ {
+  "playerId": "usd-m-h8",
+  "name": "August Holmgren",
+  "teamId": "usd-m",
+  "gender": "men",
+  "opponent": "Benjamin Bonzi",
+  "event": "Porto Challenger",
+  "date": "2026-09-28",
+  "day": "tomorrow"
  },
  {
   "playerId": "msst-m-p8",
@@ -224,12 +264,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "ucla-m-h14",
+  "name": "Mackenzie Mcdonald",
+  "teamId": "ucla-m",
+  "gender": "men",
+  "opponent": "Toby Samuel",
+  "event": "Porto Challenger",
+  "date": "2026-09-28",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "stan-m-h6",
+  "name": "Max Basing",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Mili Poljicak",
+  "event": "Porto Challenger",
+  "date": "2026-09-28",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "uga-m-h5",
   "name": "Philip Henning",
   "teamId": "uga-m",
   "gender": "men",
   "opponent": "Tristan Schoolkate",
   "event": "Mouilleron-Le-Captif Challenger",
+  "date": "2026-09-28",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "sc-m-h4",
+  "name": "Toby Samuel",
+  "teamId": "sc-m",
+  "gender": "men",
+  "opponent": "Mackenzie Mcdonald",
+  "event": "Porto Challenger",
   "date": "2026-09-28",
   "day": "tomorrow"
  }

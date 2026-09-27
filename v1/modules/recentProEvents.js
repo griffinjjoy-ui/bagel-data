@@ -793,10 +793,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Madison Brengle",
      "score": "6-3 1-6 6-2"
+    },
+    {
+     "id": "1449622825",
+     "date": "2026-09-26",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Kayla Day",
+     "score": "7-6(7) 6-3"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "lsu-p5": [
@@ -1863,10 +1872,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Emma Kamper Malmkjaer",
      "score": "6-4 6-1"
+    },
+    {
+     "id": "1449622823",
+     "date": "2026-09-26",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Janae Preston",
+     "score": "6-4 2-6 6-4"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "tamu-w-n8": [
@@ -2576,10 +2594,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Henry Searle",
      "score": "6-3 7-5"
+    },
+    {
+     "id": "1643273345",
+     "date": "2026-09-27",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Nishesh Basavareddy",
+     "score": "6-7(10) 6-4 5-1 ret."
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "wake-m-fp302": [
