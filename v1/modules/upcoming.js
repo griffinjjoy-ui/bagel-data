@@ -4,32 +4,12 @@
 // included). Opponent + event, no result yet. Re-run the script to refresh.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
-  "playerId": "uk-m-h14",
-  "name": "Alafia Ayeni",
-  "teamId": "uk-m",
-  "gender": "men",
-  "opponent": "Michael Bassem Sobhy",
-  "event": "Columbus Challenger",
-  "date": "2026-09-27",
-  "day": "today"
- },
- {
   "playerId": "ncst-w-h3",
   "name": "Amelia Rajecki",
   "teamId": "ncst-w",
   "gender": "women",
   "opponent": "Chengyiyi Yuan",
   "event": "Jingshan Tennis Open - Jingshan",
-  "date": "2026-09-27",
-  "day": "today"
- },
- {
-  "playerId": "gt-m-h8",
-  "name": "Andres Martin",
-  "teamId": "gt-m",
-  "gender": "men",
-  "opponent": "Oliver Okonkwo",
-  "event": "Columbus Challenger",
   "date": "2026-09-27",
   "day": "today"
  },
@@ -54,41 +34,11 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "tenn-m-h5",
-  "name": "Emile Hudd",
-  "teamId": "tenn-m",
-  "gender": "men",
-  "opponent": "Yanis Ghazouani Durand",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "date": "2026-09-27",
-  "day": "today"
- },
- {
   "playerId": "ucla-m-h8",
   "name": "Kaylan Bigun",
   "teamId": "ucla-m",
   "gender": "men",
   "opponent": "Noah Zamora",
-  "event": "Columbus Challenger",
-  "date": "2026-09-27",
-  "day": "today"
- },
- {
-  "playerId": "tcu-m-h5",
-  "name": "Lui Maxted",
-  "teamId": "tcu-m",
-  "gender": "men",
-  "opponent": "Francisco Rocha",
-  "event": "Porto Challenger",
-  "date": "2026-09-27",
-  "day": "today"
- },
- {
-  "playerId": "lsu-m-n2",
-  "name": "Michael Bassem Sobhy",
-  "teamId": "lsu-m",
-  "gender": "men",
-  "opponent": "Alafia Ayeni",
   "event": "Columbus Challenger",
   "date": "2026-09-27",
   "day": "today"
@@ -154,16 +104,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "sc-m-p4",
-  "name": "Sean Daryabeigi",
-  "teamId": "sc-m",
-  "gender": "men",
-  "opponent": "Oliver Bonding",
-  "event": "M15 Columbia",
-  "date": "2026-09-27",
-  "day": "today"
- },
- {
   "playerId": "tenn-m-h15",
   "name": "Adam Walton",
   "teamId": "tenn-m",
@@ -184,11 +124,11 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "osu-m-p5",
-  "name": "Aidan Kim",
-  "teamId": "osu-m",
+  "playerId": "uk-m-h14",
+  "name": "Alafia Ayeni",
+  "teamId": "uk-m",
   "gender": "men",
-  "opponent": "Stefan Kozlov",
+  "opponent": "Michael Bassem Sobhy",
   "event": "Columbus Challenger",
   "date": "2026-09-28",
   "day": "tomorrow"
@@ -200,26 +140,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Patrick Zahraj",
   "event": "Mouilleron-Le-Captif Challenger",
-  "date": "2026-09-28",
-  "day": "tomorrow"
- },
- {
-  "playerId": "fla-m-h11",
-  "name": "Andres Andrade",
-  "teamId": "fla-m",
-  "gender": "men",
-  "opponent": "Trevor Svajda",
-  "event": "Columbus Challenger",
-  "date": "2026-09-28",
-  "day": "tomorrow"
- },
- {
-  "playerId": "mich-m-h5",
-  "name": "Andrew Fenty",
-  "teamId": "mich-m",
-  "gender": "men",
-  "opponent": "Igor Ribeiro Marcondes",
-  "event": "Columbus Challenger",
   "date": "2026-09-28",
   "day": "tomorrow"
  },
@@ -284,16 +204,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "uva-m-p2",
-  "name": "Dylan Dietrich",
-  "teamId": "uva-m",
-  "gender": "men",
-  "opponent": "Jeff Wolf",
-  "event": "Columbus Challenger",
-  "date": "2026-09-28",
-  "day": "tomorrow"
- },
- {
   "playerId": "pepp-m-p6",
   "name": "Edward Winter",
   "teamId": "pepp-m",
@@ -310,6 +220,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Tyler Zink",
   "event": "Columbus Challenger",
+  "date": "2026-09-28",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "wake-m-h3",
+  "name": "Filippo Moroni",
+  "teamId": "wake-m",
+  "gender": "men",
+  "opponent": "Fabrizio Andaloro",
+  "event": "Bari Challenger",
+  "date": "2026-09-28",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "unc-w-h2",
+  "name": "Fiona Crawley",
+  "teamId": "unc-w",
+  "gender": "women",
+  "opponent": "Noma Akugue Noha",
+  "event": "Adana Open - Adana",
   "date": "2026-09-28",
   "day": "tomorrow"
  },
@@ -334,32 +264,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "osu-m-h11",
-  "name": "Jeff Wolf",
-  "teamId": "osu-m",
+  "playerId": "ncst-m-h5",
+  "name": "Luca Staeheli",
+  "teamId": "ncst-m",
   "gender": "men",
-  "opponent": "Dylan Dietrich",
+  "opponent": "Alex Rybakov",
   "event": "Columbus Challenger",
-  "date": "2026-09-28",
-  "day": "tomorrow"
- },
- {
-  "playerId": "sc-m-p1",
-  "name": "Lucas Andrade da Silva",
-  "teamId": "sc-m",
-  "gender": "men",
-  "opponent": "Genaro Alberto Olivieri",
-  "event": "Curitiba Challenger",
-  "date": "2026-09-28",
-  "day": "tomorrow"
- },
- {
-  "playerId": "ucla-m-h14",
-  "name": "Mackenzie Mcdonald",
-  "teamId": "ucla-m",
-  "gender": "men",
-  "opponent": "Toby Samuel",
-  "event": "Porto Challenger",
   "date": "2026-09-28",
   "day": "tomorrow"
  },
@@ -370,16 +280,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Jaume Antoni Munar Clar",
   "event": "Japan Open Tennis Championships - Tokyo",
-  "date": "2026-09-28",
-  "day": "tomorrow"
- },
- {
-  "playerId": "bay-m-h11",
-  "name": "Matias Soto",
-  "teamId": "bay-m",
-  "gender": "men",
-  "opponent": "Lautaro Midon",
-  "event": "Curitiba Challenger",
   "date": "2026-09-28",
   "day": "tomorrow"
  },
@@ -404,21 +304,21 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "msu-m-fp274",
-  "name": "Ozan Baris",
-  "teamId": "msu-m",
+  "playerId": "lsu-m-n2",
+  "name": "Michael Bassem Sobhy",
+  "teamId": "lsu-m",
   "gender": "men",
-  "opponent": "Braden Shick",
+  "opponent": "Alafia Ayeni",
   "event": "Columbus Challenger",
   "date": "2026-09-28",
   "day": "tomorrow"
  },
  {
-  "playerId": "mich-m-h7",
-  "name": "Patrick Maloney",
-  "teamId": "mich-m",
+  "playerId": "msu-m-fp274",
+  "name": "Ozan Baris",
+  "teamId": "msu-m",
   "gender": "men",
-  "opponent": "Darwin Blanch",
+  "opponent": "Braden Shick",
   "event": "Columbus Challenger",
   "date": "2026-09-28",
   "day": "tomorrow"
@@ -454,22 +354,22 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "tenn-m-h6",
+  "name": "Shunsuke Mitsui",
+  "teamId": "tenn-m",
+  "gender": "men",
+  "opponent": "Oliver Okonkwo",
+  "event": "Columbus Challenger",
+  "date": "2026-09-28",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "tcu-w-h2",
   "name": "Tiphanie Lemaitre",
   "teamId": "tcu-w",
   "gender": "women",
   "opponent": "Harriet Dart",
   "event": "China Open - Beijing",
-  "date": "2026-09-28",
-  "day": "tomorrow"
- },
- {
-  "playerId": "sc-m-h4",
-  "name": "Toby Samuel",
-  "teamId": "sc-m",
-  "gender": "men",
-  "opponent": "Mackenzie Mcdonald",
-  "event": "Porto Challenger",
   "date": "2026-09-28",
   "day": "tomorrow"
  },

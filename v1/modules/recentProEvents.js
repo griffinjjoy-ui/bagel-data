@@ -1482,10 +1482,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "William Jansen",
      "score": "7-6(4) ret."
+    },
+    {
+     "id": "1706300357",
+     "date": "2026-09-27",
+     "roundId": 12,
+     "round": "Final",
+     "won": false,
+     "opponent": "Oliver Bonding",
+     "score": "6-2 3-6 6-3"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Final",
+   "reachedTone": "amber"
   }
  ],
  "sc-m-p6": [
