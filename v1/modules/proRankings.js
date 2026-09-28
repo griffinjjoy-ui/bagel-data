@@ -3182,11 +3182,11 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "source": "wta-official"
  },
  {
-  "playerId": "lou-m-fp70",
+  "playerId": "usf-m-n1",
   "name": "Walid Ahouda",
-  "teamId": "lou-m",
-  "teamName": "Louisville",
-  "former": true,
+  "teamId": "usf-m",
+  "teamName": "South Florida",
+  "former": false,
   "gender": "men",
   "tour": "ATP",
   "position": 689,
@@ -6559,7 +6559,7 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "name": "Hugo Car",
   "teamId": "usf-m",
   "teamName": "South Florida",
-  "former": false,
+  "former": true,
   "gender": "men",
   "tour": "ATP",
   "position": 1154,
@@ -7491,6 +7491,21 @@ export const proRankings = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proRank
   "weeks": 1,
   "asOf": "2026-09-28",
   "source": "wta-official"
+ },
+ {
+  "playerId": "usf-m-n3",
+  "name": "Ashton McLeod",
+  "teamId": "usf-m",
+  "teamName": "South Florida",
+  "former": false,
+  "gender": "men",
+  "tour": "ATP",
+  "position": 1327,
+  "change": null,
+  "weeks": null,
+  "high": null,
+  "asOf": "2026-08-31",
+  "source": "atp-deep(tennisabstract)"
  },
  {
   "playerId": "fau-w-p2",
@@ -13846,10 +13861,6 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   465,
   500
  ],
- "lou-m-fp70": [
-  804,
-  689
- ],
  "lou-m-h5": [
   576,
   582,
@@ -16320,6 +16331,10 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
   859,
   849
  ],
+ "usf-m-n1": [
+  804,
+  689
+ ],
  "utah-w-h2": [
   839,
   843,
@@ -17675,6 +17690,9 @@ export const proRankHistory = globalThis.__BAGEL_REMOTE__?.["proRankings"]?.proR
  ],
  "usd-m-n2": [
   2087
+ ],
+ "usf-m-n3": [
+  1327
  ],
  "van-m-n1": [
   2162

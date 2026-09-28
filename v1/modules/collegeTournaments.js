@@ -13,6 +13,24 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "end": "2026-10-04"
   },
   {
+    "id": "6ababface3ae706de97add09",
+    "name": "2026 ITA JUCO Women's Southwest Regional Championships",
+    "start": "2026-10-01",
+    "end": "2026-10-03"
+  },
+  {
+    "id": "6abad3bfe3ae706de98d8047",
+    "name": "2026 ITA JUCO Men's Southwest Regional Championships",
+    "start": "2026-10-01",
+    "end": "2026-10-03"
+  },
+  {
+    "id": "6abadc06e3ae706de993555a",
+    "name": "2026 ITA Dlll Men's Southwest Regional Championships",
+    "start": "2026-10-01",
+    "end": "2026-10-04"
+  },
+  {
     "id": "6ab85a59e3ae706de9c63f84",
     "name": "2026 ITA DIII Men's Midwest Regional Championships",
     "start": "2026-10-02",
