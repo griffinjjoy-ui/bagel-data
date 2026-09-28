@@ -583,6 +583,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "lsu-m-n1": [
   {
+   "key": "22039",
+   "name": "Columbus Challenger",
+   "date": "2026-09-28",
+   "surface": "I.hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "1713298837",
+     "date": "2026-09-27",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Ilija Palavestra",
+     "score": "7-6(4) 6-1"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22035",
    "name": "San Diego 2 Challenger",
    "date": "2026-09-21",
@@ -642,6 +662,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "lsu-m-n2": [
+  {
+   "key": "22039",
+   "name": "Columbus Challenger",
+   "date": "2026-09-28",
+   "surface": "I.hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "1714699108",
+     "date": "2026-09-28",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Alafia Ayeni",
+     "score": "6-3 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "22078",
    "name": "M15 Columbia",
