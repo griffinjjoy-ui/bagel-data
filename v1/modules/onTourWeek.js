@@ -70,6 +70,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-27"
  },
  {
+  "playerId": "tcu-m-p3",
+  "name": "Duncan Chan",
+  "teamId": "tcu-m",
+  "teamName": "TCU",
+  "gender": "men",
+  "event": "Columbus Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Denis Petak",
+  "result": "6-7(11) 6-3 7-6(4)",
+  "date": "2026-09-27"
+ },
+ {
   "playerId": "uva-m-p2",
   "name": "Dylan Dietrich",
   "teamId": "uva-m",
@@ -252,16 +265,29 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-27"
  },
  {
+  "playerId": "ucf-m-p7",
+  "name": "Nicolas Oliveira",
+  "teamId": "ucf-m",
+  "teamName": "UCF",
+  "gender": "men",
+  "event": "Columbus Challenger",
+  "round": "Q1",
+  "won": false,
+  "opponent": "Li Tu",
+  "result": "6-2 6-3",
+  "date": "2026-09-27"
+ },
+ {
   "playerId": "stan-m-h8",
   "name": "Nishesh Basavareddy",
   "teamId": "stan-m",
   "teamName": "Stanford",
   "gender": "men",
   "event": "San Diego 2 Challenger",
-  "round": "1/2",
+  "round": "Final",
   "won": true,
-  "opponent": "Dylan Dietrich",
-  "result": "6-7(10) 6-4 5-1 ret.",
+  "opponent": "Igor Ribeiro Marcondes",
+  "result": "7-5 6-4",
   "date": "2026-09-27"
  },
  {
@@ -291,6 +317,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-09-27"
  },
  {
+  "playerId": "osu-m-p11",
+  "name": "Preston Stearns",
+  "teamId": "osu-m",
+  "teamName": "Ohio State",
+  "gender": "men",
+  "event": "Columbus Challenger",
+  "round": "Q1",
+  "won": false,
+  "opponent": "Quinn Vandecasteele",
+  "result": "6-2 4-6 6-2",
+  "date": "2026-09-27"
+ },
+ {
   "playerId": "ncst-w-h11",
   "name": "Priska Nugroho",
   "teamId": "ncst-w",
@@ -301,6 +340,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Unknown Player",
   "result": "6-4 7-5",
+  "date": "2026-09-27"
+ },
+ {
+  "playerId": "ore-m-h7",
+  "name": "Quinn Vandecasteele",
+  "teamId": "ore-m",
+  "teamName": "Oregon",
+  "gender": "men",
+  "event": "Columbus Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Preston Stearns",
+  "result": "6-2 4-6 6-2",
   "date": "2026-09-27"
  },
  {
@@ -2680,19 +2732,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Fausto Tabacco",
   "result": "6-2 6-2",
-  "date": "2026-09-20"
- },
- {
-  "playerId": "ore-m-h7",
-  "name": "Quinn Vandecasteele",
-  "teamId": "ore-m",
-  "teamName": "Oregon",
-  "gender": "men",
-  "event": "San Diego 2 Challenger",
-  "round": "Q1",
-  "won": false,
-  "opponent": "Daniil Ostapenkov",
-  "result": "7-5 4-6 6-3",
   "date": "2026-09-20"
  },
  {
@@ -11096,12 +11135,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ore-m",
   "teamName": "Oregon",
   "gender": "men",
-  "event": "San Diego 2 Challenger",
+  "event": "Columbus Challenger",
   "round": "Q1",
-  "won": false,
-  "opponent": "Daniil Ostapenkov",
-  "result": "7-5 4-6 6-3",
-  "date": "2026-09-20"
+  "won": true,
+  "opponent": "Preston Stearns",
+  "result": "6-2 4-6 6-2",
+  "date": "2026-09-27"
  },
  "ore-m-p1": {
   "playerId": "ore-m-p1",
@@ -11317,12 +11356,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "osu-m",
   "teamName": "Ohio State",
   "gender": "men",
-  "event": "M15 Champaign",
-  "round": "1/2",
+  "event": "Columbus Challenger",
+  "round": "Q1",
   "won": false,
-  "opponent": "Bryce Nakashima",
-  "result": "6-2 7-6(5)",
-  "date": "2026-08-29"
+  "opponent": "Quinn Vandecasteele",
+  "result": "6-2 4-6 6-2",
+  "date": "2026-09-27"
  },
  "osu-m-p5": {
   "playerId": "osu-m-p5",
@@ -13554,10 +13593,10 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Stanford",
   "gender": "men",
   "event": "San Diego 2 Challenger",
-  "round": "1/2",
+  "round": "Final",
   "won": true,
-  "opponent": "Dylan Dietrich",
-  "result": "6-7(10) 6-4 5-1 ret.",
+  "opponent": "Igor Ribeiro Marcondes",
+  "result": "7-5 6-4",
   "date": "2026-09-27"
  },
  "stan-m-p2": {
@@ -14229,12 +14268,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "tcu-m",
   "teamName": "TCU",
   "gender": "men",
-  "event": "Quebec City Challenger",
-  "round": "First",
-  "won": false,
-  "opponent": "Taro Daniel",
-  "result": "6-3 6-2",
-  "date": "2026-08-19"
+  "event": "Columbus Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Denis Petak",
+  "result": "6-7(11) 6-3 7-6(4)",
+  "date": "2026-09-27"
  },
  "tcu-m-p8": {
   "playerId": "tcu-m-p8",
@@ -16023,12 +16062,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ucf-m",
   "teamName": "UCF",
   "gender": "men",
-  "event": "M25 Londrina",
-  "round": "Second",
+  "event": "Columbus Challenger",
+  "round": "Q1",
   "won": false,
-  "opponent": "Carlos Maria Zarate",
-  "result": "6-2 6-2",
-  "date": "2026-08-05"
+  "opponent": "Li Tu",
+  "result": "6-2 6-3",
+  "date": "2026-09-27"
  },
  "ucf-w-h4": {
   "playerId": "ucf-w-h4",
