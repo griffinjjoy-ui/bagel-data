@@ -4851,8 +4851,8 @@ export const doublesRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.doubl
   "wins": 0,
   "losses": 0,
   "players": [
-   "colum-w-n3",
-   "colum-w-n4"
+   "colum-w-n4",
+   "colum-w-n3"
   ],
   "listDate": "2026-08-25",
   "listId": "2026-27_d1_women_doubles_p2_v5",
