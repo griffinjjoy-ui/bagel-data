@@ -7,6 +7,12 @@
 // layer; this module is the watcher's ledger and the future live source.
 export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTournaments"]?.collegeTournaments ?? [
   {
+    "id": "6aba8162e3ae706de9360aa9",
+    "name": "2026 ITA DIII Men's Southeast Regional Championship",
+    "start": "2026-10-01",
+    "end": "2026-10-04"
+  },
+  {
     "id": "6ab85a59e3ae706de9c63f84",
     "name": "2026 ITA DIII Men's Midwest Regional Championships",
     "start": "2026-10-02",
