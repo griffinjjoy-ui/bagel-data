@@ -855,6 +855,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "3A89FD65-A14F-4880-B87E-C0A6AB71867A",
+  "date": "2027-01-30",
+  "dateTime": "2027-01-30T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Florida Gulf Coast University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "fau-w",
+   "name": "Florida Atlantic University",
+   "side": 2
+  }
+ },
+ {
   "id": "14C53243-ED3E-4E1E-9143-F5FABF1430E3",
   "date": "2027-01-30",
   "dateTime": "2027-01-30T18:30:00.000Z",
@@ -919,6 +936,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Belmont University",
+   "side": 2
+  }
+ },
+ {
+  "id": "9746D44F-9669-4821-B78E-8416E49928FA",
+  "date": "2027-01-31",
+  "dateTime": "2027-01-31T15:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Florida Gulf Coast University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "fla-w",
+   "name": "University Of Florida",
    "side": 2
   }
  },
@@ -1229,6 +1263,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "E64990F5-F547-43D6-B95D-90B0A4AEF637",
+  "date": "2027-02-06",
+  "dateTime": "2027-02-06T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Florida Gulf Coast University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "usf-w",
+   "name": "Univ. Of South Florida",
+   "side": 2
+  }
+ },
+ {
   "id": "40A2261B-57F3-442E-9703-6E80D79F590F",
   "date": "2027-02-06",
   "dateTime": "2027-02-06T19:00:00.000Z",
@@ -1497,6 +1548,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "van-w",
    "name": "Vanderbilt University",
+   "side": 2
+  }
+ },
+ {
+  "id": "160E4176-2B89-4AD2-AD46-B1FB55C6ABA0",
+  "date": "2027-02-13",
+  "dateTime": "2027-02-13T18:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Florida Gulf Coast University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "miami-w",
+   "name": "University Of Miami",
    "side": 2
   }
  },
@@ -2266,6 +2334,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "6152D63D-ADB2-4E44-BD7D-107A5E814049",
+  "date": "2027-03-03",
+  "dateTime": "2027-03-03T20:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Florida Gulf Coast University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "temple-w",
+   "name": "Temple University",
+   "side": 2
+  }
+ },
+ {
   "id": "EB2E80E0-CF45-4573-8CCF-DB90849AF5D7",
   "date": "2027-03-04",
   "dateTime": "2027-03-04T05:00:00.000Z",
@@ -2512,6 +2597,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t1": {
    "teamId": null,
    "name": "Georgia Southern University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "penn-w",
+   "name": "Univ. Of Pennsylvania",
+   "side": 2
+  }
+ },
+ {
+  "id": "A1E44BF6-F939-4F05-AF04-265364A9B4BA",
+  "date": "2027-03-08",
+  "dateTime": "2027-03-08T19:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Florida Gulf Coast University",
    "side": 1
   },
   "t2": {

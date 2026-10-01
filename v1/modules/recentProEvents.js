@@ -576,9 +576,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Alice Soulie",
      "score": "7-5 6-4"
+    },
+    {
+     "id": "1620366425",
+     "date": "2026-10-01",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Sophia Webster",
+     "score": "6-1 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -618,9 +627,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Mia Yamakita",
      "score": "6-1 6-4"
+    },
+    {
+     "id": "1620366423",
+     "date": "2026-10-01",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Stefani Webb",
+     "score": "6-3 6-4"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -1344,9 +1362,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Fredrik Krogh Solheim",
      "score": "6-4 6-4"
+    },
+    {
+     "id": "1842172786",
+     "date": "2026-10-01",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Max Sheldon",
+     "score": "6-3 5-7 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -1762,9 +1789,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Vignesh Gogineni",
      "score": "6-1 6-2"
+    },
+    {
+     "id": "1842172782",
+     "date": "2026-10-01",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Alexander Bernard",
+     "score": "7-5 7-6(3)"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -1906,9 +1942,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Pablo Martinez Gomez",
      "score": "6-3 6-3"
+    },
+    {
+     "id": "1842172750",
+     "date": "2026-10-01",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Dominick Mosejczuk",
+     "score": "6-2 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -2008,9 +2053,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Amelie Justine Hejtmanek",
      "score": "6-4 4-6 6-3"
+    },
+    {
+     "id": "1620366424",
+     "date": "2026-10-01",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Valeria Ray",
+     "score": "6-4 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -3533,9 +3587,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Justina Lassaga",
      "score": "6-1 6-0"
+    },
+    {
+     "id": "1620366150",
+     "date": "2026-10-01",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Maria Sofia Madrid Rocca",
+     "score": "6-1 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -3633,9 +3696,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Mathilde Ngijol-Carre",
      "score": "6-3 6-1"
+    },
+    {
+     "id": "1620366423",
+     "date": "2026-10-01",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Ashton Bowers",
+     "score": "6-3 6-4"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -3739,9 +3811,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Eugenia Menendez Zozaya",
      "score": "6-1 4-6 6-4"
+    },
+    {
+     "id": "1620366418",
+     "date": "2026-10-01",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Carlota Moreno",
+     "score": "5-7 6-2 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -4515,9 +4596,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Isabella Kruger",
      "score": "6-4 6-4"
+    },
+    {
+     "id": "1620366424",
+     "date": "2026-10-01",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Chiara Di Genova",
+     "score": "6-4 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -4568,9 +4658,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Isabella Marton",
      "score": "6-2 6-2"
+    },
+    {
+     "id": "1620366425",
+     "date": "2026-10-01",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Merna Refaat",
+     "score": "6-1 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],

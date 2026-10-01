@@ -65,5 +65,11 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "name": "2026 ITA DIII Men's South Regional Championship",
     "start": "2026-10-02",
     "end": "2026-10-04"
+  },
+  {
+    "id": "6abece7233a5117ef09304a2",
+    "name": "2026 ITA DI Men's Mountain Regional Championship",
+    "start": "2026-10-06",
+    "end": "2026-10-10"
   }
 ];
