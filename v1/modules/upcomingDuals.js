@@ -141,23 +141,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
-  "id": "B169A942-AD48-4F00-8105-0575602242FD",
-  "date": "2027-01-16",
-  "dateTime": "2027-01-16T05:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": null,
-   "name": "Southeast Missouri State Univ.",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "ind-w",
-   "name": "Indiana University",
-   "side": 2
-  }
- },
- {
   "id": "0189E7DD-BD44-4CBC-9661-8F27DDFFC601",
   "date": "2027-01-16",
   "dateTime": "2027-01-16T06:00:00.000Z",

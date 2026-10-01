@@ -1233,9 +1233,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Raphael Perot",
      "score": "1-6 6-3 6-4"
+    },
+    {
+     "id": "1839365730",
+     "date": "2026-10-01",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Abedallah Shelbayh",
+     "score": "6-1 7-5"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -1620,9 +1629,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Elza Tomase",
      "score": "6-1 7-5"
+    },
+    {
+     "id": "1610534745",
+     "date": "2026-10-01",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Alba Rey Garcia",
+     "score": "6-0 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -2079,9 +2097,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Joshua Charlton",
      "score": "7-6(2) 6-4"
+    },
+    {
+     "id": "1830960399",
+     "date": "2026-10-01",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Jeremy Beale",
+     "score": "6-1 4-6 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -2196,9 +2223,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Jack Kennedy",
      "score": "4-6 6-2 7-6(8)"
+    },
+    {
+     "id": "1839365734",
+     "date": "2026-10-01",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Keegan Smith",
+     "score": "6-4 3-6 7-5"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
