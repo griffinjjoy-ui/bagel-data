@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-09-28T22:00:42.954Z",
+  "fetchedAt": "2026-10-01T07:13:03.161Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -25347,13 +25347,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-09-28T22:00:45.973Z",
+  "fetchedAt": "2026-10-01T07:13:07.128Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
     "name": "Women's open doubles",
     "type": "doubles",
-    "fieldSize": 556,
+    "fieldSize": 558,
     "draws": [
      {
       "drawName": "Pre Qualifying Draw",
@@ -25608,7 +25608,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          {
           "pos": 25,
           "bye": false,
-          "seed": 12,
+          "seed": null,
           "name": "Xi/Bush",
           "school": null,
           "abbr": null,
@@ -26016,7 +26016,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "school": null,
               "pid": null,
               "wtn": null,
-              "seed": 12
+              "seed": null
              },
              {
               "name": "Kack/Kranec",
@@ -26281,7 +26281,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "school": null,
               "pid": null,
               "wtn": null,
-              "seed": 12
+              "seed": null
              },
              {
               "name": "Hossam Salah/Nicholson",
@@ -26416,7 +26416,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "school": null,
               "pid": null,
               "wtn": null,
-              "seed": 12
+              "seed": null
              },
              {
               "name": "Ferlito/Jessup",
@@ -27337,7 +27337,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 14,
           "bye": false,
           "seed": null,
-          "name": "bush/xi",
+          "name": "xi/Bush",
           "school": null,
           "abbr": null,
           "pid": null,
@@ -27701,7 +27701,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "seed": 4
              },
              {
-              "name": "bush/xi",
+              "name": "xi/Bush",
               "abbr": null,
               "school": null,
               "pid": null,
@@ -30959,7 +30959,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
     "eventId": "E7DFA31E-6393-4B00-96A0-0C04B28B95FC",
     "name": "Women's open singles",
     "type": "singles",
-    "fieldSize": 556,
+    "fieldSize": 558,
     "draws": [
      {
       "drawName": "Pre Qualifying Draw",
@@ -31934,12 +31934,12 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          {
           "pos": 97,
           "bye": false,
-          "seed": 25,
+          "seed": null,
           "name": "Tegan Bush",
           "school": "Louisiana State University",
           "abbr": "LSU",
           "pid": "lsu-w-n4",
-          "wtn": 14.29
+          "wtn": 14.46
          },
          {
           "pos": 98,
@@ -34413,8 +34413,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "abbr": "LSU",
               "school": "Louisiana State University",
               "pid": "lsu-w-n4",
-              "wtn": 14.29,
-              "seed": 25
+              "wtn": 14.46,
+              "seed": null
              },
              {
               "name": "Salma Drugdova",
@@ -36450,8 +36450,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "abbr": "LSU",
               "school": "Louisiana State University",
               "pid": "lsu-w-n4",
-              "wtn": 14.29,
-              "seed": 25
+              "wtn": 14.46,
+              "seed": null
              },
              {
               "name": "Anna Grigoreva",
@@ -37471,8 +37471,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "abbr": "LSU",
               "school": "Louisiana State University",
               "pid": "lsu-w-n4",
-              "wtn": 14.29,
-              "seed": 25
+              "wtn": 14.46,
+              "seed": null
              },
              {
               "name": "Nika Hurkacz",
@@ -43015,11 +43015,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 2,
           "bye": false,
           "seed": null,
-          "name": "tegan bush",
+          "name": "Tegan Bush",
           "school": "Louisiana State University",
           "abbr": "LSU",
           "pid": "lsu-w-n4",
-          "wtn": null
+          "wtn": 14.46
          },
          {
           "pos": 3,
@@ -43663,11 +43663,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "seed": 1
              },
              {
-              "name": "tegan bush",
+              "name": "Tegan Bush",
               "abbr": "LSU",
               "school": "Louisiana State University",
               "pid": "lsu-w-n4",
-              "wtn": null,
+              "wtn": 14.46,
               "seed": null
              }
             ]
@@ -45319,11 +45319,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 17,
           "bye": false,
           "seed": null,
-          "name": "tegan bush",
+          "name": "Tegan Bush",
           "school": "Louisiana State University",
           "abbr": "LSU",
           "pid": "lsu-w-n4",
-          "wtn": null
+          "wtn": 14.46
          },
          {
           "pos": 18,
@@ -45645,11 +45645,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "CTP",
             "sides": [
              {
-              "name": "tegan bush",
+              "name": "Tegan Bush",
               "abbr": "LSU",
               "school": "Louisiana State University",
               "pid": "lsu-w-n4",
-              "wtn": null,
+              "wtn": 14.46,
               "seed": null
              },
              {
