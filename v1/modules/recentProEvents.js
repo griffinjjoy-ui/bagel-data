@@ -333,9 +333,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Thanaphat Boosarawongse",
      "score": "7-6(6) 6-3"
+    },
+    {
+     "id": "23725481",
+     "date": "2026-10-02",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Oliver Bonding",
+     "score": "4-6 6-2 6-3"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -1672,9 +1681,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Alba Rey Garcia",
      "score": "6-0 6-3"
+    },
+    {
+     "id": "14427229",
+     "date": "2026-10-02",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Amandine Hesse",
+     "score": "7-6(6) 6-2"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -1805,9 +1823,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Alexander Bernard",
      "score": "7-5 7-6(3)"
+    },
+    {
+     "id": "23725495",
+     "date": "2026-10-02",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Damir Zhalgasbay",
+     "score": "6-1 ret."
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -2542,9 +2569,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Alejandro Melero Kretzer",
      "score": "7-5 6-4"
+    },
+    {
+     "id": "23725410",
+     "date": "2026-10-02",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Jonah Braswell",
+     "score": "6-2 6-4"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -3673,9 +3709,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Maria Sofia Madrid Rocca",
      "score": "6-1 6-1"
+    },
+    {
+     "id": "20573052",
+     "date": "2026-10-02",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Liv Zingg",
+     "score": "7-5 7-6(1)"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -4477,9 +4522,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Andrew Fenty",
      "score": "7-5 6-2"
+    },
+    {
+     "id": "20917837",
+     "date": "2026-10-02",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Darwin Blanch",
+     "score": "6-3 6-3"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -4728,9 +4782,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Charlie Robertson",
      "score": "6-2 1-6 7-6(3)"
+    },
+    {
+     "id": "23725429",
+     "date": "2026-10-02",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Alexander Rozin",
+     "score": "7-6(5) 6-4"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -4971,9 +5034,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Braden Shick",
      "score": "6-1 6-4"
+    },
+    {
+     "id": "19516073",
+     "date": "2026-10-02",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Andres Andrade",
+     "score": "6-3 7-6(5)"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {

@@ -43,9 +43,27 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "end": "2026-10-04"
   },
   {
+    "id": "6abfe8e933a5117ef0ed14fc",
+    "name": "Harvard Fall Classic",
+    "start": "2026-10-02",
+    "end": "2026-10-04"
+  },
+  {
+    "id": "6ac00a0333a5117ef02796ae",
+    "name": "Penn State Fall Invitational",
+    "start": "2026-10-02",
+    "end": "2026-10-04"
+  },
+  {
     "id": "6abece7233a5117ef09304a2",
     "name": "2026 ITA DI Men's Mountain Regional Championship",
     "start": "2026-10-06",
     "end": "2026-10-10"
+  },
+  {
+    "id": "6abff01a33a5117ef0fc39aa",
+    "name": "2026 ITA DII Men's and Women's Atlantic Regional Championships",
+    "start": "2026-10-16",
+    "end": "2026-10-19"
   }
 ];
