@@ -37,6 +37,12 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "end": "2026-10-04"
   },
   {
+    "id": "6abf8c4033a5117ef070ade3",
+    "name": "The Tulsa Invite",
+    "start": "2026-10-02",
+    "end": "2026-10-04"
+  },
+  {
     "id": "6abece7233a5117ef09304a2",
     "name": "2026 ITA DI Men's Mountain Regional Championship",
     "start": "2026-10-06",

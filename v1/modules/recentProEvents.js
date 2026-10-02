@@ -2167,9 +2167,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Jeremy Beale",
      "score": "6-1 4-6 6-1"
+    },
+    {
+     "id": "12510792",
+     "date": "2026-10-02",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Jake Delaney",
+     "score": "7-6(7) 7-6(6)"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
