@@ -4,26 +4,6 @@
 // included). Opponent + event, no result yet. Re-run the script to refresh.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
-  "playerId": "fla-m-h9",
-  "name": "Abedallah Shelbayh",
-  "teamId": "fla-m",
-  "gender": "men",
-  "opponent": "Mitchell Krueger",
-  "event": "Columbus Challenger",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
-  "playerId": "fla-m-h11",
-  "name": "Andres Andrade",
-  "teamId": "fla-m",
-  "gender": "men",
-  "opponent": "Dylan Dietrich",
-  "event": "Columbus Challenger",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
   "playerId": "aub-p2",
   "name": "Ashton Bowers",
   "teamId": "aub-w",
@@ -34,82 +14,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "okst-m-p6",
-  "name": "Derek Pham",
-  "teamId": "okst-m",
-  "gender": "men",
-  "opponent": "Hayden Jones",
-  "event": "M25 Darwin",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
-  "playerId": "uva-m-p2",
-  "name": "Dylan Dietrich",
-  "teamId": "uva-m",
-  "gender": "men",
-  "opponent": "Andres Andrade",
-  "event": "Columbus Challenger",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
-  "playerId": "wich-m-fp92",
-  "name": "Felix Bockelmann Evans",
-  "teamId": "wich-m",
-  "gender": "men",
-  "opponent": "Abedallah Shelbayh",
-  "event": "Columbus Challenger",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
-  "playerId": "ou-w-h9",
-  "name": "Florencia Urrutia",
-  "teamId": "ou-w",
-  "gender": "women",
-  "opponent": "Leyla Fiorella Britez Risso",
-  "event": "W15 Trelew",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
-  "playerId": "van-m-p2",
-  "name": "Hugo Coquelin",
-  "teamId": "van-m",
-  "gender": "men",
-  "opponent": "Oliver Bonding",
-  "event": "M15 Ann Arbor",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
   "playerId": "tex-m-p2",
   "name": "Jonah Braswell",
   "teamId": "tex-m",
   "gender": "men",
   "opponent": "Dominick Mosejczuk",
   "event": "M15 Fayetteville",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
-  "playerId": "tenn-p3",
-  "name": "Leyla Britez Risso",
-  "teamId": "tenn-w",
-  "gender": "women",
-  "opponent": "Maria Florencia Urrutia",
-  "event": "W15 Trelew",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
-  "playerId": "mich-m-p6",
-  "name": "Max Dahlin",
-  "teamId": "mich-m",
-  "gender": "men",
-  "opponent": "Naoto Tomizawa",
-  "event": "M15 Ann Arbor",
   "date": "2026-10-03",
   "day": "today"
  },
@@ -144,14 +54,24 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "tamu-m-p4",
-  "name": "Theo Papamalamis",
-  "teamId": "tamu-m",
+  "playerId": "fla-m-h9",
+  "name": "Abedallah Shelbayh",
+  "teamId": "fla-m",
   "gender": "men",
-  "opponent": "Alexander Rozin",
-  "event": "M15 Fayetteville",
-  "date": "2026-10-03",
-  "day": "today"
+  "opponent": "Dylan Dietrich",
+  "event": "Columbus Challenger",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ncst-w-h1",
+  "name": "Alana Smith",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Fiona Crawley",
+  "event": "Samsun Open - Samsun",
+  "date": "2026-10-04",
+  "day": "tomorrow"
  },
  {
   "playerId": "pur-w-h7",
@@ -184,12 +104,52 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "uva-m-p2",
+  "name": "Dylan Dietrich",
+  "teamId": "uva-m",
+  "gender": "men",
+  "opponent": "Abedallah Shelbayh",
+  "event": "Columbus Challenger",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "lsu-p1",
   "name": "Ella McDonald",
   "teamId": "lsu-w",
   "gender": "women",
   "opponent": "Tatjana Maria",
   "event": "W100 Templeton",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "wake-m-h3",
+  "name": "Filippo Moroni",
+  "teamId": "wake-m",
+  "gender": "men",
+  "opponent": "Alex Marti Pujolras",
+  "event": "Palermo Challenger",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "unc-w-h2",
+  "name": "Fiona Crawley",
+  "teamId": "unc-w",
+  "gender": "women",
+  "opponent": "Alana Smith",
+  "event": "Samsun Open - Samsun",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tamu-p3",
+  "name": "Ilinca Amariei",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Alexia-Shara Iancu",
+  "event": "W50 Burgas",
   "date": "2026-10-04",
   "day": "tomorrow"
  },
@@ -214,6 +174,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "tex-m-p9",
+  "name": "Kalin Ivanovski",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Giuseppe La Vela",
+  "event": "Palermo Challenger",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "miss-w-h1",
+  "name": "Lucie Petruzelova",
+  "teamId": "miss-w",
+  "gender": "women",
+  "opponent": "Monika Gospodinova",
+  "event": "W50 Burgas",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ncst-m-fp370",
   "name": "Martin Borisiouk",
   "teamId": "ncst-m",
@@ -234,6 +214,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "usd-m-p8",
+  "name": "Oliver Tarvet",
+  "teamId": "usd-m",
+  "gender": "men",
+  "opponent": "Mathys Erhard",
+  "event": "Villena Challenger",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "uga-m-h5",
+  "name": "Philip Henning",
+  "teamId": "uga-m",
+  "gender": "men",
+  "opponent": "Thijs Boogaard",
+  "event": "Villena Challenger",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ncst-w-h11",
   "name": "Priska Nugroho",
   "teamId": "ncst-w",
@@ -250,6 +250,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Naoki Tajima",
   "event": "Wuning 3 Challenger",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ucf-w-h5",
+  "name": "Sophia Biolay",
+  "teamId": "ucf-w",
+  "gender": "women",
+  "opponent": "Ekaterina Dotsenko",
+  "event": "W15 Monastir",
   "date": "2026-10-04",
   "day": "tomorrow"
  },

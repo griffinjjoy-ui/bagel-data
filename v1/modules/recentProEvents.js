@@ -1839,10 +1839,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Damir Zhalgasbay",
      "score": "6-1 ret."
+    },
+    {
+     "id": "57370210",
+     "date": "2026-10-03",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Naoto Tomizawa",
+     "score": "6-2 6-3"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "22131",
@@ -2219,10 +2228,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Jake Delaney",
      "score": "7-6(7) 7-6(6)"
+    },
+    {
+     "id": "53163744",
+     "date": "2026-10-03",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Hayden Jones",
+     "score": "6-2 7-6(5)"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "okst-w-p1": [
@@ -3385,10 +3403,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Aryan Shah",
      "score": "6-1 3-6 7-5"
+    },
+    {
+     "id": "57370137",
+     "date": "2026-10-03",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Alexander Rozin",
+     "score": "6-3 6-2"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "tamu-p5": [
@@ -3752,10 +3779,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Liv Zingg",
      "score": "7-5 7-6(1)"
+    },
+    {
+     "id": "50073626",
+     "date": "2026-10-03",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Maria Florencia Urrutia",
+     "score": "7-5 6-2"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "17283",
@@ -4574,10 +4610,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Darwin Blanch",
      "score": "6-3 6-3"
+    },
+    {
+     "id": "54562178",
+     "date": "2026-10-03",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Andres Andrade",
+     "score": "6-3 1-0 ret."
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "22035",
@@ -4750,10 +4795,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Olaf Pieczkowski",
      "score": "5-6 ret."
+    },
+    {
+     "id": "57370180",
+     "date": "2026-10-03",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Oliver Bonding",
+     "score": "6-3 7-5"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "van-m-p5": [
