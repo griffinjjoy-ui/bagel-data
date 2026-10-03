@@ -94,32 +94,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "ariz-m-h1",
-  "name": "Herman Hoeyeraal",
-  "teamId": "ariz-m",
-  "gender": "men",
-  "opponent": "Casey Hoole",
-  "event": "M25 Darwin",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
   "playerId": "van-m-p2",
   "name": "Hugo Coquelin",
   "teamId": "van-m",
   "gender": "men",
   "opponent": "Oliver Bonding",
   "event": "M15 Ann Arbor",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
-  "playerId": "uva-m-h4",
-  "name": "Inaki Montes de la Torre",
-  "teamId": "uva-m",
-  "gender": "men",
-  "opponent": "David Jorda Sanchis",
-  "event": "Porto Challenger",
   "date": "2026-10-03",
   "day": "today"
  },
@@ -164,6 +144,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "aub-p10",
+  "name": "Merna Refaat",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Rose Marie Nijkamp",
+  "event": "W15 Nashville",
+  "date": "2026-10-03",
+  "day": "today"
+ },
+ {
   "playerId": "uk-m-h10",
   "name": "Millen Hurrion",
   "teamId": "uk-m",
@@ -174,22 +164,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "mich-m-h4",
-  "name": "Nino Ehrenschneider",
-  "teamId": "mich-m",
-  "gender": "men",
-  "opponent": "Ryuki Matsuda",
-  "event": "M15 Luan",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
-  "playerId": "ncst-w-h11",
-  "name": "Priska Nugroho",
-  "teamId": "ncst-w",
+  "playerId": "tex-w-n1",
+  "name": "Rose Marie Nijkamp",
+  "teamId": "tex-w",
   "gender": "women",
-  "opponent": "Kyoka Okamura",
-  "event": "Suzhou WTA 125 - Suzhou",
+  "opponent": "Merna Refaat",
+  "event": "W15 Nashville",
   "date": "2026-10-03",
   "day": "today"
  },
@@ -224,12 +204,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "pur-w-h7",
+  "name": "Antonia Pareja",
+  "teamId": "pur-w",
+  "gender": "women",
+  "opponent": "Madison Brengle",
+  "event": "W100 Templeton",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ncst-w-h8",
   "name": "Diana Shnaider",
   "teamId": "ncst-w",
   "gender": "women",
   "opponent": "Ekaterina Alexandrova",
   "event": "China Open - Beijing",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "lsu-p1",
+  "name": "Ella McDonald",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Tatjana Maria",
+  "event": "W100 Templeton",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ncst-w-h11",
+  "name": "Priska Nugroho",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Kyoka Okamura",
+  "event": "Suzhou WTA 125 - Suzhou",
   "date": "2026-10-04",
   "day": "tomorrow"
  },
