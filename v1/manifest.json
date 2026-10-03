@@ -1,25 +1,25 @@
 {
- "version": "ef5a2de60b",
- "asOf": "2026-10-02",
+ "version": "0c0de24115",
+ "asOf": "2026-10-03",
  "files": {
   "proRankings.js": {
    "hash": "d94b8162a3",
    "bytes": 287843
   },
   "onTourWeek.js": {
-   "hash": "a1f961a2b1",
-   "bytes": 463053
+   "hash": "bf7350ed4b",
+   "bytes": 463049
   },
   "upcoming.js": {
-   "hash": "12e1f19a90",
-   "bytes": 6342
+   "hash": "3e344112da",
+   "bytes": 5745
   },
   "itaNational.js": {
    "hash": "af3721a416",
    "bytes": 17314
   },
   "itaDraws.js": {
-   "hash": "84a4d17755",
+   "hash": "d8a8940815",
    "bytes": 1316920
   },
   "collegeRanks.js": {
@@ -31,19 +31,19 @@
    "bytes": 76398
   },
   "upcomingDuals.js": {
-   "hash": "8dd4b860e0",
+   "hash": "1544222269",
    "bytes": 87719
   },
   "collegeTournaments.js": {
-   "hash": "aa6f561e2e",
-   "bytes": 2136
+   "hash": "616b3df575",
+   "bytes": 935
   },
   "drawFixtures.js": {
-   "hash": "c15bb0dbce",
+   "hash": "3f5d1d8409",
    "bytes": 132223
   },
   "itaTournaments.js": {
-   "hash": "f4474d042e",
+   "hash": "affc1863f3",
    "bytes": 1854173
   },
   "rankHistory.js": {
@@ -55,8 +55,8 @@
    "bytes": 381348
   },
   "recentProEvents.js": {
-   "hash": "f0363f1593",
-   "bytes": 97378
+   "hash": "73520c9a06",
+   "bytes": 98601
   }
  }
 }
