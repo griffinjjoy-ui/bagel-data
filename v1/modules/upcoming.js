@@ -14,16 +14,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "bay-m-h12",
-  "name": "Adrian Boitan",
-  "teamId": "bay-m",
-  "gender": "men",
-  "opponent": "Borys Zgola",
-  "event": "M25 Slobozia",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
   "playerId": "fla-m-h11",
   "name": "Andres Andrade",
   "teamId": "fla-m",
@@ -40,16 +30,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Astra Sharma",
   "event": "W15 Nashville",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
-  "playerId": "wash-m-h10",
-  "name": "Clement Chidekh",
-  "teamId": "wash-m",
-  "gender": "men",
-  "opponent": "Henry Bernet",
-  "event": "Mouilleron-Le-Captif Challenger",
   "date": "2026-10-03",
   "day": "today"
  },
@@ -114,16 +94,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "corn-w-h13",
-  "name": "Lan Mi",
-  "teamId": "corn-w",
-  "gender": "women",
-  "opponent": "Ekaterina Dotsenko",
-  "event": "W15 Monastir",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
   "playerId": "tenn-p3",
   "name": "Leyla Britez Risso",
   "teamId": "tenn-w",
@@ -174,16 +144,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "ucf-w-h5",
-  "name": "Sophia Biolay",
-  "teamId": "ucf-w",
-  "gender": "women",
-  "opponent": "Marta Soriano Santiago",
-  "event": "W15 Monastir",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
   "playerId": "tamu-m-p4",
   "name": "Theo Papamalamis",
   "teamId": "tamu-m",
@@ -194,22 +154,22 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "cal-w-h2",
-  "name": "Valentina Ivanov",
-  "teamId": "cal-w",
-  "gender": "women",
-  "opponent": "Celia Cervino Ruiz",
-  "event": "W35 Baza",
-  "date": "2026-10-03",
-  "day": "today"
- },
- {
   "playerId": "pur-w-h7",
   "name": "Antonia Pareja",
   "teamId": "pur-w",
   "gender": "women",
   "opponent": "Madison Brengle",
   "event": "W100 Templeton",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "wash-m-h10",
+  "name": "Clement Chidekh",
+  "teamId": "wash-m",
+  "gender": "men",
+  "opponent": "Sascha Gueymard Wayenburg",
+  "event": "Mouilleron-Le-Captif Challenger",
   "date": "2026-10-04",
   "day": "tomorrow"
  },
@@ -234,6 +194,46 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "uva-m-h4",
+  "name": "Inaki Montes de la Torre",
+  "teamId": "uva-m",
+  "gender": "men",
+  "opponent": "Henrique Rocha",
+  "event": "Porto Challenger",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "okst-m-h5",
+  "name": "Isaac Becroft",
+  "teamId": "okst-m",
+  "gender": "men",
+  "opponent": "Nino Ehrenschneider",
+  "event": "M15 Luan",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ncst-m-fp370",
+  "name": "Martin Borisiouk",
+  "teamId": "ncst-m",
+  "gender": "men",
+  "opponent": "Jumpei Yamasaki",
+  "event": "Wuning 3 Challenger",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "mich-m-h4",
+  "name": "Nino Ehrenschneider",
+  "teamId": "mich-m",
+  "gender": "men",
+  "opponent": "Isaac Becroft",
+  "event": "M15 Luan",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ncst-w-h11",
   "name": "Priska Nugroho",
   "teamId": "ncst-w",
@@ -244,12 +244,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "unc-m-h9",
+  "name": "Ryan Seggerman",
+  "teamId": "unc-m",
+  "gender": "men",
+  "opponent": "Naoki Tajima",
+  "event": "Wuning 3 Challenger",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "tamu-m-h19",
   "name": "Valentin Vacherot",
   "teamId": "tamu-m",
   "gender": "men",
   "opponent": "Arthur Fils",
   "event": "Japan Open Tennis Championships - Tokyo",
+  "date": "2026-10-04",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "cal-m-h3",
+  "name": "Yuta Kikuchi",
+  "teamId": "cal-m",
+  "gender": "men",
+  "opponent": "Kousuke Ogura",
+  "event": "Wuning 3 Challenger",
   "date": "2026-10-04",
   "day": "tomorrow"
  }
