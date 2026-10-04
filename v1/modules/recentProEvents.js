@@ -902,6 +902,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "cal-m-p9": [
   {
+   "key": "22094",
+   "name": "Antofagasta Challenger",
+   "date": "2026-10-05",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "85409504",
+     "date": "2026-10-04",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Bruno Fernandez",
+     "score": "6-4 6-3"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22071",
    "name": "M25 Sabadell",
    "date": "2026-09-21",
@@ -2227,6 +2247,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "okst-w-p1": [
   {
+   "key": "17318",
+   "name": "W50 Burgas",
+   "date": "2026-10-05",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "72201174",
+     "date": "2026-10-04",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Daniella Dimitrova",
+     "score": "6-2 6-3"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17303",
    "name": "W15 Varna",
    "date": "2026-09-28",
@@ -3394,10 +3434,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Alexander Rozin",
      "score": "6-3 6-2"
+    },
+    {
+     "id": "91016516",
+     "date": "2026-10-04",
+     "roundId": 12,
+     "round": "Final",
+     "won": false,
+     "opponent": "Dominick Mosejczuk",
+     "score": "6-3 6-3"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Final",
+   "reachedTone": "amber"
   }
  ],
  "tamu-p5": [
@@ -3792,10 +3841,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Maria Florencia Urrutia",
      "score": "7-5 6-2"
+    },
+    {
+     "id": "79576298",
+     "date": "2026-10-04",
+     "roundId": 12,
+     "round": "Final",
+     "won": true,
+     "opponent": "Ana Sofia Sanchez",
+     "score": "6-4 6-4"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Title",
+   "reachedTone": "gold"
   },
   {
    "key": "17283",
@@ -4167,10 +4225,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Merna Refaat",
      "score": "6-1 6-4"
+    },
+    {
+     "id": "79576650",
+     "date": "2026-10-04",
+     "roundId": 12,
+     "round": "Final",
+     "won": false,
+     "opponent": "Astra Sharma",
+     "score": "6-3 6-1"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Final",
+   "reachedTone": "amber"
   }
  ],
  "tex-w-n2": [
@@ -4632,10 +4699,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Andres Andrade",
      "score": "6-3 1-0 ret."
+    },
+    {
+     "id": "86807259",
+     "date": "2026-10-04",
+     "roundId": 12,
+     "round": "Final",
+     "won": true,
+     "opponent": "Abedallah Shelbayh",
+     "score": "6-3 6-2"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Title",
+   "reachedTone": "gold"
   },
   {
    "key": "22035",

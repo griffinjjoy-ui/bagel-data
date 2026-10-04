@@ -7,10 +7,28 @@
 // layer; this module is the watcher's ledger and the future live source.
 export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTournaments"]?.collegeTournaments ?? [
   {
+    "id": "6ac2a76f33a5117ef0caaf22",
+    "name": "San Diego Veterans Tennis Classic",
+    "start": "2026-10-04",
+    "end": "2026-10-05"
+  },
+  {
     "id": "6abece7233a5117ef09304a2",
     "name": "2026 ITA DI Men's Mountain Regional Championship",
     "start": "2026-10-06",
     "end": "2026-10-10"
+  },
+  {
+    "id": "6ac2c5f333a5117ef003d9bf",
+    "name": "2026 ITA DI Men's Carolina Regional Championship",
+    "start": "2026-10-08",
+    "end": "2026-10-12"
+  },
+  {
+    "id": "6ac2bed133a5117ef0f44e93",
+    "name": "2026 ITA DII Men's & Women's East Regional Championships",
+    "start": "2026-10-09",
+    "end": "2026-10-12"
   },
   {
     "id": "6abff01a33a5117ef0fc39aa",

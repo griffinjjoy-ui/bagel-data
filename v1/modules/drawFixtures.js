@@ -5,6 +5,48 @@
 // when made: quali ~Saturday, main ~Sun/Mon. asOf 2026-10-04.
 export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEvents ?? [
  {
+  "event": "Samsun Open - Samsun",
+  "tournamentId": 17306,
+  "tour": "wta",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "fla-w-h4",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "unc-w-h2",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "uga-p7",
+    "seed": null,
+    "entry": "WC",
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "ncst-w-h1",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": false,
+    "played": true
+   }
+  ]
+ },
+ {
   "event": "W100 Templeton",
   "tournamentId": 17296,
   "tour": "wta",
@@ -101,17 +143,17 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "tamu-w-h6",
+    "playerId": "ucla-w-p9",
     "seed": null,
-    "entry": "SR",
+    "entry": "Q",
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "ucla-w-p9",
+    "playerId": "tamu-w-h6",
     "seed": null,
-    "entry": "Q",
+    "entry": "SR",
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -181,7 +223,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "tenn-w-h9",
+    "playerId": "usd-w-h6",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -189,7 +231,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "usd-w-h6",
+    "playerId": "tenn-w-h9",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -226,6 +268,40 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "entry": null,
     "inMain": false,
     "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
+  "event": "W50 Burgas",
+  "tournamentId": null,
+  "tour": "wta",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "miss-w-h1",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "tamu-p3",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "okst-w-p1",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": false,
     "played": true
    }
   ]
@@ -349,6 +425,36 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
+  "event": "W15 Trelew",
+  "tournamentId": 17302,
+  "tour": "wta",
+  "finished": true,
+  "finalDate": "2026-10-04",
+  "champion": {
+   "playerId": "tenn-p3",
+   "score": "6-4 6-4",
+   "date": "2026-10-04"
+  },
+  "entries": [
+   {
+    "playerId": "tenn-p3",
+    "seed": "7",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "ou-w-h9",
+    "seed": "2",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
   "event": "Suzhou WTA 125 - Suzhou",
   "tournamentId": 17307,
   "tour": "wta",
@@ -386,8 +492,8 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "event": "W15 Nashville",
   "tournamentId": 17315,
   "tour": "wta",
-  "finished": false,
-  "finalDate": null,
+  "finished": true,
+  "finalDate": "2026-10-04",
   "champion": null,
   "entries": [
    {
@@ -411,7 +517,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "seed": "3",
     "entry": null,
     "inMain": true,
-    "eliminated": false,
+    "eliminated": true,
     "played": true
    },
    {
@@ -447,17 +553,17 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "msst-p2",
+    "playerId": "tenn-p5",
     "seed": null,
-    "entry": "Q",
+    "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "tenn-p5",
+    "playerId": "msst-p2",
     "seed": null,
-    "entry": null,
+    "entry": "Q",
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -705,39 +811,21 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
-  "event": "W15 Trelew",
-  "tournamentId": 17302,
+  "event": "W15 Monastir",
+  "tournamentId": 17305,
   "tour": "wta",
-  "finished": false,
-  "finalDate": null,
+  "finished": true,
+  "finalDate": "2026-10-04",
   "champion": null,
   "entries": [
    {
-    "playerId": "tenn-p3",
-    "seed": "7",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "ou-w-h9",
-    "seed": "2",
+    "playerId": "ucf-w-h5",
+    "seed": null,
     "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
-   }
-  ]
- },
- {
-  "event": "W15 Monastir",
-  "tournamentId": 17305,
-  "tour": "wta",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
+   },
    {
     "playerId": "corn-w-h13",
     "seed": "1",
@@ -752,14 +840,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "entry": "Q",
     "inMain": true,
     "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ucf-w-h5",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
     "played": true
    },
    {
@@ -792,8 +872,8 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "event": "W35 Baza",
   "tournamentId": 17299,
   "tour": "wta",
-  "finished": false,
-  "finalDate": null,
+  "finished": true,
+  "finalDate": "2026-10-04",
   "champion": null,
   "entries": [
    {
@@ -817,7 +897,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "seed": "8",
     "entry": null,
     "inMain": true,
-    "eliminated": false,
+    "eliminated": true,
     "played": true
    },
    {
@@ -866,8 +946,8 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "event": "W75 Quinta do Lago",
   "tournamentId": 17297,
   "tour": "wta",
-  "finished": false,
-  "finalDate": null,
+  "finished": true,
+  "finalDate": "2026-10-04",
   "champion": null,
   "entries": [
    {
@@ -966,8 +1046,8 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "event": "Adana Open - Adana",
   "tournamentId": 17261,
   "tour": "wta",
-  "finished": false,
-  "finalDate": null,
+  "finished": true,
+  "finalDate": "2026-10-04",
   "champion": null,
   "entries": [
    {
@@ -992,8 +1072,8 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "event": "W35 Reims",
   "tournamentId": 17300,
   "tour": "wta",
-  "finished": false,
-  "finalDate": null,
+  "finished": true,
+  "finalDate": "2026-10-04",
   "champion": null,
   "entries": [
    {
@@ -1065,14 +1145,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "ucla-w-h6",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
     "playerId": "unc-w-h2",
     "seed": null,
     "entry": null,
@@ -1084,6 +1156,14 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "playerId": "uga-p7",
     "seed": null,
     "entry": "WC",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ucla-w-h6",
+    "seed": null,
+    "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -1115,17 +1195,17 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "champion": null,
   "entries": [
    {
-    "playerId": "cuse-w-h8",
-    "seed": "7",
-    "entry": null,
+    "playerId": "unc-w-p2",
+    "seed": null,
+    "entry": "Q",
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "unc-w-p2",
-    "seed": null,
-    "entry": "Q",
+    "playerId": "cuse-w-h8",
+    "seed": "7",
+    "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -1147,73 +1227,15 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "okst-w-h7",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
     "playerId": "neb-w-h7",
     "seed": null,
     "entry": null,
     "inMain": false,
     "eliminated": true,
     "played": true
-   }
-  ]
- },
- {
-  "event": "W50 Plovdiv",
-  "tournamentId": 17289,
-  "tour": "wta",
-  "finished": true,
-  "finalDate": "2026-09-27",
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "ala-w-h1",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
    },
    {
-    "playerId": "tamu-p3",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "uva-w-h6",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "miss-w-h1",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "wash-w-h8",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ala-p10",
+    "playerId": "okst-w-h7",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -1231,17 +1253,17 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "champion": null,
   "entries": [
    {
-    "playerId": "tcu-w-h2",
+    "playerId": "pur-w-h6",
     "seed": null,
-    "entry": null,
+    "entry": "Q",
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "pur-w-h6",
+    "playerId": "tcu-w-h2",
     "seed": null,
-    "entry": "Q",
+    "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -1295,7 +1317,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "ark-w-h5",
+    "playerId": "unc-w-h8",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -1303,7 +1325,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "unc-w-h8",
+    "playerId": "ark-w-h5",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -1329,14 +1351,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "champion": null,
   "entries": [
    {
-    "playerId": "ou-p4",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
     "playerId": "tamu-w-n8",
     "seed": null,
     "entry": "Q",
@@ -1346,6 +1360,14 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
    },
    {
     "playerId": "lsu-p1",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ou-p4",
     "seed": null,
     "entry": null,
     "inMain": true,
@@ -1571,6 +1593,454 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
+  "event": "Columbus Challenger",
+  "tournamentId": 22039,
+  "tour": "atp",
+  "finished": true,
+  "finalDate": "2026-10-04",
+  "champion": {
+   "playerId": "uva-m-p2",
+   "score": "6-3 6-2",
+   "date": "2026-10-04"
+  },
+  "entries": [
+   {
+    "playerId": "mich-m-h7",
+    "seed": null,
+    "entry": "PR",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "uva-m-p2",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "fla-m-h9",
+    "seed": "7",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "fla-m-h11",
+    "seed": "5",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "harv-m-h3",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tenn-m-h10",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "wake-m-p5",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "wich-m-fp92",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "mich-m-h5",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ncst-m-h7",
+    "seed": "3",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ucla-m-h15",
+    "seed": "2",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "osu-m-h11",
+    "seed": "6",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ncst-m-h5",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "lsu-m-n1",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "msu-m-fp274",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "pepp-m-p6",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ariz-m-h3",
+    "seed": "4",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "osu-m-p7",
+    "seed": null,
+    "entry": "WC",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tamu-m-h7",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tcu-m-p3",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "okst-m-h4",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ucla-m-h8",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tenn-m-h6",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "gt-m-h8",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "uga-m-h1",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ucf-m-p7",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "uk-m-h14",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ore-m-h7",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "clem-m-p9",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "lsu-m-n2",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "uci-m-h7",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "osu-m-p11",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
+  "event": "M25 Slobozia",
+  "tournamentId": 22082,
+  "tour": "atp",
+  "finished": true,
+  "finalDate": "2026-10-04",
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "bay-m-h12",
+    "seed": null,
+    "entry": "6WC",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "msst-m-h9",
+    "seed": "3",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "corn-m-h6",
+    "seed": "2",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ala-m-h4",
+    "seed": "5",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "unc-m-h2",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ore-m-p1",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
+  "event": "Antofagasta Challenger",
+  "tournamentId": 22094,
+  "tour": "atp",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "bay-m-h11",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "ttu-m-h2",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "cal-m-p9",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": false,
+    "played": true
+   }
+  ]
+ },
+ {
+  "event": "Mouilleron-Le-Captif Challenger",
+  "tournamentId": 22041,
+  "tour": "atp",
+  "finished": true,
+  "finalDate": "2026-10-04",
+  "champion": {
+   "playerId": "wash-m-h10",
+   "score": "6-2 6-0",
+   "date": "2026-10-04"
+  },
+  "entries": [
+   {
+    "playerId": "wash-m-h10",
+    "seed": "7",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "ark-m-h14",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tcu-m-h8",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "cal-m-p3",
+    "seed": null,
+    "entry": "ALT",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "uga-m-h5",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ucla-m-h5",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "osu-m-h2",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "unc-m-h8",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tenn-m-h5",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
   "event": "M25 Darwin",
   "tournamentId": null,
   "tour": "atp",
@@ -1584,6 +2054,212 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "entry": null,
     "inMain": false,
     "eliminated": false,
+    "played": true
+   }
+  ]
+ },
+ {
+  "event": "Braga Challenger",
+  "tournamentId": 22095,
+  "tour": "atp",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "stan-m-h16",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "ucla-m-h14",
+    "seed": "8",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "tex-m-n3",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "msst-m-h9",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "unc-m-h13",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "ttu-m-h1",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "ncst-m-h2",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tamu-m-h16",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "duke-m-fp157",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "vt-m-h2",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
+  "event": "Palermo Challenger",
+  "tournamentId": 22096,
+  "tour": "atp",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "msst-m-p8",
+    "seed": null,
+    "entry": "CO",
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "tex-m-p9",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "wake-m-h3",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": false,
+    "played": true
+   }
+  ]
+ },
+ {
+  "event": "Porto Challenger",
+  "tournamentId": 22037,
+  "tour": "atp",
+  "finished": true,
+  "finalDate": "2026-10-04",
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "uva-m-h4",
+    "seed": null,
+    "entry": "ALT",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "usd-m-h8",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "sc-m-h4",
+    "seed": "4",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "stan-m-h6",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ucla-m-h14",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tcu-m-h1",
+    "seed": "2",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "cal-m-h6",
+    "seed": null,
+    "entry": "ALT",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ncst-m-h2",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tcu-m-h5",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
     "played": true
    }
   ]
@@ -1622,6 +2298,32 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "entry": "Q",
     "inMain": true,
     "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
+  "event": "M15 Heraklion",
+  "tournamentId": null,
+  "tour": "atp",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "ou-m-h2",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "aub-m-h1",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": false,
     "played": true
    }
   ]
@@ -1704,8 +2406,8 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "event": "M15 Baku",
   "tournamentId": 22092,
   "tour": "atp",
-  "finished": false,
-  "finalDate": null,
+  "finished": true,
+  "finalDate": "2026-10-04",
   "champion": null,
   "entries": [
    {
@@ -1713,7 +2415,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "seed": "1",
     "entry": null,
     "inMain": true,
-    "eliminated": false,
+    "eliminated": true,
     "played": true
    },
    {
@@ -1820,780 +2522,24 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "entry": null,
     "inMain": false,
     "eliminated": false,
-    "played": false
+    "played": true
    }
   ]
  },
  {
-  "event": "Braga Challenger",
-  "tournamentId": 22095,
+  "event": "M15 Monastir",
+  "tournamentId": null,
   "tour": "atp",
   "finished": false,
   "finalDate": null,
   "champion": null,
   "entries": [
    {
-    "playerId": "stan-m-h16",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "ucla-m-h14",
-    "seed": "8",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tex-m-n3",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "msst-m-h9",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "unc-m-h13",
+    "playerId": "fla-m-p7",
     "seed": null,
     "entry": null,
     "inMain": false,
     "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "ncst-m-h2",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "ttu-m-h1",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "duke-m-fp157",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "vt-m-h2",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tamu-m-h16",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": false
-   }
-  ]
- },
- {
-  "event": "Japan Open Tennis Championships - Tokyo",
-  "tournamentId": 21354,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "tamu-m-h19",
-    "seed": "8",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "stan-m-h4",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "uva-m-h16",
-    "seed": "5",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "uva-m-h12",
-    "seed": "4",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ucla-m-h13",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   }
-  ]
- },
- {
-  "event": "Columbus Challenger",
-  "tournamentId": 22039,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "uva-m-p2",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "mich-m-h7",
-    "seed": null,
-    "entry": "PR",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "fla-m-h11",
-    "seed": "5",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "harv-m-h3",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "fla-m-h9",
-    "seed": "7",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "wich-m-fp92",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tenn-m-h10",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "wake-m-p5",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "mich-m-h5",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ncst-m-h7",
-    "seed": "3",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ucla-m-h15",
-    "seed": "2",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "osu-m-h11",
-    "seed": "6",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ncst-m-h5",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "msu-m-fp274",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "lsu-m-n1",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ariz-m-h3",
-    "seed": "4",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "pepp-m-p6",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "osu-m-p7",
-    "seed": null,
-    "entry": "WC",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tamu-m-h7",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tcu-m-p3",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "okst-m-h4",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ucla-m-h8",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tenn-m-h6",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "gt-m-h8",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "uga-m-h1",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "uk-m-h14",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ucf-m-p7",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ore-m-h7",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "clem-m-p9",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "lsu-m-n2",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "uci-m-h7",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "osu-m-p11",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   }
-  ]
- },
- {
-  "event": "M25 Slobozia",
-  "tournamentId": 22082,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "bay-m-h12",
-    "seed": null,
-    "entry": "6WC",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "msst-m-h9",
-    "seed": "3",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "corn-m-h6",
-    "seed": "2",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ala-m-h4",
-    "seed": "5",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "unc-m-h2",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ore-m-p1",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   }
-  ]
- },
- {
-  "event": "Mouilleron-Le-Captif Challenger",
-  "tournamentId": 22041,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "wash-m-h10",
-    "seed": "7",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "ark-m-h14",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tcu-m-h8",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "cal-m-p3",
-    "seed": null,
-    "entry": "ALT",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "uga-m-h5",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ucla-m-h5",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "osu-m-h2",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "unc-m-h8",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tenn-m-h5",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   }
-  ]
- },
- {
-  "event": "M15 Ann Arbor",
-  "tournamentId": 22091,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "miss-m-h3",
-    "seed": "1",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "mich-m-p6",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "van-m-p2",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "lsu-m-p1",
-    "seed": "3",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "asu-m-p10",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tex-m-h2",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "asu-m-p4",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "clem-m-p6",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "fla-m-p4",
-    "seed": "6",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "mich-m-p7",
-    "seed": null,
-    "entry": "WC",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "duke-m-h1",
-    "seed": "2",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "van-m-p7",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tenn-m-p9",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ill-m-p7",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tenn-m-p8",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "mich-m-p5",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "asu-m-p5",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   }
-  ]
- },
- {
-  "event": "Porto Challenger",
-  "tournamentId": 22037,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "usd-m-h8",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "uva-m-h4",
-    "seed": null,
-    "entry": "ALT",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "sc-m-h4",
-    "seed": "4",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "stan-m-h6",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ucla-m-h14",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tcu-m-h1",
-    "seed": "2",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "cal-m-h6",
-    "seed": null,
-    "entry": "ALT",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ncst-m-h2",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tcu-m-h5",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
     "played": true
    }
   ]
@@ -2602,8 +2548,8 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "event": "M15 Fayetteville",
   "tournamentId": 22090,
   "tour": "atp",
-  "finished": false,
-  "finalDate": null,
+  "finished": true,
+  "finalDate": "2026-10-04",
   "champion": null,
   "entries": [
    {
@@ -2611,7 +2557,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "seed": "1",
     "entry": null,
     "inMain": true,
-    "eliminated": false,
+    "eliminated": true,
     "played": true
    },
    {
@@ -2695,17 +2641,17 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "ou-m-p3",
+    "playerId": "ark-m-p6",
     "seed": null,
-    "entry": "Q",
+    "entry": "WC",
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "ark-m-p6",
+    "playerId": "ou-m-p3",
     "seed": null,
-    "entry": "WC",
+    "entry": "Q",
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -2873,6 +2819,202 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
+  "event": "Japan Open Tennis Championships - Tokyo",
+  "tournamentId": 21354,
+  "tour": "atp",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "tamu-m-h19",
+    "seed": "8",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "stan-m-h4",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "uva-m-h16",
+    "seed": "5",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "uva-m-h12",
+    "seed": "4",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ucla-m-h13",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
+  "event": "M15 Ann Arbor",
+  "tournamentId": 22091,
+  "tour": "atp",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "mich-m-p6",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "miss-m-h3",
+    "seed": "1",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "van-m-p2",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "lsu-m-p1",
+    "seed": "3",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "asu-m-p10",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tex-m-h2",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "asu-m-p4",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "clem-m-p6",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "fla-m-p4",
+    "seed": "6",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "mich-m-p7",
+    "seed": null,
+    "entry": "WC",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "duke-m-h1",
+    "seed": "2",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "van-m-p7",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tenn-m-p9",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ill-m-p7",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tenn-m-p8",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "mich-m-p5",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "asu-m-p5",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
   "event": "Jingshan Challenger",
   "tournamentId": 22038,
   "tour": "atp",
@@ -2947,24 +3089,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
-  "event": "M15 Monastir",
-  "tournamentId": null,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "fla-m-p7",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": false
-   }
-  ]
- },
- {
   "event": "M15 Sibenik",
   "tournamentId": 22087,
   "tour": "atp",
@@ -2986,8 +3110,8 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "event": "M25 Zaragoza",
   "tournamentId": 22084,
   "tour": "atp",
-  "finished": false,
-  "finalDate": null,
+  "finished": true,
+  "finalDate": "2026-10-04",
   "champion": null,
   "entries": [
    {
@@ -3070,8 +3194,8 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "event": "Curitiba Challenger",
   "tournamentId": 22040,
   "tour": "atp",
-  "finished": false,
-  "finalDate": null,
+  "finished": true,
+  "finalDate": "2026-10-04",
   "champion": null,
   "entries": [
    {
@@ -3697,16 +3821,16 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "usd-m-h3",
-    "seed": null,
+    "playerId": "duke-m-h1",
+    "seed": "5",
     "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "duke-m-h1",
-    "seed": "5",
+    "playerId": "usd-m-h3",
+    "seed": null,
     "entry": null,
     "inMain": true,
     "eliminated": true,
@@ -3855,16 +3979,16 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "uva-m-h6",
-    "seed": null,
+    "playerId": "wake-m-h17",
+    "seed": "2",
     "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "wake-m-h17",
-    "seed": "2",
+    "playerId": "uva-m-h6",
+    "seed": null,
     "entry": null,
     "inMain": true,
     "eliminated": true,
@@ -3893,176 +4017,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "inMain": true,
     "eliminated": true,
     "played": true
-   }
-  ]
- },
- {
-  "event": "M25 Pardubice",
-  "tournamentId": 22068,
-  "tour": "atp",
-  "finished": true,
-  "finalDate": "2026-09-27",
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "tex-m-p9",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "ala-m-h4",
-    "seed": "5",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   }
-  ]
- },
- {
-  "event": "Samsun Open - Samsun",
-  "tournamentId": 17306,
-  "tour": "wta",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "fla-w-h4",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "unc-w-h2",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "uga-p7",
-    "seed": null,
-    "entry": "WC",
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "ncst-w-h1",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": false
-   }
-  ]
- },
- {
-  "event": "Antofagasta Challenger",
-  "tournamentId": 22094,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "bay-m-h11",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "ttu-m-h2",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "cal-m-p9",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": false
-   }
-  ]
- },
- {
-  "event": "W50 Burgas",
-  "tournamentId": null,
-  "tour": "wta",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "miss-w-h1",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tamu-p3",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "okst-w-p1",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": false
-   }
-  ]
- },
- {
-  "event": "Palermo Challenger",
-  "tournamentId": 22096,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "msst-m-p8",
-    "seed": null,
-    "entry": "CO",
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tex-m-p9",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "wake-m-h3",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": false
    }
   ]
  },
@@ -4173,11 +4127,82 @@ export const recentChampions = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.re
   "event": "M15 Luan",
   "score": "6-3 3-6 6-3",
   "date": "2026-10-04"
+ },
+ {
+  "key": "wta:W15 Trelew",
+  "playerId": "tenn-p3",
+  "event": "W15 Trelew",
+  "score": "6-4 6-4",
+  "date": "2026-10-04",
+  "opponent": "Ana Sofia Sanchez",
+  "source": "onTourWeek results row"
+ },
+ {
+  "key": "atp:Columbus Challenger",
+  "playerId": "uva-m-p2",
+  "event": "Columbus Challenger",
+  "score": "6-3 6-2",
+  "date": "2026-10-04",
+  "opponent": "Abedallah Shelbayh",
+  "source": "onTourWeek results row"
+ },
+ {
+  "key": "wta:17302",
+  "playerId": "tenn-p3",
+  "event": "W15 Trelew",
+  "score": "6-4 6-4",
+  "date": "2026-10-04"
+ },
+ {
+  "key": "atp:22039",
+  "playerId": "uva-m-p2",
+  "event": "Columbus Challenger",
+  "score": "6-3 6-2",
+  "date": "2026-10-04"
+ },
+ {
+  "key": "atp:22041",
+  "playerId": "wash-m-h10",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "score": "6-2 6-0",
+  "date": "2026-10-04"
  }
 ];
 
 // legacy flat view (§243 consumers)
 export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawFixtures ?? [
+ {
+  "playerId": "fla-w-h4",
+  "event": "Samsun Open - Samsun",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "unc-w-h2",
+  "event": "Samsun Open - Samsun",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "uga-p7",
+  "event": "Samsun Open - Samsun",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "ncst-w-h1",
+  "event": "Samsun Open - Samsun",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": true
+ },
  {
   "playerId": "uga-w-h11",
   "event": "W100 Templeton",
@@ -4267,18 +4292,18 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tamu-w-h6",
-  "event": "W100 Templeton",
-  "seed": null,
-  "entry": "SR",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
   "playerId": "ucla-w-p9",
   "event": "W100 Templeton",
   "seed": null,
   "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tamu-w-h6",
+  "event": "W100 Templeton",
+  "seed": null,
+  "entry": "SR",
   "inMain": true,
   "hasUnplayed": false
  },
@@ -4347,7 +4372,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tenn-w-h9",
+  "playerId": "usd-w-h6",
   "event": "W100 Templeton",
   "seed": null,
   "entry": null,
@@ -4355,7 +4380,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "usd-w-h6",
+  "playerId": "tenn-w-h9",
   "event": "W100 Templeton",
   "seed": null,
   "entry": null,
@@ -4393,6 +4418,30 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "entry": null,
   "inMain": false,
   "hasUnplayed": false
+ },
+ {
+  "playerId": "miss-w-h1",
+  "event": "W50 Burgas",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tamu-p3",
+  "event": "W50 Burgas",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "okst-w-p1",
+  "event": "W50 Burgas",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": true
  },
  {
   "playerId": "csuf-w-p5",
@@ -4483,6 +4532,22 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
+  "playerId": "tenn-p3",
+  "event": "W15 Trelew",
+  "seed": "7",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ou-w-h9",
+  "event": "W15 Trelew",
+  "seed": "2",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
   "playerId": "uga-w-h7",
   "event": "Suzhou WTA 125 - Suzhou",
   "seed": "4",
@@ -4528,7 +4593,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "seed": "3",
   "entry": null,
   "inMain": true,
-  "hasUnplayed": true
+  "hasUnplayed": false
  },
  {
   "playerId": "miss-p7",
@@ -4563,18 +4628,18 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "msst-p2",
-  "event": "W15 Nashville",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
   "playerId": "tenn-p5",
   "event": "W15 Nashville",
   "seed": null,
   "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "msst-p2",
+  "event": "W15 Nashville",
+  "seed": null,
+  "entry": "Q",
   "inMain": true,
   "hasUnplayed": false
  },
@@ -4592,7 +4657,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "seed": null,
   "entry": "Q",
   "inMain": true,
-  "hasUnplayed": true
+  "hasUnplayed": false
  },
  {
   "playerId": "wisc-w-p7",
@@ -4819,17 +4884,9 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tenn-p3",
-  "event": "W15 Trelew",
-  "seed": "7",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "ou-w-h9",
-  "event": "W15 Trelew",
-  "seed": "2",
+  "playerId": "ucf-w-h5",
+  "event": "W15 Monastir",
+  "seed": null,
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
@@ -4849,14 +4906,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "entry": "Q",
   "inMain": true,
   "hasUnplayed": false
- },
- {
-  "playerId": "ucf-w-h5",
-  "event": "W15 Monastir",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
  },
  {
   "playerId": "tcu-w-h8",
@@ -4904,7 +4953,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "seed": "8",
   "entry": null,
   "inMain": true,
-  "hasUnplayed": true
+  "hasUnplayed": false
  },
  {
   "playerId": "ark-w-h5",
@@ -5091,14 +5140,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "ucla-w-h6",
-  "event": "Ankara Open - Ankara",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
   "playerId": "unc-w-h2",
   "event": "Ankara Open - Ankara",
   "seed": null,
@@ -5111,6 +5152,14 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "event": "Ankara Open - Ankara",
   "seed": null,
   "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ucla-w-h6",
+  "event": "Ankara Open - Ankara",
+  "seed": null,
+  "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
@@ -5131,18 +5180,18 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "cuse-w-h8",
-  "event": "Eupago Porto Open - Porto",
-  "seed": "7",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
   "playerId": "unc-w-p2",
   "event": "Eupago Porto Open - Porto",
   "seed": null,
   "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "cuse-w-h8",
+  "event": "Eupago Porto Open - Porto",
+  "seed": "7",
+  "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
@@ -5163,14 +5212,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "okst-w-h7",
-  "event": "Eupago Porto Open - Porto",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
   "playerId": "neb-w-h7",
   "event": "Eupago Porto Open - Porto",
   "seed": null,
@@ -5179,59 +5220,11 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "ala-w-h1",
-  "event": "W50 Plovdiv",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tamu-p3",
-  "event": "W50 Plovdiv",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "uva-w-h6",
-  "event": "W50 Plovdiv",
+  "playerId": "okst-w-h7",
+  "event": "Eupago Porto Open - Porto",
   "seed": null,
   "entry": null,
   "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "miss-w-h1",
-  "event": "W50 Plovdiv",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "wash-w-h8",
-  "event": "W50 Plovdiv",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ala-p10",
-  "event": "W50 Plovdiv",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tcu-w-h2",
-  "event": "W50 Yecla",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
   "hasUnplayed": false
  },
  {
@@ -5239,6 +5232,14 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "event": "W50 Yecla",
   "seed": null,
   "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tcu-w-h2",
+  "event": "W50 Yecla",
+  "seed": null,
+  "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
@@ -5291,7 +5292,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "ark-w-h5",
+  "playerId": "unc-w-h8",
   "event": "W50 Yecla",
   "seed": null,
   "entry": null,
@@ -5299,7 +5300,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "unc-w-h8",
+  "playerId": "ark-w-h5",
   "event": "W50 Yecla",
   "seed": null,
   "entry": null,
@@ -5315,14 +5316,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "ou-p4",
-  "event": "W50 Berkeley",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
   "playerId": "tamu-w-n8",
   "event": "W50 Berkeley",
   "seed": null,
@@ -5332,6 +5325,14 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
  },
  {
   "playerId": "lsu-p1",
+  "event": "W50 Berkeley",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ou-p4",
   "event": "W50 Berkeley",
   "seed": null,
   "entry": null,
@@ -5555,12 +5556,588 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
+  "playerId": "mich-m-h7",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": "PR",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "uva-m-p2",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "fla-m-h9",
+  "event": "Columbus Challenger",
+  "seed": "7",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "fla-m-h11",
+  "event": "Columbus Challenger",
+  "seed": "5",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "harv-m-h3",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tenn-m-h10",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "wake-m-p5",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "wich-m-fp92",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "mich-m-h5",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ncst-m-h7",
+  "event": "Columbus Challenger",
+  "seed": "3",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ucla-m-h15",
+  "event": "Columbus Challenger",
+  "seed": "2",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "osu-m-h11",
+  "event": "Columbus Challenger",
+  "seed": "6",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ncst-m-h5",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "lsu-m-n1",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "msu-m-fp274",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "pepp-m-p6",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ariz-m-h3",
+  "event": "Columbus Challenger",
+  "seed": "4",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "osu-m-p7",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tamu-m-h7",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tcu-m-p3",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "okst-m-h4",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ucla-m-h8",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tenn-m-h6",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "gt-m-h8",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "uga-m-h1",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ucf-m-p7",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "uk-m-h14",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ore-m-h7",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "clem-m-p9",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "lsu-m-n2",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "uci-m-h7",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "osu-m-p11",
+  "event": "Columbus Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "bay-m-h12",
+  "event": "M25 Slobozia",
+  "seed": null,
+  "entry": "6WC",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "msst-m-h9",
+  "event": "M25 Slobozia",
+  "seed": "3",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "corn-m-h6",
+  "event": "M25 Slobozia",
+  "seed": "2",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ala-m-h4",
+  "event": "M25 Slobozia",
+  "seed": "5",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "unc-m-h2",
+  "event": "M25 Slobozia",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ore-m-p1",
+  "event": "M25 Slobozia",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "bay-m-h11",
+  "event": "Antofagasta Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "ttu-m-h2",
+  "event": "Antofagasta Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "cal-m-p9",
+  "event": "Antofagasta Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "wash-m-h10",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "seed": "7",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ark-m-h14",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tcu-m-h8",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "cal-m-p3",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "seed": null,
+  "entry": "ALT",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "uga-m-h5",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ucla-m-h5",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "osu-m-h2",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "unc-m-h8",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tenn-m-h5",
+  "event": "Mouilleron-Le-Captif Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
   "playerId": "ark-m-p4",
   "event": "M25 Darwin",
   "seed": null,
   "entry": null,
   "inMain": false,
   "hasUnplayed": true
+ },
+ {
+  "playerId": "stan-m-h16",
+  "event": "Braga Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "ucla-m-h14",
+  "event": "Braga Challenger",
+  "seed": "8",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tex-m-n3",
+  "event": "Braga Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "msst-m-h9",
+  "event": "Braga Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "unc-m-h13",
+  "event": "Braga Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "ttu-m-h1",
+  "event": "Braga Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "ncst-m-h2",
+  "event": "Braga Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tamu-m-h16",
+  "event": "Braga Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "duke-m-fp157",
+  "event": "Braga Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "vt-m-h2",
+  "event": "Braga Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "msst-m-p8",
+  "event": "Palermo Challenger",
+  "seed": null,
+  "entry": "CO",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tex-m-p9",
+  "event": "Palermo Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "wake-m-h3",
+  "event": "Palermo Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "uva-m-h4",
+  "event": "Porto Challenger",
+  "seed": null,
+  "entry": "ALT",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "usd-m-h8",
+  "event": "Porto Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "sc-m-h4",
+  "event": "Porto Challenger",
+  "seed": "4",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "stan-m-h6",
+  "event": "Porto Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ucla-m-h14",
+  "event": "Porto Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tcu-m-h1",
+  "event": "Porto Challenger",
+  "seed": "2",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "cal-m-h6",
+  "event": "Porto Challenger",
+  "seed": null,
+  "entry": "ALT",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ncst-m-h2",
+  "event": "Porto Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tcu-m-h5",
+  "event": "Porto Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
  },
  {
   "playerId": "mich-m-h4",
@@ -5585,6 +6162,22 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "entry": "Q",
   "inMain": true,
   "hasUnplayed": false
+ },
+ {
+  "playerId": "ou-m-h2",
+  "event": "M15 Heraklion",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "aub-m-h1",
+  "event": "M15 Heraklion",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": true
  },
  {
   "playerId": "ucla-m-h15",
@@ -5656,7 +6249,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "seed": "1",
   "entry": null,
   "inMain": true,
-  "hasUnplayed": true
+  "hasUnplayed": false
  },
  {
   "playerId": "ou-m-h2",
@@ -5755,84 +6348,276 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": true
  },
  {
-  "playerId": "stan-m-h16",
-  "event": "Braga Challenger",
+  "playerId": "fla-m-p7",
+  "event": "M15 Monastir",
   "seed": null,
   "entry": null,
-  "inMain": true,
+  "inMain": false,
   "hasUnplayed": true
  },
  {
-  "playerId": "ucla-m-h14",
-  "event": "Braga Challenger",
+  "playerId": "tamu-m-p4",
+  "event": "M15 Fayetteville",
+  "seed": "1",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "wake-m-p6",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ark-m-p3",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tex-m-p2",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "van-m-p8",
+  "event": "M15 Fayetteville",
+  "seed": "7",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "corn-m-h11",
+  "event": "M15 Fayetteville",
+  "seed": "5",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ark-m-p5",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ou-m-n1",
+  "event": "M15 Fayetteville",
+  "seed": "4",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ou-m-p5",
+  "event": "M15 Fayetteville",
+  "seed": "6",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "msst-m-n2",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "usf-m-h4",
+  "event": "M15 Fayetteville",
   "seed": "8",
   "entry": null,
   "inMain": true,
-  "hasUnplayed": true
+  "hasUnplayed": false
  },
  {
-  "playerId": "tex-m-n3",
-  "event": "Braga Challenger",
+  "playerId": "ark-m-p6",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ou-m-p3",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "miss-m-p8",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "pepp-m-p3",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "usd-m-p6",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "miss-m-p3",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ariz-m-fp227",
+  "event": "M15 Fayetteville",
   "seed": null,
   "entry": null,
   "inMain": true,
-  "hasUnplayed": true
+  "hasUnplayed": false
  },
  {
-  "playerId": "msst-m-h9",
-  "event": "Braga Challenger",
+  "playerId": "ou-m-p2",
+  "event": "M15 Fayetteville",
   "seed": null,
   "entry": null,
   "inMain": true,
-  "hasUnplayed": true
+  "hasUnplayed": false
  },
  {
-  "playerId": "unc-m-h13",
-  "event": "Braga Challenger",
+  "playerId": "tamu-m-p3",
+  "event": "M15 Fayetteville",
+  "seed": "3",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ark-m-p8",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "usd-m-h3",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "van-m-p5",
+  "event": "M15 Fayetteville",
+  "seed": "2",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ark-m-n3",
+  "event": "M15 Fayetteville",
   "seed": null,
   "entry": null,
   "inMain": false,
-  "hasUnplayed": true
+  "hasUnplayed": false
  },
  {
-  "playerId": "ncst-m-h2",
-  "event": "Braga Challenger",
+  "playerId": "fsu-m-h6",
+  "event": "M15 Fayetteville",
   "seed": null,
   "entry": null,
   "inMain": false,
-  "hasUnplayed": true
+  "hasUnplayed": false
  },
  {
-  "playerId": "ttu-m-h1",
-  "event": "Braga Challenger",
+  "playerId": "mem-m-p3",
+  "event": "M15 Fayetteville",
   "seed": null,
   "entry": null,
   "inMain": false,
-  "hasUnplayed": true
+  "hasUnplayed": false
  },
  {
-  "playerId": "duke-m-fp157",
-  "event": "Braga Challenger",
+  "playerId": "ark-m-p7",
+  "event": "M15 Fayetteville",
   "seed": null,
   "entry": null,
   "inMain": false,
-  "hasUnplayed": true
+  "hasUnplayed": false
  },
  {
-  "playerId": "vt-m-h2",
-  "event": "Braga Challenger",
+  "playerId": "tamu-m-p2",
+  "event": "M15 Fayetteville",
   "seed": null,
   "entry": null,
   "inMain": false,
-  "hasUnplayed": true
+  "hasUnplayed": false
  },
  {
-  "playerId": "tamu-m-h16",
-  "event": "Braga Challenger",
+  "playerId": "pepp-m-p4",
+  "event": "M15 Fayetteville",
   "seed": null,
   "entry": null,
   "inMain": false,
-  "hasUnplayed": true
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "van-m-p3",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tamu-m-p6",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ou-m-n3",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "aub-m-n1",
+  "event": "M15 Fayetteville",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
  },
  {
   "playerId": "tamu-m-h19",
@@ -5875,380 +6660,12 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "uva-m-p2",
-  "event": "Columbus Challenger",
+  "playerId": "mich-m-p6",
+  "event": "M15 Ann Arbor",
   "seed": null,
   "entry": null,
   "inMain": true,
   "hasUnplayed": true
- },
- {
-  "playerId": "mich-m-h7",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": "PR",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "fla-m-h11",
-  "event": "Columbus Challenger",
-  "seed": "5",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "harv-m-h3",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "fla-m-h9",
-  "event": "Columbus Challenger",
-  "seed": "7",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "wich-m-fp92",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tenn-m-h10",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "wake-m-p5",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "mich-m-h5",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ncst-m-h7",
-  "event": "Columbus Challenger",
-  "seed": "3",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ucla-m-h15",
-  "event": "Columbus Challenger",
-  "seed": "2",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "osu-m-h11",
-  "event": "Columbus Challenger",
-  "seed": "6",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ncst-m-h5",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "msu-m-fp274",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "lsu-m-n1",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ariz-m-h3",
-  "event": "Columbus Challenger",
-  "seed": "4",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "pepp-m-p6",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "osu-m-p7",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tamu-m-h7",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tcu-m-p3",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "okst-m-h4",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ucla-m-h8",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tenn-m-h6",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "gt-m-h8",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "uga-m-h1",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "uk-m-h14",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ucf-m-p7",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ore-m-h7",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "clem-m-p9",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "lsu-m-n2",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "uci-m-h7",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "osu-m-p11",
-  "event": "Columbus Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "bay-m-h12",
-  "event": "M25 Slobozia",
-  "seed": null,
-  "entry": "6WC",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "msst-m-h9",
-  "event": "M25 Slobozia",
-  "seed": "3",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "corn-m-h6",
-  "event": "M25 Slobozia",
-  "seed": "2",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ala-m-h4",
-  "event": "M25 Slobozia",
-  "seed": "5",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "unc-m-h2",
-  "event": "M25 Slobozia",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ore-m-p1",
-  "event": "M25 Slobozia",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "wash-m-h10",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": "7",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "ark-m-h14",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tcu-m-h8",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "cal-m-p3",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": null,
-  "entry": "ALT",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "uga-m-h5",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ucla-m-h5",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "osu-m-h2",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "unc-m-h8",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tenn-m-h5",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
  },
  {
   "playerId": "miss-m-h3",
@@ -6257,14 +6674,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
- },
- {
-  "playerId": "mich-m-p6",
-  "event": "M15 Ann Arbor",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
  },
  {
   "playerId": "van-m-p2",
@@ -6387,342 +6796,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "usd-m-h8",
-  "event": "Porto Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "uva-m-h4",
-  "event": "Porto Challenger",
-  "seed": null,
-  "entry": "ALT",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "sc-m-h4",
-  "event": "Porto Challenger",
-  "seed": "4",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "stan-m-h6",
-  "event": "Porto Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ucla-m-h14",
-  "event": "Porto Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tcu-m-h1",
-  "event": "Porto Challenger",
-  "seed": "2",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "cal-m-h6",
-  "event": "Porto Challenger",
-  "seed": null,
-  "entry": "ALT",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ncst-m-h2",
-  "event": "Porto Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tcu-m-h5",
-  "event": "Porto Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tamu-m-p4",
-  "event": "M15 Fayetteville",
-  "seed": "1",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "wake-m-p6",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ark-m-p3",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tex-m-p2",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "van-m-p8",
-  "event": "M15 Fayetteville",
-  "seed": "7",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "corn-m-h11",
-  "event": "M15 Fayetteville",
-  "seed": "5",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ark-m-p5",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ou-m-n1",
-  "event": "M15 Fayetteville",
-  "seed": "4",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ou-m-p5",
-  "event": "M15 Fayetteville",
-  "seed": "6",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "msst-m-n2",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "usf-m-h4",
-  "event": "M15 Fayetteville",
-  "seed": "8",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ou-m-p3",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ark-m-p6",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "miss-m-p8",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "pepp-m-p3",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "usd-m-p6",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "miss-m-p3",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ariz-m-fp227",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ou-m-p2",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tamu-m-p3",
-  "event": "M15 Fayetteville",
-  "seed": "3",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ark-m-p8",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "usd-m-h3",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "van-m-p5",
-  "event": "M15 Fayetteville",
-  "seed": "2",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ark-m-n3",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "fsu-m-h6",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": true
- },
- {
-  "playerId": "mem-m-p3",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ark-m-p7",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tamu-m-p2",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "pepp-m-p4",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "van-m-p3",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tamu-m-p6",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ou-m-n3",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "aub-m-n1",
-  "event": "M15 Fayetteville",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
   "playerId": "haw-m-h2",
   "event": "Jingshan Challenger",
   "seed": null,
@@ -6785,14 +6858,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "entry": null,
   "inMain": false,
   "hasUnplayed": false
- },
- {
-  "playerId": "fla-m-p7",
-  "event": "M15 Monastir",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": true
  },
  {
   "playerId": "uva-m-h6",
@@ -7435,17 +7500,17 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "usd-m-h3",
+  "playerId": "duke-m-h1",
   "event": "M25 Falun",
-  "seed": null,
+  "seed": "5",
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
  {
-  "playerId": "duke-m-h1",
+  "playerId": "usd-m-h3",
   "event": "M25 Falun",
-  "seed": "5",
+  "seed": null,
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
@@ -7563,17 +7628,17 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "uva-m-h6",
+  "playerId": "wake-m-h17",
   "event": "M25 Sabadell",
-  "seed": null,
+  "seed": "2",
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
  {
-  "playerId": "wake-m-h17",
+  "playerId": "uva-m-h6",
   "event": "M25 Sabadell",
-  "seed": "2",
+  "seed": null,
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
@@ -7601,126 +7666,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
- },
- {
-  "playerId": "tex-m-p9",
-  "event": "M25 Pardubice",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ala-m-h4",
-  "event": "M25 Pardubice",
-  "seed": "5",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "fla-w-h4",
-  "event": "Samsun Open - Samsun",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "unc-w-h2",
-  "event": "Samsun Open - Samsun",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "uga-p7",
-  "event": "Samsun Open - Samsun",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "ncst-w-h1",
-  "event": "Samsun Open - Samsun",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": true
- },
- {
-  "playerId": "bay-m-h11",
-  "event": "Antofagasta Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "ttu-m-h2",
-  "event": "Antofagasta Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": true
- },
- {
-  "playerId": "cal-m-p9",
-  "event": "Antofagasta Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": true
- },
- {
-  "playerId": "miss-w-h1",
-  "event": "W50 Burgas",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tamu-p3",
-  "event": "W50 Burgas",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": true
- },
- {
-  "playerId": "okst-w-p1",
-  "event": "W50 Burgas",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": true
- },
- {
-  "playerId": "msst-m-p8",
-  "event": "Palermo Challenger",
-  "seed": null,
-  "entry": "CO",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tex-m-p9",
-  "event": "Palermo Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": true
- },
- {
-  "playerId": "wake-m-h3",
-  "event": "Palermo Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": true
  },
  {
   "playerId": "ncst-m-h11",

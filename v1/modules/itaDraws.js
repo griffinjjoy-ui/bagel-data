@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-04T13:12:46.509Z",
+  "fetchedAt": "2026-10-04T22:21:39.559Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -25347,7 +25347,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-10-04T13:12:49.656Z",
+  "fetchedAt": "2026-10-04T22:21:43.596Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -51012,7 +51012,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Mountain Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-04T13:12:52.768Z",
+  "fetchedAt": "2026-10-04T22:21:46.516Z",
   "events": [
    {
     "eventId": "A15E8A0A-367B-4494-B252-10CA2EFC0807",
@@ -56447,6 +56447,30 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
       ]
      }
     ]
+   }
+  ]
+ },
+ "6ac2c5f333a5117ef003d9bf": {
+  "tournamentId": "6ac2c5f333a5117ef003d9bf",
+  "provider": "C9A0D9B8-B84F-4869-937D-5FD09ECBD56B",
+  "name": "2026 ITA DI Men's Carolina Regional Championship",
+  "gender": "men",
+  "tz": null,
+  "fetchedAt": "2026-10-04T22:21:49.028Z",
+  "events": [
+   {
+    "eventId": "4EA0C308-65DD-4DD9-A68E-4DAA07B16460",
+    "name": "Men's open singles",
+    "type": "singles",
+    "fieldSize": 220,
+    "draws": []
+   },
+   {
+    "eventId": "55EF9CEE-8693-42B9-82D5-B6FEA6530725",
+    "name": "Men's open doubles",
+    "type": "doubles",
+    "fieldSize": 220,
+    "draws": []
    }
   ]
  }
