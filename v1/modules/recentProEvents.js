@@ -122,6 +122,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "ark-m-p4": [
   {
+   "key": "22134",
+   "name": "M25 Darwin",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "76997737",
+     "date": "2026-10-04",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Andres Alberto Sebastian Riffo Luco",
+     "score": "6-0 6-1"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22083",
    "name": "M25 Darwin",
    "date": "2026-09-28",
