@@ -13,6 +13,18 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "end": "2026-10-10"
   },
   {
+    "id": "6ac4025c33a5117ef07e428e",
+    "name": "2026 ITA DI Women's Southeast Regional Championship",
+    "start": "2026-10-07",
+    "end": "2026-10-13"
+  },
+  {
+    "id": "6ac4105133a5117ef0837889",
+    "name": "2026 ITA DI Men's Central Regional Championship",
+    "start": "2026-10-07",
+    "end": "2026-10-11"
+  },
+  {
     "id": "6ac2c5f333a5117ef003d9bf",
     "name": "2026 ITA DI Men's Carolina Regional Championship",
     "start": "2026-10-08",
@@ -21,6 +33,24 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
   {
     "id": "6ac3b72533a5117ef04455e4",
     "name": "2026 ITA DI Women's Texas Regional Championship",
+    "start": "2026-10-08",
+    "end": "2026-10-12"
+  },
+  {
+    "id": "6ac3f78d33a5117ef07b4948",
+    "name": "2026 ITA DI Women's Ohio Valley Regional Championship",
+    "start": "2026-10-08",
+    "end": "2026-10-13"
+  },
+  {
+    "id": "6ac40b6033a5117ef081c009",
+    "name": "2026 ITA DI Men's New England Regional Championship",
+    "start": "2026-10-08",
+    "end": "2026-10-12"
+  },
+  {
+    "id": "6ac41c8233a5117ef08831fb",
+    "name": "2026 ITA DI Women's Midwest Regional Championship",
     "start": "2026-10-08",
     "end": "2026-10-12"
   },

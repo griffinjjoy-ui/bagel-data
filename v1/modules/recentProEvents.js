@@ -736,6 +736,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "aub-p5": [
   {
+   "key": "17316",
+   "name": "W50 Lexington",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "109076854",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Maria Kononova",
+     "score": "7-5 6-3"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17315",
    "name": "W15 Nashville",
    "date": "2026-09-28",
@@ -2192,6 +2212,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "ncst-w-p6": [
+  {
+   "key": "17316",
+   "name": "W50 Lexington",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "109076857",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Carlota Moreno",
+     "score": "7-5 ret."
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "okst-m-p6": [
   {
    "key": "22083",
@@ -3123,6 +3165,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "QF",
+   "reachedTone": "neutral"
+  }
+ ],
+ "sc-w-n2": [
+  {
+   "key": "17317",
+   "name": "W50 Heraklion",
+   "date": "2026-10-05",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "110306135",
+     "date": "2026-10-05",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Maria Herazo",
+     "score": "6-2 6-4"
+    }
+   ],
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -4585,6 +4649,50 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "unc-w-n1": [
+  {
+   "key": "17316",
+   "name": "W50 Lexington",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "109076855",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Catherine Rennard",
+     "score": "6-4 7-6(7)"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "unc-w-p10": [
+  {
+   "key": "17316",
+   "name": "W50 Lexington",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "109076855",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Alexis Nguyen",
+     "score": "6-4 7-6(7)"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "usc-m-p3": [
   {
    "key": "22074",
@@ -5257,6 +5365,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "QF",
+   "reachedTone": "neutral"
+  }
+ ],
+ "wake-w-n2": [
+  {
+   "key": "17316",
+   "name": "W50 Lexington",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "109076855",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Alexis Nguyen",
+     "score": "6-4 7-6(7)"
+    }
+   ],
+   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],

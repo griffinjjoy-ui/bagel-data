@@ -3,7 +3,7 @@
 // to our teams. Teams outside the Top 75 are simply absent.
 export const teamNationalRanks = globalThis.__BAGEL_REMOTE__?.["itaNational"]?.teamNationalRanks ?? {};
 export const itaNationalMeta = globalThis.__BAGEL_REMOTE__?.["itaNational"]?.itaNationalMeta ?? {
- "fetchedAt": "2026-10-05T18:33:21.421Z",
+ "fetchedAt": "2026-10-05T22:23:14.416Z",
  "source": "ITA D1 national team rankings (Top 75) via wearecollegetennis.com rankings widget",
  "genders": {
   "M": {
