@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-05T06:59:09.190Z",
+  "fetchedAt": "2026-10-05T15:58:52.014Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -25347,7 +25347,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-10-05T06:59:12.396Z",
+  "fetchedAt": "2026-10-05T15:58:55.808Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -51012,7 +51012,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Mountain Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-05T06:59:16.089Z",
+  "fetchedAt": "2026-10-05T15:58:58.999Z",
   "events": [
    {
     "eventId": "A15E8A0A-367B-4494-B252-10CA2EFC0807",
@@ -56456,7 +56456,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Carolina Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-05T06:59:19.256Z",
+  "fetchedAt": "2026-10-05T15:59:01.371Z",
   "events": [
    {
     "eventId": "4EA0C308-65DD-4DD9-A68E-4DAA07B16460",
@@ -56470,6 +56470,30 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
     "name": "Men's open doubles",
     "type": "doubles",
     "fieldSize": 220,
+    "draws": []
+   }
+  ]
+ },
+ "6ac3b72533a5117ef04455e4": {
+  "tournamentId": "6ac3b72533a5117ef04455e4",
+  "provider": "1B8C429E-F948-4A24-94A7-67CD972E97CE",
+  "name": "2026 ITA DI Women's Texas Regional Championship",
+  "gender": "women",
+  "tz": null,
+  "fetchedAt": "2026-10-05T15:59:03.753Z",
+  "events": [
+   {
+    "eventId": "D774E574-66C0-4881-9702-A47350E90C7B",
+    "name": "Women's open singles",
+    "type": "singles",
+    "fieldSize": 204,
+    "draws": []
+   },
+   {
+    "eventId": "B93B4479-498D-4634-8C8D-F7D43B5B7424",
+    "name": "Women's open doubles",
+    "type": "doubles",
+    "fieldSize": 204,
     "draws": []
    }
   ]

@@ -19,6 +19,12 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "end": "2026-10-12"
   },
   {
+    "id": "6ac3b72533a5117ef04455e4",
+    "name": "2026 ITA DI Women's Texas Regional Championship",
+    "start": "2026-10-08",
+    "end": "2026-10-12"
+  },
+  {
     "id": "6ac2bed133a5117ef0f44e93",
     "name": "2026 ITA DII Men's & Women's East Regional Championships",
     "start": "2026-10-09",

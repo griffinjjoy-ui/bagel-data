@@ -136,9 +136,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Andres Alberto Sebastian Riffo Luco",
      "score": "6-0 6-1"
+    },
+    {
+     "id": "117648019",
+     "date": "2026-10-05",
+     "roundId": 2,
+     "round": "Q2",
+     "won": false,
+     "opponent": "Arjun Mehrotra",
+     "score": "6-2 7-5"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q2",
    "reachedTone": "neutral"
   },
   {
@@ -916,9 +925,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Bruno Fernandez",
      "score": "6-4 6-3"
+    },
+    {
+     "id": "119049475",
+     "date": "2026-10-05",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Hernan Casanova",
+     "score": "6-1 2-6 6-4"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -2279,9 +2297,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Daniella Dimitrova",
      "score": "6-2 6-3"
+    },
+    {
+     "id": "102930940",
+     "date": "2026-10-05",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Melis Rasim",
+     "score": "6-4 3-6 6-1"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {

@@ -4,52 +4,32 @@
 // included). Opponent + event, no result yet. Re-run the script to refresh.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
-  "playerId": "tenn-m-h15",
-  "name": "Adam Walton",
-  "teamId": "tenn-m",
-  "gender": "men",
-  "opponent": "Rigele Te",
-  "event": "Shanghai Rolex Masters - Shanghai",
-  "date": "2026-10-05",
-  "day": "today"
- },
- {
-  "playerId": "ncst-w-h1",
-  "name": "Alana Smith",
-  "teamId": "ncst-w",
+  "playerId": "unc-w-n1",
+  "name": "Alexis Nguyen",
+  "teamId": "unc-w",
   "gender": "women",
-  "opponent": "Dalila Jakupovic",
-  "event": "Samsun Open - Samsun",
+  "opponent": "Catherine Rennard",
+  "event": "W50 Lexington",
   "date": "2026-10-05",
   "day": "today"
  },
  {
-  "playerId": "haw-m-h2",
-  "name": "Andre Ilagan",
-  "teamId": "haw-m",
-  "gender": "men",
-  "opponent": "Nikoloz Basilashvili",
-  "event": "Shanghai Rolex Masters - Shanghai",
-  "date": "2026-10-05",
-  "day": "today"
- },
- {
-  "playerId": "cal-m-p9",
-  "name": "Bernardo Munk Mesa",
-  "teamId": "cal-m",
-  "gender": "men",
-  "opponent": "Hernan Casanova",
-  "event": "Antofagasta Challenger",
-  "date": "2026-10-05",
-  "day": "today"
- },
- {
-  "playerId": "okst-w-p1",
-  "name": "Bianca Barbulescu",
-  "teamId": "okst-w",
+  "playerId": "unc-w-p4",
+  "name": "Anna Frey",
+  "teamId": "unc-w",
   "gender": "women",
-  "opponent": "Melis Rasim",
-  "event": "W50 Burgas",
+  "opponent": "Bella Bergkvist Larsson",
+  "event": "W50 Lexington",
+  "date": "2026-10-05",
+  "day": "today"
+ },
+ {
+  "playerId": "sc-p1",
+  "name": "Bella Bergqvist Larsson",
+  "teamId": "sc-w",
+  "gender": "women",
+  "opponent": "Anna Frey",
+  "event": "W50 Lexington",
   "date": "2026-10-05",
   "day": "today"
  },
@@ -64,12 +44,22 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "tamu-m-h16",
-  "name": "Filip Pieczonka",
-  "teamId": "tamu-m",
-  "gender": "men",
-  "opponent": "Oleksii Krutykh",
-  "event": "Braga Challenger",
+  "playerId": "wake-w-n2",
+  "name": "Catherine Rennard",
+  "teamId": "wake-w",
+  "gender": "women",
+  "opponent": "Alexis Nguyen",
+  "event": "W50 Lexington",
+  "date": "2026-10-05",
+  "day": "today"
+ },
+ {
+  "playerId": "aub-p5",
+  "name": "Eva Ionescu",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Maria Kononova",
+  "event": "W50 Lexington",
   "date": "2026-10-05",
   "day": "today"
  },
@@ -84,22 +74,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "unc-w-h2",
-  "name": "Fiona Crawley",
-  "teamId": "unc-w",
+  "playerId": "sc-p3",
+  "name": "Helena Buchwald",
+  "teamId": "sc-w",
   "gender": "women",
-  "opponent": "Lucia Bronzetti",
-  "event": "Samsun Open - Samsun",
-  "date": "2026-10-05",
-  "day": "today"
- },
- {
-  "playerId": "tamu-p3",
-  "name": "Ilinca Amariei",
-  "teamId": "tamu-w",
-  "gender": "women",
-  "opponent": "Beatris Spasova",
-  "event": "W50 Burgas",
+  "opponent": "Tatum Evans",
+  "event": "W50 Lexington",
   "date": "2026-10-05",
   "day": "today"
  },
@@ -108,28 +88,38 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "name": "Jack Pinnington",
   "teamId": "tcu-m",
   "gender": "men",
-  "opponent": "Dino Prizmic",
+  "opponent": "Diego Dedura",
   "event": "Villena Challenger",
   "date": "2026-10-05",
   "day": "today"
  },
  {
-  "playerId": "tex-m-p9",
-  "name": "Kalin Ivanovski",
-  "teamId": "tex-m",
-  "gender": "men",
-  "opponent": "Federico Arnaboldi",
-  "event": "Palermo Challenger",
+  "playerId": "sc-p6",
+  "name": "Jane Dunyon",
+  "teamId": "sc-w",
+  "gender": "women",
+  "opponent": "Pietra Rivoli",
+  "event": "W50 Lexington",
   "date": "2026-10-05",
   "day": "today"
  },
  {
-  "playerId": "miss-w-h1",
-  "name": "Lucie Petruzelova",
-  "teamId": "miss-w",
+  "playerId": "tcu-w-p6",
+  "name": "Kira Matushkina",
+  "teamId": "tcu-w",
   "gender": "women",
-  "opponent": "Darya Velikova",
-  "event": "W50 Burgas",
+  "opponent": "Megan Heuser",
+  "event": "W50 Lexington",
+  "date": "2026-10-05",
+  "day": "today"
+ },
+ {
+  "playerId": "ncst-w-p7",
+  "name": "Mia Slama",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Kate Sharabura",
+  "event": "W50 Lexington",
   "date": "2026-10-05",
   "day": "today"
  },
@@ -144,82 +134,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "stan-m-h8",
-  "name": "Nishesh Basavareddy",
-  "teamId": "stan-m",
-  "gender": "men",
-  "opponent": "Kimmer Coppejans",
-  "event": "Shanghai Rolex Masters - Shanghai",
+  "playerId": "sc-w-h3",
+  "name": "Misa Malkin",
+  "teamId": "sc-w",
+  "gender": "women",
+  "opponent": "Amaliia Elizarova",
+  "event": "W50 Lexington",
   "date": "2026-10-05",
   "day": "today"
  },
  {
-  "playerId": "usd-m-p8",
-  "name": "Oliver Tarvet",
-  "teamId": "usd-m",
-  "gender": "men",
-  "opponent": "Diego Dedura",
-  "event": "Villena Challenger",
+  "playerId": "sc-w-n3",
+  "name": "Pietra Rivoli",
+  "teamId": "sc-w",
+  "gender": "women",
+  "opponent": "Jane Dunyon",
+  "event": "W50 Lexington",
   "date": "2026-10-05",
   "day": "today"
  },
  {
-  "playerId": "ttu-m-h1",
-  "name": "Olle Wallin",
-  "teamId": "ttu-m",
-  "gender": "men",
-  "opponent": "Tiago Cacao",
-  "event": "Braga Challenger",
+  "playerId": "unc-w-p3",
+  "name": "Tatum Evans",
+  "teamId": "unc-w",
+  "gender": "women",
+  "opponent": "Helena Buchwald",
+  "event": "W50 Lexington",
   "date": "2026-10-05",
   "day": "today"
  },
  {
-  "playerId": "unc-m-h13",
-  "name": "Patrick Schoen",
-  "teamId": "unc-m",
-  "gender": "men",
-  "opponent": "Filip Misolic",
-  "event": "Braga Challenger",
-  "date": "2026-10-05",
-  "day": "today"
- },
- {
-  "playerId": "uga-m-h5",
-  "name": "Philip Henning",
-  "teamId": "uga-m",
-  "gender": "men",
-  "opponent": "Ivan Marrero Curbelo",
-  "event": "Villena Challenger",
-  "date": "2026-10-05",
-  "day": "today"
- },
- {
-  "playerId": "port-m-h5",
-  "name": "Sema Pankin",
-  "teamId": "port-m",
-  "gender": "men",
-  "opponent": "Marat Sharipov (RUS)",
-  "event": "Wuning 3 Challenger",
-  "date": "2026-10-05",
-  "day": "today"
- },
- {
-  "playerId": "stan-m-h16",
-  "name": "Tristan Boyer",
-  "teamId": "stan-m",
-  "gender": "men",
-  "opponent": "Zsombor Piros",
-  "event": "Braga Challenger",
-  "date": "2026-10-05",
-  "day": "today"
- },
- {
-  "playerId": "tamu-m-h19",
-  "name": "Valentin Vacherot",
-  "teamId": "tamu-m",
-  "gender": "men",
-  "opponent": "Jiri Lehecka",
-  "event": "Japan Open Tennis Championships - Tokyo",
+  "playerId": "ncst-w-p6",
+  "name": "Victoria Osuigwe",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Carlota Moreno",
+  "event": "W50 Lexington",
   "date": "2026-10-05",
   "day": "today"
  },
@@ -230,6 +180,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "David Jorda Sanchis",
   "event": "Villena Challenger",
+  "date": "2026-10-06",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "temple-m-n1",
+  "name": "Adrien Ducruet",
+  "teamId": "temple-m",
+  "gender": "men",
+  "opponent": "Max Purcell",
+  "event": "Wuning 3 Challenger",
   "date": "2026-10-06",
   "day": "tomorrow"
  },
@@ -274,6 +234,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "tcu-m-h11",
+  "name": "Cameron Norrie",
+  "teamId": "tcu-m",
+  "gender": "men",
+  "opponent": "Denis Shapovalov",
+  "event": "Shanghai Rolex Masters - Shanghai",
+  "date": "2026-10-06",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "uga-w-h7",
+  "name": "Dasha Vidmanova",
+  "teamId": "uga-w",
+  "gender": "women",
+  "opponent": "Kyoka Okamura",
+  "event": "Suzhou WTA 125 - Suzhou",
+  "date": "2026-10-06",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "msst-m-h9",
   "name": "Florian Broska",
   "teamId": "msst-m",
@@ -284,12 +264,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "uva-m-h4",
-  "name": "Inaki Montes de la Torre",
-  "teamId": "uva-m",
+  "playerId": "ariz-m-fp226",
+  "name": "Jay Friend",
+  "teamId": "ariz-m",
   "gender": "men",
-  "opponent": "Damir Dzumhur",
-  "event": "Villena Challenger",
+  "opponent": "Yuta Kikuchi",
+  "event": "Wuning 3 Challenger",
   "date": "2026-10-06",
   "day": "tomorrow"
  },
@@ -304,12 +284,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "uk-m-h1",
+  "name": "Liam Draxl",
+  "teamId": "uk-m",
+  "gender": "men",
+  "opponent": "Nikoloz Basilashvili",
+  "event": "Shanghai Rolex Masters - Shanghai",
+  "date": "2026-10-06",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "okst-w-h10",
   "name": "Mananchaya Sawangkaew",
   "teamId": "okst-w",
   "gender": "women",
   "opponent": "Linda Fruhvirtova",
   "event": "Suzhou WTA 125 - Suzhou",
+  "date": "2026-10-06",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ucla-m-h13",
+  "name": "Marcos Giron",
+  "teamId": "ucla-m",
+  "gender": "men",
+  "opponent": "Sebastian Baez",
+  "event": "Shanghai Rolex Masters - Shanghai",
+  "date": "2026-10-06",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ncst-m-fp370",
+  "name": "Martin Borisiouk",
+  "teamId": "ncst-m",
+  "gender": "men",
+  "opponent": "Omar Jasika",
+  "event": "Wuning 3 Challenger",
   "date": "2026-10-06",
   "day": "tomorrow"
  },
@@ -339,6 +349,36 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "teamId": "mich-m",
   "gender": "men",
   "opponent": "Mitsuki Wei Kang Leong",
+  "event": "Wuning 3 Challenger",
+  "date": "2026-10-06",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "unc-m-h9",
+  "name": "Ryan Seggerman",
+  "teamId": "unc-m",
+  "gender": "men",
+  "opponent": "Hikaru Shiraishi",
+  "event": "Wuning 3 Challenger",
+  "date": "2026-10-06",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "usc-m-h13",
+  "name": "Yannick Hanfmann",
+  "teamId": "usc-m",
+  "gender": "men",
+  "opponent": "Kamil Majchrzak",
+  "event": "Shanghai Rolex Masters - Shanghai",
+  "date": "2026-10-06",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "cal-m-h3",
+  "name": "Yuta Kikuchi",
+  "teamId": "cal-m",
+  "gender": "men",
+  "opponent": "Jay Dylan Hara Friend",
   "event": "Wuning 3 Challenger",
   "date": "2026-10-06",
   "day": "tomorrow"
