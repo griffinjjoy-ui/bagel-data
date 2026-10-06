@@ -67,6 +67,24 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "end": "2026-10-12"
   },
   {
+    "id": "6ac5621f33a5117ef05e390a",
+    "name": "2026 ITA DI Men's Ohio Valley Regional Championship",
+    "start": "2026-10-08",
+    "end": "2026-10-13"
+  },
+  {
+    "id": "6ac56abc33a5117ef0620723",
+    "name": "2026 ITA DI Women's Southern Regional Championship",
+    "start": "2026-10-08",
+    "end": "2026-10-12"
+  },
+  {
+    "id": "6ac56f1333a5117ef0648ce0",
+    "name": "2026 ITA DI Men's Texas Regional Championship",
+    "start": "2026-10-08",
+    "end": "2026-10-12"
+  },
+  {
     "id": "6ac2bed133a5117ef0f44e93",
     "name": "2026 ITA DII Men's & Women's East Regional Championships",
     "start": "2026-10-09",

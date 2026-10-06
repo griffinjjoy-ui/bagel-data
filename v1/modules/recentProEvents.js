@@ -792,9 +792,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Maria Kononova",
      "score": "7-5 6-3"
+    },
+    {
+     "id": "138582435",
+     "date": "2026-10-06",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Alexis Nguyen",
+     "score": "6-3 6-1"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -1014,9 +1023,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Hernan Casanova",
      "score": "6-1 2-6 6-4"
+    },
+    {
+     "id": "158298791",
+     "date": "2026-10-06",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Joao Lucas Reis Da Silva",
+     "score": "6-2 6-2"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   },
   {
@@ -2359,9 +2377,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Carlota Moreno",
      "score": "7-5 ret."
+    },
+    {
+     "id": "138582434",
+     "date": "2026-10-06",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Ema Burgic Bucko",
+     "score": "6-3 7-5"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
@@ -5127,9 +5154,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Catherine Rennard",
      "score": "6-4 7-6(7)"
+    },
+    {
+     "id": "138582435",
+     "date": "2026-10-06",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Eva Maria Ionescu",
+     "score": "6-3 6-1"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
