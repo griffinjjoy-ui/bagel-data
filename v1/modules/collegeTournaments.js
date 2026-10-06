@@ -55,6 +55,18 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "end": "2026-10-12"
   },
   {
+    "id": "6ac5006f33a5117ef026cb15",
+    "name": "2026 ITA DI Women's Northwest Regional Championship",
+    "start": "2026-10-08",
+    "end": "2026-10-13"
+  },
+  {
+    "id": "6ac5269533a5117ef03f9806",
+    "name": "2026 ITA  DI Men's Atlantic Regional Championship",
+    "start": "2026-10-08",
+    "end": "2026-10-12"
+  },
+  {
     "id": "6ac2bed133a5117ef0f44e93",
     "name": "2026 ITA DII Men's & Women's East Regional Championships",
     "start": "2026-10-09",

@@ -4,16 +4,6 @@
 // included). Opponent + event, no result yet. Re-run the script to refresh.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
-  "playerId": "ncst-w-h1",
-  "name": "Alana Smith",
-  "teamId": "ncst-w",
-  "gender": "women",
-  "opponent": "Bianca Vanessa Andreescu",
-  "event": "Samsun Open - Samsun",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
   "playerId": "unc-w-n1",
   "name": "Alexis Nguyen",
   "teamId": "unc-w",
@@ -24,22 +14,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "fla-w-h4",
-  "name": "Alicia Dudeney",
-  "teamId": "fla-w",
+  "playerId": "ou-w-h7",
+  "name": "Alina Shcherbinina",
+  "teamId": "ou-w",
   "gender": "women",
-  "opponent": "Antonia Ruzic",
-  "event": "Samsun Open - Samsun",
+  "opponent": "Kristina Penickova",
+  "event": "W35 Las Vegas",
   "date": "2026-10-06",
   "day": "today"
  },
  {
-  "playerId": "wash-w-h8",
-  "name": "Astrid Olsen",
-  "teamId": "wash-w",
+  "playerId": "smu-w-p9",
+  "name": "Amelie Van Impe",
+  "teamId": "smu-w",
   "gender": "women",
-  "opponent": "Anna Lena Ebster",
-  "event": "W15 Chisinau",
+  "opponent": "Lexington Reed",
+  "event": "W35 Las Vegas",
+  "date": "2026-10-06",
+  "day": "today"
+ },
+ {
+  "playerId": "lsu-w-h3",
+  "name": "Anita Sahdiieva",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Francesca Mattioli",
+  "event": "W35 Las Vegas",
   "date": "2026-10-06",
   "day": "today"
  },
@@ -54,42 +54,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "fla-m-h1",
-  "name": "Axel Nefve",
-  "teamId": "fla-m",
-  "gender": "men",
-  "opponent": "Alec Beckley",
-  "event": "M25 Kigali",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "uga-p7",
-  "name": "Aysegul Mert",
-  "teamId": "uga-w",
-  "gender": "women",
-  "opponent": "Viktoria Hruncakova",
-  "event": "Samsun Open - Samsun",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
   "playerId": "sc-p1",
   "name": "Bella Bergqvist Larsson",
   "teamId": "sc-w",
   "gender": "women",
   "opponent": "Briley Rhoden",
   "event": "W50 Lexington",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "msst-m-p8",
-  "name": "Benito Sanchez Martinez",
-  "teamId": "msst-m",
-  "gender": "men",
-  "opponent": "Michele Ribecai",
-  "event": "Palermo Challenger",
   "date": "2026-10-06",
   "day": "today"
  },
@@ -104,42 +74,72 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "neb-m-h6",
-  "name": "Calvin Mueller",
-  "teamId": "neb-m",
-  "gender": "men",
-  "opponent": "Adrien Gobat",
-  "event": "M15 Rodez",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "msst-m-h4",
-  "name": "Carles Hernandez",
-  "teamId": "msst-m",
-  "gender": "men",
-  "opponent": "Petr Nesterov",
-  "event": "Villena Challenger",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "tcu-w-h8",
-  "name": "Coco Bosman",
-  "teamId": "tcu-w",
+  "playerId": "ou-p7",
+  "name": "Chloé Noël",
+  "teamId": "ou-w",
   "gender": "women",
-  "opponent": "Isabel Pascual Montalvo",
-  "event": "W35 Monastir",
+  "opponent": "Yekaterina Dmitrichenko",
+  "event": "W35 Las Vegas",
   "date": "2026-10-06",
   "day": "today"
  },
  {
-  "playerId": "uga-w-h7",
-  "name": "Dasha Vidmanova",
-  "teamId": "uga-w",
+  "playerId": "pepp-w-p5",
+  "name": "Duru Söke",
+  "teamId": "pepp-w",
   "gender": "women",
-  "opponent": "Kyoka Okamura",
-  "event": "Suzhou WTA 125 - Suzhou",
+  "opponent": "Anna Pushkareva",
+  "event": "W35 Las Vegas",
+  "date": "2026-10-06",
+  "day": "today"
+ },
+ {
+  "playerId": "ou-p5",
+  "name": "Edda Mamedova",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Yara Bartashevich",
+  "event": "W35 Las Vegas",
+  "date": "2026-10-06",
+  "day": "today"
+ },
+ {
+  "playerId": "ou-w-n2",
+  "name": "Ekaterina Maklakova",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Victoria Rodriguez",
+  "event": "W35 Las Vegas",
+  "date": "2026-10-06",
+  "day": "today"
+ },
+ {
+  "playerId": "umd-w-p5",
+  "name": "Emma Ghirardato",
+  "teamId": "umd-w",
+  "gender": "women",
+  "opponent": "Ciara Harding",
+  "event": "W35 Las Vegas",
+  "date": "2026-10-06",
+  "day": "today"
+ },
+ {
+  "playerId": "aub-p6",
+  "name": "Emma Kamper",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Shihomi Li Xuan Leong",
+  "event": "W35 Las Vegas",
+  "date": "2026-10-06",
+  "day": "today"
+ },
+ {
+  "playerId": "ucla-w-h8",
+  "name": "Ena Shibahara",
+  "teamId": "ucla-w",
+  "gender": "women",
+  "opponent": "Ya-Yi Yang",
+  "event": "W35 Wagga Wagga",
   "date": "2026-10-06",
   "day": "today"
  },
@@ -164,16 +164,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "wake-m-h3",
-  "name": "Filippo Moroni",
-  "teamId": "wake-m",
-  "gender": "men",
-  "opponent": "Gianluca Cadenasso",
-  "event": "Palermo Challenger",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
   "playerId": "ou-w-h9",
   "name": "Florencia Urrutia",
   "teamId": "ou-w",
@@ -184,32 +174,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "lsu-p12",
-  "name": "Florentine Dekkers",
-  "teamId": "lsu-w",
+  "playerId": "tenn-p5",
+  "name": "Francesca Mattioli",
+  "teamId": "tenn-w",
   "gender": "women",
-  "opponent": "Kei Yau Cheung",
-  "event": "W15 Islamabad",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "msst-m-h9",
-  "name": "Florian Broska",
-  "teamId": "msst-m",
-  "gender": "men",
-  "opponent": "Lukas Neumayer",
-  "event": "Braga Challenger",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "ncst-w-h5",
-  "name": "Gina Dittmann",
-  "teamId": "ncst-w",
-  "gender": "women",
-  "opponent": "Madelief Hageman",
-  "event": "W35 Villeneuve d'Ascq",
+  "opponent": "Anita Sahdiieva",
+  "event": "W35 Las Vegas",
   "date": "2026-10-06",
   "day": "today"
  },
@@ -224,52 +194,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "tcu-m-h8",
-  "name": "Jack Pinnington",
-  "teamId": "tcu-m",
-  "gender": "men",
-  "opponent": "Diego Dedura",
-  "event": "Villena Challenger",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
   "playerId": "sc-p6",
   "name": "Jane Dunyon",
   "teamId": "sc-w",
   "gender": "women",
   "opponent": "Francoise Abanda",
   "event": "W50 Lexington",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "ariz-m-fp226",
-  "name": "Jay Friend",
-  "teamId": "ariz-m",
-  "gender": "men",
-  "opponent": "Yuta Kikuchi",
-  "event": "Wuning 3 Challenger",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "ou-m-h2",
-  "name": "Jordan Hasson",
-  "teamId": "ou-m",
-  "gender": "men",
-  "opponent": "James Pikkaart",
-  "event": "M15 Heraklion",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "tex-m-p9",
-  "name": "Kalin Ivanovski",
-  "teamId": "tex-m",
-  "gender": "men",
-  "opponent": "Alejandro Moro Canas",
-  "event": "Palermo Challenger",
   "date": "2026-10-06",
   "day": "today"
  },
@@ -294,6 +224,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "tamu-p8",
+  "name": "Lexington Reed",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Amelie Van Impe",
+  "event": "W35 Las Vegas",
+  "date": "2026-10-06",
+  "day": "today"
+ },
+ {
   "playerId": "tenn-p3",
   "name": "Leyla Britez Risso",
   "teamId": "tenn-w",
@@ -314,42 +254,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "miss-w-h1",
-  "name": "Lucie Petruzelova",
-  "teamId": "miss-w",
-  "gender": "women",
-  "opponent": "Jana Kovackova",
-  "event": "W50 Burgas",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "ou-m-p1",
-  "name": "Luis Alvarez",
-  "teamId": "ou-m",
-  "gender": "men",
-  "opponent": "Giorgio Tabacco",
-  "event": "M25 Santa Margherita di Pula",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
   "playerId": "ou-m-p6",
   "name": "Luka Talan Lopatic",
   "teamId": "ou-m",
   "gender": "men",
   "opponent": "Matei Florin Breazu",
   "event": "M15 Burgas",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "ucla-m-h14",
-  "name": "Mackenzie Mcdonald",
-  "teamId": "ucla-m",
-  "gender": "men",
-  "opponent": "Ryan Nijboer",
-  "event": "Braga Challenger",
   "date": "2026-10-06",
   "day": "today"
  },
@@ -364,42 +274,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "clem-m-fp162",
-  "name": "Manuel Plunger",
-  "teamId": "clem-m",
-  "gender": "men",
-  "opponent": "Cem Christopher Kucukhuseyin",
-  "event": "M25 Kigali",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "ala-p10",
-  "name": "Maria Andrienko",
-  "teamId": "ala-w",
+  "playerId": "wisc-w-p7",
+  "name": "Maria Sholokhova",
+  "teamId": "wisc-w",
   "gender": "women",
-  "opponent": "Annemarie Lazar",
-  "event": "W35 Santa Margherita di Pula",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "tex-m-n3",
-  "name": "Matej Dodig",
-  "teamId": "tex-m",
-  "gender": "men",
-  "opponent": "Andrea Pellegrino",
-  "event": "Braga Challenger",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "bay-m-h11",
-  "name": "Matias Soto",
-  "teamId": "bay-m",
-  "gender": "men",
-  "opponent": "Thiago Seyboth Wild",
-  "event": "Antofagasta Challenger",
+  "opponent": "Krisha Mahendran",
+  "event": "W35 Las Vegas",
   "date": "2026-10-06",
   "day": "today"
  },
@@ -424,16 +304,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "ariz-w-h5",
-  "name": "Midori Castillo",
-  "teamId": "ariz-w",
-  "gender": "women",
-  "opponent": "Tereza Krejcova",
-  "event": "W35 Monastir",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
   "playerId": "sc-w-h3",
   "name": "Misa Malkin",
   "teamId": "sc-w",
@@ -454,32 +324,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "ttu-m-h1",
-  "name": "Olle Wallin",
-  "teamId": "ttu-m",
-  "gender": "men",
-  "opponent": "Marco Cecchinato",
-  "event": "Braga Challenger",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
   "playerId": "ou-p9",
   "name": "Oyinlomo Quadre",
   "teamId": "ou-w",
   "gender": "women",
   "opponent": "Anastasia Bertacchi",
   "event": "W35 Monastir",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "unc-m-h13",
-  "name": "Patrick Schoen",
-  "teamId": "unc-m",
-  "gender": "men",
-  "opponent": "Andrej Nedic",
-  "event": "Braga Challenger",
   "date": "2026-10-06",
   "day": "today"
  },
@@ -494,62 +344,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "mich-m-p8",
-  "name": "Pierce Shaya",
-  "teamId": "mich-m",
-  "gender": "men",
-  "opponent": "Mitsuki Wei Kang Leong",
-  "event": "Wuning 3 Challenger",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "unc-m-h9",
-  "name": "Ryan Seggerman",
-  "teamId": "unc-m",
-  "gender": "men",
-  "opponent": "Hikaru Shiraishi",
-  "event": "Wuning 3 Challenger",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "penn-w-h1",
-  "name": "Sabine Rutlauka",
-  "teamId": "penn-w",
+  "playerId": "pepp-w-fp121",
+  "name": "Shihomi Li Xuan Leong",
+  "teamId": "pepp-w",
   "gender": "women",
-  "opponent": "Denisa Zoldakova",
-  "event": "W35 Monastir",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "miss-m-p2",
-  "name": "Stefano D'Agostino",
-  "teamId": "miss-m",
-  "gender": "men",
-  "opponent": "Gianmarco Ferrari",
-  "event": "M25 Santa Margherita di Pula",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "sc-m-h4",
-  "name": "Toby Samuel",
-  "teamId": "sc-m",
-  "gender": "men",
-  "opponent": "Hynek Barton",
-  "event": "Villena Challenger",
-  "date": "2026-10-06",
-  "day": "today"
- },
- {
-  "playerId": "aub-m-h1",
-  "name": "Tyler Stice",
-  "teamId": "aub-m",
-  "gender": "men",
-  "opponent": "Fabio Luis Guth",
-  "event": "M15 Heraklion",
+  "opponent": "Emma Kamper Malmkjaer",
+  "event": "W35 Las Vegas",
   "date": "2026-10-06",
   "day": "today"
  },
@@ -564,12 +364,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "ore-m-p1",
-  "name": "Vlad Breazu",
-  "teamId": "ore-m",
-  "gender": "men",
-  "opponent": "Antoni Fabre",
-  "event": "M15 Burgas",
+  "playerId": "aub-p1",
+  "name": "Yara Bartashevich",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Edda Mamedova",
+  "event": "W35 Las Vegas",
   "date": "2026-10-06",
   "day": "today"
  },
@@ -584,12 +384,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "cal-m-h3",
-  "name": "Yuta Kikuchi",
-  "teamId": "cal-m",
-  "gender": "men",
-  "opponent": "Jay Dylan Hara Friend",
-  "event": "Wuning 3 Challenger",
+  "playerId": "utah-w-h2",
+  "name": "Yuhan Liu",
+  "teamId": "utah-w",
+  "gender": "women",
+  "opponent": "Tori Russell",
+  "event": "W35 Wagga Wagga",
   "date": "2026-10-06",
   "day": "today"
  },
@@ -614,6 +414,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "van-w-h3",
+  "name": "Amy Stevens",
+  "teamId": "van-w",
+  "gender": "women",
+  "opponent": "Jasmine Adams",
+  "event": "W35 Wagga Wagga",
+  "date": "2026-10-07",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "neb-m-h9",
+  "name": "Anton Shepp",
+  "teamId": "neb-m",
+  "gender": "men",
+  "opponent": "Lingxi Zhao",
+  "event": "M25 Luan",
+  "date": "2026-10-07",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "stan-m-h4",
   "name": "Arthur Fery",
   "teamId": "stan-m",
@@ -624,22 +444,132 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "tcu-m-h11",
-  "name": "Cameron Norrie",
-  "teamId": "tcu-m",
-  "gender": "men",
-  "opponent": "Denis Shapovalov",
-  "event": "Shanghai Rolex Masters - Shanghai",
+  "playerId": "wsu-w-h4",
+  "name": "Elyse Tse",
+  "teamId": "wsu-w",
+  "gender": "women",
+  "opponent": "Monique Barry",
+  "event": "W35 Wagga Wagga",
   "date": "2026-10-07",
   "day": "tomorrow"
  },
  {
-  "playerId": "ucla-m-h13",
-  "name": "Marcos Giron",
+  "playerId": "unc-w-h2",
+  "name": "Fiona Crawley",
+  "teamId": "unc-w",
+  "gender": "women",
+  "opponent": "Oksana Selekhmeteva",
+  "event": "Samsun Open - Samsun",
+  "date": "2026-10-07",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "msst-m-h9",
+  "name": "Florian Broska",
+  "teamId": "msst-m",
+  "gender": "men",
+  "opponent": "Lukas Neumayer",
+  "event": "Braga Challenger",
+  "date": "2026-10-07",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "wash-w-h7",
+  "name": "Hikaru Sato",
+  "teamId": "wash-w",
+  "gender": "women",
+  "opponent": "Nana Onozawa",
+  "event": "W35 Wagga Wagga",
+  "date": "2026-10-07",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "okst-m-h5",
+  "name": "Isaac Becroft",
+  "teamId": "okst-m",
+  "gender": "men",
+  "opponent": "Mert Alkaya",
+  "event": "M25 Luan",
+  "date": "2026-10-07",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tcu-m-h8",
+  "name": "Jack Pinnington",
+  "teamId": "tcu-m",
+  "gender": "men",
+  "opponent": "Joel Schwaerzler",
+  "event": "Villena Challenger",
+  "date": "2026-10-07",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ucla-m-h14",
+  "name": "Mackenzie Mcdonald",
   "teamId": "ucla-m",
   "gender": "men",
-  "opponent": "Sebastian Baez",
-  "event": "Shanghai Rolex Masters - Shanghai",
+  "opponent": "Ryan Nijboer",
+  "event": "Braga Challenger",
+  "date": "2026-10-07",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tex-m-n3",
+  "name": "Matej Dodig",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Andrea Pellegrino",
+  "event": "Braga Challenger",
+  "date": "2026-10-07",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "mich-m-h4",
+  "name": "Nino Ehrenschneider",
+  "teamId": "mich-m",
+  "gender": "men",
+  "opponent": "Qian Sun",
+  "event": "M25 Luan",
+  "date": "2026-10-07",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ttu-m-h1",
+  "name": "Olle Wallin",
+  "teamId": "ttu-m",
+  "gender": "men",
+  "opponent": "Marco Cecchinato",
+  "event": "Braga Challenger",
+  "date": "2026-10-07",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "unc-m-h13",
+  "name": "Patrick Schoen",
+  "teamId": "unc-m",
+  "gender": "men",
+  "opponent": "Andrej Nedic",
+  "event": "Braga Challenger",
+  "date": "2026-10-07",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "cal-m-h7",
+  "name": "Qian Sun",
+  "teamId": "cal-m",
+  "gender": "men",
+  "opponent": "Nino Ehrenschneider",
+  "event": "M25 Luan",
+  "date": "2026-10-07",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "sc-m-h4",
+  "name": "Toby Samuel",
+  "teamId": "sc-m",
+  "gender": "men",
+  "opponent": "Hynek Barton",
+  "event": "Villena Challenger",
   "date": "2026-10-07",
   "day": "tomorrow"
  },

@@ -65,6 +65,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "ariz-m-fp226": [
+  {
+   "key": "22097",
+   "name": "Wuning 3 Challenger",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "144280324",
+     "date": "2026-10-06",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Yuta Kikuchi",
+     "score": "6-1 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "ariz-m-fp227": [
   {
    "key": "22090",
@@ -2054,6 +2076,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "miss-m-p2": [
   {
+   "key": "22137",
+   "name": "M25 Santa Margherita di Pula",
+   "date": "2026-10-05",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "152691493",
+     "date": "2026-10-06",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Gianmarco Ferrari",
+     "score": "2-6 7-6(6) ret."
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22036",
    "name": "Genoa 2 Challenger",
    "date": "2026-09-21",
@@ -2833,6 +2875,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "ou-p7": [
+  {
+   "key": "17320",
+   "name": "W35 Las Vegas",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599165",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Jessica Bernales",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "ou-w-n2": [
   {
    "key": "17296",
@@ -3054,6 +3118,50 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "pepp-w-fp121": [
+  {
+   "key": "17320",
+   "name": "W35 Las Vegas",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599169",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Remi Rice",
+     "score": "6-4 7-6(1)"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "pepp-w-p1": [
+  {
+   "key": "17320",
+   "name": "W35 Las Vegas",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599159",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Anita Sahdiieva",
+     "score": "6-7(5) 6-4 10-5"
+    }
+   ],
+   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],
@@ -3786,6 +3894,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "green"
   }
  ],
+ "tamu-p8": [
+  {
+   "key": "17320",
+   "name": "W35 Las Vegas",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599171",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Grace Battistone",
+     "score": "6-0 6-3"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "tamu-w-n1": [
   {
    "key": "17315",
@@ -3823,6 +3953,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "tamu-w-n3": [
+  {
+   "key": "17320",
+   "name": "W35 Las Vegas",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599166",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Emma Ottavia Ghirardato",
+     "score": "6-4 6-0"
+    }
+   ],
+   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],
@@ -4628,6 +4780,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "ucla-w-n1": [
+  {
+   "key": "17320",
+   "name": "W35 Las Vegas",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599165",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Chloe Noel",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "ucla-w-p7": [
   {
    "key": "17296",
@@ -4846,6 +5020,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "uga-p7": [
   {
+   "key": "17306",
+   "name": "Samsun Open - Samsun",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "132434263",
+     "date": "2026-10-06",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Viktoria Hruncakova",
+     "score": "6-2 4-6 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17261",
    "name": "Adana Open - Adana",
    "date": "2026-09-28",
@@ -4892,6 +5086,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Second",
+   "reachedTone": "neutral"
+  }
+ ],
+ "umd-w-p5": [
+  {
+   "key": "17320",
+   "name": "W35 Las Vegas",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599166",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Ruby Cooling",
+     "score": "6-4 6-0"
+    }
+   ],
+   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],
