@@ -5,6 +5,26 @@ export const recentAsOf = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?.rece
 export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?.recentProEvents ?? {
  "ala-p1": [
   {
+   "key": "17320",
+   "name": "W35 Las Vegas",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599168",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Yekaterina Dmitrichenko",
+     "score": "6-0 6-3"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17315",
    "name": "W15 Nashville",
    "date": "2026-09-28",
@@ -778,6 +798,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "aub-p6": [
   {
+   "key": "17320",
+   "name": "W35 Las Vegas",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599170",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Evelina Mamina",
+     "score": "6-1 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17315",
    "name": "W15 Nashville",
    "date": "2026-09-28",
@@ -864,6 +904,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "aub-p7": [
+  {
+   "key": "17320",
+   "name": "W35 Las Vegas",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599161",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Janae Preston",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17315",
    "name": "W15 Nashville",
@@ -1952,6 +2012,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "mich-w-n1": [
   {
+   "key": "17316",
+   "name": "W50 Lexington",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599068",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Nalah Kaler",
+     "score": "6-0 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17287",
    "name": "W50 Berkeley",
    "date": "2026-09-21",
@@ -2206,9 +2286,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Kristjan Tamm",
      "score": "6-4 6-4"
+    },
+    {
+     "id": "138673289",
+     "date": "2026-10-06",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Omar Jasika",
+     "score": "4-6 6-3 7-5"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -2228,6 +2317,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Carlota Moreno",
      "score": "7-5 ret."
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "ncst-w-p7": [
+  {
+   "key": "17316",
+   "name": "W50 Lexington",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599063",
+     "date": "2026-10-06",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Kate Sharabura",
+     "score": "7-5 6-3"
     }
    ],
    "reached": "Q1",
@@ -2948,6 +3059,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "pepp-w-p5": [
   {
+   "key": "17320",
+   "name": "W35 Las Vegas",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599163",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Annabelle Xu",
+     "score": "6-2 6-4"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17287",
    "name": "W50 Berkeley",
    "date": "2026-09-21",
@@ -3168,6 +3299,72 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "sc-p1": [
+  {
+   "key": "17316",
+   "name": "W50 Lexington",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599062",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Anna Frey",
+     "score": "7-5 7-6(5)"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "sc-p3": [
+  {
+   "key": "17316",
+   "name": "W50 Lexington",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599058",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Tatum Evans",
+     "score": "6-4 5-7 6-3"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "sc-p6": [
+  {
+   "key": "17316",
+   "name": "W50 Lexington",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599060",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Pietra Rivoli",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "sc-w-n2": [
   {
    "key": "17317",
@@ -3190,7 +3387,49 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "sc-w-n3": [
+  {
+   "key": "17316",
+   "name": "W50 Lexington",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599060",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Jane Dunyon",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "smu-w-p9": [
+  {
+   "key": "17320",
+   "name": "W35 Las Vegas",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599157",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Abigail Rencheli",
+     "score": "6-1 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17296",
    "name": "W100 Templeton",
@@ -3812,9 +4051,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Unknown Player",
      "score": "6-4 6-1"
+    },
+    {
+     "id": "122599128",
+     "date": "2026-10-05",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Nana Onozawa",
+     "score": "3-6 7-6(4) 10-6"
     }
    ],
-   "reached": "Q2",
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
@@ -3933,6 +4181,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tenn-p5": [
+  {
+   "key": "17320",
+   "name": "W35 Las Vegas",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599167",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Cara Korhonen",
+     "score": "6-2 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17315",
    "name": "W15 Nashville",
@@ -4665,6 +4933,50 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Alexis Nguyen",
      "score": "6-4 7-6(7)"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "unc-w-p3": [
+  {
+   "key": "17316",
+   "name": "W50 Lexington",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599058",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Helena Buchwald",
+     "score": "6-4 5-7 6-3"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "unc-w-p4": [
+  {
+   "key": "17316",
+   "name": "W50 Lexington",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122599062",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Bella Bergkvist Larsson",
+     "score": "7-5 7-6(5)"
     }
    ],
    "reached": "Q1",
