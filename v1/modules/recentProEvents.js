@@ -2443,6 +2443,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "okst-m-p6": [
   {
+   "key": "22134",
+   "name": "M25 Darwin",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "186339334",
+     "date": "2026-10-07",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Scott Jones",
+     "score": "6-1 7-6(3)"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22083",
    "name": "M25 Darwin",
    "date": "2026-09-28",
@@ -2533,9 +2553,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Melis Rasim",
      "score": "6-4 3-6 6-1"
+    },
+    {
+     "id": "163177959",
+     "date": "2026-10-07",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Ane Mintegi Del Olmo",
+     "score": "6-0 6-2"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   },
   {
@@ -4478,6 +4507,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Second",
+   "reachedTone": "neutral"
+  }
+ ],
+ "tex-m-n3": [
+  {
+   "key": "22095",
+   "name": "Braga Challenger",
+   "date": "2026-10-05",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "184936972",
+     "date": "2026-10-07",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Andrea Pellegrino",
+     "score": "6-3 3-6 6-1"
+    }
+   ],
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
