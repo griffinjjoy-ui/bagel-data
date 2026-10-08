@@ -2077,9 +2077,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Gianmarco Ferrari",
      "score": "2-6 7-6(6) ret."
+    },
+    {
+     "id": "219997415",
+     "date": "2026-10-08",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Gabriele Maria Noce",
+     "score": "6-4 6-4"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -2417,9 +2426,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Scott Jones",
      "score": "6-1 7-6(3)"
+    },
+    {
+     "id": "219997221",
+     "date": "2026-10-08",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Unknown Player",
+     "score": "6-2 5-7 7-5"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -4500,9 +4518,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Andrea Pellegrino",
      "score": "6-3 3-6 6-1"
+    },
+    {
+     "id": "214386858",
+     "date": "2026-10-08",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Miguel Damas",
+     "score": "6-4 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],

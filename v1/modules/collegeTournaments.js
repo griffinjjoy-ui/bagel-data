@@ -85,6 +85,12 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "end": "2026-10-12"
   },
   {
+    "id": "6ac7b51c0a838916bd919016",
+    "name": "MSU Texas Invitational",
+    "start": "2026-10-09",
+    "end": "2026-10-10"
+  },
+  {
     "id": "6ac3d8f833a5117ef069730d",
     "name": "2026 ITA DII Women's Midwest Regional Championship",
     "start": "2026-10-10",

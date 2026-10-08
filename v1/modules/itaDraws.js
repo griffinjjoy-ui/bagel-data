@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Men's All American Championships",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-08T19:10:11.991Z",
+  "fetchedAt": "2026-10-08T19:20:02.279Z",
   "events": [
    {
     "eventId": "1D12B806-D80E-4B5A-A27F-11A9672F397C",
@@ -25347,7 +25347,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA Women's All American Championships",
   "gender": "women",
   "tz": "ET",
-  "fetchedAt": "2026-10-08T19:10:15.961Z",
+  "fetchedAt": "2026-10-08T19:20:05.205Z",
   "events": [
    {
     "eventId": "8E1C0034-A750-47A3-AB61-45CE8BCA7DBE",
@@ -51012,7 +51012,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Mountain Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-08T19:10:19.811Z",
+  "fetchedAt": "2026-10-08T19:20:08.706Z",
   "events": [
    {
     "eventId": "A15E8A0A-367B-4494-B252-10CA2EFC0807",
@@ -61539,9 +61539,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 6-4",
+            "winningSide": 1,
             "when": null,
             "venue": null,
             "sides": [
@@ -61565,9 +61565,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R128",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 6-0 [10-8]",
+            "winningSide": 1,
             "when": null,
             "venue": null,
             "sides": [
@@ -62558,8 +62558,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
-             null
+             {
+              "name": "Tygen Goldammer",
+              "abbr": null,
+              "school": "Brigham Young University",
+              "pid": "byu-m-p5",
+              "wtn": 6.63,
+              "seed": null
+             },
+             {
+              "name": "Leon Peranovic",
+              "abbr": null,
+              "school": "Brigham Young University",
+              "pid": "byu-m-n1",
+              "wtn": 7,
+              "seed": null
+             }
             ]
            },
            {
@@ -68107,7 +68121,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-08T19:10:22.687Z",
+  "fetchedAt": "2026-10-08T19:20:13.698Z",
   "events": [
    {
     "eventId": "C3F42B32-D079-4552-98D2-9E89D5B68F7F",
@@ -76914,7 +76928,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Central Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-08T19:10:25.517Z",
+  "fetchedAt": "2026-10-08T19:20:16.286Z",
   "events": [
    {
     "eventId": "54AF7B73-1CBD-44D4-A57A-FA562D029737",
@@ -81554,9 +81568,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "E-R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-1 6-2",
+            "winningSide": 1,
             "when": "2026-10-08T13:00",
             "venue": "University Of Nebraska",
             "sides": [
@@ -82397,7 +82411,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Johan Alexander Rodriguez Rodriguez",
+              "abbr": null,
+              "school": "University Of Oklahoma",
+              "pid": "ou-m-p5",
+              "wtn": 5.49,
+              "seed": 1
+             },
              null
             ]
            },
@@ -82791,9 +82812,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
         "positions": [
          {
           "pos": 1,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Scott Houben",
+          "school": "Oral Roberts University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 13.02
          },
          {
           "pos": 2,
@@ -82994,7 +83019,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Scott Houben",
+              "abbr": null,
+              "school": "Oral Roberts University",
+              "pid": null,
+              "wtn": 13.02,
+              "seed": null
+             },
              null
             ]
            },
@@ -88721,7 +88753,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Carolina Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-08T19:10:28.500Z",
+  "fetchedAt": "2026-10-08T19:20:19.030Z",
   "events": [
    {
     "eventId": "4EA0C308-65DD-4DD9-A68E-4DAA07B16460",
@@ -92729,9 +92761,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "5-7 7-5 5-7",
+            "winningSide": 2,
             "when": "2026-10-08T12:00",
             "venue": "University Of South Carolina",
             "sides": [
@@ -93205,7 +93237,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-08T14:30",
+            "when": "2026-10-08T16:30",
             "venue": "University Of South Carolina",
             "sides": [
              {
@@ -93216,7 +93248,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 8.31,
               "seed": null
              },
-             null
+             {
+              "name": "Noah Zeiger",
+              "abbr": null,
+              "school": "UNC Wilmington",
+              "pid": null,
+              "wtn": 7.72,
+              "seed": 6
+             }
             ]
            },
            {
@@ -93224,7 +93263,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-08T15:00",
+            "when": "2026-10-08T16:30",
             "venue": "University Of South Carolina",
             "sides": [
              {
@@ -93868,9 +93907,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 44,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Cian Ingles",
+          "school": "UNC Asheville",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.48
          },
          {
           "pos": 45,
@@ -94267,7 +94310,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 9.69,
               "seed": null
              },
-             null
+             {
+              "name": "Cian Ingles",
+              "abbr": null,
+              "school": "UNC Asheville",
+              "pid": null,
+              "wtn": 9.48,
+              "seed": null
+             }
             ]
            },
            {
@@ -94527,7 +94577,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -96696,7 +96746,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Texas Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-08T19:10:31.373Z",
+  "fetchedAt": "2026-10-08T19:20:21.554Z",
   "events": [
    {
     "eventId": "D774E574-66C0-4881-9702-A47350E90C7B",
@@ -102730,7 +102780,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Ohio Valley Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-08T19:10:34.159Z",
+  "fetchedAt": "2026-10-08T19:20:24.084Z",
   "events": [
    {
     "eventId": "27A207E4-0923-42D1-8BFC-F83A17BBCA97",
@@ -107172,9 +107222,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 6-4",
+            "winningSide": 1,
             "when": "2026-10-08T13:30",
             "venue": "Lindner Family Tennis Center",
             "sides": [
@@ -107224,7 +107274,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-10-08T14:30",
@@ -107354,7 +107404,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-10-08T15:00",
@@ -107507,7 +107557,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Deborah Dominguez Collado",
+              "abbr": null,
+              "school": "Lipscomb University",
+              "pid": null,
+              "wtn": 16.6,
+              "seed": 13
+             },
              null
             ]
            },
@@ -111669,7 +111726,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's New England Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-08T19:10:37.109Z",
+  "fetchedAt": "2026-10-08T19:20:26.957Z",
   "events": [
    {
     "eventId": "E8F75619-116F-4CFD-8745-238D006BAD4C",
@@ -114525,9 +114582,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32-Q",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-7(2) 6-3 [10-5]",
+            "winningSide": 1,
             "when": "2026-10-08T13:30",
             "venue": " Harvard University - Murr Tennis Center -",
             "sides": [
@@ -114577,9 +114634,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32-Q",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 6-7(5) [10-7]",
+            "winningSide": 1,
             "when": "2026-10-08T13:30",
             "venue": "Harvard University Beren Tennis Center",
             "sides": [
@@ -114862,7 +114919,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Carlo Zucchini",
+              "abbr": null,
+              "school": "LeMoyne College",
+              "pid": null,
+              "wtn": 10.31,
+              "seed": null
+             }
             ]
            },
            {
@@ -114886,7 +114950,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Nathan Gold",
+              "abbr": null,
+              "school": "Cornell University",
+              "pid": "corn-m-p4",
+              "wtn": 8.58,
+              "seed": 12
+             }
             ]
            },
            {
@@ -115061,7 +115132,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Carlo Zucchini",
+              "abbr": null,
+              "school": "LeMoyne College",
+              "pid": null,
+              "wtn": 10.31,
+              "seed": null
+             },
              null
             ]
            },
@@ -115073,7 +115151,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Nathan Gold",
+              "abbr": null,
+              "school": "Cornell University",
+              "pid": "corn-m-p4",
+              "wtn": 8.58,
+              "seed": 12
+             },
              null
             ]
            },
@@ -117116,7 +117201,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Midwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-08T19:10:39.967Z",
+  "fetchedAt": "2026-10-08T19:20:29.638Z",
   "events": [
    {
     "eventId": "882B1A07-E30B-4FA8-8EA7-A455D7DBE9F5",
@@ -121703,9 +121788,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32-Q",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-1 6-3",
+            "winningSide": 1,
             "when": null,
             "venue": null,
             "sides": [
@@ -121977,7 +122062,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Libby Blair",
+              "abbr": null,
+              "school": "Bowling Green State University",
+              "pid": null,
+              "wtn": 18.45,
+              "seed": null
+             }
             ]
            },
            {
@@ -122125,7 +122217,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Libby Blair",
+              "abbr": null,
+              "school": "Bowling Green State University",
+              "pid": null,
+              "wtn": 18.45,
+              "seed": null
+             },
              null
             ]
            },
@@ -125060,7 +125159,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-08T19:10:42.943Z",
+  "fetchedAt": "2026-10-08T19:20:32.286Z",
   "events": [
    {
     "eventId": "E21C1832-08CA-499C-9DFD-3A0F4F16C283",
@@ -127745,9 +127844,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-6 4-6",
+            "winningSide": 2,
             "when": "2026-10-08T10:30",
             "venue": "Stanford University",
             "sides": [
@@ -128483,7 +128582,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "Stanford University",
             "sides": [
              null,
-             null
+             {
+              "name": "Gabriella Harper",
+              "abbr": "Washington St",
+              "school": "Washington State",
+              "pid": "wsu-w-n2",
+              "wtn": 17.89,
+              "seed": null
+             }
             ]
            },
            {
@@ -128896,9 +129002,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 6,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Aleksandra Toneva",
+          "school": "Seattle",
+          "abbr": "Seattle",
+          "pid": null,
+          "wtn": 18.04
          },
          {
           "pos": 7,
@@ -129102,7 +129212,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "Stanford University",
             "sides": [
              null,
-             null
+             {
+              "name": "Aleksandra Toneva",
+              "abbr": "Seattle",
+              "school": "Seattle",
+              "pid": null,
+              "wtn": 18.04,
+              "seed": null
+             }
             ]
            },
            {
@@ -132073,9 +132190,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "8-4",
+            "winningSide": 1,
             "when": "2026-10-08T09:45",
             "venue": "Stanford University",
             "sides": [
@@ -132519,7 +132636,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-09T09:00",
             "venue": "Stanford University",
             "sides": [
-             null,
+             {
+              "name": "Phillips/Zholbolat",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
              {
               "name": "Kozakova/Sherif",
               "abbr": null,
@@ -133108,9 +133232,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 47,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Nazarenko/Sierra",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
          },
          {
           "pos": 48,
@@ -133472,7 +133600,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Nazarenko/Sierra",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
              null
             ]
            }
@@ -133889,7 +134024,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Atlantic Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-08T19:10:46.275Z",
+  "fetchedAt": "2026-10-08T19:20:35.018Z",
   "events": [
    {
     "eventId": "A7DFD49A-9C2C-4A52-90D2-B643AC6DB270",
@@ -136464,9 +136599,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "C-R32-Q",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 6-7(5)",
+            "winningSide": 2,
             "when": "2026-10-08T13:00",
             "venue": "Rec Courts ",
             "sides": [
@@ -136516,9 +136651,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32-Q",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "2-6 1-6",
+            "winningSide": 2,
             "when": "2026-10-08T13:30",
             "venue": "Rec Courts ",
             "sides": [
@@ -136672,9 +136807,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32-Q",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-5 6-1",
+            "winningSide": 1,
             "when": "2026-10-08T13:30",
             "venue": "Indoors ",
             "sides": [
@@ -136698,9 +136833,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32-Q",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 6-4 [9-11]",
+            "winningSide": 2,
             "when": "2026-10-08T13:30",
             "venue": "Indoors ",
             "sides": [
@@ -136892,7 +137027,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Exodus Waites",
+              "abbr": null,
+              "school": "Morgan State University",
+              "pid": null,
+              "wtn": 14.06,
+              "seed": null
+             }
             ]
            },
            {
@@ -136916,7 +137058,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Ty Switzer",
+              "abbr": null,
+              "school": "University Of Virginia",
+              "pid": "uva-m-p10",
+              "wtn": 10.59,
+              "seed": null
+             }
             ]
            },
            {
@@ -136995,7 +137144,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Jonah Hill",
+              "abbr": null,
+              "school": "Georgetown University",
+              "pid": null,
+              "wtn": 10.44,
+              "seed": null
+             }
             ]
            },
            {
@@ -137007,7 +137163,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Aziz Missaoui",
+              "abbr": null,
+              "school": "Morgan State University",
+              "pid": null,
+              "wtn": 11.76,
+              "seed": null
+             }
             ]
            },
            {
@@ -137116,7 +137279,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Exodus Waites",
+              "abbr": null,
+              "school": "Morgan State University",
+              "pid": null,
+              "wtn": 14.06,
+              "seed": null
+             },
              null
             ]
            },
@@ -137128,7 +137298,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Ty Switzer",
+              "abbr": null,
+              "school": "University Of Virginia",
+              "pid": "uva-m-p10",
+              "wtn": 10.59,
+              "seed": null
+             },
              null
             ]
            },
@@ -137171,8 +137348,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
-             null
+             {
+              "name": "Jonah Hill",
+              "abbr": null,
+              "school": "Georgetown University",
+              "pid": null,
+              "wtn": 10.44,
+              "seed": null
+             },
+             {
+              "name": "Aziz Missaoui",
+              "abbr": null,
+              "school": "Morgan State University",
+              "pid": null,
+              "wtn": 11.76,
+              "seed": null
+             }
             ]
            },
            {
@@ -140103,7 +140294,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Ohio Valley Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-08T19:10:49.252Z",
+  "fetchedAt": "2026-10-08T19:20:37.743Z",
   "events": [
    {
     "eventId": "32F41C2E-E703-4CB4-AB6B-51D63252CFE4",
@@ -141288,9 +141479,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "AWAITING_RESULT",
-            "score": "",
-            "winningSide": null,
+            "status": "RETIRED",
+            "score": "6-7(6) 6-4 1-0",
+            "winningSide": 2,
             "when": "2026-10-08T11:00",
             "venue": "Farm and Forge",
             "sides": [
@@ -141314,9 +141505,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-5 4-6 2-6",
+            "winningSide": 2,
             "when": "2026-10-08T11:00",
             "venue": "Farm and Forge",
             "sides": [
@@ -141871,8 +142062,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-08T16:00",
             "venue": "Farm and Forge",
             "sides": [
-             null,
-             null
+             {
+              "name": "Kaiaitz Mendibe",
+              "abbr": null,
+              "school": "University Of Dayton",
+              "pid": null,
+              "wtn": 9.33,
+              "seed": null
+             },
+             {
+              "name": "Asier Ayllon Prado",
+              "abbr": null,
+              "school": "Middle Tennessee State University",
+              "pid": null,
+              "wtn": 8.44,
+              "seed": 11
+             }
             ]
            },
            {
@@ -142504,15 +142709,23 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 37,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Alexander Vlahos",
+          "school": "Lipscomb University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.57
          },
          {
           "pos": 38,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Jy Hibbert",
+          "school": "Univ. Of Southern Indiana",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.14
          },
          {
           "pos": 39,
@@ -142643,9 +142856,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32-Q",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "RETIRED",
+            "score": "1-4",
+            "winningSide": 2,
             "when": "2026-10-08T13:00",
             "venue": "Farm and Forge",
             "sides": [
@@ -142880,11 +143093,25 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-08T15:00",
+            "when": "2026-10-08T16:00",
             "venue": "Farm and Forge",
             "sides": [
-             null,
-             null
+             {
+              "name": "Alexander Vlahos",
+              "abbr": null,
+              "school": "Lipscomb University",
+              "pid": null,
+              "wtn": 10.57,
+              "seed": null
+             },
+             {
+              "name": "Jy Hibbert",
+              "abbr": null,
+              "school": "Univ. Of Southern Indiana",
+              "pid": null,
+              "wtn": 10.14,
+              "seed": null
+             }
             ]
            },
            {
@@ -143036,7 +143263,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Zavier Augustin",
+              "abbr": null,
+              "school": "Indiana University",
+              "pid": "ind-m-p3",
+              "wtn": 9.11,
+              "seed": null
+             }
             ]
            },
            {
@@ -143144,7 +143378,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -143228,7 +143462,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Zavier Augustin",
+              "abbr": null,
+              "school": "Indiana University",
+              "pid": "ind-m-p3",
+              "wtn": 9.11,
+              "seed": null
+             }
             ]
            },
            {
@@ -145335,7 +145576,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southern Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-08T19:10:52.149Z",
+  "fetchedAt": "2026-10-08T19:20:40.365Z",
   "events": [
    {
     "eventId": "E1B6EB4F-5C48-4A97-8503-3E0305186CFF",
@@ -151206,9 +151447,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-2 2-6 1-6",
+            "winningSide": 2,
             "when": "2026-10-08T12:00",
             "venue": "Louisiana State University",
             "sides": [
@@ -151608,7 +151849,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Diana Badalyan",
+              "abbr": null,
+              "school": "Tulane University",
+              "pid": "tuln-w-p1",
+              "wtn": 18.04,
+              "seed": null
+             }
             ]
            },
            {
@@ -153170,7 +153418,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Texas Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-08T19:10:55.016Z",
+  "fetchedAt": "2026-10-08T19:20:43.022Z",
   "events": [
    {
     "eventId": "ACF820D8-2E63-4784-A364-D1F7B6F91B30",
@@ -154610,8 +154858,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "IN_PROGRESS",
-            "score": null,
+            "status": "AWAITING_RESULT",
+            "score": "",
             "winningSide": null,
             "when": "2026-10-08T12:00",
             "venue": "Texas Christian University",
@@ -154714,8 +154962,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "IN_PROGRESS",
-            "score": null,
+            "status": "AWAITING_RESULT",
+            "score": "",
             "winningSide": null,
             "when": "2026-10-08T12:00",
             "venue": "Texas Christian University",
@@ -154740,9 +154988,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "AWAITING_RESULT",
-            "score": "",
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-6(9) 6-1",
+            "winningSide": 1,
             "when": "2026-10-08T12:00",
             "venue": "Texas Christian University",
             "sides": [
@@ -154766,9 +155014,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "AWAITING_RESULT",
-            "score": "",
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-2 6-2",
+            "winningSide": 1,
             "when": "2026-10-08T12:00",
             "venue": "Texas Christian University",
             "sides": [
@@ -154844,8 +155092,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "IN_PROGRESS",
-            "score": null,
+            "status": "TO_BE_PLAYED",
+            "score": "",
             "winningSide": null,
             "when": "2026-10-08T13:30",
             "venue": "Texas Christian University",
@@ -155047,8 +155295,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
-             null
+             {
+              "name": "Victor Alvares De Castro Rocha",
+              "abbr": "UTSA",
+              "school": "Univ. Of Texas, San Antonio",
+              "pid": "utsa-m-p7",
+              "wtn": 8.61,
+              "seed": 8
+             },
+             {
+              "name": "Gordon Gallagher",
+              "abbr": "BAY",
+              "school": "Baylor University",
+              "pid": "bay-m-p7",
+              "wtn": 8.65,
+              "seed": 9
+             }
             ]
            },
            {
@@ -156055,7 +156317,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": "2026-10-08T12:00",
@@ -156074,7 +156336,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": "2026-10-08T12:00",
@@ -156257,8 +156519,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
-             null
+             {
+              "name": "Jonas Keck",
+              "abbr": "ACU",
+              "school": "Abilene Christian University",
+              "pid": null,
+              "wtn": 9.48,
+              "seed": null
+             },
+             {
+              "name": "Bautista Durrels Rojo",
+              "abbr": "UTA",
+              "school": "Univ. Of Texas, Arlington",
+              "pid": null,
+              "wtn": 10.19,
+              "seed": null
+             }
             ]
            },
            {
@@ -156431,7 +156707,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's New England Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-08T19:10:57.725Z",
+  "fetchedAt": "2026-10-08T19:20:45.433Z",
   "events": [
    {
     "eventId": "1104BC4B-FA60-4A4F-9D2D-6A2EE73CFC35",
@@ -162063,7 +162339,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southern Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-08T19:11:00.536Z",
+  "fetchedAt": "2026-10-08T19:20:47.920Z",
   "events": [
    {
     "eventId": "A65C14BF-7C23-40AC-9F86-FE15BBB6786D",
@@ -166125,9 +166401,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-7(4) 6-2 6-2",
+            "winningSide": 1,
             "when": "2026-10-08T11:00",
             "venue": "Yarbrough Tennis Center",
             "sides": [
@@ -166194,9 +166470,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-3 7-5",
+            "winningSide": 1,
             "when": "2026-10-08T12:30",
             "venue": "Yarbrough Tennis Center",
             "sides": [
@@ -166564,7 +166840,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-08T15:00",
             "venue": "Yarbrough Tennis Center",
             "sides": [
-             null,
+             {
+              "name": "Rytis Razminas",
+              "abbr": null,
+              "school": "University Of North Alabama",
+              "pid": null,
+              "wtn": 9.66,
+              "seed": null
+             },
              {
               "name": "Stephan Noale",
               "abbr": null,
@@ -166596,7 +166879,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 10.86,
               "seed": null
              },
-             null
+             {
+              "name": "Jules Caby",
+              "abbr": null,
+              "school": "University Of South Alabama",
+              "pid": null,
+              "wtn": 8.38,
+              "seed": null
+             }
             ]
            },
            {
@@ -167074,9 +167364,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 31,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Vid Maric",
+          "school": "Alabama State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.8
          },
          {
           "pos": 32,
@@ -167431,7 +167725,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Vid Maric",
+              "abbr": null,
+              "school": "Alabama State University",
+              "pid": null,
+              "wtn": 10.8,
+              "seed": null
+             },
              null
             ]
            }
@@ -167589,7 +167890,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Vid Maric",
+              "abbr": null,
+              "school": "Alabama State University",
+              "pid": null,
+              "wtn": 10.8,
+              "seed": null
+             }
             ]
            }
           ]
@@ -167707,9 +168015,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 2,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Loris Gueli",
+          "school": "Alabama State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.52
          },
          {
           "pos": 3,
@@ -167817,7 +168129,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Loris Gueli",
+              "abbr": null,
+              "school": "Alabama State University",
+              "pid": null,
+              "wtn": 10.52,
+              "seed": null
+             }
             ]
            },
            {
@@ -167931,7 +168250,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Loris Gueli",
+              "abbr": null,
+              "school": "Alabama State University",
+              "pid": null,
+              "wtn": 10.52,
+              "seed": null
+             },
              null
             ]
            },
