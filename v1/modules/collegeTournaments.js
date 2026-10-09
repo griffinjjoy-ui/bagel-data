@@ -25,8 +25,20 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "end": "2026-10-12"
   },
   {
+    "id": "6ac90eb20a838916bdf19813",
+    "name": "2026 ITA DI Women's Mountain Regional Championship",
+    "start": "2026-10-13",
+    "end": "2026-10-17"
+  },
+  {
     "id": "6ac2da1633a5117ef02329bf",
     "name": "2026 ITA DII Men's & Women's West Regional Championships",
+    "start": "2026-10-15",
+    "end": "2026-10-18"
+  },
+  {
+    "id": "6ac92dcd0a838916bd14ea8c",
+    "name": "2026 ITA Cup",
     "start": "2026-10-15",
     "end": "2026-10-18"
   },

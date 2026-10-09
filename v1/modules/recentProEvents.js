@@ -70,9 +70,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Mitsuki Wei Kang Leong",
      "score": "6-3 6-3"
+    },
+    {
+     "id": "5507244",
+     "date": "2026-10-09",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Ryan Seggerman",
+     "score": "7-6(5) 6-2"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -4388,9 +4397,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Miguel Damas",
      "score": "6-4 6-1"
+    },
+    {
+     "id": "15326895",
+     "date": "2026-10-09",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Marvin Moeller",
+     "score": "6-2 6-3"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
