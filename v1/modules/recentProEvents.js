@@ -768,9 +768,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Anastasia Abbagnato",
      "score": "6-2 6-3"
+    },
+    {
+     "id": "20598070",
+     "date": "2026-10-09",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Diletta Cherubini",
+     "score": "6-2 6-4"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -1971,9 +1980,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Gabriele Maria Noce",
      "score": "6-4 6-4"
+    },
+    {
+     "id": "23744846",
+     "date": "2026-10-09",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Andrey Chepelev",
+     "score": "7-6(6) 3-6 6-3"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -2786,9 +2804,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Lexington Reed",
      "score": "6-4 6-4"
+    },
+    {
+     "id": "20598096",
+     "date": "2026-10-09",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Francesca Mattioli",
+     "score": "6-3 6-7(2) 6-3"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -3343,9 +3370,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Jane Dunyon",
      "score": "6-2 5-2 ret."
+    },
+    {
+     "id": "20597805",
+     "date": "2026-10-09",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Astra Sharma",
+     "score": "7-6(5) 6-4"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -3710,9 +3746,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Maria Lourdes Carle",
      "score": "6-2 0-6 6-3"
+    },
+    {
+     "id": "20597804",
+     "date": "2026-10-09",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Unknown Player",
+     "score": "6-3 3-0 ret."
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -4262,9 +4307,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Victoria Bosio",
      "score": "5-7 6-4 6-4"
+    },
+    {
+     "id": "20598096",
+     "date": "2026-10-09",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Edda Mamedova",
+     "score": "6-3 6-7(2) 6-3"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
