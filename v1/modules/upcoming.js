@@ -4,16 +4,6 @@
 // included). Opponent + event, no result yet. Re-run the script to refresh.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
-  "playerId": "wash-w-h8",
-  "name": "Astrid Olsen",
-  "teamId": "wash-w",
-  "gender": "women",
-  "opponent": "Zuzanna Bednarz",
-  "event": "W15 Chisinau",
-  "date": "2026-10-10",
-  "day": "today"
- },
- {
   "playerId": "ou-p5",
   "name": "Edda Mamedova",
   "teamId": "ou-w",
@@ -54,46 +44,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "tamu-m-h6",
-  "name": "Giulio Perego",
-  "teamId": "tamu-m",
-  "gender": "men",
-  "opponent": "Jordan Hasson",
-  "event": "M15 Heraklion",
-  "date": "2026-10-10",
-  "day": "today"
- },
- {
-  "playerId": "tcu-m-h8",
-  "name": "Jack Pinnington",
-  "teamId": "tcu-m",
-  "gender": "men",
-  "opponent": "Daniil Glinka",
-  "event": "Villena Challenger",
-  "date": "2026-10-10",
-  "day": "today"
- },
- {
-  "playerId": "ou-m-h2",
-  "name": "Jordan Hasson",
-  "teamId": "ou-m",
-  "gender": "men",
-  "opponent": "Giulio Perego",
-  "event": "M15 Heraklion",
-  "date": "2026-10-10",
-  "day": "today"
- },
- {
-  "playerId": "usc-m-h8",
-  "name": "Learner Tien",
-  "teamId": "usc-m",
-  "gender": "men",
-  "opponent": "Zachary Svajda",
-  "event": "Shanghai Rolex Masters - Shanghai",
-  "date": "2026-10-10",
-  "day": "today"
- },
- {
   "playerId": "tenn-p3",
   "name": "Leyla Britez Risso",
   "teamId": "tenn-w",
@@ -104,52 +54,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "pepp-w-h5",
-  "name": "Lisa Zaar",
-  "teamId": "pepp-w",
-  "gender": "women",
-  "opponent": "Jessica Pieri",
-  "event": "W35 Santa Margherita di Pula",
-  "date": "2026-10-10",
-  "day": "today"
- },
- {
   "playerId": "sc-m-p1",
   "name": "Lucas Andrade da Silva",
   "teamId": "sc-m",
   "gender": "men",
   "opponent": "Matteo Covato",
   "event": "M15 Quito",
-  "date": "2026-10-10",
-  "day": "today"
- },
- {
-  "playerId": "okst-w-h10",
-  "name": "Mananchaya Sawangkaew",
-  "teamId": "okst-w",
-  "gender": "women",
-  "opponent": "Maya Joint",
-  "event": "Wuhan Open - Wuhan",
-  "date": "2026-10-10",
-  "day": "today"
- },
- {
-  "playerId": "tex-m-n3",
-  "name": "Matej Dodig",
-  "teamId": "tex-m",
-  "gender": "men",
-  "opponent": "Lukas Neumayer",
-  "event": "Braga Challenger",
-  "date": "2026-10-10",
-  "day": "today"
- },
- {
-  "playerId": "tex-w-h12",
-  "name": "Peyton Stearns",
-  "teamId": "tex-w",
-  "gender": "women",
-  "opponent": "Han Shi",
-  "event": "Wuhan Open - Wuhan",
   "date": "2026-10-10",
   "day": "today"
  },
@@ -200,6 +110,36 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Alexander Bublik",
   "event": "Shanghai Rolex Masters - Shanghai",
+  "date": "2026-10-11",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ucla-w-h8",
+  "name": "Ena Shibahara",
+  "teamId": "ucla-w",
+  "gender": "women",
+  "opponent": "Naho Sato",
+  "event": "W35 Wagga Wagga",
+  "date": "2026-10-11",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ariz-m-fp226",
+  "name": "Jay Friend",
+  "teamId": "ariz-m",
+  "gender": "men",
+  "opponent": "Alibek Kachmazov",
+  "event": "Wuning 3 Challenger",
+  "date": "2026-10-11",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "okst-w-h10",
+  "name": "Mananchaya Sawangkaew",
+  "teamId": "okst-w",
+  "gender": "women",
+  "opponent": "Anna Bondar",
+  "event": "Wuhan Open - Wuhan",
   "date": "2026-10-11",
   "day": "tomorrow"
  }

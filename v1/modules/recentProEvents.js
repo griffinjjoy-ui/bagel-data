@@ -4256,10 +4256,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Marvin Moeller",
      "score": "6-2 6-3"
+    },
+    {
+     "id": "46192082",
+     "date": "2026-10-10",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Lukas Neumayer",
+     "score": "6-3 6-1"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "tex-p1": [
