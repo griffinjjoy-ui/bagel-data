@@ -4,54 +4,54 @@
 // included). Opponent + event, no result yet. Re-run the script to refresh.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
+  "playerId": "wash-w-h8",
+  "name": "Astrid Olsen",
+  "teamId": "wash-w",
+  "gender": "women",
+  "opponent": "Zuzanna Bednarz",
+  "event": "W15 Chisinau",
+  "date": "2026-10-10",
+  "day": "today"
+ },
+ {
+  "playerId": "ou-p5",
+  "name": "Edda Mamedova",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Emma Kamper Malmkjaer",
+  "event": "W35 Las Vegas",
+  "date": "2026-10-10",
+  "day": "today"
+ },
+ {
+  "playerId": "tenn-m-h5",
+  "name": "Emile Hudd",
+  "teamId": "tenn-m",
+  "gender": "men",
+  "opponent": "Jelle Sels",
+  "event": "M15 Rodez",
+  "date": "2026-10-10",
+  "day": "today"
+ },
+ {
+  "playerId": "aub-p6",
+  "name": "Emma Kamper",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Edda Mamedova",
+  "event": "W35 Las Vegas",
+  "date": "2026-10-10",
+  "day": "today"
+ },
+ {
   "playerId": "ou-w-h9",
   "name": "Florencia Urrutia",
   "teamId": "ou-w",
   "gender": "women",
   "opponent": "Leyla Fiorella Britez Risso",
   "event": "W15 Cipolletti",
-  "date": "2026-10-09",
-  "day": "today"
- },
- {
-  "playerId": "tenn-p3",
-  "name": "Leyla Britez Risso",
-  "teamId": "tenn-w",
-  "gender": "women",
-  "opponent": "Maria Florencia Urrutia",
-  "event": "W15 Cipolletti",
-  "date": "2026-10-09",
-  "day": "today"
- },
- {
-  "playerId": "sc-m-p1",
-  "name": "Lucas Andrade da Silva",
-  "teamId": "sc-m",
-  "gender": "men",
-  "opponent": "Daniel Salazar Martinez",
-  "event": "M15 Quito",
-  "date": "2026-10-09",
-  "day": "today"
- },
- {
-  "playerId": "uga-m-h16",
-  "name": "Tristan McCormick",
-  "teamId": "uga-m",
-  "gender": "men",
-  "opponent": "Juan Alejandro Hernandez",
-  "event": "M15 Quito",
-  "date": "2026-10-09",
-  "day": "today"
- },
- {
-  "playerId": "ucla-w-h8",
-  "name": "Ena Shibahara",
-  "teamId": "ucla-w",
-  "gender": "women",
-  "opponent": "I Wen Wan",
-  "event": "W35 Wagga Wagga",
   "date": "2026-10-10",
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "tamu-m-h6",
@@ -61,7 +61,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Jordan Hasson",
   "event": "M15 Heraklion",
   "date": "2026-10-10",
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "tcu-m-h8",
@@ -71,17 +71,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Daniil Glinka",
   "event": "Villena Challenger",
   "date": "2026-10-10",
-  "day": "tomorrow"
- },
- {
-  "playerId": "ariz-m-fp226",
-  "name": "Jay Friend",
-  "teamId": "ariz-m",
-  "gender": "men",
-  "opponent": "Keisuke Saitoh",
-  "event": "Wuning 3 Challenger",
-  "date": "2026-10-10",
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "ou-m-h2",
@@ -91,7 +81,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Giulio Perego",
   "event": "M15 Heraklion",
   "date": "2026-10-10",
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "usc-m-h8",
@@ -101,7 +91,17 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Zachary Svajda",
   "event": "Shanghai Rolex Masters - Shanghai",
   "date": "2026-10-10",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "tenn-p3",
+  "name": "Leyla Britez Risso",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Maria Florencia Urrutia",
+  "event": "W15 Cipolletti",
+  "date": "2026-10-10",
+  "day": "today"
  },
  {
   "playerId": "pepp-w-h5",
@@ -111,7 +111,17 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Jessica Pieri",
   "event": "W35 Santa Margherita di Pula",
   "date": "2026-10-10",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "sc-m-p1",
+  "name": "Lucas Andrade da Silva",
+  "teamId": "sc-m",
+  "gender": "men",
+  "opponent": "Matteo Covato",
+  "event": "M15 Quito",
+  "date": "2026-10-10",
+  "day": "today"
  },
  {
   "playerId": "okst-w-h10",
@@ -121,7 +131,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Maya Joint",
   "event": "Wuhan Open - Wuhan",
   "date": "2026-10-10",
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "tex-m-n3",
@@ -131,17 +141,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Lukas Neumayer",
   "event": "Braga Challenger",
   "date": "2026-10-10",
-  "day": "tomorrow"
- },
- {
-  "playerId": "mich-m-h4",
-  "name": "Nino Ehrenschneider",
-  "teamId": "mich-m",
-  "gender": "men",
-  "opponent": "Mert Alkaya",
-  "event": "M25 Luan",
-  "date": "2026-10-10",
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "tex-w-h12",
@@ -151,17 +151,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Han Shi",
   "event": "Wuhan Open - Wuhan",
   "date": "2026-10-10",
-  "day": "tomorrow"
- },
- {
-  "playerId": "uva-m-h12",
-  "name": "Rafael Jodar",
-  "teamId": "uva-m",
-  "gender": "men",
-  "opponent": "Thiago Agustin Tirante",
-  "event": "Shanghai Rolex Masters - Shanghai",
-  "date": "2026-10-10",
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "tcu-w-h2",
@@ -171,7 +161,17 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Polina Skliar",
   "event": "W35 Monastir",
   "date": "2026-10-10",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "uga-m-h16",
+  "name": "Tristan McCormick",
+  "teamId": "uga-m",
+  "gender": "men",
+  "opponent": "Victor Bini",
+  "event": "M15 Quito",
+  "date": "2026-10-10",
+  "day": "today"
  },
  {
   "playerId": "tamu-m-h19",
@@ -181,11 +181,31 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Sebastian Baez",
   "event": "Shanghai Rolex Masters - Shanghai",
   "date": "2026-10-10",
+  "day": "today"
+ },
+ {
+  "playerId": "fla-m-h8",
+  "name": "Ben Shelton",
+  "teamId": "fla-m",
+  "gender": "men",
+  "opponent": "Arthur Gea",
+  "event": "Shanghai Rolex Masters - Shanghai",
+  "date": "2026-10-11",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "uva-m-h16",
+  "name": "Brandon Nakashima",
+  "teamId": "uva-m",
+  "gender": "men",
+  "opponent": "Alexander Bublik",
+  "event": "Shanghai Rolex Masters - Shanghai",
+  "date": "2026-10-11",
   "day": "tomorrow"
  }
 ];
 
-export const upcomingDates = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomingDates ?? ["2026-10-09","2026-10-10"];
+export const upcomingDates = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomingDates ?? ["2026-10-10","2026-10-11"];
 
 // Scheduled matches for a gender, soonest first (today before tomorrow).
 export function getUpcoming(gender) {
