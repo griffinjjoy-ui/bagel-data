@@ -18,6 +18,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-10"
  },
  {
+  "playerId": "tenn-m-h5",
+  "name": "Emile Hudd",
+  "teamId": "tenn-m",
+  "teamName": "Tennessee",
+  "gender": "men",
+  "event": "M15 Rodez",
+  "round": "1/2",
+  "won": false,
+  "opponent": "Jelle Sels",
+  "result": "6-2 7-6(4)",
+  "date": "2026-10-10"
+ },
+ {
   "playerId": "ucla-w-h8",
   "name": "Ena Shibahara",
   "teamId": "ucla-w",
@@ -28,6 +41,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "I Wen Wan",
   "result": "6-3 7-5",
+  "date": "2026-10-10"
+ },
+ {
+  "playerId": "ou-w-h9",
+  "name": "Florencia Urrutia",
+  "teamId": "ou-w",
+  "teamName": "Oklahoma",
+  "gender": "women",
+  "event": "W15 Cipolletti",
+  "round": "1/4",
+  "won": false,
+  "opponent": "Leyla Fiorella Britez Risso",
+  "result": "0-6 6-3 10-7",
   "date": "2026-10-10"
  },
  {
@@ -93,6 +119,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Zachary Svajda",
   "result": "7-5 7-5",
+  "date": "2026-10-10"
+ },
+ {
+  "playerId": "tenn-p3",
+  "name": "Leyla Britez Risso",
+  "teamId": "tenn-w",
+  "teamName": "Tennessee",
+  "gender": "women",
+  "event": "W15 Cipolletti",
+  "round": "1/4",
+  "won": true,
+  "opponent": "Maria Florencia Urrutia",
+  "result": "0-6 6-3 10-7",
   "date": "2026-10-10"
  },
  {
@@ -171,6 +210,32 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Thiago Agustin Tirante",
   "result": "4-6 6-2 6-3",
+  "date": "2026-10-10"
+ },
+ {
+  "playerId": "tcu-w-h2",
+  "name": "Tiphanie Lemaitre",
+  "teamId": "tcu-w",
+  "teamName": "TCU",
+  "gender": "women",
+  "event": "W35 Monastir",
+  "round": "1/2",
+  "won": true,
+  "opponent": "Polina Skliar",
+  "result": "6-3 6-3",
+  "date": "2026-10-10"
+ },
+ {
+  "playerId": "tamu-m-h19",
+  "name": "Valentin Vacherot",
+  "teamId": "tamu-m",
+  "teamName": "Texas A&M",
+  "gender": "men",
+  "event": "Shanghai Rolex Masters - Shanghai",
+  "round": "Second",
+  "won": true,
+  "opponent": "Sebastian Baez",
+  "result": "6-4 7-6(5)",
   "date": "2026-10-10"
  },
  {
@@ -275,19 +340,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Francesca Mattioli",
   "result": "6-3 6-7(2) 6-3",
-  "date": "2026-10-09"
- },
- {
-  "playerId": "tenn-m-h5",
-  "name": "Emile Hudd",
-  "teamId": "tenn-m",
-  "teamName": "Tennessee",
-  "gender": "men",
-  "event": "M15 Rodez",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Julien Penzlin",
-  "result": "7-5 6-4",
   "date": "2026-10-09"
  },
  {
@@ -460,19 +512,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-09"
  },
  {
-  "playerId": "tcu-w-h2",
-  "name": "Tiphanie Lemaitre",
-  "teamId": "tcu-w",
-  "teamName": "TCU",
-  "gender": "women",
-  "event": "W35 Monastir",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Amelia Paszun",
-  "result": "7-5 6-2",
-  "date": "2026-10-09"
- },
- {
   "playerId": "uga-m-h16",
   "name": "Tristan McCormick",
   "teamId": "uga-m",
@@ -629,19 +668,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-08"
  },
  {
-  "playerId": "ou-w-h9",
-  "name": "Florencia Urrutia",
-  "teamId": "ou-w",
-  "teamName": "Oklahoma",
-  "gender": "women",
-  "event": "W15 Cipolletti",
-  "round": "First",
-  "won": true,
-  "opponent": "Zoe Doldan",
-  "result": "6-4 7-5",
-  "date": "2026-10-08"
- },
- {
   "playerId": "lsu-p12",
   "name": "Florentine Dekkers",
   "teamId": "lsu-w",
@@ -730,19 +756,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Edda Mamedova",
   "result": "6-4 6-4",
-  "date": "2026-10-08"
- },
- {
-  "playerId": "tenn-p3",
-  "name": "Leyla Britez Risso",
-  "teamId": "tenn-w",
-  "teamName": "Tennessee",
-  "gender": "women",
-  "event": "W15 Cipolletti",
-  "round": "First",
-  "won": true,
-  "opponent": "Maria Sofia Madrid Rocca",
-  "result": "6-2 6-2",
   "date": "2026-10-08"
  },
  {
@@ -2095,19 +2108,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Zsombor Piros",
   "result": "6-2 5-7 6-4",
-  "date": "2026-10-05"
- },
- {
-  "playerId": "tamu-m-h19",
-  "name": "Valentin Vacherot",
-  "teamId": "tamu-m",
-  "teamName": "Texas A&M",
-  "gender": "men",
-  "event": "Japan Open Tennis Championships - Tokyo",
-  "round": "1/2",
-  "won": false,
-  "opponent": "Jiri Lehecka",
-  "result": "6-4 6-2",
   "date": "2026-10-05"
  },
  {
@@ -12202,11 +12202,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Oklahoma",
   "gender": "women",
   "event": "W15 Cipolletti",
-  "round": "First",
-  "won": true,
-  "opponent": "Zoe Doldan",
-  "result": "6-4 7-5",
-  "date": "2026-10-08"
+  "round": "1/4",
+  "won": false,
+  "opponent": "Leyla Fiorella Britez Risso",
+  "result": "0-6 6-3 10-7",
+  "date": "2026-10-10"
  },
  "ou-w-n2": {
   "playerId": "ou-w-n2",
@@ -14073,12 +14073,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "tamu-m",
   "teamName": "Texas A&M",
   "gender": "men",
-  "event": "Japan Open Tennis Championships - Tokyo",
-  "round": "1/2",
-  "won": false,
-  "opponent": "Jiri Lehecka",
-  "result": "6-4 6-2",
-  "date": "2026-10-05"
+  "event": "Shanghai Rolex Masters - Shanghai",
+  "round": "Second",
+  "won": true,
+  "opponent": "Sebastian Baez",
+  "result": "6-4 7-6(5)",
+  "date": "2026-10-10"
  },
  "tamu-m-h2": {
   "playerId": "tamu-m-h2",
@@ -14633,11 +14633,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "TCU",
   "gender": "women",
   "event": "W35 Monastir",
-  "round": "1/4",
+  "round": "1/2",
   "won": true,
-  "opponent": "Amelia Paszun",
-  "result": "7-5 6-2",
-  "date": "2026-10-09"
+  "opponent": "Polina Skliar",
+  "result": "6-3 6-3",
+  "date": "2026-10-10"
  },
  "tcu-w-h3": {
   "playerId": "tcu-w-h3",
@@ -14945,11 +14945,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Tennessee",
   "gender": "men",
   "event": "M15 Rodez",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Julien Penzlin",
-  "result": "7-5 6-4",
-  "date": "2026-10-09"
+  "round": "1/2",
+  "won": false,
+  "opponent": "Jelle Sels",
+  "result": "6-2 7-6(4)",
+  "date": "2026-10-10"
  },
  "tenn-m-h6": {
   "playerId": "tenn-m-h6",
@@ -15179,11 +15179,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Tennessee",
   "gender": "women",
   "event": "W15 Cipolletti",
-  "round": "First",
+  "round": "1/4",
   "won": true,
-  "opponent": "Maria Sofia Madrid Rocca",
-  "result": "6-2 6-2",
-  "date": "2026-10-08"
+  "opponent": "Maria Florencia Urrutia",
+  "result": "0-6 6-3 10-7",
+  "date": "2026-10-10"
  },
  "tenn-p5": {
   "playerId": "tenn-p5",

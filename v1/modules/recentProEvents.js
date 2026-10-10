@@ -3998,9 +3998,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Gabriela Kawano Cho",
      "score": "6-0 6-2"
+    },
+    {
+     "id": "50135873",
+     "date": "2026-10-10",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Maria Florencia Urrutia",
+     "score": "0-6 6-3 10-7"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
