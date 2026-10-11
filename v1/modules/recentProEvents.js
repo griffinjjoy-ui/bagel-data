@@ -724,10 +724,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Edda Mamedova",
      "score": "6-7(6) 6-3 6-3"
+    },
+    {
+     "id": "79673399",
+     "date": "2026-10-11",
+     "roundId": 12,
+     "round": "Final",
+     "won": true,
+     "opponent": "Francesca Pace",
+     "score": "7-5 6-2"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Title",
+   "reachedTone": "gold"
   },
   {
    "key": "17315",
@@ -3762,10 +3771,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Maria Florencia Urrutia",
      "score": "0-6 6-3 10-7"
+    },
+    {
+     "id": "75982657",
+     "date": "2026-10-11",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Justina Maria Gonzalez Daniele",
+     "score": "4-6 6-4 10-2"
+    },
+    {
+     "id": "79673775",
+     "date": "2026-10-11",
+     "roundId": 12,
+     "round": "Final",
+     "won": true,
+     "opponent": "Ana Sofia Sanchez",
+     "score": "6-1 6-0"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "Title",
+   "reachedTone": "gold"
   },
   {
    "key": "17302",
