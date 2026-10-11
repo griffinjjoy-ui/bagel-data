@@ -253,6 +253,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "ark-m-p6": [
   {
+   "key": "22103",
+   "name": "San Gregorio di Catania Challenger",
+   "date": "2026-10-12",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "79866880",
+     "date": "2026-10-11",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Dragos Nicolae Madaras",
+     "score": "4-6 6-1 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22090",
    "name": "M15 Fayetteville",
    "date": "2026-09-28",
@@ -4009,10 +4029,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Lukas Neumayer",
      "score": "6-3 6-1"
+    },
+    {
+     "id": "81269938",
+     "date": "2026-10-11",
+     "roundId": 12,
+     "round": "Final",
+     "won": true,
+     "opponent": "Elmer Moller",
+     "score": "3-6 6-3 6-2"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Title",
+   "reachedTone": "gold"
   }
  ],
  "tex-p1": [
