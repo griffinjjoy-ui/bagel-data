@@ -3405,6 +3405,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "2EC55170-FFA7-4D3D-9A2B-D4DD04D0180D",
+  "date": "2027-03-26",
+  "dateTime": "2027-03-26T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": null,
+   "name": "Seattle University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "pac-w",
+   "name": "University Of The Pacific",
+   "side": 2
+  }
+ },
+ {
   "id": "56FD12AE-839F-4563-AF60-131EE606E51A",
   "date": "2027-03-26",
   "dateTime": "2027-03-26T17:00:00.000Z",
@@ -3418,23 +3435,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "clt-w",
    "name": "UNC Charlotte",
-   "side": 2
-  }
- },
- {
-  "id": "2EC55170-FFA7-4D3D-9A2B-D4DD04D0180D",
-  "date": "2027-03-26",
-  "dateTime": "2027-03-26T19:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": true,
-  "t1": {
-   "teamId": null,
-   "name": "Seattle University",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "pac-w",
-   "name": "University Of The Pacific",
    "side": 2
   }
  },
@@ -3711,6 +3711,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "B06F8F28-AEC8-4CA4-A1CE-CCAE522C5E51",
+  "date": "2027-04-03",
+  "dateTime": "2027-04-03T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": null,
+   "name": "Seattle University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "scu-w",
+   "name": "Santa Clara University",
+   "side": 2
+  }
+ },
+ {
   "id": "3549939B-DDD0-4E4B-99E3-228C70DB3483",
   "date": "2027-04-03",
   "dateTime": "2027-04-03T16:00:00.000Z",
@@ -3758,23 +3775,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "harv-w",
    "name": "Harvard University",
-   "side": 2
-  }
- },
- {
-  "id": "B06F8F28-AEC8-4CA4-A1CE-CCAE522C5E51",
-  "date": "2027-04-03",
-  "dateTime": "2027-04-03T18:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": true,
-  "t1": {
-   "teamId": null,
-   "name": "Seattle University",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "scu-w",
-   "name": "Santa Clara University",
    "side": 2
   }
  },
