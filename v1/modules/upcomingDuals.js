@@ -481,6 +481,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "E3506C1F-0A11-4074-B5FE-CB413A1783D8",
+  "date": "2027-01-23",
+  "dateTime": "2027-01-23T08:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Seattle University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "wsu-w",
+   "name": "Washington State Univ.",
+   "side": 2
+  }
+ },
+ {
   "id": "E256C98F-2D15-4BD9-9990-CD180A62B846",
   "date": "2027-01-23",
   "dateTime": "2027-01-23T16:00:00.000Z",
@@ -1212,6 +1229,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "9BEC108F-BCFA-4D51-8217-FEE3ECDB4FEE",
+  "date": "2027-02-06",
+  "dateTime": "2027-02-06T08:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Seattle University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ucr-w",
+   "name": "University Of California, Riverside",
+   "side": 2
+  }
+ },
+ {
   "id": "CB13E6BE-A73C-4DDF-8017-97095219925C",
   "date": "2027-02-06",
   "dateTime": "2027-02-06T16:00:00.000Z",
@@ -1361,6 +1395,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "minn-w",
    "name": "University Of Minnesota",
+   "side": 2
+  }
+ },
+ {
+  "id": "6D543E5F-D61B-4729-A425-1BA790E3512A",
+  "date": "2027-02-07",
+  "dateTime": "2027-02-07T08:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Seattle University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ore-w",
+   "name": "University Of Oregon",
    "side": 2
   }
  },
@@ -1718,6 +1769,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "okst-m",
    "name": "Oklahoma State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "E47D9E25-8E1D-4641-93F8-9BFD9F0A3C99",
+  "date": "2027-02-18",
+  "dateTime": "2027-02-18T08:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": null,
+   "name": "Seattle University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "lmu-w",
+   "name": "Loyola Marymount University",
    "side": 2
   }
  },
@@ -3337,6 +3405,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "2EC55170-FFA7-4D3D-9A2B-D4DD04D0180D",
+  "date": "2027-03-26",
+  "dateTime": "2027-03-26T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": null,
+   "name": "Seattle University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "pac-w",
+   "name": "University Of The Pacific",
+   "side": 2
+  }
+ },
+ {
   "id": "56FD12AE-839F-4563-AF60-131EE606E51A",
   "date": "2027-03-26",
   "dateTime": "2027-03-26T17:00:00.000Z",
@@ -3418,6 +3503,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "van-w",
    "name": "Vanderbilt University",
+   "side": 2
+  }
+ },
+ {
+  "id": "461758B5-966B-4F46-851A-7FEF5A1882B5",
+  "date": "2027-03-27",
+  "dateTime": "2027-03-27T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": null,
+   "name": "Seattle University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "smc-w",
+   "name": "Saint Mary's College/CA",
    "side": 2
   }
  },
@@ -3605,6 +3707,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "tex-m",
    "name": "Univ. Of Texas, Austin",
+   "side": 2
+  }
+ },
+ {
+  "id": "B06F8F28-AEC8-4CA4-A1CE-CCAE522C5E51",
+  "date": "2027-04-03",
+  "dateTime": "2027-04-03T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": null,
+   "name": "Seattle University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "scu-w",
+   "name": "Santa Clara University",
    "side": 2
   }
  },
@@ -4234,6 +4353,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Utah State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "7491DA40-AC2D-4F6A-926B-3454E376C6DC",
+  "date": "2027-04-18",
+  "dateTime": "2027-04-18T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": null,
+   "name": "Seattle University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "port-w",
+   "name": "University Of Portland",
    "side": 2
   }
  },

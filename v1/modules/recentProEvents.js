@@ -88,10 +88,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Keisuke Saitoh",
      "score": "6-2 6-1"
+    },
+    {
+     "id": "120554802",
+     "date": "2026-10-11",
+     "roundId": 12,
+     "round": "Final",
+     "won": false,
+     "opponent": "Alibek Kachmazov",
+     "score": "4-6 7-6(7) 7-6(6)"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Final",
+   "reachedTone": "amber"
   }
  ],
  "ariz-m-fp227": [
@@ -267,9 +276,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Dragos Nicolae Madaras",
      "score": "4-6 6-1 6-2"
+    },
+    {
+     "id": "114942896",
+     "date": "2026-10-12",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Daniel Siniakov",
+     "score": "7-5 3-6 7-6(2)"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -1656,6 +1674,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "mich-w-n1": [
+  {
+   "key": "17332",
+   "name": "W100 Edmond",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "109201984",
+     "date": "2026-10-12",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Sofia Johnson",
+     "score": "6-3 7-5"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17316",
    "name": "W50 Lexington",

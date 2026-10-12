@@ -13,6 +13,12 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "end": "2026-10-17"
   },
   {
+    "id": "6acd42580a838916bdb81cb3",
+    "name": "2026 ITA DI Women's Central Regional Championship",
+    "start": "2026-10-14",
+    "end": "2026-10-19"
+  },
+  {
     "id": "6ac2da1633a5117ef02329bf",
     "name": "2026 ITA DII Men's & Women's West Regional Championships",
     "start": "2026-10-15",
@@ -29,6 +35,18 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "name": "2026 ITA DI Women's Atlantic Regional Championship",
     "start": "2026-10-15",
     "end": "2026-10-19"
+  },
+  {
+    "id": "6acd2f2e0a838916bdabdacd",
+    "name": "2026 ITA DI Women's Northeast Regional Championship",
+    "start": "2026-10-15",
+    "end": "2026-10-20"
+  },
+  {
+    "id": "6acd4e280a838916bdc4374e",
+    "name": "2026 ITA DI Women's Carolina Regional Championship",
+    "start": "2026-10-15",
+    "end": "2026-10-20"
   },
   {
     "id": "6abff01a33a5117ef0fc39aa",
