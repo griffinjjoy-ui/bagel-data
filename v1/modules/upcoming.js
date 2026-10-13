@@ -4,163 +4,13 @@
 // included). Opponent + event, no result yet. Re-run the script to refresh.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
-  "playerId": "ncst-w-h1",
-  "name": "Alana Smith",
-  "teamId": "ncst-w",
-  "gender": "women",
-  "opponent": "Alexandra Vagramov",
-  "event": "W100 Edmond",
-  "date": "2026-10-12",
-  "day": "today"
- },
- {
-  "playerId": "ucla-w-h3",
-  "name": "Alexandra Vagramov",
-  "teamId": "ucla-w",
-  "gender": "women",
-  "opponent": "Alana Smith",
-  "event": "W100 Edmond",
-  "date": "2026-10-12",
-  "day": "today"
- },
- {
-  "playerId": "ou-w-h7",
-  "name": "Alina Shcherbinina",
-  "teamId": "ou-w",
-  "gender": "women",
-  "opponent": "Rose Marie Nijkamp",
-  "event": "W100 Edmond",
-  "date": "2026-10-12",
-  "day": "today"
- },
- {
-  "playerId": "ucla-w-p3",
-  "name": "Anne-Christine Lutkemeyer",
-  "teamId": "ucla-w",
-  "gender": "women",
-  "opponent": "Ashley Lahey",
-  "event": "W100 Edmond",
-  "date": "2026-10-12",
-  "day": "today"
- },
- {
-  "playerId": "cal-m-p9",
-  "name": "Bernardo Munk Mesa",
-  "teamId": "cal-m",
+  "playerId": "tex-m-p7",
+  "name": "Abel Forger",
+  "teamId": "tex-m",
   "gender": "men",
-  "opponent": "Hugo Dellien",
-  "event": "Santa Cruz de la Sierra 2 Challenger",
-  "date": "2026-10-12",
-  "day": "today"
- },
- {
-  "playerId": "tex-p5",
-  "name": "Carmen Herea",
-  "teamId": "tex-w",
-  "gender": "women",
-  "opponent": "Zoe Hammond",
-  "event": "W100 Edmond",
-  "date": "2026-10-12",
-  "day": "today"
- },
- {
-  "playerId": "ou-p7",
-  "name": "Chloé Noël",
-  "teamId": "ou-w",
-  "gender": "women",
-  "opponent": "Valeriya Strakhova",
-  "event": "W100 Edmond",
-  "date": "2026-10-12",
-  "day": "today"
- },
- {
-  "playerId": "ou-w-h3",
-  "name": "Dana Guzman",
-  "teamId": "ou-w",
-  "gender": "women",
-  "opponent": "Olivia Lincer",
-  "event": "W100 Edmond",
-  "date": "2026-10-12",
-  "day": "today"
- },
- {
-  "playerId": "ou-p5",
-  "name": "Edda Mamedova",
-  "teamId": "ou-w",
-  "gender": "women",
-  "opponent": "Rasheeda Mcadoo",
-  "event": "W100 Edmond",
-  "date": "2026-10-12",
-  "day": "today"
- },
- {
-  "playerId": "lou-w-h9",
-  "name": "Jamilah Snells",
-  "teamId": "lou-w",
-  "gender": "women",
-  "opponent": "Maya Iacoban",
-  "event": "W50 Quebec City",
-  "date": "2026-10-12",
-  "day": "today"
- },
- {
-  "playerId": "uva-w-h6",
-  "name": "Julia Adams",
-  "teamId": "uva-w",
-  "gender": "women",
-  "opponent": "Diae El Jardi",
-  "event": "W100 Edmond",
-  "date": "2026-10-12",
-  "day": "today"
- },
- {
-  "playerId": "tamu-p9",
-  "name": "Mia Kupres",
-  "teamId": "tamu-w",
-  "gender": "women",
-  "opponent": "Michaela Bayerlova",
-  "event": "W50 Quebec City",
-  "date": "2026-10-12",
-  "day": "today"
- },
- {
-  "playerId": "wsu-w-h7",
-  "name": "Michaela Bayerlova",
-  "teamId": "wsu-w",
-  "gender": "women",
-  "opponent": "Mia Kupres",
-  "event": "W50 Quebec City",
-  "date": "2026-10-12",
-  "day": "today"
- },
- {
-  "playerId": "ou-w-n3",
-  "name": "Reina Goto",
-  "teamId": "ou-w",
-  "gender": "women",
-  "opponent": "Martina Okalova",
-  "event": "W100 Edmond",
-  "date": "2026-10-12",
-  "day": "today"
- },
- {
-  "playerId": "tex-w-n1",
-  "name": "Rose Marie Nijkamp",
-  "teamId": "tex-w",
-  "gender": "women",
-  "opponent": "Alina Shcherbinina",
-  "event": "W100 Edmond",
-  "date": "2026-10-12",
-  "day": "today"
- },
- {
-  "playerId": "tenn-w-h9",
-  "name": "Sofia Cabezas",
-  "teamId": "tenn-w",
-  "gender": "women",
-  "opponent": "Sara Shumate",
-  "event": "W100 Edmond",
-  "date": "2026-10-12",
+  "opponent": "James Quattro",
+  "event": "M25 Austin",
+  "date": "2026-10-13",
   "day": "today"
  },
  {
@@ -171,7 +21,107 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Marin Cilic",
   "event": "Jinan Challenger",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "ncst-w-h1",
+  "name": "Alana Smith",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Anastasia Kulikova",
+  "event": "W100 Edmond",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "tenn-m-p8",
+  "name": "Alejandro Moreno",
+  "teamId": "tenn-m",
+  "gender": "men",
+  "opponent": "Marko Mesarovic",
+  "event": "M15 Lexington",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "lsu-m-p8",
+  "name": "Alessio Vasquez",
+  "teamId": "lsu-m",
+  "gender": "men",
+  "opponent": "Mak Mikovic",
+  "event": "M15 Bol",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "fla-w-h4",
+  "name": "Alicia Dudeney",
+  "teamId": "fla-w",
+  "gender": "women",
+  "opponent": "Marie Weckerle",
+  "event": "W35 Birmingham",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "ou-w-h7",
+  "name": "Alina Shcherbinina",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Carmen Andreea Herea",
+  "event": "W100 Edmond",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "ncst-w-h3",
+  "name": "Amelia Rajecki",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Anna Ozerova",
+  "event": "W35 Birmingham",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "aub-p12",
+  "name": "Angella Okutoyi",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Lizette Cabrera",
+  "event": "W35 Birmingham",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "uva-w-p11",
+  "name": "Annabelle Xu",
+  "teamId": "uva-w",
+  "gender": "women",
+  "opponent": "Ayana Akli",
+  "event": "W50 Quebec City",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "ucla-w-p3",
+  "name": "Anne-Christine Lutkemeyer",
+  "teamId": "ucla-w",
+  "gender": "women",
+  "opponent": "Sofia Johnson",
+  "event": "W100 Edmond",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "wake-m-p6",
+  "name": "Aryan Shah",
+  "teamId": "wake-m",
+  "gender": "men",
+  "opponent": "Jerry Roddick",
+  "event": "M25 Austin",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "usd-m-h8",
@@ -181,7 +131,17 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Luca Nardi",
   "event": "Olbia Challenger",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "sc-w-h2",
+  "name": "Ayana Akli",
+  "teamId": "sc-w",
+  "gender": "women",
+  "opponent": "Annabelle Xu",
+  "event": "W50 Quebec City",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "usc-m-p3",
@@ -191,7 +151,57 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Linus Lagerbohm",
   "event": "M25 Santa Margherita di Pula",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "neb-m-h6",
+  "name": "Calvin Mueller",
+  "teamId": "neb-m",
+  "gender": "men",
+  "opponent": "Mac Visser",
+  "event": "M15 Offenbach",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "msst-m-h4",
+  "name": "Carles Hernandez",
+  "teamId": "msst-m",
+  "gender": "men",
+  "opponent": "Kylian Collignon",
+  "event": "M15 Monastir",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-p5",
+  "name": "Carmen Herea",
+  "teamId": "tex-w",
+  "gender": "women",
+  "opponent": "Alina Shcherbinina",
+  "event": "W100 Edmond",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "uk-m-p4",
+  "name": "Charlelie Cosnet",
+  "teamId": "uk-m",
+  "gender": "men",
+  "opponent": "Darian King",
+  "event": "M15 Lexington",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "ou-w-h3",
+  "name": "Dana Guzman",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Julia Adams",
+  "event": "W100 Edmond",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "ncst-w-h8",
@@ -201,7 +211,27 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Katie Boulter",
   "event": "Wuhan Open - Wuhan",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "ou-p5",
+  "name": "Edda Mamedova",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Valeriya Strakhova",
+  "event": "W100 Edmond",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "pepp-m-p6",
+  "name": "Edward Winter",
+  "teamId": "pepp-m",
+  "gender": "men",
+  "opponent": "Sebastian Gorzny",
+  "event": "M25 Austin",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "pepp-m-h6",
@@ -211,7 +241,27 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Luis Carlos Alvarez Valdes",
   "event": "M25 Santa Margherita di Pula",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "uk-m-p7",
+  "name": "Eli Stephenson",
+  "teamId": "uk-m",
+  "gender": "men",
+  "opponent": "Bjorn Swenson",
+  "event": "M15 Lexington",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "tenn-w-h3",
+  "name": "Esther Adeshina",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Lara Savic",
+  "event": "W35 Birmingham",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "lou-m-h5",
@@ -221,7 +271,27 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Giovanni Mpetshi Perricard",
   "event": "Roanne Challenger",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "lmu-w-h8",
+  "name": "Eva Marie Voracek",
+  "teamId": "lmu-w",
+  "gender": "women",
+  "opponent": "Astrid Lew Yan Foon",
+  "event": "W35 Heraklion",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "aub-m-h3",
+  "name": "Finlay Murgett",
+  "teamId": "aub-m",
+  "gender": "men",
+  "opponent": "Odysseas Geladaris",
+  "event": "M15 Heraklion",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "lsu-p12",
@@ -231,7 +301,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Sabastiani Leon",
   "event": "W15 Islamabad",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "msst-m-h9",
@@ -241,7 +311,17 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Milos Karol",
   "event": "Maia Challenger",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "tex-m-n1",
+  "name": "Gabriel Debru",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Micah Braswell",
+  "event": "M25 Austin",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "duke-m-h2",
@@ -251,7 +331,67 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Thanapet Chanta",
   "event": "M25 Solapur",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "tamu-m-h6",
+  "name": "Giulio Perego",
+  "teamId": "tamu-m",
+  "gender": "men",
+  "opponent": "Menelaos Efstathiou",
+  "event": "M15 Heraklion",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "uci-m-p9",
+  "name": "Hiroki Sakagawa",
+  "teamId": "uci-m",
+  "gender": "men",
+  "opponent": "Cosme Rolland De Ravel",
+  "event": "M25 Austin",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "aub-m-p10",
+  "name": "Iker Urribarrens",
+  "teamId": "aub-m",
+  "gender": "men",
+  "opponent": "Jonah Braswell",
+  "event": "M25 Austin",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "ark-w-h5",
+  "name": "Indianna Spink",
+  "teamId": "ark-w",
+  "gender": "women",
+  "opponent": "Amelie Brooks",
+  "event": "W35 Birmingham",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "wake-m-h17",
+  "name": "Ioannis Xilas",
+  "teamId": "wake-m",
+  "gender": "men",
+  "opponent": "Henri Haupt",
+  "event": "M15 Heraklion",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "uk-m-p5",
+  "name": "Jack Loutit",
+  "teamId": "uk-m",
+  "gender": "men",
+  "opponent": "Youcef Rihane",
+  "event": "M15 Lexington",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "tcu-m-h1",
@@ -261,7 +401,27 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "George Loffhagen",
   "event": "Olbia Challenger",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "uk-m-p8",
+  "name": "Jaden Weekes",
+  "teamId": "uk-m",
+  "gender": "men",
+  "opponent": "Henry Lieberman",
+  "event": "M15 Lexington",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "lou-w-h9",
+  "name": "Jamilah Snells",
+  "teamId": "lou-w",
+  "gender": "women",
+  "opponent": "Raphaelle Lacasse",
+  "event": "W50 Quebec City",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "ariz-m-fp226",
@@ -271,7 +431,57 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Alibek Kachmazov",
   "event": "Jinan Challenger",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "ou-m-p5",
+  "name": "Johan Rodriguez",
+  "teamId": "ou-m",
+  "gender": "men",
+  "opponent": "Carel Aubriel Ngounoue",
+  "event": "M25 Austin",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-m-p2",
+  "name": "Jonah Braswell",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Iker Urribarrens Ramirez",
+  "event": "M25 Austin",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "uva-w-h6",
+  "name": "Julia Adams",
+  "teamId": "uva-w",
+  "gender": "women",
+  "opponent": "Dana Guzman",
+  "event": "W100 Edmond",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "unc-m-h8",
+  "name": "Karl Poling",
+  "teamId": "unc-m",
+  "gender": "men",
+  "opponent": "Aidan Mchugh",
+  "event": "M25 Austin",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "ucla-m-h8",
+  "name": "Kaylan Bigun",
+  "teamId": "ucla-m",
+  "gender": "men",
+  "opponent": "Li Tu",
+  "event": "M25 Austin",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "ucla-m-h15",
@@ -281,7 +491,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Stefanos Sakellaridis",
   "event": "Jinan Challenger",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "uk-m-h1",
@@ -291,7 +501,27 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Omar Jasika",
   "event": "Jinan Challenger",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "pepp-w-h5",
+  "name": "Lisa Zaar",
+  "teamId": "pepp-w",
+  "gender": "women",
+  "opponent": "Matilde Jorge",
+  "event": "Lisboa Belem Open - Lisbon",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "fla-m-p1",
+  "name": "Lorenzo Claverie",
+  "teamId": "fla-m",
+  "gender": "men",
+  "opponent": "Mauricio Echazu",
+  "event": "M15 Quito",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "ou-m-p1",
@@ -301,7 +531,37 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Eero Vasa",
   "event": "M25 Santa Margherita di Pula",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "ou-m-p6",
+  "name": "Luka Talan Lopatic",
+  "teamId": "ou-m",
+  "gender": "men",
+  "opponent": "Mathieu Scaglia",
+  "event": "M15 Heraklion",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "cal-w-p6",
+  "name": "Mao Mushika",
+  "teamId": "cal-w",
+  "gender": "women",
+  "opponent": "Tia Messerli",
+  "event": "W35 Redding",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "ala-w-h1",
+  "name": "Margaux Maquet",
+  "teamId": "ala-w",
+  "gender": "women",
+  "opponent": "Mayuka Aikawa",
+  "event": "W35 Birmingham",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "ala-p10",
@@ -311,7 +571,27 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Caterina Odorizzi",
   "event": "W35 Santa Margherita di Pula",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "ore-w-h7",
+  "name": "Marjorie Souza",
+  "teamId": "ore-w",
+  "gender": "women",
+  "opponent": "Sophia Santos",
+  "event": "W15 Maceio",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "clem-m-p6",
+  "name": "Marko Mesarovic",
+  "teamId": "clem-m",
+  "gender": "men",
+  "opponent": "Alejandro Moreno",
+  "event": "M15 Lexington",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "ncst-m-fp370",
@@ -321,7 +601,57 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Lingxi Zhao",
   "event": "M25 Qian Daohu",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "lou-m-p8",
+  "name": "Matei Onofrei",
+  "teamId": "lou-m",
+  "gender": "men",
+  "opponent": "Theo Papamalamis",
+  "event": "M15 Lexington",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-p10",
+  "name": "Mathilde Ngijol-Carré",
+  "teamId": "tex-w",
+  "gender": "women",
+  "opponent": "Salma Drugdova",
+  "event": "W35 Redding",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "wake-m-h1",
+  "name": "Melios Efstathiou",
+  "teamId": "wake-m",
+  "gender": "men",
+  "opponent": "Giulio Perego",
+  "event": "M15 Heraklion",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-m-h2",
+  "name": "Micah Braswell",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Gabriel Debru",
+  "event": "M25 Austin",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "wsu-w-h7",
+  "name": "Michaela Bayerlova",
+  "teamId": "wsu-w",
+  "gender": "women",
+  "opponent": "Mingge Xu",
+  "event": "W50 Quebec City",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "ariz-w-h5",
@@ -331,7 +661,67 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Sophia Biolay",
   "event": "W35 Monastir",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "duke-w-n2",
+  "name": "Mimi Xu",
+  "teamId": "duke-w",
+  "gender": "women",
+  "opponent": "Michaela Bayerlova",
+  "event": "W50 Quebec City",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "osu-w-p6",
+  "name": "Nao Nishino",
+  "teamId": "osu-w",
+  "gender": "women",
+  "opponent": "Shihomi Li Xuan Leong",
+  "event": "W35 Redding",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "fau-m-h11",
+  "name": "Nicolas Jadoun",
+  "teamId": "fau-m",
+  "gender": "men",
+  "opponent": "Parth Aggarwal",
+  "event": "M25 Luanda",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "bay-m-h7",
+  "name": "Oskar Brostrom Poulsen",
+  "teamId": "bay-m",
+  "gender": "men",
+  "opponent": "Nikola Slavic",
+  "event": "M15 Lexington",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "ore-w-p3",
+  "name": "Patsy Daughters",
+  "teamId": "ore-w",
+  "gender": "women",
+  "opponent": "Sydney Jara",
+  "event": "W35 Redding",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "usc-m-h3",
+  "name": "Peter Makk",
+  "teamId": "usc-m",
+  "gender": "men",
+  "opponent": "Ioannis Kountourakis",
+  "event": "M15 Heraklion",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "corn-m-h6",
@@ -341,7 +731,107 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Michele Ribecai",
   "event": "San Gregorio di Catania Challenger",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "neb-w-h7",
+  "name": "Raphaelle Lacasse",
+  "teamId": "neb-w",
+  "gender": "women",
+  "opponent": "Jamilah Snells",
+  "event": "W50 Quebec City",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "tamu-w-n3",
+  "name": "Ruby Cooling",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Natalie Kha",
+  "event": "W35 Redding",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "vt-m-h5",
+  "name": "Ryan Fishback",
+  "teamId": "vt-m",
+  "gender": "men",
+  "opponent": "Facundo Perlov",
+  "event": "M15 Quito",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "penn-w-h1",
+  "name": "Sabine Rutlauka",
+  "teamId": "penn-w",
+  "gender": "women",
+  "opponent": "Anna Kubareva",
+  "event": "W35 Monastir",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-p4",
+  "name": "Salma Drugdova",
+  "teamId": "tex-w",
+  "gender": "women",
+  "opponent": "Mathilde Ngijol-Carre",
+  "event": "W35 Redding",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "tex-m-p8",
+  "name": "Sebastian Gorzny",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Edward Winter",
+  "event": "M25 Austin",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "pepp-w-fp121",
+  "name": "Shihomi Li Xuan Leong",
+  "teamId": "pepp-w",
+  "gender": "women",
+  "opponent": "Nao Nishino",
+  "event": "W35 Redding",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "asu-m-fp38",
+  "name": "Shu Matsuoka",
+  "teamId": "asu-m",
+  "gender": "men",
+  "opponent": "Dominick Mosejczuk",
+  "event": "M25 Austin",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "tenn-w-h9",
+  "name": "Sofia Cabezas",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Thea Frodin",
+  "event": "W100 Edmond",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "uga-p10",
+  "name": "Sofia Rojas",
+  "teamId": "uga-w",
+  "gender": "women",
+  "opponent": "Nina Sozaonova",
+  "event": "W35 Monastir",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "ucf-w-h5",
@@ -351,7 +841,37 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Midori Castillo Meza",
   "event": "W35 Monastir",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "tamu-w-n5",
+  "name": "Sydney Jara",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Patsy Daughters",
+  "event": "W35 Redding",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "tamu-m-p4",
+  "name": "Theo Papamalamis",
+  "teamId": "tamu-m",
+  "gender": "men",
+  "opponent": "Matei Cristian Onofrei",
+  "event": "M15 Lexington",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "lsu-w-h11",
+  "name": "Tilwith Di Girolami",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Stamatia Tsoutsi",
+  "event": "W35 Heraklion",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "stan-m-h16",
@@ -361,7 +881,17 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Alejandro Moro Canas",
   "event": "Maia Challenger",
   "date": "2026-10-13",
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "aub-m-n1",
+  "name": "Tyler Bowers",
+  "teamId": "aub-m",
+  "gender": "men",
+  "opponent": "Matthew Rankin",
+  "event": "M15 Lexington",
+  "date": "2026-10-13",
+  "day": "today"
  },
  {
   "playerId": "aub-m-h1",
@@ -371,11 +901,111 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponent": "Daniel Tazabekov",
   "event": "M15 Heraklion",
   "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "fsu-w-h5",
+  "name": "Victoria Allen",
+  "teamId": "fsu-w",
+  "gender": "women",
+  "opponent": "Elena Malygina",
+  "event": "W35 Birmingham",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "ore-w-p2",
+  "name": "Virginia Crocker",
+  "teamId": "ore-w",
+  "gender": "women",
+  "opponent": "Imogen Haddad",
+  "event": "W35 Redding",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "msu-m-h10",
+  "name": "Vuk Radjenovic",
+  "teamId": "msu-m",
+  "gender": "men",
+  "opponent": "Felix Romeo",
+  "event": "M15 Bol",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "tamu-w-n4",
+  "name": "Yoana Konstantinova",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Delaney Letzel",
+  "event": "W35 Redding",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "fsu-m-h6",
+  "name": "Youcef Rihane",
+  "teamId": "fsu-m",
+  "gender": "men",
+  "opponent": "Jack Loutit",
+  "event": "M15 Lexington",
+  "date": "2026-10-13",
+  "day": "today"
+ },
+ {
+  "playerId": "wash-m-h10",
+  "name": "Clement Chidekh",
+  "teamId": "wash-m",
+  "gender": "men",
+  "opponent": "Jerome Kym",
+  "event": "Roanne Challenger",
+  "date": "2026-10-14",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "cuse-w-h8",
+  "name": "Gabriela Andrea Knutson",
+  "teamId": "cuse-w",
+  "gender": "women",
+  "opponent": "Susan Bandecchi",
+  "event": "RoveretOpen Citta della Pace - Rovereto",
+  "date": "2026-10-14",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tex-m-n3",
+  "name": "Matej Dodig",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Pedro Martinez Portero",
+  "event": "Maia Challenger",
+  "date": "2026-10-14",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "uga-m-h5",
+  "name": "Philip Henning",
+  "teamId": "uga-m",
+  "gender": "men",
+  "opponent": "Dominic Stricker",
+  "event": "Roanne Challenger",
+  "date": "2026-10-14",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "uva-m-h12",
+  "name": "Rafael Jodar",
+  "teamId": "uva-m",
+  "gender": "men",
+  "opponent": "Botic Van De Zandschulp",
+  "event": "Shanghai Rolex Masters - Shanghai",
+  "date": "2026-10-14",
   "day": "tomorrow"
  }
 ];
 
-export const upcomingDates = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomingDates ?? ["2026-10-12","2026-10-13"];
+export const upcomingDates = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomingDates ?? ["2026-10-13","2026-10-14"];
 
 // Scheduled matches for a gender, soonest first (today before tomorrow).
 export function getUpcoming(gender) {
