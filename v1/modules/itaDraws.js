@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Mountain Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:31:42.153Z",
+  "fetchedAt": "2026-10-13T23:01:40.930Z",
   "events": [
    {
     "eventId": "A15E8A0A-367B-4494-B252-10CA2EFC0807",
@@ -20048,7 +20048,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:31:45.463Z",
+  "fetchedAt": "2026-10-13T23:01:43.702Z",
   "events": [
    {
     "eventId": "C3F42B32-D079-4552-98D2-9E89D5B68F7F",
@@ -31234,7 +31234,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Central Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:31:48.330Z",
+  "fetchedAt": "2026-10-13T23:01:46.274Z",
   "events": [
    {
     "eventId": "54AF7B73-1CBD-44D4-A57A-FA562D029737",
@@ -45476,7 +45476,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Carolina Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:31:51.392Z",
+  "fetchedAt": "2026-10-13T23:01:48.593Z",
   "events": [
    {
     "eventId": "4EA0C308-65DD-4DD9-A68E-4DAA07B16460",
@@ -55069,7 +55069,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Texas Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:31:54.264Z",
+  "fetchedAt": "2026-10-13T23:01:50.952Z",
   "events": [
    {
     "eventId": "D774E574-66C0-4881-9702-A47350E90C7B",
@@ -67887,7 +67887,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Ohio Valley Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:31:57.356Z",
+  "fetchedAt": "2026-10-13T23:01:53.358Z",
   "events": [
    {
     "eventId": "27A207E4-0923-42D1-8BFC-F83A17BBCA97",
@@ -79956,7 +79956,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's New England Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:00.493Z",
+  "fetchedAt": "2026-10-13T23:01:55.847Z",
   "events": [
    {
     "eventId": "E8F75619-116F-4CFD-8745-238D006BAD4C",
@@ -89770,7 +89770,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Midwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:03.557Z",
+  "fetchedAt": "2026-10-13T23:01:58.409Z",
   "events": [
    {
     "eventId": "882B1A07-E30B-4FA8-8EA7-A455D7DBE9F5",
@@ -99659,7 +99659,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:06.694Z",
+  "fetchedAt": "2026-10-13T23:02:00.888Z",
   "events": [
    {
     "eventId": "E21C1832-08CA-499C-9DFD-3A0F4F16C283",
@@ -117561,7 +117561,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Atlantic Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:09.914Z",
+  "fetchedAt": "2026-10-13T23:02:03.607Z",
   "events": [
    {
     "eventId": "A7DFD49A-9C2C-4A52-90D2-B643AC6DB270",
@@ -128369,7 +128369,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Ohio Valley Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:12.945Z",
+  "fetchedAt": "2026-10-13T23:02:06.056Z",
   "events": [
    {
     "eventId": "32F41C2E-E703-4CB4-AB6B-51D63252CFE4",
@@ -137885,7 +137885,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southern Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:16.204Z",
+  "fetchedAt": "2026-10-13T23:02:08.565Z",
   "events": [
    {
     "eventId": "E1B6EB4F-5C48-4A97-8503-3E0305186CFF",
@@ -147371,7 +147371,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Texas Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:19.436Z",
+  "fetchedAt": "2026-10-13T23:02:11.102Z",
   "events": [
    {
     "eventId": "ACF820D8-2E63-4784-A364-D1F7B6F91B30",
@@ -158145,7 +158145,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's New England Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:22.658Z",
+  "fetchedAt": "2026-10-13T23:02:13.586Z",
   "events": [
    {
     "eventId": "1104BC4B-FA60-4A4F-9D2D-6A2EE73CFC35",
@@ -165048,7 +165048,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southern Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:25.516Z",
+  "fetchedAt": "2026-10-13T23:02:16.059Z",
   "events": [
    {
     "eventId": "A65C14BF-7C23-40AC-9F86-FE15BBB6786D",
@@ -194263,7 +194263,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Mountain Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:28.655Z",
+  "fetchedAt": "2026-10-13T23:02:18.860Z",
   "events": [
    {
     "eventId": "84A544CC-41AD-4D20-BC59-EE2F6853841B",
@@ -197268,9 +197268,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-3 7-6(3)",
+            "winningSide": 1,
             "when": null,
             "venue": null,
             "sides": [
@@ -197450,9 +197450,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 4-6 [4-10]",
+            "winningSide": 2,
             "when": null,
             "venue": null,
             "sides": [
@@ -197559,9 +197559,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-6 6-4 [10-5]",
+            "winningSide": 1,
             "when": null,
             "venue": null,
             "sides": [
@@ -197799,7 +197799,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Naomi Schraeder",
+              "abbr": null,
+              "school": "University Of Idaho",
+              "pid": null,
+              "wtn": 17.39,
+              "seed": 14
+             },
              {
               "name": "Leyla Tozin",
               "abbr": null,
@@ -197878,7 +197885,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 17.28,
               "seed": 8
              },
-             null
+             {
+              "name": "Lola House",
+              "abbr": null,
+              "school": "Montana State U/Bozeman",
+              "pid": null,
+              "wtn": 18.57,
+              "seed": null
+             }
             ]
            }
           ]
@@ -197907,7 +197921,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Andrea Noguera",
+              "abbr": null,
+              "school": "Northern Arizona University",
+              "pid": null,
+              "wtn": 17.05,
+              "seed": 9
+             }
             ]
            },
            {
@@ -199971,7 +199992,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Central Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:31.458Z",
+  "fetchedAt": "2026-10-13T23:02:21.174Z",
   "events": [
    {
     "eventId": "DBE8AFBA-7DC2-4CC5-9800-13D2B27E27B1",
@@ -202777,7 +202798,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southeast Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:34.186Z",
+  "fetchedAt": "2026-10-13T23:02:23.617Z",
   "events": [
    {
     "eventId": "106447D8-7605-4244-B0F4-D6720DAC32CF",
@@ -210828,7 +210849,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Midwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:37.340Z",
+  "fetchedAt": "2026-10-13T23:02:25.974Z",
   "events": [
    {
     "eventId": "0AEBEE55-A378-4A39-9E3D-6D9C66744574",
@@ -218047,7 +218068,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Atlantic Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:40.237Z",
+  "fetchedAt": "2026-10-13T23:02:28.360Z",
   "events": [
    {
     "eventId": "EFF122C5-8F87-49F5-B9D6-4442692D0669",
@@ -220853,7 +220874,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:42.997Z",
+  "fetchedAt": "2026-10-13T23:02:30.743Z",
   "events": [
    {
     "eventId": "DF37662B-A6F2-4791-881B-37BF9E953B34",
@@ -222775,14 +222796,2796 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Carolina Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:45.919Z",
+  "fetchedAt": "2026-10-13T23:02:33.156Z",
   "events": [
    {
     "eventId": "BBD8E08C-0836-4D64-9BF6-D97620A3333F",
     "name": "Women's open singles",
     "type": "singles",
     "fieldSize": 233,
-    "draws": []
+    "draws": [
+     {
+      "drawName": "Qualifying ",
+      "stage": "QUAL",
+      "kind": "QUAL",
+      "generated": true,
+      "completed": false,
+      "structures": [
+       {
+        "name": "Main",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": false,
+          "seed": 17,
+          "name": "Andrea Chacon",
+          "school": "UNC Charlotte",
+          "abbr": null,
+          "pid": "clt-w-p1",
+          "wtn": 16.14
+         },
+         {
+          "pos": 2,
+          "bye": false,
+          "seed": null,
+          "name": "Sarah Clark",
+          "school": "Coastal Carolina University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.07
+         },
+         {
+          "pos": 3,
+          "bye": false,
+          "seed": null,
+          "name": "Iga Piotrowska",
+          "school": "Elon University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.52
+         },
+         {
+          "pos": 4,
+          "bye": false,
+          "seed": null,
+          "name": "Mathilde Bris",
+          "school": "Queens Univ. Of Charlotte",
+          "abbr": null,
+          "pid": null,
+          "wtn": 19.2
+         },
+         {
+          "pos": 5,
+          "bye": false,
+          "seed": 2,
+          "name": "Simone Bergeron",
+          "school": "Elon University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 15.53
+         },
+         {
+          "pos": 6,
+          "bye": false,
+          "seed": null,
+          "name": "Riley Trinkle",
+          "school": "College Of Charleston",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.76
+         },
+         {
+          "pos": 7,
+          "bye": false,
+          "seed": null,
+          "name": "Taya Powell",
+          "school": "Appalachian State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.69
+         },
+         {
+          "pos": 8,
+          "bye": false,
+          "seed": null,
+          "name": "Katelyn Hubbard",
+          "school": "UNC Wilmington",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.79
+         },
+         {
+          "pos": 9,
+          "bye": false,
+          "seed": 3,
+          "name": "Elizabeth Ivanov",
+          "school": "UNC Charlotte",
+          "abbr": null,
+          "pid": "clt-w-p3",
+          "wtn": 15.54
+         },
+         {
+          "pos": 10,
+          "bye": false,
+          "seed": null,
+          "name": "Floortje Chrisstoffels",
+          "school": "Coastal Carolina University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 19.01
+         },
+         {
+          "pos": 11,
+          "bye": false,
+          "seed": null,
+          "name": "Katerina Marsalkova",
+          "school": "South Carolina State Univ.",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.62
+         },
+         {
+          "pos": 12,
+          "bye": false,
+          "seed": null,
+          "name": "Aubrey Nisbet",
+          "school": "Wake Forest University",
+          "abbr": null,
+          "pid": "wake-w-p6",
+          "wtn": 17.57
+         },
+         {
+          "pos": 13,
+          "bye": false,
+          "seed": 4,
+          "name": "Oziera Ahmad",
+          "school": "College Of Charleston",
+          "abbr": null,
+          "pid": null,
+          "wtn": 15.56
+         },
+         {
+          "pos": 14,
+          "bye": false,
+          "seed": null,
+          "name": "Amalia Widdowson",
+          "school": "UNC Charlotte",
+          "abbr": null,
+          "pid": "clt-w-p7",
+          "wtn": 16.97
+         },
+         {
+          "pos": 15,
+          "bye": false,
+          "seed": null,
+          "name": "Brenda Yoris",
+          "school": "Charleston Southern Univ.",
+          "abbr": null,
+          "pid": null,
+          "wtn": 18.1
+         },
+         {
+          "pos": 16,
+          "bye": false,
+          "seed": null,
+          "name": "Mia Miranda",
+          "school": "Western Carolina University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.98
+         },
+         {
+          "pos": 17,
+          "bye": false,
+          "seed": 5,
+          "name": "Aida Maria Mitrache",
+          "school": "Coastal Carolina University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 15.58
+         },
+         {
+          "pos": 18,
+          "bye": false,
+          "seed": null,
+          "name": "Harper SANTOS",
+          "school": "College Of Charleston",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.94
+         },
+         {
+          "pos": 19,
+          "bye": false,
+          "seed": null,
+          "name": "Charlotte Calderwood",
+          "school": "Davidson College",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.47
+         },
+         {
+          "pos": 20,
+          "bye": false,
+          "seed": null,
+          "name": "Shamiso Ndoro",
+          "school": "Appalachian State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.92
+         },
+         {
+          "pos": 21,
+          "bye": false,
+          "seed": 6,
+          "name": "Francie Pate",
+          "school": "University Of South Carolina",
+          "abbr": null,
+          "pid": "sc-w-n1",
+          "wtn": 15.61
+         },
+         {
+          "pos": 22,
+          "bye": false,
+          "seed": null,
+          "name": "Sophia Kovacheva",
+          "school": "College Of Charleston",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.43
+         },
+         {
+          "pos": 23,
+          "bye": false,
+          "seed": null,
+          "name": "Catherine Rennard",
+          "school": "Wake Forest University",
+          "abbr": null,
+          "pid": "wake-w-n2",
+          "wtn": 16.23
+         },
+         {
+          "pos": 24,
+          "bye": false,
+          "seed": null,
+          "name": "Sara Kostic",
+          "school": "UNC Greensboro",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.73
+         },
+         {
+          "pos": 25,
+          "bye": false,
+          "seed": 7,
+          "name": "Karina Mohamed",
+          "school": "UNC Charlotte",
+          "abbr": null,
+          "pid": "clt-w-p4",
+          "wtn": 15.64
+         },
+         {
+          "pos": 26,
+          "bye": false,
+          "seed": null,
+          "name": "Sara Borkop",
+          "school": "University Of South Carolina",
+          "abbr": null,
+          "pid": "sc-p2",
+          "wtn": 16.25
+         },
+         {
+          "pos": 27,
+          "bye": false,
+          "seed": null,
+          "name": "Olivia BULL",
+          "school": "College Of Charleston",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.11
+         },
+         {
+          "pos": 28,
+          "bye": false,
+          "seed": null,
+          "name": "Bianca Ceroni",
+          "school": "Furman University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.64
+         },
+         {
+          "pos": 29,
+          "bye": false,
+          "seed": 8,
+          "name": "Candela Yecora",
+          "school": "Clemson University",
+          "abbr": null,
+          "pid": "clem-w-p5",
+          "wtn": 15.64
+         },
+         {
+          "pos": 30,
+          "bye": false,
+          "seed": null,
+          "name": "Tabeth Tadoum",
+          "school": "North Carolina A&T State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 20.22
+         },
+         {
+          "pos": 31,
+          "bye": false,
+          "seed": null,
+          "name": "Lily Bazemore",
+          "school": "Appalachian State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.68
+         },
+         {
+          "pos": 32,
+          "bye": false,
+          "seed": null,
+          "name": "Francisca Laundes",
+          "school": "Coastal Carolina University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 18.04
+         },
+         {
+          "pos": 33,
+          "bye": false,
+          "seed": 9,
+          "name": "Avery Nguyen",
+          "school": "UNC Chapel Hill",
+          "abbr": null,
+          "pid": "unc-w-n2",
+          "wtn": 16.96
+         },
+         {
+          "pos": 34,
+          "bye": false,
+          "seed": null,
+          "name": "Giorgia de Grisogono",
+          "school": "East Carolina University",
+          "abbr": null,
+          "pid": "ecu-w-p4",
+          "wtn": 17.71
+         },
+         {
+          "pos": 35,
+          "bye": false,
+          "seed": null,
+          "name": "Martina Vazquez Valles",
+          "school": "Charleston Southern Univ.",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.3
+         },
+         {
+          "pos": 36,
+          "bye": false,
+          "seed": null,
+          "name": "Amelie Drukerova",
+          "school": "UNC Charlotte",
+          "abbr": null,
+          "pid": "clt-w-p2",
+          "wtn": 17.26
+         },
+         {
+          "pos": 37,
+          "bye": false,
+          "seed": 13,
+          "name": "Lisa Kranec",
+          "school": "Elon University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.02
+         },
+         {
+          "pos": 38,
+          "bye": false,
+          "seed": null,
+          "name": "Mary Grace Rennard",
+          "school": "UNC Chapel Hill",
+          "abbr": null,
+          "pid": "unc-w-p10",
+          "wtn": 16.25
+         },
+         {
+          "pos": 39,
+          "bye": false,
+          "seed": null,
+          "name": "Molly Robinson",
+          "school": "Furman University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.64
+         },
+         {
+          "pos": 40,
+          "bye": false,
+          "seed": null,
+          "name": "Charlotte Vanstone McGrath",
+          "school": "Coastal Carolina University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.27
+         },
+         {
+          "pos": 41,
+          "bye": false,
+          "seed": 12,
+          "name": "Celia Anson Sanchez",
+          "school": "Clemson University",
+          "abbr": null,
+          "pid": "clem-w-n2",
+          "wtn": 15.89
+         },
+         {
+          "pos": 42,
+          "bye": false,
+          "seed": null,
+          "name": "Mollie Garcia",
+          "school": "Coastal Carolina University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.05
+         },
+         {
+          "pos": 43,
+          "bye": false,
+          "seed": null,
+          "name": "Thalia Smith",
+          "school": "Western Carolina University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.17
+         },
+         {
+          "pos": 44,
+          "bye": false,
+          "seed": null,
+          "name": "Mariana Reding",
+          "school": "Elon University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.64
+         },
+         {
+          "pos": 45,
+          "bye": false,
+          "seed": 15,
+          "name": "Kady Tannenbaum",
+          "school": "Wake Forest University",
+          "abbr": null,
+          "pid": "wake-w-p9",
+          "wtn": 16.1
+         },
+         {
+          "pos": 46,
+          "bye": false,
+          "seed": null,
+          "name": "Alana Boyce",
+          "school": "UNC Chapel Hill",
+          "abbr": null,
+          "pid": "unc-w-p1",
+          "wtn": 16.29
+         },
+         {
+          "pos": 47,
+          "bye": false,
+          "seed": null,
+          "name": "Lisa Dierick",
+          "school": "Elon University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.04
+         },
+         {
+          "pos": 48,
+          "bye": false,
+          "seed": null,
+          "name": "Allegra Hodson",
+          "school": "Appalachian State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.98
+         },
+         {
+          "pos": 49,
+          "bye": false,
+          "seed": 16,
+          "name": "Lillian Santos",
+          "school": "Wake Forest University",
+          "abbr": null,
+          "pid": "wake-w-n3",
+          "wtn": 16.12
+         },
+         {
+          "pos": 50,
+          "bye": false,
+          "seed": null,
+          "name": "Alexis Nyborg",
+          "school": "Elon University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.13
+         },
+         {
+          "pos": 51,
+          "bye": false,
+          "seed": null,
+          "name": "Kayley Bushnell",
+          "school": "UNC Greensboro",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.91
+         },
+         {
+          "pos": 52,
+          "bye": false,
+          "seed": null,
+          "name": "Paula Dougherty",
+          "school": "College Of Charleston",
+          "abbr": null,
+          "pid": "clt-w-fp125",
+          "wtn": 17.71
+         },
+         {
+          "pos": 53,
+          "bye": false,
+          "seed": 10,
+          "name": "Macy Hitchcock",
+          "school": "Furman University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 15.73
+         },
+         {
+          "pos": 54,
+          "bye": false,
+          "seed": null,
+          "name": "Alexandria Warsing",
+          "school": "Elon University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.7
+         },
+         {
+          "pos": 55,
+          "bye": false,
+          "seed": null,
+          "name": "Heidi Bulger",
+          "school": "Wake Forest University",
+          "abbr": null,
+          "pid": "wake-w-p2",
+          "wtn": 17.14
+         },
+         {
+          "pos": 56,
+          "bye": false,
+          "seed": null,
+          "name": "Ruby Broadbent",
+          "school": "Appalachian State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.04
+         },
+         {
+          "pos": 57,
+          "bye": false,
+          "seed": 14,
+          "name": "Diana Zuba",
+          "school": "Coastal Carolina University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.1
+         },
+         {
+          "pos": 58,
+          "bye": false,
+          "seed": null,
+          "name": "Sasha Dimitrov",
+          "school": "Furman University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.69
+         },
+         {
+          "pos": 59,
+          "bye": false,
+          "seed": null,
+          "name": "Marra Bruce",
+          "school": "College Of Charleston",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.3
+         },
+         {
+          "pos": 60,
+          "bye": false,
+          "seed": null,
+          "name": "Carle Botha",
+          "school": "Charleston Southern Univ.",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.63
+         },
+         {
+          "pos": 61,
+          "bye": false,
+          "seed": 11,
+          "name": "Sonja Rooth",
+          "school": "Elon University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 15.78
+         },
+         {
+          "pos": 62,
+          "bye": false,
+          "seed": null,
+          "name": "Emma Montebello",
+          "school": "UNC Charlotte",
+          "abbr": null,
+          "pid": "clt-w-p5",
+          "wtn": 16.36
+         },
+         {
+          "pos": 63,
+          "bye": false,
+          "seed": null,
+          "name": "Zelie Bretin",
+          "school": "East Carolina University",
+          "abbr": null,
+          "pid": "ecu-w-p2",
+          "wtn": 18.02
+         },
+         {
+          "pos": 64,
+          "bye": false,
+          "seed": null,
+          "name": "Paulina Villegas Robles",
+          "school": "Presbyterian College",
+          "abbr": null,
+          "pid": null,
+          "wtn": 18.2
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Andrea Chacon",
+              "abbr": null,
+              "school": "UNC Charlotte",
+              "pid": "clt-w-p1",
+              "wtn": 16.14,
+              "seed": 17
+             },
+             {
+              "name": "Sarah Clark",
+              "abbr": null,
+              "school": "Coastal Carolina University",
+              "pid": null,
+              "wtn": 17.07,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Iga Piotrowska",
+              "abbr": null,
+              "school": "Elon University",
+              "pid": null,
+              "wtn": 16.52,
+              "seed": null
+             },
+             {
+              "name": "Mathilde Bris",
+              "abbr": null,
+              "school": "Queens Univ. Of Charlotte",
+              "pid": null,
+              "wtn": 19.2,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Simone Bergeron",
+              "abbr": null,
+              "school": "Elon University",
+              "pid": null,
+              "wtn": 15.53,
+              "seed": 2
+             },
+             {
+              "name": "Riley Trinkle",
+              "abbr": null,
+              "school": "College Of Charleston",
+              "pid": null,
+              "wtn": 17.76,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Taya Powell",
+              "abbr": null,
+              "school": "Appalachian State University",
+              "pid": null,
+              "wtn": 17.69,
+              "seed": null
+             },
+             {
+              "name": "Katelyn Hubbard",
+              "abbr": null,
+              "school": "UNC Wilmington",
+              "pid": null,
+              "wtn": 17.79,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Elizabeth Ivanov",
+              "abbr": null,
+              "school": "UNC Charlotte",
+              "pid": "clt-w-p3",
+              "wtn": 15.54,
+              "seed": 3
+             },
+             {
+              "name": "Floortje Chrisstoffels",
+              "abbr": null,
+              "school": "Coastal Carolina University",
+              "pid": null,
+              "wtn": 19.01,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Katerina Marsalkova",
+              "abbr": null,
+              "school": "South Carolina State Univ.",
+              "pid": null,
+              "wtn": 17.62,
+              "seed": null
+             },
+             {
+              "name": "Aubrey Nisbet",
+              "abbr": null,
+              "school": "Wake Forest University",
+              "pid": "wake-w-p6",
+              "wtn": 17.57,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Oziera Ahmad",
+              "abbr": null,
+              "school": "College Of Charleston",
+              "pid": null,
+              "wtn": 15.56,
+              "seed": 4
+             },
+             {
+              "name": "Amalia Widdowson",
+              "abbr": null,
+              "school": "UNC Charlotte",
+              "pid": "clt-w-p7",
+              "wtn": 16.97,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Brenda Yoris",
+              "abbr": null,
+              "school": "Charleston Southern Univ.",
+              "pid": null,
+              "wtn": 18.1,
+              "seed": null
+             },
+             {
+              "name": "Mia Miranda",
+              "abbr": null,
+              "school": "Western Carolina University",
+              "pid": null,
+              "wtn": 17.98,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Aida Maria Mitrache",
+              "abbr": null,
+              "school": "Coastal Carolina University",
+              "pid": null,
+              "wtn": 15.58,
+              "seed": 5
+             },
+             {
+              "name": "Harper SANTOS",
+              "abbr": null,
+              "school": "College Of Charleston",
+              "pid": null,
+              "wtn": 17.94,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Charlotte Calderwood",
+              "abbr": null,
+              "school": "Davidson College",
+              "pid": null,
+              "wtn": 17.47,
+              "seed": null
+             },
+             {
+              "name": "Shamiso Ndoro",
+              "abbr": null,
+              "school": "Appalachian State University",
+              "pid": null,
+              "wtn": 17.92,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Francie Pate",
+              "abbr": null,
+              "school": "University Of South Carolina",
+              "pid": "sc-w-n1",
+              "wtn": 15.61,
+              "seed": 6
+             },
+             {
+              "name": "Sophia Kovacheva",
+              "abbr": null,
+              "school": "College Of Charleston",
+              "pid": null,
+              "wtn": 17.43,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Catherine Rennard",
+              "abbr": null,
+              "school": "Wake Forest University",
+              "pid": "wake-w-n2",
+              "wtn": 16.23,
+              "seed": null
+             },
+             {
+              "name": "Sara Kostic",
+              "abbr": null,
+              "school": "UNC Greensboro",
+              "pid": null,
+              "wtn": 17.73,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Karina Mohamed",
+              "abbr": null,
+              "school": "UNC Charlotte",
+              "pid": "clt-w-p4",
+              "wtn": 15.64,
+              "seed": 7
+             },
+             {
+              "name": "Sara Borkop",
+              "abbr": null,
+              "school": "University Of South Carolina",
+              "pid": "sc-p2",
+              "wtn": 16.25,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Olivia BULL",
+              "abbr": null,
+              "school": "College Of Charleston",
+              "pid": null,
+              "wtn": 17.11,
+              "seed": null
+             },
+             {
+              "name": "Bianca Ceroni",
+              "abbr": null,
+              "school": "Furman University",
+              "pid": null,
+              "wtn": 16.64,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Candela Yecora",
+              "abbr": null,
+              "school": "Clemson University",
+              "pid": "clem-w-p5",
+              "wtn": 15.64,
+              "seed": 8
+             },
+             {
+              "name": "Tabeth Tadoum",
+              "abbr": null,
+              "school": "North Carolina A&T State University",
+              "pid": null,
+              "wtn": 20.22,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Lily Bazemore",
+              "abbr": null,
+              "school": "Appalachian State University",
+              "pid": null,
+              "wtn": 17.68,
+              "seed": null
+             },
+             {
+              "name": "Francisca Laundes",
+              "abbr": null,
+              "school": "Coastal Carolina University",
+              "pid": null,
+              "wtn": 18.04,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Avery Nguyen",
+              "abbr": null,
+              "school": "UNC Chapel Hill",
+              "pid": "unc-w-n2",
+              "wtn": 16.96,
+              "seed": 9
+             },
+             {
+              "name": "Giorgia de Grisogono",
+              "abbr": null,
+              "school": "East Carolina University",
+              "pid": "ecu-w-p4",
+              "wtn": 17.71,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Martina Vazquez Valles",
+              "abbr": null,
+              "school": "Charleston Southern Univ.",
+              "pid": null,
+              "wtn": 17.3,
+              "seed": null
+             },
+             {
+              "name": "Amelie Drukerova",
+              "abbr": null,
+              "school": "UNC Charlotte",
+              "pid": "clt-w-p2",
+              "wtn": 17.26,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Lisa Kranec",
+              "abbr": null,
+              "school": "Elon University",
+              "pid": null,
+              "wtn": 16.02,
+              "seed": 13
+             },
+             {
+              "name": "Mary Grace Rennard",
+              "abbr": null,
+              "school": "UNC Chapel Hill",
+              "pid": "unc-w-p10",
+              "wtn": 16.25,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T11:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Molly Robinson",
+              "abbr": null,
+              "school": "Furman University",
+              "pid": null,
+              "wtn": 16.64,
+              "seed": null
+             },
+             {
+              "name": "Charlotte Vanstone McGrath",
+              "abbr": null,
+              "school": "Coastal Carolina University",
+              "pid": null,
+              "wtn": 16.27,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T11:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Celia Anson Sanchez",
+              "abbr": null,
+              "school": "Clemson University",
+              "pid": "clem-w-n2",
+              "wtn": 15.89,
+              "seed": 12
+             },
+             {
+              "name": "Mollie Garcia",
+              "abbr": null,
+              "school": "Coastal Carolina University",
+              "pid": null,
+              "wtn": 17.05,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T11:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Thalia Smith",
+              "abbr": null,
+              "school": "Western Carolina University",
+              "pid": null,
+              "wtn": 17.17,
+              "seed": null
+             },
+             {
+              "name": "Mariana Reding",
+              "abbr": null,
+              "school": "Elon University",
+              "pid": null,
+              "wtn": 16.64,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T11:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Kady Tannenbaum",
+              "abbr": null,
+              "school": "Wake Forest University",
+              "pid": "wake-w-p9",
+              "wtn": 16.1,
+              "seed": 15
+             },
+             {
+              "name": "Alana Boyce",
+              "abbr": null,
+              "school": "UNC Chapel Hill",
+              "pid": "unc-w-p1",
+              "wtn": 16.29,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T11:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Lisa Dierick",
+              "abbr": null,
+              "school": "Elon University",
+              "pid": null,
+              "wtn": 17.04,
+              "seed": null
+             },
+             {
+              "name": "Allegra Hodson",
+              "abbr": null,
+              "school": "Appalachian State University",
+              "pid": null,
+              "wtn": 17.98,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T11:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Lillian Santos",
+              "abbr": null,
+              "school": "Wake Forest University",
+              "pid": "wake-w-n3",
+              "wtn": 16.12,
+              "seed": 16
+             },
+             {
+              "name": "Alexis Nyborg",
+              "abbr": null,
+              "school": "Elon University",
+              "pid": null,
+              "wtn": 17.13,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T12:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Kayley Bushnell",
+              "abbr": null,
+              "school": "UNC Greensboro",
+              "pid": null,
+              "wtn": 17.91,
+              "seed": null
+             },
+             {
+              "name": "Paula Dougherty",
+              "abbr": null,
+              "school": "College Of Charleston",
+              "pid": "clt-w-fp125",
+              "wtn": 17.71,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T12:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Macy Hitchcock",
+              "abbr": null,
+              "school": "Furman University",
+              "pid": null,
+              "wtn": 15.73,
+              "seed": 10
+             },
+             {
+              "name": "Alexandria Warsing",
+              "abbr": null,
+              "school": "Elon University",
+              "pid": null,
+              "wtn": 16.7,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T12:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Heidi Bulger",
+              "abbr": null,
+              "school": "Wake Forest University",
+              "pid": "wake-w-p2",
+              "wtn": 17.14,
+              "seed": null
+             },
+             {
+              "name": "Ruby Broadbent",
+              "abbr": null,
+              "school": "Appalachian State University",
+              "pid": null,
+              "wtn": 17.04,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T12:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Diana Zuba",
+              "abbr": null,
+              "school": "Coastal Carolina University",
+              "pid": null,
+              "wtn": 16.1,
+              "seed": 14
+             },
+             {
+              "name": "Sasha Dimitrov",
+              "abbr": null,
+              "school": "Furman University",
+              "pid": null,
+              "wtn": 16.69,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T12:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Marra Bruce",
+              "abbr": null,
+              "school": "College Of Charleston",
+              "pid": null,
+              "wtn": 17.3,
+              "seed": null
+             },
+             {
+              "name": "Carle Botha",
+              "abbr": null,
+              "school": "Charleston Southern Univ.",
+              "pid": null,
+              "wtn": 17.63,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T12:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Sonja Rooth",
+              "abbr": null,
+              "school": "Elon University",
+              "pid": null,
+              "wtn": 15.78,
+              "seed": 11
+             },
+             {
+              "name": "Emma Montebello",
+              "abbr": null,
+              "school": "UNC Charlotte",
+              "pid": "clt-w-p5",
+              "wtn": 16.36,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T12:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Zelie Bretin",
+              "abbr": null,
+              "school": "East Carolina University",
+              "pid": "ecu-w-p2",
+              "wtn": 18.02,
+              "seed": null
+             },
+             {
+              "name": "Paulina Villegas Robles",
+              "abbr": null,
+              "school": "Presbyterian College",
+              "pid": null,
+              "wtn": 18.2,
+              "seed": null
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T15:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T15:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 5,
+          "matchUps": [
+           {
+            "roundName": "Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 6,
+          "matchUps": [
+           {
+            "roundName": "Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Consolation",
+        "stage": "CONSOLATION",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 9,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 12,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 13,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 14,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 15,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 16,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 17,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 18,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 19,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 20,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 21,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 22,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 23,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 24,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 25,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 26,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 27,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 28,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 29,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 30,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 31,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 32,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 33,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 34,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 35,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 36,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 37,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 38,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 39,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 40,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 41,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 42,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 43,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 44,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 45,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 46,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 47,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 48,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T15:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T15:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T15:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T15:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T16:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T16:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "C-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "C-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 5,
+          "matchUps": [
+           {
+            "roundName": "C-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 6,
+          "matchUps": [
+           {
+            "roundName": "C-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
    },
    {
     "eventId": "13A90F21-7D31-4331-9BF0-4E8469F2FDA6",
@@ -222799,7 +225602,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:48.669Z",
+  "fetchedAt": "2026-10-13T23:02:35.381Z",
   "events": [
    {
     "eventId": "DED64A6D-F501-4CAE-9864-B5471E31510E",
@@ -231100,7 +233903,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Northeast Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:51.575Z",
+  "fetchedAt": "2026-10-13T23:02:37.752Z",
   "events": [
    {
     "eventId": "5258E9B1-DFD6-48E8-8883-268B437D1360",
@@ -231124,7 +233927,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Northwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T22:32:54.372Z",
+  "fetchedAt": "2026-10-13T23:02:40.122Z",
   "events": [
    {
     "eventId": "146A7A03-568C-46C5-BD37-575D89BDD005",
