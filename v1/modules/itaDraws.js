@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Mountain Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:01:44.217Z",
+  "fetchedAt": "2026-10-13T15:31:47.174Z",
   "events": [
    {
     "eventId": "A15E8A0A-367B-4494-B252-10CA2EFC0807",
@@ -20048,7 +20048,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:01:47.562Z",
+  "fetchedAt": "2026-10-13T15:31:50.224Z",
   "events": [
    {
     "eventId": "C3F42B32-D079-4552-98D2-9E89D5B68F7F",
@@ -31234,7 +31234,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Central Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:01:50.733Z",
+  "fetchedAt": "2026-10-13T15:31:53.173Z",
   "events": [
    {
     "eventId": "54AF7B73-1CBD-44D4-A57A-FA562D029737",
@@ -45476,7 +45476,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Carolina Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:01:53.856Z",
+  "fetchedAt": "2026-10-13T15:31:56.238Z",
   "events": [
    {
     "eventId": "4EA0C308-65DD-4DD9-A68E-4DAA07B16460",
@@ -55069,7 +55069,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Texas Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:01:56.788Z",
+  "fetchedAt": "2026-10-13T15:31:58.944Z",
   "events": [
    {
     "eventId": "D774E574-66C0-4881-9702-A47350E90C7B",
@@ -67887,7 +67887,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Ohio Valley Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:01:59.891Z",
+  "fetchedAt": "2026-10-13T15:32:01.987Z",
   "events": [
    {
     "eventId": "27A207E4-0923-42D1-8BFC-F83A17BBCA97",
@@ -70179,7 +70179,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "Final",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-10-13T11:30",
@@ -77096,9 +77096,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "Semifinals",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "0-6 1-6",
+            "winningSide": 2,
             "when": "2026-10-13T10:00",
             "venue": "Lindner Family Tennis Center",
             "sides": [
@@ -77122,7 +77122,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "Semifinals",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-10-13T10:00",
@@ -77159,7 +77159,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Julia Zhu",
+              "abbr": null,
+              "school": "University Of Kentucky",
+              "pid": "uk-p10",
+              "wtn": 14.98,
+              "seed": 11
+             },
              null
             ]
            }
@@ -79942,7 +79949,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's New England Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:03.177Z",
+  "fetchedAt": "2026-10-13T15:32:04.563Z",
   "events": [
    {
     "eventId": "E8F75619-116F-4CFD-8745-238D006BAD4C",
@@ -89756,7 +89763,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Midwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:06.273Z",
+  "fetchedAt": "2026-10-13T15:32:07.286Z",
   "events": [
    {
     "eventId": "882B1A07-E30B-4FA8-8EA7-A455D7DBE9F5",
@@ -99577,7 +99584,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:09.399Z",
+  "fetchedAt": "2026-10-13T15:32:10.385Z",
   "events": [
    {
     "eventId": "E21C1832-08CA-499C-9DFD-3A0F4F16C283",
@@ -113947,7 +113954,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            {
             "roundName": "Final",
             "status": "COMPLETED",
-            "score": "6-4 3-6 [8-10]",
+            "score": "4-6 6-3 [8-10]",
             "winningSide": 2,
             "when": "2026-10-12T11:00",
             "venue": "Stanford University",
@@ -117479,7 +117486,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Atlantic Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:12.672Z",
+  "fetchedAt": "2026-10-13T15:32:13.230Z",
   "events": [
    {
     "eventId": "A7DFD49A-9C2C-4A52-90D2-B643AC6DB270",
@@ -128287,7 +128294,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Ohio Valley Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:15.578Z",
+  "fetchedAt": "2026-10-13T15:32:15.871Z",
   "events": [
    {
     "eventId": "32F41C2E-E703-4CB4-AB6B-51D63252CFE4",
@@ -137803,7 +137810,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southern Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:18.750Z",
+  "fetchedAt": "2026-10-13T15:32:18.437Z",
   "events": [
    {
     "eventId": "E1B6EB4F-5C48-4A97-8503-3E0305186CFF",
@@ -147289,7 +147296,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Texas Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:21.986Z",
+  "fetchedAt": "2026-10-13T15:32:20.972Z",
   "events": [
    {
     "eventId": "ACF820D8-2E63-4784-A364-D1F7B6F91B30",
@@ -158063,7 +158070,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's New England Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:25.052Z",
+  "fetchedAt": "2026-10-13T15:32:23.526Z",
   "events": [
    {
     "eventId": "1104BC4B-FA60-4A4F-9D2D-6A2EE73CFC35",
@@ -164959,7 +164966,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southern Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:27.926Z",
+  "fetchedAt": "2026-10-13T15:32:26.334Z",
   "events": [
    {
     "eventId": "A65C14BF-7C23-40AC-9F86-FE15BBB6786D",
@@ -194174,7 +194181,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Mountain Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:31.348Z",
+  "fetchedAt": "2026-10-13T15:32:29.356Z",
   "events": [
    {
     "eventId": "84A544CC-41AD-4D20-BC59-EE2F6853841B",
@@ -194182,6 +194189,1721 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
     "type": "singles",
     "fieldSize": 208,
     "draws": [
+     {
+      "drawName": "Singles Main Draw",
+      "stage": "MAIN",
+      "kind": "MAIN",
+      "generated": true,
+      "completed": false,
+      "structures": [
+       {
+        "name": "Main",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": false,
+          "seed": 1,
+          "name": "Sara Akid",
+          "school": "University Of Utah",
+          "abbr": null,
+          "pid": "utah-w-p2",
+          "wtn": 14.39
+         },
+         {
+          "pos": 2,
+          "bye": false,
+          "seed": null,
+          "name": "Chahd Tourkhani",
+          "school": "Utah State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.76
+         },
+         {
+          "pos": 3,
+          "bye": false,
+          "seed": null,
+          "name": "YU-CHING HSIEH",
+          "school": "University Of Idaho",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.73
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": false,
+          "seed": 6,
+          "name": "Heidi Crncan",
+          "school": "University Of Colorado",
+          "abbr": null,
+          "pid": "colo-w-p4",
+          "wtn": 15.93
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": false,
+          "seed": null,
+          "name": "Bella Lewis",
+          "school": "Brigham Young University",
+          "abbr": null,
+          "pid": "byu-w-p5",
+          "wtn": 16.64
+         },
+         {
+          "pos": 8,
+          "bye": false,
+          "seed": null,
+          "name": "Stephanie Marcheret",
+          "school": "U.S. Air Force Academy",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.46
+         },
+         {
+          "pos": 9,
+          "bye": false,
+          "seed": 3,
+          "name": "Nikol Mircheva",
+          "school": "Univ. Of Nevada, Las Vegas",
+          "abbr": null,
+          "pid": null,
+          "wtn": 15.29
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": false,
+          "seed": null,
+          "name": "Valentina Vachkova",
+          "school": "Boise State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.72
+         },
+         {
+          "pos": 12,
+          "bye": false,
+          "seed": null,
+          "name": "Whitney Moon",
+          "school": "New Mexico State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 18.66
+         },
+         {
+          "pos": 13,
+          "bye": false,
+          "seed": 2,
+          "name": "Sue Yan Tan",
+          "school": "Brigham Young University",
+          "abbr": null,
+          "pid": "byu-w-p7",
+          "wtn": 15.76
+         },
+         {
+          "pos": 14,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 15,
+          "bye": false,
+          "seed": null,
+          "name": "Vianca Corley",
+          "school": "University Of New Mexico",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.97
+         },
+         {
+          "pos": 16,
+          "bye": false,
+          "seed": null,
+          "name": "Emi Dowdell",
+          "school": "University Of Utah",
+          "abbr": null,
+          "pid": "utah-w-p1",
+          "wtn": 16.57
+         },
+         {
+          "pos": 17,
+          "bye": false,
+          "seed": 5,
+          "name": "Allison Isaacs",
+          "school": "Boise State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 14.84
+         },
+         {
+          "pos": 18,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 19,
+          "bye": false,
+          "seed": null,
+          "name": "Cara Korhonen",
+          "school": "Brigham Young University",
+          "abbr": null,
+          "pid": "byu-w-p4",
+          "wtn": 16.09
+         },
+         {
+          "pos": 20,
+          "bye": false,
+          "seed": null,
+          "name": "Ema Bubalo",
+          "school": "University Of Colorado",
+          "abbr": null,
+          "pid": "colo-w-p3",
+          "wtn": 16.28
+         },
+         {
+          "pos": 21,
+          "bye": false,
+          "seed": 15,
+          "name": "Kara Garcia",
+          "school": "University Of Utah",
+          "abbr": null,
+          "pid": "utah-w-p4",
+          "wtn": 15.69
+         },
+         {
+          "pos": 22,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 23,
+          "bye": false,
+          "seed": null,
+          "name": "Defne Aydemir",
+          "school": "University Of Nevada",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.67
+         },
+         {
+          "pos": 24,
+          "bye": false,
+          "seed": null,
+          "name": "Wencong Song",
+          "school": "Weber State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 18.11
+         },
+         {
+          "pos": 25,
+          "bye": false,
+          "seed": 14,
+          "name": "Anastasiia Kochelaevskaia",
+          "school": "University Of Wyoming",
+          "abbr": null,
+          "pid": null,
+          "wtn": 15.34
+         },
+         {
+          "pos": 26,
+          "bye": false,
+          "seed": null,
+          "name": "Giulia Alexandra Musat",
+          "school": "Utah State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.8
+         },
+         {
+          "pos": 27,
+          "bye": false,
+          "seed": null,
+          "name": "Rebecka Jerlardtz",
+          "school": "University Of Montana",
+          "abbr": null,
+          "pid": null,
+          "wtn": 18.3
+         },
+         {
+          "pos": 28,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 29,
+          "bye": false,
+          "seed": 17,
+          "name": "Sephi Sheng",
+          "school": "Brigham Young University",
+          "abbr": null,
+          "pid": "byu-w-p6",
+          "wtn": 16.07
+         },
+         {
+          "pos": 30,
+          "bye": false,
+          "seed": null,
+          "name": "Natalie Rainke",
+          "school": "Northern Arizona University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.47
+         },
+         {
+          "pos": 31,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 32,
+          "bye": false,
+          "seed": null,
+          "name": "Nike Lenz",
+          "school": "University Of Utah",
+          "abbr": null,
+          "pid": "utah-w-p5",
+          "wtn": 16.82
+         },
+         {
+          "pos": 33,
+          "bye": false,
+          "seed": null,
+          "name": "Sage Bergeson",
+          "school": "Brigham Young University",
+          "abbr": null,
+          "pid": "byu-w-p1",
+          "wtn": 16.23
+         },
+         {
+          "pos": 34,
+          "bye": false,
+          "seed": null,
+          "name": "Lera Alexin",
+          "school": "University Of Colorado",
+          "abbr": null,
+          "pid": "colo-w-p1",
+          "wtn": 16.21
+         },
+         {
+          "pos": 35,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 36,
+          "bye": false,
+          "seed": 9,
+          "name": "Hudson Hawkins",
+          "school": "Univ. Of Nevada, Las Vegas",
+          "abbr": null,
+          "pid": null,
+          "wtn": 15.65
+         },
+         {
+          "pos": 37,
+          "bye": false,
+          "seed": null,
+          "name": "Angel Bean",
+          "school": "Montana State U/Bozeman",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.23
+         },
+         {
+          "pos": 38,
+          "bye": false,
+          "seed": null,
+          "name": "Terezia Mlkva",
+          "school": "Utah State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.3
+         },
+         {
+          "pos": 39,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 40,
+          "bye": false,
+          "seed": 7,
+          "name": "Yu-Yun Chen",
+          "school": "Brigham Young University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 15.63
+         },
+         {
+          "pos": 41,
+          "bye": false,
+          "seed": null,
+          "name": "Maya Michalski",
+          "school": "U.S. Air Force Academy",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.51
+         },
+         {
+          "pos": 42,
+          "bye": false,
+          "seed": null,
+          "name": "Mariana Zurita Berdecio",
+          "school": "Utah Tech",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.72
+         },
+         {
+          "pos": 43,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 44,
+          "bye": false,
+          "seed": 4,
+          "name": "Tereza Polakova",
+          "school": "Boise State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 15.7
+         },
+         {
+          "pos": 45,
+          "bye": false,
+          "seed": null,
+          "name": "Allegra van der Walt",
+          "school": "Brigham Young University",
+          "abbr": null,
+          "pid": "byu-w-p8",
+          "wtn": 16.51
+         },
+         {
+          "pos": 46,
+          "bye": false,
+          "seed": null,
+          "name": "Sorcha Caves",
+          "school": "Colorado State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.48
+         },
+         {
+          "pos": 47,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 48,
+          "bye": false,
+          "seed": 10,
+          "name": "Emmie Moore",
+          "school": "University Of Utah",
+          "abbr": null,
+          "pid": "utah-w-p7",
+          "wtn": 15.25
+         },
+         {
+          "pos": 49,
+          "bye": false,
+          "seed": null,
+          "name": "Elena Daskalova",
+          "school": "University Of Utah",
+          "abbr": null,
+          "pid": "utah-w-p3",
+          "wtn": 16.32
+         },
+         {
+          "pos": 50,
+          "bye": false,
+          "seed": null,
+          "name": "Angelique van der Walt",
+          "school": "Brigham Young University",
+          "abbr": null,
+          "pid": "byu-w-p9",
+          "wtn": 20.98
+         },
+         {
+          "pos": 51,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 52,
+          "bye": false,
+          "seed": 13,
+          "name": "Eszter Kis-Czako",
+          "school": "Univ. Of Nevada, Las Vegas",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.01
+         },
+         {
+          "pos": 53,
+          "bye": false,
+          "seed": null,
+          "name": "Stella Beldiman",
+          "school": "Boise State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.47
+         },
+         {
+          "pos": 54,
+          "bye": false,
+          "seed": null,
+          "name": "Silver Bijlsma",
+          "school": "University Of Wyoming",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.44
+         },
+         {
+          "pos": 55,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 56,
+          "bye": false,
+          "seed": 11,
+          "name": "Louise Ternstrom",
+          "school": "University Of Colorado",
+          "abbr": null,
+          "pid": "colo-w-p8",
+          "wtn": 23.91
+         },
+         {
+          "pos": 57,
+          "bye": false,
+          "seed": null,
+          "name": "Paulina Jurkowska",
+          "school": "University Of Denver",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.98
+         },
+         {
+          "pos": 58,
+          "bye": false,
+          "seed": null,
+          "name": "Carla Grignac",
+          "school": "Boise State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.36
+         },
+         {
+          "pos": 59,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 60,
+          "bye": false,
+          "seed": 8,
+          "name": "Hams Metwali",
+          "school": "University Of Utah",
+          "abbr": null,
+          "pid": null,
+          "wtn": 15.97
+         },
+         {
+          "pos": 61,
+          "bye": false,
+          "seed": null,
+          "name": "Petra Janigova",
+          "school": "University Of Nevada",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.3
+         },
+         {
+          "pos": 62,
+          "bye": false,
+          "seed": null,
+          "name": "Emmy Richards",
+          "school": "Idaho State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 18.14
+         },
+         {
+          "pos": 63,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 64,
+          "bye": false,
+          "seed": 12,
+          "name": "Chelsea Bluestein",
+          "school": "Brigham Young University",
+          "abbr": null,
+          "pid": "byu-w-p2",
+          "wtn": 14.76
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Sara Akid",
+              "abbr": null,
+              "school": "University Of Utah",
+              "pid": "utah-w-p2",
+              "wtn": 14.39,
+              "seed": 1
+             },
+             {
+              "name": "Chahd Tourkhani",
+              "abbr": null,
+              "school": "Utah State University",
+              "pid": null,
+              "wtn": 16.76,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "YU-CHING HSIEH",
+              "abbr": null,
+              "school": "University Of Idaho",
+              "pid": null,
+              "wtn": 16.73,
+              "seed": null
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Heidi Crncan",
+              "abbr": null,
+              "school": "University Of Colorado",
+              "pid": "colo-w-p4",
+              "wtn": 15.93,
+              "seed": 6
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Bella Lewis",
+              "abbr": null,
+              "school": "Brigham Young University",
+              "pid": "byu-w-p5",
+              "wtn": 16.64,
+              "seed": null
+             },
+             {
+              "name": "Stephanie Marcheret",
+              "abbr": null,
+              "school": "U.S. Air Force Academy",
+              "pid": null,
+              "wtn": 17.46,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Nikol Mircheva",
+              "abbr": null,
+              "school": "Univ. Of Nevada, Las Vegas",
+              "pid": null,
+              "wtn": 15.29,
+              "seed": 3
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Valentina Vachkova",
+              "abbr": null,
+              "school": "Boise State University",
+              "pid": null,
+              "wtn": 16.72,
+              "seed": null
+             },
+             {
+              "name": "Whitney Moon",
+              "abbr": null,
+              "school": "New Mexico State University",
+              "pid": null,
+              "wtn": 18.66,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Sue Yan Tan",
+              "abbr": null,
+              "school": "Brigham Young University",
+              "pid": "byu-w-p7",
+              "wtn": 15.76,
+              "seed": 2
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Vianca Corley",
+              "abbr": null,
+              "school": "University Of New Mexico",
+              "pid": null,
+              "wtn": 16.97,
+              "seed": null
+             },
+             {
+              "name": "Emi Dowdell",
+              "abbr": null,
+              "school": "University Of Utah",
+              "pid": "utah-w-p1",
+              "wtn": 16.57,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Allison Isaacs",
+              "abbr": null,
+              "school": "Boise State University",
+              "pid": null,
+              "wtn": 14.84,
+              "seed": 5
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Cara Korhonen",
+              "abbr": null,
+              "school": "Brigham Young University",
+              "pid": "byu-w-p4",
+              "wtn": 16.09,
+              "seed": null
+             },
+             {
+              "name": "Ema Bubalo",
+              "abbr": null,
+              "school": "University Of Colorado",
+              "pid": "colo-w-p3",
+              "wtn": 16.28,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Kara Garcia",
+              "abbr": null,
+              "school": "University Of Utah",
+              "pid": "utah-w-p4",
+              "wtn": 15.69,
+              "seed": 15
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Defne Aydemir",
+              "abbr": null,
+              "school": "University Of Nevada",
+              "pid": null,
+              "wtn": 16.67,
+              "seed": null
+             },
+             {
+              "name": "Wencong Song",
+              "abbr": null,
+              "school": "Weber State University",
+              "pid": null,
+              "wtn": 18.11,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Anastasiia Kochelaevskaia",
+              "abbr": null,
+              "school": "University Of Wyoming",
+              "pid": null,
+              "wtn": 15.34,
+              "seed": 14
+             },
+             {
+              "name": "Giulia Alexandra Musat",
+              "abbr": null,
+              "school": "Utah State University",
+              "pid": null,
+              "wtn": 16.8,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Rebecka Jerlardtz",
+              "abbr": null,
+              "school": "University Of Montana",
+              "pid": null,
+              "wtn": 18.3,
+              "seed": null
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Sephi Sheng",
+              "abbr": null,
+              "school": "Brigham Young University",
+              "pid": "byu-w-p6",
+              "wtn": 16.07,
+              "seed": 17
+             },
+             {
+              "name": "Natalie Rainke",
+              "abbr": null,
+              "school": "Northern Arizona University",
+              "pid": null,
+              "wtn": 16.47,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             {
+              "name": "Nike Lenz",
+              "abbr": null,
+              "school": "University Of Utah",
+              "pid": "utah-w-p5",
+              "wtn": 16.82,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Sage Bergeson",
+              "abbr": null,
+              "school": "Brigham Young University",
+              "pid": "byu-w-p1",
+              "wtn": 16.23,
+              "seed": null
+             },
+             {
+              "name": "Lera Alexin",
+              "abbr": null,
+              "school": "University Of Colorado",
+              "pid": "colo-w-p1",
+              "wtn": 16.21,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             {
+              "name": "Hudson Hawkins",
+              "abbr": null,
+              "school": "Univ. Of Nevada, Las Vegas",
+              "pid": null,
+              "wtn": 15.65,
+              "seed": 9
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Angel Bean",
+              "abbr": null,
+              "school": "Montana State U/Bozeman",
+              "pid": null,
+              "wtn": 17.23,
+              "seed": null
+             },
+             {
+              "name": "Terezia Mlkva",
+              "abbr": null,
+              "school": "Utah State University",
+              "pid": null,
+              "wtn": 16.3,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             {
+              "name": "Yu-Yun Chen",
+              "abbr": null,
+              "school": "Brigham Young University",
+              "pid": null,
+              "wtn": 15.63,
+              "seed": 7
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Maya Michalski",
+              "abbr": null,
+              "school": "U.S. Air Force Academy",
+              "pid": null,
+              "wtn": 16.51,
+              "seed": null
+             },
+             {
+              "name": "Mariana Zurita Berdecio",
+              "abbr": null,
+              "school": "Utah Tech",
+              "pid": null,
+              "wtn": 17.72,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             {
+              "name": "Tereza Polakova",
+              "abbr": null,
+              "school": "Boise State University",
+              "pid": null,
+              "wtn": 15.7,
+              "seed": 4
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Allegra van der Walt",
+              "abbr": null,
+              "school": "Brigham Young University",
+              "pid": "byu-w-p8",
+              "wtn": 16.51,
+              "seed": null
+             },
+             {
+              "name": "Sorcha Caves",
+              "abbr": null,
+              "school": "Colorado State University",
+              "pid": null,
+              "wtn": 17.48,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             {
+              "name": "Emmie Moore",
+              "abbr": null,
+              "school": "University Of Utah",
+              "pid": "utah-w-p7",
+              "wtn": 15.25,
+              "seed": 10
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Elena Daskalova",
+              "abbr": null,
+              "school": "University Of Utah",
+              "pid": "utah-w-p3",
+              "wtn": 16.32,
+              "seed": null
+             },
+             {
+              "name": "Angelique van der Walt",
+              "abbr": null,
+              "school": "Brigham Young University",
+              "pid": "byu-w-p9",
+              "wtn": 20.98,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             {
+              "name": "Eszter Kis-Czako",
+              "abbr": null,
+              "school": "Univ. Of Nevada, Las Vegas",
+              "pid": null,
+              "wtn": 16.01,
+              "seed": 13
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Stella Beldiman",
+              "abbr": null,
+              "school": "Boise State University",
+              "pid": null,
+              "wtn": 16.47,
+              "seed": null
+             },
+             {
+              "name": "Silver Bijlsma",
+              "abbr": null,
+              "school": "University Of Wyoming",
+              "pid": null,
+              "wtn": 16.44,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             {
+              "name": "Louise Ternstrom",
+              "abbr": null,
+              "school": "University Of Colorado",
+              "pid": "colo-w-p8",
+              "wtn": 23.91,
+              "seed": 11
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Paulina Jurkowska",
+              "abbr": null,
+              "school": "University Of Denver",
+              "pid": null,
+              "wtn": 16.98,
+              "seed": null
+             },
+             {
+              "name": "Carla Grignac",
+              "abbr": null,
+              "school": "Boise State University",
+              "pid": null,
+              "wtn": 16.36,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             {
+              "name": "Hams Metwali",
+              "abbr": null,
+              "school": "University Of Utah",
+              "pid": null,
+              "wtn": 15.97,
+              "seed": 8
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Petra Janigova",
+              "abbr": null,
+              "school": "University Of Nevada",
+              "pid": null,
+              "wtn": 17.3,
+              "seed": null
+             },
+             {
+              "name": "Emmy Richards",
+              "abbr": null,
+              "school": "Idaho State University",
+              "pid": null,
+              "wtn": 18.14,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             {
+              "name": "Chelsea Bluestein",
+              "abbr": null,
+              "school": "Brigham Young University",
+              "pid": "byu-w-p2",
+              "wtn": 14.76,
+              "seed": 12
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 5,
+          "matchUps": [
+           {
+            "roundName": "Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 6,
+          "matchUps": [
+           {
+            "roundName": "Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
      {
       "drawName": "Singles Qualifying",
       "stage": "QUAL",
@@ -197954,7 +199676,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Central Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:34.065Z",
+  "fetchedAt": "2026-10-13T15:32:31.897Z",
   "events": [
    {
     "eventId": "DBE8AFBA-7DC2-4CC5-9800-13D2B27E27B1",
@@ -197978,7 +199700,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southeast Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:37.155Z",
+  "fetchedAt": "2026-10-13T15:32:34.464Z",
   "events": [
    {
     "eventId": "106447D8-7605-4244-B0F4-D6720DAC32CF",
@@ -198002,7 +199724,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Midwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:39.996Z",
+  "fetchedAt": "2026-10-13T15:32:37.055Z",
   "events": [
    {
     "eventId": "0AEBEE55-A378-4A39-9E3D-6D9C66744574",
@@ -198026,7 +199748,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Atlantic Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:42.798Z",
+  "fetchedAt": "2026-10-13T15:32:39.602Z",
   "events": [
    {
     "eventId": "EFF122C5-8F87-49F5-B9D6-4442692D0669",
@@ -198050,7 +199772,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:45.600Z",
+  "fetchedAt": "2026-10-13T15:32:42.216Z",
   "events": [
    {
     "eventId": "DF37662B-A6F2-4791-881B-37BF9E953B34",
@@ -198074,7 +199796,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Carolina Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:48.538Z",
+  "fetchedAt": "2026-10-13T15:32:44.794Z",
   "events": [
    {
     "eventId": "BBD8E08C-0836-4D64-9BF6-D97620A3333F",
@@ -198098,7 +199820,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-13T15:02:51.344Z",
+  "fetchedAt": "2026-10-13T15:32:47.221Z",
   "events": [
    {
     "eventId": "DED64A6D-F501-4CAE-9864-B5471E31510E",
