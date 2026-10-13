@@ -1,5 +1,5 @@
 {
- "version": "2cad6c1323",
+ "version": "6da33b09e8",
  "asOf": "2026-10-13",
  "files": {
   "proRankings.js": {
@@ -19,8 +19,8 @@
    "bytes": 717
   },
   "itaDraws.js": {
-   "hash": "4068bfa3be",
-   "bytes": 5385156
+   "hash": "4ff2cf593d",
+   "bytes": 5385586
   },
   "collegeRanks.js": {
    "hash": "be36145dd8",
@@ -43,8 +43,8 @@
    "bytes": 161775
   },
   "itaTournaments.js": {
-   "hash": "d440c6b60f",
-   "bytes": 2436844
+   "hash": "a671cc1c3f",
+   "bytes": 2437118
   },
   "rankHistory.js": {
    "hash": "6159c2b912",
