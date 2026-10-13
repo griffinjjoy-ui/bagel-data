@@ -47,6 +47,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "ariz-m-fp226": [
   {
+   "key": "22098",
+   "name": "Jinan Challenger",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "148618712",
+     "date": "2026-10-13",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Alibek Kachmazov",
+     "score": "6-7(4) 7-5 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22097",
    "name": "Wuning 3 Challenger",
    "date": "2026-10-05",
@@ -951,6 +971,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "cal-w-p6": [
+  {
+   "key": "17337",
+   "name": "W35 Redding",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122737346",
+     "date": "2026-10-12",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Sujin Lee",
+     "score": "6-2 6-0"
+    }
+   ],
+   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],
@@ -1961,6 +2003,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "ncst-m-fp370": [
   {
+   "key": "22148",
+   "name": "M25 Qian Daohu",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "144409986",
+     "date": "2026-10-13",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Lingxi Zhao",
+     "score": "6-2 2-0 ret."
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22097",
    "name": "Wuning 3 Challenger",
    "date": "2026-10-05",
@@ -2318,6 +2380,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Second",
+   "reachedTone": "neutral"
+  }
+ ],
+ "osu-w-p6": [
+  {
+   "key": "17337",
+   "name": "W35 Redding",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122737352",
+     "date": "2026-10-12",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Karissa Chang",
+     "score": "6-4 6-3"
+    }
+   ],
+   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],
@@ -3509,6 +3593,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "tamu-w-n5": [
+  {
+   "key": "17337",
+   "name": "W35 Redding",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122737345",
+     "date": "2026-10-12",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Madison Rose",
+     "score": "6-0 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "tamu-w-n8": [
   {
    "key": "17296",
@@ -3967,6 +4073,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "tex-m-n1": [
+  {
+   "key": "22147",
+   "name": "M25 Austin",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "140200202",
+     "date": "2026-10-12",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Zachary Fuchs",
+     "score": "6-4 6-4"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "tex-m-n3": [
   {
    "key": "22095",
@@ -4023,6 +4151,72 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    ],
    "reached": "Title",
    "reachedTone": "gold"
+  }
+ ],
+ "tex-m-p10": [
+  {
+   "key": "22147",
+   "name": "M25 Austin",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "140200199",
+     "date": "2026-10-12",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Iker Urribarrens Ramirez",
+     "score": "6-3 3-6 10-8"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "tex-m-p5": [
+  {
+   "key": "22147",
+   "name": "M25 Austin",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "140200201",
+     "date": "2026-10-12",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Johan Alexander Rodriguez",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "tex-m-p7": [
+  {
+   "key": "22147",
+   "name": "M25 Austin",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "140200193",
+     "date": "2026-10-12",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Damien Salvestre",
+     "score": "6-1 6-1"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
   }
  ],
  "tex-p1": [
@@ -4571,6 +4765,50 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "uk-m-p5": [
+  {
+   "key": "22157",
+   "name": "M15 Lexington",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "140200517",
+     "date": "2026-10-12",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Nicholas Sprenger Sampaio",
+     "score": "6-1 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "uk-m-p7": [
+  {
+   "key": "22157",
+   "name": "M15 Lexington",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "140200519",
+     "date": "2026-10-12",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Isaac Forde",
+     "score": "6-3 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "umd-w-p5": [
   {
    "key": "17320",
@@ -4723,6 +4961,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "usc-m-p3": [
+  {
+   "key": "22149",
+   "name": "M25 Santa Margherita di Pula",
+   "date": "2026-10-12",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "152830074",
+     "date": "2026-10-13",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Linus Lagerbohm",
+     "score": "2-6 6-2 6-2"
+    }
+   ],
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -5249,6 +5509,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Q3",
+   "reachedTone": "neutral"
+  }
+ ],
+ "wake-m-p4": [
+  {
+   "key": "22147",
+   "name": "M25 Austin",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "140200198",
+     "date": "2026-10-12",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "James Quattro",
+     "score": "7-5 6-3"
+    }
+   ],
+   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],
