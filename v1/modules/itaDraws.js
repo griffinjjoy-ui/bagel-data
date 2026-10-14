@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Mountain Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:32:29.105Z",
+  "fetchedAt": "2026-10-14T03:02:41.547Z",
   "events": [
    {
     "eventId": "A15E8A0A-367B-4494-B252-10CA2EFC0807",
@@ -20048,7 +20048,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:32:32.023Z",
+  "fetchedAt": "2026-10-14T03:02:44.652Z",
   "events": [
    {
     "eventId": "C3F42B32-D079-4552-98D2-9E89D5B68F7F",
@@ -31234,7 +31234,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Central Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:32:34.819Z",
+  "fetchedAt": "2026-10-14T03:02:47.554Z",
   "events": [
    {
     "eventId": "54AF7B73-1CBD-44D4-A57A-FA562D029737",
@@ -45476,7 +45476,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Carolina Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:32:37.631Z",
+  "fetchedAt": "2026-10-14T03:02:50.519Z",
   "events": [
    {
     "eventId": "4EA0C308-65DD-4DD9-A68E-4DAA07B16460",
@@ -55069,7 +55069,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Texas Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:32:40.444Z",
+  "fetchedAt": "2026-10-14T03:02:53.520Z",
   "events": [
    {
     "eventId": "D774E574-66C0-4881-9702-A47350E90C7B",
@@ -67887,7 +67887,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Ohio Valley Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:32:43.274Z",
+  "fetchedAt": "2026-10-14T03:02:56.475Z",
   "events": [
    {
     "eventId": "27A207E4-0923-42D1-8BFC-F83A17BBCA97",
@@ -79956,7 +79956,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's New England Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:32:46.214Z",
+  "fetchedAt": "2026-10-14T03:02:59.498Z",
   "events": [
    {
     "eventId": "E8F75619-116F-4CFD-8745-238D006BAD4C",
@@ -89770,7 +89770,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Midwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:32:49.004Z",
+  "fetchedAt": "2026-10-14T03:03:02.397Z",
   "events": [
    {
     "eventId": "882B1A07-E30B-4FA8-8EA7-A455D7DBE9F5",
@@ -99659,7 +99659,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:32:51.803Z",
+  "fetchedAt": "2026-10-14T03:03:05.299Z",
   "events": [
    {
     "eventId": "E21C1832-08CA-499C-9DFD-3A0F4F16C283",
@@ -117561,7 +117561,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Atlantic Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:32:54.374Z",
+  "fetchedAt": "2026-10-14T03:03:08.237Z",
   "events": [
    {
     "eventId": "A7DFD49A-9C2C-4A52-90D2-B643AC6DB270",
@@ -128369,7 +128369,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Ohio Valley Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:32:57.157Z",
+  "fetchedAt": "2026-10-14T03:03:11.143Z",
   "events": [
    {
     "eventId": "32F41C2E-E703-4CB4-AB6B-51D63252CFE4",
@@ -137885,7 +137885,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southern Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:32:59.817Z",
+  "fetchedAt": "2026-10-14T03:03:14.116Z",
   "events": [
    {
     "eventId": "E1B6EB4F-5C48-4A97-8503-3E0305186CFF",
@@ -147371,7 +147371,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Texas Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:33:02.589Z",
+  "fetchedAt": "2026-10-14T03:03:16.913Z",
   "events": [
    {
     "eventId": "ACF820D8-2E63-4784-A364-D1F7B6F91B30",
@@ -158145,7 +158145,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's New England Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:33:05.452Z",
+  "fetchedAt": "2026-10-14T03:03:19.787Z",
   "events": [
    {
     "eventId": "1104BC4B-FA60-4A4F-9D2D-6A2EE73CFC35",
@@ -165048,7 +165048,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southern Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:33:08.209Z",
+  "fetchedAt": "2026-10-14T03:03:22.496Z",
   "events": [
    {
     "eventId": "A65C14BF-7C23-40AC-9F86-FE15BBB6786D",
@@ -194263,7 +194263,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Mountain Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:33:11.232Z",
+  "fetchedAt": "2026-10-14T03:03:25.538Z",
   "events": [
    {
     "eventId": "84A544CC-41AD-4D20-BC59-EE2F6853841B",
@@ -202896,7 +202896,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Central Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:33:13.739Z",
+  "fetchedAt": "2026-10-14T03:03:28.184Z",
   "events": [
    {
     "eventId": "DBE8AFBA-7DC2-4CC5-9800-13D2B27E27B1",
@@ -208509,7 +208509,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southeast Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:33:16.455Z",
+  "fetchedAt": "2026-10-14T03:03:30.921Z",
   "events": [
    {
     "eventId": "106447D8-7605-4244-B0F4-D6720DAC32CF",
@@ -216560,7 +216560,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Midwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:33:19.119Z",
+  "fetchedAt": "2026-10-14T03:03:33.583Z",
   "events": [
    {
     "eventId": "0AEBEE55-A378-4A39-9E3D-6D9C66744574",
@@ -223779,7 +223779,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Atlantic Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:33:21.695Z",
+  "fetchedAt": "2026-10-14T03:03:36.272Z",
   "events": [
    {
     "eventId": "EFF122C5-8F87-49F5-B9D6-4442692D0669",
@@ -226585,7 +226585,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:33:24.317Z",
+  "fetchedAt": "2026-10-14T03:03:38.903Z",
   "events": [
    {
     "eventId": "DF37662B-A6F2-4791-881B-37BF9E953B34",
@@ -228507,7 +228507,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Carolina Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:33:26.930Z",
+  "fetchedAt": "2026-10-14T03:03:41.567Z",
   "events": [
    {
     "eventId": "BBD8E08C-0836-4D64-9BF6-D97620A3333F",
@@ -231313,7 +231313,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:33:29.467Z",
+  "fetchedAt": "2026-10-14T03:03:44.284Z",
   "events": [
    {
     "eventId": "DED64A6D-F501-4CAE-9864-B5471E31510E",
@@ -239618,7 +239618,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Northeast Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:33:32.100Z",
+  "fetchedAt": "2026-10-14T03:03:46.975Z",
   "events": [
    {
     "eventId": "5258E9B1-DFD6-48E8-8883-268B437D1360",
@@ -239642,7 +239642,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Northwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:33:34.755Z",
+  "fetchedAt": "2026-10-14T03:03:49.580Z",
   "events": [
    {
     "eventId": "146A7A03-568C-46C5-BD37-575D89BDD005",
@@ -247699,7 +247699,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T02:33:37.476Z",
+  "fetchedAt": "2026-10-14T03:03:52.456Z",
   "events": [
    {
     "eventId": "9D536E84-BA27-4116-A442-716034BB99D1",
