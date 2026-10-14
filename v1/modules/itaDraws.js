@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Mountain Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:02:19.712Z",
+  "fetchedAt": "2026-10-14T01:32:33.034Z",
   "events": [
    {
     "eventId": "A15E8A0A-367B-4494-B252-10CA2EFC0807",
@@ -20048,7 +20048,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:02:22.875Z",
+  "fetchedAt": "2026-10-14T01:32:35.832Z",
   "events": [
    {
     "eventId": "C3F42B32-D079-4552-98D2-9E89D5B68F7F",
@@ -31234,7 +31234,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Central Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:02:25.974Z",
+  "fetchedAt": "2026-10-14T01:32:38.797Z",
   "events": [
    {
     "eventId": "54AF7B73-1CBD-44D4-A57A-FA562D029737",
@@ -45476,7 +45476,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Carolina Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:02:28.917Z",
+  "fetchedAt": "2026-10-14T01:32:41.640Z",
   "events": [
    {
     "eventId": "4EA0C308-65DD-4DD9-A68E-4DAA07B16460",
@@ -55069,7 +55069,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Texas Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:02:31.953Z",
+  "fetchedAt": "2026-10-14T01:32:44.878Z",
   "events": [
    {
     "eventId": "D774E574-66C0-4881-9702-A47350E90C7B",
@@ -67887,7 +67887,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Ohio Valley Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:02:34.922Z",
+  "fetchedAt": "2026-10-14T01:32:47.972Z",
   "events": [
    {
     "eventId": "27A207E4-0923-42D1-8BFC-F83A17BBCA97",
@@ -79956,7 +79956,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's New England Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:02:38.092Z",
+  "fetchedAt": "2026-10-14T01:32:51.128Z",
   "events": [
    {
     "eventId": "E8F75619-116F-4CFD-8745-238D006BAD4C",
@@ -89770,7 +89770,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Midwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:02:41.053Z",
+  "fetchedAt": "2026-10-14T01:32:54.169Z",
   "events": [
    {
     "eventId": "882B1A07-E30B-4FA8-8EA7-A455D7DBE9F5",
@@ -99659,7 +99659,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:02:44.116Z",
+  "fetchedAt": "2026-10-14T01:32:57.577Z",
   "events": [
    {
     "eventId": "E21C1832-08CA-499C-9DFD-3A0F4F16C283",
@@ -117561,7 +117561,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Atlantic Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:02:47.210Z",
+  "fetchedAt": "2026-10-14T01:33:00.841Z",
   "events": [
    {
     "eventId": "A7DFD49A-9C2C-4A52-90D2-B643AC6DB270",
@@ -128369,7 +128369,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Ohio Valley Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:02:50.130Z",
+  "fetchedAt": "2026-10-14T01:33:03.691Z",
   "events": [
    {
     "eventId": "32F41C2E-E703-4CB4-AB6B-51D63252CFE4",
@@ -137885,7 +137885,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southern Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:02:53.205Z",
+  "fetchedAt": "2026-10-14T01:33:06.819Z",
   "events": [
    {
     "eventId": "E1B6EB4F-5C48-4A97-8503-3E0305186CFF",
@@ -147371,7 +147371,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Texas Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:02:56.255Z",
+  "fetchedAt": "2026-10-14T01:33:09.835Z",
   "events": [
    {
     "eventId": "ACF820D8-2E63-4784-A364-D1F7B6F91B30",
@@ -158145,7 +158145,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's New England Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:02:59.525Z",
+  "fetchedAt": "2026-10-14T01:33:12.946Z",
   "events": [
    {
     "eventId": "1104BC4B-FA60-4A4F-9D2D-6A2EE73CFC35",
@@ -165048,7 +165048,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southern Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:03:02.330Z",
+  "fetchedAt": "2026-10-14T01:33:15.869Z",
   "events": [
    {
     "eventId": "A65C14BF-7C23-40AC-9F86-FE15BBB6786D",
@@ -194263,7 +194263,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Mountain Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:03:05.644Z",
+  "fetchedAt": "2026-10-14T01:33:21.733Z",
   "events": [
    {
     "eventId": "84A544CC-41AD-4D20-BC59-EE2F6853841B",
@@ -200062,7 +200062,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Central Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:03:08.261Z",
+  "fetchedAt": "2026-10-14T01:33:24.464Z",
   "events": [
    {
     "eventId": "DBE8AFBA-7DC2-4CC5-9800-13D2B27E27B1",
@@ -205675,7 +205675,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southeast Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:03:10.948Z",
+  "fetchedAt": "2026-10-14T01:33:27.340Z",
   "events": [
    {
     "eventId": "106447D8-7605-4244-B0F4-D6720DAC32CF",
@@ -213726,7 +213726,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Midwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:03:13.816Z",
+  "fetchedAt": "2026-10-14T01:33:30.150Z",
   "events": [
    {
     "eventId": "0AEBEE55-A378-4A39-9E3D-6D9C66744574",
@@ -220945,7 +220945,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Atlantic Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:03:16.715Z",
+  "fetchedAt": "2026-10-14T01:33:33.053Z",
   "events": [
    {
     "eventId": "EFF122C5-8F87-49F5-B9D6-4442692D0669",
@@ -223751,7 +223751,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:03:19.522Z",
+  "fetchedAt": "2026-10-14T01:33:35.812Z",
   "events": [
    {
     "eventId": "DF37662B-A6F2-4791-881B-37BF9E953B34",
@@ -225673,7 +225673,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Carolina Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:03:22.198Z",
+  "fetchedAt": "2026-10-14T01:33:38.655Z",
   "events": [
    {
     "eventId": "BBD8E08C-0836-4D64-9BF6-D97620A3333F",
@@ -228479,7 +228479,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:03:24.955Z",
+  "fetchedAt": "2026-10-14T01:33:41.356Z",
   "events": [
    {
     "eventId": "DED64A6D-F501-4CAE-9864-B5471E31510E",
@@ -236784,7 +236784,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Northeast Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:03:27.788Z",
+  "fetchedAt": "2026-10-14T01:33:44.337Z",
   "events": [
    {
     "eventId": "5258E9B1-DFD6-48E8-8883-268B437D1360",
@@ -236798,7 +236798,3724 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
     "name": "Men's open singles",
     "type": "singles",
     "fieldSize": 248,
-    "draws": []
+    "draws": [
+     {
+      "drawName": "Qualifying 1",
+      "stage": "QUAL",
+      "kind": "QUAL",
+      "generated": true,
+      "completed": false,
+      "structures": [
+       {
+        "name": "East",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": false,
+          "seed": 1,
+          "name": "Kyle Chesman",
+          "school": "Penn State University",
+          "abbr": null,
+          "pid": "psu-m-p2",
+          "wtn": 7.96
+         },
+         {
+          "pos": 2,
+          "bye": false,
+          "seed": null,
+          "name": "Anthony Moukarzel",
+          "school": "Drexel University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.22
+         },
+         {
+          "pos": 3,
+          "bye": false,
+          "seed": null,
+          "name": "Enoch Lin",
+          "school": "Bucknell University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.3
+         },
+         {
+          "pos": 4,
+          "bye": false,
+          "seed": null,
+          "name": "Taichi Wakamatsu",
+          "school": "Saint John's University/NY",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.52
+         },
+         {
+          "pos": 5,
+          "bye": false,
+          "seed": 17,
+          "name": "Venedikt Tsirikidze",
+          "school": "Saint John's University/NY",
+          "abbr": null,
+          "pid": null,
+          "wtn": 8.64
+         },
+         {
+          "pos": 6,
+          "bye": false,
+          "seed": null,
+          "name": "Jakob Gaudreau Barnes",
+          "school": "Saint Joseph's University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.25
+         },
+         {
+          "pos": 7,
+          "bye": false,
+          "seed": null,
+          "name": "Matteus Froberg Dahlin",
+          "school": "University Of Delaware",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.38
+         },
+         {
+          "pos": 8,
+          "bye": false,
+          "seed": null,
+          "name": "Nicola Bottelberghs",
+          "school": "Wagner College",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.97
+         },
+         {
+          "pos": 9,
+          "bye": false,
+          "seed": null,
+          "name": "Yerassyl Bakhtiyar",
+          "school": "New Jersey Inst. Of Tech",
+          "abbr": null,
+          "pid": null,
+          "wtn": 8.94
+         },
+         {
+          "pos": 10,
+          "bye": false,
+          "seed": null,
+          "name": "Oskar Szymczak",
+          "school": "Drexel University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.02
+         },
+         {
+          "pos": 11,
+          "bye": false,
+          "seed": null,
+          "name": "Tyler Bush",
+          "school": "Bucknell University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.26
+         },
+         {
+          "pos": 12,
+          "bye": false,
+          "seed": null,
+          "name": "Pere Prat Turro",
+          "school": "University Of Delaware",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.11
+         },
+         {
+          "pos": 13,
+          "bye": false,
+          "seed": 13,
+          "name": "Lun Obrul",
+          "school": "Drexel University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 8.58
+         },
+         {
+          "pos": 14,
+          "bye": false,
+          "seed": null,
+          "name": "Francisco Guimaraes",
+          "school": "New Jersey Inst. Of Tech",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.61
+         },
+         {
+          "pos": 15,
+          "bye": false,
+          "seed": null,
+          "name": "Jonah Chernett",
+          "school": "Univ. Of Pennsylvania",
+          "abbr": null,
+          "pid": "penn-m-n4",
+          "wtn": 12.3
+         },
+         {
+          "pos": 16,
+          "bye": false,
+          "seed": null,
+          "name": "Ernesto Ruy",
+          "school": "Saint Joseph's University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.16
+         },
+         {
+          "pos": 17,
+          "bye": false,
+          "seed": 3,
+          "name": "Marek Nano",
+          "school": "Saint John's University/NY",
+          "abbr": null,
+          "pid": null,
+          "wtn": 7.99
+         },
+         {
+          "pos": 18,
+          "bye": false,
+          "seed": null,
+          "name": "Luka  Sauer",
+          "school": "Monmouth University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.94
+         },
+         {
+          "pos": 19,
+          "bye": false,
+          "seed": null,
+          "name": "Filip Horak",
+          "school": "Fordham University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.61
+         },
+         {
+          "pos": 20,
+          "bye": false,
+          "seed": null,
+          "name": "Adam Bojkovic",
+          "school": "University Of Delaware",
+          "abbr": null,
+          "pid": null,
+          "wtn": 8.68
+         },
+         {
+          "pos": 21,
+          "bye": false,
+          "seed": 10,
+          "name": "Parashar Bharadwaj",
+          "school": "Univ. Of Pennsylvania",
+          "abbr": null,
+          "pid": "penn-m-p2",
+          "wtn": 8.24
+         },
+         {
+          "pos": 22,
+          "bye": false,
+          "seed": null,
+          "name": "Nate Roberman",
+          "school": "Fairleigh Dickinson Univ.",
+          "abbr": null,
+          "pid": null,
+          "wtn": 11.31
+         },
+         {
+          "pos": 23,
+          "bye": false,
+          "seed": null,
+          "name": "Ludwig Hermann",
+          "school": "Penn State University",
+          "abbr": null,
+          "pid": "psu-m-n1",
+          "wtn": 9.5
+         },
+         {
+          "pos": 24,
+          "bye": false,
+          "seed": null,
+          "name": "Adam Kresina",
+          "school": "Saint John's University/NY",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.27
+         },
+         {
+          "pos": 25,
+          "bye": false,
+          "seed": 4,
+          "name": "Jordan Chang",
+          "school": "Columbia University",
+          "abbr": null,
+          "pid": "colum-m-p2",
+          "wtn": 8
+         },
+         {
+          "pos": 26,
+          "bye": false,
+          "seed": null,
+          "name": "Armando Sotelo",
+          "school": "Saint John's University/NY",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.65
+         },
+         {
+          "pos": 27,
+          "bye": false,
+          "seed": null,
+          "name": "Adrien Ducruet",
+          "school": "Temple University",
+          "abbr": null,
+          "pid": "temple-m-n1",
+          "wtn": 10.25
+         },
+         {
+          "pos": 28,
+          "bye": false,
+          "seed": null,
+          "name": "Oscar Baumgartner",
+          "school": "Saint Joseph's University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.06
+         },
+         {
+          "pos": 29,
+          "bye": false,
+          "seed": 14,
+          "name": "Mateusz Gradzki",
+          "school": "Fordham University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 8.58
+         },
+         {
+          "pos": 30,
+          "bye": false,
+          "seed": null,
+          "name": "Mason Robins",
+          "school": "University Of Delaware",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.05
+         },
+         {
+          "pos": 31,
+          "bye": false,
+          "seed": null,
+          "name": "Damir Abdusamadov",
+          "school": "Saint Joseph's University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.56
+         },
+         {
+          "pos": 32,
+          "bye": false,
+          "seed": null,
+          "name": "Maj Najvirt Kolaric",
+          "school": "Temple University",
+          "abbr": null,
+          "pid": "temple-m-p7",
+          "wtn": 10.4
+         },
+         {
+          "pos": 33,
+          "bye": false,
+          "seed": 5,
+          "name": "Gray Kelley",
+          "school": "Columbia University",
+          "abbr": null,
+          "pid": "colum-m-n2",
+          "wtn": 8.1
+         },
+         {
+          "pos": 34,
+          "bye": false,
+          "seed": null,
+          "name": "Sawyer Severance",
+          "school": "Princeton University",
+          "abbr": null,
+          "pid": "prin-m-p9",
+          "wtn": 9.94
+         },
+         {
+          "pos": 35,
+          "bye": false,
+          "seed": null,
+          "name": "Julian Forer",
+          "school": "Temple University",
+          "abbr": null,
+          "pid": "temple-m-n2",
+          "wtn": 8.35
+         },
+         {
+          "pos": 36,
+          "bye": false,
+          "seed": null,
+          "name": "Leon Eddie Schmidt",
+          "school": "Wagner College",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.39
+         },
+         {
+          "pos": 37,
+          "bye": false,
+          "seed": 15,
+          "name": "Riccardo Campagnola",
+          "school": "New Jersey Inst. Of Tech",
+          "abbr": null,
+          "pid": null,
+          "wtn": 8.59
+         },
+         {
+          "pos": 38,
+          "bye": false,
+          "seed": null,
+          "name": "Brandon Ramos",
+          "school": "Iona University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.26
+         },
+         {
+          "pos": 39,
+          "bye": false,
+          "seed": null,
+          "name": "Aayush Bhat",
+          "school": "Temple University",
+          "abbr": null,
+          "pid": "temple-m-p2",
+          "wtn": 8.75
+         },
+         {
+          "pos": 40,
+          "bye": false,
+          "seed": null,
+          "name": "Sehaj Singh Pawar",
+          "school": "Saint Joseph's University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.27
+         },
+         {
+          "pos": 41,
+          "bye": false,
+          "seed": 6,
+          "name": "Luke Tollenaar",
+          "school": "University Of Delaware",
+          "abbr": null,
+          "pid": null,
+          "wtn": 8.11
+         },
+         {
+          "pos": 42,
+          "bye": false,
+          "seed": null,
+          "name": "Mykhailo Polishchuck",
+          "school": "Mercyhurst University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 13.62
+         },
+         {
+          "pos": 43,
+          "bye": false,
+          "seed": null,
+          "name": "Volodymyr Dombrovskyi",
+          "school": "Bucknell University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.74
+         },
+         {
+          "pos": 44,
+          "bye": false,
+          "seed": 8,
+          "name": "Meecah Bigun",
+          "school": "Princeton University",
+          "abbr": null,
+          "pid": "prin-m-p2",
+          "wtn": 8.67
+         },
+         {
+          "pos": 45,
+          "bye": false,
+          "seed": 12,
+          "name": "Soma Fukuhara",
+          "school": "New Jersey Inst. Of Tech",
+          "abbr": null,
+          "pid": null,
+          "wtn": 8.41
+         },
+         {
+          "pos": 46,
+          "bye": false,
+          "seed": null,
+          "name": "Mats Pottbecker",
+          "school": "Saint John's University/NY",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.3
+         },
+         {
+          "pos": 47,
+          "bye": false,
+          "seed": null,
+          "name": "Doruk Calikoglu",
+          "school": "Temple University",
+          "abbr": null,
+          "pid": "temple-m-n3",
+          "wtn": 9.41
+         },
+         {
+          "pos": 48,
+          "bye": false,
+          "seed": null,
+          "name": "Jack Brimm",
+          "school": "Long Island University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 11.84
+         },
+         {
+          "pos": 49,
+          "bye": false,
+          "seed": null,
+          "name": "William Robinson",
+          "school": "Bucknell University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.6
+         },
+         {
+          "pos": 50,
+          "bye": false,
+          "seed": 7,
+          "name": "Jordan Reznik",
+          "school": "Princeton University",
+          "abbr": null,
+          "pid": "prin-m-p7",
+          "wtn": 8.13
+         },
+         {
+          "pos": 51,
+          "bye": false,
+          "seed": null,
+          "name": "Maxime Hankins",
+          "school": "New Jersey Inst. Of Tech",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.19
+         },
+         {
+          "pos": 52,
+          "bye": false,
+          "seed": null,
+          "name": "Josue Guzman",
+          "school": "Drexel University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 8.94
+         },
+         {
+          "pos": 53,
+          "bye": false,
+          "seed": 11,
+          "name": "William Burridge",
+          "school": "Drexel University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 8.19
+         },
+         {
+          "pos": 54,
+          "bye": false,
+          "seed": null,
+          "name": "Ethan Carr",
+          "school": "Villanova University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.62
+         },
+         {
+          "pos": 55,
+          "bye": false,
+          "seed": null,
+          "name": "Matteo Crespi",
+          "school": "Temple University",
+          "abbr": null,
+          "pid": "temple-m-p5",
+          "wtn": 10.7
+         },
+         {
+          "pos": 56,
+          "bye": false,
+          "seed": null,
+          "name": "Caleb Tobler",
+          "school": "Hofstra University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 14.45
+         },
+         {
+          "pos": 57,
+          "bye": false,
+          "seed": 9,
+          "name": "Ford McCollum",
+          "school": "Princeton University",
+          "abbr": null,
+          "pid": "prin-m-n3",
+          "wtn": 8.14
+         },
+         {
+          "pos": 58,
+          "bye": false,
+          "seed": null,
+          "name": "Oliver Aguilar",
+          "school": "Temple University",
+          "abbr": null,
+          "pid": "temple-m-p1",
+          "wtn": 10.03
+         },
+         {
+          "pos": 59,
+          "bye": false,
+          "seed": null,
+          "name": "William Monahan",
+          "school": "Villanova University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 11.36
+         },
+         {
+          "pos": 60,
+          "bye": false,
+          "seed": null,
+          "name": "Aleksandar DaskaloviC",
+          "school": "Lehigh University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.18
+         },
+         {
+          "pos": 61,
+          "bye": false,
+          "seed": 16,
+          "name": "Zachary Pellouchoud",
+          "school": "Fordham University",
+          "abbr": null,
+          "pid": "ucsd-m-fp40",
+          "wtn": 8.63
+         },
+         {
+          "pos": 62,
+          "bye": false,
+          "seed": null,
+          "name": "Kosei Ogata",
+          "school": "Lehigh University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.09
+         },
+         {
+          "pos": 63,
+          "bye": false,
+          "seed": null,
+          "name": "James Sclater",
+          "school": "University Of Delaware",
+          "abbr": null,
+          "pid": null,
+          "wtn": 11.03
+         },
+         {
+          "pos": 64,
+          "bye": false,
+          "seed": 2,
+          "name": "Andrew Kotzen",
+          "school": "Columbia University",
+          "abbr": null,
+          "pid": "colum-m-p6",
+          "wtn": 7.98
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Kyle Chesman",
+              "abbr": null,
+              "school": "Penn State University",
+              "pid": "psu-m-p2",
+              "wtn": 7.96,
+              "seed": 1
+             },
+             {
+              "name": "Anthony Moukarzel",
+              "abbr": null,
+              "school": "Drexel University",
+              "pid": null,
+              "wtn": 9.22,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Enoch Lin",
+              "abbr": null,
+              "school": "Bucknell University",
+              "pid": null,
+              "wtn": 10.3,
+              "seed": null
+             },
+             {
+              "name": "Taichi Wakamatsu",
+              "abbr": null,
+              "school": "Saint John's University/NY",
+              "pid": null,
+              "wtn": 9.52,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Venedikt Tsirikidze",
+              "abbr": null,
+              "school": "Saint John's University/NY",
+              "pid": null,
+              "wtn": 8.64,
+              "seed": 17
+             },
+             {
+              "name": "Jakob Gaudreau Barnes",
+              "abbr": null,
+              "school": "Saint Joseph's University",
+              "pid": null,
+              "wtn": 10.25,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Matteus Froberg Dahlin",
+              "abbr": null,
+              "school": "University Of Delaware",
+              "pid": null,
+              "wtn": 9.38,
+              "seed": null
+             },
+             {
+              "name": "Nicola Bottelberghs",
+              "abbr": null,
+              "school": "Wagner College",
+              "pid": null,
+              "wtn": 10.97,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Yerassyl Bakhtiyar",
+              "abbr": null,
+              "school": "New Jersey Inst. Of Tech",
+              "pid": null,
+              "wtn": 8.94,
+              "seed": null
+             },
+             {
+              "name": "Oskar Szymczak",
+              "abbr": null,
+              "school": "Drexel University",
+              "pid": null,
+              "wtn": 9.02,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Tyler Bush",
+              "abbr": null,
+              "school": "Bucknell University",
+              "pid": null,
+              "wtn": 10.26,
+              "seed": null
+             },
+             {
+              "name": "Pere Prat Turro",
+              "abbr": null,
+              "school": "University Of Delaware",
+              "pid": null,
+              "wtn": 9.11,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Lun Obrul",
+              "abbr": null,
+              "school": "Drexel University",
+              "pid": null,
+              "wtn": 8.58,
+              "seed": 13
+             },
+             {
+              "name": "Francisco Guimaraes",
+              "abbr": null,
+              "school": "New Jersey Inst. Of Tech",
+              "pid": null,
+              "wtn": 9.61,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Jonah Chernett",
+              "abbr": null,
+              "school": "Univ. Of Pennsylvania",
+              "pid": "penn-m-n4",
+              "wtn": 12.3,
+              "seed": null
+             },
+             {
+              "name": "Ernesto Ruy",
+              "abbr": null,
+              "school": "Saint Joseph's University",
+              "pid": null,
+              "wtn": 9.16,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Marek Nano",
+              "abbr": null,
+              "school": "Saint John's University/NY",
+              "pid": null,
+              "wtn": 7.99,
+              "seed": 3
+             },
+             {
+              "name": "Luka  Sauer",
+              "abbr": null,
+              "school": "Monmouth University",
+              "pid": null,
+              "wtn": 9.94,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Filip Horak",
+              "abbr": null,
+              "school": "Fordham University",
+              "pid": null,
+              "wtn": 9.61,
+              "seed": null
+             },
+             {
+              "name": "Adam Bojkovic",
+              "abbr": null,
+              "school": "University Of Delaware",
+              "pid": null,
+              "wtn": 8.68,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Parashar Bharadwaj",
+              "abbr": null,
+              "school": "Univ. Of Pennsylvania",
+              "pid": "penn-m-p2",
+              "wtn": 8.24,
+              "seed": 10
+             },
+             {
+              "name": "Nate Roberman",
+              "abbr": null,
+              "school": "Fairleigh Dickinson Univ.",
+              "pid": null,
+              "wtn": 11.31,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Ludwig Hermann",
+              "abbr": null,
+              "school": "Penn State University",
+              "pid": "psu-m-n1",
+              "wtn": 9.5,
+              "seed": null
+             },
+             {
+              "name": "Adam Kresina",
+              "abbr": null,
+              "school": "Saint John's University/NY",
+              "pid": null,
+              "wtn": 9.27,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Jordan Chang",
+              "abbr": null,
+              "school": "Columbia University",
+              "pid": "colum-m-p2",
+              "wtn": 8,
+              "seed": 4
+             },
+             {
+              "name": "Armando Sotelo",
+              "abbr": null,
+              "school": "Saint John's University/NY",
+              "pid": null,
+              "wtn": 9.65,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Adrien Ducruet",
+              "abbr": null,
+              "school": "Temple University",
+              "pid": "temple-m-n1",
+              "wtn": 10.25,
+              "seed": null
+             },
+             {
+              "name": "Oscar Baumgartner",
+              "abbr": null,
+              "school": "Saint Joseph's University",
+              "pid": null,
+              "wtn": 9.06,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Mateusz Gradzki",
+              "abbr": null,
+              "school": "Fordham University",
+              "pid": null,
+              "wtn": 8.58,
+              "seed": 14
+             },
+             {
+              "name": "Mason Robins",
+              "abbr": null,
+              "school": "University Of Delaware",
+              "pid": null,
+              "wtn": 10.05,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Damir Abdusamadov",
+              "abbr": null,
+              "school": "Saint Joseph's University",
+              "pid": null,
+              "wtn": 9.56,
+              "seed": null
+             },
+             {
+              "name": "Maj Najvirt Kolaric",
+              "abbr": null,
+              "school": "Temple University",
+              "pid": "temple-m-p7",
+              "wtn": 10.4,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Gray Kelley",
+              "abbr": null,
+              "school": "Columbia University",
+              "pid": "colum-m-n2",
+              "wtn": 8.1,
+              "seed": 5
+             },
+             {
+              "name": "Sawyer Severance",
+              "abbr": null,
+              "school": "Princeton University",
+              "pid": "prin-m-p9",
+              "wtn": 9.94,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Julian Forer",
+              "abbr": null,
+              "school": "Temple University",
+              "pid": "temple-m-n2",
+              "wtn": 8.35,
+              "seed": null
+             },
+             {
+              "name": "Leon Eddie Schmidt",
+              "abbr": null,
+              "school": "Wagner College",
+              "pid": null,
+              "wtn": 9.39,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Riccardo Campagnola",
+              "abbr": null,
+              "school": "New Jersey Inst. Of Tech",
+              "pid": null,
+              "wtn": 8.59,
+              "seed": 15
+             },
+             {
+              "name": "Brandon Ramos",
+              "abbr": null,
+              "school": "Iona University",
+              "pid": null,
+              "wtn": 10.26,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Aayush Bhat",
+              "abbr": null,
+              "school": "Temple University",
+              "pid": "temple-m-p2",
+              "wtn": 8.75,
+              "seed": null
+             },
+             {
+              "name": "Sehaj Singh Pawar",
+              "abbr": null,
+              "school": "Saint Joseph's University",
+              "pid": null,
+              "wtn": 9.27,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Luke Tollenaar",
+              "abbr": null,
+              "school": "University Of Delaware",
+              "pid": null,
+              "wtn": 8.11,
+              "seed": 6
+             },
+             {
+              "name": "Mykhailo Polishchuck",
+              "abbr": null,
+              "school": "Mercyhurst University",
+              "pid": null,
+              "wtn": 13.62,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Volodymyr Dombrovskyi",
+              "abbr": null,
+              "school": "Bucknell University",
+              "pid": null,
+              "wtn": 10.74,
+              "seed": null
+             },
+             {
+              "name": "Meecah Bigun",
+              "abbr": null,
+              "school": "Princeton University",
+              "pid": "prin-m-p2",
+              "wtn": 8.67,
+              "seed": 8
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Soma Fukuhara",
+              "abbr": null,
+              "school": "New Jersey Inst. Of Tech",
+              "pid": null,
+              "wtn": 8.41,
+              "seed": 12
+             },
+             {
+              "name": "Mats Pottbecker",
+              "abbr": null,
+              "school": "Saint John's University/NY",
+              "pid": null,
+              "wtn": 9.3,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T09:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Doruk Calikoglu",
+              "abbr": null,
+              "school": "Temple University",
+              "pid": "temple-m-n3",
+              "wtn": 9.41,
+              "seed": null
+             },
+             {
+              "name": "Jack Brimm",
+              "abbr": null,
+              "school": "Long Island University",
+              "pid": null,
+              "wtn": 11.84,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "William Robinson",
+              "abbr": null,
+              "school": "Bucknell University",
+              "pid": null,
+              "wtn": 10.6,
+              "seed": null
+             },
+             {
+              "name": "Jordan Reznik",
+              "abbr": null,
+              "school": "Princeton University",
+              "pid": "prin-m-p7",
+              "wtn": 8.13,
+              "seed": 7
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Maxime Hankins",
+              "abbr": null,
+              "school": "New Jersey Inst. Of Tech",
+              "pid": null,
+              "wtn": 9.19,
+              "seed": null
+             },
+             {
+              "name": "Josue Guzman",
+              "abbr": null,
+              "school": "Drexel University",
+              "pid": null,
+              "wtn": 8.94,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "William Burridge",
+              "abbr": null,
+              "school": "Drexel University",
+              "pid": null,
+              "wtn": 8.19,
+              "seed": 11
+             },
+             {
+              "name": "Ethan Carr",
+              "abbr": null,
+              "school": "Villanova University",
+              "pid": null,
+              "wtn": 10.62,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Matteo Crespi",
+              "abbr": null,
+              "school": "Temple University",
+              "pid": "temple-m-p5",
+              "wtn": 10.7,
+              "seed": null
+             },
+             {
+              "name": "Caleb Tobler",
+              "abbr": null,
+              "school": "Hofstra University",
+              "pid": null,
+              "wtn": 14.45,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Ford McCollum",
+              "abbr": null,
+              "school": "Princeton University",
+              "pid": "prin-m-n3",
+              "wtn": 8.14,
+              "seed": 9
+             },
+             {
+              "name": "Oliver Aguilar",
+              "abbr": null,
+              "school": "Temple University",
+              "pid": "temple-m-p1",
+              "wtn": 10.03,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "William Monahan",
+              "abbr": null,
+              "school": "Villanova University",
+              "pid": null,
+              "wtn": 11.36,
+              "seed": null
+             },
+             {
+              "name": "Aleksandar DaskaloviC",
+              "abbr": null,
+              "school": "Lehigh University",
+              "pid": null,
+              "wtn": 10.18,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "Zachary Pellouchoud",
+              "abbr": null,
+              "school": "Fordham University",
+              "pid": "ucsd-m-fp40",
+              "wtn": 8.63,
+              "seed": 16
+             },
+             {
+              "name": "Kosei Ogata",
+              "abbr": null,
+              "school": "Lehigh University",
+              "pid": null,
+              "wtn": 10.09,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T10:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             {
+              "name": "James Sclater",
+              "abbr": null,
+              "school": "University Of Delaware",
+              "pid": null,
+              "wtn": 11.03,
+              "seed": null
+             },
+             {
+              "name": "Andrew Kotzen",
+              "abbr": null,
+              "school": "Columbia University",
+              "pid": "colum-m-p6",
+              "wtn": 7.98,
+              "seed": 2
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "E-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 5,
+          "matchUps": [
+           {
+            "roundName": "E-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 6,
+          "matchUps": [
+           {
+            "roundName": "E-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "West",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 9,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 12,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 13,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 14,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 15,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 16,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 17,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 18,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 19,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 20,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 21,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 22,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 23,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 24,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 25,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 26,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 27,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 28,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 29,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 30,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 31,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 32,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T13:00",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-15T14:30",
+            "venue": "Univ. Of Pennsylvania",
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "W-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "W-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 5,
+          "matchUps": [
+           {
+            "roundName": "W-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "North",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 9,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 12,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 13,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 14,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 15,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 16,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "N-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "N-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "N-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "South",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 9,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 12,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 13,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 14,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 15,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 16,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "S-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "S-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "S-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Northeast",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "NE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "NE-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "NE-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Northwest",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "NW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "NW-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "NW-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Southwest",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "SW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "SW-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "SW-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Southeast",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "SE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "SE-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "SE-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
    }
   ]
  },
@@ -236808,7 +240525,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Northwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:03:30.500Z",
+  "fetchedAt": "2026-10-14T01:33:47.169Z",
   "events": [
    {
     "eventId": "146A7A03-568C-46C5-BD37-575D89BDD005",
@@ -244865,7 +248582,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T01:03:33.350Z",
+  "fetchedAt": "2026-10-14T01:33:50.041Z",
   "events": [
    {
     "eventId": "9D536E84-BA27-4116-A442-716034BB99D1",
