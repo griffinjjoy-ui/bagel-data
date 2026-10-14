@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Mountain Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:00.053Z",
+  "fetchedAt": "2026-10-14T15:32:42.877Z",
   "events": [
    {
     "eventId": "A15E8A0A-367B-4494-B252-10CA2EFC0807",
@@ -20048,7 +20048,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:03.104Z",
+  "fetchedAt": "2026-10-14T15:32:46.167Z",
   "events": [
    {
     "eventId": "C3F42B32-D079-4552-98D2-9E89D5B68F7F",
@@ -31234,7 +31234,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Central Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:06.086Z",
+  "fetchedAt": "2026-10-14T15:32:49.269Z",
   "events": [
    {
     "eventId": "54AF7B73-1CBD-44D4-A57A-FA562D029737",
@@ -45476,7 +45476,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Carolina Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:08.926Z",
+  "fetchedAt": "2026-10-14T15:32:52.284Z",
   "events": [
    {
     "eventId": "4EA0C308-65DD-4DD9-A68E-4DAA07B16460",
@@ -55069,7 +55069,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Texas Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:11.887Z",
+  "fetchedAt": "2026-10-14T15:32:55.203Z",
   "events": [
    {
     "eventId": "D774E574-66C0-4881-9702-A47350E90C7B",
@@ -67887,7 +67887,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Ohio Valley Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:14.695Z",
+  "fetchedAt": "2026-10-14T15:32:58.280Z",
   "events": [
    {
     "eventId": "27A207E4-0923-42D1-8BFC-F83A17BBCA97",
@@ -79956,7 +79956,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's New England Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:17.658Z",
+  "fetchedAt": "2026-10-14T15:33:01.377Z",
   "events": [
    {
     "eventId": "E8F75619-116F-4CFD-8745-238D006BAD4C",
@@ -89770,7 +89770,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Midwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:20.473Z",
+  "fetchedAt": "2026-10-14T15:33:04.410Z",
   "events": [
    {
     "eventId": "882B1A07-E30B-4FA8-8EA7-A455D7DBE9F5",
@@ -99659,7 +99659,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:23.392Z",
+  "fetchedAt": "2026-10-14T15:33:07.517Z",
   "events": [
    {
     "eventId": "E21C1832-08CA-499C-9DFD-3A0F4F16C283",
@@ -117561,7 +117561,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Atlantic Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:26.384Z",
+  "fetchedAt": "2026-10-14T15:33:10.718Z",
   "events": [
    {
     "eventId": "A7DFD49A-9C2C-4A52-90D2-B643AC6DB270",
@@ -128369,7 +128369,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Ohio Valley Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:29.193Z",
+  "fetchedAt": "2026-10-14T15:33:13.733Z",
   "events": [
    {
     "eventId": "32F41C2E-E703-4CB4-AB6B-51D63252CFE4",
@@ -137885,7 +137885,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southern Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:32.282Z",
+  "fetchedAt": "2026-10-14T15:33:16.676Z",
   "events": [
    {
     "eventId": "E1B6EB4F-5C48-4A97-8503-3E0305186CFF",
@@ -147371,7 +147371,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Texas Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:35.131Z",
+  "fetchedAt": "2026-10-14T15:33:19.676Z",
   "events": [
    {
     "eventId": "ACF820D8-2E63-4784-A364-D1F7B6F91B30",
@@ -158145,7 +158145,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's New England Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:38.003Z",
+  "fetchedAt": "2026-10-14T15:33:22.681Z",
   "events": [
    {
     "eventId": "1104BC4B-FA60-4A4F-9D2D-6A2EE73CFC35",
@@ -165048,7 +165048,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southern Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:40.734Z",
+  "fetchedAt": "2026-10-14T15:33:25.726Z",
   "events": [
    {
     "eventId": "A65C14BF-7C23-40AC-9F86-FE15BBB6786D",
@@ -194263,7 +194263,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Mountain Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:43.951Z",
+  "fetchedAt": "2026-10-14T15:33:29.051Z",
   "events": [
    {
     "eventId": "84A544CC-41AD-4D20-BC59-EE2F6853841B",
@@ -202896,7 +202896,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Central Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:46.502Z",
+  "fetchedAt": "2026-10-14T15:33:31.805Z",
   "events": [
    {
     "eventId": "DBE8AFBA-7DC2-4CC5-9800-13D2B27E27B1",
@@ -211151,7 +211151,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southeast Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:49.362Z",
+  "fetchedAt": "2026-10-14T15:33:34.739Z",
   "events": [
    {
     "eventId": "106447D8-7605-4244-B0F4-D6720DAC32CF",
@@ -214606,9 +214606,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "0-6 2-6",
+            "winningSide": 2,
             "when": "2026-10-14T09:45",
             "venue": "Georgia Tech",
             "sides": [
@@ -215273,7 +215273,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-14T13:30",
             "venue": "Georgia Tech",
             "sides": [
-             null,
+             {
+              "name": "Dominic Ducariu",
+              "abbr": null,
+              "school": "Kennesaw State University",
+              "pid": null,
+              "wtn": 8.91,
+              "seed": null
+             },
              {
               "name": "Jonathan Baron",
               "abbr": null,
@@ -215889,9 +215896,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 23,
-          "bye": true,
-          "seed": 1,
-          "name": null
+          "bye": false,
+          "seed": null,
+          "name": "Pietro Augusto Bonivento",
+          "school": "Georgia State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.35
          },
          {
           "pos": 24,
@@ -216124,7 +216135,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Pietro Augusto Bonivento",
+              "abbr": null,
+              "school": "Georgia State University",
+              "pid": null,
+              "wtn": 10.35,
+              "seed": null
+             },
              null
             ]
            },
@@ -216378,7 +216396,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Pietro Augusto Bonivento",
+              "abbr": null,
+              "school": "Georgia State University",
+              "pid": null,
+              "wtn": 10.35,
+              "seed": null
+             }
             ]
            },
            {
@@ -219374,7 +219399,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Midwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:51.925Z",
+  "fetchedAt": "2026-10-14T15:33:37.553Z",
   "events": [
    {
     "eventId": "0AEBEE55-A378-4A39-9E3D-6D9C66744574",
@@ -226593,7 +226618,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Atlantic Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:54.522Z",
+  "fetchedAt": "2026-10-14T15:33:40.311Z",
   "events": [
    {
     "eventId": "EFF122C5-8F87-49F5-B9D6-4442692D0669",
@@ -229399,7 +229424,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:57.009Z",
+  "fetchedAt": "2026-10-14T15:33:43.022Z",
   "events": [
    {
     "eventId": "DF37662B-A6F2-4791-881B-37BF9E953B34",
@@ -231307,1903 +231332,6 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
     "fieldSize": 225,
     "draws": [
      {
-      "drawName": "Qualifying Singles",
-      "stage": "QUAL",
-      "kind": "QUAL",
-      "generated": true,
-      "completed": false,
-      "structures": [
-       {
-        "name": "Main",
-        "stage": "MAIN",
-        "positions": [
-         {
-          "pos": 1,
-          "bye": false,
-          "seed": 1,
-          "name": "Emma Tomova",
-          "school": "Univ. Of Pennsylvania",
-          "abbr": null,
-          "pid": "penn-w-p8",
-          "wtn": 16.84
-         },
-         {
-          "pos": 2,
-          "bye": false,
-          "seed": null,
-          "name": "Younsoo Cho",
-          "school": "Saint John's University/NY",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.89
-         },
-         {
-          "pos": 3,
-          "bye": false,
-          "seed": null,
-          "name": "Nina Andreoni",
-          "school": "Temple University",
-          "abbr": null,
-          "pid": "temple-w-p1",
-          "wtn": 17.86
-         },
-         {
-          "pos": 4,
-          "bye": false,
-          "seed": null,
-          "name": "Maren Urata",
-          "school": "Princeton University",
-          "abbr": null,
-          "pid": "prin-w-p9",
-          "wtn": 18.17
-         },
-         {
-          "pos": 5,
-          "bye": false,
-          "seed": 3,
-          "name": "Jordina Cegarra Ramirez",
-          "school": "Penn State University",
-          "abbr": null,
-          "pid": "psu-w-fp267",
-          "wtn": 16.92
-         },
-         {
-          "pos": 6,
-          "bye": false,
-          "seed": null,
-          "name": "Stella Schmitz",
-          "school": "Rutgers University",
-          "abbr": null,
-          "pid": "rut-w-p8",
-          "wtn": 17.87
-         },
-         {
-          "pos": 7,
-          "bye": false,
-          "seed": null,
-          "name": "Lena Dogadalski",
-          "school": "Lehigh University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 18.05
-         },
-         {
-          "pos": 8,
-          "bye": false,
-          "seed": null,
-          "name": "Marcella Roversi",
-          "school": "Hofstra University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.76
-         },
-         {
-          "pos": 9,
-          "bye": false,
-          "seed": 2,
-          "name": "Karina Jumazhanova",
-          "school": "Rutgers University",
-          "abbr": null,
-          "pid": "rut-w-p6",
-          "wtn": 16.92
-         },
-         {
-          "pos": 10,
-          "bye": false,
-          "seed": null,
-          "name": "Katerina Dimitrova",
-          "school": "Penn State University",
-          "abbr": null,
-          "pid": "psu-w-p5",
-          "wtn": 18.64
-         },
-         {
-          "pos": 11,
-          "bye": false,
-          "seed": null,
-          "name": "Tesse Antonis",
-          "school": "Temple University",
-          "abbr": null,
-          "pid": "temple-w-n2",
-          "wtn": 17.71
-         },
-         {
-          "pos": 12,
-          "bye": false,
-          "seed": null,
-          "name": "Valeria Casusol",
-          "school": "Saint Joseph's University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 20.1
-         },
-         {
-          "pos": 13,
-          "bye": false,
-          "seed": 4,
-          "name": "Brianna Baldi",
-          "school": "Penn State University",
-          "abbr": null,
-          "pid": "psu-w-p1",
-          "wtn": 16.96
-         },
-         {
-          "pos": 14,
-          "bye": false,
-          "seed": null,
-          "name": "Mila Badics",
-          "school": "Duquesne University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.84
-         },
-         {
-          "pos": 15,
-          "bye": false,
-          "seed": null,
-          "name": "Variance Horn-Bourque",
-          "school": "Mercyhurst University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 18.64
-         },
-         {
-          "pos": 16,
-          "bye": false,
-          "seed": null,
-          "name": "Ashika Pinninti",
-          "school": "New Jersey Inst. Of Tech",
-          "abbr": null,
-          "pid": null,
-          "wtn": 18.89
-         },
-         {
-          "pos": 17,
-          "bye": false,
-          "seed": 5,
-          "name": "Anna Nguyen",
-          "school": "Princeton University",
-          "abbr": null,
-          "pid": "prin-w-p7",
-          "wtn": 16.98
-         },
-         {
-          "pos": 18,
-          "bye": false,
-          "seed": null,
-          "name": "Yasmin Costa",
-          "school": "Temple University",
-          "abbr": null,
-          "pid": "temple-w-p3",
-          "wtn": 18.63
-         },
-         {
-          "pos": 19,
-          "bye": false,
-          "seed": null,
-          "name": "SANJANA DEVINENI",
-          "school": "Stony Brook University (SUNY)",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.7
-         },
-         {
-          "pos": 20,
-          "bye": false,
-          "seed": null,
-          "name": "Sofia Segui Edmundson",
-          "school": "Seton Hall University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.89
-         },
-         {
-          "pos": 21,
-          "bye": false,
-          "seed": 6,
-          "name": "Jaden Davidson",
-          "school": "Seton Hall University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.03
-         },
-         {
-          "pos": 22,
-          "bye": false,
-          "seed": null,
-          "name": "Sasha Motlagh",
-          "school": "Univ. Of Pennsylvania",
-          "abbr": null,
-          "pid": "penn-w-p3",
-          "wtn": 18.12
-         },
-         {
-          "pos": 23,
-          "bye": false,
-          "seed": null,
-          "name": "Amber Yin",
-          "school": "Columbia University",
-          "abbr": null,
-          "pid": "colum-w-p8",
-          "wtn": 17.77
-         },
-         {
-          "pos": 24,
-          "bye": false,
-          "seed": null,
-          "name": "Luana Paiva",
-          "school": "Fordham University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 18.13
-         },
-         {
-          "pos": 25,
-          "bye": false,
-          "seed": 7,
-          "name": "Ansley cox",
-          "school": "Penn State University",
-          "abbr": null,
-          "pid": "psu-w-p4",
-          "wtn": 17.12
-         },
-         {
-          "pos": 26,
-          "bye": false,
-          "seed": null,
-          "name": "Isabella Kellenberger",
-          "school": "University Of Delaware",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.8
-         },
-         {
-          "pos": 27,
-          "bye": false,
-          "seed": null,
-          "name": "Cornelia Bruu-Syversen",
-          "school": "Stony Brook University (SUNY)",
-          "abbr": null,
-          "pid": null,
-          "wtn": 19
-         },
-         {
-          "pos": 28,
-          "bye": false,
-          "seed": null,
-          "name": "Naomi Lalonde",
-          "school": "Duquesne University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.89
-         },
-         {
-          "pos": 29,
-          "bye": false,
-          "seed": 8,
-          "name": "Varsha Vedula",
-          "school": "Univ. Of Pennsylvania",
-          "abbr": null,
-          "pid": "penn-w-p9",
-          "wtn": 17.14
-         },
-         {
-          "pos": 30,
-          "bye": false,
-          "seed": null,
-          "name": "Tianni Zhou",
-          "school": "Temple University",
-          "abbr": null,
-          "pid": "temple-w-p9",
-          "wtn": 19.18
-         },
-         {
-          "pos": 31,
-          "bye": false,
-          "seed": null,
-          "name": "Kylie Nguyen",
-          "school": "Columbia University",
-          "abbr": null,
-          "pid": "colum-w-n5",
-          "wtn": 17.55
-         },
-         {
-          "pos": 32,
-          "bye": false,
-          "seed": null,
-          "name": "Susana Souhrada",
-          "school": "Penn State University",
-          "abbr": null,
-          "pid": "psu-w-n1",
-          "wtn": 17.55
-         },
-         {
-          "pos": 33,
-          "bye": false,
-          "seed": 9,
-          "name": "Sabrina Lin",
-          "school": "Columbia University",
-          "abbr": null,
-          "pid": "colum-w-p7",
-          "wtn": 17.19
-         },
-         {
-          "pos": 34,
-          "bye": false,
-          "seed": null,
-          "name": "Evelina Zhuk",
-          "school": "Fairleigh Dickinson Univ.",
-          "abbr": null,
-          "pid": null,
-          "wtn": 19.11
-         },
-         {
-          "pos": 35,
-          "bye": false,
-          "seed": null,
-          "name": "Ladina Bruhin",
-          "school": "Stony Brook University (SUNY)",
-          "abbr": null,
-          "pid": null,
-          "wtn": 18.53
-         },
-         {
-          "pos": 36,
-          "bye": false,
-          "seed": null,
-          "name": "Denisse Arinez Guilarte",
-          "school": "Duquesne University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 18.91
-         },
-         {
-          "pos": 37,
-          "bye": false,
-          "seed": 15,
-          "name": "Marianthi Christoforidou",
-          "school": "Temple University",
-          "abbr": null,
-          "pid": "temple-w-p2",
-          "wtn": 17.2
-         },
-         {
-          "pos": 38,
-          "bye": false,
-          "seed": null,
-          "name": "Katsiaryna Kostsina",
-          "school": "Fairleigh Dickinson Univ.",
-          "abbr": null,
-          "pid": null,
-          "wtn": 18.01
-         },
-         {
-          "pos": 39,
-          "bye": false,
-          "seed": null,
-          "name": "Zeynep Ilker",
-          "school": "Rutgers University",
-          "abbr": null,
-          "pid": "rut-w-p5",
-          "wtn": 17.51
-         },
-         {
-          "pos": 40,
-          "bye": false,
-          "seed": null,
-          "name": "Lara Russiniello",
-          "school": "University Of Delaware",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.59
-         },
-         {
-          "pos": 41,
-          "bye": false,
-          "seed": 11,
-          "name": "Lilianna Chitambar",
-          "school": "Fordham University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.2
-         },
-         {
-          "pos": 42,
-          "bye": false,
-          "seed": null,
-          "name": "Elena Milutinovic",
-          "school": "Saint John's University/NY",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.75
-         },
-         {
-          "pos": 43,
-          "bye": false,
-          "seed": null,
-          "name": "BEATRICE GIORGETTI",
-          "school": "Temple University",
-          "abbr": null,
-          "pid": "temple-w-n4",
-          "wtn": 19.05
-         },
-         {
-          "pos": 44,
-          "bye": false,
-          "seed": null,
-          "name": "Alina Shyani",
-          "school": "Lehigh University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 18.01
-         },
-         {
-          "pos": 45,
-          "bye": false,
-          "seed": 14,
-          "name": "Isabelle Sobee Oak",
-          "school": "Columbia University",
-          "abbr": null,
-          "pid": "colum-w-n8",
-          "wtn": 17.22
-         },
-         {
-          "pos": 46,
-          "bye": false,
-          "seed": null,
-          "name": "Isabella De Luise",
-          "school": "Villanova University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.98
-         },
-         {
-          "pos": 47,
-          "bye": false,
-          "seed": null,
-          "name": "Margaux Devaul",
-          "school": "Lehigh University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.59
-         },
-         {
-          "pos": 48,
-          "bye": false,
-          "seed": null,
-          "name": "Mia Palladino",
-          "school": "Stony Brook University (SUNY)",
-          "abbr": null,
-          "pid": null,
-          "wtn": 18.14
-         },
-         {
-          "pos": 49,
-          "bye": false,
-          "seed": 16,
-          "name": "Catalina Padilla Udaeta",
-          "school": "Fordham University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.25
-         },
-         {
-          "pos": 50,
-          "bye": false,
-          "seed": null,
-          "name": "Aida Oviedo",
-          "school": "Hofstra University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 18.62
-         },
-         {
-          "pos": 51,
-          "bye": false,
-          "seed": null,
-          "name": "Oleksandra Ovsiienko",
-          "school": "Fairleigh Dickinson Univ.",
-          "abbr": null,
-          "pid": null,
-          "wtn": 18.45
-         },
-         {
-          "pos": 52,
-          "bye": false,
-          "seed": null,
-          "name": "Sofia Becerra Morin",
-          "school": "Temple University",
-          "abbr": null,
-          "pid": "temple-w-n3",
-          "wtn": 18.46
-         },
-         {
-          "pos": 53,
-          "bye": false,
-          "seed": 12,
-          "name": "Peien Deng",
-          "school": "Univ. Of Pennsylvania",
-          "abbr": null,
-          "pid": "penn-w-p1",
-          "wtn": 17.25
-         },
-         {
-          "pos": 54,
-          "bye": false,
-          "seed": null,
-          "name": "Liepa Sataite",
-          "school": "Wagner College",
-          "abbr": null,
-          "pid": null,
-          "wtn": 18.19
-         },
-         {
-          "pos": 55,
-          "bye": false,
-          "seed": null,
-          "name": "Julia Fix",
-          "school": "Fairleigh Dickinson Univ.",
-          "abbr": null,
-          "pid": null,
-          "wtn": 19.37
-         },
-         {
-          "pos": 56,
-          "bye": false,
-          "seed": null,
-          "name": "Julianne Nguyen",
-          "school": "Fordham University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.52
-         },
-         {
-          "pos": 57,
-          "bye": false,
-          "seed": 10,
-          "name": "Valeria Sanchez",
-          "school": "University Of Delaware",
-          "abbr": null,
-          "pid": "utsa-w-p4",
-          "wtn": 17.32
-         },
-         {
-          "pos": 58,
-          "bye": false,
-          "seed": null,
-          "name": "Christine Fourie",
-          "school": "Drexel University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 18.21
-         },
-         {
-          "pos": 59,
-          "bye": false,
-          "seed": null,
-          "name": "Anastasia Sereda",
-          "school": "Seton Hall University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.43
-         },
-         {
-          "pos": 60,
-          "bye": false,
-          "seed": null,
-          "name": "Jadesola Cole",
-          "school": "Long Island University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 19.07
-         },
-         {
-          "pos": 61,
-          "bye": false,
-          "seed": 13,
-          "name": "Paola Ueno Dalmonico",
-          "school": "Fordham University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 17.35
-         },
-         {
-          "pos": 62,
-          "bye": false,
-          "seed": null,
-          "name": "Anne Moody",
-          "school": "Villanova University",
-          "abbr": null,
-          "pid": "brown-w-fp399",
-          "wtn": 18.94
-         },
-         {
-          "pos": 63,
-          "bye": false,
-          "seed": null,
-          "name": "Kateryna Kryuchkova",
-          "school": "Mercyhurst University",
-          "abbr": null,
-          "pid": null,
-          "wtn": 18.22
-         },
-         {
-          "pos": 64,
-          "bye": false,
-          "seed": null,
-          "name": "Elizabeth Tkachenko",
-          "school": "Univ. Of Pennsylvania",
-          "abbr": null,
-          "pid": "penn-w-fp307",
-          "wtn": 17.57
-         }
-        ],
-        "rounds": [
-         {
-          "round": 1,
-          "matchUps": [
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             {
-              "name": "Emma Tomova",
-              "abbr": null,
-              "school": "Univ. Of Pennsylvania",
-              "pid": "penn-w-p8",
-              "wtn": 16.84,
-              "seed": 1
-             },
-             {
-              "name": "Younsoo Cho",
-              "abbr": null,
-              "school": "Saint John's University/NY",
-              "pid": null,
-              "wtn": 17.89,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             {
-              "name": "Nina Andreoni",
-              "abbr": null,
-              "school": "Temple University",
-              "pid": "temple-w-p1",
-              "wtn": 17.86,
-              "seed": null
-             },
-             {
-              "name": "Maren Urata",
-              "abbr": null,
-              "school": "Princeton University",
-              "pid": "prin-w-p9",
-              "wtn": 18.17,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             {
-              "name": "Jordina Cegarra Ramirez",
-              "abbr": null,
-              "school": "Penn State University",
-              "pid": "psu-w-fp267",
-              "wtn": 16.92,
-              "seed": 3
-             },
-             {
-              "name": "Stella Schmitz",
-              "abbr": null,
-              "school": "Rutgers University",
-              "pid": "rut-w-p8",
-              "wtn": 17.87,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             {
-              "name": "Lena Dogadalski",
-              "abbr": null,
-              "school": "Lehigh University",
-              "pid": null,
-              "wtn": 18.05,
-              "seed": null
-             },
-             {
-              "name": "Marcella Roversi",
-              "abbr": null,
-              "school": "Hofstra University",
-              "pid": null,
-              "wtn": 17.76,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             {
-              "name": "Karina Jumazhanova",
-              "abbr": null,
-              "school": "Rutgers University",
-              "pid": "rut-w-p6",
-              "wtn": 16.92,
-              "seed": 2
-             },
-             {
-              "name": "Katerina Dimitrova",
-              "abbr": null,
-              "school": "Penn State University",
-              "pid": "psu-w-p5",
-              "wtn": 18.64,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             {
-              "name": "Tesse Antonis",
-              "abbr": null,
-              "school": "Temple University",
-              "pid": "temple-w-n2",
-              "wtn": 17.71,
-              "seed": null
-             },
-             {
-              "name": "Valeria Casusol",
-              "abbr": null,
-              "school": "Saint Joseph's University",
-              "pid": null,
-              "wtn": 20.1,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             {
-              "name": "Brianna Baldi",
-              "abbr": null,
-              "school": "Penn State University",
-              "pid": "psu-w-p1",
-              "wtn": 16.96,
-              "seed": 4
-             },
-             {
-              "name": "Mila Badics",
-              "abbr": null,
-              "school": "Duquesne University",
-              "pid": null,
-              "wtn": 17.84,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             {
-              "name": "Variance Horn-Bourque",
-              "abbr": null,
-              "school": "Mercyhurst University",
-              "pid": null,
-              "wtn": 18.64,
-              "seed": null
-             },
-             {
-              "name": "Ashika Pinninti",
-              "abbr": null,
-              "school": "New Jersey Inst. Of Tech",
-              "pid": null,
-              "wtn": 18.89,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             {
-              "name": "Anna Nguyen",
-              "abbr": null,
-              "school": "Princeton University",
-              "pid": "prin-w-p7",
-              "wtn": 16.98,
-              "seed": 5
-             },
-             {
-              "name": "Yasmin Costa",
-              "abbr": null,
-              "school": "Temple University",
-              "pid": "temple-w-p3",
-              "wtn": 18.63,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T11:30",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             {
-              "name": "SANJANA DEVINENI",
-              "abbr": null,
-              "school": "Stony Brook University (SUNY)",
-              "pid": null,
-              "wtn": 17.7,
-              "seed": null
-             },
-             {
-              "name": "Sofia Segui Edmundson",
-              "abbr": null,
-              "school": "Seton Hall University",
-              "pid": null,
-              "wtn": 17.89,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T11:30",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             {
-              "name": "Jaden Davidson",
-              "abbr": null,
-              "school": "Seton Hall University",
-              "pid": null,
-              "wtn": 17.03,
-              "seed": 6
-             },
-             {
-              "name": "Sasha Motlagh",
-              "abbr": null,
-              "school": "Univ. Of Pennsylvania",
-              "pid": "penn-w-p3",
-              "wtn": 18.12,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T11:30",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             {
-              "name": "Amber Yin",
-              "abbr": null,
-              "school": "Columbia University",
-              "pid": "colum-w-p8",
-              "wtn": 17.77,
-              "seed": null
-             },
-             {
-              "name": "Luana Paiva",
-              "abbr": null,
-              "school": "Fordham University",
-              "pid": null,
-              "wtn": 18.13,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T11:30",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             {
-              "name": "Ansley cox",
-              "abbr": null,
-              "school": "Penn State University",
-              "pid": "psu-w-p4",
-              "wtn": 17.12,
-              "seed": 7
-             },
-             {
-              "name": "Isabella Kellenberger",
-              "abbr": null,
-              "school": "University Of Delaware",
-              "pid": null,
-              "wtn": 17.8,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T11:30",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             {
-              "name": "Cornelia Bruu-Syversen",
-              "abbr": null,
-              "school": "Stony Brook University (SUNY)",
-              "pid": null,
-              "wtn": 19,
-              "seed": null
-             },
-             {
-              "name": "Naomi Lalonde",
-              "abbr": null,
-              "school": "Duquesne University",
-              "pid": null,
-              "wtn": 17.89,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T11:30",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             {
-              "name": "Varsha Vedula",
-              "abbr": null,
-              "school": "Univ. Of Pennsylvania",
-              "pid": "penn-w-p9",
-              "wtn": 17.14,
-              "seed": 8
-             },
-             {
-              "name": "Tianni Zhou",
-              "abbr": null,
-              "school": "Temple University",
-              "pid": "temple-w-p9",
-              "wtn": 19.18,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T11:30",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             {
-              "name": "Kylie Nguyen",
-              "abbr": null,
-              "school": "Columbia University",
-              "pid": "colum-w-n5",
-              "wtn": 17.55,
-              "seed": null
-             },
-             {
-              "name": "Susana Souhrada",
-              "abbr": null,
-              "school": "Penn State University",
-              "pid": "psu-w-n1",
-              "wtn": 17.55,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             {
-              "name": "Sabrina Lin",
-              "abbr": null,
-              "school": "Columbia University",
-              "pid": "colum-w-p7",
-              "wtn": 17.19,
-              "seed": 9
-             },
-             {
-              "name": "Evelina Zhuk",
-              "abbr": null,
-              "school": "Fairleigh Dickinson Univ.",
-              "pid": null,
-              "wtn": 19.11,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             {
-              "name": "Ladina Bruhin",
-              "abbr": null,
-              "school": "Stony Brook University (SUNY)",
-              "pid": null,
-              "wtn": 18.53,
-              "seed": null
-             },
-             {
-              "name": "Denisse Arinez Guilarte",
-              "abbr": null,
-              "school": "Duquesne University",
-              "pid": null,
-              "wtn": 18.91,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             {
-              "name": "Marianthi Christoforidou",
-              "abbr": null,
-              "school": "Temple University",
-              "pid": "temple-w-p2",
-              "wtn": 17.2,
-              "seed": 15
-             },
-             {
-              "name": "Katsiaryna Kostsina",
-              "abbr": null,
-              "school": "Fairleigh Dickinson Univ.",
-              "pid": null,
-              "wtn": 18.01,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             {
-              "name": "Zeynep Ilker",
-              "abbr": null,
-              "school": "Rutgers University",
-              "pid": "rut-w-p5",
-              "wtn": 17.51,
-              "seed": null
-             },
-             {
-              "name": "Lara Russiniello",
-              "abbr": null,
-              "school": "University Of Delaware",
-              "pid": null,
-              "wtn": 17.59,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             {
-              "name": "Lilianna Chitambar",
-              "abbr": null,
-              "school": "Fordham University",
-              "pid": null,
-              "wtn": 17.2,
-              "seed": 11
-             },
-             {
-              "name": "Elena Milutinovic",
-              "abbr": null,
-              "school": "Saint John's University/NY",
-              "pid": null,
-              "wtn": 17.75,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             {
-              "name": "BEATRICE GIORGETTI",
-              "abbr": null,
-              "school": "Temple University",
-              "pid": "temple-w-n4",
-              "wtn": 19.05,
-              "seed": null
-             },
-             {
-              "name": "Alina Shyani",
-              "abbr": null,
-              "school": "Lehigh University",
-              "pid": null,
-              "wtn": 18.01,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             {
-              "name": "Isabelle Sobee Oak",
-              "abbr": null,
-              "school": "Columbia University",
-              "pid": "colum-w-n8",
-              "wtn": 17.22,
-              "seed": 14
-             },
-             {
-              "name": "Isabella De Luise",
-              "abbr": null,
-              "school": "Villanova University",
-              "pid": null,
-              "wtn": 17.98,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             {
-              "name": "Margaux Devaul",
-              "abbr": null,
-              "school": "Lehigh University",
-              "pid": null,
-              "wtn": 17.59,
-              "seed": null
-             },
-             {
-              "name": "Mia Palladino",
-              "abbr": null,
-              "school": "Stony Brook University (SUNY)",
-              "pid": null,
-              "wtn": 18.14,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T10:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             {
-              "name": "Catalina Padilla Udaeta",
-              "abbr": null,
-              "school": "Fordham University",
-              "pid": null,
-              "wtn": 17.25,
-              "seed": 16
-             },
-             {
-              "name": "Aida Oviedo",
-              "abbr": null,
-              "school": "Hofstra University",
-              "pid": null,
-              "wtn": 18.62,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T11:30",
-            "venue": "Princeton Indoors",
-            "sides": [
-             {
-              "name": "Oleksandra Ovsiienko",
-              "abbr": null,
-              "school": "Fairleigh Dickinson Univ.",
-              "pid": null,
-              "wtn": 18.45,
-              "seed": null
-             },
-             {
-              "name": "Sofia Becerra Morin",
-              "abbr": null,
-              "school": "Temple University",
-              "pid": "temple-w-n3",
-              "wtn": 18.46,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T11:30",
-            "venue": "Princeton Indoors",
-            "sides": [
-             {
-              "name": "Peien Deng",
-              "abbr": null,
-              "school": "Univ. Of Pennsylvania",
-              "pid": "penn-w-p1",
-              "wtn": 17.25,
-              "seed": 12
-             },
-             {
-              "name": "Liepa Sataite",
-              "abbr": null,
-              "school": "Wagner College",
-              "pid": null,
-              "wtn": 18.19,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T11:30",
-            "venue": "Princeton Indoors",
-            "sides": [
-             {
-              "name": "Julia Fix",
-              "abbr": null,
-              "school": "Fairleigh Dickinson Univ.",
-              "pid": null,
-              "wtn": 19.37,
-              "seed": null
-             },
-             {
-              "name": "Julianne Nguyen",
-              "abbr": null,
-              "school": "Fordham University",
-              "pid": null,
-              "wtn": 17.52,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T11:30",
-            "venue": "Princeton Indoors",
-            "sides": [
-             {
-              "name": "Valeria Sanchez",
-              "abbr": null,
-              "school": "University Of Delaware",
-              "pid": "utsa-w-p4",
-              "wtn": 17.32,
-              "seed": 10
-             },
-             {
-              "name": "Christine Fourie",
-              "abbr": null,
-              "school": "Drexel University",
-              "pid": null,
-              "wtn": 18.21,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T11:30",
-            "venue": "Princeton Indoors",
-            "sides": [
-             {
-              "name": "Anastasia Sereda",
-              "abbr": null,
-              "school": "Seton Hall University",
-              "pid": null,
-              "wtn": 17.43,
-              "seed": null
-             },
-             {
-              "name": "Jadesola Cole",
-              "abbr": null,
-              "school": "Long Island University",
-              "pid": null,
-              "wtn": 19.07,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T11:30",
-            "venue": "Princeton Indoors",
-            "sides": [
-             {
-              "name": "Paola Ueno Dalmonico",
-              "abbr": null,
-              "school": "Fordham University",
-              "pid": null,
-              "wtn": 17.35,
-              "seed": 13
-             },
-             {
-              "name": "Anne Moody",
-              "abbr": null,
-              "school": "Villanova University",
-              "pid": "brown-w-fp399",
-              "wtn": 18.94,
-              "seed": null
-             }
-            ]
-           },
-           {
-            "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T11:30",
-            "venue": "Princeton Indoors",
-            "sides": [
-             {
-              "name": "Kateryna Kryuchkova",
-              "abbr": null,
-              "school": "Mercyhurst University",
-              "pid": null,
-              "wtn": 18.22,
-              "seed": null
-             },
-             {
-              "name": "Elizabeth Tkachenko",
-              "abbr": null,
-              "school": "Univ. Of Pennsylvania",
-              "pid": "penn-w-fp307",
-              "wtn": 17.57,
-              "seed": null
-             }
-            ]
-           }
-          ]
-         },
-         {
-          "round": 2,
-          "matchUps": [
-           {
-            "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T14:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T14:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T14:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T14:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T14:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T14:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T14:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T14:00",
-            "venue": "Princeton Outdoors",
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T14:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T14:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T14:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T14:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T14:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T14:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T14:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": "2026-10-15T14:00",
-            "venue": "Princeton Indoors",
-            "sides": [
-             null,
-             null
-            ]
-           }
-          ]
-         },
-         {
-          "round": 3,
-          "matchUps": [
-           {
-            "roundName": "R16",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R16",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R16",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R16",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R16",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R16",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R16",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "R16",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           }
-          ]
-         },
-         {
-          "round": 4,
-          "matchUps": [
-           {
-            "roundName": "Quarterfinals",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "Quarterfinals",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "Quarterfinals",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "Quarterfinals",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           }
-          ]
-         },
-         {
-          "round": 5,
-          "matchUps": [
-           {
-            "roundName": "Semifinals",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           },
-           {
-            "roundName": "Semifinals",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           }
-          ]
-         },
-         {
-          "round": 6,
-          "matchUps": [
-           {
-            "roundName": "Final",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
-            "when": null,
-            "venue": null,
-            "sides": [
-             null,
-             null
-            ]
-           }
-          ]
-         }
-        ]
-       },
-       {
-        "name": "Consolation",
-        "stage": "VOLUNTARY_CONSOLATION",
-        "positions": [],
-        "rounds": []
-       }
-      ]
-     },
-     {
       "drawName": "Main Singles",
       "stage": "MAIN",
       "kind": "MAIN",
@@ -234934,7 +233062,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Carolina Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:03:59.578Z",
+  "fetchedAt": "2026-10-14T15:33:45.691Z",
   "events": [
    {
     "eventId": "BBD8E08C-0836-4D64-9BF6-D97620A3333F",
@@ -241422,7 +239550,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:04:02.323Z",
+  "fetchedAt": "2026-10-14T15:33:48.473Z",
   "events": [
    {
     "eventId": "DED64A6D-F501-4CAE-9864-B5471E31510E",
@@ -249727,7 +247855,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Northeast Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:04:05.146Z",
+  "fetchedAt": "2026-10-14T15:33:51.275Z",
   "events": [
    {
     "eventId": "5258E9B1-DFD6-48E8-8883-268B437D1360",
@@ -249751,7 +247879,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Northwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:04:07.732Z",
+  "fetchedAt": "2026-10-14T15:33:53.869Z",
   "events": [
    {
     "eventId": "146A7A03-568C-46C5-BD37-575D89BDD005",
@@ -257808,7 +255936,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-14T15:04:10.483Z",
+  "fetchedAt": "2026-10-14T15:33:56.771Z",
   "events": [
    {
     "eventId": "9D536E84-BA27-4116-A442-716034BB99D1",
@@ -258418,11 +256546,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 59,
           "bye": false,
           "seed": null,
-          "name": "Maria Garcia",
-          "school": "University Of Arizona",
+          "name": "Maria Paula Ramos Garcia",
+          "school": "California State University, Fullerton",
           "abbr": null,
-          "pid": "ariz-w-p2",
-          "wtn": 15.93
+          "pid": "csuf-w-n3",
+          "wtn": 16.44
          },
          {
           "pos": 60,
@@ -259242,11 +257370,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "SDSU",
             "sides": [
              {
-              "name": "Maria Garcia",
+              "name": "Maria Paula Ramos Garcia",
               "abbr": null,
-              "school": "University Of Arizona",
-              "pid": "ariz-w-p2",
-              "wtn": 15.93,
+              "school": "California State University, Fullerton",
+              "pid": "csuf-w-n3",
+              "wtn": 16.44,
               "seed": null
              },
              {
