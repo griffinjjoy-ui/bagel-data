@@ -71,6 +71,120 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
+  "event": "W50 Quebec City",
+  "tournamentId": 17334,
+  "tour": "wta",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "unc-w-p2",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "lsu-p5",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "lou-w-h9",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "umd-w-h7",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "duke-w-n2",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "lsu-p8",
+    "seed": "3",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "neb-w-h7",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "sc-w-h2",
+    "seed": "8",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "usc-w-h12",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "aub-w-h7",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "wsu-w-h7",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "uva-w-p11",
+    "seed": null,
+    "entry": "WC",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tamu-p9",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
   "event": "W15 Chisinau",
   "tournamentId": 17343,
   "tour": "wta",
@@ -275,6 +389,192 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
+  "event": "W35 Redding",
+  "tournamentId": 17337,
+  "tour": "wta",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "osu-w-p6",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "tamu-p8",
+    "seed": null,
+    "entry": "WC",
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "tamu-w-n8",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "usc-w-h2",
+    "seed": "5",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "corn-w-h13",
+    "seed": "7",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "tex-w-n2",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "pepp-w-p5",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "wisc-w-p7",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "cal-w-p6",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "uga-w-h6",
+    "seed": "4",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tex-p8",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "tex-p4",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "tamu-w-n5",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "lsu-w-h3",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "uga-w-h11",
+    "seed": "2",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "tex-p10",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tamu-w-n3",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "pepp-w-fp121",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ore-w-p2",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tamu-w-n4",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ore-w-p3",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "unc-w-p9",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": false,
+    "played": true
+   }
+  ]
+ },
+ {
   "event": "W100 Edmond",
   "tournamentId": 17332,
   "tour": "wta",
@@ -387,7 +687,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "tenn-w-h9",
+    "playerId": "ou-w-n3",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -395,7 +695,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "ou-w-n3",
+    "playerId": "tenn-w-h9",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -420,120 +720,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
    },
    {
     "playerId": "tex-w-n1",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   }
-  ]
- },
- {
-  "event": "W50 Quebec City",
-  "tournamentId": 17334,
-  "tour": "wta",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "lsu-p5",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "unc-w-p2",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "lou-w-h9",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "duke-w-n2",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "lsu-p8",
-    "seed": "3",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "neb-w-h7",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "sc-w-h2",
-    "seed": "8",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "umd-w-h7",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "wsu-w-h7",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "uva-w-p11",
-    "seed": null,
-    "entry": "WC",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "usc-w-h12",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "aub-w-h7",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tamu-p9",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -595,200 +781,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
-  "event": "W35 Redding",
-  "tournamentId": 17337,
-  "tour": "wta",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "tamu-p8",
-    "seed": null,
-    "entry": "WC",
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tamu-w-n8",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "osu-w-p6",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "usc-w-h2",
-    "seed": "5",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tex-w-n2",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "pepp-w-p5",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "corn-w-h13",
-    "seed": "7",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "wisc-w-p7",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "cal-w-p6",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "uga-w-h6",
-    "seed": "4",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tex-p8",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tex-p4",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "tamu-w-n5",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "lsu-w-h3",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "usd-w-h6",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "uga-w-h11",
-    "seed": "2",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tex-p10",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tamu-w-n3",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "pepp-w-fp121",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ore-w-p2",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tamu-w-n4",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ore-w-p3",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "unc-w-p9",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": false,
-    "played": true
-   }
-  ]
- },
- {
   "event": "W15 Maceio",
   "tournamentId": 17341,
   "tour": "wta",
@@ -827,17 +819,25 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   },
   "entries": [
    {
-    "playerId": "ou-p5",
+    "playerId": "tamu-p8",
     "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tenn-p6",
+    "seed": "1",
     "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "tamu-p8",
+    "playerId": "ou-p5",
     "seed": null,
-    "entry": "Q",
+    "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -856,14 +856,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "entry": "Q",
     "inMain": true,
     "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "tenn-p6",
-    "seed": "1",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
     "played": true
    },
    {
@@ -971,14 +963,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "ou-p7",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
     "playerId": "tamu-w-n3",
     "seed": null,
     "entry": null,
@@ -987,7 +971,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "pepp-w-fp121",
+    "playerId": "ou-p7",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -1003,7 +987,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "lsu-w-h3",
+    "playerId": "pepp-w-fp121",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -1012,6 +996,14 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
    },
    {
     "playerId": "ucla-w-n1",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "lsu-w-h3",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -1201,16 +1193,16 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "lsu-p8",
-    "seed": "4",
+    "playerId": "okst-w-h7",
+    "seed": null,
     "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "okst-w-h7",
-    "seed": null,
+    "playerId": "lsu-p8",
+    "seed": "4",
     "entry": null,
     "inMain": true,
     "eliminated": true,
@@ -1249,17 +1241,17 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "unc-w-n1",
+    "playerId": "usc-w-h12",
     "seed": null,
-    "entry": "Q",
+    "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "usc-w-h12",
+    "playerId": "unc-w-n1",
     "seed": null,
-    "entry": null,
+    "entry": "Q",
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -1525,17 +1517,17 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "tex-w-h5",
+    "playerId": "tamu-p5",
     "seed": null,
-    "entry": "WC",
+    "entry": "Q",
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "tamu-p5",
+    "playerId": "tex-w-h5",
     "seed": null,
-    "entry": "Q",
+    "entry": "WC",
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -1557,7 +1549,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "smu-w-p9",
+    "playerId": "tex-p5",
     "seed": null,
     "entry": "Q",
     "inMain": true,
@@ -1565,7 +1557,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "tex-p5",
+    "playerId": "smu-w-p9",
     "seed": null,
     "entry": "Q",
     "inMain": true,
@@ -1605,17 +1597,17 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "tamu-w-h6",
+    "playerId": "ucla-w-p9",
     "seed": null,
-    "entry": "SR",
+    "entry": "Q",
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "ucla-w-p9",
+    "playerId": "tamu-w-h6",
     "seed": null,
-    "entry": "Q",
+    "entry": "SR",
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -2001,6 +1993,450 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
+  "event": "M25 Austin",
+  "tournamentId": 22147,
+  "tour": "atp",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "ucla-m-h8",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ore-m-h7",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "tex-m-p8",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "wake-m-p6",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "unc-m-h8",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "pepp-m-p6",
+    "seed": "6",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ou-m-n4",
+    "seed": "3",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "aub-m-p10",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "tenn-m-h6",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "ou-m-p5",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tex-m-h11",
+    "seed": "7",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tcu-m-h5",
+    "seed": "8",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "osu-m-p5",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "tcu-m-fp30",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "tex-m-n2",
+    "seed": null,
+    "entry": "WC",
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "mich-m-h5",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "wich-m-fp92",
+    "seed": "4",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "okst-m-h4",
+    "seed": "5",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "bay-m-p1",
+    "seed": null,
+    "entry": "WC",
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "tex-m-h2",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "tex-m-p7",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "tamu-m-h7",
+    "seed": "2",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "tex-m-n1",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tex-m-p2",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "asu-m-fp38",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tex-m-p10",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "uci-m-p9",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "corn-m-h11",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "wake-m-p4",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tex-m-p5",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
+  "event": "M15 Lexington",
+  "tournamentId": 22157,
+  "tour": "atp",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "tenn-m-h10",
+    "seed": "1",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "uk-m-p7",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "uk-m-p2",
+    "seed": null,
+    "entry": "WC",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "uga-m-n8",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "uk-m-p1",
+    "seed": null,
+    "entry": "WC",
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "uci-m-h7",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "van-m-p5",
+    "seed": "6",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "osu-m-fp278",
+    "seed": "8",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "lsu-m-n2",
+    "seed": "4",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "uk-m-p8",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tamu-m-p4",
+    "seed": "5",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "van-m-p8",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "lsu-m-p4",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "bay-m-h7",
+    "seed": "7",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "clem-m-p6",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "lsu-m-p2",
+    "seed": "3",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "lou-m-p8",
+    "seed": null,
+    "entry": "WC",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "lsu-m-p1",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "fsu-m-h6",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tenn-m-p8",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "aub-m-n1",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "uk-m-p5",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "uk-m-p4",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
   "event": "M25 Santa Margherita di Pula",
   "tournamentId": 22149,
   "tour": "atp",
@@ -2111,200 +2547,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
-  "event": "M15 Lexington",
-  "tournamentId": 22157,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "tenn-m-h10",
-    "seed": "1",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "uga-m-n8",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "uk-m-p1",
-    "seed": null,
-    "entry": "WC",
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "osu-m-fp278",
-    "seed": "8",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "lsu-m-n2",
-    "seed": "4",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "uk-m-p7",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "uk-m-p2",
-    "seed": null,
-    "entry": "WC",
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tamu-m-p4",
-    "seed": "5",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "uci-m-h7",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "uk-m-p8",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "van-m-p5",
-    "seed": "6",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "bay-m-h7",
-    "seed": "7",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "clem-m-p6",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "lsu-m-p2",
-    "seed": "3",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "lou-m-p8",
-    "seed": null,
-    "entry": "WC",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "lsu-m-p1",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "van-m-p8",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "fsu-m-h6",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "lsu-m-p4",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tenn-m-p8",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "aub-m-n1",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "uk-m-p5",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "uk-m-p4",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   }
-  ]
- },
- {
   "event": "M15 Bol",
   "tournamentId": 22154,
   "tour": "atp",
@@ -2335,6 +2577,48 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "inMain": false,
     "eliminated": true,
     "played": true
+   }
+  ]
+ },
+ {
+  "event": "M15 Quito",
+  "tournamentId": 22153,
+  "tour": "atp",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "vt-m-h5",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "fla-m-p1",
+    "seed": "8",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "sc-m-p1",
+    "seed": "7",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "uga-m-h16",
+    "seed": "5",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
    }
   ]
  },
@@ -2563,256 +2847,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
-  "event": "M25 Austin",
-  "tournamentId": 22147,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "ucla-m-h8",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tex-m-p8",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "unc-m-h8",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "ore-m-h7",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "wake-m-p6",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "pepp-m-p6",
-    "seed": "6",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ou-m-n4",
-    "seed": "3",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "aub-m-p10",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "ou-m-p5",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "tex-m-h11",
-    "seed": "7",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tcu-m-h5",
-    "seed": "8",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "osu-m-p5",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tcu-m-fp30",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tex-m-n2",
-    "seed": null,
-    "entry": "WC",
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "mich-m-h5",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tenn-m-h6",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "wich-m-fp92",
-    "seed": "4",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "okst-m-h4",
-    "seed": "5",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "bay-m-p1",
-    "seed": null,
-    "entry": "WC",
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tex-m-h2",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "tex-m-p7",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "tamu-m-h7",
-    "seed": "2",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tex-m-n1",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tex-m-p2",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "asu-m-fp38",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tex-m-p10",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "uci-m-p9",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "corn-m-h11",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "wake-m-p4",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tex-m-p5",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   }
-  ]
- },
- {
   "event": "Olbia Challenger",
   "tournamentId": 22099,
   "tour": "atp",
@@ -2959,48 +2993,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "inMain": true,
     "eliminated": true,
     "played": true
-   }
-  ]
- },
- {
-  "event": "M15 Quito",
-  "tournamentId": 22153,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "vt-m-h5",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "fla-m-p1",
-    "seed": "8",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "uga-m-h16",
-    "seed": "5",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "sc-m-p1",
-    "seed": "7",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
    }
   ]
  },
@@ -4339,6 +4331,110 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
+  "playerId": "unc-w-p2",
+  "event": "W50 Quebec City",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "lsu-p5",
+  "event": "W50 Quebec City",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "lou-w-h9",
+  "event": "W50 Quebec City",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "umd-w-h7",
+  "event": "W50 Quebec City",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "duke-w-n2",
+  "event": "W50 Quebec City",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "lsu-p8",
+  "event": "W50 Quebec City",
+  "seed": "3",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "neb-w-h7",
+  "event": "W50 Quebec City",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "sc-w-h2",
+  "event": "W50 Quebec City",
+  "seed": "8",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "usc-w-h12",
+  "event": "W50 Quebec City",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "aub-w-h7",
+  "event": "W50 Quebec City",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "wsu-w-h7",
+  "event": "W50 Quebec City",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "uva-w-p11",
+  "event": "W50 Quebec City",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tamu-p9",
+  "event": "W50 Quebec City",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
   "playerId": "wash-w-h8",
   "event": "W15 Chisinau",
   "seed": null,
@@ -4483,6 +4579,182 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
+  "playerId": "osu-w-p6",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tamu-p8",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tamu-w-n8",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "usc-w-h2",
+  "event": "W35 Redding",
+  "seed": "5",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "corn-w-h13",
+  "event": "W35 Redding",
+  "seed": "7",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tex-w-n2",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "pepp-w-p5",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "wisc-w-p7",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "cal-w-p6",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "uga-w-h6",
+  "event": "W35 Redding",
+  "seed": "4",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tex-p8",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tex-p4",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tamu-w-n5",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "lsu-w-h3",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "uga-w-h11",
+  "event": "W35 Redding",
+  "seed": "2",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tex-p10",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tamu-w-n3",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "pepp-w-fp121",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ore-w-p2",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tamu-w-n4",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ore-w-p3",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "unc-w-p9",
+  "event": "W35 Redding",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": true
+ },
+ {
   "playerId": "ncst-w-h1",
   "event": "W100 Edmond",
   "seed": null,
@@ -4587,7 +4859,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tenn-w-h9",
+  "playerId": "ou-w-n3",
   "event": "W100 Edmond",
   "seed": null,
   "entry": null,
@@ -4595,7 +4867,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "ou-w-n3",
+  "playerId": "tenn-w-h9",
   "event": "W100 Edmond",
   "seed": null,
   "entry": null,
@@ -4621,110 +4893,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
  {
   "playerId": "tex-w-n1",
   "event": "W100 Edmond",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "lsu-p5",
-  "event": "W50 Quebec City",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "unc-w-p2",
-  "event": "W50 Quebec City",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "lou-w-h9",
-  "event": "W50 Quebec City",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "duke-w-n2",
-  "event": "W50 Quebec City",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "lsu-p8",
-  "event": "W50 Quebec City",
-  "seed": "3",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "neb-w-h7",
-  "event": "W50 Quebec City",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "sc-w-h2",
-  "event": "W50 Quebec City",
-  "seed": "8",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "umd-w-h7",
-  "event": "W50 Quebec City",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "wsu-w-h7",
-  "event": "W50 Quebec City",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "uva-w-p11",
-  "event": "W50 Quebec City",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "usc-w-h12",
-  "event": "W50 Quebec City",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "aub-w-h7",
-  "event": "W50 Quebec City",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tamu-p9",
-  "event": "W50 Quebec City",
   "seed": null,
   "entry": null,
   "inMain": false,
@@ -4763,190 +4931,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tamu-p8",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tamu-w-n8",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "osu-w-p6",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "usc-w-h2",
-  "event": "W35 Redding",
-  "seed": "5",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tex-w-n2",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "pepp-w-p5",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "corn-w-h13",
-  "event": "W35 Redding",
-  "seed": "7",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "wisc-w-p7",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "cal-w-p6",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "uga-w-h6",
-  "event": "W35 Redding",
-  "seed": "4",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tex-p8",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tex-p4",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tamu-w-n5",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "lsu-w-h3",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "usd-w-h6",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "uga-w-h11",
-  "event": "W35 Redding",
-  "seed": "2",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tex-p10",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tamu-w-n3",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "pepp-w-fp121",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ore-w-p2",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tamu-w-n4",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ore-w-p3",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "unc-w-p9",
-  "event": "W35 Redding",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": true
- },
- {
   "playerId": "ore-w-h7",
   "event": "W15 Maceio",
   "seed": "6",
@@ -4963,18 +4947,26 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": true
  },
  {
-  "playerId": "ou-p5",
+  "playerId": "tamu-p8",
   "event": "W35 Las Vegas",
   "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tenn-p6",
+  "event": "W35 Las Vegas",
+  "seed": "1",
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
  {
-  "playerId": "tamu-p8",
+  "playerId": "ou-p5",
   "event": "W35 Las Vegas",
   "seed": null,
-  "entry": "Q",
+  "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
@@ -4991,14 +4983,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "event": "W35 Las Vegas",
   "seed": null,
   "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tenn-p6",
-  "event": "W35 Las Vegas",
-  "seed": "1",
-  "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
@@ -5107,14 +5091,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "ou-p7",
-  "event": "W35 Las Vegas",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
   "playerId": "tamu-w-n3",
   "event": "W35 Las Vegas",
   "seed": null,
@@ -5123,7 +5099,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "pepp-w-fp121",
+  "playerId": "ou-p7",
   "event": "W35 Las Vegas",
   "seed": null,
   "entry": null,
@@ -5139,7 +5115,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "lsu-w-h3",
+  "playerId": "pepp-w-fp121",
   "event": "W35 Las Vegas",
   "seed": null,
   "entry": null,
@@ -5148,6 +5124,14 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
  },
  {
   "playerId": "ucla-w-n1",
+  "event": "W35 Las Vegas",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "lsu-w-h3",
   "event": "W35 Las Vegas",
   "seed": null,
   "entry": null,
@@ -5299,17 +5283,17 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "lsu-p8",
+  "playerId": "okst-w-h7",
   "event": "W50 Lexington",
-  "seed": "4",
+  "seed": null,
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
  {
-  "playerId": "okst-w-h7",
+  "playerId": "lsu-p8",
   "event": "W50 Lexington",
-  "seed": null,
+  "seed": "4",
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
@@ -5347,18 +5331,18 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "unc-w-n1",
-  "event": "W50 Lexington",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
   "playerId": "usc-w-h12",
   "event": "W50 Lexington",
   "seed": null,
   "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "unc-w-n1",
+  "event": "W50 Lexington",
+  "seed": null,
+  "entry": "Q",
   "inMain": true,
   "hasUnplayed": false
  },
@@ -5563,18 +5547,18 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tex-w-h5",
-  "event": "W100 Templeton",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
   "playerId": "tamu-p5",
   "event": "W100 Templeton",
   "seed": null,
   "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tex-w-h5",
+  "event": "W100 Templeton",
+  "seed": null,
+  "entry": "WC",
   "inMain": true,
   "hasUnplayed": false
  },
@@ -5595,7 +5579,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "smu-w-p9",
+  "playerId": "tex-p5",
   "event": "W100 Templeton",
   "seed": null,
   "entry": "Q",
@@ -5603,7 +5587,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tex-p5",
+  "playerId": "smu-w-p9",
   "event": "W100 Templeton",
   "seed": null,
   "entry": "Q",
@@ -5643,18 +5627,18 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tamu-w-h6",
-  "event": "W100 Templeton",
-  "seed": null,
-  "entry": "SR",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
   "playerId": "ucla-w-p9",
   "event": "W100 Templeton",
   "seed": null,
   "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tamu-w-h6",
+  "event": "W100 Templeton",
+  "seed": null,
+  "entry": "SR",
   "inMain": true,
   "hasUnplayed": false
  },
@@ -5987,6 +5971,430 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
+  "playerId": "ucla-m-h8",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ore-m-h7",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tex-m-p8",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "wake-m-p6",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "unc-m-h8",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "pepp-m-p6",
+  "event": "M25 Austin",
+  "seed": "6",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ou-m-n4",
+  "event": "M25 Austin",
+  "seed": "3",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "aub-m-p10",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tenn-m-h6",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "ou-m-p5",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tex-m-h11",
+  "event": "M25 Austin",
+  "seed": "7",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tcu-m-h5",
+  "event": "M25 Austin",
+  "seed": "8",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "osu-m-p5",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tcu-m-fp30",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tex-m-n2",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "mich-m-h5",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "wich-m-fp92",
+  "event": "M25 Austin",
+  "seed": "4",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "okst-m-h4",
+  "event": "M25 Austin",
+  "seed": "5",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "bay-m-p1",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tex-m-h2",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tex-m-p7",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tamu-m-h7",
+  "event": "M25 Austin",
+  "seed": "2",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tex-m-n1",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tex-m-p2",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "asu-m-fp38",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tex-m-p10",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "uci-m-p9",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "corn-m-h11",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "wake-m-p4",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tex-m-p5",
+  "event": "M25 Austin",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tenn-m-h10",
+  "event": "M15 Lexington",
+  "seed": "1",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "uk-m-p7",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "uk-m-p2",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "uga-m-n8",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "uk-m-p1",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "uci-m-h7",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "van-m-p5",
+  "event": "M15 Lexington",
+  "seed": "6",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "osu-m-fp278",
+  "event": "M15 Lexington",
+  "seed": "8",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "lsu-m-n2",
+  "event": "M15 Lexington",
+  "seed": "4",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "uk-m-p8",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tamu-m-p4",
+  "event": "M15 Lexington",
+  "seed": "5",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "van-m-p8",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "lsu-m-p4",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "bay-m-h7",
+  "event": "M15 Lexington",
+  "seed": "7",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "clem-m-p6",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "lsu-m-p2",
+  "event": "M15 Lexington",
+  "seed": "3",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "lou-m-p8",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "lsu-m-p1",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "fsu-m-h6",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tenn-m-p8",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "aub-m-n1",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "uk-m-p5",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "uk-m-p4",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
   "playerId": "pepp-m-h6",
   "event": "M25 Santa Margherita di Pula",
   "seed": "8",
@@ -6067,190 +6475,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tenn-m-h10",
-  "event": "M15 Lexington",
-  "seed": "1",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "uga-m-n8",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "uk-m-p1",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "osu-m-fp278",
-  "event": "M15 Lexington",
-  "seed": "8",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "lsu-m-n2",
-  "event": "M15 Lexington",
-  "seed": "4",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "uk-m-p7",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "uk-m-p2",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tamu-m-p4",
-  "event": "M15 Lexington",
-  "seed": "5",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "uci-m-h7",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "uk-m-p8",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "van-m-p5",
-  "event": "M15 Lexington",
-  "seed": "6",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "bay-m-h7",
-  "event": "M15 Lexington",
-  "seed": "7",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "clem-m-p6",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "lsu-m-p2",
-  "event": "M15 Lexington",
-  "seed": "3",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "lou-m-p8",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "lsu-m-p1",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "van-m-p8",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "fsu-m-h6",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "lsu-m-p4",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tenn-m-p8",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "aub-m-n1",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "uk-m-p5",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "uk-m-p4",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
   "playerId": "uva-m-h6",
   "event": "M15 Bol",
   "seed": null,
@@ -6273,6 +6497,38 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "entry": null,
   "inMain": false,
   "hasUnplayed": false
+ },
+ {
+  "playerId": "vt-m-h5",
+  "event": "M15 Quito",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "fla-m-p1",
+  "event": "M15 Quito",
+  "seed": "8",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "sc-m-p1",
+  "event": "M15 Quito",
+  "seed": "7",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "uga-m-h16",
+  "event": "M15 Quito",
+  "seed": "5",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
  },
  {
   "playerId": "msst-m-h9",
@@ -6459,246 +6715,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "ucla-m-h8",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tex-m-p8",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "unc-m-h8",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "ore-m-h7",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "wake-m-p6",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "pepp-m-p6",
-  "event": "M25 Austin",
-  "seed": "6",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ou-m-n4",
-  "event": "M25 Austin",
-  "seed": "3",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "aub-m-p10",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "ou-m-p5",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tex-m-h11",
-  "event": "M25 Austin",
-  "seed": "7",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tcu-m-h5",
-  "event": "M25 Austin",
-  "seed": "8",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "osu-m-p5",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tcu-m-fp30",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tex-m-n2",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "mich-m-h5",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tenn-m-h6",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "wich-m-fp92",
-  "event": "M25 Austin",
-  "seed": "4",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "okst-m-h4",
-  "event": "M25 Austin",
-  "seed": "5",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "bay-m-p1",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tex-m-h2",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tex-m-p7",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tamu-m-h7",
-  "event": "M25 Austin",
-  "seed": "2",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tex-m-n1",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tex-m-p2",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "asu-m-fp38",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tex-m-p10",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "uci-m-p9",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "corn-m-h11",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "wake-m-p4",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tex-m-p5",
-  "event": "M25 Austin",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
   "playerId": "tcu-m-h1",
   "event": "Olbia Challenger",
   "seed": "1",
@@ -6817,38 +6833,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
- },
- {
-  "playerId": "vt-m-h5",
-  "event": "M15 Quito",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "fla-m-p1",
-  "event": "M15 Quito",
-  "seed": "8",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "uga-m-h16",
-  "event": "M15 Quito",
-  "seed": "5",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "sc-m-p1",
-  "event": "M15 Quito",
-  "seed": "7",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
  },
  {
   "playerId": "fau-m-h11",

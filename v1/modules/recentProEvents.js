@@ -1039,9 +1039,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Alejandro Moreno",
      "score": "6-2 7-6(4)"
+    },
+    {
+     "id": "192134900",
+     "date": "2026-10-14",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Christopher Thies",
+     "score": "7-6(6) 6-1"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   },
   {
@@ -1408,6 +1417,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "lsu-m-n2": [
   {
+   "key": "22157",
+   "name": "M15 Lexington",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "192134887",
+     "date": "2026-10-14",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Eli Stephenson",
+     "score": "6-3 7-5"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22039",
    "name": "Columbus Challenger",
    "date": "2026-09-28",
@@ -1438,6 +1467,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "lsu-m-p1": [
+  {
+   "key": "22157",
+   "name": "M15 Lexington",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "192134890",
+     "date": "2026-10-14",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Hoyoung Roh",
+     "score": "6-3 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "22091",
    "name": "M15 Ann Arbor",
@@ -1493,6 +1542,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Darian King",
      "score": "6-3 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "lsu-m-p4": [
+  {
+   "key": "22157",
+   "name": "M15 Lexington",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "192134902",
+     "date": "2026-10-14",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Gavin Young",
+     "score": "6-3 6-4"
     }
    ],
    "reached": "First",
@@ -1558,6 +1629,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "lsu-p5": [
+  {
+   "key": "17334",
+   "name": "W50 Quebec City",
+   "date": "2026-10-12",
+   "surface": "I.hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "168280161",
+     "date": "2026-10-14",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Reese Brantmeier",
+     "score": "7-6(6) 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17296",
    "name": "W100 Templeton",
@@ -2504,9 +2595,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Shihomi Li Xuan Leong",
      "score": "6-4 6-2"
+    },
+    {
+     "id": "168280299",
+     "date": "2026-10-14",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Abigail Rencheli",
+     "score": "7-5 6-1"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -2659,9 +2759,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Carel Aubriel Ngounoue",
      "score": "6-1 1-6 10-5"
+    },
+    {
+     "id": "192134317",
+     "date": "2026-10-14",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Dominick Mosejczuk",
+     "score": "6-4 6-4"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   },
   {
@@ -5017,6 +5126,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "uk-m-p2": [
+  {
+   "key": "22157",
+   "name": "M15 Lexington",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "192134898",
+     "date": "2026-10-14",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Duje Markovina",
+     "score": "6-3 6-7(4) 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "uk-m-p5": [
   {
    "key": "22157",
@@ -5073,9 +5204,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Bjorn Swenson",
      "score": "7-5 6-7(7) 10-8"
+    },
+    {
+     "id": "192134887",
+     "date": "2026-10-14",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Michael Bassem Sobhy",
+     "score": "6-3 7-5"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -5436,6 +5576,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "van-m-p5": [
   {
+   "key": "22157",
+   "name": "M15 Lexington",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "192134883",
+     "date": "2026-10-14",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Raul Garcia",
+     "score": "7-6(2) 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22090",
    "name": "M15 Fayetteville",
    "date": "2026-09-28",
@@ -5488,6 +5648,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "van-m-p8": [
+  {
+   "key": "22157",
+   "name": "M15 Lexington",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "192134890",
+     "date": "2026-10-14",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Olaf Pieczkowski",
+     "score": "6-3 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "22090",
    "name": "M15 Fayetteville",
@@ -5826,9 +6006,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Jerry Roddick",
      "score": "6-2 6-4"
+    },
+    {
+     "id": "192134329",
+     "date": "2026-10-14",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Quinn Vandecasteele",
+     "score": "7-6(1) 6-3"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   },
   {

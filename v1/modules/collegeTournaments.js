@@ -97,6 +97,12 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "end": "2026-10-19"
   },
   {
+    "id": "6acfd9290a838916bdb3f8e5",
+    "name": "2026 ITA DII Men's Midwest Regional Championship",
+    "start": "2026-10-16",
+    "end": "2026-10-19"
+  },
+  {
     "id": "6acfb50d0a838916bd58e7d8",
     "name": "2026 ITA DII Men's Central Regional Championship",
     "start": "2026-10-22",
