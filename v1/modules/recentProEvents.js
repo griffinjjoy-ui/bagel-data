@@ -391,9 +391,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Evan Bynoe",
      "score": "6-3 5-7 11-9"
+    },
+    {
+     "id": "172480396",
+     "date": "2026-10-13",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Dominick Mosejczuk",
+     "score": "6-4 6-4"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
@@ -999,9 +1008,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Sujin Lee",
      "score": "6-2 6-0"
+    },
+    {
+     "id": "151044903",
+     "date": "2026-10-13",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Tia Messerli",
+     "score": "6-1 6-1"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
@@ -2351,9 +2369,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Sandra Taskovic",
      "score": "6-1 6-1"
+    },
+    {
+     "id": "151044902",
+     "date": "2026-10-13",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Imogen Haddad",
+     "score": "6-1 6-2"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -2374,6 +2401,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "ore-w-p3": [
+  {
+   "key": "17337",
+   "name": "W35 Redding",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "151044898",
+     "date": "2026-10-13",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Sydney Jara",
+     "score": "6-1 6-2"
+    }
+   ],
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
@@ -2424,9 +2473,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Karissa Chang",
      "score": "6-4 6-3"
+    },
+    {
+     "id": "151044899",
+     "date": "2026-10-13",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Shihomi Li Xuan Leong",
+     "score": "6-4 6-2"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
@@ -2661,9 +2719,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Rasheeda Mcadoo",
      "score": "2-6 6-4 6-1"
+    },
+    {
+     "id": "151044720",
+     "date": "2026-10-13",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Valeriya Strakhova",
+     "score": "6-3 6-0"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -2972,6 +3039,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "pepp-w-fp121": [
+  {
+   "key": "17337",
+   "name": "W35 Redding",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "151044899",
+     "date": "2026-10-13",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Nao Nishino",
+     "score": "6-4 6-2"
+    }
+   ],
+   "reached": "Q3",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17320",
    "name": "W35 Las Vegas",
@@ -3629,6 +3716,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "tamu-w-n4": [
+  {
+   "key": "17337",
+   "name": "W35 Redding",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "151044894",
+     "date": "2026-10-13",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Delaney Letzel",
+     "score": "6-0 ret."
+    }
+   ],
+   "reached": "Q3",
+   "reachedTone": "neutral"
+  }
+ ],
  "tamu-w-n5": [
   {
    "key": "17337",
@@ -3645,9 +3754,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Madison Rose",
      "score": "6-0 6-0"
+    },
+    {
+     "id": "151044898",
+     "date": "2026-10-13",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Patsy Daughters",
+     "score": "6-1 6-2"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
@@ -4142,6 +4260,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "tex-m-n3": [
   {
+   "key": "22100",
+   "name": "Maia Challenger",
+   "date": "2026-10-12",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "180901580",
+     "date": "2026-10-14",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Pedro Martinez Portero",
+     "score": "6-2 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22095",
    "name": "Braga Challenger",
    "date": "2026-10-05",
@@ -4320,9 +4458,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Tatiana Pellow",
      "score": "6-1 6-0"
+    },
+    {
+     "id": "151044891",
+     "date": "2026-10-13",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Salma Drugdova",
+     "score": "6-3 6-2"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -4365,6 +4512,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tex-p4": [
+  {
+   "key": "17337",
+   "name": "W35 Redding",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "151044891",
+     "date": "2026-10-13",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Mathilde Ngijol-Carre",
+     "score": "6-3 6-2"
+    }
+   ],
+   "reached": "Q3",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17315",
    "name": "W15 Nashville",
@@ -4411,9 +4578,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Zoe Hammond",
      "score": "7-6(3) 6-2"
+    },
+    {
+     "id": "151044723",
+     "date": "2026-10-13",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Alina Shcherbinina",
+     "score": "6-4 6-2"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -5488,6 +5664,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "wake-m-fp302": [
+  {
+   "key": "22146",
+   "name": "M25 Solapur",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "180902739",
+     "date": "2026-10-14",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Dev Javia",
+     "score": "5-7 6-2 7-6(6)"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "wake-m-p4": [
   {
    "key": "22147",
@@ -5566,9 +5764,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Matthew Vos",
      "score": "6-1 6-0"
+    },
+    {
+     "id": "172480401",
+     "date": "2026-10-13",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Jerry Roddick",
+     "score": "6-2 6-4"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
