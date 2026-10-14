@@ -5,6 +5,124 @@
 // when made: quali ~Saturday, main ~Sun/Mon. asOf 2026-10-14.
 export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEvents ?? [
  {
+  "event": "W35 Birmingham",
+  "tournamentId": 17335,
+  "tour": "wta",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "tenn-w-h3",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ncst-w-h3",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "aub-p12",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "fla-w-h4",
+    "seed": "2",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "fsu-w-h5",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ala-w-h1",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ark-w-h5",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
+  "event": "W15 Chisinau",
+  "tournamentId": 17343,
+  "tour": "wta",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "wash-w-h8",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   }
+  ]
+ },
+ {
+  "event": "W35 Santa Margherita di Pula",
+  "tournamentId": 17339,
+  "tour": "wta",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "utah-w-h8",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "ala-p10",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "ucla-w-p1",
+    "seed": null,
+    "entry": "WC",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
   "event": "W35 Monastir",
   "tournamentId": 17338,
   "tour": "wta",
@@ -12,6 +130,14 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   "finalDate": null,
   "champion": null,
   "entries": [
+   {
+    "playerId": "ucf-w-h5",
+    "seed": null,
+    "entry": "LL",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
    {
     "playerId": "penn-w-h1",
     "seed": null,
@@ -29,9 +155,9 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "ucf-w-h5",
-    "seed": null,
-    "entry": "LL",
+    "playerId": "tcu-w-h2",
+    "seed": "8",
+    "entry": null,
     "inMain": true,
     "eliminated": false,
     "played": true
@@ -45,19 +171,11 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "tcu-w-h2",
-    "seed": "8",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
     "playerId": "ariz-w-h5",
     "seed": null,
     "entry": "Q",
     "inMain": true,
-    "eliminated": false,
+    "eliminated": true,
     "played": true
    },
    {
@@ -131,36 +249,28 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
-  "event": "W35 Santa Margherita di Pula",
-  "tournamentId": 17339,
+  "event": "RoveretOpen Citta della Pace - Rovereto",
+  "tournamentId": 17309,
   "tour": "wta",
   "finished": false,
   "finalDate": null,
   "champion": null,
   "entries": [
    {
-    "playerId": "ala-p10",
+    "playerId": "cuse-w-h8",
     "seed": null,
-    "entry": "Q",
+    "entry": null,
     "inMain": true,
     "eliminated": false,
     "played": true
    },
    {
-    "playerId": "ucla-w-p1",
-    "seed": null,
-    "entry": "WC",
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "utah-w-h8",
+    "playerId": "okst-w-h2",
     "seed": null,
     "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
+    "inMain": false,
+    "eliminated": true,
+    "played": true
    }
   ]
  },
@@ -277,7 +387,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "ou-w-n3",
+    "playerId": "tenn-w-h9",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -285,7 +395,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "tenn-w-h9",
+    "playerId": "ou-w-n3",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -314,72 +424,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "entry": null,
     "inMain": false,
     "eliminated": true,
-    "played": true
-   }
-  ]
- },
- {
-  "event": "W35 Birmingham",
-  "tournamentId": 17335,
-  "tour": "wta",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "tenn-w-h3",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "ncst-w-h3",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "fsu-w-h5",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ala-w-h1",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "aub-p12",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "ark-w-h5",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "fla-w-h4",
-    "seed": "2",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
     "played": true
    }
   ]
@@ -771,50 +815,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
-  "event": "RoveretOpen Citta della Pace - Rovereto",
-  "tournamentId": 17309,
-  "tour": "wta",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "cuse-w-h8",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "okst-w-h2",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   }
-  ]
- },
- {
-  "event": "W15 Chisinau",
-  "tournamentId": 17343,
-  "tour": "wta",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "wash-w-h8",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   }
-  ]
- },
- {
   "event": "W35 Las Vegas",
   "tournamentId": 17320,
   "tour": "wta",
@@ -827,25 +827,17 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   },
   "entries": [
    {
-    "playerId": "tamu-p8",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tenn-p6",
-    "seed": "1",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
     "playerId": "ou-p5",
     "seed": null,
     "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tamu-p8",
+    "seed": null,
+    "entry": "Q",
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -867,15 +859,15 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "aub-p1",
-    "seed": null,
+    "playerId": "tenn-p6",
+    "seed": "1",
     "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "tex-p1",
+    "playerId": "aub-p1",
     "seed": null,
     "entry": null,
     "inMain": true,
@@ -886,6 +878,14 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "playerId": "pepp-w-p5",
     "seed": null,
     "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tex-p1",
+    "seed": null,
+    "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -1169,14 +1169,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "duke-w-p6",
-    "seed": null,
-    "entry": "WC",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
     "playerId": "uga-w-h11",
     "seed": "8",
     "entry": null,
@@ -1185,9 +1177,9 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "duke-w-n2",
+    "playerId": "duke-w-p6",
     "seed": null,
-    "entry": null,
+    "entry": "WC",
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -1201,7 +1193,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "okst-w-h7",
+    "playerId": "duke-w-n2",
     "seed": null,
     "entry": null,
     "inMain": true,
@@ -1211,6 +1203,22 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
    {
     "playerId": "lsu-p8",
     "seed": "4",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "okst-w-h7",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "tamu-p5",
+    "seed": null,
     "entry": null,
     "inMain": true,
     "eliminated": true,
@@ -1233,23 +1241,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "tamu-p5",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
     "playerId": "tex-w-h5",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "usc-w-h12",
     "seed": null,
     "entry": null,
     "inMain": true,
@@ -1260,6 +1252,14 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "playerId": "unc-w-n1",
     "seed": null,
     "entry": "Q",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "usc-w-h12",
+    "seed": null,
+    "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -1313,7 +1313,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "sc-w-n3",
+    "playerId": "sc-w-h3",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -1321,7 +1321,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "sc-w-h3",
+    "playerId": "sc-w-n3",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -1525,6 +1525,14 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
+    "playerId": "tex-w-h5",
+    "seed": null,
+    "entry": "WC",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
     "playerId": "tamu-p5",
     "seed": null,
     "entry": "Q",
@@ -1541,14 +1549,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "tex-w-h5",
-    "seed": null,
-    "entry": "WC",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
     "playerId": "pur-w-h7",
     "seed": null,
     "entry": null,
@@ -1557,7 +1557,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "tex-p5",
+    "playerId": "smu-w-p9",
     "seed": null,
     "entry": "Q",
     "inMain": true,
@@ -1565,7 +1565,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "smu-w-p9",
+    "playerId": "tex-p5",
     "seed": null,
     "entry": "Q",
     "inMain": true,
@@ -1769,17 +1769,17 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "cal-w-h2",
-    "seed": "8",
-    "entry": null,
+    "playerId": "tenn-w-h7",
+    "seed": null,
+    "entry": "Q",
     "inMain": true,
     "eliminated": true,
     "played": true
    },
    {
-    "playerId": "tenn-w-h7",
-    "seed": null,
-    "entry": "Q",
+    "playerId": "cal-w-h2",
+    "seed": "8",
+    "entry": null,
     "inMain": true,
     "eliminated": true,
     "played": true
@@ -1851,20 +1851,20 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "fla-m-p4",
-    "seed": null,
+    "playerId": "stan-m-fp374",
+    "seed": "6",
     "entry": null,
     "inMain": true,
     "eliminated": false,
     "played": true
    },
    {
-    "playerId": "stan-m-fp374",
-    "seed": "6",
+    "playerId": "fla-m-p4",
+    "seed": null,
     "entry": null,
     "inMain": true,
     "eliminated": false,
-    "played": false
+    "played": true
    },
    {
     "playerId": "tamu-m-h9",
@@ -2017,19 +2017,323 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
+    "playerId": "usc-m-p3",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
     "playerId": "ou-m-p1",
     "seed": null,
     "entry": "Q",
     "inMain": true,
     "eliminated": true,
     "played": true
-   },
+   }
+  ]
+ },
+ {
+  "event": "M15 Offenbach",
+  "tournamentId": 22150,
+  "tour": "atp",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
    {
-    "playerId": "usc-m-p3",
+    "playerId": "neb-m-h6",
     "seed": null,
     "entry": null,
     "inMain": true,
     "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "scu-m-h2",
+    "seed": "6",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   }
+  ]
+ },
+ {
+  "event": "Roanne Challenger",
+  "tournamentId": 22101,
+  "tour": "atp",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "lou-m-h5",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "wash-m-h10",
+    "seed": "5",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "uga-m-h5",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "pepp-m-h1",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "ncst-m-h3",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
+  "event": "M15 Lexington",
+  "tournamentId": 22157,
+  "tour": "atp",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "tenn-m-h10",
+    "seed": "1",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "uga-m-n8",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "uk-m-p1",
+    "seed": null,
+    "entry": "WC",
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "osu-m-fp278",
+    "seed": "8",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "lsu-m-n2",
+    "seed": "4",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "uk-m-p7",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "uk-m-p2",
+    "seed": null,
+    "entry": "WC",
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "tamu-m-p4",
+    "seed": "5",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "uci-m-h7",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "uk-m-p8",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "van-m-p5",
+    "seed": "6",
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "bay-m-h7",
+    "seed": "7",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "clem-m-p6",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "lsu-m-p2",
+    "seed": "3",
+    "entry": null,
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "lou-m-p8",
+    "seed": null,
+    "entry": "WC",
+    "inMain": true,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "lsu-m-p1",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "van-m-p8",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "fsu-m-h6",
+    "seed": null,
+    "entry": "Q",
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "lsu-m-p4",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": false
+   },
+   {
+    "playerId": "tenn-m-p8",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "aub-m-n1",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "uk-m-p5",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "uk-m-p4",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   }
+  ]
+ },
+ {
+  "event": "M15 Bol",
+  "tournamentId": 22154,
+  "tour": "atp",
+  "finished": false,
+  "finalDate": null,
+  "champion": null,
+  "entries": [
+   {
+    "playerId": "uva-m-h6",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
+    "playerId": "msu-m-h10",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
+    "played": true
+   },
+   {
+    "playerId": "lsu-m-p8",
+    "seed": null,
+    "entry": null,
+    "inMain": false,
+    "eliminated": true,
     "played": true
    }
   ]
@@ -2085,39 +2389,23 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
-  "event": "Roanne Challenger",
-  "tournamentId": 22101,
+  "event": "San Gregorio di Catania Challenger",
+  "tournamentId": 22103,
   "tour": "atp",
   "finished": false,
   "finalDate": null,
   "champion": null,
   "entries": [
    {
-    "playerId": "lou-m-h5",
+    "playerId": "corn-m-h6",
     "seed": null,
-    "entry": "Q",
+    "entry": null,
     "inMain": true,
     "eliminated": false,
     "played": true
    },
    {
-    "playerId": "wash-m-h10",
-    "seed": "5",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "uga-m-h5",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "pepp-m-h1",
+    "playerId": "duke-m-fp157",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -2125,7 +2413,7 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
-    "playerId": "ncst-m-h3",
+    "playerId": "ark-m-p6",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -2525,234 +2813,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
-  "event": "M15 Lexington",
-  "tournamentId": 22157,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "tenn-m-h10",
-    "seed": "1",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "uga-m-n8",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "uk-m-p1",
-    "seed": null,
-    "entry": "WC",
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "osu-m-fp278",
-    "seed": "8",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "lsu-m-n2",
-    "seed": "4",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "uk-m-p7",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "uk-m-p2",
-    "seed": null,
-    "entry": "WC",
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tamu-m-p4",
-    "seed": "5",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "uci-m-h7",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "uk-m-p8",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "van-m-p5",
-    "seed": "6",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "bay-m-h7",
-    "seed": "7",
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "clem-m-p6",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "lsu-m-p2",
-    "seed": "3",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "lou-m-p8",
-    "seed": null,
-    "entry": "WC",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "lsu-m-p1",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "van-m-p8",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "fsu-m-h6",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "lsu-m-p4",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "tenn-m-p8",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "aub-m-n1",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "uk-m-p5",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "uk-m-p4",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   }
-  ]
- },
- {
-  "event": "M15 Bol",
-  "tournamentId": 22154,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "uva-m-h6",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
-   },
-   {
-    "playerId": "msu-m-h10",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "lsu-m-p8",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   }
-  ]
- },
- {
   "event": "Olbia Challenger",
   "tournamentId": 22099,
   "tour": "atp",
@@ -2811,32 +2871,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
   ]
  },
  {
-  "event": "M15 Offenbach",
-  "tournamentId": 22150,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "neb-m-h6",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "scu-m-h2",
-    "seed": "6",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   }
-  ]
- },
- {
   "event": "M15 Monastir",
   "tournamentId": 22151,
   "tour": "atp",
@@ -2887,6 +2921,14 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "played": true
    },
    {
+    "playerId": "aub-m-h3",
+    "seed": null,
+    "entry": null,
+    "inMain": true,
+    "eliminated": false,
+    "played": true
+   },
+   {
     "playerId": "usc-m-h3",
     "seed": "3",
     "entry": null,
@@ -2901,14 +2943,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "inMain": true,
     "eliminated": false,
     "played": true
-   },
-   {
-    "playerId": "aub-m-h3",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": false
    },
    {
     "playerId": "aub-m-h1",
@@ -2984,40 +3018,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
     "entry": null,
     "inMain": true,
     "eliminated": false,
-    "played": true
-   }
-  ]
- },
- {
-  "event": "San Gregorio di Catania Challenger",
-  "tournamentId": 22103,
-  "tour": "atp",
-  "finished": false,
-  "finalDate": null,
-  "champion": null,
-  "entries": [
-   {
-    "playerId": "corn-m-h6",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "duke-m-fp157",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ark-m-p6",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
     "played": true
    }
   ]
@@ -3468,92 +3468,6 @@ export const drawEvents = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawEve
    },
    {
     "playerId": "ttu-m-h2",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   }
-  ]
- },
- {
-  "event": "Mouilleron-Le-Captif Challenger",
-  "tournamentId": 22041,
-  "tour": "atp",
-  "finished": true,
-  "finalDate": "2026-10-04",
-  "champion": {
-   "playerId": "wash-m-h10",
-   "score": "6-2 6-0",
-   "date": "2026-10-04"
-  },
-  "entries": [
-   {
-    "playerId": "wash-m-h10",
-    "seed": "7",
-    "entry": null,
-    "inMain": true,
-    "eliminated": false,
-    "played": true
-   },
-   {
-    "playerId": "ark-m-h14",
-    "seed": null,
-    "entry": "Q",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tcu-m-h8",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "cal-m-p3",
-    "seed": null,
-    "entry": "ALT",
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "uga-m-h5",
-    "seed": null,
-    "entry": null,
-    "inMain": true,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "ucla-m-h5",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "osu-m-h2",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "unc-m-h8",
-    "seed": null,
-    "entry": null,
-    "inMain": false,
-    "eliminated": true,
-    "played": true
-   },
-   {
-    "playerId": "tenn-m-h5",
     "seed": null,
     "entry": null,
     "inMain": false,
@@ -4369,6 +4283,102 @@ export const recentChampions = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.re
 // legacy flat view (§243 consumers)
 export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawFixtures ?? [
  {
+  "playerId": "tenn-w-h3",
+  "event": "W35 Birmingham",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ncst-w-h3",
+  "event": "W35 Birmingham",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "aub-p12",
+  "event": "W35 Birmingham",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "fla-w-h4",
+  "event": "W35 Birmingham",
+  "seed": "2",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "fsu-w-h5",
+  "event": "W35 Birmingham",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ala-w-h1",
+  "event": "W35 Birmingham",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ark-w-h5",
+  "event": "W35 Birmingham",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "wash-w-h8",
+  "event": "W15 Chisinau",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "utah-w-h8",
+  "event": "W35 Santa Margherita di Pula",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "ala-p10",
+  "event": "W35 Santa Margherita di Pula",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "ucla-w-p1",
+  "event": "W35 Santa Margherita di Pula",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ucf-w-h5",
+  "event": "W35 Monastir",
+  "seed": null,
+  "entry": "LL",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
   "playerId": "penn-w-h1",
   "event": "W35 Monastir",
   "seed": null,
@@ -4385,10 +4395,10 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": true
  },
  {
-  "playerId": "ucf-w-h5",
+  "playerId": "tcu-w-h2",
   "event": "W35 Monastir",
-  "seed": null,
-  "entry": "LL",
+  "seed": "8",
+  "entry": null,
   "inMain": true,
   "hasUnplayed": true
  },
@@ -4401,20 +4411,12 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tcu-w-h2",
-  "event": "W35 Monastir",
-  "seed": "8",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
   "playerId": "ariz-w-h5",
   "event": "W35 Monastir",
   "seed": null,
   "entry": "Q",
   "inMain": true,
-  "hasUnplayed": true
+  "hasUnplayed": false
  },
  {
   "playerId": "ou-p9",
@@ -4465,28 +4467,20 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": true
  },
  {
-  "playerId": "ala-p10",
-  "event": "W35 Santa Margherita di Pula",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "ucla-w-p1",
-  "event": "W35 Santa Margherita di Pula",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "utah-w-h8",
-  "event": "W35 Santa Margherita di Pula",
+  "playerId": "cuse-w-h8",
+  "event": "RoveretOpen Citta della Pace - Rovereto",
   "seed": null,
   "entry": null,
   "inMain": true,
   "hasUnplayed": true
+ },
+ {
+  "playerId": "okst-w-h2",
+  "event": "RoveretOpen Citta della Pace - Rovereto",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
  },
  {
   "playerId": "ncst-w-h1",
@@ -4593,7 +4587,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "ou-w-n3",
+  "playerId": "tenn-w-h9",
   "event": "W100 Edmond",
   "seed": null,
   "entry": null,
@@ -4601,7 +4595,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tenn-w-h9",
+  "playerId": "ou-w-n3",
   "event": "W100 Edmond",
   "seed": null,
   "entry": null,
@@ -4631,62 +4625,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "entry": null,
   "inMain": false,
   "hasUnplayed": false
- },
- {
-  "playerId": "tenn-w-h3",
-  "event": "W35 Birmingham",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "ncst-w-h3",
-  "event": "W35 Birmingham",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "fsu-w-h5",
-  "event": "W35 Birmingham",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ala-w-h1",
-  "event": "W35 Birmingham",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "aub-p12",
-  "event": "W35 Birmingham",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "ark-w-h5",
-  "event": "W35 Birmingham",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "fla-w-h4",
-  "event": "W35 Birmingham",
-  "seed": "2",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
  },
  {
   "playerId": "lsu-p5",
@@ -5025,50 +4963,18 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": true
  },
  {
-  "playerId": "cuse-w-h8",
-  "event": "RoveretOpen Citta della Pace - Rovereto",
+  "playerId": "ou-p5",
+  "event": "W35 Las Vegas",
   "seed": null,
   "entry": null,
   "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "okst-w-h2",
-  "event": "RoveretOpen Citta della Pace - Rovereto",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
   "hasUnplayed": false
- },
- {
-  "playerId": "wash-w-h8",
-  "event": "W15 Chisinau",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
  },
  {
   "playerId": "tamu-p8",
   "event": "W35 Las Vegas",
   "seed": null,
   "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tenn-p6",
-  "event": "W35 Las Vegas",
-  "seed": "1",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ou-p5",
-  "event": "W35 Las Vegas",
-  "seed": null,
-  "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
@@ -5089,15 +4995,15 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "aub-p1",
+  "playerId": "tenn-p6",
   "event": "W35 Las Vegas",
-  "seed": null,
+  "seed": "1",
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
  {
-  "playerId": "tex-p1",
+  "playerId": "aub-p1",
   "event": "W35 Las Vegas",
   "seed": null,
   "entry": null,
@@ -5109,6 +5015,14 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "event": "W35 Las Vegas",
   "seed": null,
   "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tex-p1",
+  "event": "W35 Las Vegas",
+  "seed": null,
+  "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
@@ -5353,14 +5267,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "duke-w-p6",
-  "event": "W50 Lexington",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
   "playerId": "uga-w-h11",
   "event": "W50 Lexington",
   "seed": "8",
@@ -5369,10 +5275,10 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "duke-w-n2",
+  "playerId": "duke-w-p6",
   "event": "W50 Lexington",
   "seed": null,
-  "entry": null,
+  "entry": "WC",
   "inMain": true,
   "hasUnplayed": false
  },
@@ -5385,7 +5291,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "okst-w-h7",
+  "playerId": "duke-w-n2",
   "event": "W50 Lexington",
   "seed": null,
   "entry": null,
@@ -5396,6 +5302,22 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "playerId": "lsu-p8",
   "event": "W50 Lexington",
   "seed": "4",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "okst-w-h7",
+  "event": "W50 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tamu-p5",
+  "event": "W50 Lexington",
+  "seed": null,
   "entry": null,
   "inMain": true,
   "hasUnplayed": false
@@ -5417,23 +5339,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tamu-p5",
-  "event": "W50 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
   "playerId": "tex-w-h5",
-  "event": "W50 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "usc-w-h12",
   "event": "W50 Lexington",
   "seed": null,
   "entry": null,
@@ -5445,6 +5351,14 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "event": "W50 Lexington",
   "seed": null,
   "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "usc-w-h12",
+  "event": "W50 Lexington",
+  "seed": null,
+  "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
@@ -5497,7 +5411,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "sc-w-n3",
+  "playerId": "sc-w-h3",
   "event": "W50 Lexington",
   "seed": null,
   "entry": null,
@@ -5505,7 +5419,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "sc-w-h3",
+  "playerId": "sc-w-n3",
   "event": "W50 Lexington",
   "seed": null,
   "entry": null,
@@ -5649,6 +5563,14 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
+  "playerId": "tex-w-h5",
+  "event": "W100 Templeton",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
   "playerId": "tamu-p5",
   "event": "W100 Templeton",
   "seed": null,
@@ -5665,14 +5587,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tex-w-h5",
-  "event": "W100 Templeton",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
   "playerId": "pur-w-h7",
   "event": "W100 Templeton",
   "seed": null,
@@ -5681,7 +5595,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tex-p5",
+  "playerId": "smu-w-p9",
   "event": "W100 Templeton",
   "seed": null,
   "entry": "Q",
@@ -5689,7 +5603,7 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "smu-w-p9",
+  "playerId": "tex-p5",
   "event": "W100 Templeton",
   "seed": null,
   "entry": "Q",
@@ -5873,18 +5787,18 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "cal-w-h2",
-  "event": "W35 Baza",
-  "seed": "8",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
   "playerId": "tenn-w-h7",
   "event": "W35 Baza",
   "seed": null,
   "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "cal-w-h2",
+  "event": "W35 Baza",
+  "seed": "8",
+  "entry": null,
   "inMain": true,
   "hasUnplayed": false
  },
@@ -5945,17 +5859,17 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": true
  },
  {
-  "playerId": "fla-m-p4",
+  "playerId": "stan-m-fp374",
   "event": "M25 Solapur",
-  "seed": null,
+  "seed": "6",
   "entry": null,
   "inMain": true,
   "hasUnplayed": true
  },
  {
-  "playerId": "stan-m-fp374",
+  "playerId": "fla-m-p4",
   "event": "M25 Solapur",
-  "seed": "6",
+  "seed": null,
   "entry": null,
   "inMain": true,
   "hasUnplayed": true
@@ -6081,6 +5995,14 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
+  "playerId": "usc-m-p3",
+  "event": "M25 Santa Margherita di Pula",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
   "playerId": "ou-m-p1",
   "event": "M25 Santa Margherita di Pula",
   "seed": null,
@@ -6089,12 +6011,268 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "usc-m-p3",
-  "event": "M25 Santa Margherita di Pula",
+  "playerId": "neb-m-h6",
+  "event": "M15 Offenbach",
   "seed": null,
   "entry": null,
   "inMain": true,
   "hasUnplayed": true
+ },
+ {
+  "playerId": "scu-m-h2",
+  "event": "M15 Offenbach",
+  "seed": "6",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "lou-m-h5",
+  "event": "Roanne Challenger",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "wash-m-h10",
+  "event": "Roanne Challenger",
+  "seed": "5",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "uga-m-h5",
+  "event": "Roanne Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "pepp-m-h1",
+  "event": "Roanne Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "ncst-m-h3",
+  "event": "Roanne Challenger",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "tenn-m-h10",
+  "event": "M15 Lexington",
+  "seed": "1",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "uga-m-n8",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "uk-m-p1",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "osu-m-fp278",
+  "event": "M15 Lexington",
+  "seed": "8",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "lsu-m-n2",
+  "event": "M15 Lexington",
+  "seed": "4",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "uk-m-p7",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "uk-m-p2",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tamu-m-p4",
+  "event": "M15 Lexington",
+  "seed": "5",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "uci-m-h7",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "uk-m-p8",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "van-m-p5",
+  "event": "M15 Lexington",
+  "seed": "6",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "bay-m-h7",
+  "event": "M15 Lexington",
+  "seed": "7",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "clem-m-p6",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "lsu-m-p2",
+  "event": "M15 Lexington",
+  "seed": "3",
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "lou-m-p8",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": "WC",
+  "inMain": true,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "lsu-m-p1",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "van-m-p8",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "fsu-m-h6",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": "Q",
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "lsu-m-p4",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "tenn-m-p8",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "aub-m-n1",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "uk-m-p5",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "uk-m-p4",
+  "event": "M15 Lexington",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "uva-m-h6",
+  "event": "M15 Bol",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
+  "playerId": "msu-m-h10",
+  "event": "M15 Bol",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
+ },
+ {
+  "playerId": "lsu-m-p8",
+  "event": "M15 Bol",
+  "seed": null,
+  "entry": null,
+  "inMain": false,
+  "hasUnplayed": false
  },
  {
   "playerId": "msst-m-h9",
@@ -6137,40 +6315,24 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "lou-m-h5",
-  "event": "Roanne Challenger",
+  "playerId": "corn-m-h6",
+  "event": "San Gregorio di Catania Challenger",
   "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "wash-m-h10",
-  "event": "Roanne Challenger",
-  "seed": "5",
   "entry": null,
   "inMain": true,
   "hasUnplayed": true
  },
  {
-  "playerId": "uga-m-h5",
-  "event": "Roanne Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "pepp-m-h1",
-  "event": "Roanne Challenger",
+  "playerId": "duke-m-fp157",
+  "event": "San Gregorio di Catania Challenger",
   "seed": null,
   "entry": null,
   "inMain": false,
   "hasUnplayed": false
  },
  {
-  "playerId": "ncst-m-h3",
-  "event": "Roanne Challenger",
+  "playerId": "ark-m-p6",
+  "event": "San Gregorio di Catania Challenger",
   "seed": null,
   "entry": null,
   "inMain": false,
@@ -6537,214 +6699,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "tenn-m-h10",
-  "event": "M15 Lexington",
-  "seed": "1",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "uga-m-n8",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "uk-m-p1",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "osu-m-fp278",
-  "event": "M15 Lexington",
-  "seed": "8",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "lsu-m-n2",
-  "event": "M15 Lexington",
-  "seed": "4",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "uk-m-p7",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "uk-m-p2",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tamu-m-p4",
-  "event": "M15 Lexington",
-  "seed": "5",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "uci-m-h7",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "uk-m-p8",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "van-m-p5",
-  "event": "M15 Lexington",
-  "seed": "6",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "bay-m-h7",
-  "event": "M15 Lexington",
-  "seed": "7",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "clem-m-p6",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "lsu-m-p2",
-  "event": "M15 Lexington",
-  "seed": "3",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "lou-m-p8",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": "WC",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "lsu-m-p1",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "van-m-p8",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "fsu-m-h6",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "lsu-m-p4",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "tenn-m-p8",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "aub-m-n1",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "uk-m-p5",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "uk-m-p4",
-  "event": "M15 Lexington",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "uva-m-h6",
-  "event": "M15 Bol",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "msu-m-h10",
-  "event": "M15 Bol",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "lsu-m-p8",
-  "event": "M15 Bol",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
   "playerId": "tcu-m-h1",
   "event": "Olbia Challenger",
   "seed": "1",
@@ -6793,22 +6747,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": false
  },
  {
-  "playerId": "neb-m-h6",
-  "event": "M15 Offenbach",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "scu-m-h2",
-  "event": "M15 Offenbach",
-  "seed": "6",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
   "playerId": "msst-m-h4",
   "event": "M15 Monastir",
   "seed": "7",
@@ -6841,6 +6779,14 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "hasUnplayed": true
  },
  {
+  "playerId": "aub-m-h3",
+  "event": "M15 Heraklion",
+  "seed": null,
+  "entry": null,
+  "inMain": true,
+  "hasUnplayed": true
+ },
+ {
   "playerId": "usc-m-h3",
   "event": "M15 Heraklion",
   "seed": "3",
@@ -6850,14 +6796,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
  },
  {
   "playerId": "tamu-m-h6",
-  "event": "M15 Heraklion",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "aub-m-h3",
   "event": "M15 Heraklion",
   "seed": null,
   "entry": null,
@@ -6919,30 +6857,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
   "entry": null,
   "inMain": true,
   "hasUnplayed": true
- },
- {
-  "playerId": "corn-m-h6",
-  "event": "San Gregorio di Catania Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": true
- },
- {
-  "playerId": "duke-m-fp157",
-  "event": "San Gregorio di Catania Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ark-m-p6",
-  "event": "San Gregorio di Catania Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
  },
  {
   "playerId": "cal-m-p9",
@@ -7283,78 +7197,6 @@ export const drawFixtures = globalThis.__BAGEL_REMOTE__?.["drawFixtures"]?.drawF
  {
   "playerId": "ttu-m-h2",
   "event": "Antofagasta Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "wash-m-h10",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": "7",
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ark-m-h14",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": null,
-  "entry": "Q",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tcu-m-h8",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "cal-m-p3",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": null,
-  "entry": "ALT",
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "uga-m-h5",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": true,
-  "hasUnplayed": false
- },
- {
-  "playerId": "ucla-m-h5",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "osu-m-h2",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "unc-m-h8",
-  "event": "Mouilleron-Le-Captif Challenger",
-  "seed": null,
-  "entry": null,
-  "inMain": false,
-  "hasUnplayed": false
- },
- {
-  "playerId": "tenn-m-h5",
-  "event": "Mouilleron-Le-Captif Challenger",
   "seed": null,
   "entry": null,
   "inMain": false,
