@@ -34,6 +34,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "fla-w-h4",
+  "name": "Alicia Dudeney",
+  "teamId": "fla-w",
+  "gender": "women",
+  "opponent": "Daniella Britton",
+  "event": "W35 Birmingham",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
   "playerId": "bay-w-h13",
   "name": "Alicia Herrero Linana",
   "teamId": "bay-w",
@@ -54,12 +64,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ncst-w-h3",
+  "name": "Amelia Rajecki",
+  "teamId": "ncst-w",
+  "gender": "women",
+  "opponent": "Jessika Ponchet",
+  "event": "W35 Birmingham",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
   "playerId": "mich-m-h5",
   "name": "Andrew Fenty",
   "teamId": "mich-m",
   "gender": "men",
   "opponent": "Michael Antonius",
   "event": "M25 Austin",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
+  "playerId": "aub-p12",
+  "name": "Angella Okutoyi",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Indianna Spink",
+  "event": "W35 Birmingham",
   "date": "2026-10-14",
   "day": "today"
  },
@@ -124,6 +154,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "wash-w-h8",
+  "name": "Astrid Olsen",
+  "teamId": "wash-w",
+  "gender": "women",
+  "opponent": "Eva Iurina",
+  "event": "W15 Chisinau",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
   "playerId": "okst-w-p1",
   "name": "Bianca Barbulescu",
   "teamId": "okst-w",
@@ -134,12 +174,42 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ucla-w-p1",
+  "name": "Bianca Fernandez",
+  "teamId": "ucla-w",
+  "gender": "women",
+  "opponent": "Yasmin Ezzat",
+  "event": "W35 Santa Margherita di Pula",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
   "playerId": "tenn-m-h10",
   "name": "Blaise Bicknell",
   "teamId": "tenn-m",
   "gender": "men",
   "opponent": "Gavin Goode",
   "event": "M15 Lexington",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
+  "playerId": "usc-m-p3",
+  "name": "Branko Djuric",
+  "teamId": "usc-m",
+  "gender": "men",
+  "opponent": "Johan Nikles",
+  "event": "M25 Santa Margherita di Pula",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
+  "playerId": "neb-m-h6",
+  "name": "Calvin Mueller",
+  "teamId": "neb-m",
+  "gender": "men",
+  "opponent": "Yannik Kelm",
+  "event": "M15 Offenbach",
   "date": "2026-10-14",
   "day": "today"
  },
@@ -160,6 +230,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Diletta Cherubini",
   "event": "W35 Redding",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
+  "playerId": "wash-m-h10",
+  "name": "Clement Chidekh",
+  "teamId": "wash-m",
+  "gender": "men",
+  "opponent": "Jerome Kym",
+  "event": "Roanne Challenger",
   "date": "2026-10-14",
   "day": "today"
  },
@@ -214,12 +294,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "lsu-m-p2",
+  "name": "Erik Arutiunian",
+  "teamId": "lsu-m",
+  "gender": "men",
+  "opponent": "Darian King",
+  "event": "M15 Lexington",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
   "playerId": "usc-w-h2",
   "name": "Eryn Cayetano",
   "teamId": "usc-w",
   "gender": "women",
   "opponent": "Berta Passola",
   "event": "W35 Redding",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
+  "playerId": "tenn-w-h3",
+  "name": "Esther Adeshina",
+  "teamId": "tenn-w",
+  "gender": "women",
+  "opponent": "Manon Leonard",
+  "event": "W35 Birmingham",
   "date": "2026-10-14",
   "day": "today"
  },
@@ -240,6 +340,26 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Valentina Mediorreal Arias",
   "event": "W15 Maceio",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
+  "playerId": "cuse-w-h8",
+  "name": "Gabriela Andrea Knutson",
+  "teamId": "cuse-w",
+  "gender": "women",
+  "opponent": "Susan Bandecchi",
+  "event": "RoveretOpen Citta della Pace - Rovereto",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
+  "playerId": "scu-m-h2",
+  "name": "Guillaume Dalmasso",
+  "teamId": "scu-m",
+  "gender": "men",
+  "opponent": "Lewie Lane",
+  "event": "M15 Offenbach",
   "date": "2026-10-14",
   "day": "today"
  },
@@ -274,6 +394,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ark-w-h5",
+  "name": "Indianna Spink",
+  "teamId": "ark-w",
+  "gender": "women",
+  "opponent": "Angella Okutoyi",
+  "event": "W35 Birmingham",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
   "playerId": "osu-m-fp278",
   "name": "Jack Anthrop",
   "teamId": "osu-m",
@@ -290,6 +420,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Noah Zamora",
   "event": "M15 Lexington",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
+  "playerId": "uva-m-h6",
+  "name": "Jeffrey von der Schulenburg",
+  "teamId": "uva-m",
+  "gender": "men",
+  "opponent": "Josip Simundza",
+  "event": "M15 Bol",
   "date": "2026-10-14",
   "day": "today"
  },
@@ -474,6 +614,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "ariz-w-h5",
+  "name": "Midori Castillo",
+  "teamId": "ariz-w",
+  "gender": "women",
+  "opponent": "Tiphanie Lemaitre",
+  "event": "W35 Monastir",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
   "playerId": "sc-w-n2",
   "name": "Mika Buchnik",
   "teamId": "sc-w",
@@ -554,6 +704,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "corn-m-h6",
+  "name": "Radu Papoe",
+  "teamId": "corn-m",
+  "gender": "men",
+  "opponent": "Luca Potenza",
+  "event": "San Gregorio di Catania Challenger",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
   "playerId": "tamu-m-h7",
   "name": "Raphael Perot",
   "teamId": "tamu-m",
@@ -594,6 +754,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "stan-m-fp374",
+  "name": "Samir Banerjee",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Manish Sureshkumar",
+  "event": "M25 Solapur",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
   "playerId": "pepp-w-h7",
   "name": "Savannah Broadus",
   "teamId": "pepp-w",
@@ -630,6 +800,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Zsombor Velcz",
   "event": "M25 Austin",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
+  "playerId": "tcu-w-h2",
+  "name": "Tiphanie Lemaitre",
+  "teamId": "tcu-w",
+  "gender": "women",
+  "opponent": "Midori Castillo Meza",
+  "event": "W35 Monastir",
   "date": "2026-10-14",
   "day": "today"
  },
@@ -684,6 +864,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
+  "playerId": "utah-w-h8",
+  "name": "Yasmin Ezzat",
+  "teamId": "utah-w",
+  "gender": "women",
+  "opponent": "Bianca Jolie Fernandez",
+  "event": "W35 Santa Margherita di Pula",
+  "date": "2026-10-14",
+  "day": "today"
+ },
+ {
   "playerId": "fsu-m-h6",
   "name": "Youcef Rihane",
   "teamId": "fsu-m",
@@ -692,36 +882,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "event": "M15 Lexington",
   "date": "2026-10-14",
   "day": "today"
- },
- {
-  "playerId": "fla-m-p4",
-  "name": "Adhithya Ganesan",
-  "teamId": "fla-m",
-  "gender": "men",
-  "opponent": "Maan Kesarwani",
-  "event": "M25 Solapur",
-  "date": "2026-10-15",
-  "day": "tomorrow"
- },
- {
-  "playerId": "neb-m-h9",
-  "name": "Anton Shepp",
-  "teamId": "neb-m",
-  "gender": "men",
-  "opponent": "Kristjan Tamm",
-  "event": "M25 Qian Daohu",
-  "date": "2026-10-15",
-  "day": "tomorrow"
- },
- {
-  "playerId": "wake-m-fp302",
-  "name": "Dhakshineswar Suresh",
-  "teamId": "wake-m",
-  "gender": "men",
-  "opponent": "William Rejchtman Vinciguerra",
-  "event": "M25 Solapur",
-  "date": "2026-10-15",
-  "day": "tomorrow"
  },
  {
   "playerId": "ncst-w-h8",
@@ -744,32 +904,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "okst-m-h5",
-  "name": "Isaac Becroft",
-  "teamId": "okst-m",
-  "gender": "men",
-  "opponent": "Arthur Weber",
-  "event": "M25 Qian Daohu",
-  "date": "2026-10-15",
-  "day": "tomorrow"
- },
- {
   "playerId": "tcu-m-h1",
   "name": "Jacob Fearnley",
   "teamId": "tcu-m",
   "gender": "men",
   "opponent": "Jan Kumstat",
   "event": "Olbia Challenger",
-  "date": "2026-10-15",
-  "day": "tomorrow"
- },
- {
-  "playerId": "pepp-w-h4",
-  "name": "Janice Tjen",
-  "teamId": "pepp-w",
-  "gender": "women",
-  "opponent": "Ann Li",
-  "event": "Wuhan Open - Wuhan",
   "date": "2026-10-15",
   "day": "tomorrow"
  },
@@ -790,46 +930,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Ilya Ivashka",
   "event": "Jinan Challenger",
-  "date": "2026-10-15",
-  "day": "tomorrow"
- },
- {
-  "playerId": "ncst-m-fp370",
-  "name": "Martin Borisiouk",
-  "teamId": "ncst-m",
-  "gender": "men",
-  "opponent": "Anthony Susanto",
-  "event": "M25 Qian Daohu",
-  "date": "2026-10-15",
-  "day": "tomorrow"
- },
- {
-  "playerId": "tex-m-n3",
-  "name": "Matej Dodig",
-  "teamId": "tex-m",
-  "gender": "men",
-  "opponent": "Lukas Neumayer",
-  "event": "Maia Challenger",
-  "date": "2026-10-15",
-  "day": "tomorrow"
- },
- {
-  "playerId": "mich-m-p8",
-  "name": "Pierce Shaya",
-  "teamId": "mich-m",
-  "gender": "men",
-  "opponent": "Madhwin Kamath",
-  "event": "M25 Solapur",
-  "date": "2026-10-15",
-  "day": "tomorrow"
- },
- {
-  "playerId": "stan-m-fp374",
-  "name": "Samir Banerjee",
-  "teamId": "stan-m",
-  "gender": "men",
-  "opponent": "Aditya Vishal Balsekar",
-  "event": "M25 Solapur",
   "date": "2026-10-15",
   "day": "tomorrow"
  },

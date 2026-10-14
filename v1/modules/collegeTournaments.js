@@ -95,11 +95,5 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "name": "DII, DIII, NAIA & JUCO (Up to 32 players) - 2026 ITA DII Men's & Women's Southeast Regional Champion",
     "start": "2026-10-16",
     "end": "2026-10-19"
-  },
-  {
-    "id": "6acfb50d0a838916bd58e7d8",
-    "name": "2026 ITA DII Men's Central Regional Championship",
-    "start": "2026-10-22",
-    "end": "2026-10-25"
   }
 ];

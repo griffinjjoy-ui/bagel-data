@@ -1477,28 +1477,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
- "lsu-m-p2": [
-  {
-   "key": "22157",
-   "name": "M15 Lexington",
-   "date": "2026-10-12",
-   "surface": "Hard",
-   "tier": "ITF",
-   "matches": [
-    {
-     "id": "187922815",
-     "date": "2026-10-14",
-     "roundId": 4,
-     "round": "First",
-     "won": false,
-     "opponent": "Darian King",
-     "score": "6-3 6-1"
-    }
-   ],
-   "reached": "First",
-   "reachedTone": "neutral"
-  }
- ],
  "lsu-p1": [
   {
    "key": "17296",
@@ -3451,28 +3429,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
- "stan-m-fp374": [
-  {
-   "key": "22146",
-   "name": "M25 Solapur",
-   "date": "2026-10-12",
-   "surface": "Hard",
-   "tier": "ITF",
-   "matches": [
-    {
-     "id": "185114311",
-     "date": "2026-10-14",
-     "roundId": 4,
-     "round": "First",
-     "won": true,
-     "opponent": "Manish Sureshkumar",
-     "score": "6-1 6-2"
-    }
-   ],
-   "reached": "First",
-   "reachedTone": "neutral"
-  }
- ],
  "tamu-m-p4": [
   {
    "key": "22157",
@@ -5250,18 +5206,9 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Linus Lagerbohm",
      "score": "2-6 6-2 6-2"
-    },
-    {
-     "id": "185114431",
-     "date": "2026-10-14",
-     "roundId": 5,
-     "round": "Second",
-     "won": true,
-     "opponent": "Johan Nikles",
-     "score": "6-2 4-6 6-0"
     }
    ],
-   "reached": "Second",
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
