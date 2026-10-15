@@ -61,9 +61,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Alibek Kachmazov",
      "score": "6-7(4) 7-5 6-3"
+    },
+    {
+     "id": "206173966",
+     "date": "2026-10-15",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Alexander Shevchenko",
+     "score": "6-0 6-4"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -2170,6 +2179,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "okst-w-p1": [
   {
+   "key": "17333",
+   "name": "W50 Stara Zagora",
+   "date": "2026-10-12",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "184286988",
+     "date": "2026-10-15",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Luisina Giovannini",
+     "score": "6-3 6-0"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17318",
    "name": "W50 Burgas",
    "date": "2026-10-05",
@@ -3298,9 +3327,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Manish Sureshkumar",
      "score": "6-1 6-2"
+    },
+    {
+     "id": "214600225",
+     "date": "2026-10-15",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Aditya Vishal Balsekar",
+     "score": "7-5 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -5700,9 +5738,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Dev Javia",
      "score": "5-7 6-2 7-6(6)"
+    },
+    {
+     "id": "214600213",
+     "date": "2026-10-15",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "William Rejchtman Vinciguerra",
+     "score": "7-6(3) 6-4"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
