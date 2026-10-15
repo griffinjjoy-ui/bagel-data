@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Mountain Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:31:42.944Z",
+  "fetchedAt": "2026-10-15T15:01:39.857Z",
   "events": [
    {
     "eventId": "A15E8A0A-367B-4494-B252-10CA2EFC0807",
@@ -20048,7 +20048,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:31:46.211Z",
+  "fetchedAt": "2026-10-15T15:01:42.793Z",
   "events": [
    {
     "eventId": "C3F42B32-D079-4552-98D2-9E89D5B68F7F",
@@ -31234,7 +31234,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Central Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:31:49.205Z",
+  "fetchedAt": "2026-10-15T15:01:45.598Z",
   "events": [
    {
     "eventId": "54AF7B73-1CBD-44D4-A57A-FA562D029737",
@@ -45476,7 +45476,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Carolina Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:31:52.271Z",
+  "fetchedAt": "2026-10-15T15:01:48.323Z",
   "events": [
    {
     "eventId": "4EA0C308-65DD-4DD9-A68E-4DAA07B16460",
@@ -55069,7 +55069,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Texas Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:31:55.491Z",
+  "fetchedAt": "2026-10-15T15:01:51.093Z",
   "events": [
    {
     "eventId": "D774E574-66C0-4881-9702-A47350E90C7B",
@@ -67887,7 +67887,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Ohio Valley Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:31:58.570Z",
+  "fetchedAt": "2026-10-15T15:01:53.865Z",
   "events": [
    {
     "eventId": "27A207E4-0923-42D1-8BFC-F83A17BBCA97",
@@ -79956,7 +79956,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's New England Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:01.688Z",
+  "fetchedAt": "2026-10-15T15:01:56.719Z",
   "events": [
    {
     "eventId": "E8F75619-116F-4CFD-8745-238D006BAD4C",
@@ -89770,7 +89770,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Midwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:04.423Z",
+  "fetchedAt": "2026-10-15T15:01:59.686Z",
   "events": [
    {
     "eventId": "882B1A07-E30B-4FA8-8EA7-A455D7DBE9F5",
@@ -99659,7 +99659,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:07.466Z",
+  "fetchedAt": "2026-10-15T15:02:02.510Z",
   "events": [
    {
     "eventId": "E21C1832-08CA-499C-9DFD-3A0F4F16C283",
@@ -117561,7 +117561,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Atlantic Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:10.437Z",
+  "fetchedAt": "2026-10-15T15:02:05.339Z",
   "events": [
    {
     "eventId": "A7DFD49A-9C2C-4A52-90D2-B643AC6DB270",
@@ -128369,7 +128369,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Ohio Valley Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:13.478Z",
+  "fetchedAt": "2026-10-15T15:02:07.849Z",
   "events": [
    {
     "eventId": "32F41C2E-E703-4CB4-AB6B-51D63252CFE4",
@@ -137885,7 +137885,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southern Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:16.648Z",
+  "fetchedAt": "2026-10-15T15:02:10.653Z",
   "events": [
    {
     "eventId": "E1B6EB4F-5C48-4A97-8503-3E0305186CFF",
@@ -147371,7 +147371,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Texas Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:19.820Z",
+  "fetchedAt": "2026-10-15T15:02:13.572Z",
   "events": [
    {
     "eventId": "ACF820D8-2E63-4784-A364-D1F7B6F91B30",
@@ -158145,7 +158145,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's New England Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:22.910Z",
+  "fetchedAt": "2026-10-15T15:02:16.430Z",
   "events": [
    {
     "eventId": "1104BC4B-FA60-4A4F-9D2D-6A2EE73CFC35",
@@ -165048,7 +165048,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southern Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:25.897Z",
+  "fetchedAt": "2026-10-15T15:02:19.072Z",
   "events": [
    {
     "eventId": "A65C14BF-7C23-40AC-9F86-FE15BBB6786D",
@@ -194263,7 +194263,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Mountain Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:29.551Z",
+  "fetchedAt": "2026-10-15T15:02:22.016Z",
   "events": [
    {
     "eventId": "84A544CC-41AD-4D20-BC59-EE2F6853841B",
@@ -208789,7 +208789,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Central Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:32.451Z",
+  "fetchedAt": "2026-10-15T15:02:24.783Z",
   "events": [
    {
     "eventId": "DBE8AFBA-7DC2-4CC5-9800-13D2B27E27B1",
@@ -218407,7 +218407,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southeast Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:35.336Z",
+  "fetchedAt": "2026-10-15T15:02:27.517Z",
   "events": [
    {
     "eventId": "106447D8-7605-4244-B0F4-D6720DAC32CF",
@@ -219489,9 +219489,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-8",
+            "winningSide": 2,
             "when": "2026-10-15T09:45",
             "venue": "Georgia Tech",
             "sides": [
@@ -219534,9 +219534,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-8",
+            "winningSide": 2,
             "when": "2026-10-15T09:45",
             "venue": "Georgia Tech",
             "sides": [
@@ -219579,9 +219579,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "8-3",
+            "winningSide": 1,
             "when": "2026-10-15T09:45",
             "venue": "Georgia Tech",
             "sides": [
@@ -219624,9 +219624,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-8(3)",
+            "winningSide": 2,
             "when": "2026-10-15T09:45",
             "venue": "Georgia Tech",
             "sides": [
@@ -220004,7 +220004,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Renfrow/Weber",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
              {
               "name": "Edengren/Timini",
               "abbr": null,
@@ -220023,7 +220030,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Bergeron/Puig Mccallan",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
              {
               "name": "Mruzek/Danesi",
               "abbr": null,
@@ -220042,7 +220056,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Gonzalez/Sanders",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
              {
               "name": "Alimli/Andre",
               "abbr": null,
@@ -220061,7 +220082,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Povey/Baron",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
              {
               "name": "Ye/Trifi",
               "abbr": null,
@@ -220576,9 +220604,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 39,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Niox Chateau/Rousson",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
          },
          {
           "pos": 40,
@@ -220588,9 +220620,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 41,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Saltz/Adesoro",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
          },
          {
           "pos": 42,
@@ -220600,9 +220636,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 43,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Ducariu/Hudson",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
          },
          {
           "pos": 44,
@@ -220612,9 +220652,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 45,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Schoenmakers/Yunez",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
          },
          {
           "pos": 46,
@@ -220849,7 +220893,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Niox Chateau/Rousson",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
              null
             ]
            },
@@ -220861,7 +220912,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Saltz/Adesoro",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
              null
             ]
            },
@@ -220873,7 +220931,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Ducariu/Hudson",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
              null
             ]
            },
@@ -220885,7 +220950,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Schoenmakers/Yunez",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
              null
             ]
            },
@@ -221117,7 +221189,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Niox Chateau/Rousson",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -221129,7 +221208,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Saltz/Adesoro",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -221141,7 +221227,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Ducariu/Hudson",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -221153,7 +221246,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Schoenmakers/Yunez",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -227578,7 +227678,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Midwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:38.109Z",
+  "fetchedAt": "2026-10-15T15:02:30.164Z",
   "events": [
    {
     "eventId": "0AEBEE55-A378-4A39-9E3D-6D9C66744574",
@@ -230874,9 +230974,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-2 6-7(4) 6-3",
+            "winningSide": 1,
             "when": "2026-10-15T08:00",
             "venue": "Ohio State University",
             "sides": [
@@ -231054,9 +231154,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 0-6 6-7(1)",
+            "winningSide": 2,
             "when": "2026-10-15T08:00",
             "venue": "Ohio State University",
             "sides": [
@@ -231281,9 +231381,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-1 6-3",
+            "winningSide": 1,
             "when": null,
             "venue": null,
             "sides": [
@@ -231638,7 +231738,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 7.7,
               "seed": null
              },
-             null
+             {
+              "name": "Alexander Nikolov",
+              "abbr": null,
+              "school": "Cleveland State University",
+              "pid": null,
+              "wtn": 10.66,
+              "seed": null
+             }
             ]
            },
            {
@@ -231735,7 +231842,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 7.91,
               "seed": null
              },
-             null
+             {
+              "name": "Dovas Dersonas",
+              "abbr": null,
+              "school": "Youngstown State Univ.",
+              "pid": null,
+              "wtn": 10.37,
+              "seed": null
+             }
             ]
            },
            {
@@ -231836,7 +231950,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Filip Poklemba",
+              "abbr": null,
+              "school": "Western Michigan University",
+              "pid": null,
+              "wtn": 8.22,
+              "seed": null
+             },
              null
             ]
            },
@@ -232224,9 +232345,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 20,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Charlie Snow",
+          "school": "University Of Toledo",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.8
          },
          {
           "pos": 21,
@@ -232284,9 +232409,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 28,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Remi St-Laurent",
+          "school": "Marquette University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 11.22
          },
          {
           "pos": 29,
@@ -232358,9 +232487,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 37,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Victor Dorojan",
+          "school": "Univ. Of Illinois, Chicago",
+          "abbr": null,
+          "pid": null,
+          "wtn": 14.31
          },
          {
           "pos": 38,
@@ -232454,7 +232587,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Charlie Snow",
+              "abbr": null,
+              "school": "University Of Toledo",
+              "pid": null,
+              "wtn": 10.8,
+              "seed": null
+             }
             ]
            },
            {
@@ -232523,7 +232663,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Remi St-Laurent",
+              "abbr": null,
+              "school": "Marquette University",
+              "pid": null,
+              "wtn": 11.22,
+              "seed": null
+             }
             ]
            },
            {
@@ -232617,7 +232764,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Victor Dorojan",
+              "abbr": null,
+              "school": "Univ. Of Illinois, Chicago",
+              "pid": null,
+              "wtn": 14.31,
+              "seed": null
+             },
              null
             ]
            },
@@ -232707,7 +232861,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Charlie Snow",
+              "abbr": null,
+              "school": "University Of Toledo",
+              "pid": null,
+              "wtn": 10.8,
+              "seed": null
+             }
             ]
            },
            {
@@ -232776,7 +232937,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Remi St-Laurent",
+              "abbr": null,
+              "school": "Marquette University",
+              "pid": null,
+              "wtn": 11.22,
+              "seed": null
+             }
             ]
            },
            {
@@ -234969,7 +235137,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Atlantic Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:41.035Z",
+  "fetchedAt": "2026-10-15T15:02:32.758Z",
   "events": [
    {
     "eventId": "EFF122C5-8F87-49F5-B9D6-4442692D0669",
@@ -235668,9 +235836,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 6-3",
+            "winningSide": 1,
             "when": "2026-10-15T09:00",
             "venue": "Liberty University",
             "sides": [
@@ -235694,9 +235862,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-6 1-6",
+            "winningSide": 2,
             "when": "2026-10-15T09:00",
             "venue": "Liberty University",
             "sides": [
@@ -235720,9 +235888,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 6-2",
+            "winningSide": 1,
             "when": "2026-10-15T09:00",
             "venue": "Liberty University",
             "sides": [
@@ -235824,9 +235992,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-2 6-3",
+            "winningSide": 1,
             "when": "2026-10-15T09:00",
             "venue": "Liberty University",
             "sides": [
@@ -235876,9 +236044,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-6 4-6",
+            "winningSide": 2,
             "when": "2026-10-15T09:00",
             "venue": "Liberty University",
             "sides": [
@@ -235928,9 +236096,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-1 7-6(2)",
+            "winningSide": 1,
             "when": "2026-10-15T09:00",
             "venue": "Liberty University",
             "sides": [
@@ -235980,8 +236148,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
+            "status": "IN_PROGRESS",
+            "score": "",
             "winningSide": null,
             "when": "2026-10-15T10:30",
             "venue": "Liberty University",
@@ -236032,7 +236200,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-10-15T10:30",
@@ -236058,7 +236226,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-10-15T10:30",
@@ -236084,7 +236252,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-10-15T10:30",
@@ -236136,7 +236304,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-10-15T10:30",
@@ -236214,8 +236382,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
+            "status": "IN_PROGRESS",
+            "score": "",
             "winningSide": null,
             "when": "2026-10-15T10:30",
             "venue": "Liberty University",
@@ -236486,7 +236654,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "Liberty University",
             "sides": [
              null,
-             null
+             {
+              "name": "Yee Ching Wai",
+              "abbr": null,
+              "school": "Liberty University",
+              "pid": null,
+              "wtn": 17.57,
+              "seed": null
+             }
             ]
            },
            {
@@ -236497,8 +236672,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:30",
             "venue": "Liberty University",
             "sides": [
-             null,
-             null
+             {
+              "name": "Alexandra Magia",
+              "abbr": null,
+              "school": "Longwood University",
+              "pid": null,
+              "wtn": 18.2,
+              "seed": null
+             },
+             {
+              "name": "Amira Bergaoui",
+              "abbr": null,
+              "school": "Morgan State University",
+              "pid": null,
+              "wtn": 17.77,
+              "seed": null
+             }
             ]
            },
            {
@@ -236536,7 +236725,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "Liberty University",
             "sides": [
              null,
-             null
+             {
+              "name": "Imani Jean",
+              "abbr": null,
+              "school": "Howard University",
+              "pid": null,
+              "wtn": 19.19,
+              "seed": null
+             }
             ]
            },
            {
@@ -236548,7 +236744,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "Liberty University",
             "sides": [
              null,
-             null
+             {
+              "name": "Sorana Matis",
+              "abbr": null,
+              "school": "West Virginia University",
+              "pid": "wvu-w-n3",
+              "wtn": 17.41,
+              "seed": null
+             }
             ]
            },
            {
@@ -236560,7 +236763,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "Liberty University",
             "sides": [
              null,
-             null
+             {
+              "name": "Yoanna Radulova",
+              "abbr": null,
+              "school": "Liberty University",
+              "pid": null,
+              "wtn": 17.55,
+              "seed": null
+             }
             ]
            },
            {
@@ -236995,21 +237205,33 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 18,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Anna Kantor",
+          "school": "James Madison University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.6
          },
          {
           "pos": 19,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Rowan Scronce",
+          "school": "George Mason University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 18.55
          },
          {
           "pos": 20,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Nour El Ouazzani",
+          "school": "Marshall University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.39
          },
          {
           "pos": 21,
@@ -237039,9 +237261,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 24,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Liya Chu",
+          "school": "Georgetown University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.28
          },
          {
           "pos": 25,
@@ -237051,9 +237277,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 26,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Alba Benedito",
+          "school": "Delaware State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 19.11
          },
          {
           "pos": 27,
@@ -237063,9 +237293,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 28,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Margherita Trolese",
+          "school": "Mount St. Mary's Univ.",
+          "abbr": null,
+          "pid": null,
+          "wtn": 18.07
          },
          {
           "pos": 29,
@@ -237201,7 +237435,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "Liberty University",
             "sides": [
              null,
-             null
+             {
+              "name": "Anna Kantor",
+              "abbr": null,
+              "school": "James Madison University",
+              "pid": null,
+              "wtn": 17.6,
+              "seed": null
+             }
             ]
            },
            {
@@ -237212,8 +237453,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T12:00",
             "venue": "Liberty University",
             "sides": [
-             null,
-             null
+             {
+              "name": "Rowan Scronce",
+              "abbr": null,
+              "school": "George Mason University",
+              "pid": null,
+              "wtn": 18.55,
+              "seed": null
+             },
+             {
+              "name": "Nour El Ouazzani",
+              "abbr": null,
+              "school": "Marshall University",
+              "pid": null,
+              "wtn": 17.39,
+              "seed": null
+             }
             ]
            },
            {
@@ -237251,7 +237506,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "Liberty University",
             "sides": [
              null,
-             null
+             {
+              "name": "Liya Chu",
+              "abbr": null,
+              "school": "Georgetown University",
+              "pid": null,
+              "wtn": 17.28,
+              "seed": null
+             }
             ]
            },
            {
@@ -237263,7 +237525,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "Liberty University",
             "sides": [
              null,
-             null
+             {
+              "name": "Alba Benedito",
+              "abbr": null,
+              "school": "Delaware State University",
+              "pid": null,
+              "wtn": 19.11,
+              "seed": null
+             }
             ]
            },
            {
@@ -237275,7 +237544,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "Liberty University",
             "sides": [
              null,
-             null
+             {
+              "name": "Margherita Trolese",
+              "abbr": null,
+              "school": "Mount St. Mary's Univ.",
+              "pid": null,
+              "wtn": 18.07,
+              "seed": null
+             }
             ]
            },
            {
@@ -237417,7 +237693,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -237811,7 +238087,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:43.659Z",
+  "fetchedAt": "2026-10-15T15:02:35.465Z",
   "events": [
    {
     "eventId": "DF37662B-A6F2-4791-881B-37BF9E953B34",
@@ -243346,7 +243622,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Carolina Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:46.450Z",
+  "fetchedAt": "2026-10-15T15:02:38.209Z",
   "events": [
    {
     "eventId": "BBD8E08C-0836-4D64-9BF6-D97620A3333F",
@@ -243354,6 +243630,2618 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
     "type": "singles",
     "fieldSize": 235,
     "draws": [
+     {
+      "drawName": "Main",
+      "stage": "MAIN",
+      "kind": "MAIN",
+      "generated": true,
+      "completed": false,
+      "structures": [
+       {
+        "name": "Main",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": false,
+          "seed": 1,
+          "name": "Tatum Evans",
+          "school": "UNC Chapel Hill",
+          "abbr": null,
+          "pid": "unc-w-p3",
+          "wtn": 13.94
+         },
+         {
+          "pos": 2,
+          "bye": false,
+          "seed": null,
+          "name": "Ria Bhakta",
+          "school": "Clemson University",
+          "abbr": null,
+          "pid": "clem-w-p8",
+          "wtn": 16.17
+         },
+         {
+          "pos": 3,
+          "bye": false,
+          "seed": null,
+          "name": "Eleana Yu",
+          "school": "Duke University",
+          "abbr": null,
+          "pid": "duke-w-p7",
+          "wtn": 14.33
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": false,
+          "seed": 9,
+          "name": "Anna Bella Bianca Bergqvist Larsson",
+          "school": "University Of South Carolina",
+          "abbr": null,
+          "pid": "sc-w-n4",
+          "wtn": 13.51
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": false,
+          "seed": null,
+          "name": "Brunelle Kouam",
+          "school": "Coastal Carolina University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 15.4
+         },
+         {
+          "pos": 8,
+          "bye": false,
+          "seed": null,
+          "name": "Ellasyn DeFord",
+          "school": "College Of Charleston",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.5
+         },
+         {
+          "pos": 9,
+          "bye": false,
+          "seed": 7,
+          "name": "Sankavi Gownder",
+          "school": "Wake Forest University",
+          "abbr": null,
+          "pid": "wake-w-p4",
+          "wtn": 14.6
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": false,
+          "seed": null,
+          "name": "Bryson Langford",
+          "school": "Davidson College",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.8
+         },
+         {
+          "pos": 12,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 13,
+          "bye": false,
+          "seed": 11,
+          "name": "Victoria Osuigwe",
+          "school": "North Carolina State Univ.",
+          "abbr": null,
+          "pid": "ncst-w-p6",
+          "wtn": 13.59
+         },
+         {
+          "pos": 14,
+          "bye": false,
+          "seed": null,
+          "name": "Lucy Hogan",
+          "school": "Queens Univ. Of Charlotte",
+          "abbr": null,
+          "pid": null,
+          "wtn": 19.01
+         },
+         {
+          "pos": 15,
+          "bye": false,
+          "seed": null,
+          "name": "Ava Krug",
+          "school": "Duke University",
+          "abbr": null,
+          "pid": "duke-w-p5",
+          "wtn": 14.54
+         },
+         {
+          "pos": 16,
+          "bye": false,
+          "seed": null,
+          "name": "Alanis Hamilton",
+          "school": "UNC Chapel Hill",
+          "abbr": null,
+          "pid": "unc-w-p5",
+          "wtn": 14.73
+         },
+         {
+          "pos": 17,
+          "bye": false,
+          "seed": 4,
+          "name": "Liv Hovde",
+          "school": "Duke University",
+          "abbr": null,
+          "pid": "duke-w-p3",
+          "wtn": 13.39
+         },
+         {
+          "pos": 18,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 19,
+          "bye": false,
+          "seed": null,
+          "name": "Roisin Gilheany",
+          "school": "North Carolina State Univ.",
+          "abbr": null,
+          "pid": "ncst-w-p5",
+          "wtn": 14.85
+         },
+         {
+          "pos": 20,
+          "bye": false,
+          "seed": null,
+          "name": "Jane Dunyon",
+          "school": "University Of South Carolina",
+          "abbr": null,
+          "pid": "sc-p6",
+          "wtn": 16.2
+         },
+         {
+          "pos": 21,
+          "bye": false,
+          "seed": 12,
+          "name": "Theadora Rabman",
+          "school": "UNC Chapel Hill",
+          "abbr": null,
+          "pid": "unc-w-p9",
+          "wtn": 13.68
+         },
+         {
+          "pos": 22,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 23,
+          "bye": false,
+          "seed": null,
+          "name": "Naledi Manyube",
+          "school": "Appalachian State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.66
+         },
+         {
+          "pos": 24,
+          "bye": false,
+          "seed": null,
+          "name": "Carlota Farres Carreter",
+          "school": "Charleston Southern Univ.",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.42
+         },
+         {
+          "pos": 25,
+          "bye": false,
+          "seed": 6,
+          "name": "Nicole Khirin",
+          "school": "UNC Chapel Hill",
+          "abbr": null,
+          "pid": "unc-w-n3",
+          "wtn": 12.66
+         },
+         {
+          "pos": 26,
+          "bye": false,
+          "seed": null,
+          "name": "Sophia Cedeno",
+          "school": "UNC Greensboro",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.12
+         },
+         {
+          "pos": 27,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 28,
+          "bye": false,
+          "seed": null,
+          "name": "Elle Warren",
+          "school": "Furman University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 15.46
+         },
+         {
+          "pos": 29,
+          "bye": false,
+          "seed": 13,
+          "name": "Jasmine Conway",
+          "school": "North Carolina State Univ.",
+          "abbr": null,
+          "pid": "ncst-w-p3",
+          "wtn": 13.99
+         },
+         {
+          "pos": 30,
+          "bye": false,
+          "seed": null,
+          "name": "Jana Stojanova",
+          "school": "University Of South Carolina",
+          "abbr": null,
+          "pid": "sc-p10",
+          "wtn": 14.66
+         },
+         {
+          "pos": 31,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 32,
+          "bye": false,
+          "seed": null,
+          "name": "Sara Suchankova",
+          "school": "Clemson University",
+          "abbr": null,
+          "pid": "clem-w-n1",
+          "wtn": 15.24
+         },
+         {
+          "pos": 33,
+          "bye": false,
+          "seed": null,
+          "name": "Pietra Rivoli",
+          "school": "University Of South Carolina",
+          "abbr": null,
+          "pid": "sc-w-n3",
+          "wtn": 15.28
+         },
+         {
+          "pos": 34,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 35,
+          "bye": false,
+          "seed": null,
+          "name": "Shona Nakano",
+          "school": "UNC Charlotte",
+          "abbr": null,
+          "pid": "clt-w-p6",
+          "wtn": 15.8
+         },
+         {
+          "pos": 36,
+          "bye": false,
+          "seed": 14,
+          "name": "Shavit Kimchi",
+          "school": "Duke University",
+          "abbr": null,
+          "pid": "duke-w-p4",
+          "wtn": 14.06
+         },
+         {
+          "pos": 37,
+          "bye": false,
+          "seed": null,
+          "name": "Georgia Cranford",
+          "school": "North Carolina State Univ.",
+          "abbr": null,
+          "pid": "ncst-w-p4",
+          "wtn": 15.46
+         },
+         {
+          "pos": 38,
+          "bye": false,
+          "seed": null,
+          "name": "Simone Bergeron",
+          "school": "Elon University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 15.53
+         },
+         {
+          "pos": 39,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 40,
+          "bye": false,
+          "seed": 5,
+          "name": "Alexis Nguyen",
+          "school": "UNC Chapel Hill",
+          "abbr": null,
+          "pid": "unc-w-n1",
+          "wtn": 12.74
+         },
+         {
+          "pos": 41,
+          "bye": false,
+          "seed": null,
+          "name": "Lillie Murphy",
+          "school": "Furman University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 14.84
+         },
+         {
+          "pos": 42,
+          "bye": false,
+          "seed": null,
+          "name": "Mariya Dobreva",
+          "school": "Western Carolina University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17
+         },
+         {
+          "pos": 43,
+          "bye": false,
+          "seed": null,
+          "name": "Eva Oxford",
+          "school": "Wake Forest University",
+          "abbr": null,
+          "pid": "wake-w-fp252",
+          "wtn": 15.19
+         },
+         {
+          "pos": 44,
+          "bye": false,
+          "seed": 10,
+          "name": "Maddy Zampardo",
+          "school": "UNC Chapel Hill",
+          "abbr": null,
+          "pid": "unc-w-p11",
+          "wtn": 13.56
+         },
+         {
+          "pos": 45,
+          "bye": false,
+          "seed": null,
+          "name": "Kim Auerswald",
+          "school": "East Carolina University",
+          "abbr": null,
+          "pid": "ecu-w-p1",
+          "wtn": 17.38
+         },
+         {
+          "pos": 46,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 47,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 48,
+          "bye": false,
+          "seed": 3,
+          "name": "Lavinia Tanasie",
+          "school": "North Carolina State Univ.",
+          "abbr": null,
+          "pid": "ncst-w-p9",
+          "wtn": 13.58
+         },
+         {
+          "pos": 49,
+          "bye": false,
+          "seed": null,
+          "name": "Elizabeth Ivanov",
+          "school": "UNC Charlotte",
+          "abbr": null,
+          "pid": "clt-w-p3",
+          "wtn": 15.54
+         },
+         {
+          "pos": 50,
+          "bye": false,
+          "seed": null,
+          "name": "Cornelia Kack",
+          "school": "Elon University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.19
+         },
+         {
+          "pos": 51,
+          "bye": false,
+          "seed": null,
+          "name": "Amelie Smejkalova",
+          "school": "North Carolina State Univ.",
+          "abbr": null,
+          "pid": "ncst-w-p8",
+          "wtn": 15.3
+         },
+         {
+          "pos": 52,
+          "bye": false,
+          "seed": 16,
+          "name": "Claire Hill",
+          "school": "Wake Forest University",
+          "abbr": null,
+          "pid": "wake-w-n1",
+          "wtn": 14.21
+         },
+         {
+          "pos": 53,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 54,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 55,
+          "bye": false,
+          "seed": null,
+          "name": "Roxana Valdez",
+          "school": "Presbyterian College",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.53
+         },
+         {
+          "pos": 56,
+          "bye": false,
+          "seed": 8,
+          "name": "Anna Frey",
+          "school": "UNC Chapel Hill",
+          "abbr": null,
+          "pid": "unc-w-p4",
+          "wtn": 13.26
+         },
+         {
+          "pos": 57,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 58,
+          "bye": false,
+          "seed": null,
+          "name": "Ishika Ashar",
+          "school": "UNC Chapel Hill",
+          "abbr": null,
+          "pid": "unc-w-n5",
+          "wtn": 15.27
+         },
+         {
+          "pos": 59,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 60,
+          "bye": false,
+          "seed": 15,
+          "name": "Claire An",
+          "school": "Duke University",
+          "abbr": null,
+          "pid": "duke-w-p1",
+          "wtn": 14.1
+         },
+         {
+          "pos": 61,
+          "bye": false,
+          "seed": null,
+          "name": "Pimmada Thongkum",
+          "school": "South Carolina State Univ.",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.82
+         },
+         {
+          "pos": 62,
+          "bye": false,
+          "seed": null,
+          "name": "Tabeth Tadoum",
+          "school": "North Carolina A&T State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 20.22
+         },
+         {
+          "pos": 63,
+          "bye": false,
+          "seed": null,
+          "name": "Aya Manning",
+          "school": "UNC Chapel Hill",
+          "abbr": null,
+          "pid": "unc-w-n4",
+          "wtn": 14.9
+         },
+         {
+          "pos": 64,
+          "bye": false,
+          "seed": 2,
+          "name": "Kaitlyn Carnicella",
+          "school": "University Of South Carolina",
+          "abbr": null,
+          "pid": "sc-p4",
+          "wtn": 12.77
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Tatum Evans",
+              "abbr": null,
+              "school": "UNC Chapel Hill",
+              "pid": "unc-w-p3",
+              "wtn": 13.94,
+              "seed": 1
+             },
+             {
+              "name": "Ria Bhakta",
+              "abbr": null,
+              "school": "Clemson University",
+              "pid": "clem-w-p8",
+              "wtn": 16.17,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Eleana Yu",
+              "abbr": null,
+              "school": "Duke University",
+              "pid": "duke-w-p7",
+              "wtn": 14.33,
+              "seed": null
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Anna Bella Bianca Bergqvist Larsson",
+              "abbr": null,
+              "school": "University Of South Carolina",
+              "pid": "sc-w-n4",
+              "wtn": 13.51,
+              "seed": 9
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Brunelle Kouam",
+              "abbr": null,
+              "school": "Coastal Carolina University",
+              "pid": null,
+              "wtn": 15.4,
+              "seed": null
+             },
+             {
+              "name": "Ellasyn DeFord",
+              "abbr": null,
+              "school": "College Of Charleston",
+              "pid": null,
+              "wtn": 16.5,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Sankavi Gownder",
+              "abbr": null,
+              "school": "Wake Forest University",
+              "pid": "wake-w-p4",
+              "wtn": 14.6,
+              "seed": 7
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Bryson Langford",
+              "abbr": null,
+              "school": "Davidson College",
+              "pid": null,
+              "wtn": 16.8,
+              "seed": null
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": "",
+            "winningSide": null,
+            "when": "2026-10-16T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Victoria Osuigwe",
+              "abbr": null,
+              "school": "North Carolina State Univ.",
+              "pid": "ncst-w-p6",
+              "wtn": 13.59,
+              "seed": 11
+             },
+             {
+              "name": "Lucy Hogan",
+              "abbr": null,
+              "school": "Queens Univ. Of Charlotte",
+              "pid": null,
+              "wtn": 19.01,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": "",
+            "winningSide": null,
+            "when": "2026-10-16T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Ava Krug",
+              "abbr": null,
+              "school": "Duke University",
+              "pid": "duke-w-p5",
+              "wtn": 14.54,
+              "seed": null
+             },
+             {
+              "name": "Alanis Hamilton",
+              "abbr": null,
+              "school": "UNC Chapel Hill",
+              "pid": "unc-w-p5",
+              "wtn": 14.73,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Liv Hovde",
+              "abbr": null,
+              "school": "Duke University",
+              "pid": "duke-w-p3",
+              "wtn": 13.39,
+              "seed": 4
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Roisin Gilheany",
+              "abbr": null,
+              "school": "North Carolina State Univ.",
+              "pid": "ncst-w-p5",
+              "wtn": 14.85,
+              "seed": null
+             },
+             {
+              "name": "Jane Dunyon",
+              "abbr": null,
+              "school": "University Of South Carolina",
+              "pid": "sc-p6",
+              "wtn": 16.2,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Theadora Rabman",
+              "abbr": null,
+              "school": "UNC Chapel Hill",
+              "pid": "unc-w-p9",
+              "wtn": 13.68,
+              "seed": 12
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T10:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Naledi Manyube",
+              "abbr": null,
+              "school": "Appalachian State University",
+              "pid": null,
+              "wtn": 16.66,
+              "seed": null
+             },
+             {
+              "name": "Carlota Farres Carreter",
+              "abbr": null,
+              "school": "Charleston Southern Univ.",
+              "pid": null,
+              "wtn": 17.42,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T09:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Nicole Khirin",
+              "abbr": null,
+              "school": "UNC Chapel Hill",
+              "pid": "unc-w-n3",
+              "wtn": 12.66,
+              "seed": 6
+             },
+             {
+              "name": "Sophia Cedeno",
+              "abbr": null,
+              "school": "UNC Greensboro",
+              "pid": null,
+              "wtn": 17.12,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T10:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             {
+              "name": "Elle Warren",
+              "abbr": null,
+              "school": "Furman University",
+              "pid": null,
+              "wtn": 15.46,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T10:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Jasmine Conway",
+              "abbr": null,
+              "school": "North Carolina State Univ.",
+              "pid": "ncst-w-p3",
+              "wtn": 13.99,
+              "seed": 13
+             },
+             {
+              "name": "Jana Stojanova",
+              "abbr": null,
+              "school": "University Of South Carolina",
+              "pid": "sc-p10",
+              "wtn": 14.66,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T10:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             {
+              "name": "Sara Suchankova",
+              "abbr": null,
+              "school": "Clemson University",
+              "pid": "clem-w-n1",
+              "wtn": 15.24,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T10:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Pietra Rivoli",
+              "abbr": null,
+              "school": "University Of South Carolina",
+              "pid": "sc-w-n3",
+              "wtn": 15.28,
+              "seed": null
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T10:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Shona Nakano",
+              "abbr": null,
+              "school": "UNC Charlotte",
+              "pid": "clt-w-p6",
+              "wtn": 15.8,
+              "seed": null
+             },
+             {
+              "name": "Shavit Kimchi",
+              "abbr": null,
+              "school": "Duke University",
+              "pid": "duke-w-p4",
+              "wtn": 14.06,
+              "seed": 14
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T10:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Georgia Cranford",
+              "abbr": null,
+              "school": "North Carolina State Univ.",
+              "pid": "ncst-w-p4",
+              "wtn": 15.46,
+              "seed": null
+             },
+             {
+              "name": "Simone Bergeron",
+              "abbr": null,
+              "school": "Elon University",
+              "pid": null,
+              "wtn": 15.53,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T11:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             {
+              "name": "Alexis Nguyen",
+              "abbr": null,
+              "school": "UNC Chapel Hill",
+              "pid": "unc-w-n1",
+              "wtn": 12.74,
+              "seed": 5
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T11:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Lillie Murphy",
+              "abbr": null,
+              "school": "Furman University",
+              "pid": null,
+              "wtn": 14.84,
+              "seed": null
+             },
+             {
+              "name": "Mariya Dobreva",
+              "abbr": null,
+              "school": "Western Carolina University",
+              "pid": null,
+              "wtn": 17,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T11:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Eva Oxford",
+              "abbr": null,
+              "school": "Wake Forest University",
+              "pid": "wake-w-fp252",
+              "wtn": 15.19,
+              "seed": null
+             },
+             {
+              "name": "Maddy Zampardo",
+              "abbr": null,
+              "school": "UNC Chapel Hill",
+              "pid": "unc-w-p11",
+              "wtn": 13.56,
+              "seed": 10
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T11:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Kim Auerswald",
+              "abbr": null,
+              "school": "East Carolina University",
+              "pid": "ecu-w-p1",
+              "wtn": 17.38,
+              "seed": null
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T11:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             {
+              "name": "Lavinia Tanasie",
+              "abbr": null,
+              "school": "North Carolina State Univ.",
+              "pid": "ncst-w-p9",
+              "wtn": 13.58,
+              "seed": 3
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T11:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Elizabeth Ivanov",
+              "abbr": null,
+              "school": "UNC Charlotte",
+              "pid": "clt-w-p3",
+              "wtn": 15.54,
+              "seed": null
+             },
+             {
+              "name": "Cornelia Kack",
+              "abbr": null,
+              "school": "Elon University",
+              "pid": null,
+              "wtn": 16.19,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T11:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Amelie Smejkalova",
+              "abbr": null,
+              "school": "North Carolina State Univ.",
+              "pid": "ncst-w-p8",
+              "wtn": 15.3,
+              "seed": null
+             },
+             {
+              "name": "Claire Hill",
+              "abbr": null,
+              "school": "Wake Forest University",
+              "pid": "wake-w-n1",
+              "wtn": 14.21,
+              "seed": 16
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T12:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T12:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Roxana Valdez",
+              "abbr": null,
+              "school": "Presbyterian College",
+              "pid": null,
+              "wtn": 17.53,
+              "seed": null
+             },
+             {
+              "name": "Anna Frey",
+              "abbr": null,
+              "school": "UNC Chapel Hill",
+              "pid": "unc-w-p4",
+              "wtn": 13.26,
+              "seed": 8
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T12:00",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             {
+              "name": "Ishika Ashar",
+              "abbr": null,
+              "school": "UNC Chapel Hill",
+              "pid": "unc-w-n5",
+              "wtn": 15.27,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T12:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             null,
+             {
+              "name": "Claire An",
+              "abbr": null,
+              "school": "Duke University",
+              "pid": "duke-w-p1",
+              "wtn": 14.1,
+              "seed": 15
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T12:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Pimmada Thongkum",
+              "abbr": null,
+              "school": "South Carolina State Univ.",
+              "pid": null,
+              "wtn": 16.82,
+              "seed": null
+             },
+             {
+              "name": "Tabeth Tadoum",
+              "abbr": null,
+              "school": "North Carolina A&T State University",
+              "pid": null,
+              "wtn": 20.22,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-16T12:30",
+            "venue": "University Of South Carolina",
+            "sides": [
+             {
+              "name": "Aya Manning",
+              "abbr": null,
+              "school": "UNC Chapel Hill",
+              "pid": "unc-w-n4",
+              "wtn": 14.9,
+              "seed": null
+             },
+             {
+              "name": "Kaitlyn Carnicella",
+              "abbr": null,
+              "school": "University Of South Carolina",
+              "pid": "sc-p4",
+              "wtn": 12.77,
+              "seed": 2
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             {
+              "name": "Anna Frey",
+              "abbr": null,
+              "school": "UNC Chapel Hill",
+              "pid": "unc-w-p4",
+              "wtn": 13.26,
+              "seed": 8
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 5,
+          "matchUps": [
+           {
+            "roundName": "Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 6,
+          "matchUps": [
+           {
+            "roundName": "Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Consolation",
+        "stage": "CONSOLATION",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 9,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 12,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 13,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 14,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 15,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 16,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 17,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 18,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 19,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 20,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 21,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 22,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 23,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 24,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 25,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 26,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 27,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 28,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 29,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 30,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 31,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 32,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 33,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 34,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 35,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 36,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 37,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 38,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 39,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 40,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 41,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 42,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 43,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 44,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 45,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 46,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 47,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 48,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32-Q",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "C-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "C-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 5,
+          "matchUps": [
+           {
+            "roundName": "C-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "C-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 6,
+          "matchUps": [
+           {
+            "roundName": "C-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
      {
       "drawName": "Qualifying ",
       "stage": "QUAL",
@@ -244324,9 +247212,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "IN_PROGRESS",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 6-2",
+            "winningSide": 1,
             "when": "2026-10-15T09:00",
             "venue": "University Of South Carolina",
             "sides": [
@@ -244428,7 +247316,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
+            "status": "IN_PROGRESS",
             "score": null,
             "winningSide": null,
             "when": "2026-10-15T10:30",
@@ -244962,7 +247850,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:30",
             "venue": "University Of South Carolina",
             "sides": [
-             null,
+             {
+              "name": "Karina Mohamed",
+              "abbr": null,
+              "school": "UNC Charlotte",
+              "pid": "clt-w-p4",
+              "wtn": 15.64,
+              "seed": 7
+             },
              null
             ]
            },
@@ -245472,9 +248367,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 29,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Sara Borkop",
+          "school": "University Of South Carolina",
+          "abbr": null,
+          "pid": "sc-p2",
+          "wtn": 16.25
          },
          {
           "pos": 30,
@@ -245710,7 +248609,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T14:00",
             "venue": "University Of South Carolina",
             "sides": [
-             null,
+             {
+              "name": "Sara Borkop",
+              "abbr": null,
+              "school": "University Of South Carolina",
+              "pid": "sc-p2",
+              "wtn": 16.25,
+              "seed": null
+             },
              null
             ]
            },
@@ -249939,7 +252845,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:49.135Z",
+  "fetchedAt": "2026-10-15T15:02:40.801Z",
   "events": [
    {
     "eventId": "DED64A6D-F501-4CAE-9864-B5471E31510E",
@@ -258222,7 +261128,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Northeast Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:51.927Z",
+  "fetchedAt": "2026-10-15T15:02:43.446Z",
   "events": [
    {
     "eventId": "5258E9B1-DFD6-48E8-8883-268B437D1360",
@@ -258895,9 +261801,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "E-R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-3 6-1",
+            "winningSide": 1,
             "when": "2026-10-15T09:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
@@ -258921,9 +261827,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "5-7 3-6",
+            "winningSide": 2,
             "when": "2026-10-15T09:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
@@ -258999,9 +261905,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-4 6-0",
+            "winningSide": 1,
             "when": "2026-10-15T09:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
@@ -259025,9 +261931,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-3 6-4",
+            "winningSide": 1,
             "when": "2026-10-15T09:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
@@ -259103,9 +262009,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "4-6 4-6",
+            "winningSide": 2,
             "when": "2026-10-15T09:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
@@ -259155,9 +262061,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-2 6-0",
+            "winningSide": 1,
             "when": "2026-10-15T09:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
@@ -259181,9 +262087,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "2-6 1-6",
+            "winningSide": 2,
             "when": "2026-10-15T09:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
@@ -259311,9 +262217,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-3 6-3",
+            "winningSide": 1,
             "when": "2026-10-15T09:00",
             "venue": "Penn Indoor",
             "sides": [
@@ -259363,9 +262269,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-5 6-1",
+            "winningSide": 1,
             "when": "2026-10-15T09:00",
             "venue": "Penn Indoor",
             "sides": [
@@ -259415,9 +262321,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-1 6-1",
+            "winningSide": 1,
             "when": "2026-10-15T09:00",
             "venue": "Penn Indoor",
             "sides": [
@@ -259467,9 +262373,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "E-R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-2 6-2",
+            "winningSide": 1,
             "when": "2026-10-15T09:00",
             "venue": "Penn Indoor",
             "sides": [
@@ -259738,8 +262644,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
-             null,
-             null
+             {
+              "name": "Kyle Chesman",
+              "abbr": null,
+              "school": "Penn State University",
+              "pid": "psu-m-p2",
+              "wtn": 7.96,
+              "seed": 1
+             },
+             {
+              "name": "Taichi Wakamatsu",
+              "abbr": null,
+              "school": "Saint John's University/NY",
+              "pid": null,
+              "wtn": 9.52,
+              "seed": null
+             }
             ]
            },
            {
@@ -259762,8 +262682,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
-             null,
-             null
+             {
+              "name": "Yerassyl Bakhtiyar",
+              "abbr": null,
+              "school": "New Jersey Inst. Of Tech",
+              "pid": null,
+              "wtn": 8.94,
+              "seed": null
+             },
+             {
+              "name": "Zachary Pellouchoud",
+              "abbr": null,
+              "school": "Fordham University",
+              "pid": "ucsd-m-fp40",
+              "wtn": 8.63,
+              "seed": 16
+             }
             ]
            },
            {
@@ -259786,7 +262720,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
-             null,
+             {
+              "name": "Luka  Sauer",
+              "abbr": null,
+              "school": "Monmouth University",
+              "pid": null,
+              "wtn": 9.94,
+              "seed": null
+             },
              null
             ]
            },
@@ -259798,8 +262739,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
-             null,
-             null
+             {
+              "name": "Parashar Bharadwaj",
+              "abbr": null,
+              "school": "Univ. Of Pennsylvania",
+              "pid": "penn-m-p2",
+              "wtn": 8.24,
+              "seed": 10
+             },
+             {
+              "name": "Adam Kresina",
+              "abbr": null,
+              "school": "Saint John's University/NY",
+              "pid": null,
+              "wtn": 9.27,
+              "seed": null
+             }
             ]
            },
            {
@@ -259834,7 +262789,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
-             null,
+             {
+              "name": "Gray Kelley",
+              "abbr": null,
+              "school": "Columbia University",
+              "pid": "colum-m-n2",
+              "wtn": 8.1,
+              "seed": 5
+             },
              null
             ]
            },
@@ -259846,7 +262808,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
-             null,
+             {
+              "name": "Riccardo Campagnola",
+              "abbr": null,
+              "school": "New Jersey Inst. Of Tech",
+              "pid": null,
+              "wtn": 8.59,
+              "seed": 15
+             },
              null
             ]
            },
@@ -259858,7 +262827,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
-             null,
+             {
+              "name": "Luke Tollenaar",
+              "abbr": null,
+              "school": "University Of Delaware",
+              "pid": null,
+              "wtn": 8.11,
+              "seed": 6
+             },
              null
             ]
            },
@@ -259870,7 +262846,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
-             null,
+             {
+              "name": "Soma Fukuhara",
+              "abbr": null,
+              "school": "New Jersey Inst. Of Tech",
+              "pid": null,
+              "wtn": 8.41,
+              "seed": 12
+             },
              null
             ]
            },
@@ -260132,15 +263115,23 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
         "positions": [
          {
           "pos": 1,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Anthony Moukarzel",
+          "school": "Drexel University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.22
          },
          {
           "pos": 2,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Enoch Lin",
+          "school": "Bucknell University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.3
          },
          {
           "pos": 3,
@@ -260156,15 +263147,23 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 5,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Oskar Szymczak",
+          "school": "Drexel University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.02
          },
          {
           "pos": 6,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Pere Prat Turro",
+          "school": "University Of Delaware",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.11
          },
          {
           "pos": 7,
@@ -260180,9 +263179,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 9,
-          "bye": true,
-          "seed": null,
-          "name": null
+          "bye": false,
+          "seed": 3,
+          "name": "Marek Nano",
+          "school": "Saint John's University/NY",
+          "abbr": null,
+          "pid": null,
+          "wtn": 7.99
          },
          {
           "pos": 10,
@@ -260192,15 +263195,23 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 11,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Nate Roberman",
+          "school": "Fairleigh Dickinson Univ.",
+          "abbr": null,
+          "pid": null,
+          "wtn": 11.31
          },
          {
           "pos": 12,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Ludwig Hermann",
+          "school": "Penn State University",
+          "abbr": null,
+          "pid": "psu-m-n1",
+          "wtn": 9.5
          },
          {
           "pos": 13,
@@ -260228,9 +263239,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 17,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Sawyer Severance",
+          "school": "Princeton University",
+          "abbr": null,
+          "pid": "prin-m-p9",
+          "wtn": 9.94
          },
          {
           "pos": 18,
@@ -260240,9 +263255,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 19,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Brandon Ramos",
+          "school": "Iona University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 10.26
          },
          {
           "pos": 20,
@@ -260252,9 +263271,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 21,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "Mykhailo Polishchuck",
+          "school": "Mercyhurst University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 13.62
          },
          {
           "pos": 22,
@@ -260264,9 +263287,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 23,
-          "bye": true,
+          "bye": false,
           "seed": null,
-          "name": null
+          "name": "John Gentek",
+          "school": "University Of Delaware",
+          "abbr": null,
+          "pid": null,
+          "wtn": 11.05
          },
          {
           "pos": 24,
@@ -260335,8 +263362,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
-             null,
-             null
+             {
+              "name": "Anthony Moukarzel",
+              "abbr": null,
+              "school": "Drexel University",
+              "pid": null,
+              "wtn": 9.22,
+              "seed": null
+             },
+             {
+              "name": "Enoch Lin",
+              "abbr": null,
+              "school": "Bucknell University",
+              "pid": null,
+              "wtn": 10.3,
+              "seed": null
+             }
             ]
            },
            {
@@ -260359,8 +263400,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
-             null,
-             null
+             {
+              "name": "Oskar Szymczak",
+              "abbr": null,
+              "school": "Drexel University",
+              "pid": null,
+              "wtn": 9.02,
+              "seed": null
+             },
+             {
+              "name": "Pere Prat Turro",
+              "abbr": null,
+              "school": "University Of Delaware",
+              "pid": null,
+              "wtn": 9.11,
+              "seed": null
+             }
             ]
            },
            {
@@ -260383,7 +263438,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
-             null,
+             {
+              "name": "Marek Nano",
+              "abbr": null,
+              "school": "Saint John's University/NY",
+              "pid": null,
+              "wtn": 7.99,
+              "seed": 3
+             },
              null
             ]
            },
@@ -260395,8 +263457,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
-             null,
-             null
+             {
+              "name": "Nate Roberman",
+              "abbr": null,
+              "school": "Fairleigh Dickinson Univ.",
+              "pid": null,
+              "wtn": 11.31,
+              "seed": null
+             },
+             {
+              "name": "Ludwig Hermann",
+              "abbr": null,
+              "school": "Penn State University",
+              "pid": "psu-m-n1",
+              "wtn": 9.5,
+              "seed": null
+             }
             ]
            },
            {
@@ -260431,7 +263507,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
-             null,
+             {
+              "name": "Sawyer Severance",
+              "abbr": null,
+              "school": "Princeton University",
+              "pid": "prin-m-p9",
+              "wtn": 9.94,
+              "seed": null
+             },
              null
             ]
            },
@@ -260443,7 +263526,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
-             null,
+             {
+              "name": "Brandon Ramos",
+              "abbr": null,
+              "school": "Iona University",
+              "pid": null,
+              "wtn": 10.26,
+              "seed": null
+             },
              null
             ]
            },
@@ -260455,7 +263545,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
-             null,
+             {
+              "name": "Mykhailo Polishchuck",
+              "abbr": null,
+              "school": "Mercyhurst University",
+              "pid": null,
+              "wtn": 13.62,
+              "seed": null
+             },
              null
             ]
            },
@@ -260467,7 +263564,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-15T13:00",
             "venue": "Univ. Of Pennsylvania",
             "sides": [
-             null,
+             {
+              "name": "John Gentek",
+              "abbr": null,
+              "school": "University Of Delaware",
+              "pid": null,
+              "wtn": 11.05,
+              "seed": null
+             },
              null
             ]
            },
@@ -264568,7 +267672,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Northwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:54.651Z",
+  "fetchedAt": "2026-10-15T15:02:45.987Z",
   "events": [
    {
     "eventId": "146A7A03-568C-46C5-BD37-575D89BDD005",
@@ -272625,7 +275729,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-15T14:32:57.458Z",
+  "fetchedAt": "2026-10-15T15:02:48.639Z",
   "events": [
    {
     "eventId": "9D536E84-BA27-4116-A442-716034BB99D1",
