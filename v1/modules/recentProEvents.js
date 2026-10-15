@@ -478,9 +478,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Luciano Emanuel Ambrogi",
      "score": "6-2 7-6(5)"
+    },
+    {
+     "id": "225834858",
+     "date": "2026-10-15",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Karl Poling",
+     "score": "6-3 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -1040,9 +1049,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Michaela Bayerlova",
      "score": "4-6 6-3 6-3"
+    },
+    {
+     "id": "197833405",
+     "date": "2026-10-15",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Cadence Brace",
+     "score": "6-4 6-0"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -1519,9 +1537,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Lilian Poling",
      "score": "6-3 7-6(4)"
+    },
+    {
+     "id": "197833405",
+     "date": "2026-10-15",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Mingge Xu",
+     "score": "6-4 6-0"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -3358,9 +3385,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Matei Cristian Onofrei",
      "score": "6-1 6-4"
+    },
+    {
+     "id": "225835556",
+     "date": "2026-10-15",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Hoyoung Roh",
+     "score": "6-2 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -3778,9 +3814,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Tomasz Berkieta",
      "score": "6-4 6-2"
+    },
+    {
+     "id": "225834880",
+     "date": "2026-10-15",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Lui Maxted",
+     "score": "6-0 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -4236,9 +4281,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Pedro Martinez Portero",
      "score": "6-2 6-1"
+    },
+    {
+     "id": "224429209",
+     "date": "2026-10-15",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Lukas Neumayer",
+     "score": "6-4 4-6 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -4507,9 +4561,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Maria Aytoyan",
      "score": "7-6(1) 6-2"
+    },
+    {
+     "id": "197833582",
+     "date": "2026-10-15",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Christasha McNeil",
+     "score": "6-1 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -4627,9 +4690,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Diletta Cherubini",
      "score": "6-4 4-6 6-1"
+    },
+    {
+     "id": "197833582",
+     "date": "2026-10-15",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Salma Drugdova",
+     "score": "6-1 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -4951,6 +5023,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "uga-m-n8": [
+  {
+   "key": "22157",
+   "name": "M15 Lexington",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "225835559",
+     "date": "2026-10-14",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Mikael Arseneault",
+     "score": "6-4 7-5"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "uga-p7": [
   {
    "key": "17306",
@@ -4989,6 +5083,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Lea Ma",
      "score": "6-4 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "uk-m-p1": [
+  {
+   "key": "22157",
+   "name": "M15 Lexington",
+   "date": "2026-10-12",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "225835559",
+     "date": "2026-10-14",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "William Jansen",
+     "score": "6-4 7-5"
     }
    ],
    "reached": "First",
@@ -5541,9 +5657,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Olaf Pieczkowski",
      "score": "6-3 6-2"
+    },
+    {
+     "id": "225835556",
+     "date": "2026-10-15",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Theo Papamalamis",
+     "score": "6-2 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
