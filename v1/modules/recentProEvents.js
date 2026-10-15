@@ -5268,9 +5268,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Johan Nikles",
      "score": "6-2 4-6 6-0"
+    },
+    {
+     "id": "218813160",
+     "date": "2026-10-15",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Tommaso Compagnucci",
+     "score": "7-6(6) 6-4"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
