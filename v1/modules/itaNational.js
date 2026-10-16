@@ -7,707 +7,707 @@ export const teamNationalRanks = globalThis.__BAGEL_REMOTE__?.["itaNational"]?.t
   "wins": 28,
   "losses": 4,
   "change": 4,
-  "itaId": "ea538604-050f-4d44-9f6b-7cfaef251022"
+  "itaId": null
  },
  "tex-m": {
   "rank": 2,
   "wins": 29,
   "losses": 7,
   "change": -1,
-  "itaId": "e71bce99-4132-47ae-8006-5372d54ffda9"
+  "itaId": null
  },
  "wake-m": {
   "rank": 3,
   "wins": 33,
   "losses": 4,
   "change": 1,
-  "itaId": "0a89a4fe-5bf5-4e60-8708-989d07766f35"
+  "itaId": null
  },
  "tcu-m": {
   "rank": 4,
   "wins": 25,
   "losses": 6,
   "change": -2,
-  "itaId": "96f36c2b-99a2-4795-9e32-84a32742fdee"
+  "itaId": null
  },
  "osu-m": {
   "rank": 5,
   "wins": 32,
   "losses": 5,
   "change": -2,
-  "itaId": "207d4b1b-1e63-4e78-bb86-ddaf39559295"
+  "itaId": null
  },
  "msst-m": {
   "rank": 6,
   "wins": 25,
   "losses": 6,
-  "change": null,
-  "itaId": "815cd16b-2fd1-48ae-8a26-348a4631fbe3"
+  "change": 0,
+  "itaId": null
  },
  "ariz-m": {
   "rank": 7,
   "wins": 24,
   "losses": 5,
   "change": 1,
-  "itaId": "ab3f5fab-38c0-4eb7-980a-1dc1cce5e928"
+  "itaId": null
  },
  "lsu-m": {
   "rank": 8,
   "wins": 26,
   "losses": 7,
   "change": -1,
-  "itaId": "ee4edb63-ebba-41bc-b47c-3380f94d02a7"
+  "itaId": null
  },
  "ou-m": {
   "rank": 9,
   "wins": 20,
   "losses": 7,
-  "change": null,
-  "itaId": "1c9c888b-631c-4c23-a1b3-c035f56249b4"
+  "change": 0,
+  "itaId": null
  },
  "bay-m": {
   "rank": 10,
   "wins": 24,
   "losses": 10,
   "change": 1,
-  "itaId": "c98c90ae-39d9-4a59-a427-6f7414841709"
+  "itaId": null
  },
  "tamu-m": {
   "rank": 11,
   "wins": 20,
   "losses": 10,
   "change": -1,
-  "itaId": "702d4d29-6636-4f06-a35c-f22e3953ae0c"
+  "itaId": null
  },
  "uga-m": {
   "rank": 12,
   "wins": 20,
   "losses": 9,
-  "change": null,
-  "itaId": "f81b9e62-3331-41dc-9a41-365b04b4da5f"
+  "change": 0,
+  "itaId": null
  },
  "ucf-m": {
   "rank": 13,
   "wins": 22,
   "losses": 7,
   "change": 2,
-  "itaId": "554755e6-c18c-4936-9cae-3e20507dbbe5"
+  "itaId": null
  },
  "ill-m": {
   "rank": 14,
   "wins": 24,
   "losses": 8,
-  "change": null,
-  "itaId": "a9d92d42-3f88-4848-9408-52d767937662"
+  "change": 0,
+  "itaId": null
  },
  "sc-m": {
   "rank": 15,
   "wins": 18,
   "losses": 9,
   "change": -2,
-  "itaId": "1a7ceae0-50e2-4311-84a4-ff857da8fb42"
+  "itaId": null
  },
  "stan-m": {
   "rank": 16,
   "wins": 19,
   "losses": 9,
   "change": 2,
-  "itaId": "28e9c099-0f9e-4c8e-b8a6-374479b1c04e"
+  "itaId": null
  },
  "usd-m": {
   "rank": 17,
   "wins": 22,
   "losses": 6,
-  "change": null,
-  "itaId": "9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124"
+  "change": 0,
+  "itaId": null
  },
  "msu-m": {
   "rank": 18,
   "wins": 19,
   "losses": 9,
   "change": -2,
-  "itaId": "58f0b75c-c78a-4142-aa5d-4683c18e1164"
+  "itaId": null
  },
  "ucla-m": {
   "rank": 19,
   "wins": 18,
   "losses": 8,
   "change": 1,
-  "itaId": "697a7501-5c60-4b68-9cdf-10f194e275e9"
+  "itaId": null
  },
  "usc-m": {
   "rank": 20,
   "wins": 19,
   "losses": 8,
   "change": 1,
-  "itaId": "a9bceb19-dac7-4b1a-8093-356440403f7b"
+  "itaId": null
  },
  "pepp-m": {
   "rank": 21,
   "wins": 19,
   "losses": 10,
   "change": 6,
-  "itaId": "25d26c49-1008-4b55-8440-fc23552b5144"
+  "itaId": null
  },
  "fla-m": {
   "rank": 22,
   "wins": 17,
   "losses": 14,
   "change": -3,
-  "itaId": "dfa05ccb-b8a4-46c7-8921-3d60c8f170d7"
+  "itaId": null
  },
  "van-m": {
   "rank": 23,
   "wins": 18,
   "losses": 13,
   "change": 1,
-  "itaId": "592aafc0-8320-4fb0-8161-842be0124a4d"
+  "itaId": null
  },
  "nd-m": {
   "rank": 24,
   "wins": 21,
   "losses": 8,
   "change": -1,
-  "itaId": "804abb9d-ce89-4455-b47c-5b8b88d8443b"
+  "itaId": null
  },
  "aub-m": {
   "rank": 25,
   "wins": 17,
   "losses": 11,
   "change": -3,
-  "itaId": "dc80d974-5c75-47d8-a3a3-6361ea0c1c7c"
+  "itaId": null
  },
  "corn-m": {
   "rank": 26,
   "wins": 19,
   "losses": 4,
   "change": 3,
-  "itaId": "479ca8ce-37c4-4f3e-9b97-b59da1625496"
+  "itaId": null
  },
  "colum-m": {
   "rank": 27,
   "wins": 17,
   "losses": 8,
   "change": -1,
-  "itaId": "06f842c2-f8dd-4ccd-9abb-a4853dd2761f"
+  "itaId": null
  },
  "ncst-m": {
   "rank": 28,
   "wins": 17,
   "losses": 8,
   "change": 2,
-  "itaId": "df9a8e27-9fa3-413b-9028-442efef29ffd"
+  "itaId": null
  },
  "smu-m": {
   "rank": 29,
   "wins": 20,
   "losses": 12,
   "change": 3,
-  "itaId": "3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25"
+  "itaId": null
  },
  "clem-m": {
   "rank": 30,
   "wins": 17,
   "losses": 13,
   "change": 4,
-  "itaId": "24f244b6-deb6-4fab-80fd-7ac5227f4832"
+  "itaId": null
  },
  "uk-m": {
   "rank": 31,
   "wins": 17,
   "losses": 14,
   "change": -6,
-  "itaId": "6b435f63-1b41-4988-b46b-964b883547c5"
+  "itaId": null
  },
  "asu-m": {
   "rank": 32,
   "wins": 17,
   "losses": 11,
   "change": -1,
-  "itaId": "80cfa0c6-e529-4b50-83cd-14c3845501ae"
+  "itaId": null
  },
  "miss-m": {
   "rank": 33,
   "wins": 19,
   "losses": 10,
   "change": -5,
-  "itaId": "50878027-90b4-4884-b6f6-af89c0ca04d9"
+  "itaId": null
  },
  "wisc-m": {
   "rank": 34,
   "wins": 18,
   "losses": 8,
   "change": -1,
-  "itaId": "86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca"
+  "itaId": null
  },
  "cal-m": {
   "rank": 35,
   "wins": 17,
   "losses": 14,
   "change": 7,
-  "itaId": "821d45ba-9b76-4bc5-8f40-68dfaee763a5"
+  "itaId": null
  },
  "ucsb-m": {
   "rank": 36,
   "wins": 18,
   "losses": 8,
   "change": -1,
-  "itaId": "911fc75e-825e-4361-8c2b-eb8d074c3293"
+  "itaId": null
  },
  "prin-m": {
   "rank": 37,
   "wins": 16,
   "losses": 11,
-  "change": null,
-  "itaId": "b39276ed-a8c8-4fa3-98a9-f915107798e7"
+  "change": 0,
+  "itaId": null
  },
  "scu-m": {
   "rank": 38,
   "wins": 19,
   "losses": 5,
   "change": -2,
-  "itaId": "12da963f-db09-4430-8238-0c5972bd0aae"
+  "itaId": null
  },
  "unc-m": {
   "rank": 39,
   "wins": 15,
   "losses": 12,
   "change": 2,
-  "itaId": "8544d2ac-773a-409d-b22e-6af0ee807c63"
+  "itaId": null
  },
  "duke-m": {
   "rank": 40,
   "wins": 15,
   "losses": 14,
-  "change": null,
-  "itaId": "4b118544-8956-46b9-b4fb-6bf1ee2998e9"
+  "change": 0,
+  "itaId": null
  },
  "mich-m": {
   "rank": 41,
   "wins": 13,
   "losses": 11,
   "change": -2,
-  "itaId": "36d44c05-1bb6-4b49-a2d1-b2f00e27821e"
+  "itaId": null
  },
  "ark-m": {
   "rank": 42,
   "wins": 16,
   "losses": 15,
   "change": -4,
-  "itaId": "4a8e8a56-d2f0-4f62-8cb2-7aef3a0f71d6"
+  "itaId": null
  },
  "miami-m": {
   "rank": 43,
   "wins": 14,
   "losses": 11,
   "change": 2,
-  "itaId": "f3bfc7c5-86d6-4af3-9377-c84209a35968"
+  "itaId": null
  },
  "penn-m": {
   "rank": 44,
   "wins": 18,
   "losses": 10,
   "change": -1,
-  "itaId": "9b43ae4c-3f9a-47f0-8bcb-8e1b70cc9302"
+  "itaId": null
  },
  "yale-m": {
   "rank": 45,
   "wins": 16,
   "losses": 10,
   "change": -1,
-  "itaId": "64305e8d-015d-473a-8b96-6949b90e1fa5"
+  "itaId": null
  },
  "okst-m": {
   "rank": 46,
   "wins": 14,
   "losses": 11,
-  "change": null,
-  "itaId": "ce99ed51-d0dc-468b-810c-e084f0b8edcd"
+  "change": 0,
+  "itaId": null
  },
  "harv-m": {
   "rank": 47,
   "wins": 14,
   "losses": 12,
-  "change": null,
-  "itaId": "9d7e8d65-7878-47e7-9f33-fcb748be886f"
+  "change": 0,
+  "itaId": null
  },
  "fsu-m": {
   "rank": 49,
   "wins": 14,
   "losses": 15,
   "change": 1,
-  "itaId": "9c25db90-c2f2-438d-b418-1e31df40e351"
+  "itaId": null
  },
  "rice-m": {
   "rank": 50,
   "wins": 15,
   "losses": 8,
   "change": -1,
-  "itaId": "31894235-e994-4660-a773-50d353f245b0"
+  "itaId": null
  },
  "clt-m": {
   "rank": 52,
   "wins": 15,
   "losses": 8,
   "change": 1,
-  "itaId": "e4edd8f3-3396-4b0e-ad73-271bae2a061e"
+  "itaId": null
  },
  "gt-m": {
   "rank": 54,
   "wins": 12,
   "losses": 13,
   "change": 6,
-  "itaId": "8f398642-3995-428a-84be-ce55c55bc5fd"
+  "itaId": null
  },
  "ala-m": {
   "rank": 55,
   "wins": 12,
   "losses": 17,
   "change": -3,
-  "itaId": "9b87115c-def8-48fb-a3d6-25887547fcbb"
+  "itaId": null
  },
  "tulsa-m": {
   "rank": 56,
   "wins": 19,
   "losses": 13,
   "change": -1,
-  "itaId": "c45e9ee0-09e1-4acd-8fbc-056f21ba43ee"
+  "itaId": null
  },
  "neb-m": {
   "rank": 57,
   "wins": 12,
   "losses": 14,
   "change": -3,
-  "itaId": "df63a514-e637-4161-9cc6-351d66e2c018"
+  "itaId": null
  },
  "ore-m": {
   "rank": 58,
   "wins": 14,
   "losses": 11,
   "change": -3,
-  "itaId": "83b5face-98d6-481c-969f-65c294b836e8"
+  "itaId": null
  },
  "lmu-m": {
   "rank": 59,
   "wins": 17,
   "losses": 5,
-  "change": null,
-  "itaId": "d5480368-b1c4-4a44-8918-b6f2a954538b"
+  "change": 0,
+  "itaId": null
  },
  "usf-m": {
   "rank": 60,
   "wins": 11,
   "losses": 14,
   "change": 2,
-  "itaId": "193a4fb2-4a26-4724-ad0b-188cb862c8b4"
+  "itaId": null
  },
  "ind-m": {
   "rank": 61,
   "wins": 11,
   "losses": 13,
   "change": -3,
-  "itaId": "21baaa68-c3b5-4eab-b424-ea430fe572e3"
+  "itaId": null
  },
  "lou-m": {
   "rank": 62,
   "wins": 17,
   "losses": 13,
   "change": 2,
-  "itaId": "c9ca8b99-867b-4c0f-a57e-3445ef22d5a6"
+  "itaId": null
  },
  "tenn-m": {
   "rank": 64,
   "wins": 10,
   "losses": 18,
   "change": -3,
-  "itaId": "4458bc13-c379-4847-b5cc-c752cdeb97bf"
+  "itaId": null
  },
  "mem-m": {
   "rank": 65,
   "wins": 12,
   "losses": 12,
-  "change": null,
-  "itaId": "2c645dc8-b625-479e-8cb3-cdcd76cf90ca"
+  "change": 0,
+  "itaId": null
  },
  "wich-m": {
   "rank": 68,
   "wins": 13,
   "losses": 10,
   "change": 1,
-  "itaId": "59cd7fa7-ac23-49f3-aea1-6b0eb434d55e"
+  "itaId": null
  },
  "nw-m": {
   "rank": 69,
   "wins": 15,
   "losses": 13,
   "change": -1,
-  "itaId": "f0f65ff6-3eab-4489-851d-855a9d36b5a4"
+  "itaId": null
  },
  "vt-m": {
   "rank": 71,
   "wins": 8,
   "losses": 16,
   "change": null,
-  "itaId": "326c560b-3bb3-4be7-ba93-35e5c67470fd"
+  "itaId": null
  },
  "ttu-m": {
   "rank": 73,
   "wins": 12,
   "losses": 11,
-  "change": null,
-  "itaId": "8169af92-629d-4274-964f-efa6320d0b9e"
+  "change": 0,
+  "itaId": null
  },
  "uci-m": {
   "rank": 75,
   "wins": 14,
   "losses": 8,
   "change": -3,
-  "itaId": "e1b7b68b-58b9-4d19-9761-2e5bc89a816c"
+  "itaId": null
  },
  "tamu-w": {
   "rank": 1,
   "wins": 27,
   "losses": 5,
   "change": 2,
-  "itaId": "702d4d29-6636-4f06-a35c-f22e3953ae0c"
+  "itaId": null
  },
  "aub-w": {
   "rank": 2,
   "wins": 37,
   "losses": 4,
   "change": -1,
-  "itaId": "dc80d974-5c75-47d8-a3a3-6361ea0c1c7c"
+  "itaId": null
  },
  "uga-w": {
   "rank": 3,
   "wins": 22,
   "losses": 6,
   "change": -1,
-  "itaId": "f81b9e62-3331-41dc-9a41-365b04b4da5f"
+  "itaId": null
  },
  "osu-w": {
   "rank": 4,
   "wins": 27,
   "losses": 5,
-  "change": null,
-  "itaId": "207d4b1b-1e63-4e78-bb86-ddaf39559295"
+  "change": 0,
+  "itaId": null
  },
  "unc-w": {
   "rank": 5,
   "wins": 27,
   "losses": 4,
-  "change": null,
-  "itaId": "8544d2ac-773a-409d-b22e-6af0ee807c63"
+  "change": 0,
+  "itaId": null
  },
  "ou-w": {
   "rank": 6,
   "wins": 25,
   "losses": 6,
-  "change": null,
-  "itaId": "1c9c888b-631c-4c23-a1b3-c035f56249b4"
+  "change": 0,
+  "itaId": null
  },
  "uva-w": {
   "rank": 7,
   "wins": 23,
   "losses": 6,
-  "change": null,
-  "itaId": "ea538604-050f-4d44-9f6b-7cfaef251022"
+  "change": 0,
+  "itaId": null
  },
  "ncst-w": {
   "rank": 8,
   "wins": 25,
   "losses": 8,
-  "change": null,
-  "itaId": "df9a8e27-9fa3-413b-9028-442efef29ffd"
+  "change": 0,
+  "itaId": null
  },
  "pepp-w": {
   "rank": 9,
   "wins": 21,
   "losses": 5,
   "change": 2,
-  "itaId": "25d26c49-1008-4b55-8440-fc23552b5144"
+  "itaId": null
  },
  "lsu-w": {
   "rank": 10,
   "wins": 22,
   "losses": 10,
-  "change": null,
-  "itaId": "ee4edb63-ebba-41bc-b47c-3380f94d02a7"
+  "change": 0,
+  "itaId": null
  },
  "tex-w": {
   "rank": 11,
   "wins": 19,
   "losses": 8,
   "change": -2,
-  "itaId": "e71bce99-4132-47ae-8006-5372d54ffda9"
+  "itaId": null
  },
  "mich-w": {
   "rank": 12,
   "wins": 21,
   "losses": 7,
-  "change": null,
-  "itaId": "36d44c05-1bb6-4b49-a2d1-b2f00e27821e"
+  "change": 0,
+  "itaId": null
  },
  "usc-w": {
   "rank": 13,
   "wins": 21,
   "losses": 7,
-  "change": null,
-  "itaId": "a9bceb19-dac7-4b1a-8093-356440403f7b"
+  "change": 0,
+  "itaId": null
  },
  "duke-w": {
   "rank": 14,
   "wins": 20,
   "losses": 8,
   "change": 1,
-  "itaId": "4b118544-8956-46b9-b4fb-6bf1ee2998e9"
+  "itaId": null
  },
  "ucla-w": {
   "rank": 15,
   "wins": 18,
   "losses": 8,
   "change": 3,
-  "itaId": "697a7501-5c60-4b68-9cdf-10f194e275e9"
+  "itaId": null
  },
  "van-w": {
   "rank": 16,
   "wins": 22,
   "losses": 10,
   "change": -2,
-  "itaId": "592aafc0-8320-4fb0-8161-842be0124a4d"
+  "itaId": null
  },
  "asu-w": {
   "rank": 17,
   "wins": 20,
   "losses": 6,
   "change": -1,
-  "itaId": "80cfa0c6-e529-4b50-83cd-14c3845501ae"
+  "itaId": null
  },
  "fla-w": {
   "rank": 18,
   "wins": 17,
   "losses": 8,
   "change": -1,
-  "itaId": "dfa05ccb-b8a4-46c7-8921-3d60c8f170d7"
+  "itaId": null
  },
  "tenn-w": {
   "rank": 19,
   "wins": 14,
   "losses": 10,
-  "change": null,
-  "itaId": "4458bc13-c379-4847-b5cc-c752cdeb97bf"
+  "change": 0,
+  "itaId": null
  },
  "ucf-w": {
   "rank": 20,
   "wins": 21,
   "losses": 5,
-  "change": null,
-  "itaId": "554755e6-c18c-4936-9cae-3e20507dbbe5"
+  "change": 0,
+  "itaId": null
  },
  "tcu-w": {
   "rank": 21,
   "wins": 20,
   "losses": 5,
-  "change": null,
-  "itaId": "96f36c2b-99a2-4795-9e32-84a32742fdee"
+  "change": 0,
+  "itaId": null
  },
  "cal-w": {
   "rank": 22,
   "wins": 13,
   "losses": 8,
   "change": 1,
-  "itaId": "821d45ba-9b76-4bc5-8f40-68dfaee763a5"
+  "itaId": null
  },
  "wash-w": {
   "rank": 23,
   "wins": 20,
   "losses": 6,
   "change": -1,
-  "itaId": "120192a9-3571-49b1-aec9-b9e7ece54af2"
+  "itaId": null
  },
  "smu-w": {
   "rank": 24,
   "wins": 16,
   "losses": 8,
   "change": 2,
-  "itaId": "3fde9a8e-f5d6-49d8-bdc2-18852c5a8e25"
+  "itaId": null
  },
  "clem-w": {
   "rank": 25,
   "wins": 18,
   "losses": 9,
   "change": -1,
-  "itaId": "24f244b6-deb6-4fab-80fd-7ac5227f4832"
+  "itaId": null
  },
  "miami-w": {
   "rank": 26,
   "wins": 15,
   "losses": 8,
   "change": 3,
-  "itaId": "f3bfc7c5-86d6-4af3-9377-c84209a35968"
+  "itaId": null
  },
  "ttu-w": {
   "rank": 27,
   "wins": 19,
   "losses": 11,
   "change": 1,
-  "itaId": "8169af92-629d-4274-964f-efa6320d0b9e"
+  "itaId": null
  },
  "stan-w": {
   "rank": 28,
   "wins": 14,
   "losses": 11,
   "change": 2,
-  "itaId": "28e9c099-0f9e-4c8e-b8a6-374479b1c04e"
+  "itaId": null
  },
  "sc-w": {
   "rank": 29,
   "wins": 13,
   "losses": 13,
   "change": 3,
-  "itaId": "1a7ceae0-50e2-4311-84a4-ff857da8fb42"
+  "itaId": null
  },
  "wisc-w": {
   "rank": 30,
   "wins": 17,
   "losses": 8,
   "change": -5,
-  "itaId": "86fe8325-3aa7-4f9c-a2ea-39a0f6b8c5ca"
+  "itaId": null
  },
  "nd-w": {
   "rank": 31,
   "wins": 19,
   "losses": 10,
   "change": 4,
-  "itaId": "804abb9d-ce89-4455-b47c-5b8b88d8443b"
+  "itaId": null
  },
  "clt-w": {
   "rank": 32,
   "wins": 23,
   "losses": 5,
   "change": -1,
-  "itaId": "e4edd8f3-3396-4b0e-ad73-271bae2a061e"
+  "itaId": null
  },
  "ariz-w": {
   "rank": 33,
   "wins": 20,
   "losses": 10,
   "change": -6,
-  "itaId": "ab3f5fab-38c0-4eb7-980a-1dc1cce5e928"
+  "itaId": null
  },
  "bay-w": {
   "rank": 34,
   "wins": 14,
   "losses": 10,
   "change": 3,
-  "itaId": "c98c90ae-39d9-4a59-a427-6f7414841709"
+  "itaId": null
  },
  "wich-w": {
   "rank": 35,
   "wins": 21,
   "losses": 5,
   "change": -1,
-  "itaId": "59cd7fa7-ac23-49f3-aea1-6b0eb434d55e"
+  "itaId": null
  },
  "umd-w": {
   "rank": 36,
@@ -721,28 +721,28 @@ export const teamNationalRanks = globalThis.__BAGEL_REMOTE__?.["itaNational"]?.t
   "wins": 18,
   "losses": 7,
   "change": 5,
-  "itaId": "31894235-e994-4660-a773-50d353f245b0"
+  "itaId": null
  },
  "yale-w": {
   "rank": 38,
   "wins": 19,
   "losses": 4,
   "change": -2,
-  "itaId": "64305e8d-015d-473a-8b96-6949b90e1fa5"
+  "itaId": null
  },
  "byu-w": {
   "rank": 39,
   "wins": 19,
   "losses": 9,
   "change": -1,
-  "itaId": "53f1c9be-0b9c-49da-ab3c-832d384f56aa"
+  "itaId": null
  },
  "prin-w": {
   "rank": 40,
   "wins": 18,
   "losses": 3,
   "change": 3,
-  "itaId": "b39276ed-a8c8-4fa3-98a9-f915107798e7"
+  "itaId": null
  },
  "ku-w": {
   "rank": 41,
@@ -756,27 +756,27 @@ export const teamNationalRanks = globalThis.__BAGEL_REMOTE__?.["itaNational"]?.t
   "wins": 15,
   "losses": 10,
   "change": -3,
-  "itaId": "a41f5f5b-7957-43f1-ab9f-9f751ba0760c"
+  "itaId": null
  },
  "miss-w": {
   "rank": 43,
   "wins": 15,
   "losses": 11,
   "change": -2,
-  "itaId": "50878027-90b4-4884-b6f6-af89c0ca04d9"
+  "itaId": null
  },
  "okst-w": {
   "rank": 44,
   "wins": 8,
   "losses": 12,
-  "change": null,
-  "itaId": "ce99ed51-d0dc-468b-810c-e084f0b8edcd"
+  "change": 0,
+  "itaId": null
  },
  "hou-w": {
   "rank": 45,
   "wins": 18,
   "losses": 6,
-  "change": null,
+  "change": 0,
   "itaId": null
  },
  "colum-w": {
@@ -784,167 +784,175 @@ export const teamNationalRanks = globalThis.__BAGEL_REMOTE__?.["itaNational"]?.t
   "wins": 15,
   "losses": 5,
   "change": 2,
-  "itaId": "06f842c2-f8dd-4ccd-9abb-a4853dd2761f"
+  "itaId": null
  },
  "iowa-w": {
   "rank": 47,
   "wins": 12,
   "losses": 14,
-  "change": null,
-  "itaId": "46d409f1-c7ce-45f1-9c78-6ec71a781959"
+  "change": 0,
+  "itaId": null
  },
  "ill-w": {
   "rank": 48,
   "wins": 13,
   "losses": 13,
   "change": -2,
-  "itaId": "a9d92d42-3f88-4848-9408-52d767937662"
+  "itaId": null
  },
  "neb-w": {
   "rank": 50,
   "wins": 15,
   "losses": 9,
   "change": -1,
-  "itaId": "df63a514-e637-4161-9cc6-351d66e2c018"
+  "itaId": null
  },
  "ucsb-w": {
   "rank": 51,
   "wins": 17,
   "losses": 9,
   "change": -1,
-  "itaId": "911fc75e-825e-4361-8c2b-eb8d074c3293"
+  "itaId": null
  },
  "usd-w": {
   "rank": 53,
   "wins": 13,
   "losses": 10,
   "change": -1,
-  "itaId": "9aa8f5e1-5e17-4dd1-97fb-e5eb9a5bf124"
+  "itaId": null
  },
  "ark-w": {
   "rank": 54,
   "wins": 14,
   "losses": 14,
   "change": -1,
-  "itaId": "4a8e8a56-d2f0-4f62-8cb2-7aef3a0f71d6"
+  "itaId": null
  },
  "ala-w": {
   "rank": 55,
   "wins": 13,
   "losses": 12,
   "change": 1,
-  "itaId": "9b87115c-def8-48fb-a3d6-25887547fcbb"
+  "itaId": null
  },
  "psu-w": {
   "rank": 56,
   "wins": 14,
   "losses": 11,
   "change": -2,
-  "itaId": "fb7dbb61-bb92-4e5c-9acd-e7415ef014d1"
+  "itaId": null
  },
  "msst-w": {
   "rank": 57,
   "wins": 16,
   "losses": 12,
   "change": -2,
-  "itaId": "815cd16b-2fd1-48ae-8a26-348a4631fbe3"
+  "itaId": null
  },
  "wake-w": {
   "rank": 59,
   "wins": 13,
   "losses": 13,
   "change": 1,
-  "itaId": "0a89a4fe-5bf5-4e60-8708-989d07766f35"
+  "itaId": null
  },
  "nw-w": {
   "rank": 60,
   "wins": 14,
   "losses": 12,
   "change": -1,
-  "itaId": "f0f65ff6-3eab-4489-851d-855a9d36b5a4"
+  "itaId": null
  },
  "harv-w": {
   "rank": 61,
   "wins": 12,
   "losses": 10,
   "change": 1,
-  "itaId": "9d7e8d65-7878-47e7-9f33-fcb748be886f"
+  "itaId": null
  },
  "brown-w": {
   "rank": 62,
   "wins": 15,
   "losses": 8,
   "change": 1,
-  "itaId": "85b89882-f2b1-4bdc-a1f2-4cee0c1ad6cd"
+  "itaId": null
  },
  "dart-w": {
   "rank": 63,
   "wins": 14,
   "losses": 8,
   "change": 2,
-  "itaId": "0c562e0e-6590-4d08-ab0d-8dd91b82dd1e"
+  "itaId": null
  },
  "bc-w": {
   "rank": 64,
   "wins": 10,
   "losses": 13,
-  "change": null,
-  "itaId": "fc92b93f-2d30-4b64-be6b-7cfd8126222d"
+  "change": 0,
+  "itaId": null
  },
  "gt-w": {
   "rank": 65,
   "wins": 10,
   "losses": 14,
   "change": -4,
-  "itaId": "8f398642-3995-428a-84be-ce55c55bc5fd"
+  "itaId": null
  },
  "msu-w": {
   "rank": 66,
   "wins": 11,
   "losses": 12,
-  "change": null,
-  "itaId": "58f0b75c-c78a-4142-aa5d-4683c18e1164"
+  "change": 0,
+  "itaId": null
  },
  "ind-w": {
   "rank": 70,
   "wins": 14,
   "losses": 11,
   "change": -2,
-  "itaId": "21baaa68-c3b5-4eab-b424-ea430fe572e3"
+  "itaId": null
  },
  "ore-w": {
   "rank": 72,
   "wins": 12,
   "losses": 13,
-  "change": null,
-  "itaId": "83b5face-98d6-481c-969f-65c294b836e8"
+  "change": 0,
+  "itaId": null
  },
  "penn-w": {
   "rank": 73,
   "wins": 11,
   "losses": 12,
-  "change": null,
-  "itaId": "9b43ae4c-3f9a-47f0-8bcb-8e1b70cc9302"
+  "change": 0,
+  "itaId": null
  },
  "colo-w": {
   "rank": 75,
   "wins": 10,
   "losses": 13,
-  "change": null,
+  "change": 0,
   "itaId": null
  }
 };
 export const itaNationalMeta = globalThis.__BAGEL_REMOTE__?.["itaNational"]?.itaNationalMeta ?? {
- "fetchedAt": "2026-09-28T21:31:09.733Z",
- "source": "ITA D1 national team rankings (Top 75) via wearecollegetennis.com rankings widget",
+ "fetchedAt": "2026-10-16T17:03:51.064Z",
+ "source": "ITA D1 national team rankings (Top 75) via the ITA public GraphQL (td_rankLists, national = no region)",
  "genders": {
   "M": {
    "title": "Men's Division I Team Rankings",
-   "total": 75
+   "total": 75,
+   "listId": "2025-26_d1_men_teams_p17_v1",
+   "season": "2025-26",
+   "published": "2026-05-20",
+   "final": true
   },
   "W": {
    "title": "Women's Division I Team Rankings",
-   "total": 75
+   "total": 75,
+   "listId": "2025-26_d1_women_teams_p18_v1",
+   "season": "2025-26",
+   "published": "2026-05-20",
+   "final": true
   }
  }
 };
