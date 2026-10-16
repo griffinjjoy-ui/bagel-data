@@ -2991,9 +2991,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Stefanie Auer",
      "score": "7-5 6-3"
+    },
+    {
+     "id": "15691541",
+     "date": "2026-10-16",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Elena Ruxandra Bertea",
+     "score": "6-4 6-0"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
