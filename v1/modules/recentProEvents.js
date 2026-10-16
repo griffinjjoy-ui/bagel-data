@@ -945,9 +945,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Cadence Brace",
      "score": "6-4 6-0"
+    },
+    {
+     "id": "21850380",
+     "date": "2026-10-16",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Yuki Naito",
+     "score": "6-4 7-5"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -3200,9 +3209,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Hoyoung Roh",
      "score": "6-2 6-3"
+    },
+    {
+     "id": "25180488",
+     "date": "2026-10-16",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Johan Oscar Lien",
+     "score": "6-2 7-6(6)"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -4072,9 +4090,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Lukas Neumayer",
      "score": "6-4 4-6 6-3"
+    },
+    {
+     "id": "25178400",
+     "date": "2026-10-16",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Tristan Boyer",
+     "score": "6-4 7-6(4)"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -4976,9 +5003,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Nicolas Arseneault",
      "score": "6-2 1-0 ret."
+    },
+    {
+     "id": "25180472",
+     "date": "2026-10-16",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Noah Zamora",
+     "score": "6-3 6-3"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],

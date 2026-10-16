@@ -2640,6 +2640,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "E35136D4-3C96-4B81-B841-A31483FDDD00",
+  "date": "2027-03-05",
+  "dateTime": "2027-03-05T06:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "smu-m",
+   "name": "Southern Methodist Univ.",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "lou-m",
+   "name": "University Of Louisville",
+   "side": 2
+  }
+ },
+ {
   "id": "09570ED6-519A-4229-A180-72A83AE6ACDC",
   "date": "2027-03-05",
   "dateTime": "2027-03-05T15:00:00.000Z",
@@ -2759,6 +2776,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "48144D07-D03B-4B0F-8F22-F89D33CF665F",
+  "date": "2027-03-07",
+  "dateTime": "2027-03-07T17:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "smu-m",
+   "name": "Southern Methodist Univ.",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "nd-m",
+   "name": "University Of Notre Dame",
+   "side": 2
+  }
+ },
+ {
   "id": "A3A95250-9072-4864-8720-DAB31BDE4E50",
   "date": "2027-03-07",
   "dateTime": "2027-03-07T18:00:00.000Z",
@@ -2789,6 +2823,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "bay-m",
    "name": "Baylor University",
+   "side": 2
+  }
+ },
+ {
+  "id": "3083D092-4C1A-416A-B938-85AE7B63E558",
+  "date": "2027-03-07",
+  "dateTime": "2027-03-07T18:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "smu-m",
+   "name": "Southern Methodist Univ.",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "gt-m",
+   "name": "Georgia Tech",
    "side": 2
   }
  },
@@ -2959,6 +3010,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "wich-w",
    "name": "Wichita State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "61943EA9-C88B-4F1A-9B72-BF7D99F502B3",
+  "date": "2027-03-12",
+  "dateTime": "2027-03-12T23:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "smu-m",
+   "name": "Southern Methodist Univ.",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "clem-m",
+   "name": "Clemson University",
    "side": 2
   }
  },
@@ -3235,6 +3303,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "8C8EF34D-2AFD-4420-B80A-FA7C83EB661F",
+  "date": "2027-03-19",
+  "dateTime": "2027-03-19T20:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "smu-m",
+   "name": "Southern Methodist Univ.",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "unc-m",
+   "name": "UNC Chapel Hill",
+   "side": 2
+  }
+ },
+ {
   "id": "3DE6029E-A935-43A1-9345-C2781167519A",
   "date": "2027-03-20",
   "dateTime": "2027-03-20T04:00:00.000Z",
@@ -3384,6 +3469,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Texas State U-San Marcos",
+   "side": 2
+  }
+ },
+ {
+  "id": "3340E2F0-95C4-4231-AB5A-9B665176AD1F",
+  "date": "2027-03-21",
+  "dateTime": "2027-03-21T16:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "smu-m",
+   "name": "Southern Methodist Univ.",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "duke-m",
+   "name": "Duke University",
    "side": 2
   }
  },
@@ -3592,6 +3694,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "4AEEF228-0690-4059-BCDA-B04FE9AF8BC9",
+  "date": "2027-03-26",
+  "dateTime": "2027-03-26T19:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "smu-m",
+   "name": "Southern Methodist Univ.",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "fsu-m",
+   "name": "Florida State University",
+   "side": 2
+  }
+ },
+ {
   "id": "113BE1A1-FA20-4B2D-8A12-5256F1FF2382",
   "date": "2027-03-26",
   "dateTime": "2027-03-26T23:30:00.000Z",
@@ -3728,6 +3847,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "73832B86-C495-4A9E-A1E9-C606E3B129F9",
+  "date": "2027-03-28",
+  "dateTime": "2027-03-28T16:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "smu-m",
+   "name": "Southern Methodist Univ.",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "miami-m",
+   "name": "University Of Miami",
+   "side": 2
+  }
+ },
+ {
   "id": "7F00A626-C1A8-411A-AA2B-2A6C28A73450",
   "date": "2027-04-01",
   "dateTime": "2027-04-01T04:00:00.000Z",
@@ -3843,6 +3979,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "San Diego State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "1FABA247-766E-43DC-B229-EBEF4A9F4D51",
+  "date": "2027-04-02",
+  "dateTime": "2027-04-02T22:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "smu-m",
+   "name": "Southern Methodist Univ.",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "wake-m",
+   "name": "Wake Forest University",
    "side": 2
   }
  },
@@ -4000,6 +4153,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "C94B321E-58EC-4A8B-8335-311837CF6CD4",
+  "date": "2027-04-04",
+  "dateTime": "2027-04-04T17:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "smu-m",
+   "name": "Southern Methodist Univ.",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ncst-m",
+   "name": "NC State",
+   "side": 2
+  }
+ },
+ {
   "id": "CF2138B8-B86A-4231-AB2D-50F044E425F7",
   "date": "2027-04-04",
   "dateTime": "2027-04-04T20:00:00.000Z",
@@ -4115,6 +4285,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "cuse-w",
    "name": "Syracuse University",
+   "side": 2
+  }
+ },
+ {
+  "id": "A781387F-C6BD-4637-B617-5615D1DFB936",
+  "date": "2027-04-09",
+  "dateTime": "2027-04-09T22:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "smu-m",
+   "name": "Southern Methodist Univ.",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "uva-m",
+   "name": "University Of Virginia",
    "side": 2
   }
  },
@@ -4289,6 +4476,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "413F2561-A8D8-4A85-A164-28A0AFFBAF30",
+  "date": "2027-04-11",
+  "dateTime": "2027-04-11T17:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "smu-m",
+   "name": "Southern Methodist Univ.",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 2
+  }
+ },
+ {
   "id": "C2072B24-0C85-42A6-B372-90AB83D100EC",
   "date": "2027-04-11",
   "dateTime": "2027-04-11T18:30:00.000Z",
@@ -4455,6 +4659,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "prin-w",
    "name": "Princeton University",
+   "side": 2
+  }
+ },
+ {
+  "id": "B601B8A4-2054-465F-AF39-F9D038E3625A",
+  "date": "2027-04-17",
+  "dateTime": "2027-04-17T19:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "smu-m",
+   "name": "Southern Methodist Univ.",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "bc-m",
+   "name": "Boston College",
    "side": 2
   }
  },
