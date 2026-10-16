@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Mountain Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:31:21.083Z",
+  "fetchedAt": "2026-10-16T03:01:35.077Z",
   "events": [
    {
     "eventId": "A15E8A0A-367B-4494-B252-10CA2EFC0807",
@@ -22537,7 +22537,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:31:24.006Z",
+  "fetchedAt": "2026-10-16T03:01:38.208Z",
   "events": [
    {
     "eventId": "C3F42B32-D079-4552-98D2-9E89D5B68F7F",
@@ -33723,7 +33723,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Central Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:31:26.749Z",
+  "fetchedAt": "2026-10-16T03:01:41.023Z",
   "events": [
    {
     "eventId": "54AF7B73-1CBD-44D4-A57A-FA562D029737",
@@ -47965,7 +47965,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Carolina Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:31:29.466Z",
+  "fetchedAt": "2026-10-16T03:01:43.967Z",
   "events": [
    {
     "eventId": "4EA0C308-65DD-4DD9-A68E-4DAA07B16460",
@@ -57558,7 +57558,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Texas Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:31:32.232Z",
+  "fetchedAt": "2026-10-16T03:01:46.816Z",
   "events": [
    {
     "eventId": "D774E574-66C0-4881-9702-A47350E90C7B",
@@ -70376,7 +70376,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Ohio Valley Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:31:34.994Z",
+  "fetchedAt": "2026-10-16T03:01:49.470Z",
   "events": [
    {
     "eventId": "27A207E4-0923-42D1-8BFC-F83A17BBCA97",
@@ -82445,7 +82445,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's New England Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:31:37.720Z",
+  "fetchedAt": "2026-10-16T03:01:52.251Z",
   "events": [
    {
     "eventId": "E8F75619-116F-4CFD-8745-238D006BAD4C",
@@ -92259,7 +92259,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Midwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:31:40.452Z",
+  "fetchedAt": "2026-10-16T03:01:55.099Z",
   "events": [
    {
     "eventId": "882B1A07-E30B-4FA8-8EA7-A455D7DBE9F5",
@@ -102148,7 +102148,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:31:43.176Z",
+  "fetchedAt": "2026-10-16T03:01:58.030Z",
   "events": [
    {
     "eventId": "E21C1832-08CA-499C-9DFD-3A0F4F16C283",
@@ -120050,7 +120050,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Atlantic Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:31:45.845Z",
+  "fetchedAt": "2026-10-16T03:02:00.972Z",
   "events": [
    {
     "eventId": "A7DFD49A-9C2C-4A52-90D2-B643AC6DB270",
@@ -130858,7 +130858,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Ohio Valley Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:31:48.510Z",
+  "fetchedAt": "2026-10-16T03:02:03.794Z",
   "events": [
    {
     "eventId": "32F41C2E-E703-4CB4-AB6B-51D63252CFE4",
@@ -140374,7 +140374,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southern Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:31:51.300Z",
+  "fetchedAt": "2026-10-16T03:02:06.800Z",
   "events": [
    {
     "eventId": "E1B6EB4F-5C48-4A97-8503-3E0305186CFF",
@@ -149860,7 +149860,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Texas Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:31:53.982Z",
+  "fetchedAt": "2026-10-16T03:02:10.033Z",
   "events": [
    {
     "eventId": "ACF820D8-2E63-4784-A364-D1F7B6F91B30",
@@ -160634,7 +160634,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's New England Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:31:56.704Z",
+  "fetchedAt": "2026-10-16T03:02:12.994Z",
   "events": [
    {
     "eventId": "1104BC4B-FA60-4A4F-9D2D-6A2EE73CFC35",
@@ -167537,7 +167537,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southern Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:31:59.314Z",
+  "fetchedAt": "2026-10-16T03:02:15.681Z",
   "events": [
    {
     "eventId": "A65C14BF-7C23-40AC-9F86-FE15BBB6786D",
@@ -196752,7 +196752,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Mountain Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:32:01.918Z",
+  "fetchedAt": "2026-10-16T03:02:18.482Z",
   "events": [
    {
     "eventId": "84A544CC-41AD-4D20-BC59-EE2F6853841B",
@@ -211753,7 +211753,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Central Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:32:04.394Z",
+  "fetchedAt": "2026-10-16T03:02:20.976Z",
   "events": [
    {
     "eventId": "DBE8AFBA-7DC2-4CC5-9800-13D2B27E27B1",
@@ -223066,7 +223066,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southeast Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:32:06.792Z",
+  "fetchedAt": "2026-10-16T03:02:23.635Z",
   "events": [
    {
     "eventId": "106447D8-7605-4244-B0F4-D6720DAC32CF",
@@ -232959,7 +232959,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Midwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:32:09.246Z",
+  "fetchedAt": "2026-10-16T03:02:26.375Z",
   "events": [
    {
     "eventId": "0AEBEE55-A378-4A39-9E3D-6D9C66744574",
@@ -240685,7 +240685,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Atlantic Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:32:11.683Z",
+  "fetchedAt": "2026-10-16T03:02:29.044Z",
   "events": [
    {
     "eventId": "EFF122C5-8F87-49F5-B9D6-4442692D0669",
@@ -248866,7 +248866,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:32:14.279Z",
+  "fetchedAt": "2026-10-16T03:02:31.907Z",
   "events": [
    {
     "eventId": "DF37662B-A6F2-4791-881B-37BF9E953B34",
@@ -255845,7 +255845,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Carolina Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:32:16.805Z",
+  "fetchedAt": "2026-10-16T03:02:34.554Z",
   "events": [
    {
     "eventId": "BBD8E08C-0836-4D64-9BF6-D97620A3333F",
@@ -264216,7 +264216,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:32:19.620Z",
+  "fetchedAt": "2026-10-16T03:02:37.319Z",
   "events": [
    {
     "eventId": "DED64A6D-F501-4CAE-9864-B5471E31510E",
@@ -265995,9 +265995,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-6(5) 3-6 6-1",
+            "winningSide": 1,
             "when": "2026-10-15T17:00",
             "venue": "Pepperdine University",
             "sides": [
@@ -266047,9 +266047,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "3-6 6-4 1-6",
+            "winningSide": 2,
             "when": "2026-10-15T17:30",
             "venue": "Pepperdine University",
             "sides": [
@@ -266130,7 +266130,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -266156,7 +266156,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -266182,7 +266182,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -266234,7 +266234,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -266248,12 +266248,19 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 8.74,
               "seed": null
              },
-             null
+             {
+              "name": "Rui Ning Huang",
+              "abbr": null,
+              "school": "Univ. Of California, Irvine",
+              "pid": "uci-m-fp192",
+              "wtn": 7.75,
+              "seed": 15
+             }
             ]
            },
            {
             "roundName": "R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -266267,7 +266274,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 9.97,
               "seed": null
              },
-             null
+             {
+              "name": "Soeren Grandke",
+              "abbr": null,
+              "school": "University Of Hawaii",
+              "pid": "haw-m-n2",
+              "wtn": 8.27,
+              "seed": null
+             }
             ]
            }
           ]
@@ -267767,11 +267781,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 4,
           "bye": false,
           "seed": null,
-          "name": "One Qualifier",
-          "school": "ITA",
+          "name": "Mason Bui",
+          "school": "Univ. Of California, Irvine",
           "abbr": null,
-          "pid": null,
-          "wtn": null
+          "pid": "uci-m-p2",
+          "wtn": 9.97
          },
          {
           "pos": 5,
@@ -267827,11 +267841,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 10,
           "bye": false,
           "seed": null,
-          "name": "Two Qualifier",
-          "school": "ITA",
+          "name": "Rui Ning Huang",
+          "school": "Univ. Of California, Irvine",
           "abbr": null,
-          "pid": null,
-          "wtn": null
+          "pid": "uci-m-fp192",
+          "wtn": 7.75
          },
          {
           "pos": 11,
@@ -267957,11 +267971,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 23,
           "bye": false,
           "seed": null,
-          "name": "Six Qualifier",
-          "school": "ITA",
+          "name": "Alexander Guajardo",
+          "school": "Univ. Of California, Irvine",
           "abbr": null,
-          "pid": null,
-          "wtn": null
+          "pid": "uci-m-fp191",
+          "wtn": 8.43
          },
          {
           "pos": 24,
@@ -267997,11 +268011,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 27,
           "bye": false,
           "seed": null,
-          "name": "Eight Qualifier",
-          "school": "ITA",
+          "name": "Yashwin Krishnakumar",
+          "school": "Univ. Of California, Irvine",
           "abbr": null,
           "pid": null,
-          "wtn": null
+          "wtn": 8.48
          },
          {
           "pos": 28,
@@ -268117,11 +268131,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 39,
           "bye": false,
           "seed": null,
-          "name": "Ten Qualifier",
-          "school": "ITA",
+          "name": "Dev Mangat",
+          "school": "Univ. Of California, Irvine",
           "abbr": null,
-          "pid": null,
-          "wtn": null
+          "pid": "uci-m-n1",
+          "wtn": 9.52
          },
          {
           "pos": 40,
@@ -268337,11 +268351,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "pos": 61,
           "bye": false,
           "seed": null,
-          "name": "Sixteen Qualifier",
-          "school": "ITA",
+          "name": "Gregory Gamal",
+          "school": "Univ. Of California, Irvine",
           "abbr": null,
-          "pid": null,
-          "wtn": null
+          "pid": "uci-m-fp193",
+          "wtn": 8.66
          },
          {
           "pos": 62,
@@ -268421,11 +268435,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "seed": null
              },
              {
-              "name": "One Qualifier",
+              "name": "Mason Bui",
               "abbr": null,
-              "school": "ITA",
-              "pid": null,
-              "wtn": null,
+              "school": "Univ. Of California, Irvine",
+              "pid": "uci-m-p2",
+              "wtn": 9.97,
               "seed": null
              }
             ]
@@ -268499,11 +268513,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "seed": 4
              },
              {
-              "name": "Two Qualifier",
+              "name": "Rui Ning Huang",
               "abbr": null,
-              "school": "ITA",
-              "pid": null,
-              "wtn": null,
+              "school": "Univ. Of California, Irvine",
+              "pid": "uci-m-fp192",
+              "wtn": 7.75,
               "seed": null
              }
             ]
@@ -268673,11 +268687,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "Pepperdine University",
             "sides": [
              {
-              "name": "Six Qualifier",
+              "name": "Alexander Guajardo",
               "abbr": null,
-              "school": "ITA",
-              "pid": null,
-              "wtn": null,
+              "school": "Univ. Of California, Irvine",
+              "pid": "uci-m-fp191",
+              "wtn": 8.43,
               "seed": null
              },
              {
@@ -268725,11 +268739,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "Pepperdine University",
             "sides": [
              {
-              "name": "Eight Qualifier",
+              "name": "Yashwin Krishnakumar",
               "abbr": null,
-              "school": "ITA",
+              "school": "Univ. Of California, Irvine",
               "pid": null,
-              "wtn": null,
+              "wtn": 8.48,
               "seed": null
              },
              {
@@ -268881,11 +268895,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "Pepperdine University",
             "sides": [
              {
-              "name": "Ten Qualifier",
+              "name": "Dev Mangat",
               "abbr": null,
-              "school": "ITA",
-              "pid": null,
-              "wtn": null,
+              "school": "Univ. Of California, Irvine",
+              "pid": "uci-m-n1",
+              "wtn": 9.52,
               "seed": null
              },
              {
@@ -269167,11 +269181,11 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": "Pepperdine University",
             "sides": [
              {
-              "name": "Sixteen Qualifier",
+              "name": "Gregory Gamal",
               "abbr": null,
-              "school": "ITA",
-              "pid": null,
-              "wtn": null,
+              "school": "Univ. Of California, Irvine",
+              "pid": "uci-m-fp193",
+              "wtn": 8.66,
               "seed": null
              },
              {
@@ -273250,7 +273264,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Northeast Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:32:22.268Z",
+  "fetchedAt": "2026-10-16T03:02:40.138Z",
   "events": [
    {
     "eventId": "5258E9B1-DFD6-48E8-8883-268B437D1360",
@@ -283688,7 +283702,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Northwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:32:24.696Z",
+  "fetchedAt": "2026-10-16T03:02:42.778Z",
   "events": [
    {
     "eventId": "146A7A03-568C-46C5-BD37-575D89BDD005",
@@ -287958,9 +287972,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "6-3 6-7(2) 6-1",
+            "winningSide": 1,
             "when": "2026-10-15T14:00",
             "venue": "University Of Washington",
             "sides": [
@@ -287984,9 +287998,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-6(4) 1-6 4-6",
+            "winningSide": 2,
             "when": "2026-10-15T15:30",
             "venue": "University Of Washington",
             "sides": [
@@ -288211,7 +288225,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": 9,
               "seed": 12
              },
-             null
+             {
+              "name": "Vitomir Petcov",
+              "abbr": null,
+              "school": "Portland State University",
+              "pid": null,
+              "wtn": 10.94,
+              "seed": null
+             }
             ]
            },
            {
@@ -288222,7 +288243,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Sibby Rodi",
+              "abbr": null,
+              "school": "University Of Oregon",
+              "pid": "ore-m-n1",
+              "wtn": 9.93,
+              "seed": null
+             },
              {
               "name": "Anirudh Nallaparaju",
               "abbr": null,
@@ -288428,15 +288456,23 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 14,
-          "bye": true,
-          "seed": null,
-          "name": null
+          "bye": false,
+          "seed": 13,
+          "name": "Nicholas Bowles",
+          "school": "Sacramento State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 9.02
          },
          {
           "pos": 15,
-          "bye": true,
-          "seed": null,
-          "name": null
+          "bye": false,
+          "seed": 14,
+          "name": "Alex Bergomi",
+          "school": "Santa Clara University",
+          "abbr": null,
+          "pid": "scu-m-n2",
+          "wtn": 9
          },
          {
           "pos": 16,
@@ -289273,7 +289309,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Nicholas Bowles",
+              "abbr": null,
+              "school": "Sacramento State University",
+              "pid": null,
+              "wtn": 9.02,
+              "seed": 13
+             },
              {
               "name": "Adi Dagan",
               "abbr": null,
@@ -289292,7 +289335,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Alex Bergomi",
+              "abbr": null,
+              "school": "Santa Clara University",
+              "pid": "scu-m-n2",
+              "wtn": 9,
+              "seed": 14
+             },
              {
               "name": "Adryan Ballestero",
               "abbr": null,
@@ -292346,7 +292396,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-16T02:32:27.352Z",
+  "fetchedAt": "2026-10-16T03:02:45.512Z",
   "events": [
    {
     "eventId": "9D536E84-BA27-4116-A442-716034BB99D1",
@@ -293764,7 +293814,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-15T09:00",
+            "when": "2026-10-16T09:00",
             "venue": "University Of San Diego",
             "sides": [
              {
@@ -293790,7 +293840,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-15T09:00",
+            "when": "2026-10-16T09:00",
             "venue": "SDSU",
             "sides": [
              {
@@ -293816,7 +293866,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-15T09:00",
+            "when": "2026-10-16T09:00",
             "venue": "SDSU",
             "sides": [
              {
@@ -293842,7 +293892,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-15T09:00",
+            "when": "2026-10-16T09:00",
             "venue": "SDSU",
             "sides": [
              {
@@ -293868,7 +293918,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-15T09:00",
+            "when": "2026-10-16T09:00",
             "venue": "SDSU",
             "sides": [
              {
@@ -293894,7 +293944,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-15T09:00",
+            "when": "2026-10-16T09:00",
             "venue": "SDSU",
             "sides": [
              {
@@ -293920,7 +293970,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-15T09:00",
+            "when": "2026-10-16T09:00",
             "venue": "University Of San Diego",
             "sides": [
              {
@@ -293946,7 +293996,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-15T09:00",
+            "when": "2026-10-16T09:00",
             "venue": "University Of San Diego",
             "sides": [
              {
@@ -293972,7 +294022,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-15T09:00",
+            "when": "2026-10-16T09:00",
             "venue": "University Of San Diego",
             "sides": [
              {
@@ -293998,7 +294048,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-15T09:00",
+            "when": "2026-10-16T09:00",
             "venue": "University Of San Diego",
             "sides": [
              {
@@ -294024,7 +294074,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-15T09:00",
+            "when": "2026-10-16T09:00",
             "venue": "University Of San Diego",
             "sides": [
              {
@@ -294050,7 +294100,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-15T09:00",
+            "when": "2026-10-16T09:00",
             "venue": "University Of San Diego",
             "sides": [
              {
@@ -294076,7 +294126,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-15T09:00",
+            "when": "2026-10-16T09:00",
             "venue": "SDSU",
             "sides": [
              {
@@ -294102,7 +294152,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-15T09:00",
+            "when": "2026-10-16T09:00",
             "venue": "SDSU",
             "sides": [
              {
@@ -294128,7 +294178,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-15T09:00",
+            "when": "2026-10-16T09:00",
             "venue": "University Of San Diego",
             "sides": [
              {
@@ -294154,7 +294204,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-15T09:00",
+            "when": "2026-10-16T09:00",
             "venue": "SDSU",
             "sides": [
              {
@@ -302597,8 +302647,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-16T14:30",
+            "venue": "SDSU",
             "sides": [
              null,
              null
@@ -302609,8 +302659,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-16T14:30",
+            "venue": "SDSU",
             "sides": [
              null,
              null
@@ -302621,8 +302671,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-16T14:30",
+            "venue": "SDSU",
             "sides": [
              null,
              null
@@ -302633,8 +302683,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-16T13:00",
+            "venue": "University Of San Diego",
             "sides": [
              null,
              null
@@ -302645,8 +302695,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-16T13:00",
+            "venue": "SDSU",
             "sides": [
              null,
              null
@@ -302657,8 +302707,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-16T14:30",
+            "venue": "SDSU",
             "sides": [
              null,
              null
@@ -302669,8 +302719,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-16T13:00",
+            "venue": "SDSU",
             "sides": [
              null,
              null
@@ -302681,8 +302731,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-16T13:00",
+            "venue": "University Of San Diego",
             "sides": [
              null,
              null
@@ -302693,8 +302743,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-16T13:00",
+            "venue": "SDSU",
             "sides": [
              null,
              null
@@ -302705,8 +302755,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-16T13:00",
+            "venue": "SDSU",
             "sides": [
              null,
              null
@@ -302717,8 +302767,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-16T13:00",
+            "venue": "University Of San Diego",
             "sides": [
              null,
              null
@@ -302729,8 +302779,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-16T13:00",
+            "venue": "SDSU",
             "sides": [
              null,
              null
@@ -302741,8 +302791,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-16T13:00",
+            "venue": "SDSU",
             "sides": [
              null,
              null
@@ -302753,8 +302803,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-16T13:00",
+            "venue": "University Of San Diego",
             "sides": [
              null,
              null
@@ -302765,8 +302815,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-16T14:30",
+            "venue": "SDSU",
             "sides": [
              null,
              null
@@ -302777,8 +302827,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-16T14:30",
+            "venue": "SDSU",
             "sides": [
              null,
              null
