@@ -1785,9 +1785,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Anthony Susanto",
      "score": "6-4 6-3"
+    },
+    {
+     "id": "13942778",
+     "date": "2026-10-16",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Kristjan Tamm",
+     "score": "3-6 6-4 6-3"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -3142,9 +3151,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Aditya Vishal Balsekar",
      "score": "7-5 6-3"
+    },
+    {
+     "id": "13942655",
+     "date": "2026-10-16",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Digvijaypratap Singh",
+     "score": "5-7 6-3 6-4"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -5122,10 +5140,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Tommaso Compagnucci",
      "score": "7-6(6) 6-4"
+    },
+    {
+     "id": "13942854",
+     "date": "2026-10-16",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Giorgio Tabacco",
+     "score": "6-3 6-4"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "uva-m-p2": [
