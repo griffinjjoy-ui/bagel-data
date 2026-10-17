@@ -3774,10 +3774,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Tristan Boyer",
      "score": "6-4 7-6(4)"
+    },
+    {
+     "id": "51868092",
+     "date": "2026-10-17",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Francesco Passaro",
+     "score": "5-7 6-1 6-4"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "22095",
