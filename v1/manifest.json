@@ -1,5 +1,5 @@
 {
- "version": "6806583721",
+ "version": "119c456111",
  "asOf": "2026-10-17",
  "files": {
   "proRankings.js": {
@@ -47,8 +47,8 @@
    "bytes": 378158
   },
   "doublesRecords.js": {
-   "hash": "2e5354ba62",
-   "bytes": 72739
+   "hash": "d08b498608",
+   "bytes": 105155
   },
   "itaTournaments.js": {
    "hash": "ca71fad1fe",
