@@ -5,6 +5,19 @@
 // on the ITF/Challenger/WTA-ATP circuit right now, ranked or not.
 export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWeek ?? [
  {
+  "playerId": "tenn-m-h15",
+  "name": "Adam Walton",
+  "teamId": "tenn-m",
+  "teamName": "Tennessee",
+  "gender": "men",
+  "event": "Almaty Open - Almaty",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Beibit Zhukayev",
+  "result": "6-1 7-5",
+  "date": "2026-10-17"
+ },
+ {
   "playerId": "pepp-w-p5",
   "name": "Duru Söke",
   "teamId": "pepp-w",
@@ -18,6 +31,45 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-17"
  },
  {
+  "playerId": "uk-m-h12",
+  "name": "Gabriel Diallo",
+  "teamId": "uk-m",
+  "teamName": "Kentucky",
+  "gender": "men",
+  "event": "Almaty Open - Almaty",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Harold Mayot",
+  "result": "7-6(5) 6-2",
+  "date": "2026-10-17"
+ },
+ {
+  "playerId": "okst-w-h10",
+  "name": "Mananchaya Sawangkaew",
+  "teamId": "okst-w",
+  "teamName": "Oklahoma State",
+  "gender": "women",
+  "event": "Ningbo Open - Ningbo",
+  "round": "Q1",
+  "won": false,
+  "opponent": "Polina Kudermetova",
+  "result": "6-3 6-4",
+  "date": "2026-10-17"
+ },
+ {
+  "playerId": "ncst-m-fp370",
+  "name": "Martin Borisiouk",
+  "teamId": "ncst-m",
+  "teamName": "NC State",
+  "gender": "men",
+  "event": "M25 Qian Daohu",
+  "round": "1/2",
+  "won": true,
+  "opponent": "Sergey Fomin",
+  "result": "6-2 6-3",
+  "date": "2026-10-17"
+ },
+ {
   "playerId": "tamu-w-h5",
   "name": "Mary Stoiana",
   "teamId": "tamu-w",
@@ -28,6 +80,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Rinko Matsuda",
   "result": "6-3 7-6(1)",
+  "date": "2026-10-17"
+ },
+ {
+  "playerId": "stan-m-fp374",
+  "name": "Samir Banerjee",
+  "teamId": "stan-m",
+  "teamName": "Stanford",
+  "gender": "men",
+  "event": "M25 Solapur",
+  "round": "1/2",
+  "won": true,
+  "opponent": "William Rejchtman Vinciguerra",
+  "result": "3-6 6-3 6-1",
   "date": "2026-10-17"
  },
  {
@@ -226,6 +291,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-16"
  },
  {
+  "playerId": "tamu-p3",
+  "name": "Ilinca Amariei",
+  "teamId": "tamu-w",
+  "teamName": "Texas A&M",
+  "gender": "women",
+  "event": "W50 Stara Zagora",
+  "round": "Second",
+  "won": false,
+  "opponent": "Angela Fita Boluda",
+  "result": "7-6(6) ret.",
+  "date": "2026-10-16"
+ },
+ {
   "playerId": "osu-m-fp278",
   "name": "Jack Anthrop",
   "teamId": "osu-m",
@@ -356,19 +434,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-16"
  },
  {
-  "playerId": "ncst-m-fp370",
-  "name": "Martin Borisiouk",
-  "teamId": "ncst-m",
-  "teamName": "NC State",
-  "gender": "men",
-  "event": "M25 Qian Daohu",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Kristjan Tamm",
-  "result": "3-6 6-4 6-3",
-  "date": "2026-10-16"
- },
- {
   "playerId": "tex-m-n3",
   "name": "Matej Dodig",
   "teamId": "tex-m",
@@ -496,19 +561,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Lea Ma",
   "result": "7-6(5) 6-1",
-  "date": "2026-10-16"
- },
- {
-  "playerId": "stan-m-fp374",
-  "name": "Samir Banerjee",
-  "teamId": "stan-m",
-  "teamName": "Stanford",
-  "gender": "men",
-  "event": "M25 Solapur",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Digvijaypratap Singh",
-  "result": "5-7 6-3 6-4",
   "date": "2026-10-16"
  },
  {
@@ -795,19 +847,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Theo Papamalamis",
   "result": "6-2 6-3",
-  "date": "2026-10-15"
- },
- {
-  "playerId": "tamu-p3",
-  "name": "Ilinca Amariei",
-  "teamId": "tamu-w",
-  "teamName": "Texas A&M",
-  "gender": "women",
-  "event": "W50 Stara Zagora",
-  "round": "First",
-  "won": true,
-  "opponent": "Maia Ilinca Burcescu",
-  "result": "6-3 6-2",
   "date": "2026-10-15"
  },
  {
@@ -1708,19 +1747,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-14"
  },
  {
-  "playerId": "tenn-m-h15",
-  "name": "Adam Walton",
-  "teamId": "tenn-m",
-  "teamName": "Tennessee",
-  "gender": "men",
-  "event": "Jinan Challenger",
-  "round": "First",
-  "won": false,
-  "opponent": "Marin Cilic",
-  "result": "6-3 3-6 6-1",
-  "date": "2026-10-13"
- },
- {
   "playerId": "tenn-m-p8",
   "name": "Alejandro Moreno",
   "teamId": "tenn-m",
@@ -2342,19 +2368,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Lorenzo Carboni",
   "result": "6-7(5) 6-4 1-0 ret.",
-  "date": "2026-10-12"
- },
- {
-  "playerId": "okst-w-h10",
-  "name": "Mananchaya Sawangkaew",
-  "teamId": "okst-w",
-  "teamName": "Oklahoma State",
-  "gender": "women",
-  "event": "Wuhan Open - Wuhan",
-  "round": "First",
-  "won": false,
-  "opponent": "Magdalena Frech",
-  "result": "6-3 7-6(5)",
   "date": "2026-10-12"
  },
  {
@@ -10278,11 +10291,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "NC State",
   "gender": "men",
   "event": "M25 Qian Daohu",
-  "round": "1/4",
+  "round": "1/2",
   "won": true,
-  "opponent": "Kristjan Tamm",
-  "result": "3-6 6-4 6-3",
-  "date": "2026-10-16"
+  "opponent": "Sergey Fomin",
+  "result": "6-2 6-3",
+  "date": "2026-10-17"
  },
  "ncst-m-h1": {
   "playerId": "ncst-m-h1",
@@ -11135,12 +11148,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "okst-w",
   "teamName": "Oklahoma State",
   "gender": "women",
-  "event": "Wuhan Open - Wuhan",
-  "round": "First",
+  "event": "Ningbo Open - Ningbo",
+  "round": "Q1",
   "won": false,
-  "opponent": "Magdalena Frech",
-  "result": "6-3 7-6(5)",
-  "date": "2026-10-12"
+  "opponent": "Polina Kudermetova",
+  "result": "6-3 6-4",
+  "date": "2026-10-17"
  },
  "okst-w-h2": {
   "playerId": "okst-w-h2",
@@ -13684,11 +13697,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Stanford",
   "gender": "men",
   "event": "M25 Solapur",
-  "round": "1/4",
+  "round": "1/2",
   "won": true,
-  "opponent": "Digvijaypratap Singh",
-  "result": "5-7 6-3 6-4",
-  "date": "2026-10-16"
+  "opponent": "William Rejchtman Vinciguerra",
+  "result": "3-6 6-3 6-1",
+  "date": "2026-10-17"
  },
  "stan-m-fp423": {
   "playerId": "stan-m-fp423",
@@ -14152,11 +14165,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Texas A&M",
   "gender": "women",
   "event": "W50 Stara Zagora",
-  "round": "First",
-  "won": true,
-  "opponent": "Maia Ilinca Burcescu",
-  "result": "6-3 6-2",
-  "date": "2026-10-15"
+  "round": "Second",
+  "won": false,
+  "opponent": "Angela Fita Boluda",
+  "result": "7-6(6) ret.",
+  "date": "2026-10-16"
  },
  "tamu-p5": {
   "playerId": "tamu-p5",
@@ -14749,12 +14762,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "tenn-m",
   "teamName": "Tennessee",
   "gender": "men",
-  "event": "Jinan Challenger",
-  "round": "First",
-  "won": false,
-  "opponent": "Marin Cilic",
-  "result": "6-3 3-6 6-1",
-  "date": "2026-10-13"
+  "event": "Almaty Open - Almaty",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Beibit Zhukayev",
+  "result": "6-1 7-5",
+  "date": "2026-10-17"
  },
  "tenn-m-h2": {
   "playerId": "tenn-m-h2",
@@ -17245,12 +17258,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "uk-m",
   "teamName": "Kentucky",
   "gender": "men",
-  "event": "National Bank Open - Montreal",
-  "round": "Second",
-  "won": false,
-  "opponent": "Luciano Darderi",
-  "result": "6-4 2-3 ret.",
-  "date": "2026-08-04"
+  "event": "Almaty Open - Almaty",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Harold Mayot",
+  "result": "7-6(5) 6-2",
+  "date": "2026-10-17"
  },
  "uk-m-h14": {
   "playerId": "uk-m-h14",

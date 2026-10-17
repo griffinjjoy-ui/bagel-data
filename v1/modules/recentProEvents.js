@@ -1602,10 +1602,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Kristjan Tamm",
      "score": "3-6 6-4 6-3"
+    },
+    {
+     "id": "43440857",
+     "date": "2026-10-17",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Sergey Fomin",
+     "score": "6-2 6-3"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "22097",
@@ -2913,10 +2922,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Digvijaypratap Singh",
      "score": "5-7 6-3 6-4"
+    },
+    {
+     "id": "43440744",
+     "date": "2026-10-17",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "William Rejchtman Vinciguerra",
+     "score": "3-6 6-3 6-1"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "tamu-m-p4": [
