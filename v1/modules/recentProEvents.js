@@ -815,19 +815,10 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Yuki Naito",
      "score": "6-4 7-5"
-    },
-    {
-     "id": "51415922",
-     "date": "2026-10-17",
-     "roundId": 10,
-     "round": "SF",
-     "won": true,
-     "opponent": "Ariana Arseneault",
-     "score": "7-5 6-2"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "QF",
+   "reachedTone": "neutral"
   },
   {
    "key": "17316",
@@ -2980,19 +2971,10 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Johan Oscar Lien",
      "score": "6-2 7-6(6)"
-    },
-    {
-     "id": "58894008",
-     "date": "2026-10-17",
-     "roundId": 10,
-     "round": "SF",
-     "won": true,
-     "opponent": "Nikola Slavic",
-     "score": "6-1 7-6(4)"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "QF",
+   "reachedTone": "neutral"
   },
   {
    "key": "22090",
@@ -4647,19 +4629,10 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Noah Zamora",
      "score": "6-3 6-3"
-    },
-    {
-     "id": "58894037",
-     "date": "2026-10-17",
-     "roundId": 10,
-     "round": "SF",
-     "won": false,
-     "opponent": "Jack Anthrop",
-     "score": "6-1 3-6 6-4"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "QF",
+   "reachedTone": "neutral"
   }
  ],
  "umd-w-p5": [
