@@ -9,7 +9,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Mountain Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:31:44.749Z",
+  "fetchedAt": "2026-10-17T03:01:41.729Z",
   "events": [
    {
     "eventId": "A15E8A0A-367B-4494-B252-10CA2EFC0807",
@@ -22537,7 +22537,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:31:47.878Z",
+  "fetchedAt": "2026-10-17T03:01:44.553Z",
   "events": [
    {
     "eventId": "C3F42B32-D079-4552-98D2-9E89D5B68F7F",
@@ -33723,7 +33723,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Central Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:31:50.862Z",
+  "fetchedAt": "2026-10-17T03:01:48.155Z",
   "events": [
    {
     "eventId": "54AF7B73-1CBD-44D4-A57A-FA562D029737",
@@ -47965,7 +47965,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Carolina Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:31:53.835Z",
+  "fetchedAt": "2026-10-17T03:01:51.124Z",
   "events": [
    {
     "eventId": "4EA0C308-65DD-4DD9-A68E-4DAA07B16460",
@@ -57558,7 +57558,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Texas Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:31:56.892Z",
+  "fetchedAt": "2026-10-17T03:01:54.090Z",
   "events": [
    {
     "eventId": "D774E574-66C0-4881-9702-A47350E90C7B",
@@ -70376,7 +70376,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Ohio Valley Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:31:59.866Z",
+  "fetchedAt": "2026-10-17T03:01:56.992Z",
   "events": [
    {
     "eventId": "27A207E4-0923-42D1-8BFC-F83A17BBCA97",
@@ -82445,7 +82445,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's New England Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:02.900Z",
+  "fetchedAt": "2026-10-17T03:02:00.084Z",
   "events": [
    {
     "eventId": "E8F75619-116F-4CFD-8745-238D006BAD4C",
@@ -92259,7 +92259,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Midwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:05.837Z",
+  "fetchedAt": "2026-10-17T03:02:03.029Z",
   "events": [
    {
     "eventId": "882B1A07-E30B-4FA8-8EA7-A455D7DBE9F5",
@@ -102148,7 +102148,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:08.799Z",
+  "fetchedAt": "2026-10-17T03:02:06.074Z",
   "events": [
    {
     "eventId": "E21C1832-08CA-499C-9DFD-3A0F4F16C283",
@@ -120050,7 +120050,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Atlantic Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:11.824Z",
+  "fetchedAt": "2026-10-17T03:02:09.092Z",
   "events": [
    {
     "eventId": "A7DFD49A-9C2C-4A52-90D2-B643AC6DB270",
@@ -130858,7 +130858,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Ohio Valley Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:14.915Z",
+  "fetchedAt": "2026-10-17T03:02:11.806Z",
   "events": [
    {
     "eventId": "32F41C2E-E703-4CB4-AB6B-51D63252CFE4",
@@ -140374,7 +140374,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southern Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:18.063Z",
+  "fetchedAt": "2026-10-17T03:02:14.763Z",
   "events": [
    {
     "eventId": "E1B6EB4F-5C48-4A97-8503-3E0305186CFF",
@@ -149860,7 +149860,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Texas Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:21.102Z",
+  "fetchedAt": "2026-10-17T03:02:17.660Z",
   "events": [
    {
     "eventId": "ACF820D8-2E63-4784-A364-D1F7B6F91B30",
@@ -160634,7 +160634,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's New England Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:24.309Z",
+  "fetchedAt": "2026-10-17T03:02:20.622Z",
   "events": [
    {
     "eventId": "1104BC4B-FA60-4A4F-9D2D-6A2EE73CFC35",
@@ -167537,7 +167537,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southern Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:27.300Z",
+  "fetchedAt": "2026-10-17T03:02:23.434Z",
   "events": [
    {
     "eventId": "A65C14BF-7C23-40AC-9F86-FE15BBB6786D",
@@ -196752,7 +196752,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Mountain Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:30.691Z",
+  "fetchedAt": "2026-10-17T03:02:26.581Z",
   "events": [
    {
     "eventId": "84A544CC-41AD-4D20-BC59-EE2F6853841B",
@@ -216092,7 +216092,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Central Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:33.902Z",
+  "fetchedAt": "2026-10-17T03:02:29.329Z",
   "events": [
    {
     "eventId": "DBE8AFBA-7DC2-4CC5-9800-13D2B27E27B1",
@@ -230385,7 +230385,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southeast Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:36.774Z",
+  "fetchedAt": "2026-10-17T03:02:32.296Z",
   "events": [
    {
     "eventId": "106447D8-7605-4244-B0F4-D6720DAC32CF",
@@ -240852,7 +240852,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Midwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:39.555Z",
+  "fetchedAt": "2026-10-17T03:02:35.212Z",
   "events": [
    {
     "eventId": "0AEBEE55-A378-4A39-9E3D-6D9C66744574",
@@ -248803,7 +248803,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-17T08:00",
+            "when": "2026-10-17T09:00",
             "venue": "Ohio State University",
             "sides": [
              {
@@ -248829,7 +248829,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-17T08:00",
+            "when": "2026-10-17T09:00",
             "venue": "Ohio State University",
             "sides": [
              {
@@ -248855,7 +248855,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-17T08:00",
+            "when": "2026-10-17T09:00",
             "venue": "Ohio State University",
             "sides": [
              {
@@ -248881,7 +248881,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-17T08:00",
+            "when": "2026-10-17T09:00",
             "venue": "Ohio State University",
             "sides": [
              {
@@ -248907,7 +248907,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-17T08:00",
+            "when": "2026-10-17T09:00",
             "venue": "Ohio State University",
             "sides": [
              {
@@ -248933,7 +248933,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": "2026-10-17T08:00",
+            "when": "2026-10-17T09:00",
             "venue": "Ohio State University",
             "sides": [
              {
@@ -248959,8 +248959,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-17T10:00",
+            "venue": "Ohio State University",
             "sides": [
              {
               "name": "Leti Messina/Radu",
@@ -248985,8 +248985,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "status": "TO_BE_PLAYED",
             "score": null,
             "winningSide": null,
-            "when": null,
-            "venue": null,
+            "when": "2026-10-17T10:00",
+            "venue": "Ohio State University",
             "sides": [
              {
               "name": "Albieri/Cairo",
@@ -249121,7 +249121,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Atlantic Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:42.405Z",
+  "fetchedAt": "2026-10-17T03:02:37.922Z",
   "events": [
    {
     "eventId": "EFF122C5-8F87-49F5-B9D6-4442692D0669",
@@ -258164,7 +258164,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Northeast Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:45.390Z",
+  "fetchedAt": "2026-10-17T03:02:40.689Z",
   "events": [
    {
     "eventId": "DF37662B-A6F2-4791-881B-37BF9E953B34",
@@ -266072,7 +266072,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Carolina Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:48.343Z",
+  "fetchedAt": "2026-10-17T03:02:43.641Z",
   "events": [
    {
     "eventId": "BBD8E08C-0836-4D64-9BF6-D97620A3333F",
@@ -275208,7 +275208,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Southwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:52.011Z",
+  "fetchedAt": "2026-10-17T03:02:46.909Z",
   "events": [
    {
     "eventId": "DED64A6D-F501-4CAE-9864-B5471E31510E",
@@ -280587,9 +280587,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-5 7-6(4)",
+            "winningSide": 1,
             "when": "2026-10-16T17:00",
             "venue": "Pepperdine University",
             "sides": [
@@ -280613,9 +280613,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R32",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "2-6 2-6",
+            "winningSide": 2,
             "when": "2026-10-16T17:00",
             "venue": "Pepperdine University",
             "sides": [
@@ -280832,8 +280832,22 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-17T13:00",
             "venue": "Pepperdine University",
             "sides": [
-             null,
-             null
+             {
+              "name": "Jelani Sarr",
+              "abbr": null,
+              "school": "Arizona State University",
+              "pid": "asu-m-p4",
+              "wtn": 6.31,
+              "seed": null
+             },
+             {
+              "name": "Sasha Rozin",
+              "abbr": null,
+              "school": "University of Arizona",
+              "pid": "ariz-m-fp225",
+              "wtn": 5.8,
+              "seed": 17
+             }
             ]
            }
           ]
@@ -281213,23 +281227,15 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 35,
-          "bye": false,
-          "seed": null,
-          "name": "Cayden Wang",
-          "school": "University Of California, San Diego",
-          "abbr": null,
-          "pid": "ucsd-m-n8",
-          "wtn": 9.1
+          "bye": true,
+          "seed": 1,
+          "name": null
          },
          {
           "pos": 36,
-          "bye": false,
-          "seed": null,
-          "name": "Dev Mangat",
-          "school": "Univ. Of California, Irvine",
-          "abbr": null,
-          "pid": "uci-m-n1",
-          "wtn": 9.52
+          "bye": true,
+          "seed": 1,
+          "name": null
          },
          {
           "pos": 37,
@@ -281253,23 +281259,15 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 39,
-          "bye": false,
-          "seed": null,
-          "name": "Kent Mueller",
-          "school": "University Of Hawaii",
-          "abbr": null,
-          "pid": "haw-m-p6",
-          "wtn": 8.66
+          "bye": true,
+          "seed": 1,
+          "name": null
          },
          {
           "pos": 40,
-          "bye": false,
-          "seed": null,
-          "name": "Leo von Bismarck",
-          "school": "UCLA",
-          "abbr": null,
-          "pid": "ucla-m-p5",
-          "wtn": 8.3
+          "bye": true,
+          "seed": 1,
+          "name": null
          },
          {
           "pos": 41,
@@ -281519,7 +281517,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            {
             "roundName": "C-R32-Q",
             "status": "COMPLETED",
-            "score": "3-6 4-6",
+            "score": "1-6 4-6",
             "winningSide": 2,
             "when": "2026-10-16T15:30",
             "venue": "Pepperdine University",
@@ -281576,29 +281574,15 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-16T16:00",
             "venue": "Pepperdine University",
             "sides": [
-             {
-              "name": "Cayden Wang",
-              "abbr": null,
-              "school": "University Of California, San Diego",
-              "pid": "ucsd-m-n8",
-              "wtn": 9.1,
-              "seed": null
-             },
-             {
-              "name": "Dev Mangat",
-              "abbr": null,
-              "school": "Univ. Of California, Irvine",
-              "pid": "uci-m-n1",
-              "wtn": 9.52,
-              "seed": null
-             }
+             null,
+             null
             ]
            },
            {
             "roundName": "C-R32-Q",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "5-7 7-6(5) [11-9]",
+            "winningSide": 1,
             "when": "2026-10-16T16:00",
             "venue": "Pepperdine University",
             "sides": [
@@ -281628,22 +281612,8 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": "2026-10-16T16:30",
             "venue": "Pepperdine University",
             "sides": [
-             {
-              "name": "Kent Mueller",
-              "abbr": null,
-              "school": "University Of Hawaii",
-              "pid": "haw-m-p6",
-              "wtn": 8.66,
-              "seed": null
-             },
-             {
-              "name": "Leo von Bismarck",
-              "abbr": null,
-              "school": "UCLA",
-              "pid": "ucla-m-p5",
-              "wtn": 8.3,
-              "seed": null
-             }
+             null,
+             null
             ]
            },
            {
@@ -281926,7 +281896,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Blake Anderson",
+              "abbr": null,
+              "school": "San Diego State University",
+              "pid": "bay-m-fp66",
+              "wtn": 9.68,
+              "seed": null
+             }
             ]
            },
            {
@@ -282125,7 +282102,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Blake Anderson",
+              "abbr": null,
+              "school": "San Diego State University",
+              "pid": "bay-m-fp66",
+              "wtn": 9.68,
+              "seed": null
+             },
              null
             ]
            },
@@ -282514,13 +282498,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 27,
-          "bye": false,
+          "bye": true,
           "seed": null,
-          "name": "Day/Lee",
-          "school": null,
-          "abbr": null,
-          "pid": null,
-          "wtn": null
+          "name": null
          },
          {
           "pos": 28,
@@ -283149,20 +283129,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": "2026-10-17T09:00",
             "venue": "Pepperdine University",
             "sides": [
-             {
-              "name": "Day/Lee",
-              "abbr": null,
-              "school": null,
-              "pid": null,
-              "wtn": null,
-              "seed": null
-             },
+             null,
              {
               "name": "Gouws/Seetso",
               "abbr": null,
@@ -283727,7 +283700,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": null,
               "seed": 7
              },
-             null
+             {
+              "name": "Gouws/Seetso",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -284666,7 +284646,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "C-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "BYE",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -285000,7 +284980,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Northeast Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:54.962Z",
+  "fetchedAt": "2026-10-17T03:02:50.027Z",
   "events": [
    {
     "eventId": "5258E9B1-DFD6-48E8-8883-268B437D1360",
@@ -296618,7 +296598,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Men's Northwest Regional Championship",
   "gender": "men",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:32:57.998Z",
+  "fetchedAt": "2026-10-17T03:02:52.937Z",
   "events": [
    {
     "eventId": "146A7A03-568C-46C5-BD37-575D89BDD005",
@@ -304130,9 +304110,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "7-8(4)",
+            "winningSide": 2,
             "when": null,
             "venue": null,
             "sides": [
@@ -304412,9 +304392,9 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "R64",
-            "status": "TO_BE_PLAYED",
-            "score": null,
-            "winningSide": null,
+            "status": "COMPLETED",
+            "score": "5-8",
+            "winningSide": 2,
             "when": null,
             "venue": null,
             "sides": [
@@ -304760,7 +304740,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
               "wtn": null,
               "seed": 11
              },
-             null
+             {
+              "name": "Hagglund/Prino",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -304899,7 +304886,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Maskow/Bergomi",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
              {
               "name": "Delloye/Meduri",
               "abbr": null,
@@ -305362,9 +305356,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 26,
-          "bye": true,
-          "seed": 6,
-          "name": null
+          "bye": false,
+          "seed": null,
+          "name": "Mefta/Manhas",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
          },
          {
           "pos": 27,
@@ -305440,9 +305438,13 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "pos": 39,
-          "bye": true,
-          "seed": 6,
-          "name": null
+          "bye": false,
+          "seed": null,
+          "name": "Noel/Garcia",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
          },
          {
           "pos": 40,
@@ -305588,7 +305590,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Mefta/Manhas",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -305671,7 +305680,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "when": null,
             "venue": null,
             "sides": [
-             null,
+             {
+              "name": "Noel/Garcia",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
              null
             ]
            },
@@ -305813,7 +305829,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Mefta/Manhas",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -305897,7 +305920,14 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
             "venue": null,
             "sides": [
              null,
-             null
+             {
+              "name": "Noel/Garcia",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
             ]
            },
            {
@@ -306164,7 +306194,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
   "name": "2026 ITA DI Women's Southwest Regional Championship",
   "gender": "women",
   "tz": null,
-  "fetchedAt": "2026-10-17T02:33:01.169Z",
+  "fetchedAt": "2026-10-17T03:02:56.525Z",
   "events": [
    {
     "eventId": "9D536E84-BA27-4116-A442-716034BB99D1",
@@ -310638,6 +310668,3322 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
         ]
        }
       ]
+     },
+     {
+      "drawName": "Extra Saturday",
+      "stage": "MAIN",
+      "kind": "EXTRA",
+      "generated": true,
+      "completed": false,
+      "structures": [
+       {
+        "name": "East",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": false,
+          "seed": null,
+          "name": "Chen/Huynh",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 2,
+          "bye": false,
+          "seed": null,
+          "name": "Youri/Beard",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 3,
+          "bye": false,
+          "seed": null,
+          "name": "Brady/Gee",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 4,
+          "bye": false,
+          "seed": null,
+          "name": "De Simone/Jantacova",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 5,
+          "bye": false,
+          "seed": null,
+          "name": "Puvill/Ramos Garcia",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 6,
+          "bye": false,
+          "seed": null,
+          "name": "Leather/Jakupovic-Kljako",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 7,
+          "bye": false,
+          "seed": null,
+          "name": "Kunza/Larsson",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 8,
+          "bye": false,
+          "seed": null,
+          "name": "Ichioka/Fernandez Rincon",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 9,
+          "bye": false,
+          "seed": null,
+          "name": "Shepperson/Arguelles",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 10,
+          "bye": false,
+          "seed": null,
+          "name": "Jagare/Badillo Hernandez",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 11,
+          "bye": false,
+          "seed": null,
+          "name": "Harper/Todo",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 12,
+          "bye": false,
+          "seed": null,
+          "name": "Tutoveanu/Holmes",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 13,
+          "bye": false,
+          "seed": null,
+          "name": "Chung/Aparisi",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 14,
+          "bye": false,
+          "seed": null,
+          "name": "Malaescu/Van San",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 15,
+          "bye": false,
+          "seed": null,
+          "name": "Vayser/Lieberman",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 16,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 17,
+          "bye": false,
+          "seed": null,
+          "name": "Deming/Read",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 18,
+          "bye": false,
+          "seed": null,
+          "name": "Shogreen/Mlenska",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 19,
+          "bye": false,
+          "seed": null,
+          "name": "Madis/Aludo",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 20,
+          "bye": false,
+          "seed": null,
+          "name": "Arangio/Crossman",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 21,
+          "bye": false,
+          "seed": null,
+          "name": "Nepomuceno/Galindo",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 22,
+          "bye": false,
+          "seed": null,
+          "name": "Toro/Mert",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 23,
+          "bye": false,
+          "seed": null,
+          "name": "Kay/Wolf",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 24,
+          "bye": false,
+          "seed": null,
+          "name": "Gull/Bajorek",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 25,
+          "bye": false,
+          "seed": null,
+          "name": "Guru/Goldberg",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 26,
+          "bye": false,
+          "seed": null,
+          "name": "Lukin/Parandian",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 27,
+          "bye": false,
+          "seed": null,
+          "name": "Parkinson-Lubold/Pitchford",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 28,
+          "bye": false,
+          "seed": null,
+          "name": "Veltri/Odrobina",
+          "school": null,
+          "abbr": null,
+          "pid": null,
+          "wtn": null
+         },
+         {
+          "pos": 29,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 30,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 31,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 32,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 33,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 34,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 35,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 36,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 37,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 38,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 39,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 40,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 41,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 42,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 43,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 44,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 45,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 46,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 47,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 48,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 49,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 50,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 51,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 52,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 53,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 54,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 55,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 56,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 57,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 58,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 59,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 60,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 61,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 62,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 63,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 64,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T09:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Chen/Huynh",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Youri/Beard",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T09:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Brady/Gee",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "De Simone/Jantacova",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T09:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Puvill/Ramos Garcia",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Leather/Jakupovic-Kljako",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T09:00",
+            "venue": "SDSU",
+            "sides": [
+             {
+              "name": "Kunza/Larsson",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Ichioka/Fernandez Rincon",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T09:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Shepperson/Arguelles",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Jagare/Badillo Hernandez",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T09:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Harper/Todo",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Tutoveanu/Holmes",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T09:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Chung/Aparisi",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Malaescu/Van San",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T09:30",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Vayser/Lieberman",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T09:00",
+            "venue": "SDSU",
+            "sides": [
+             {
+              "name": "Deming/Read",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Shogreen/Mlenska",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T09:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Madis/Aludo",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Arangio/Crossman",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T09:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Nepomuceno/Galindo",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Toro/Mert",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T09:00",
+            "venue": "SDSU",
+            "sides": [
+             {
+              "name": "Kay/Wolf",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Gull/Bajorek",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T09:00",
+            "venue": "SDSU",
+            "sides": [
+             {
+              "name": "Guru/Goldberg",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Lukin/Parandian",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T09:30",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Parkinson-Lubold/Pitchford",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Veltri/Odrobina",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             {
+              "name": "Vayser/Lieberman",
+              "abbr": null,
+              "school": null,
+              "pid": null,
+              "wtn": null,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "E-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 5,
+          "matchUps": [
+           {
+            "roundName": "E-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 6,
+          "matchUps": [
+           {
+            "roundName": "E-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "West",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 9,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 12,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 13,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 14,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 15,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 16,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 17,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 18,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 19,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 20,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 21,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 22,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 23,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 24,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 25,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 26,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 27,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 28,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 29,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 30,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 31,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 32,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "W-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "W-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 5,
+          "matchUps": [
+           {
+            "roundName": "W-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "North",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 9,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 12,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 13,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 14,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 15,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 16,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "N-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "N-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "N-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "South",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 9,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 12,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 13,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 14,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 15,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 16,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "S-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "S-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "S-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Northeast",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "NE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "NE-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "NE-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Northwest",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "NW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "NW-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "NW-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Southwest",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "SW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "SW-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "SW-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Southeast",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "SE-Quarterfinals",
+            "status": "BYE",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "SE-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "SE-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
      }
     ]
    },
@@ -313203,7 +316549,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -313229,7 +316575,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -313255,7 +316601,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -313281,7 +316627,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -313307,7 +316653,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -313333,7 +316679,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -313385,7 +316731,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -313411,7 +316757,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -313437,7 +316783,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -313463,7 +316809,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -313489,7 +316835,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -313515,7 +316861,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -313541,7 +316887,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -313567,7 +316913,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -313593,7 +316939,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "W-R32",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -313992,7 +317338,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
           "matchUps": [
            {
             "roundName": "N-R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -314018,7 +317364,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "N-R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -314070,7 +317416,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "N-R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -314122,7 +317468,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "N-R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -314148,7 +317494,7 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
            },
            {
             "roundName": "N-R16",
-            "status": "TO_BE_PLAYED",
+            "status": "SUPERSEDED",
             "score": null,
             "winningSide": null,
             "when": null,
@@ -319788,6 +323134,6730 @@ export const itaDraws = globalThis.__BAGEL_REMOTE__?.["itaDraws"]?.itaDraws ?? {
          },
          {
           "round": 3,
+          "matchUps": [
+           {
+            "roundName": "SE-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "drawName": "saturday singles",
+      "stage": "MAIN",
+      "kind": "MAIN",
+      "generated": true,
+      "completed": false,
+      "structures": [
+       {
+        "name": "East",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": false,
+          "seed": null,
+          "name": "Vesa Gjinaj",
+          "school": "San Diego State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.38
+         },
+         {
+          "pos": 2,
+          "bye": false,
+          "seed": null,
+          "name": "Alexandra Wolf",
+          "school": "University Of Southern California",
+          "abbr": null,
+          "pid": "usc-w-n4",
+          "wtn": 15.77
+         },
+         {
+          "pos": 3,
+          "bye": false,
+          "seed": null,
+          "name": "Simone Kay",
+          "school": "University Of Southern California",
+          "abbr": null,
+          "pid": "usc-w-p6",
+          "wtn": 16.07
+         },
+         {
+          "pos": 4,
+          "bye": false,
+          "seed": null,
+          "name": "Pamela Badillo Hernandez",
+          "school": "Long Beach State Univ.",
+          "abbr": null,
+          "pid": "lbsu-w-fp345",
+          "wtn": 16.26
+         },
+         {
+          "pos": 5,
+          "bye": false,
+          "seed": null,
+          "name": "Hannah Read",
+          "school": "University Of San Diego",
+          "abbr": null,
+          "pid": "usd-w-p7",
+          "wtn": 14.16
+         },
+         {
+          "pos": 6,
+          "bye": false,
+          "seed": null,
+          "name": "Shachf Lieberman",
+          "school": "University Of California, Santa Barbara",
+          "abbr": null,
+          "pid": "ucsb-w-fp301",
+          "wtn": 15.35
+         },
+         {
+          "pos": 7,
+          "bye": false,
+          "seed": null,
+          "name": "Diana De Simone",
+          "school": "Long Beach State Univ.",
+          "abbr": null,
+          "pid": "lbsu-w-p4",
+          "wtn": 16.69
+         },
+         {
+          "pos": 8,
+          "bye": false,
+          "seed": null,
+          "name": "Raphaelle Leroux",
+          "school": "University Of California, Santa Barbara",
+          "abbr": null,
+          "pid": "ucsb-w-p4",
+          "wtn": 16.01
+         },
+         {
+          "pos": 9,
+          "bye": false,
+          "seed": null,
+          "name": "Yelyzaveta Chainykova",
+          "school": "Loyola Marymount University",
+          "abbr": null,
+          "pid": "lmu-w-p2",
+          "wtn": 14.65
+         },
+         {
+          "pos": 10,
+          "bye": false,
+          "seed": null,
+          "name": "Emilija Tverijonaite",
+          "school": "Arizona State University",
+          "abbr": null,
+          "pid": "asu-w-p4",
+          "wtn": 14.57
+         },
+         {
+          "pos": 11,
+          "bye": false,
+          "seed": null,
+          "name": "Elen Jantacova",
+          "school": "Long Beach State Univ.",
+          "abbr": null,
+          "pid": "lbsu-w-p6",
+          "wtn": 16.89
+         },
+         {
+          "pos": 12,
+          "bye": false,
+          "seed": null,
+          "name": "Sofia Cohen Perovani",
+          "school": "Loyola Marymount University",
+          "abbr": null,
+          "pid": "lmu-w-fp73",
+          "wtn": 17.23
+         },
+         {
+          "pos": 13,
+          "bye": false,
+          "seed": null,
+          "name": "Montana Parkinson-Lubold",
+          "school": "Univ. Of California, Irvine",
+          "abbr": null,
+          "pid": "uci-w-n1",
+          "wtn": 16.12
+         },
+         {
+          "pos": 14,
+          "bye": false,
+          "seed": null,
+          "name": "Thea Jagare",
+          "school": "Long Beach State Univ.",
+          "abbr": null,
+          "pid": "lbsu-w-p5",
+          "wtn": 16.61
+         },
+         {
+          "pos": 15,
+          "bye": false,
+          "seed": null,
+          "name": "Emma Tutoveanu",
+          "school": "University Of California, Santa Barbara",
+          "abbr": null,
+          "pid": "ucsb-w-p7",
+          "wtn": 15.33
+         },
+         {
+          "pos": 16,
+          "bye": false,
+          "seed": null,
+          "name": "Helene Schnack",
+          "school": "Loyola Marymount University",
+          "abbr": null,
+          "pid": "lmu-w-p7",
+          "wtn": 14.1
+         },
+         {
+          "pos": 17,
+          "bye": false,
+          "seed": null,
+          "name": "Ciara Moore",
+          "school": "University Of Arizona",
+          "abbr": null,
+          "pid": "ariz-w-p4",
+          "wtn": 15.17
+         },
+         {
+          "pos": 18,
+          "bye": false,
+          "seed": null,
+          "name": "Camilia Samel Druz",
+          "school": "Loyola Marymount University",
+          "abbr": null,
+          "pid": "lmu-w-fp76",
+          "wtn": 15.94
+         },
+         {
+          "pos": 19,
+          "bye": false,
+          "seed": null,
+          "name": "Zoya Chulak",
+          "school": "University Of Arizona",
+          "abbr": null,
+          "pid": "ariz-w-p1",
+          "wtn": 16.34
+         },
+         {
+          "pos": 20,
+          "bye": false,
+          "seed": null,
+          "name": "Makeilah Nepomuceno",
+          "school": "University Of Hawaii",
+          "abbr": null,
+          "pid": "haw-w-p5",
+          "wtn": 16.26
+         },
+         {
+          "pos": 21,
+          "bye": false,
+          "seed": null,
+          "name": "Stephanie Shogreen",
+          "school": "University Of Arizona",
+          "abbr": null,
+          "pid": "ariz-w-p7",
+          "wtn": 16.05
+         },
+         {
+          "pos": 22,
+          "bye": false,
+          "seed": null,
+          "name": "Caroline Beard",
+          "school": "University Of California, Santa Barbara",
+          "abbr": null,
+          "pid": "ucsb-w-p2",
+          "wtn": 15.59
+         },
+         {
+          "pos": 23,
+          "bye": false,
+          "seed": null,
+          "name": "Maily Huynh",
+          "school": "Univ. Of California, Irvine",
+          "abbr": null,
+          "pid": "uci-w-p4",
+          "wtn": 18.43
+         },
+         {
+          "pos": 24,
+          "bye": false,
+          "seed": null,
+          "name": "Marianne Angel",
+          "school": "University Of California, Santa Barbara",
+          "abbr": null,
+          "pid": "ucsb-w-n1",
+          "wtn": 15
+         },
+         {
+          "pos": 25,
+          "bye": false,
+          "seed": null,
+          "name": "Constanza Fernandez Rincon",
+          "school": "San Diego State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.23
+         },
+         {
+          "pos": 26,
+          "bye": false,
+          "seed": null,
+          "name": "Tennielle Madis",
+          "school": "University Of Hawaii",
+          "abbr": null,
+          "pid": "haw-w-n2",
+          "wtn": 15.57
+         },
+         {
+          "pos": 27,
+          "bye": false,
+          "seed": null,
+          "name": "Kiara Zabkova",
+          "school": "University Of Southern California",
+          "abbr": null,
+          "pid": "usc-w-n3",
+          "wtn": 15.5
+         },
+         {
+          "pos": 28,
+          "bye": false,
+          "seed": null,
+          "name": "Grete Gull",
+          "school": "University Of Hawaii",
+          "abbr": null,
+          "pid": "haw-w-p4",
+          "wtn": 16.35
+         },
+         {
+          "pos": 29,
+          "bye": false,
+          "seed": null,
+          "name": "Olivia Allegre",
+          "school": "University Of California, San Diego",
+          "abbr": null,
+          "pid": "ucsd-w-p2",
+          "wtn": 16.72
+         },
+         {
+          "pos": 30,
+          "bye": false,
+          "seed": null,
+          "name": "Beatrice Veltri",
+          "school": "Grand Canyon University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.68
+         },
+         {
+          "pos": 31,
+          "bye": false,
+          "seed": null,
+          "name": "Olivia Center",
+          "school": "UCLA",
+          "abbr": null,
+          "pid": "ucla-w-p8",
+          "wtn": 15.13
+         },
+         {
+          "pos": 32,
+          "bye": false,
+          "seed": null,
+          "name": "Isabella Crossman",
+          "school": "Grand Canyon University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 16.05
+         },
+         {
+          "pos": 33,
+          "bye": false,
+          "seed": null,
+          "name": "Vessa Turley",
+          "school": "San Diego State University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 15.99
+         },
+         {
+          "pos": 34,
+          "bye": false,
+          "seed": null,
+          "name": "Stina Larsson",
+          "school": "California State University, Fullerton",
+          "abbr": null,
+          "pid": "csuf-w-n2",
+          "wtn": 15.96
+         },
+         {
+          "pos": 35,
+          "bye": false,
+          "seed": null,
+          "name": "Koronayashe Rugara",
+          "school": "UCLA",
+          "abbr": null,
+          "pid": "ucla-w-fp438",
+          "wtn": 17.98
+         },
+         {
+          "pos": 36,
+          "bye": false,
+          "seed": null,
+          "name": "Sandra Isabela Arguelles",
+          "school": "California State University, Northridge",
+          "abbr": null,
+          "pid": "csun-w-p1",
+          "wtn": 17.45
+         },
+         {
+          "pos": 37,
+          "bye": false,
+          "seed": null,
+          "name": "Malgorzata Bajorek",
+          "school": "University Of Hawaii",
+          "abbr": null,
+          "pid": "haw-w-n1",
+          "wtn": 16.44
+         },
+         {
+          "pos": 38,
+          "bye": false,
+          "seed": null,
+          "name": "Natalie Lynch",
+          "school": "Cal Poly",
+          "abbr": null,
+          "pid": "cpoly-w-p6",
+          "wtn": 16.66
+         },
+         {
+          "pos": 39,
+          "bye": false,
+          "seed": null,
+          "name": "Candela Aparisi",
+          "school": "Cal Poly",
+          "abbr": null,
+          "pid": "cpoly-w-p1",
+          "wtn": 16.05
+         },
+         {
+          "pos": 40,
+          "bye": false,
+          "seed": null,
+          "name": "Johannah Magenta Galindo",
+          "school": "University Of Hawaii",
+          "abbr": null,
+          "pid": "haw-w-fp108",
+          "wtn": 16.92
+         },
+         {
+          "pos": 41,
+          "bye": false,
+          "seed": null,
+          "name": "Tia Bonita Jakupovic-Kljako",
+          "school": "Cal Poly",
+          "abbr": null,
+          "pid": "cpoly-w-p2",
+          "wtn": 18.32
+         },
+         {
+          "pos": 42,
+          "bye": false,
+          "seed": null,
+          "name": "Ran Todo",
+          "school": "California State University, Northridge",
+          "abbr": null,
+          "pid": "csun-w-n6",
+          "wtn": 16.96
+         },
+         {
+          "pos": 43,
+          "bye": false,
+          "seed": null,
+          "name": "Mackenzie Lukin",
+          "school": "Univ. Of California, Irvine",
+          "abbr": null,
+          "pid": "uci-w-p7",
+          "wtn": 17.84
+         },
+         {
+          "pos": 44,
+          "bye": false,
+          "seed": null,
+          "name": "Annette Robertson",
+          "school": "California State University, Northridge",
+          "abbr": null,
+          "pid": "csun-w-p8",
+          "wtn": 18.46
+         },
+         {
+          "pos": 45,
+          "bye": false,
+          "seed": null,
+          "name": "Rachel Gee",
+          "school": "Univ. Of California, Irvine",
+          "abbr": null,
+          "pid": "uci-w-p3",
+          "wtn": 18.16
+         },
+         {
+          "pos": 46,
+          "bye": false,
+          "seed": null,
+          "name": "Sophia Christodoulou",
+          "school": "University Of Arizona",
+          "abbr": null,
+          "pid": "ariz-w-n2",
+          "wtn": 17.1
+         },
+         {
+          "pos": 47,
+          "bye": false,
+          "seed": null,
+          "name": "Daria Malaescu",
+          "school": "Long Beach State Univ.",
+          "abbr": null,
+          "pid": "lbsu-w-p7",
+          "wtn": 16.6
+         },
+         {
+          "pos": 48,
+          "bye": false,
+          "seed": null,
+          "name": "My-Anh Holmes",
+          "school": "University Of California, Santa Barbara",
+          "abbr": null,
+          "pid": "ucsb-w-p3",
+          "wtn": 16.55
+         },
+         {
+          "pos": 49,
+          "bye": false,
+          "seed": null,
+          "name": "Anastasia Bozova",
+          "school": "Loyola Marymount University",
+          "abbr": null,
+          "pid": "lmu-w-p1",
+          "wtn": 16.2
+         },
+         {
+          "pos": 50,
+          "bye": false,
+          "seed": null,
+          "name": "Kaia Celin Bostrom Jorgensen",
+          "school": "Cal Poly",
+          "abbr": null,
+          "pid": "cpoly-w-p3",
+          "wtn": 17.38
+         },
+         {
+          "pos": 51,
+          "bye": false,
+          "seed": null,
+          "name": "Isabella Pitchford",
+          "school": "Univ. Of California, Irvine",
+          "abbr": null,
+          "pid": "uci-w-fp137",
+          "wtn": 17.68
+         },
+         {
+          "pos": 52,
+          "bye": false,
+          "seed": null,
+          "name": "Martina Puvill",
+          "school": "California State University, Fullerton",
+          "abbr": null,
+          "pid": "csuf-w-n1",
+          "wtn": 17.82
+         },
+         {
+          "pos": 53,
+          "bye": false,
+          "seed": null,
+          "name": "Leanna Roman",
+          "school": "California State University, Fullerton",
+          "abbr": null,
+          "pid": "csuf-w-n4",
+          "wtn": 18.87
+         },
+         {
+          "pos": 54,
+          "bye": false,
+          "seed": null,
+          "name": "Aniela Odrobina",
+          "school": "Grand Canyon University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.67
+         },
+         {
+          "pos": 55,
+          "bye": false,
+          "seed": null,
+          "name": "Gala Arangio",
+          "school": "Grand Canyon University",
+          "abbr": null,
+          "pid": null,
+          "wtn": 17.18
+         },
+         {
+          "pos": 56,
+          "bye": false,
+          "seed": null,
+          "name": "Kayla Chung",
+          "school": "UCLA",
+          "abbr": null,
+          "pid": "ucla-w-p2",
+          "wtn": 16.13
+         },
+         {
+          "pos": 57,
+          "bye": false,
+          "seed": null,
+          "name": "Maria Paula Ramos Garcia",
+          "school": "California State University, Fullerton",
+          "abbr": null,
+          "pid": "csuf-w-n3",
+          "wtn": 16.44
+         },
+         {
+          "pos": 58,
+          "bye": false,
+          "seed": null,
+          "name": "Sonia Van San",
+          "school": "Long Beach State Univ.",
+          "abbr": null,
+          "pid": "lbsu-w-p8",
+          "wtn": 16.46
+         },
+         {
+          "pos": 59,
+          "bye": false,
+          "seed": null,
+          "name": "Makaila Cheng",
+          "school": "Long Beach State Univ.",
+          "abbr": null,
+          "pid": "lbsu-w-p2",
+          "wtn": 17.64
+         },
+         {
+          "pos": 60,
+          "bye": false,
+          "seed": null,
+          "name": "Ilana Toro",
+          "school": "Loyola Marymount University",
+          "abbr": null,
+          "pid": "lmu-w-p9",
+          "wtn": 18.05
+         },
+         {
+          "pos": 61,
+          "bye": false,
+          "seed": null,
+          "name": "Julia Visaya",
+          "school": "University Of California, San Diego",
+          "abbr": null,
+          "pid": "ucsd-w-p8",
+          "wtn": 17.98
+         },
+         {
+          "pos": 62,
+          "bye": false,
+          "seed": null,
+          "name": "Dana Kunza",
+          "school": "California State University, Fullerton",
+          "abbr": null,
+          "pid": "csuf-w-p2",
+          "wtn": 17.82
+         },
+         {
+          "pos": 63,
+          "bye": false,
+          "seed": null,
+          "name": "Aspen Chung",
+          "school": "Cal Poly",
+          "abbr": null,
+          "pid": "cpoly-w-p4",
+          "wtn": 17.41
+         },
+         {
+          "pos": 64,
+          "bye": false,
+          "seed": null,
+          "name": "Katarina Vayser",
+          "school": "University Of California, Santa Barbara",
+          "abbr": null,
+          "pid": "ucsb-w-p8",
+          "wtn": 17.43
+         },
+         {
+          "pos": 65,
+          "bye": false,
+          "seed": null,
+          "name": "Sara Mlenska",
+          "school": "University Of Arizona",
+          "abbr": null,
+          "pid": "ariz-w-n1",
+          "wtn": null
+         },
+         {
+          "pos": 66,
+          "bye": false,
+          "seed": null,
+          "name": "Melis Mert",
+          "school": "Loyola Marymount University",
+          "abbr": null,
+          "pid": "lmu-w-p3",
+          "wtn": 18.53
+         },
+         {
+          "pos": 67,
+          "bye": false,
+          "seed": null,
+          "name": "Stefi Marithe Aludo",
+          "school": "University Of Hawaii",
+          "abbr": null,
+          "pid": "haw-w-n3",
+          "wtn": 17.12
+         },
+         {
+          "pos": 68,
+          "bye": false,
+          "seed": null,
+          "name": "Madison Shepperson",
+          "school": "California State University, Northridge",
+          "abbr": null,
+          "pid": "csun-w-p9",
+          "wtn": 17.92
+         },
+         {
+          "pos": 69,
+          "bye": false,
+          "seed": null,
+          "name": "Neha Guru",
+          "school": "University Of California, San Diego",
+          "abbr": null,
+          "pid": "ucsd-w-n1",
+          "wtn": 17.73
+         },
+         {
+          "pos": 70,
+          "bye": false,
+          "seed": null,
+          "name": "Amy Leather",
+          "school": "Cal Poly",
+          "abbr": null,
+          "pid": "cpoly-w-p5",
+          "wtn": 18.05
+         },
+         {
+          "pos": 71,
+          "bye": false,
+          "seed": null,
+          "name": "Kara Chen",
+          "school": "Univ. Of California, Irvine",
+          "abbr": null,
+          "pid": "uci-w-p2",
+          "wtn": 17.59
+         },
+         {
+          "pos": 72,
+          "bye": false,
+          "seed": null,
+          "name": "Ada Piestrzynska",
+          "school": "Loyola Marymount University",
+          "abbr": null,
+          "pid": "lmu-w-p5",
+          "wtn": 16.48
+         },
+         {
+          "pos": 73,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 74,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 75,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 76,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 77,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 78,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 79,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 80,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 81,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 82,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 83,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 84,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 85,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 86,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 87,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 88,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 89,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 90,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 91,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 92,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 93,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 94,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 95,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 96,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 97,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 98,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 99,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 100,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 101,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 102,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 103,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 104,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 105,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 106,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 107,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 108,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 109,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 110,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 111,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 112,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 113,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 114,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 115,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 116,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 117,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 118,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 119,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 120,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 121,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 122,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 123,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 124,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 125,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 126,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 127,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 128,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T12:30",
+            "venue": "SDSU",
+            "sides": [
+             {
+              "name": "Vesa Gjinaj",
+              "abbr": null,
+              "school": "San Diego State University",
+              "pid": null,
+              "wtn": 16.38,
+              "seed": null
+             },
+             {
+              "name": "Alexandra Wolf",
+              "abbr": null,
+              "school": "University Of Southern California",
+              "pid": "usc-w-n4",
+              "wtn": 15.77,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T10:30",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Simone Kay",
+              "abbr": null,
+              "school": "University Of Southern California",
+              "pid": "usc-w-p6",
+              "wtn": 16.07,
+              "seed": null
+             },
+             {
+              "name": "Pamela Badillo Hernandez",
+              "abbr": null,
+              "school": "Long Beach State Univ.",
+              "pid": "lbsu-w-fp345",
+              "wtn": 16.26,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T12:30",
+            "venue": "SDSU",
+            "sides": [
+             {
+              "name": "Hannah Read",
+              "abbr": null,
+              "school": "University Of San Diego",
+              "pid": "usd-w-p7",
+              "wtn": 14.16,
+              "seed": null
+             },
+             {
+              "name": "Shachf Lieberman",
+              "abbr": null,
+              "school": "University Of California, Santa Barbara",
+              "pid": "ucsb-w-fp301",
+              "wtn": 15.35,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T10:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Diana De Simone",
+              "abbr": null,
+              "school": "Long Beach State Univ.",
+              "pid": "lbsu-w-p4",
+              "wtn": 16.69,
+              "seed": null
+             },
+             {
+              "name": "Raphaelle Leroux",
+              "abbr": null,
+              "school": "University Of California, Santa Barbara",
+              "pid": "ucsb-w-p4",
+              "wtn": 16.01,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T10:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Yelyzaveta Chainykova",
+              "abbr": null,
+              "school": "Loyola Marymount University",
+              "pid": "lmu-w-p2",
+              "wtn": 14.65,
+              "seed": null
+             },
+             {
+              "name": "Emilija Tverijonaite",
+              "abbr": null,
+              "school": "Arizona State University",
+              "pid": "asu-w-p4",
+              "wtn": 14.57,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T10:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Elen Jantacova",
+              "abbr": null,
+              "school": "Long Beach State Univ.",
+              "pid": "lbsu-w-p6",
+              "wtn": 16.89,
+              "seed": null
+             },
+             {
+              "name": "Sofia Cohen Perovani",
+              "abbr": null,
+              "school": "Loyola Marymount University",
+              "pid": "lmu-w-fp73",
+              "wtn": 17.23,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T10:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Montana Parkinson-Lubold",
+              "abbr": null,
+              "school": "Univ. Of California, Irvine",
+              "pid": "uci-w-n1",
+              "wtn": 16.12,
+              "seed": null
+             },
+             {
+              "name": "Thea Jagare",
+              "abbr": null,
+              "school": "Long Beach State Univ.",
+              "pid": "lbsu-w-p5",
+              "wtn": 16.61,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T10:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Emma Tutoveanu",
+              "abbr": null,
+              "school": "University Of California, Santa Barbara",
+              "pid": "ucsb-w-p7",
+              "wtn": 15.33,
+              "seed": null
+             },
+             {
+              "name": "Helene Schnack",
+              "abbr": null,
+              "school": "Loyola Marymount University",
+              "pid": "lmu-w-p7",
+              "wtn": 14.1,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T10:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Ciara Moore",
+              "abbr": null,
+              "school": "University Of Arizona",
+              "pid": "ariz-w-p4",
+              "wtn": 15.17,
+              "seed": null
+             },
+             {
+              "name": "Camilia Samel Druz",
+              "abbr": null,
+              "school": "Loyola Marymount University",
+              "pid": "lmu-w-fp76",
+              "wtn": 15.94,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T10:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Zoya Chulak",
+              "abbr": null,
+              "school": "University Of Arizona",
+              "pid": "ariz-w-p1",
+              "wtn": 16.34,
+              "seed": null
+             },
+             {
+              "name": "Makeilah Nepomuceno",
+              "abbr": null,
+              "school": "University Of Hawaii",
+              "pid": "haw-w-p5",
+              "wtn": 16.26,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T11:30",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Stephanie Shogreen",
+              "abbr": null,
+              "school": "University Of Arizona",
+              "pid": "ariz-w-p7",
+              "wtn": 16.05,
+              "seed": null
+             },
+             {
+              "name": "Caroline Beard",
+              "abbr": null,
+              "school": "University Of California, Santa Barbara",
+              "pid": "ucsb-w-p2",
+              "wtn": 15.59,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T11:30",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Maily Huynh",
+              "abbr": null,
+              "school": "Univ. Of California, Irvine",
+              "pid": "uci-w-p4",
+              "wtn": 18.43,
+              "seed": null
+             },
+             {
+              "name": "Marianne Angel",
+              "abbr": null,
+              "school": "University Of California, Santa Barbara",
+              "pid": "ucsb-w-n1",
+              "wtn": 15,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T12:30",
+            "venue": "SDSU",
+            "sides": [
+             {
+              "name": "Constanza Fernandez Rincon",
+              "abbr": null,
+              "school": "San Diego State University",
+              "pid": null,
+              "wtn": 16.23,
+              "seed": null
+             },
+             {
+              "name": "Tennielle Madis",
+              "abbr": null,
+              "school": "University Of Hawaii",
+              "pid": "haw-w-n2",
+              "wtn": 15.57,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T11:30",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Kiara Zabkova",
+              "abbr": null,
+              "school": "University Of Southern California",
+              "pid": "usc-w-n3",
+              "wtn": 15.5,
+              "seed": null
+             },
+             {
+              "name": "Grete Gull",
+              "abbr": null,
+              "school": "University Of Hawaii",
+              "pid": "haw-w-p4",
+              "wtn": 16.35,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T11:30",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Olivia Allegre",
+              "abbr": null,
+              "school": "University Of California, San Diego",
+              "pid": "ucsd-w-p2",
+              "wtn": 16.72,
+              "seed": null
+             },
+             {
+              "name": "Beatrice Veltri",
+              "abbr": null,
+              "school": "Grand Canyon University",
+              "pid": null,
+              "wtn": 17.68,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T11:30",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Olivia Center",
+              "abbr": null,
+              "school": "UCLA",
+              "pid": "ucla-w-p8",
+              "wtn": 15.13,
+              "seed": null
+             },
+             {
+              "name": "Isabella Crossman",
+              "abbr": null,
+              "school": "Grand Canyon University",
+              "pid": null,
+              "wtn": 16.05,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T12:30",
+            "venue": "SDSU",
+            "sides": [
+             {
+              "name": "Vessa Turley",
+              "abbr": null,
+              "school": "San Diego State University",
+              "pid": null,
+              "wtn": 15.99,
+              "seed": null
+             },
+             {
+              "name": "Stina Larsson",
+              "abbr": null,
+              "school": "California State University, Fullerton",
+              "pid": "csuf-w-n2",
+              "wtn": 15.96,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T11:30",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Koronayashe Rugara",
+              "abbr": null,
+              "school": "UCLA",
+              "pid": "ucla-w-fp438",
+              "wtn": 17.98,
+              "seed": null
+             },
+             {
+              "name": "Sandra Isabela Arguelles",
+              "abbr": null,
+              "school": "California State University, Northridge",
+              "pid": "csun-w-p1",
+              "wtn": 17.45,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T11:30",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Malgorzata Bajorek",
+              "abbr": null,
+              "school": "University Of Hawaii",
+              "pid": "haw-w-n1",
+              "wtn": 16.44,
+              "seed": null
+             },
+             {
+              "name": "Natalie Lynch",
+              "abbr": null,
+              "school": "Cal Poly",
+              "pid": "cpoly-w-p6",
+              "wtn": 16.66,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T11:30",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Candela Aparisi",
+              "abbr": null,
+              "school": "Cal Poly",
+              "pid": "cpoly-w-p1",
+              "wtn": 16.05,
+              "seed": null
+             },
+             {
+              "name": "Johannah Magenta Galindo",
+              "abbr": null,
+              "school": "University Of Hawaii",
+              "pid": "haw-w-fp108",
+              "wtn": 16.92,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T11:30",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Tia Bonita Jakupovic-Kljako",
+              "abbr": null,
+              "school": "Cal Poly",
+              "pid": "cpoly-w-p2",
+              "wtn": 18.32,
+              "seed": null
+             },
+             {
+              "name": "Ran Todo",
+              "abbr": null,
+              "school": "California State University, Northridge",
+              "pid": "csun-w-n6",
+              "wtn": 16.96,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T11:30",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Mackenzie Lukin",
+              "abbr": null,
+              "school": "Univ. Of California, Irvine",
+              "pid": "uci-w-p7",
+              "wtn": 17.84,
+              "seed": null
+             },
+             {
+              "name": "Annette Robertson",
+              "abbr": null,
+              "school": "California State University, Northridge",
+              "pid": "csun-w-p8",
+              "wtn": 18.46,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T11:30",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Rachel Gee",
+              "abbr": null,
+              "school": "Univ. Of California, Irvine",
+              "pid": "uci-w-p3",
+              "wtn": 18.16,
+              "seed": null
+             },
+             {
+              "name": "Sophia Christodoulou",
+              "abbr": null,
+              "school": "University Of Arizona",
+              "pid": "ariz-w-n2",
+              "wtn": 17.1,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T13:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Daria Malaescu",
+              "abbr": null,
+              "school": "Long Beach State Univ.",
+              "pid": "lbsu-w-p7",
+              "wtn": 16.6,
+              "seed": null
+             },
+             {
+              "name": "My-Anh Holmes",
+              "abbr": null,
+              "school": "University Of California, Santa Barbara",
+              "pid": "ucsb-w-p3",
+              "wtn": 16.55,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T13:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Anastasia Bozova",
+              "abbr": null,
+              "school": "Loyola Marymount University",
+              "pid": "lmu-w-p1",
+              "wtn": 16.2,
+              "seed": null
+             },
+             {
+              "name": "Kaia Celin Bostrom Jorgensen",
+              "abbr": null,
+              "school": "Cal Poly",
+              "pid": "cpoly-w-p3",
+              "wtn": 17.38,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T13:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Isabella Pitchford",
+              "abbr": null,
+              "school": "Univ. Of California, Irvine",
+              "pid": "uci-w-fp137",
+              "wtn": 17.68,
+              "seed": null
+             },
+             {
+              "name": "Martina Puvill",
+              "abbr": null,
+              "school": "California State University, Fullerton",
+              "pid": "csuf-w-n1",
+              "wtn": 17.82,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T13:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Leanna Roman",
+              "abbr": null,
+              "school": "California State University, Fullerton",
+              "pid": "csuf-w-n4",
+              "wtn": 18.87,
+              "seed": null
+             },
+             {
+              "name": "Aniela Odrobina",
+              "abbr": null,
+              "school": "Grand Canyon University",
+              "pid": null,
+              "wtn": 17.67,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T13:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Gala Arangio",
+              "abbr": null,
+              "school": "Grand Canyon University",
+              "pid": null,
+              "wtn": 17.18,
+              "seed": null
+             },
+             {
+              "name": "Kayla Chung",
+              "abbr": null,
+              "school": "UCLA",
+              "pid": "ucla-w-p2",
+              "wtn": 16.13,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T13:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Maria Paula Ramos Garcia",
+              "abbr": null,
+              "school": "California State University, Fullerton",
+              "pid": "csuf-w-n3",
+              "wtn": 16.44,
+              "seed": null
+             },
+             {
+              "name": "Sonia Van San",
+              "abbr": null,
+              "school": "Long Beach State Univ.",
+              "pid": "lbsu-w-p8",
+              "wtn": 16.46,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T13:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Makaila Cheng",
+              "abbr": null,
+              "school": "Long Beach State Univ.",
+              "pid": "lbsu-w-p2",
+              "wtn": 17.64,
+              "seed": null
+             },
+             {
+              "name": "Ilana Toro",
+              "abbr": null,
+              "school": "Loyola Marymount University",
+              "pid": "lmu-w-p9",
+              "wtn": 18.05,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T13:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Julia Visaya",
+              "abbr": null,
+              "school": "University Of California, San Diego",
+              "pid": "ucsd-w-p8",
+              "wtn": 17.98,
+              "seed": null
+             },
+             {
+              "name": "Dana Kunza",
+              "abbr": null,
+              "school": "California State University, Fullerton",
+              "pid": "csuf-w-p2",
+              "wtn": 17.82,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T14:00",
+            "venue": "SDSU",
+            "sides": [
+             {
+              "name": "Aspen Chung",
+              "abbr": null,
+              "school": "Cal Poly",
+              "pid": "cpoly-w-p4",
+              "wtn": 17.41,
+              "seed": null
+             },
+             {
+              "name": "Katarina Vayser",
+              "abbr": null,
+              "school": "University Of California, Santa Barbara",
+              "pid": "ucsb-w-p8",
+              "wtn": 17.43,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T13:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Sara Mlenska",
+              "abbr": null,
+              "school": "University Of Arizona",
+              "pid": "ariz-w-n1",
+              "wtn": null,
+              "seed": null
+             },
+             {
+              "name": "Melis Mert",
+              "abbr": null,
+              "school": "Loyola Marymount University",
+              "pid": "lmu-w-p3",
+              "wtn": 18.53,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T14:00",
+            "venue": "SDSU",
+            "sides": [
+             {
+              "name": "Stefi Marithe Aludo",
+              "abbr": null,
+              "school": "University Of Hawaii",
+              "pid": "haw-w-n3",
+              "wtn": 17.12,
+              "seed": null
+             },
+             {
+              "name": "Madison Shepperson",
+              "abbr": null,
+              "school": "California State University, Northridge",
+              "pid": "csun-w-p9",
+              "wtn": 17.92,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T14:00",
+            "venue": "SDSU",
+            "sides": [
+             {
+              "name": "Neha Guru",
+              "abbr": null,
+              "school": "University Of California, San Diego",
+              "pid": "ucsd-w-n1",
+              "wtn": 17.73,
+              "seed": null
+             },
+             {
+              "name": "Amy Leather",
+              "abbr": null,
+              "school": "Cal Poly",
+              "pid": "cpoly-w-p5",
+              "wtn": 18.05,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": "2026-10-17T13:00",
+            "venue": "University Of San Diego",
+            "sides": [
+             {
+              "name": "Kara Chen",
+              "abbr": null,
+              "school": "Univ. Of California, Irvine",
+              "pid": "uci-w-p2",
+              "wtn": 17.59,
+              "seed": null
+             },
+             {
+              "name": "Ada Piestrzynska",
+              "abbr": null,
+              "school": "Loyola Marymount University",
+              "pid": "lmu-w-p5",
+              "wtn": 16.48,
+              "seed": null
+             }
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R128",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 5,
+          "matchUps": [
+           {
+            "roundName": "E-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 6,
+          "matchUps": [
+           {
+            "roundName": "E-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "E-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 7,
+          "matchUps": [
+           {
+            "roundName": "E-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "West",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 9,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 12,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 13,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 14,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 15,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 16,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 17,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 18,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 19,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 20,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 21,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 22,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 23,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 24,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 25,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 26,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 27,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 28,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 29,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 30,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 31,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 32,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 33,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 34,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 35,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 36,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 37,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 38,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 39,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 40,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 41,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 42,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 43,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 44,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 45,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 46,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 47,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 48,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 49,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 50,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 51,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 52,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 53,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 54,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 55,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 56,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 57,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 58,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 59,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 60,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 61,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 62,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 63,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 64,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R64",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "W-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 5,
+          "matchUps": [
+           {
+            "roundName": "W-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "W-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 6,
+          "matchUps": [
+           {
+            "roundName": "W-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "North",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 9,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 12,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 13,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 14,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 15,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 16,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 17,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 18,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 19,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 20,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 21,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 22,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 23,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 24,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 25,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 26,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 27,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 28,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 29,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 30,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 31,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 32,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "N-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "N-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "N-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "N-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 5,
+          "matchUps": [
+           {
+            "roundName": "N-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "South",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 9,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 12,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 13,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 14,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 15,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 16,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 17,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 18,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 19,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 20,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 21,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 22,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 23,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 24,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 25,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 26,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 27,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 28,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 29,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 30,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 31,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 32,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "S-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R32",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "S-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "S-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "S-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 5,
+          "matchUps": [
+           {
+            "roundName": "S-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Northeast",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 9,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 12,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 13,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 14,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 15,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 16,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "NE-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "NE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "NE-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NE-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "NE-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Northwest",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 9,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 12,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 13,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 14,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 15,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 16,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "NW-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "NW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "NW-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "NW-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "NW-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Southwest",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 9,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 12,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 13,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 14,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 15,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 16,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "SW-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "SW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "SW-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SW-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
+          "matchUps": [
+           {
+            "roundName": "SW-Final",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "name": "Southeast",
+        "stage": "MAIN",
+        "positions": [
+         {
+          "pos": 1,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 2,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 3,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 4,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 5,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 6,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 7,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 8,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 9,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 10,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 11,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 12,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 13,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 14,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 15,
+          "bye": true,
+          "seed": null,
+          "name": null
+         },
+         {
+          "pos": 16,
+          "bye": true,
+          "seed": null,
+          "name": null
+         }
+        ],
+        "rounds": [
+         {
+          "round": 1,
+          "matchUps": [
+           {
+            "roundName": "SE-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-R16",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 2,
+          "matchUps": [
+           {
+            "roundName": "SE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-Quarterfinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 3,
+          "matchUps": [
+           {
+            "roundName": "SE-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           },
+           {
+            "roundName": "SE-Semifinals",
+            "status": "TO_BE_PLAYED",
+            "score": null,
+            "winningSide": null,
+            "when": null,
+            "venue": null,
+            "sides": [
+             null,
+             null
+            ]
+           }
+          ]
+         },
+         {
+          "round": 4,
           "matchUps": [
            {
             "roundName": "SE-Final",
