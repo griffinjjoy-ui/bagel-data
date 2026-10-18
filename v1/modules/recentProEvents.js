@@ -165,6 +165,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "ark-m-p6": [
   {
+   "key": "22108",
+   "name": "Florence Challenger",
+   "date": "2026-10-19",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "82773764",
+     "date": "2026-10-18",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Alex Marti Pujolras",
+     "score": "6-4 7-5"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22103",
    "name": "San Gregorio di Catania Challenger",
    "date": "2026-10-12",
