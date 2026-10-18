@@ -787,6 +787,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "1364D7EF-DB70-4893-A096-3B9290B69A54",
+  "date": "2027-01-29",
+  "dateTime": "2027-01-29T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Youngstown State Univ.",
+   "side": 2
+  }
+ },
+ {
   "id": "897719FE-2284-480C-85A0-ABE7FAF20BB7",
   "date": "2027-01-29",
   "dateTime": "2027-01-29T18:00:00.000Z",
@@ -940,6 +957,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "36EE136D-FA4E-4422-9632-C254C23C9F44",
+  "date": "2027-01-30",
+  "dateTime": "2027-01-30T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Weber State University",
+   "side": 2
+  }
+ },
+ {
   "id": "14C53243-ED3E-4E1E-9143-F5FABF1430E3",
   "date": "2027-01-30",
   "dateTime": "2027-01-30T18:30:00.000Z",
@@ -1072,6 +1106,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "ark-m",
    "name": "Univ. Of Arkansas, Fayetteville",
+   "side": 2
+  }
+ },
+ {
+  "id": "9B45A199-32A4-4EC0-B7AF-15471E9D4382",
+  "date": "2027-01-31",
+  "dateTime": "2027-01-31T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Univ. Of Nevada, Las Vegas",
    "side": 2
   }
  },
@@ -1416,6 +1467,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "90314E03-F811-40F1-AD19-AF36FBE57C5F",
+  "date": "2027-02-06",
+  "dateTime": "2027-02-06T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Lamar University",
+   "side": 2
+  }
+ },
+ {
   "id": "40A2261B-57F3-442E-9703-6E80D79F590F",
   "date": "2027-02-06",
   "dateTime": "2027-02-06T19:00:00.000Z",
@@ -1531,6 +1599,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "wake-w",
    "name": "Wake Forest University",
+   "side": 2
+  }
+ },
+ {
+  "id": "8F45D5E0-141B-4031-8EFD-E0A032F38B53",
+  "date": "2027-02-07",
+  "dateTime": "2027-02-07T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Sam Houston State Univ.",
    "side": 2
   }
  },
@@ -1705,6 +1790,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "99100E73-5F67-427E-8D47-63C10EAC2719",
+  "date": "2027-02-13",
+  "dateTime": "2027-02-13T16:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "New Mexico State University",
+   "side": 2
+  }
+ },
+ {
   "id": "160E4176-2B89-4AD2-AD46-B1FB55C6ABA0",
   "date": "2027-02-13",
   "dateTime": "2027-02-13T18:00:00.000Z",
@@ -1841,6 +1943,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "5E3FFE76-DC33-4296-9B99-33A3B8949143",
+  "date": "2027-02-14",
+  "dateTime": "2027-02-14T19:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "hou-w",
+   "name": "University Of Houston",
+   "side": 2
+  }
+ },
+ {
   "id": "D5C1D115-32FE-4FEA-9809-C54D86220A36",
   "date": "2027-02-15",
   "dateTime": "2027-02-15T19:00:00.000Z",
@@ -1956,6 +2075,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "tenn-w",
    "name": "Univ. Of Tennessee, Knoxville",
+   "side": 2
+  }
+ },
+ {
+  "id": "7B553DCE-5A2C-4100-A419-96DE925E79F4",
+  "date": "2027-02-19",
+  "dateTime": "2027-02-19T19:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Abilene Christian University",
    "side": 2
   }
  },
@@ -2115,7 +2251,7 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
  {
   "id": "B4979823-A3EC-4521-A13F-FB76ABDB405F",
   "date": "2027-02-20",
-  "dateTime": "2027-02-20T19:00:00.000Z",
+  "dateTime": "2027-02-20T18:00:00.000Z",
   "gender": "women",
   "isConferenceMatch": false,
   "t1": {
@@ -2368,6 +2504,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "36FF08E4-BE97-44B2-9B66-156BA88030FC",
+  "date": "2027-02-26",
+  "dateTime": "2027-02-26T20:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "tuln-w",
+   "name": "Tulane University",
+   "side": 2
+  }
+ },
+ {
   "id": "45D83CFE-3D8D-402D-B943-A38B82B392EF",
   "date": "2027-02-27",
   "dateTime": "2027-02-27T05:00:00.000Z",
@@ -2504,6 +2657,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "678719E8-A293-446E-9D1C-BDC977DB34CA",
+  "date": "2027-02-28",
+  "dateTime": "2027-02-28T18:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "usf-w",
+   "name": "Univ. Of South Florida",
+   "side": 2
+  }
+ },
+ {
   "id": "FACC3664-F1CF-4628-BF25-930D5D28E919",
   "date": "2027-02-28",
   "dateTime": "2027-02-28T19:00:00.000Z",
@@ -2606,23 +2776,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
-  "id": "0A3468FD-3889-4A70-A9EE-4BB7AFCCFCF7",
-  "date": "2027-03-05",
-  "dateTime": "2027-03-05T05:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": null,
-   "name": "Texas State U-San Marcos",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "utsa-w",
-   "name": "Univ. Of Texas, San Antonio",
-   "side": 2
-  }
- },
- {
   "id": "349C5199-9EB0-477E-BE47-F31D09E99BBC",
   "date": "2027-03-05",
   "dateTime": "2027-03-05T06:00:00.000Z",
@@ -2670,6 +2823,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "ucd-m",
    "name": "Univ. Of California, Davis",
+   "side": 2
+  }
+ },
+ {
+  "id": "0A3468FD-3889-4A70-A9EE-4BB7AFCCFCF7",
+  "date": "2027-03-05",
+  "dateTime": "2027-03-05T18:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Texas State U-San Marcos",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
    "side": 2
   }
  },
@@ -3286,6 +3456,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "61E8E996-077D-48F2-8A7F-9874F5925B57",
+  "date": "2027-03-19",
+  "dateTime": "2027-03-19T18:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Univ. Of Texas, Arlington",
+   "side": 2
+  }
+ },
+ {
   "id": "04AB77E0-8F0C-40A6-8896-7C9914C3A5D3",
   "date": "2027-03-19",
   "dateTime": "2027-03-19T19:00:00.000Z",
@@ -3384,6 +3571,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "hou-w",
    "name": "University Of Houston",
+   "side": 2
+  }
+ },
+ {
+  "id": "3789513C-7533-49FB-A007-2F8668F4494C",
+  "date": "2027-03-20",
+  "dateTime": "2027-03-20T18:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "unt-w",
+   "name": "Univ. Of North Texas",
    "side": 2
   }
  },
@@ -3711,6 +3915,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "1175D8EE-7499-4413-B069-BEEA4AF63592",
+  "date": "2027-03-26",
+  "dateTime": "2027-03-26T20:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "tulsa-w",
+   "name": "University Of Tulsa",
+   "side": 2
+  }
+ },
+ {
   "id": "113BE1A1-FA20-4B2D-8A12-5256F1FF2382",
   "date": "2027-03-26",
   "dateTime": "2027-03-26T23:30:00.000Z",
@@ -3864,6 +4085,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "AB75318D-F23E-48C2-97B6-8B40560FF8FC",
+  "date": "2027-03-28",
+  "dateTime": "2027-03-28T16:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "wich-w",
+   "name": "Wichita State University",
+   "side": 2
+  }
+ },
+ {
   "id": "7F00A626-C1A8-411A-AA2B-2A6C28A73450",
   "date": "2027-04-01",
   "dateTime": "2027-04-01T04:00:00.000Z",
@@ -3979,6 +4217,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "San Diego State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "2703891D-61A4-4E8E-9DE8-6B5C0EB8C7F5",
+  "date": "2027-04-02",
+  "dateTime": "2027-04-02T18:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Liberty University",
    "side": 2
   }
  },
@@ -4268,6 +4523,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "New Mexico State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "B49CD5A9-792C-4BF9-9820-FBD8ECB3F7DE",
+  "date": "2027-04-09",
+  "dateTime": "2027-04-09T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utsa-w",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "wsu-w",
+   "name": "Washington State Univ.",
    "side": 2
   }
  },
