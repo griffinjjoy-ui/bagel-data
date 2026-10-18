@@ -114,6 +114,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "ark-m-p4": [
   {
+   "key": "22159",
+   "name": "M25 Tamworth",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "72941773",
+     "date": "2026-10-18",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Adrian Correa",
+     "score": "6-2 6-4"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22134",
    "name": "M25 Darwin",
    "date": "2026-10-05",
@@ -1428,10 +1448,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Sergey Fomin",
      "score": "6-2 6-3"
+    },
+    {
+     "id": "77155396",
+     "date": "2026-10-18",
+     "roundId": 12,
+     "round": "Final",
+     "won": false,
+     "opponent": "Matthew Dellavedova",
+     "score": "6-4 7-6(4)"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Final",
+   "reachedTone": "amber"
   },
   {
    "key": "22097",
@@ -2646,10 +2675,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "William Rejchtman Vinciguerra",
      "score": "3-6 6-3 6-1"
+    },
+    {
+     "id": "77155271",
+     "date": "2026-10-18",
+     "roundId": 12,
+     "round": "Final",
+     "won": true,
+     "opponent": "Karan Singh",
+     "score": "2-6 6-4 7-6(4)"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Title",
+   "reachedTone": "gold"
   }
  ],
  "tamu-m-p4": [

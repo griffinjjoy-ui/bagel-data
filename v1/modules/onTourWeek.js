@@ -5,6 +5,58 @@
 // on the ITF/Challenger/WTA-ATP circuit right now, ranked or not.
 export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWeek ?? [
  {
+  "playerId": "tenn-m-h15",
+  "name": "Adam Walton",
+  "teamId": "tenn-m",
+  "teamName": "Tennessee",
+  "gender": "men",
+  "event": "Almaty Open - Almaty",
+  "round": "Q3",
+  "won": false,
+  "opponent": "Nikoloz Basilashvili",
+  "result": "6-4 7-6(4)",
+  "date": "2026-10-18"
+ },
+ {
+  "playerId": "ark-m-p4",
+  "name": "Eric Padgham",
+  "teamId": "ark-m",
+  "teamName": "Arkansas",
+  "gender": "men",
+  "event": "M25 Tamworth",
+  "round": "Q1",
+  "won": false,
+  "opponent": "Adrian Correa",
+  "result": "6-2 6-4",
+  "date": "2026-10-18"
+ },
+ {
+  "playerId": "uk-m-h12",
+  "name": "Gabriel Diallo",
+  "teamId": "uk-m",
+  "teamName": "Kentucky",
+  "gender": "men",
+  "event": "Almaty Open - Almaty",
+  "round": "Q3",
+  "won": false,
+  "opponent": "Rei Sakamoto",
+  "result": "2-6 6-4 6-4",
+  "date": "2026-10-18"
+ },
+ {
+  "playerId": "ncst-m-fp370",
+  "name": "Martin Borisiouk",
+  "teamId": "ncst-m",
+  "teamName": "NC State",
+  "gender": "men",
+  "event": "M25 Qian Daohu",
+  "round": "Final",
+  "won": false,
+  "opponent": "Matthew Dellavedova",
+  "result": "6-4 7-6(4)",
+  "date": "2026-10-18"
+ },
+ {
   "playerId": "tamu-w-h5",
   "name": "Mary Stoiana",
   "teamId": "tamu-w",
@@ -15,6 +67,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Sayaka Ishii",
   "result": "6-4 7-5",
+  "date": "2026-10-18"
+ },
+ {
+  "playerId": "uk-m-h10",
+  "name": "Millen Hurrion",
+  "teamId": "uk-m",
+  "teamName": "Kentucky",
+  "gender": "men",
+  "event": "Guangzhou Challenger",
+  "round": "Q1",
+  "won": false,
+  "opponent": "Koki Matsuda",
+  "result": "6-3 4-6 7-6(2)",
   "date": "2026-10-18"
  },
  {
@@ -31,6 +96,32 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-18"
  },
  {
+  "playerId": "uva-m-h12",
+  "name": "Rafael Jodar",
+  "teamId": "uva-m",
+  "teamName": "Virginia",
+  "gender": "men",
+  "event": "Shanghai Rolex Masters - Shanghai",
+  "round": "Final",
+  "won": false,
+  "opponent": "Alejandro Davidovich Fokina",
+  "result": "1-6 7-6(5) 6-4",
+  "date": "2026-10-18"
+ },
+ {
+  "playerId": "stan-m-fp374",
+  "name": "Samir Banerjee",
+  "teamId": "stan-m",
+  "teamName": "Stanford",
+  "gender": "men",
+  "event": "M25 Solapur",
+  "round": "Final",
+  "won": true,
+  "opponent": "Karan Singh",
+  "result": "2-6 6-4 7-6(4)",
+  "date": "2026-10-18"
+ },
+ {
   "playerId": "port-m-h5",
   "name": "Sema Pankin",
   "teamId": "port-m",
@@ -42,19 +133,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "opponent": "Xi Cheng Huang",
   "result": "6-2 6-1",
   "date": "2026-10-18"
- },
- {
-  "playerId": "tenn-m-h15",
-  "name": "Adam Walton",
-  "teamId": "tenn-m",
-  "teamName": "Tennessee",
-  "gender": "men",
-  "event": "Almaty Open - Almaty",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Beibit Zhukayev",
-  "result": "6-1 7-5",
-  "date": "2026-10-17"
  },
  {
   "playerId": "fla-w-h4",
@@ -171,19 +249,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Peter Makk",
   "result": "7-5 1-6 5-0 ret.",
-  "date": "2026-10-17"
- },
- {
-  "playerId": "uk-m-h12",
-  "name": "Gabriel Diallo",
-  "teamId": "uk-m",
-  "teamName": "Kentucky",
-  "gender": "men",
-  "event": "Almaty Open - Almaty",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Harold Mayot",
-  "result": "7-6(5) 6-2",
   "date": "2026-10-17"
  },
  {
@@ -330,19 +395,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-17"
  },
  {
-  "playerId": "ncst-m-fp370",
-  "name": "Martin Borisiouk",
-  "teamId": "ncst-m",
-  "teamName": "NC State",
-  "gender": "men",
-  "event": "M25 Qian Daohu",
-  "round": "1/2",
-  "won": true,
-  "opponent": "Sergey Fomin",
-  "result": "6-2 6-3",
-  "date": "2026-10-17"
- },
- {
   "playerId": "tex-m-n3",
   "name": "Matej Dodig",
   "teamId": "tex-m",
@@ -408,19 +460,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-17"
  },
  {
-  "playerId": "uva-m-h12",
-  "name": "Rafael Jodar",
-  "teamId": "uva-m",
-  "teamName": "Virginia",
-  "gender": "men",
-  "event": "Shanghai Rolex Masters - Shanghai",
-  "round": "1/2",
-  "won": true,
-  "opponent": "Daniil Medvedev",
-  "result": "6-3 6-4",
-  "date": "2026-10-17"
- },
- {
   "playerId": "unc-w-p2",
   "name": "Reese Brantmeier",
   "teamId": "unc-w",
@@ -431,19 +470,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Kajsa Rinaldo Persson",
   "result": "7-5 7-6(4)",
-  "date": "2026-10-17"
- },
- {
-  "playerId": "stan-m-fp374",
-  "name": "Samir Banerjee",
-  "teamId": "stan-m",
-  "teamName": "Stanford",
-  "gender": "men",
-  "event": "M25 Solapur",
-  "round": "1/2",
-  "won": true,
-  "opponent": "William Rejchtman Vinciguerra",
-  "result": "3-6 6-3 6-1",
   "date": "2026-10-17"
  },
  {
@@ -3595,12 +3621,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ark-m",
   "teamName": "Arkansas",
   "gender": "men",
-  "event": "M25 Darwin",
-  "round": "Q2",
+  "event": "M25 Tamworth",
+  "round": "Q1",
   "won": false,
-  "opponent": "Arjun Mehrotra",
-  "result": "6-2 7-5",
-  "date": "2026-10-05"
+  "opponent": "Adrian Correa",
+  "result": "6-2 6-4",
+  "date": "2026-10-18"
  },
  "ark-m-p5": {
   "playerId": "ark-m-p5",
@@ -10135,11 +10161,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "NC State",
   "gender": "men",
   "event": "M25 Qian Daohu",
-  "round": "1/2",
-  "won": true,
-  "opponent": "Sergey Fomin",
-  "result": "6-2 6-3",
-  "date": "2026-10-17"
+  "round": "Final",
+  "won": false,
+  "opponent": "Matthew Dellavedova",
+  "result": "6-4 7-6(4)",
+  "date": "2026-10-18"
  },
  "ncst-m-h1": {
   "playerId": "ncst-m-h1",
@@ -13541,11 +13567,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Stanford",
   "gender": "men",
   "event": "M25 Solapur",
-  "round": "1/2",
+  "round": "Final",
   "won": true,
-  "opponent": "William Rejchtman Vinciguerra",
-  "result": "3-6 6-3 6-1",
-  "date": "2026-10-17"
+  "opponent": "Karan Singh",
+  "result": "2-6 6-4 7-6(4)",
+  "date": "2026-10-18"
  },
  "stan-m-fp423": {
   "playerId": "stan-m-fp423",
@@ -14607,11 +14633,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Tennessee",
   "gender": "men",
   "event": "Almaty Open - Almaty",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Beibit Zhukayev",
-  "result": "6-1 7-5",
-  "date": "2026-10-17"
+  "round": "Q3",
+  "won": false,
+  "opponent": "Nikoloz Basilashvili",
+  "result": "6-4 7-6(4)",
+  "date": "2026-10-18"
  },
  "tenn-m-h2": {
   "playerId": "tenn-m-h2",
@@ -17089,12 +17115,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "uk-m",
   "teamName": "Kentucky",
   "gender": "men",
-  "event": "M15 Baku",
-  "round": "Final",
+  "event": "Guangzhou Challenger",
+  "round": "Q1",
   "won": false,
-  "opponent": "Digvijaypratap Singh",
-  "result": "6-4 6-4",
-  "date": "2026-10-04"
+  "opponent": "Koki Matsuda",
+  "result": "6-3 4-6 7-6(2)",
+  "date": "2026-10-18"
  },
  "uk-m-h12": {
   "playerId": "uk-m-h12",
@@ -17103,11 +17129,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Kentucky",
   "gender": "men",
   "event": "Almaty Open - Almaty",
-  "round": "Q1",
-  "won": true,
-  "opponent": "Harold Mayot",
-  "result": "7-6(5) 6-2",
-  "date": "2026-10-17"
+  "round": "Q3",
+  "won": false,
+  "opponent": "Rei Sakamoto",
+  "result": "2-6 6-4 6-4",
+  "date": "2026-10-18"
  },
  "uk-m-h14": {
   "playerId": "uk-m-h14",
@@ -18520,11 +18546,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Virginia",
   "gender": "men",
   "event": "Shanghai Rolex Masters - Shanghai",
-  "round": "1/2",
-  "won": true,
-  "opponent": "Daniil Medvedev",
-  "result": "6-3 6-4",
-  "date": "2026-10-17"
+  "round": "Final",
+  "won": false,
+  "opponent": "Alejandro Davidovich Fokina",
+  "result": "1-6 7-6(5) 6-4",
+  "date": "2026-10-18"
  },
  "uva-m-h16": {
   "playerId": "uva-m-h16",
