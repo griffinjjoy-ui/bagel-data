@@ -367,26 +367,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "aub-p10": [
   {
-   "key": "17349",
-   "name": "W50 Austin",
-   "date": "2026-10-19",
-   "surface": "Hard",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "79751944",
-     "date": "2026-10-18",
-     "roundId": 1,
-     "round": "Q1",
-     "won": true,
-     "opponent": "Alexandra Vagramov",
-     "score": "7-5 6-2"
-    }
-   ],
-   "reached": "Q1",
-   "reachedTone": "neutral"
-  },
-  {
    "key": "17315",
    "name": "W15 Nashville",
    "date": "2026-09-28",
@@ -665,26 +645,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "cal-m-p9": [
   {
-   "key": "22105",
-   "name": "Cali Challenger",
-   "date": "2026-10-19",
-   "surface": "Clay",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "92606325",
-     "date": "2026-10-18",
-     "roundId": 1,
-     "round": "Q1",
-     "won": false,
-     "opponent": "Mateus Alves",
-     "score": "6-4 6-3"
-    }
-   ],
-   "reached": "Q1",
-   "reachedTone": "neutral"
-  },
-  {
    "key": "22102",
    "name": "Santa Cruz de la Sierra 2 Challenger",
    "date": "2026-10-12",
@@ -857,19 +817,10 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Ariana Arseneault",
      "score": "7-5 6-2"
-    },
-    {
-     "id": "80982835",
-     "date": "2026-10-18",
-     "roundId": 12,
-     "round": "Final",
-     "won": false,
-     "opponent": "Kajsa Rinaldo Persson",
-     "score": "6-4 6-2"
     }
    ],
-   "reached": "Final",
-   "reachedTone": "amber"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "17316",
@@ -1081,26 +1032,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "lsu-p1": [
-  {
-   "key": "17349",
-   "name": "W50 Austin",
-   "date": "2026-10-19",
-   "surface": "Hard",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "79751945",
-     "date": "2026-10-18",
-     "roundId": 1,
-     "round": "Q1",
-     "won": true,
-     "opponent": "Kate Fakih",
-     "score": "6-2 6-0"
-    }
-   ],
-   "reached": "Q1",
-   "reachedTone": "neutral"
-  },
   {
    "key": "17296",
    "name": "W100 Templeton",
@@ -3148,26 +3079,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "tcu-m-fp30": [
   {
-   "key": "22106",
-   "name": "Fort Worth Challenger",
-   "date": "2026-10-19",
-   "surface": "Hard",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "94010959",
-     "date": "2026-10-18",
-     "roundId": 1,
-     "round": "Q1",
-     "won": false,
-     "opponent": "Duncan Chan",
-     "score": "7-6(4) 2-6 6-3"
-    }
-   ],
-   "reached": "Q1",
-   "reachedTone": "neutral"
-  },
-  {
    "key": "22147",
    "name": "M25 Austin",
    "date": "2026-10-12",
@@ -3194,28 +3105,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Second",
-   "reachedTone": "neutral"
-  }
- ],
- "tcu-m-p3": [
-  {
-   "key": "22106",
-   "name": "Fort Worth Challenger",
-   "date": "2026-10-19",
-   "surface": "Hard",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "94010959",
-     "date": "2026-10-18",
-     "roundId": 1,
-     "round": "Q1",
-     "won": true,
-     "opponent": "Roger Pascual Ferra",
-     "score": "7-6(4) 2-6 6-3"
-    }
-   ],
-   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],
@@ -3746,26 +3635,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "tex-p10": [
   {
-   "key": "17349",
-   "name": "W50 Austin",
-   "date": "2026-10-19",
-   "surface": "Hard",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "80983712",
-     "date": "2026-10-18",
-     "roundId": 1,
-     "round": "Q1",
-     "won": true,
-     "opponent": "Megan Heuser",
-     "score": "3-6 7-6(1) 6-3"
-    }
-   ],
-   "reached": "Q1",
-   "reachedTone": "neutral"
-  },
-  {
    "key": "17337",
    "name": "W35 Redding",
    "date": "2026-10-12",
@@ -4029,26 +3898,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "ucla-w-p9": [
-  {
-   "key": "17349",
-   "name": "W50 Austin",
-   "date": "2026-10-19",
-   "surface": "Hard",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "79751945",
-     "date": "2026-10-18",
-     "roundId": 1,
-     "round": "Q1",
-     "won": false,
-     "opponent": "Ella Mcdonald",
-     "score": "6-2 6-0"
-    }
-   ],
-   "reached": "Q1",
-   "reachedTone": "neutral"
-  },
   {
    "key": "17320",
    "name": "W35 Las Vegas",
@@ -4599,28 +4448,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    ],
    "reached": "Title",
    "reachedTone": "gold"
-  }
- ],
- "uva-m-p8": [
-  {
-   "key": "22106",
-   "name": "Fort Worth Challenger",
-   "date": "2026-10-19",
-   "surface": "Hard",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "91201708",
-     "date": "2026-10-18",
-     "roundId": 1,
-     "round": "Q1",
-     "won": false,
-     "opponent": "Sander Jong",
-     "score": "3-6 7-6(3) 6-2"
-    }
-   ],
-   "reached": "Q1",
-   "reachedTone": "neutral"
   }
  ],
  "van-m-p2": [
