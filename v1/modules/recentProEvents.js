@@ -476,6 +476,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "aub-p6": [
   {
+   "key": "17349",
+   "name": "W50 Austin",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94532516",
+     "date": "2026-10-18",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Alana Smith",
+     "score": "3-6 6-3 6-3"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17320",
    "name": "W35 Las Vegas",
    "date": "2026-10-05",
@@ -823,6 +843,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "duke-w-p2": [
+  {
+   "key": "17347",
+   "name": "W75 Saguenay",
+   "date": "2026-10-19",
+   "surface": "I.hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94532497",
+     "date": "2026-10-18",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Avery Alexander",
+     "score": "6-4 6-4"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "duke-w-p6": [
   {
    "key": "17316",
@@ -1060,6 +1102,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "lsu-p5": [
+  {
+   "key": "17347",
+   "name": "W75 Saguenay",
+   "date": "2026-10-19",
+   "surface": "I.hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94532499",
+     "date": "2026-10-18",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Nalah Kaler",
+     "score": "6-0 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17334",
    "name": "W50 Quebec City",
@@ -1477,6 +1539,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "okst-m-p6": [
   {
+   "key": "22159",
+   "name": "M25 Tamworth",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "108058553",
+     "date": "2026-10-19",
+     "roundId": 2,
+     "round": "Q2",
+     "won": true,
+     "opponent": "Alec Braund",
+     "score": "6-2 6-4"
+    }
+   ],
+   "reached": "Q2",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22134",
    "name": "M25 Darwin",
    "date": "2026-10-05",
@@ -1832,6 +1914,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "ou-p4": [
+  {
+   "key": "17349",
+   "name": "W50 Austin",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94532523",
+     "date": "2026-10-18",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Christasha McNeil",
+     "score": "7-6(3) 2-6 6-4"
+    }
+   ],
+   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],
@@ -2403,6 +2507,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "smu-w-p9": [
   {
+   "key": "17349",
+   "name": "W50 Austin",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94532522",
+     "date": "2026-10-18",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Marian Gomez Pezuela Cano",
+     "score": "6-4 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17320",
    "name": "W35 Las Vegas",
    "date": "2026-10-05",
@@ -2659,6 +2783,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "tamu-p8": [
   {
+   "key": "17349",
+   "name": "W50 Austin",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94532525",
+     "date": "2026-10-18",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Carmen Andreea Herea",
+     "score": "2-6 6-4 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17337",
    "name": "W35 Redding",
    "date": "2026-10-12",
@@ -2849,6 +2993,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tamu-w-n8": [
+  {
+   "key": "17349",
+   "name": "W50 Austin",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94532524",
+     "date": "2026-10-18",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Adriana Reami",
+     "score": "6-1 2-6 6-4"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17337",
    "name": "W35 Redding",
@@ -3046,6 +3210,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tenn-p3": [
+  {
+   "key": "17355",
+   "name": "W35 Sydney",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94532575",
+     "date": "2026-10-19",
+     "roundId": 2,
+     "round": "Q2",
+     "won": true,
+     "opponent": "Yu-Ching Wang",
+     "score": "6-1 6-1"
+    }
+   ],
+   "reached": "Q2",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17326",
    "name": "W15 Cipolletti",
@@ -3623,6 +3807,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "tex-p5": [
   {
+   "key": "17349",
+   "name": "W50 Austin",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94532525",
+     "date": "2026-10-18",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Lexington Reed",
+     "score": "2-6 6-4 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17332",
    "name": "W100 Edmond",
    "date": "2026-10-12",
@@ -3654,6 +3858,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "tex-p8": [
   {
+   "key": "17349",
+   "name": "W50 Austin",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94532523",
+     "date": "2026-10-18",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Evialina Laskevich",
+     "score": "7-6(3) 2-6 6-4"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17337",
    "name": "W35 Redding",
    "date": "2026-10-12",
@@ -3684,6 +3908,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tex-w-n1": [
+  {
+   "key": "17349",
+   "name": "W50 Austin",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94532521",
+     "date": "2026-10-18",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Lexi Keberle",
+     "score": "6-4 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17332",
    "name": "W100 Edmond",
@@ -3805,6 +4049,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "ucla-w-p7": [
+  {
+   "key": "17349",
+   "name": "W50 Austin",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94532520",
+     "date": "2026-10-18",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Yekaterina Dmitrichenko",
+     "score": "6-4 6-1"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "ucla-w-p9": [
   {
    "key": "17349",
@@ -3910,6 +4176,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "uga-w-n3": [
+  {
+   "key": "17347",
+   "name": "W75 Saguenay",
+   "date": "2026-10-19",
+   "surface": "I.hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94532490",
+     "date": "2026-10-18",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Jamilah Snells",
+     "score": "7-5 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17316",
    "name": "W50 Lexington",

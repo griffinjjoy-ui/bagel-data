@@ -209,6 +209,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "CF80F855-8A8A-40D8-B2BE-1B512F6A2E2A",
+  "date": "2027-01-16",
+  "dateTime": "2027-01-16T18:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Univ. Of Tennessee, Chattanooga",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ucf-m",
+   "name": "University Of Central Florida",
+   "side": 2
+  }
+ },
+ {
   "id": "68A1F585-3787-49A5-9665-2835EEFBF9B5",
   "date": "2027-01-17",
   "dateTime": "2027-01-17T05:00:00.000Z",
@@ -834,6 +851,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "tenn-m",
    "name": "Univ. Of Tennessee, Knoxville",
+   "side": 2
+  }
+ },
+ {
+  "id": "6998C85C-9C17-4988-8B3B-A2087A4C83B4",
+  "date": "2027-01-29",
+  "dateTime": "2027-01-29T23:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Univ. Of Tennessee, Chattanooga",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
    "side": 2
   }
  },
@@ -2262,6 +2296,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "utsa-w",
    "name": "Univ. Of Texas, San Antonio",
+   "side": 2
+  }
+ },
+ {
+  "id": "3A78401D-CABB-42FA-AA79-5EB84D41E0B4",
+  "date": "2027-02-20",
+  "dateTime": "2027-02-20T19:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Univ. Of Tennessee, Chattanooga",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "uab-m",
+   "name": "Univ. Of Alabama, Birmingham",
    "side": 2
   }
  },
