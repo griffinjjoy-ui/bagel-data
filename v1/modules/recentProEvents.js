@@ -309,37 +309,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
- "aub-m-n1": [
-  {
-   "key": "22157",
-   "name": "M15 Lexington",
-   "date": "2026-10-12",
-   "surface": "Hard",
-   "tier": "ITF",
-   "matches": [
-    {
-     "id": "1301201",
-     "date": "2026-10-12",
-     "roundId": 1,
-     "round": "Q1",
-     "won": true,
-     "opponent": "Ryan Haviland",
-     "score": "6-2 6-2"
-    },
-    {
-     "id": "1301206",
-     "date": "2026-10-13",
-     "roundId": 3,
-     "round": "Q3",
-     "won": false,
-     "opponent": "Matthew Rankin",
-     "score": "6-0 6-7(1) 10-7"
-    }
-   ],
-   "reached": "Q3",
-   "reachedTone": "neutral"
-  }
- ],
  "aub-m-p10": [
   {
    "key": "22147",
@@ -846,28 +815,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
- "duke-w-n1": [
-  {
-   "key": "17347",
-   "name": "W75 Saguenay",
-   "date": "2026-10-19",
-   "surface": "I.hard",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "94532491",
-     "date": "2026-10-18",
-     "roundId": 1,
-     "round": "Q1",
-     "won": false,
-     "opponent": "Clemence Mercier",
-     "score": "2-6 6-4 7-5"
-    }
-   ],
-   "reached": "Q1",
-   "reachedTone": "neutral"
-  }
- ],
  "duke-w-n2": [
   {
    "key": "17334",
@@ -1005,28 +952,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Second",
-   "reachedTone": "neutral"
-  }
- ],
- "fla-w-n1": [
-  {
-   "key": "17350",
-   "name": "W35 Bakersfield",
-   "date": "2026-10-19",
-   "surface": "Hard",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "124094673",
-     "date": "2026-10-19",
-     "roundId": 1,
-     "round": "Q1",
-     "won": true,
-     "opponent": "Lily Fairclough",
-     "score": "3-6 6-0 10-7"
-    }
-   ],
-   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],
@@ -1361,28 +1286,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Second",
-   "reachedTone": "neutral"
-  }
- ],
- "lsu-w-n4": [
-  {
-   "key": "17350",
-   "name": "W35 Bakersfield",
-   "date": "2026-10-19",
-   "surface": "Hard",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "124094681",
-     "date": "2026-10-19",
-     "roundId": 1,
-     "round": "Q1",
-     "won": false,
-     "opponent": "Sophie Suh",
-     "score": "6-1 6-7(3) 11-9"
-    }
-   ],
-   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],
@@ -4629,28 +4532,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
- "ucsb-w-p9": [
-  {
-   "key": "17350",
-   "name": "W35 Bakersfield",
-   "date": "2026-10-19",
-   "surface": "Hard",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "124094680",
-     "date": "2026-10-19",
-     "roundId": 1,
-     "round": "Q1",
-     "won": false,
-     "opponent": "Maria Camila Torres Murcia",
-     "score": "6-3 6-7(6) 10-6"
-    }
-   ],
-   "reached": "Q1",
-   "reachedTone": "neutral"
-  }
- ],
  "uga-m-n8": [
   {
    "key": "22157",
@@ -4704,37 +4585,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
- "uga-w-n2": [
-  {
-   "key": "17347",
-   "name": "W75 Saguenay",
-   "date": "2026-10-19",
-   "surface": "I.hard",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "94532488",
-     "date": "2026-10-18",
-     "roundId": 1,
-     "round": "Q1",
-     "won": true,
-     "opponent": "Jule Niemeier",
-     "score": "4-6 6-4 7-6(4)"
-    },
-    {
-     "id": "124094609",
-     "date": "2026-10-19",
-     "roundId": 3,
-     "round": "Q3",
-     "won": false,
-     "opponent": "Carolina Kuhl",
-     "score": "6-4 6-2"
-    }
-   ],
-   "reached": "Q3",
-   "reachedTone": "neutral"
-  }
- ],
  "uga-w-n3": [
   {
    "key": "17347",
@@ -4783,37 +4633,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "First",
-   "reachedTone": "neutral"
-  }
- ],
- "uga-w-n5": [
-  {
-   "key": "17347",
-   "name": "W75 Saguenay",
-   "date": "2026-10-19",
-   "surface": "I.hard",
-   "tier": "Challenger",
-   "matches": [
-    {
-     "id": "94532500",
-     "date": "2026-10-18",
-     "roundId": 1,
-     "round": "Q1",
-     "won": true,
-     "opponent": "Julianne Blackburn",
-     "score": "6-0 6-0"
-    },
-    {
-     "id": "124094606",
-     "date": "2026-10-19",
-     "roundId": 3,
-     "round": "Q3",
-     "won": false,
-     "opponent": "Victoria Hu",
-     "score": "2-6 6-2 6-1"
-    }
-   ],
-   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
@@ -5077,6 +4896,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "unc-w-p3": [
+  {
+   "key": "17316",
+   "name": "W50 Lexington",
+   "date": "2026-10-05",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "908806",
+     "date": "2026-10-05",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Helena Buchwald",
+     "score": "6-4 5-7 6-3"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "unc-w-p4": [
   {
    "key": "17316",
@@ -5100,26 +4941,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "usc-m-p3": [
-  {
-   "key": "22164",
-   "name": "M25 Santa Margherita di Pula",
-   "date": "2026-10-19",
-   "surface": "Clay",
-   "tier": "ITF",
-   "matches": [
-    {
-     "id": "157224402",
-     "date": "2026-10-20",
-     "roundId": 4,
-     "round": "First",
-     "won": true,
-     "opponent": "Michele Mecarelli",
-     "score": "6-1 6-2"
-    }
-   ],
-   "reached": "First",
-   "reachedTone": "neutral"
-  },
   {
    "key": "22149",
    "name": "M25 Santa Margherita di Pula",

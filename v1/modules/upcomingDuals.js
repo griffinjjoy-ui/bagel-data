@@ -617,23 +617,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
-  "id": "39EDD968-CEC6-4CF1-A9E7-FC7643B1FED3",
-  "date": "2027-01-23",
-  "dateTime": "2027-01-23T21:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": null,
-   "name": "California State University, Fresno",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "pac-w",
-   "name": "University Of The Pacific",
-   "side": 2
-  }
- },
- {
   "id": "6EC02305-C8B6-4E14-9C0D-B422F082A6B3",
   "date": "2027-01-23",
   "dateTime": "2027-01-23T22:00:00.000Z",
@@ -1025,23 +1008,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
-  "id": "1BC49B37-0C3F-438C-969E-020DF00A005D",
-  "date": "2027-01-30",
-  "dateTime": "2027-01-30T17:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": null,
-   "name": "California State University, Fresno",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "csuf-w",
-   "name": "California State University, Fullerton",
-   "side": 2
-  }
- },
- {
   "id": "14C53243-ED3E-4E1E-9143-F5FABF1430E3",
   "date": "2027-01-30",
   "dateTime": "2027-01-30T18:30:00.000Z",
@@ -1399,23 +1365,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
-  "id": "CBD4993A-E3BC-4472-8A02-F11424306F31",
-  "date": "2027-02-05",
-  "dateTime": "2027-02-05T23:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": null,
-   "name": "California State University, Fresno",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "scu-w",
-   "name": "Santa Clara University",
-   "side": 2
-  }
- },
- {
   "id": "DCBE0F27-ED91-42C5-BE3A-467C26378555",
   "date": "2027-02-06",
   "dateTime": "2027-02-06T05:00:00.000Z",
@@ -1701,23 +1650,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Sam Houston State Univ.",
-   "side": 2
-  }
- },
- {
-  "id": "2CDFC66D-B2B2-4BDE-AA97-A5FF02DD583C",
-  "date": "2027-02-07",
-  "dateTime": "2027-02-07T20:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": null,
-   "name": "California State University, Fresno",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "cpoly-w",
-   "name": "Cal Poly",
    "side": 2
   }
  },
@@ -2079,23 +2011,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
-  "id": "F59C996D-76DE-4BF9-A70E-19E431716A8F",
-  "date": "2027-02-17",
-  "dateTime": "2027-02-17T19:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": null,
-   "name": "California State University, Fresno",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "lbsu-w",
-   "name": "Long Beach State Univ.",
-   "side": 2
-  }
- },
- {
   "id": "AB6068B9-B963-44A3-9364-9A156AC6D81D",
   "date": "2027-02-17",
   "dateTime": "2027-02-17T20:00:00.000Z",
@@ -2143,23 +2058,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "lmu-w",
    "name": "Loyola Marymount University",
-   "side": 2
-  }
- },
- {
-  "id": "A94EA881-79BD-476C-AD9E-8D5B7004E9D4",
-  "date": "2027-02-18",
-  "dateTime": "2027-02-18T21:30:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": null,
-   "name": "California State University, Fresno",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "stan-w",
-   "name": "Stanford University",
    "side": 2
   }
  },
@@ -2606,23 +2504,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
-  "id": "678D973B-F40D-47BF-A459-FA59EE5E41CB",
-  "date": "2027-02-25",
-  "dateTime": "2027-02-25T21:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": null,
-   "name": "California State University, Fresno",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "ucd-w",
-   "name": "Univ. Of California, Davis",
-   "side": 2
-  }
- },
- {
   "id": "E70BE024-31CC-4ADD-8894-6CA9455C7429",
   "date": "2027-02-26",
   "dateTime": "2027-02-26T07:00:00.000Z",
@@ -2857,23 +2738,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Idaho State University",
-   "side": 2
-  }
- },
- {
-  "id": "8DA0185E-2569-4FB1-B8BA-F9A02B915328",
-  "date": "2027-02-28",
-  "dateTime": "2027-02-28T19:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": null,
-   "name": "California State University, Fresno",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "uci-w",
-   "name": "Univ. Of California, Irvine",
    "side": 2
   }
  },

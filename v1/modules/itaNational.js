@@ -935,7 +935,7 @@ export const teamNationalRanks = globalThis.__BAGEL_REMOTE__?.["itaNational"]?.t
  }
 };
 export const itaNationalMeta = globalThis.__BAGEL_REMOTE__?.["itaNational"]?.itaNationalMeta ?? {
- "fetchedAt": "2026-10-20T17:33:13.812Z",
+ "fetchedAt": "2026-10-16T17:03:51.064Z",
  "source": "ITA D1 national team rankings (Top 75) via the ITA public GraphQL (td_rankLists, national = no region)",
  "genders": {
   "M": {
