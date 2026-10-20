@@ -27,6 +27,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "ariz-m-fp226": [
   {
+   "key": "22107",
+   "name": "Guangzhou Challenger",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "141768009",
+     "date": "2026-10-20",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Ognjen Milic",
+     "score": "6-4 6-7(3) 7-6(5)"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22098",
    "name": "Jinan Challenger",
    "date": "2026-10-12",
@@ -245,6 +265,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "asu-m-p10": [
+  {
+   "key": "22172",
+   "name": "M15 Ithaca",
+   "date": "2026-10-19",
+   "surface": "I.hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "141770550",
+     "date": "2026-10-19",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Connor Plunkett",
+     "score": "6-1 1-6 10-8"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "asu-m-p5": [
   {
    "key": "22172",
@@ -375,6 +417,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Q3",
+   "reachedTone": "neutral"
+  }
+ ],
+ "aub-p3": [
+  {
+   "key": "17350",
+   "name": "W35 Bakersfield",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "124094676",
+     "date": "2026-10-19",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Natalie Kha",
+     "score": "7-6(2) 6-2"
+    }
+   ],
+   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],
@@ -640,6 +704,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "cal-w-p6": [
   {
+   "key": "17350",
+   "name": "W35 Bakersfield",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "124094675",
+     "date": "2026-10-19",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Francesca Mattioli",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17337",
    "name": "W35 Redding",
    "date": "2026-10-12",
@@ -706,6 +790,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "corn-m-p5": [
+  {
+   "key": "22172",
+   "name": "M15 Ithaca",
+   "date": "2026-10-19",
+   "surface": "I.hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "143175366",
+     "date": "2026-10-19",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Alejandro Jacome Jaramillo",
+     "score": "6-3 6-4"
+    }
+   ],
+   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],
@@ -803,9 +909,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Avery Alexander",
      "score": "6-4 6-4"
+    },
+    {
+     "id": "124094597",
+     "date": "2026-10-19",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Michika Ozeki",
+     "score": "6-2 6-1"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
@@ -1079,9 +1194,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Nalah Kaler",
      "score": "6-0 6-0"
+    },
+    {
+     "id": "124094609",
+     "date": "2026-10-19",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Nadia Lagaev",
+     "score": "6-4 6-2"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -1515,9 +1639,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Alec Braund",
      "score": "6-2 6-4"
+    },
+    {
+     "id": "141770114",
+     "date": "2026-10-19",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Ethan Cook",
+     "score": "6-4 6-3"
     }
    ],
-   "reached": "Q2",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -1750,6 +1883,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    ],
    "reached": "SF",
    "reachedTone": "green"
+  }
+ ],
+ "osu-w-p9": [
+  {
+   "key": "17349",
+   "name": "W50 Austin",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "122862810",
+     "date": "2026-10-19",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Barbora Palicova",
+     "score": "6-2 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
   }
  ],
  "ou-m-n4": [
@@ -2073,6 +2228,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "pepp-w-fp121": [
   {
+   "key": "17350",
+   "name": "W35 Bakersfield",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "124094677",
+     "date": "2026-10-19",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Addison Lanton",
+     "score": "3-6 6-4 10-4"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17337",
    "name": "W35 Redding",
    "date": "2026-10-12",
@@ -2145,6 +2320,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "pepp-w-p5": [
+  {
+   "key": "17350",
+   "name": "W35 Bakersfield",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "124094674",
+     "date": "2026-10-19",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Ekua Youri",
+     "score": "6-1 6-1"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17337",
    "name": "W35 Redding",
@@ -2480,9 +2675,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Marian Gomez Pezuela Cano",
      "score": "6-4 6-2"
+    },
+    {
+     "id": "124094656",
+     "date": "2026-10-19",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Sofia Elena Cabezas Dominguez",
+     "score": "1-6 6-3 6-1"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -3177,6 +3381,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "tcu-w-p10": [
+  {
+   "key": "17349",
+   "name": "W50 Austin",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94532528",
+     "date": "2026-10-18",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Varvara Lepchenko",
+     "score": "6-3 6-4"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "tenn-p2": [
   {
    "key": "17355",
@@ -3262,9 +3488,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Yu-Ching Wang",
      "score": "6-1 6-1"
+    },
+    {
+     "id": "124094776",
+     "date": "2026-10-19",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Angela Cui",
+     "score": "6-1 6-1"
     }
    ],
-   "reached": "Q2",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -3381,6 +3616,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tenn-p5": [
+  {
+   "key": "17350",
+   "name": "W35 Bakersfield",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "124094675",
+     "date": "2026-10-19",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Mao Mushika",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17320",
    "name": "W35 Las Vegas",
@@ -3524,6 +3779,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "tex-m-n3": [
   {
+   "key": "22104",
+   "name": "Lisbon Challenger",
+   "date": "2026-10-19",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "148792092",
+     "date": "2026-10-20",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Joao Domingues",
+     "score": "6-1 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22100",
    "name": "Maia Challenger",
    "date": "2026-10-12",
@@ -3643,6 +3918,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Iker Urribarrens Ramirez",
      "score": "6-3 3-6 10-8"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "tex-m-p11": [
+  {
+   "key": "22172",
+   "name": "M15 Ithaca",
+   "date": "2026-10-19",
+   "surface": "I.hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "141770556",
+     "date": "2026-10-19",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Daniel Kliebhan",
+     "score": "6-3 6-4"
     }
    ],
    "reached": "Q1",
@@ -3823,6 +4120,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tex-p4": [
+  {
+   "key": "17350",
+   "name": "W35 Bakersfield",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "124094682",
+     "date": "2026-10-19",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Juliana Nicole Singeorzan",
+     "score": "6-4 6-1"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17337",
    "name": "W35 Redding",
@@ -4284,9 +4601,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Jamilah Snells",
      "score": "7-5 6-2"
+    },
+    {
+     "id": "124094610",
+     "date": "2026-10-19",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Kallista Liu",
+     "score": "6-1 6-3"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
