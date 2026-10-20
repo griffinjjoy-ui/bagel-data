@@ -3507,6 +3507,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "B9EC91A0-9B6C-4ED3-A48C-A3690A4B9472",
+  "date": "2027-03-14",
+  "dateTime": "2027-03-14T08:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "California State University, Fresno",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "smc-w",
+   "name": "Saint Mary's College/CA",
+   "side": 2
+  }
+ },
+ {
   "id": "D332D66F-BB52-4655-8687-B079D631371B",
   "date": "2027-03-14",
   "dateTime": "2027-03-14T16:00:00.000Z",
@@ -4404,6 +4421,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "San Diego State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "1EB44372-10B5-416A-A7D1-B0B957C0EDB0",
+  "date": "2027-04-02",
+  "dateTime": "2027-04-02T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": null,
+   "name": "California State University, Fresno",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "wsu-w",
+   "name": "Washington State Univ.",
    "side": 2
   }
  },

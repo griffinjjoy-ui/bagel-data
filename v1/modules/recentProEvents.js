@@ -303,9 +303,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "William Robinson",
      "score": "6-3 6-1"
+    },
+    {
+     "id": "160035066",
+     "date": "2026-10-20",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Jonah Braswell",
+     "score": "6-2 6-1"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
@@ -840,9 +849,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Alejandro Jacome Jaramillo",
      "score": "6-3 6-4"
+    },
+    {
+     "id": "160035072",
+     "date": "2026-10-20",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Connor Plunkett",
+     "score": "6-2 6-2"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
@@ -971,9 +989,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Michika Ozeki",
      "score": "6-2 6-1"
+    },
+    {
+     "id": "141342904",
+     "date": "2026-10-20",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Anastasia Kulikova",
+     "score": "7-5 7-6(5)"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -1247,9 +1274,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Mathilde Ngijol-Carre",
      "score": "6-2 6-1"
+    },
+    {
+     "id": "141342960",
+     "date": "2026-10-20",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Iryna Shymanovich",
+     "score": "6-4 6-4"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -2261,6 +2297,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "ou-w-n3": [
   {
+   "key": "17349",
+   "name": "W50 Austin",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "141342985",
+     "date": "2026-10-20",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Thea Frodin",
+     "score": "6-3 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17332",
    "name": "W100 Edmond",
    "date": "2026-10-12",
@@ -2781,9 +2837,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Sofia Elena Cabezas Dominguez",
      "score": "1-6 6-3 6-1"
+    },
+    {
+     "id": "141342971",
+     "date": "2026-10-20",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Savannah Broadus",
+     "score": "6-4 6-2"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   },
   {
@@ -3346,9 +3411,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Michael Antonius",
      "score": "7-6(4) 3-6 7-6(4)"
+    },
+    {
+     "id": "160032352",
+     "date": "2026-10-20",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Darwin Blanch",
+     "score": "6-4 7-5"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -4037,9 +4111,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Daniel Kliebhan",
      "score": "6-3 6-4"
+    },
+    {
+     "id": "160035081",
+     "date": "2026-10-20",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Nathan Gold",
+     "score": "6-4 6-1"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
@@ -4572,9 +4655,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Lexington Reed",
      "score": "6-4 4-6 6-4"
+    },
+    {
+     "id": "141342986",
+     "date": "2026-10-20",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Elizabeth Mandlik",
+     "score": "6-4 6-4"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -4855,9 +4947,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Lazar Markovic",
      "score": "6-0 6-1"
+    },
+    {
+     "id": "160035068",
+     "date": "2026-10-20",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Ethan Muza",
+     "score": "6-1 6-2"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
