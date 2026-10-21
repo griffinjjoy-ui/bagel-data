@@ -3981,9 +3981,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Joao Domingues",
      "score": "6-1 6-3"
+    },
+    {
+     "id": "190949930",
+     "date": "2026-10-21",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Marco Cecchinato",
+     "score": "6-1 4-6 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {

@@ -23,5 +23,11 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "name": "2026 ITA DII Men's and Women's South Central Regional Championship",
     "start": "2026-10-22",
     "end": "2026-10-25"
+  },
+  {
+    "id": "6ad8c7b593eadd3547e09793",
+    "name": "ITA Patriot League Master Qualifier",
+    "start": "2026-10-23",
+    "end": "2026-10-25"
   }
 ];
