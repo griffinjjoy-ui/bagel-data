@@ -41,9 +41,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Ognjen Milic",
      "score": "6-4 6-7(3) 7-6(5)"
+    },
+    {
+     "id": "176895451",
+     "date": "2026-10-21",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "James McCabe",
+     "score": "4-6 7-6(1) 6-4"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -780,9 +789,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Francesca Mattioli",
      "score": "6-2 6-2"
+    },
+    {
+     "id": "153665345",
+     "date": "2026-10-20",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Sophie Suh",
+     "score": "6-4 6-4"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -1093,9 +1111,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Lily Fairclough",
      "score": "3-6 6-0 10-7"
+    },
+    {
+     "id": "153665357",
+     "date": "2026-10-20",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Camille Allegre",
+     "score": "6-2 6-3"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
@@ -2532,9 +2559,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Ekua Youri",
      "score": "6-1 6-1"
+    },
+    {
+     "id": "153665344",
+     "date": "2026-10-20",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Imogen Haddad",
+     "score": "0-6 7-5 13-11"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -2926,6 +2962,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "stan-m-fp374": [
+  {
+   "key": "22163",
+   "name": "M25 Mumbai",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "179708402",
+     "date": "2026-10-21",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "William Rejchtman Vinciguerra",
+     "score": "6-4 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "22146",
    "name": "M25 Solapur",
@@ -4276,9 +4332,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Juliana Nicole Singeorzan",
      "score": "6-4 6-1"
+    },
+    {
+     "id": "153665358",
+     "date": "2026-10-20",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Marianne Angel",
+     "score": "6-3 6-4"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -5310,6 +5375,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "wake-m-fp302": [
+  {
+   "key": "22163",
+   "name": "M25 Mumbai",
+   "date": "2026-10-19",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "179708389",
+     "date": "2026-10-21",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Grigoriy Lomakin",
+     "score": "6-0 6-0"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "22146",
    "name": "M25 Solapur",
