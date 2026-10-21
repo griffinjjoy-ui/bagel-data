@@ -873,6 +873,50 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "clem-m-p7": [
+  {
+   "key": "22172",
+   "name": "M15 Ithaca",
+   "date": "2026-10-19",
+   "surface": "I.hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "195169846",
+     "date": "2026-10-21",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Drew Van Orderlain",
+     "score": "7-5 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "corn-m-n2": [
+  {
+   "key": "22172",
+   "name": "M15 Ithaca",
+   "date": "2026-10-19",
+   "surface": "I.hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "195169862",
+     "date": "2026-10-21",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Vignesh Gogineni",
+     "score": "6-3 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "corn-m-p5": [
   {
    "key": "22172",
@@ -901,6 +945,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Q3",
+   "reachedTone": "neutral"
+  }
+ ],
+ "corn-m-p8": [
+  {
+   "key": "22172",
+   "name": "M15 Ithaca",
+   "date": "2026-10-19",
+   "surface": "I.hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "195169852",
+     "date": "2026-10-21",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Rodrigo Fernandes",
+     "score": "6-4 7-6(7)"
+    }
+   ],
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -1120,9 +1186,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Camille Allegre",
      "score": "6-2 6-3"
+    },
+    {
+     "id": "170919305",
+     "date": "2026-10-21",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Valeriya Strakhova",
+     "score": "2-3 ret."
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -1361,9 +1436,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Iryna Shymanovich",
      "score": "6-4 6-4"
+    },
+    {
+     "id": "170919284",
+     "date": "2026-10-21",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Rose Marie Nijkamp",
+     "score": "6-2 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -2926,9 +3010,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Savannah Broadus",
      "score": "6-4 6-2"
+    },
+    {
+     "id": "170919274",
+     "date": "2026-10-21",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Rebecca Munk Mortensen",
+     "score": "6-4 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -4146,9 +4239,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Nathan Gold",
      "score": "6-4 6-1"
+    },
+    {
+     "id": "195169864",
+     "date": "2026-10-21",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Benjamin Thomas George",
+     "score": "6-3 6-2"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -4548,9 +4650,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Lea Nilsson",
      "score": "1-6 7-6(3) 6-3"
+    },
+    {
+     "id": "170919284",
+     "date": "2026-10-21",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Ella Mcdonald",
+     "score": "6-2 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -5246,9 +5357,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Michele Mecarelli",
      "score": "6-1 6-2"
+    },
+    {
+     "id": "195169348",
+     "date": "2026-10-21",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Andrea De Marchi",
+     "score": "6-4 6-0"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -5472,9 +5592,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Max Hans Rehberg",
      "score": "6-2 6-1"
+    },
+    {
+     "id": "195166930",
+     "date": "2026-10-21",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Cosme Rolland De Ravel",
+     "score": "7-5 7-6(2)"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
