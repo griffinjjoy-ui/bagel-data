@@ -816,9 +816,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Drew Van Orderlain",
      "score": "7-5 6-3"
+    },
+    {
+     "id": "228909904",
+     "date": "2026-10-22",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Oliver Ojakaar",
+     "score": "7-6(4) 6-4"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -1294,9 +1303,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Andres Martin",
      "score": "3-6 7-6(6) 6-4"
+    },
+    {
+     "id": "228906793",
+     "date": "2026-10-22",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Igor Ribeiro Marcondes",
+     "score": "7-6(5) 7-5"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -3893,9 +3911,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Braden Shick",
      "score": "2-6 6-2 6-2"
+    },
+    {
+     "id": "230312886",
+     "date": "2026-10-22",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Alex Rybakov",
+     "score": "1-6 6-3 6-4"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -4160,9 +4187,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Benjamin Thomas George",
      "score": "6-3 6-2"
+    },
+    {
+     "id": "228909904",
+     "date": "2026-10-22",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Noa Vukadin",
+     "score": "7-6(4) 6-4"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -4963,9 +4999,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Matt Kuhar",
      "score": "6-2 6-4"
+    },
+    {
+     "id": "228909921",
+     "date": "2026-10-22",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Rodrigo Fernandes",
+     "score": "6-4 2-6 6-4"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -5023,9 +5068,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Tomasz Berkieta",
      "score": "6-3 3-6 7-6(1)"
+    },
+    {
+     "id": "228909922",
+     "date": "2026-10-22",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Rethin Pranav Senthil Kumar",
+     "score": "6-3 6-0"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -5105,9 +5159,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Jonah Braswell",
      "score": "7-5 6-2"
+    },
+    {
+     "id": "228909923",
+     "date": "2026-10-22",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Jack Anthrop",
+     "score": "6-0 3-6 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {

@@ -226,6 +226,40 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "A8DA07A7-6289-4AA2-8864-7B60287AA5F9",
+  "date": "2027-01-16",
+  "dateTime": "2027-01-16T18:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Southeast Missouri State Univ.",
+   "side": 2
+  }
+ },
+ {
+  "id": "8CC81D84-9A91-4608-8F80-FBE4B05E93F0",
+  "date": "2027-01-16",
+  "dateTime": "2027-01-16T22:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Valparaiso University",
+   "side": 2
+  }
+ },
+ {
   "id": "68A1F585-3787-49A5-9665-2835EEFBF9B5",
   "date": "2027-01-17",
   "dateTime": "2027-01-17T05:00:00.000Z",
@@ -477,6 +511,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "ala-w",
    "name": "University Of Alabama",
+   "side": 2
+  }
+ },
+ {
+  "id": "71C7C511-CDCF-4F79-ABB0-58052E6639E4",
+  "date": "2027-01-22",
+  "dateTime": "2027-01-22T19:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ncst-w",
+   "name": "North Carolina State Univ.",
    "side": 2
   }
  },
@@ -1212,6 +1263,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "BE164F7B-96BF-4481-9731-4380BFEEB358",
+  "date": "2027-01-31",
+  "dateTime": "2027-01-31T18:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "colum-w",
+   "name": "Columbia University",
+   "side": 2
+  }
+ },
+ {
   "id": "6D34DDDB-BE5C-4289-9084-DA9B5AAFDA50",
   "date": "2027-01-31",
   "dateTime": "2027-01-31T19:00:00.000Z",
@@ -1378,6 +1446,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "ucsd-w",
    "name": "University Of California, San Diego",
+   "side": 2
+  }
+ },
+ {
+  "id": "879F1356-9E1A-463F-92E3-37E01AFCD87A",
+  "date": "2027-02-05",
+  "dateTime": "2027-02-05T18:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Ball State University",
    "side": 2
   }
  },
@@ -1705,6 +1790,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "4671DF5F-DA2F-486F-8BEF-7BC1C8E962B3",
+  "date": "2027-02-07",
+  "dateTime": "2027-02-07T18:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "lou-w",
+   "name": "University Of Louisville",
+   "side": 2
+  }
+ },
+ {
   "id": "2CDFC66D-B2B2-4BDE-AA97-A5FF02DD583C",
   "date": "2027-02-07",
   "dateTime": "2027-02-07T20:00:00.000Z",
@@ -2028,6 +2130,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "79B039D9-3CA0-49B8-91F2-2F8D443D0FAA",
+  "date": "2027-02-14",
+  "dateTime": "2027-02-14T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "nd-w",
+   "name": "University of Notre Dame",
+   "side": 2
+  }
+ },
+ {
   "id": "BB0A1331-B747-41A5-BA85-2DBE7226C7B1",
   "date": "2027-02-14",
   "dateTime": "2027-02-14T18:00:00.000Z",
@@ -2262,6 +2381,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Univ. Of Massachusetts, Amherst",
+   "side": 2
+  }
+ },
+ {
+  "id": "39AAFCCD-4CDE-4C21-B602-74BFBA45B390",
+  "date": "2027-02-19",
+  "dateTime": "2027-02-19T22:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "James Madison University",
    "side": 2
   }
  },
@@ -2534,6 +2670,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "brown-w",
    "name": "Brown University",
+   "side": 2
+  }
+ },
+ {
+  "id": "84584F65-07D8-41F1-A16F-32CE1AF866DD",
+  "date": "2027-02-21",
+  "dateTime": "2027-02-21T18:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "isu-w",
+   "name": "Iowa State University",
    "side": 2
   }
  },
@@ -3048,6 +3201,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "35A8A84A-A1F6-49CB-BD62-05AB4423D081",
+  "date": "2027-03-05",
+  "dateTime": "2027-03-05T21:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "nw-w",
+   "name": "Northwestern University",
+   "side": 2
+  }
+ },
+ {
   "id": "5CA0BF60-652A-47EA-B239-ADEE07503863",
   "date": "2027-03-06",
   "dateTime": "2027-03-06T00:00:00.000Z",
@@ -3146,6 +3316,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "nd-m",
    "name": "University Of Notre Dame",
+   "side": 2
+  }
+ },
+ {
+  "id": "EA7C7428-717F-4C0C-AFDB-F70AF3624568",
+  "date": "2027-03-07",
+  "dateTime": "2027-03-07T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ill-w",
+   "name": "University Of Illinois",
    "side": 2
   }
  },
@@ -3439,6 +3626,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "81FAAB0E-4002-4F58-9C2D-46C7FC2649CA",
+  "date": "2027-03-13",
+  "dateTime": "2027-03-13T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "pur-w",
+   "name": "Purdue University",
+   "side": 2
+  }
+ },
+ {
   "id": "61276B70-831E-4C91-803D-92067FE8B3ED",
   "date": "2027-03-14",
   "dateTime": "2027-03-14T05:00:00.000Z",
@@ -3622,6 +3826,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "ucf-w",
    "name": "University Of Central Florida",
+   "side": 2
+  }
+ },
+ {
+  "id": "D7178423-3FA1-402D-BDAC-568F9485ED27",
+  "date": "2027-03-19",
+  "dateTime": "2027-03-19T05:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "wisc-w",
+   "name": "Univ. Of Wisconsin, Madison",
    "side": 2
   }
  },
@@ -3915,6 +4136,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "0E8F5507-5F7D-49C2-81DF-527E4A0827D7",
+  "date": "2027-03-21",
+  "dateTime": "2027-03-21T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "minn-w",
+   "name": "University Of Minnesota",
+   "side": 2
+  }
+ },
+ {
   "id": "FE017F83-4265-4779-88DB-238E2942DD61",
   "date": "2027-03-21",
   "dateTime": "2027-03-21T18:00:00.000Z",
@@ -4136,6 +4374,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "F9AAA840-FCD7-4155-AF06-0554BC69CA6A",
+  "date": "2027-03-26",
+  "dateTime": "2027-03-26T20:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "wash-w",
+   "name": "University Of Washington",
+   "side": 2
+  }
+ },
+ {
   "id": "113BE1A1-FA20-4B2D-8A12-5256F1FF2382",
   "date": "2027-03-26",
   "dateTime": "2027-03-26T23:30:00.000Z",
@@ -4306,6 +4561,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "BE06E9AD-47D8-4019-B302-DD9CD8E9CD2B",
+  "date": "2027-03-28",
+  "dateTime": "2027-03-28T16:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ore-w",
+   "name": "University Of Oregon",
+   "side": 2
+  }
+ },
+ {
   "id": "7F00A626-C1A8-411A-AA2B-2A6C28A73450",
   "date": "2027-04-01",
   "dateTime": "2027-04-01T04:00:00.000Z",
@@ -4370,6 +4642,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "ku-w",
    "name": "University Of Kansas",
+   "side": 2
+  }
+ },
+ {
+  "id": "3EDE9654-9080-40F5-967B-1874A807067C",
+  "date": "2027-04-02",
+  "dateTime": "2027-04-02T04:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "rut-w",
+   "name": "Rutgers University",
    "side": 2
   }
  },
@@ -4629,6 +4918,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "4DA38E61-FEB4-4132-987D-6984C08570BA",
+  "date": "2027-04-04",
+  "dateTime": "2027-04-04T15:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "umd-w",
+   "name": "University Of Maryland/College Park",
+   "side": 2
+  }
+ },
+ {
   "id": "C94B321E-58EC-4A8B-8335-311837CF6CD4",
   "date": "2027-04-04",
   "dateTime": "2027-04-04T17:00:00.000Z",
@@ -4778,6 +5084,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "cuse-w",
    "name": "Syracuse University",
+   "side": 2
+  }
+ },
+ {
+  "id": "B585F1CC-D3D3-47B2-8452-2BD25484A7FE",
+  "date": "2027-04-09",
+  "dateTime": "2027-04-09T21:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "neb-w",
+   "name": "University Of Nebraska",
    "side": 2
   }
  },
@@ -4986,6 +5309,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "F78EDEE7-695A-45A5-AF0D-A1BA903419F0",
+  "date": "2027-04-11",
+  "dateTime": "2027-04-11T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "iowa-w",
+   "name": "University Of Iowa",
+   "side": 2
+  }
+ },
+ {
   "id": "C2072B24-0C85-42A6-B372-90AB83D100EC",
   "date": "2027-04-11",
   "dateTime": "2027-04-11T18:30:00.000Z",
@@ -5139,6 +5479,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "3D0451AB-8189-474A-B885-1A88664FB8F4",
+  "date": "2027-04-17",
+  "dateTime": "2027-04-17T15:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ucla-w",
+   "name": "UCLA",
+   "side": 2
+  }
+ },
+ {
   "id": "DF70A152-E755-4903-A2A9-4CCBE2F12F9F",
   "date": "2027-04-17",
   "dateTime": "2027-04-17T17:00:00.000Z",
@@ -5254,6 +5611,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "lou-w",
    "name": "University Of Louisville",
+   "side": 2
+  }
+ },
+ {
+  "id": "EB13FA42-5E10-40C0-ACD5-A345BF93CBF7",
+  "date": "2027-04-18",
+  "dateTime": "2027-04-18T16:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "usc-w",
+   "name": "University Of Southern California",
    "side": 2
   }
  },
