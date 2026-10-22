@@ -29,5 +29,11 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "name": "ITA Patriot League Master Qualifier",
     "start": "2026-10-23",
     "end": "2026-10-25"
+  },
+  {
+    "id": "6ad9fbd993eadd3547161e40",
+    "name": "Georgia Southern Shootout",
+    "start": "2026-10-23",
+    "end": "2026-10-25"
   }
 ];

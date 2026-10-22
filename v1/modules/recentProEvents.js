@@ -1865,9 +1865,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Ethan Cook",
      "score": "6-4 6-3"
+    },
+    {
+     "id": "213443522",
+     "date": "2026-10-21",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Tai Sach",
+     "score": "6-7(5) 6-0 6-3"
     }
    ],
-   "reached": "Q3",
+   "reached": "First",
    "reachedTone": "neutral"
   },
   {
@@ -2955,9 +2964,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "William Rejchtman Vinciguerra",
      "score": "6-4 6-3"
+    },
+    {
+     "id": "217661304",
+     "date": "2026-10-22",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Samarth Sahita",
+     "score": "6-3 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -4770,9 +4788,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Mingge Xu",
      "score": "2-3 ret."
+    },
+    {
+     "id": "186943395",
+     "date": "2026-10-21",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Ayana Akli",
+     "score": "7-5 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -5416,9 +5443,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Grigoriy Lomakin",
      "score": "6-0 6-0"
+    },
+    {
+     "id": "213443729",
+     "date": "2026-10-22",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Chirag Duhan",
+     "score": "7-6(5) ret."
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
