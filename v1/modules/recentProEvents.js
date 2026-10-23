@@ -390,9 +390,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Ema Burgic Bucko",
      "score": "6-4 7-5"
+    },
+    {
+     "id": "21873639",
+     "date": "2026-10-23",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Vivian Wolff",
+     "score": "6-2 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -1113,9 +1122,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Valeriya Strakhova",
      "score": "2-3 ret."
+    },
+    {
+     "id": "21873651",
+     "date": "2026-10-22",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Edda Mamedova",
+     "score": "1-6 6-2 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -1292,9 +1310,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Igor Ribeiro Marcondes",
      "score": "7-6(5) 7-5"
+    },
+    {
+     "id": "23801011",
+     "date": "2026-10-23",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Gabriel Debru",
+     "score": "6-3 6-2"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -1401,10 +1428,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Rebecca Munk Mortensen",
      "score": "4-6 7-5 6-1"
+    },
+    {
+     "id": "21873584",
+     "date": "2026-10-23",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Anastasia Tikhonova",
+     "score": "6-2 3-6 6-2"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "lsu-p5": [
@@ -2218,9 +2254,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Nada Fouad",
      "score": "6-1 7-5"
+    },
+    {
+     "id": "21873651",
+     "date": "2026-10-22",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Jana Hossam Salah",
+     "score": "1-6 6-2 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -3778,9 +3823,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Alex Rybakov",
      "score": "1-6 6-3 6-4"
+    },
+    {
+     "id": "23801011",
+     "date": "2026-10-23",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Erik Arutiunian",
+     "score": "6-3 6-2"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -4063,9 +4117,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Noa Vukadin",
      "score": "7-6(4) 6-4"
+    },
+    {
+     "id": "25210566",
+     "date": "2026-10-23",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Alec Deckers",
+     "score": "6-4 7-6(3)"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -4920,9 +4983,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Rethin Pranav Senthil Kumar",
      "score": "6-3 6-0"
+    },
+    {
+     "id": "25210591",
+     "date": "2026-10-23",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Rodrigo Fernandes",
+     "score": "6-1 3-1 ret."
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -5440,9 +5512,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Cosme Rolland De Ravel",
      "score": "7-5 7-6(2)"
+    },
+    {
+     "id": "22394674",
+     "date": "2026-10-23",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Darwin Blanch",
+     "score": "6-3 6-4"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
