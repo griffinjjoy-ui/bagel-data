@@ -28,9 +28,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "James McCabe",
      "score": "4-6 7-6(1) 6-4"
+    },
+    {
+     "id": "8332287",
+     "date": "2026-10-23",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Chak Lam Coleman Wong",
+     "score": "7-6(5) 6-1"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -1812,9 +1821,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Tai Sach",
      "score": "6-7(5) 6-0 6-3"
+    },
+    {
+     "id": "9740615",
+     "date": "2026-10-23",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Stefan Vujic",
+     "score": "7-6(4) 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -2838,9 +2856,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Samarth Sahita",
      "score": "6-3 6-2"
+    },
+    {
+     "id": "9740853",
+     "date": "2026-10-23",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Garrett Johns",
+     "score": "7-6(7) 3-1 ret."
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -3853,9 +3880,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Marco Cecchinato",
      "score": "6-1 4-6 6-2"
+    },
+    {
+     "id": "12550706",
+     "date": "2026-10-23",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Marco Trungelliti",
+     "score": "6-4 6-2"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
