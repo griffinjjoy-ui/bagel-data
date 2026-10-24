@@ -399,9 +399,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Vivian Wolff",
      "score": "6-2 6-1"
+    },
+    {
+     "id": "34204783",
+     "date": "2026-10-23",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Lan Mi",
+     "score": "7-5 6-4"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -1111,9 +1120,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Edda Mamedova",
      "score": "1-6 6-2 6-3"
+    },
+    {
+     "id": "34204805",
+     "date": "2026-10-23",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Jenna Defalco",
+     "score": "7-6(4) 7-5"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -2812,10 +2830,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Nikola Slavic",
      "score": "6-1 7-6(4)"
+    },
+    {
+     "id": "44899039",
+     "date": "2026-10-18",
+     "roundId": 12,
+     "round": "Final",
+     "won": true,
+     "opponent": "Jack Anthrop",
+     "score": "2-6 7-5 6-2"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Title",
+   "reachedTone": "gold"
   }
  ],
  "tamu-p5": [

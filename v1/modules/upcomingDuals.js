@@ -5,6 +5,23 @@
 export const upcomingDualsFetchedAt = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upcomingDualsFetchedAt ?? "2026-10-24";
 export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upcomingDuals ?? [
  {
+  "id": "234E887A-F2F7-44FC-A659-A846608D4ABD",
+  "date": "2027-01-09",
+  "dateTime": "2027-01-09T02:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "wash-m",
+   "name": "University Of Washington",
+   "side": 2
+  }
+ },
+ {
   "id": "FBC126CC-2669-4C0B-BB3D-F5004E8AABF0",
   "date": "2027-01-09",
   "dateTime": "2027-01-09T15:00:00.000Z",
@@ -35,6 +52,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "UNC Asheville",
+   "side": 2
+  }
+ },
+ {
+  "id": "806C6E61-E54A-40AB-B8AE-AA164F55607D",
+  "date": "2027-01-10",
+  "dateTime": "2027-01-10T02:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "wash-m",
+   "name": "University Of Washington",
    "side": 2
   }
  },
@@ -256,6 +290,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Valparaiso University",
+   "side": 2
+  }
+ },
+ {
+  "id": "19BA9621-9B17-4EE6-B60F-C051637F8BAA",
+  "date": "2027-01-17",
+  "dateTime": "2027-01-17T02:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Hawaii Pacific University",
    "side": 2
   }
  },
@@ -1144,6 +1195,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "8FB0DA25-BFA5-4EFE-BEC1-9CB66A21E386",
+  "date": "2027-01-31",
+  "dateTime": "2027-01-31T02:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "byu-m",
+   "name": "Brigham Young University",
+   "side": 2
+  }
+ },
+ {
   "id": "D1DBC07E-E64A-4C22-BE30-AA9563BFCD3E",
   "date": "2027-01-31",
   "dateTime": "2027-01-31T05:00:00.000Z",
@@ -1331,6 +1399,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "A99821BC-1BDF-40B8-958E-A66512AF71D6",
+  "date": "2027-01-31",
+  "dateTime": "2027-01-31T21:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "smc-m",
+   "name": "Saint Mary's College/CA",
+   "side": 2
+  }
+ },
+ {
   "id": "789B5428-3D11-4CC8-AD46-A1860529F73B",
   "date": "2027-01-31",
   "dateTime": "2027-01-31T22:00:00.000Z",
@@ -1344,6 +1429,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "neb-w",
    "name": "University Of Nebraska",
+   "side": 2
+  }
+ },
+ {
+  "id": "BA31BAF8-1754-49D5-82D8-CF78C43C49BA",
+  "date": "2027-02-01",
+  "dateTime": "2027-02-01T03:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Linfield University",
    "side": 2
   }
  },
@@ -2181,6 +2283,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "915B48A1-9218-4AE7-822C-83DCE11CCDC4",
+  "date": "2027-02-15",
+  "dateTime": "2027-02-15T02:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Westmont College",
+   "side": 2
+  }
+ },
+ {
   "id": "D5C1D115-32FE-4FEA-9809-C54D86220A36",
   "date": "2027-02-15",
   "dateTime": "2027-02-15T19:00:00.000Z",
@@ -2759,6 +2878,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "A37F4B32-B1C5-4F9E-A2D7-490621BC0071",
+  "date": "2027-02-25",
+  "dateTime": "2027-02-25T08:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "pac-m",
+   "name": "University Of The Pacific",
+   "side": 2
+  }
+ },
+ {
   "id": "678D973B-F40D-47BF-A459-FA59EE5E41CB",
   "date": "2027-02-25",
   "dateTime": "2027-02-25T21:00:00.000Z",
@@ -2929,6 +3065,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "14B56E73-A572-456A-8157-6578E59D22F6",
+  "date": "2027-02-27",
+  "dateTime": "2027-02-27T22:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ucr-m",
+   "name": "University Of California, Riverside",
+   "side": 2
+  }
+ },
+ {
   "id": "34E59C60-23AC-4665-B9A8-1EDA719FA22D",
   "date": "2027-02-28",
   "dateTime": "2027-02-28T05:00:00.000Z",
@@ -3044,6 +3197,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "wisc-m",
    "name": "Univ. Of Wisconsin, Madison",
+   "side": 2
+  }
+ },
+ {
+  "id": "B57278E4-8FD4-48E7-AAFA-1F4CA4AA67B1",
+  "date": "2027-02-28",
+  "dateTime": "2027-02-28T22:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ucsd-m",
+   "name": "University Of California, San Diego",
    "side": 2
   }
  },
@@ -3473,6 +3643,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "709B8D22-B5A6-456C-8E1A-3ADE796DA813",
+  "date": "2027-03-12",
+  "dateTime": "2027-03-12T02:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Creighton University",
+   "side": 2
+  }
+ },
+ {
   "id": "0E60A6AC-8453-4B32-A95D-C8FC4BF2694F",
   "date": "2027-03-12",
   "dateTime": "2027-03-12T05:00:00.000Z",
@@ -3779,6 +3966,40 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "5939DEDE-B41F-471C-A79E-D5B366AC95CC",
+  "date": "2027-03-16",
+  "dateTime": "2027-03-16T16:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Boise State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "85C12BA9-4AAC-4C21-AE21-6BF8749518F1",
+  "date": "2027-03-16",
+  "dateTime": "2027-03-16T21:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Idaho State University",
+   "side": 2
+  }
+ },
+ {
   "id": "259AC8EC-8177-49E7-9003-61A2038EF58F",
   "date": "2027-03-17",
   "dateTime": "2027-03-17T18:00:00.000Z",
@@ -3928,6 +4149,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "unc-m",
    "name": "UNC Chapel Hill",
+   "side": 2
+  }
+ },
+ {
+  "id": "36C092F1-1C7A-4BAD-8F03-97DF55AC69F1",
+  "date": "2027-03-19",
+  "dateTime": "2027-03-19T21:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "lmu-m",
+   "name": "Loyola Marymount University",
    "side": 2
   }
  },
@@ -4166,6 +4404,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "ucsd-w",
    "name": "University Of California, San Diego",
+   "side": 2
+  }
+ },
+ {
+  "id": "EF0D73D6-0083-4332-A18A-A71212A6F836",
+  "date": "2027-03-21",
+  "dateTime": "2027-03-21T21:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "uci-m",
+   "name": "Univ. Of California, Irvine",
    "side": 2
   }
  },
@@ -4765,6 +5020,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "1A92D2E0-3973-4358-9801-A3E4694CD598",
+  "date": "2027-04-03",
+  "dateTime": "2027-04-03T02:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ucd-m",
+   "name": "Univ. Of California, Davis",
+   "side": 2
+  }
+ },
+ {
   "id": "B929FAD5-4FC7-4805-9D28-D7412E106814",
   "date": "2027-04-03",
   "dateTime": "2027-04-03T04:00:00.000Z",
@@ -4969,6 +5241,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "9C78352C-FFCB-4B01-AD0A-E319E7AA0561",
+  "date": "2027-04-05",
+  "dateTime": "2027-04-05T02:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "U.S. Air Force Academy",
+   "side": 2
+  }
+ },
+ {
   "id": "5BFCDE2B-7E3F-4992-9CD6-ED2ED7ABCABB",
   "date": "2027-04-08",
   "dateTime": "2027-04-08T06:00:00.000Z",
@@ -5084,6 +5373,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "cuse-w",
    "name": "Syracuse University",
+   "side": 2
+  }
+ },
+ {
+  "id": "24FC6F6E-7E44-4BDD-BD38-78B8751970FF",
+  "date": "2027-04-09",
+  "dateTime": "2027-04-09T20:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Grand Canyon University",
    "side": 2
   }
  },
@@ -5326,6 +5632,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "F519CA71-4301-4BA0-A0DA-775853BE3E56",
+  "date": "2027-04-11",
+  "dateTime": "2027-04-11T18:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "University Of Nevada",
+   "side": 2
+  }
+ },
+ {
   "id": "C2072B24-0C85-42A6-B372-90AB83D100EC",
   "date": "2027-04-11",
   "dateTime": "2027-04-11T18:30:00.000Z",
@@ -5530,6 +5853,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "396A1927-700A-4558-81A2-D377FB0C2BF3",
+  "date": "2027-04-18",
+  "dateTime": "2027-04-18T02:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "University Of New Mexico",
+   "side": 2
+  }
+ },
+ {
   "id": "12CF197E-B285-4C72-9515-8BC59DBB22C6",
   "date": "2027-04-18",
   "dateTime": "2027-04-18T04:00:00.000Z",
@@ -5662,6 +6002,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "brown-w",
    "name": "Brown University",
+   "side": 2
+  }
+ },
+ {
+  "id": "BB1FDB32-D3AD-4115-BBC6-234FACABF777",
+  "date": "2027-04-25",
+  "dateTime": "2027-04-25T06:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Univ. Of Nevada, Las Vegas",
    "side": 2
   }
  },
