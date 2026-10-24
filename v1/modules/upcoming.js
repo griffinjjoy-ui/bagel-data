@@ -4,238 +4,6 @@
 // time, null when unannounced). Consumers go through upcomingFeed.js.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
-  "playerId": "aub-p1",
-  "name": "Yara Bartashevich",
-  "teamId": "aub-w",
-  "gender": "women",
-  "opponent": "Lan Mi",
-  "opponentKey": 68334,
-  "opponentPid": "corn-w-h13",
-  "opponentCountry": "China",
-  "event": "W35 Bakersfield",
-  "eventRaw": "W35 Bakersfield, CA",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": null,
-  "date": "2026-10-23",
-  "at": "2026-10-23T21:00:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "5",
-     "7"
-    ],
-    [
-     "3",
-     "4"
-    ]
-   ],
-   "game": "15 - 15"
-  },
-  "matchKey": 12173839,
-  "tournamentKey": 11846,
-  "day": "today"
- },
- {
-  "playerId": "corn-w-h13",
-  "name": "Lan Mi",
-  "teamId": "corn-w",
-  "gender": "women",
-  "opponent": "Yara Bartashevich",
-  "opponentKey": 9169,
-  "opponentPid": "aub-p1",
-  "opponentCountry": "France",
-  "event": "W35 Bakersfield",
-  "eventRaw": "W35 Bakersfield, CA",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": null,
-  "date": "2026-10-23",
-  "at": "2026-10-23T21:00:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "5",
-     "7"
-    ],
-    [
-     "3",
-     "4"
-    ]
-   ],
-   "game": "15 - 15"
-  },
-  "matchKey": 12173839,
-  "tournamentKey": 11846,
-  "day": "today"
- },
- {
-  "playerId": "aub-w-h7",
-  "name": "Ariana Arseneault",
-  "teamId": "aub-w",
-  "gender": "women",
-  "opponent": "Sarah Saito",
-  "opponentKey": 7486,
-  "opponentPid": null,
-  "opponentCountry": "Japan",
-  "event": "W75 Saguenay",
-  "eventRaw": "W75 Saguenay",
-  "level": "W75",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "QF",
-  "date": "2026-10-23",
-  "at": "2026-10-23T22:40:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "2",
-     "6"
-    ]
-   ],
-   "game": "0 - 0"
-  },
-  "matchKey": 12173681,
-  "tournamentKey": 13364,
-  "day": "today"
- },
- {
-  "playerId": "wash-w-h7",
-  "name": "Hikaru Sato",
-  "teamId": "wash-w",
-  "gender": "women",
-  "opponent": "Mio Mushika",
-  "opponentKey": 10893,
-  "opponentPid": null,
-  "opponentCountry": "Japan",
-  "event": "W35 Sydney",
-  "eventRaw": "W35 Sydney (Australia)",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "SF",
-  "date": "2026-10-23",
-  "at": "2026-10-23T23:00:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "0",
-     "0"
-    ]
-   ],
-   "game": "0 - 0"
-  },
-  "matchKey": 12173680,
-  "tournamentKey": 14770,
-  "day": "today"
- },
- {
-  "playerId": "fla-w-n1",
-  "name": "Jana Hossam Salah",
-  "teamId": "fla-w",
-  "gender": "women",
-  "opponent": "Jenna Defalco",
-  "opponentKey": 13650,
-  "opponentPid": null,
-  "opponentCountry": "USA",
-  "event": "W35 Bakersfield",
-  "eventRaw": "W35 Bakersfield, CA",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "QF",
-  "date": "2026-10-23",
-  "at": "2026-10-23T23:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12173830,
-  "tournamentKey": 11846,
-  "day": "today"
- },
- {
-  "playerId": "ariz-m-h1",
-  "name": "Herman Hoeyeraal",
-  "teamId": "ariz-m",
-  "gender": "men",
-  "opponent": "Blake Ellis",
-  "opponentKey": 7890,
-  "opponentPid": null,
-  "opponentCountry": "Australia",
-  "event": "M25 Tamworth",
-  "eventRaw": "M25 Tamworth",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "QF",
-  "date": "2026-10-23",
-  "at": "2026-10-23T23:10:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "1",
-     "0"
-    ]
-   ],
-   "game": "0 - 0"
-  },
-  "matchKey": 12173700,
-  "tournamentKey": 13002,
-  "day": "today"
- },
- {
-  "playerId": "okst-m-h5",
-  "name": "Isaac Becroft",
-  "teamId": "okst-m",
-  "gender": "men",
-  "opponent": "Casey Hoole",
-  "opponentKey": 15311,
-  "opponentPid": null,
-  "opponentCountry": "Australia",
-  "event": "M25 Tamworth",
-  "eventRaw": "M25 Tamworth",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "SF",
-  "date": "2026-10-24",
-  "at": "2026-10-24T00:10:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12173708,
-  "tournamentKey": 13002,
-  "day": "tomorrow"
- },
- {
-  "playerId": "ncst-m-h5",
-  "name": "Luca Staeheli",
-  "teamId": "ncst-m",
-  "gender": "men",
-  "opponent": "Boris Butulija",
-  "opponentKey": 1281,
-  "opponentPid": null,
-  "opponentCountry": "Serbia",
-  "event": "M15 Shenzhen",
-  "eventRaw": "M15 Shenzhen (China)",
-  "level": "M15",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "SF",
-  "date": "2026-10-24",
-  "at": "2026-10-24T02:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12173706,
-  "tournamentKey": 14769,
-  "day": "tomorrow"
- },
- {
   "playerId": "ucla-w-h8",
   "name": "Ena Shibahara",
   "teamId": "ucla-w",
@@ -251,12 +19,28 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "qualifying": true,
   "round": "SF",
   "date": "2026-10-24",
-  "at": "2026-10-24T03:00:00Z",
-  "status": "scheduled",
-  "score": null,
+  "at": "2026-10-24T03:25:00Z",
+  "status": "live",
+  "score": {
+   "sets": [
+    [
+     "6",
+     "2"
+    ],
+    [
+     "6.7",
+     "7.9"
+    ],
+    [
+     "6.3",
+     "6.3"
+    ]
+   ],
+   "game": "3 - 3"
+  },
   "matchKey": 12173716,
   "tournamentKey": 3076,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "duke-m-h2",
@@ -274,12 +58,24 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "qualifying": false,
   "round": "SF",
   "date": "2026-10-24",
-  "at": "2026-10-24T04:00:00Z",
-  "status": "scheduled",
-  "score": null,
+  "at": "2026-10-24T04:20:00Z",
+  "status": "live",
+  "score": {
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "3",
+     "2"
+    ]
+   ],
+   "game": "A - 40"
+  },
   "matchKey": 12173698,
   "tournamentKey": 14776,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "uga-m-p1",
@@ -302,7 +98,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "score": null,
   "matchKey": 12173770,
   "tournamentKey": 8102,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "wake-m-h17",
@@ -325,30 +121,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "score": null,
   "matchKey": 12173793,
   "tournamentKey": 4145,
-  "day": "tomorrow"
- },
- {
-  "playerId": "uga-m-h5",
-  "name": "Philip Henning",
-  "teamId": "uga-m",
-  "gender": "men",
-  "opponent": "Adrien Gobat",
-  "opponentKey": 13854,
-  "opponentPid": null,
-  "opponentCountry": "France",
-  "event": "M25 Sarreguemines",
-  "eventRaw": "M25 Sarreguemines",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "SF",
-  "date": "2026-10-24",
-  "at": "2026-10-24T08:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12173806,
-  "tournamentKey": 4846,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "tcu-w-h2",
@@ -371,7 +144,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "score": null,
   "matchKey": 12173765,
   "tournamentKey": 13552,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "ucla-m-h13",
@@ -394,7 +167,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "score": null,
   "matchKey": 12173808,
   "tournamentKey": 1706,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "usc-m-h13",
@@ -417,7 +190,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "score": null,
   "matchKey": 12173808,
   "tournamentKey": 1706,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "tcu-m-h1",
@@ -440,7 +213,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "score": null,
   "matchKey": 12173815,
   "tournamentKey": 1684,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "ncst-w-h8",
@@ -463,30 +236,76 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "score": null,
   "matchKey": 12173774,
   "tournamentKey": 10180,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
-  "playerId": "unc-w-p2",
-  "name": "Reese Brantmeier",
-  "teamId": "unc-w",
-  "gender": "women",
-  "opponent": "Hiromi Abe",
-  "opponentKey": 14313,
+  "playerId": "usd-m-p8",
+  "name": "Oliver Tarvet",
+  "teamId": "usd-m",
+  "gender": "men",
+  "opponent": "Paul Jubb",
+  "opponentKey": 385,
   "opponentPid": null,
-  "opponentCountry": "Japan",
-  "event": "W75 Saguenay",
-  "eventRaw": "W75 Saguenay",
-  "level": "W75",
-  "tour": "wta",
+  "opponentCountry": "United Kingdom",
+  "event": "M25 Redbridge",
+  "eventRaw": "M25 Redbridge (United Kingdom)",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "F",
+  "date": "2026-10-24",
+  "at": "2026-10-24T09:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12173784,
+  "tournamentKey": 14781,
+  "day": "today"
+ },
+ {
+  "playerId": "uga-m-h5",
+  "name": "Philip Henning",
+  "teamId": "uga-m",
+  "gender": "men",
+  "opponent": "Adrien Gobat",
+  "opponentKey": 13854,
+  "opponentPid": null,
+  "opponentCountry": "France",
+  "event": "M25 Sarreguemines",
+  "eventRaw": "M25 Sarreguemines",
+  "level": "M25",
+  "tour": "atp",
   "qualifying": false,
   "round": "SF",
   "date": "2026-10-24",
-  "at": "2026-10-24T14:00:00Z",
+  "at": "2026-10-24T12:30:00Z",
   "status": "scheduled",
   "score": null,
-  "matchKey": 12173827,
-  "tournamentKey": 13364,
-  "day": "tomorrow"
+  "matchKey": 12173806,
+  "tournamentKey": 4846,
+  "day": "today"
+ },
+ {
+  "playerId": "ou-w-h9",
+  "name": "Florencia Urrutia",
+  "teamId": "ou-w",
+  "gender": "women",
+  "opponent": "Justina Maria Gonzalez Daniele",
+  "opponentKey": 53436,
+  "opponentPid": null,
+  "opponentCountry": "Argentina",
+  "event": "W15 Campina Grande",
+  "eventRaw": "W15 Campina Grande (Brazil)",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-10-24",
+  "at": "2026-10-24T14:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12173869,
+  "tournamentKey": 14784,
+  "day": "today"
  },
  {
   "playerId": "tex-m-p11",
@@ -509,53 +328,30 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "score": null,
   "matchKey": 12173846,
   "tournamentKey": 4728,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
-  "playerId": "osu-m-fp278",
-  "name": "Jack Anthrop",
-  "teamId": "osu-m",
-  "gender": "men",
-  "opponent": "Rafael Ymer",
-  "opponentKey": 52076,
+  "playerId": "unc-w-p2",
+  "name": "Reese Brantmeier",
+  "teamId": "unc-w",
+  "gender": "women",
+  "opponent": "Hiromi Abe",
+  "opponentKey": 14313,
   "opponentPid": null,
-  "opponentCountry": "Sweden",
-  "event": "M15 Ithaca",
-  "eventRaw": "M15 Ithaca, NY",
-  "level": "M15",
-  "tour": "atp",
+  "opponentCountry": "Japan",
+  "event": "W75 Saguenay",
+  "eventRaw": "W75 Saguenay",
+  "level": "W75",
+  "tour": "wta",
   "qualifying": false,
-  "round": null,
+  "round": "SF",
   "date": "2026-10-24",
-  "at": "2026-10-24T16:30:00Z",
+  "at": "2026-10-24T16:00:00Z",
   "status": "scheduled",
   "score": null,
-  "matchKey": 12173859,
-  "tournamentKey": 4728,
-  "day": "tomorrow"
- },
- {
-  "playerId": "usd-m-p8",
-  "name": "Oliver Tarvet",
-  "teamId": "usd-m",
-  "gender": "men",
-  "opponent": "Paul Jubb",
-  "opponentKey": 385,
-  "opponentPid": null,
-  "opponentCountry": "United Kingdom",
-  "event": "M25 Redbridge",
-  "eventRaw": "M25 Redbridge (United Kingdom)",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "F",
-  "date": "2026-10-25",
-  "at": "2026-10-25T10:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12173784,
-  "tournamentKey": 14781,
-  "day": null
+  "matchKey": 12173827,
+  "tournamentKey": 13364,
+  "day": "today"
  },
  {
   "playerId": "lsu-p1",
@@ -571,145 +367,116 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "level": "W50",
   "tour": "wta",
   "qualifying": false,
-  "round": null,
-  "date": "2026-10-25",
-  "at": "2026-10-25T15:00:00Z",
+  "round": "F",
+  "date": "2026-10-24",
+  "at": "2026-10-24T16:00:00Z",
   "status": "scheduled",
   "score": null,
   "matchKey": 12173828,
   "tournamentKey": 12040,
-  "day": null
- }
-];
-
-export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomingDoubles ?? [
- {
-  "playerIds": [
-   "lou-m-h7"
-  ],
-  "names": [
-   "Natan Rodrigues"
-  ],
-  "teamIds": [
-   "lou-m"
-  ],
-  "gender": "men",
-  "partner": "B. Oliveira",
-  "opponents": "Federico Zeballos / M. Zormann Da Silva",
-  "event": "Cali Challenger",
-  "eventRaw": "Cali",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "SF",
-  "date": "2026-10-23",
-  "at": "2026-10-23T23:05:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12173855,
-  "tournamentKey": 7332,
   "day": "today"
  },
  {
-  "playerIds": [
-   "corn-w-h13",
-   "cal-w-p6"
-  ],
-  "names": [
-   "Lan Mi",
-   "Mao Mushika"
-  ],
-  "teamIds": [
-   "corn-w",
-   "cal-w"
-  ],
+  "playerId": "osu-m-fp278",
+  "name": "Jack Anthrop",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Rafael Ymer",
+  "opponentKey": 52076,
+  "opponentPid": null,
+  "opponentCountry": "Sweden",
+  "event": "M15 Ithaca",
+  "eventRaw": "M15 Ithaca, NY",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "SF",
+  "date": "2026-10-24",
+  "at": "2026-10-24T16:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12173859,
+  "tournamentKey": 4728,
+  "day": "today"
+ },
+ {
+  "playerId": "corn-w-h13",
+  "name": "Lan Mi",
+  "teamId": "corn-w",
   "gender": "women",
-  "partner": null,
-  "opponents": "Ema Burgic / Briana Szabo",
+  "opponent": "Jenna Defalco",
+  "opponentKey": 13650,
+  "opponentPid": null,
+  "opponentCountry": "USA",
   "event": "W35 Bakersfield",
   "eventRaw": "W35 Bakersfield, CA",
   "level": "W35",
   "tour": "wta",
   "qualifying": false,
-  "round": "SF",
-  "date": "2026-10-23",
-  "at": "2026-10-23T23:30:00Z",
+  "round": null,
+  "date": "2026-10-24",
+  "at": "2026-10-24T17:00:00Z",
   "status": "scheduled",
   "score": null,
-  "matchKey": 12173829,
-  "tournamentKey": 11847,
+  "matchKey": 12173874,
+  "tournamentKey": 11846,
   "day": "today"
  },
  {
-  "playerIds": [
-   "sc-w-h2",
-   "usc-w-h12"
-  ],
-  "names": [
-   "Ayana Akli",
-   "Madison Sieg"
-  ],
-  "teamIds": [
-   "sc-w",
-   "usc-w"
-  ],
+  "playerId": "aub-w-h7",
+  "name": "Ariana Arseneault",
+  "teamId": "aub-w",
   "gender": "women",
-  "partner": null,
-  "opponents": "Michaela Bayerlova / Jasmijn Gimbrere",
+  "opponent": "Yuka Naito",
+  "opponentKey": 475,
+  "opponentPid": null,
+  "opponentCountry": "Japan",
   "event": "W75 Saguenay",
   "eventRaw": "W75 Saguenay",
   "level": "W75",
   "tour": "wta",
   "qualifying": false,
   "round": "SF",
-  "date": "2026-10-23",
-  "at": "2026-10-23T23:40:00Z",
+  "date": "2026-10-24",
+  "at": "2026-10-24T17:30:00Z",
   "status": "scheduled",
   "score": null,
-  "matchKey": 12173644,
-  "tournamentKey": 13365,
+  "matchKey": 12173865,
+  "tournamentKey": 13364,
   "day": "today"
  },
  {
-  "playerIds": [
-   "wsu-w-h7"
-  ],
-  "names": [
-   "Michaela Bayerlova"
-  ],
-  "teamIds": [
-   "wsu-w"
-  ],
-  "gender": "women",
-  "partner": "Jasmijn Gimbrere",
-  "opponents": "Ayana Akli / Madison Sieg",
-  "event": "W75 Saguenay",
-  "eventRaw": "W75 Saguenay",
-  "level": "W75",
-  "tour": "wta",
+  "playerId": "tex-m-n1",
+  "name": "Gabriel Debru",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Jenson Brooksby",
+  "opponentKey": 2169,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "Fort Worth Challenger",
+  "eventRaw": "Fort Worth (Usa)",
+  "level": null,
+  "tour": "atp",
   "qualifying": false,
   "round": "SF",
-  "date": "2026-10-23",
-  "at": "2026-10-23T23:40:00Z",
+  "date": "2026-10-24",
+  "at": "2026-10-24T21:30:00Z",
   "status": "scheduled",
   "score": null,
-  "matchKey": 12173644,
-  "tournamentKey": 13365,
+  "matchKey": 12173861,
+  "tournamentKey": 14766,
   "day": "today"
  },
  {
-  "playerIds": [
-   "wash-w-h7"
-  ],
-  "names": [
-   "Hikaru Sato"
-  ],
-  "teamIds": [
-   "wash-w"
-  ],
+  "playerId": "wash-w-h7",
+  "name": "Hikaru Sato",
+  "teamId": "wash-w",
   "gender": "women",
-  "partner": "M. Barry",
-  "opponents": "Amy Stevens / B. Thompson",
+  "opponent": "Wen Wan I",
+  "opponentKey": 63417,
+  "opponentPid": null,
+  "opponentCountry": "Taiwan",
   "event": "W35 Sydney",
   "eventRaw": "W35 Sydney (Australia)",
   "level": "W35",
@@ -717,40 +484,16 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "qualifying": false,
   "round": "F",
   "date": "2026-10-24",
-  "at": "2026-10-24T01:00:00Z",
+  "at": "2026-10-24T23:00:00Z",
   "status": "scheduled",
   "score": null,
-  "matchKey": 12173685,
-  "tournamentKey": 14772,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "van-w-h3"
-  ],
-  "names": [
-   "Amy Stevens"
-  ],
-  "teamIds": [
-   "van-w"
-  ],
-  "gender": "women",
-  "partner": "B. Thompson",
-  "opponents": "M. Barry / Hikaru Sato",
-  "event": "W35 Sydney",
-  "eventRaw": "W35 Sydney (Australia)",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "F",
-  "date": "2026-10-24",
-  "at": "2026-10-24T01:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12173685,
-  "tournamentKey": 14772,
-  "day": "tomorrow"
- },
+  "matchKey": 12173866,
+  "tournamentKey": 14770,
+  "day": "today"
+ }
+];
+
+export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomingDoubles ?? [
  {
   "playerIds": [
    "okst-m-h5",
@@ -774,66 +517,20 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "qualifying": false,
   "round": "QF",
   "date": "2026-10-24",
-  "at": "2026-10-24T02:00:00Z",
-  "status": "scheduled",
-  "score": null,
+  "at": "2026-10-24T05:30:00Z",
+  "status": "live",
+  "score": {
+   "sets": [
+    [
+     "3",
+     "2"
+    ]
+   ],
+   "game": "0 - 0"
+  },
   "matchKey": 12173709,
   "tournamentKey": 13003,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "isu-w-h3"
-  ],
-  "names": [
-   "Thasaporn Naklo"
-  ],
-  "teamIds": [
-   "isu-w"
-  ],
-  "gender": "women",
-  "partner": "Aunchisa Chanta",
-  "opponents": "F. A. Lin / Jia-Jing Lu",
-  "event": "W15 Singapore",
-  "eventRaw": "W15 Singapore 3 (Singapore)",
-  "level": "W15",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "F",
-  "date": "2026-10-24",
-  "at": "2026-10-24T04:30:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12173767,
-  "tournamentKey": 14779,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "pepp-w-h4"
-  ],
-  "names": [
-   "Janice Tjen"
-  ],
-  "teamIds": [
-   "pepp-w"
-  ],
-  "gender": "women",
-  "partner": "S. Hunter",
-  "opponents": "Jesika Maleckova / M. Skoch",
-  "event": "Japan Open - Osaka",
-  "eventRaw": "Osaka",
-  "level": null,
-  "tour": "wta",
-  "qualifying": false,
-  "round": "F",
-  "date": "2026-10-24",
-  "at": "2026-10-24T06:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12173723,
-  "tournamentKey": 8657,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerIds": [
@@ -860,7 +557,69 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "score": null,
   "matchKey": 12173732,
   "tournamentKey": 11900,
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "isu-w-h3"
+  ],
+  "names": [
+   "Thasaporn Naklo"
+  ],
+  "teamIds": [
+   "isu-w"
+  ],
+  "gender": "women",
+  "partner": "Aunchisa Chanta",
+  "opponents": "F. A. Lin / Jia-Jing Lu",
+  "event": "W15 Singapore",
+  "eventRaw": "W15 Singapore 3 (Singapore)",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "F",
+  "date": "2026-10-24",
+  "at": "2026-10-24T06:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12173767,
+  "tournamentKey": 14779,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "pepp-w-h4"
+  ],
+  "names": [
+   "Janice Tjen"
+  ],
+  "teamIds": [
+   "pepp-w"
+  ],
+  "gender": "women",
+  "partner": "S. Hunter",
+  "opponents": "Jesika Maleckova / M. Skoch",
+  "event": "Japan Open - Osaka",
+  "eventRaw": "Osaka",
+  "level": null,
+  "tour": "wta",
+  "qualifying": false,
+  "round": "F",
+  "date": "2026-10-24",
+  "at": "2026-10-24T07:00:00Z",
+  "status": "live",
+  "score": {
+   "sets": [
+    [
+     "3",
+     "2"
+    ]
+   ],
+   "game": "15 - 0"
+  },
+  "matchKey": 12173723,
+  "tournamentKey": 8657,
+  "day": "today"
  },
  {
   "playerIds": [
@@ -887,11 +646,152 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "score": null,
   "matchKey": 12173710,
   "tournamentKey": 9055,
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "van-m-p3",
+   "tex-m-p11"
+  ],
+  "names": [
+   "Nathan Cox",
+   "Oliver Ojakaar"
+  ],
+  "teamIds": [
+   "van-m",
+   "tex-m"
+  ],
+  "gender": "men",
+  "partner": null,
+  "opponents": " / Zsombor Velcz",
+  "event": "M15 Ithaca",
+  "eventRaw": "M15 Ithaca, NY",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "F",
+  "date": "2026-10-24",
+  "at": "2026-10-24T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12173860,
+  "tournamentKey": 4910,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "wsu-w-h7"
+  ],
+  "names": [
+   "Michaela Bayerlova"
+  ],
+  "teamIds": [
+   "wsu-w"
+  ],
+  "gender": "women",
+  "partner": "Jasmijn Gimbrere",
+  "opponents": "Reese Brantmeier / Carson Tanguilig",
+  "event": "W75 Saguenay",
+  "eventRaw": "W75 Saguenay",
+  "level": "W75",
+  "tour": "wta",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-10-24",
+  "at": "2026-10-24T19:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12173872,
+  "tournamentKey": 13365,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "unc-w-p2",
+   "unc-w-h8"
+  ],
+  "names": [
+   "Reese Brantmeier",
+   "Carson Tanguilig"
+  ],
+  "teamIds": [
+   "unc-w",
+   "unc-w"
+  ],
+  "gender": "women",
+  "partner": null,
+  "opponents": "Michaela Bayerlova / Jasmijn Gimbrere",
+  "event": "W75 Saguenay",
+  "eventRaw": "W75 Saguenay",
+  "level": "W75",
+  "tour": "wta",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-10-24",
+  "at": "2026-10-24T19:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12173872,
+  "tournamentKey": 13365,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "ucla-w-p3"
+  ],
+  "names": [
+   "Anne-Christine Lutkemeyer"
+  ],
+  "teamIds": [
+   "ucla-w"
+  ],
+  "gender": "women",
+  "partner": "Lily Fairclough",
+  "opponents": "Nada Fouad / ",
+  "event": "W35 Bakersfield",
+  "eventRaw": "W35 Bakersfield, CA",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-10-24",
+  "at": "2026-10-24T22:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12173880,
+  "tournamentKey": 11847,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "lsu-w-n5"
+  ],
+  "names": [
+   "Nada Fouad"
+  ],
+  "teamIds": [
+   "lsu-w"
+  ],
+  "gender": "women",
+  "partner": null,
+  "opponents": "Lily Fairclough / Anne-Christine Lutkemeyer",
+  "event": "W35 Bakersfield",
+  "eventRaw": "W35 Bakersfield, CA",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-10-24",
+  "at": "2026-10-24T22:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12173880,
+  "tournamentKey": 11847,
+  "day": "today"
  }
 ];
 
-export const upcomingDates = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomingDates ?? ["2026-10-23","2026-10-24","2026-10-25"];
+export const upcomingDates = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomingDates ?? ["2026-10-24","2026-10-25","2026-10-26"];
 
 // Scheduled matches for a gender, soonest first (today before tomorrow).
 export function getUpcoming(gender) {
