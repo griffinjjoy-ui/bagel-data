@@ -31,6 +31,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-24"
  },
  {
+  "playerId": "lsu-p1",
+  "name": "Ella McDonald",
+  "teamId": "lsu-w",
+  "teamName": "LSU",
+  "gender": "women",
+  "event": "W50 Austin",
+  "round": "Final",
+  "won": true,
+  "opponent": "Madison Brengle",
+  "result": "7-5 6-1",
+  "date": "2026-10-24"
+ },
+ {
   "playerId": "ucla-w-h8",
   "name": "Ena Shibahara",
   "teamId": "ucla-w",
@@ -132,6 +145,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Paul Jubb",
   "result": "6-4 5-7 6-2",
+  "date": "2026-10-24"
+ },
+ {
+  "playerId": "uga-m-h5",
+  "name": "Philip Henning",
+  "teamId": "uga-m",
+  "teamName": "Georgia",
+  "gender": "men",
+  "event": "M25 Sarreguemines",
+  "round": "1/2",
+  "won": true,
+  "opponent": "Adrien Gobat",
+  "result": "7-6(6) 7-6(1)",
   "date": "2026-10-24"
  },
  {
@@ -275,19 +301,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Stefan Vujic",
   "result": "7-6(4) 6-3",
-  "date": "2026-10-23"
- },
- {
-  "playerId": "lsu-p1",
-  "name": "Ella McDonald",
-  "teamId": "lsu-w",
-  "teamName": "LSU",
-  "gender": "women",
-  "event": "W50 Austin",
-  "round": "1/2",
-  "won": true,
-  "opponent": "Anastasia Tikhonova",
-  "result": "6-2 3-6 6-2",
   "date": "2026-10-23"
  },
  {
@@ -600,19 +613,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Jenson Brooksby",
   "result": "6-4 6-2",
-  "date": "2026-10-23"
- },
- {
-  "playerId": "uga-m-h5",
-  "name": "Philip Henning",
-  "teamId": "uga-m",
-  "teamName": "Georgia",
-  "gender": "men",
-  "event": "M25 Sarreguemines",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Louis Wessels",
-  "result": "6-1 7-5",
   "date": "2026-10-23"
  },
  {
@@ -9134,11 +9134,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "LSU",
   "gender": "women",
   "event": "W50 Austin",
-  "round": "1/2",
+  "round": "Final",
   "won": true,
-  "opponent": "Anastasia Tikhonova",
-  "result": "6-2 3-6 6-2",
-  "date": "2026-10-23"
+  "opponent": "Madison Brengle",
+  "result": "7-5 6-1",
+  "date": "2026-10-24"
  },
  "lsu-p12": {
   "playerId": "lsu-p12",
@@ -17311,11 +17311,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Georgia",
   "gender": "men",
   "event": "M25 Sarreguemines",
-  "round": "1/4",
+  "round": "1/2",
   "won": true,
-  "opponent": "Louis Wessels",
-  "result": "6-1 7-5",
-  "date": "2026-10-23"
+  "opponent": "Adrien Gobat",
+  "result": "7-6(6) 7-6(1)",
+  "date": "2026-10-24"
  },
  "uga-m-h9": {
   "playerId": "uga-m-h9",

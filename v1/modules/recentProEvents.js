@@ -1415,10 +1415,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Anastasia Tikhonova",
      "score": "6-2 3-6 6-2"
+    },
+    {
+     "id": "51469410",
+     "date": "2026-10-24",
+     "roundId": 12,
+     "round": "Final",
+     "won": true,
+     "opponent": "Madison Brengle",
+     "score": "7-5 6-1"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Title",
+   "reachedTone": "gold"
   }
  ],
  "lsu-p5": [
