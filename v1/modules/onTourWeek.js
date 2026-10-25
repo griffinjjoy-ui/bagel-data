@@ -31,6 +31,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-25"
  },
  {
+  "playerId": "unc-w-p4",
+  "name": "Anna Frey",
+  "teamId": "unc-w",
+  "teamName": "North Carolina",
+  "gender": "women",
+  "event": "W75 Toronto",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Catherine Xie",
+  "result": "6-2 6-2",
+  "date": "2026-10-25"
+ },
+ {
   "playerId": "uga-m-p1",
   "name": "Arda Azkara",
   "teamId": "uga-m",
@@ -57,6 +70,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-25"
  },
  {
+  "playerId": "lsu-m-n1",
+  "name": "Daniil Ostapenkov",
+  "teamId": "lsu-m",
+  "teamName": "LSU",
+  "gender": "men",
+  "event": "Sioux Falls Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Quinn Vandecasteele",
+  "result": "6-4 6-4",
+  "date": "2026-10-25"
+ },
+ {
   "playerId": "ark-m-p4",
   "name": "Eric Padgham",
   "teamId": "ark-m",
@@ -67,6 +93,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Ethan Dench",
   "result": "7-6(4) 6-2",
+  "date": "2026-10-25"
+ },
+ {
+  "playerId": "lsu-m-p2",
+  "name": "Erik Arutiunian",
+  "teamId": "lsu-m",
+  "teamName": "LSU",
+  "gender": "men",
+  "event": "Sioux Falls Challenger",
+  "round": "Q1",
+  "won": false,
+  "opponent": "Tomasz Berkieta",
+  "result": "6-2 7-5",
   "date": "2026-10-25"
  },
  {
@@ -83,6 +122,32 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-25"
  },
  {
+  "playerId": "ucla-m-h7",
+  "name": "Govind Nanda",
+  "teamId": "ucla-m",
+  "teamName": "UCLA",
+  "gender": "men",
+  "event": "Sioux Falls Challenger",
+  "round": "Q1",
+  "won": false,
+  "opponent": "Patrick Zahraj",
+  "result": "7-6(1) 7-6(4)",
+  "date": "2026-10-25"
+ },
+ {
+  "playerId": "osu-m-fp278",
+  "name": "Jack Anthrop",
+  "teamId": "osu-m",
+  "teamName": "Ohio State",
+  "gender": "men",
+  "event": "M15 Ithaca",
+  "round": "Final",
+  "won": false,
+  "opponent": "Rodrigo Fernandes",
+  "result": "6-3 6-1",
+  "date": "2026-10-25"
+ },
+ {
   "playerId": "tcu-m-h1",
   "name": "Jacob Fearnley",
   "teamId": "tcu-m",
@@ -93,6 +158,58 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Lorenzo Sonego",
   "result": "6-1 6-7(3) 6-4",
+  "date": "2026-10-25"
+ },
+ {
+  "playerId": "tex-m-p2",
+  "name": "Jonah Braswell",
+  "teamId": "tex-m",
+  "teamName": "Texas",
+  "gender": "men",
+  "event": "Sioux Falls Challenger",
+  "round": "Q1",
+  "won": false,
+  "opponent": "Spencer Johnson",
+  "result": "6-1 6-4",
+  "date": "2026-10-25"
+ },
+ {
+  "playerId": "unc-m-h8",
+  "name": "Karl Poling",
+  "teamId": "unc-m",
+  "teamName": "North Carolina",
+  "gender": "men",
+  "event": "Sioux Falls Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Maxwell Exsted",
+  "result": "6-3 6-2",
+  "date": "2026-10-25"
+ },
+ {
+  "playerId": "ill-m-fp217",
+  "name": "Kenta Miyoshi",
+  "teamId": "ill-m",
+  "teamName": "Illinois",
+  "gender": "men",
+  "event": "Sioux Falls Challenger",
+  "round": "Q1",
+  "won": false,
+  "opponent": "Gavin Young",
+  "result": "7-5 7-5",
+  "date": "2026-10-25"
+ },
+ {
+  "playerId": "fla-m-p1",
+  "name": "Lorenzo Claverie",
+  "teamId": "fla-m",
+  "teamName": "Florida",
+  "gender": "men",
+  "event": "Guayaquil Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Arklon Huertas Del Pino",
+  "result": "7-6(5) 6-4",
   "date": "2026-10-25"
  },
  {
@@ -122,6 +239,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-25"
  },
  {
+  "playerId": "ku-w-h3",
+  "name": "Malkia Ngounoue",
+  "teamId": "ku-w",
+  "teamName": "Kansas",
+  "gender": "women",
+  "event": "W75 Toronto",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Sophie Dement",
+  "result": "6-1 6-1",
+  "date": "2026-10-25"
+ },
+ {
   "playerId": "uk-m-h10",
   "name": "Millen Hurrion",
   "teamId": "uk-m",
@@ -135,6 +265,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-25"
  },
  {
+  "playerId": "ucla-m-h5",
+  "name": "Patrick Zahraj",
+  "teamId": "ucla-m",
+  "teamName": "UCLA",
+  "gender": "men",
+  "event": "Sioux Falls Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Govind Nanda",
+  "result": "7-6(1) 7-6(4)",
+  "date": "2026-10-25"
+ },
+ {
   "playerId": "uga-m-h5",
   "name": "Philip Henning",
   "teamId": "uga-m",
@@ -145,6 +288,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Arthur Nagel",
   "result": "4-6 6-3 6-3",
+  "date": "2026-10-25"
+ },
+ {
+  "playerId": "ore-m-h7",
+  "name": "Quinn Vandecasteele",
+  "teamId": "ore-m",
+  "teamName": "Oregon",
+  "gender": "men",
+  "event": "Sioux Falls Challenger",
+  "round": "Q1",
+  "won": false,
+  "opponent": "Daniil Ostapenkov",
+  "result": "6-4 6-4",
   "date": "2026-10-25"
  },
  {
@@ -171,6 +327,32 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Maxim Zhukov",
   "result": "6-4 7-6(5)",
+  "date": "2026-10-25"
+ },
+ {
+  "playerId": "tex-m-n2",
+  "name": "Tomasz Berkieta",
+  "teamId": "tex-m",
+  "teamName": "Texas",
+  "gender": "men",
+  "event": "Sioux Falls Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Erik Arutiunian",
+  "result": "6-2 7-5",
+  "date": "2026-10-25"
+ },
+ {
+  "playerId": "aub-m-h1",
+  "name": "Tyler Stice",
+  "teamId": "aub-m",
+  "teamName": "Auburn",
+  "gender": "men",
+  "event": "M15 Heraklion",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Umberto Giuseppe Capitanio",
+  "result": "6-2 6-0",
   "date": "2026-10-25"
  },
  {
@@ -261,7 +443,7 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "round": "1/2",
   "won": false,
   "opponent": "Justina Maria Gonzalez Daniele",
-  "result": "4-6 6-2 6-4",
+  "result": "6-4 2-6 6-4",
   "date": "2026-10-24"
  },
  {
@@ -314,19 +496,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Casey Hoole",
   "result": "6-7(5) 6-3 6-4",
-  "date": "2026-10-24"
- },
- {
-  "playerId": "osu-m-fp278",
-  "name": "Jack Anthrop",
-  "teamId": "osu-m",
-  "teamName": "Ohio State",
-  "gender": "men",
-  "event": "M15 Ithaca",
-  "round": "1/2",
-  "won": true,
-  "opponent": "Rafael Ymer",
-  "result": "4-6 7-5 6-4",
   "date": "2026-10-24"
  },
  {
@@ -509,19 +678,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Stefan Vujic",
   "result": "7-6(4) 6-3",
-  "date": "2026-10-23"
- },
- {
-  "playerId": "lsu-m-p2",
-  "name": "Erik Arutiunian",
-  "teamId": "lsu-m",
-  "teamName": "LSU",
-  "gender": "men",
-  "event": "Fort Worth Challenger",
-  "round": "1/4",
-  "won": false,
-  "opponent": "Gabriel Debru",
-  "result": "6-3 6-2",
   "date": "2026-10-23"
  },
  {
@@ -1396,32 +1552,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-21"
  },
  {
-  "playerId": "tex-m-p2",
-  "name": "Jonah Braswell",
-  "teamId": "tex-m",
-  "teamName": "Texas",
-  "gender": "men",
-  "event": "M15 Ithaca",
-  "round": "First",
-  "won": false,
-  "opponent": "Eli Stephenson",
-  "result": "7-5 6-2",
-  "date": "2026-10-21"
- },
- {
-  "playerId": "ill-m-fp217",
-  "name": "Kenta Miyoshi",
-  "teamId": "ill-m",
-  "teamName": "Illinois",
-  "gender": "men",
-  "event": "Fort Worth Challenger",
-  "round": "Second",
-  "won": false,
-  "opponent": "Patrick Maloney",
-  "result": "6-0 6-7(3) 7-6(5)",
-  "date": "2026-10-21"
- },
- {
   "playerId": "okst-w-h7",
   "name": "Kylie Collins",
   "teamId": "okst-w",
@@ -1445,19 +1575,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Barbora Palicova",
   "result": "6-4 6-7(2) 6-1",
-  "date": "2026-10-21"
- },
- {
-  "playerId": "ku-w-h3",
-  "name": "Malkia Ngounoue",
-  "teamId": "ku-w",
-  "teamName": "Kansas",
-  "gender": "women",
-  "event": "W75 Saguenay",
-  "round": "First",
-  "won": false,
-  "opponent": "Sara Saito",
-  "result": "7-5 6-4",
   "date": "2026-10-21"
  },
  {
@@ -1549,19 +1666,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Jenson Brooksby",
   "result": "6-2 6-4",
-  "date": "2026-10-21"
- },
- {
-  "playerId": "tex-m-n2",
-  "name": "Tomasz Berkieta",
-  "teamId": "tex-m",
-  "teamName": "Texas",
-  "gender": "men",
-  "event": "M15 Ithaca",
-  "round": "First",
-  "won": false,
-  "opponent": "Nicolas Arseneault",
-  "result": "6-3 3-6 7-6(1)",
   "date": "2026-10-21"
  },
  {
@@ -2267,19 +2371,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-19"
  },
  {
-  "playerId": "ucla-m-h7",
-  "name": "Govind Nanda",
-  "teamId": "ucla-m",
-  "teamName": "UCLA",
-  "gender": "men",
-  "event": "Fort Worth Challenger",
-  "round": "First",
-  "won": false,
-  "opponent": "Daniel Milavsky",
-  "result": "6-4 6-4",
-  "date": "2026-10-19"
- },
- {
   "playerId": "ucsb-w-p9",
   "name": "Isabella Wong",
   "teamId": "ucsb-w",
@@ -2433,19 +2524,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Connor Plunkett",
   "result": "6-1 1-6 10-8",
-  "date": "2026-10-19"
- },
- {
-  "playerId": "ucla-m-h5",
-  "name": "Patrick Zahraj",
-  "teamId": "ucla-m",
-  "teamName": "UCLA",
-  "gender": "men",
-  "event": "Fort Worth Challenger",
-  "round": "Q3",
-  "won": false,
-  "opponent": "Kaylan Bigun",
-  "result": "6-3 6-2",
   "date": "2026-10-19"
  },
  {
@@ -2748,19 +2826,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-18"
  },
  {
-  "playerId": "lsu-m-n1",
-  "name": "Daniil Ostapenkov",
-  "teamId": "lsu-m",
-  "teamName": "LSU",
-  "gender": "men",
-  "event": "Fort Worth Challenger",
-  "round": "Q1",
-  "won": false,
-  "opponent": "Albert Pedrico Kravtsov",
-  "result": "7-6(2) 7-5",
-  "date": "2026-10-18"
- },
- {
   "playerId": "ou-p4",
   "name": "Evialina Laskevich",
   "teamId": "ou-w",
@@ -2826,19 +2891,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-18"
  },
  {
-  "playerId": "unc-m-h8",
-  "name": "Karl Poling",
-  "teamId": "unc-m",
-  "teamName": "North Carolina",
-  "gender": "men",
-  "event": "Fort Worth Challenger",
-  "round": "Q1",
-  "won": false,
-  "opponent": "Alex Rybakov",
-  "result": "6-4 6-4",
-  "date": "2026-10-18"
- },
- {
   "playerId": "ucla-w-p9",
   "name": "Kate Fakih",
   "teamId": "ucla-w",
@@ -2875,19 +2927,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Kenta Miyoshi",
   "result": "6-3 6-3",
-  "date": "2026-10-18"
- },
- {
-  "playerId": "fla-m-p1",
-  "name": "Lorenzo Claverie",
-  "teamId": "fla-m",
-  "teamName": "Florida",
-  "gender": "men",
-  "event": "Cali Challenger",
-  "round": "Q1",
-  "won": false,
-  "opponent": "Felipe Meligeni Alves",
-  "result": "6-2 6-4",
   "date": "2026-10-18"
  },
  {
@@ -2953,19 +2992,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Clemence Mercier",
   "result": "2-6 6-4 7-5",
-  "date": "2026-10-18"
- },
- {
-  "playerId": "ore-m-h7",
-  "name": "Quinn Vandecasteele",
-  "teamId": "ore-m",
-  "teamName": "Oregon",
-  "gender": "men",
-  "event": "Fort Worth Challenger",
-  "round": "Q1",
-  "won": false,
-  "opponent": "Michael Antonius",
-  "result": "4-6 6-2 6-3",
   "date": "2026-10-18"
  },
  {
@@ -3200,19 +3226,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Elena Ruxandra Bertea",
   "result": "6-4 6-0",
-  "date": "2026-10-16"
- },
- {
-  "playerId": "aub-m-h1",
-  "name": "Tyler Stice",
-  "teamId": "aub-m",
-  "teamName": "Auburn",
-  "gender": "men",
-  "event": "M15 Heraklion",
-  "round": "First",
-  "won": false,
-  "opponent": "Amit Vales",
-  "result": "6-2 7-6(4)",
   "date": "2026-10-16"
  },
  {
@@ -4363,11 +4376,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Auburn",
   "gender": "men",
   "event": "M15 Heraklion",
-  "round": "First",
-  "won": false,
-  "opponent": "Amit Vales",
-  "result": "6-2 7-6(4)",
-  "date": "2026-10-16"
+  "round": "Q1",
+  "won": true,
+  "opponent": "Umberto Giuseppe Capitanio",
+  "result": "6-2 6-0",
+  "date": "2026-10-25"
  },
  "aub-m-h2": {
   "playerId": "aub-m-h2",
@@ -6923,12 +6936,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "fla-m",
   "teamName": "Florida",
   "gender": "men",
-  "event": "Cali Challenger",
+  "event": "Guayaquil Challenger",
   "round": "Q1",
-  "won": false,
-  "opponent": "Felipe Meligeni Alves",
-  "result": "6-2 6-4",
-  "date": "2026-10-18"
+  "won": true,
+  "opponent": "Arklon Huertas Del Pino",
+  "result": "7-6(5) 6-4",
+  "date": "2026-10-25"
  },
  "fla-m-p10": {
   "playerId": "fla-m-p10",
@@ -7963,12 +7976,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ill-m",
   "teamName": "Illinois",
   "gender": "men",
-  "event": "Fort Worth Challenger",
-  "round": "Second",
+  "event": "Sioux Falls Challenger",
+  "round": "Q1",
   "won": false,
-  "opponent": "Patrick Maloney",
-  "result": "6-0 6-7(3) 7-6(5)",
-  "date": "2026-10-21"
+  "opponent": "Gavin Young",
+  "result": "7-5 7-5",
+  "date": "2026-10-25"
  },
  "ill-m-h3": {
   "playerId": "ill-m-h3",
@@ -8392,12 +8405,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ku-w",
   "teamName": "Kansas",
   "gender": "women",
-  "event": "W75 Saguenay",
-  "round": "First",
-  "won": false,
-  "opponent": "Sara Saito",
-  "result": "7-5 6-4",
-  "date": "2026-10-21"
+  "event": "W75 Toronto",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Sophie Dement",
+  "result": "6-1 6-1",
+  "date": "2026-10-25"
  },
  "ku-w-p5": {
   "playerId": "ku-w-p5",
@@ -8821,12 +8834,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "lsu-m",
   "teamName": "LSU",
   "gender": "men",
-  "event": "Fort Worth Challenger",
+  "event": "Sioux Falls Challenger",
   "round": "Q1",
-  "won": false,
-  "opponent": "Albert Pedrico Kravtsov",
-  "result": "7-6(2) 7-5",
-  "date": "2026-10-18"
+  "won": true,
+  "opponent": "Quinn Vandecasteele",
+  "result": "6-4 6-4",
+  "date": "2026-10-25"
  },
  "lsu-m-n2": {
   "playerId": "lsu-m-n2",
@@ -8860,12 +8873,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "lsu-m",
   "teamName": "LSU",
   "gender": "men",
-  "event": "Fort Worth Challenger",
-  "round": "1/4",
+  "event": "Sioux Falls Challenger",
+  "round": "Q1",
   "won": false,
-  "opponent": "Gabriel Debru",
-  "result": "6-3 6-2",
-  "date": "2026-10-23"
+  "opponent": "Tomasz Berkieta",
+  "result": "6-2 7-5",
+  "date": "2026-10-25"
  },
  "lsu-m-p3": {
   "playerId": "lsu-m-p3",
@@ -11486,12 +11499,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ore-m",
   "teamName": "Oregon",
   "gender": "men",
-  "event": "Fort Worth Challenger",
+  "event": "Sioux Falls Challenger",
   "round": "Q1",
   "won": false,
-  "opponent": "Michael Antonius",
-  "result": "4-6 6-2 6-3",
-  "date": "2026-10-18"
+  "opponent": "Daniil Ostapenkov",
+  "result": "6-4 6-4",
+  "date": "2026-10-25"
  },
  "ore-m-p1": {
   "playerId": "ore-m-p1",
@@ -11630,11 +11643,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Ohio State",
   "gender": "men",
   "event": "M15 Ithaca",
-  "round": "1/2",
-  "won": true,
-  "opponent": "Rafael Ymer",
-  "result": "4-6 7-5 6-4",
-  "date": "2026-10-24"
+  "round": "Final",
+  "won": false,
+  "opponent": "Rodrigo Fernandes",
+  "result": "6-3 6-1",
+  "date": "2026-10-25"
  },
  "osu-m-h11": {
   "playerId": "osu-m-h11",
@@ -12244,7 +12257,7 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "round": "1/2",
   "won": false,
   "opponent": "Justina Maria Gonzalez Daniele",
-  "result": "4-6 6-2 6-4",
+  "result": "6-4 2-6 6-4",
   "date": "2026-10-24"
  },
  "ou-w-n2": {
@@ -15477,12 +15490,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "tex-m",
   "teamName": "Texas",
   "gender": "men",
-  "event": "M15 Ithaca",
-  "round": "First",
-  "won": false,
-  "opponent": "Nicolas Arseneault",
-  "result": "6-3 3-6 7-6(1)",
-  "date": "2026-10-21"
+  "event": "Sioux Falls Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Erik Arutiunian",
+  "result": "6-2 7-5",
+  "date": "2026-10-25"
  },
  "tex-m-n3": {
   "playerId": "tex-m-n3",
@@ -15529,12 +15542,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "tex-m",
   "teamName": "Texas",
   "gender": "men",
-  "event": "M15 Ithaca",
-  "round": "First",
+  "event": "Sioux Falls Challenger",
+  "round": "Q1",
   "won": false,
-  "opponent": "Eli Stephenson",
-  "result": "7-5 6-2",
-  "date": "2026-10-21"
+  "opponent": "Spencer Johnson",
+  "result": "6-1 6-4",
+  "date": "2026-10-25"
  },
  "tex-m-p3": {
   "playerId": "tex-m-p3",
@@ -16660,12 +16673,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ucla-m",
   "teamName": "UCLA",
   "gender": "men",
-  "event": "Fort Worth Challenger",
-  "round": "Q3",
-  "won": false,
-  "opponent": "Kaylan Bigun",
-  "result": "6-3 6-2",
-  "date": "2026-10-19"
+  "event": "Sioux Falls Challenger",
+  "round": "Q1",
+  "won": true,
+  "opponent": "Govind Nanda",
+  "result": "7-6(1) 7-6(4)",
+  "date": "2026-10-25"
  },
  "ucla-m-h7": {
   "playerId": "ucla-m-h7",
@@ -16673,12 +16686,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ucla-m",
   "teamName": "UCLA",
   "gender": "men",
-  "event": "Fort Worth Challenger",
-  "round": "First",
+  "event": "Sioux Falls Challenger",
+  "round": "Q1",
   "won": false,
-  "opponent": "Daniel Milavsky",
-  "result": "6-4 6-4",
-  "date": "2026-10-19"
+  "opponent": "Patrick Zahraj",
+  "result": "7-6(1) 7-6(4)",
+  "date": "2026-10-25"
  },
  "ucla-m-h8": {
   "playerId": "ucla-m-h8",
@@ -17765,12 +17778,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "unc-m",
   "teamName": "North Carolina",
   "gender": "men",
-  "event": "Fort Worth Challenger",
+  "event": "Sioux Falls Challenger",
   "round": "Q1",
-  "won": false,
-  "opponent": "Alex Rybakov",
-  "result": "6-4 6-4",
-  "date": "2026-10-18"
+  "won": true,
+  "opponent": "Maxwell Exsted",
+  "result": "6-3 6-2",
+  "date": "2026-10-25"
  },
  "unc-m-h9": {
   "playerId": "unc-m-h9",
@@ -17934,12 +17947,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "unc-w",
   "teamName": "North Carolina",
   "gender": "women",
-  "event": "W50 Lexington",
+  "event": "W75 Toronto",
   "round": "Q1",
-  "won": false,
-  "opponent": "Bella Bergkvist Larsson",
-  "result": "7-5 7-6(5)",
-  "date": "2026-10-05"
+  "won": true,
+  "opponent": "Catherine Xie",
+  "result": "6-2 6-2",
+  "date": "2026-10-25"
  },
  "unc-w-p5": {
   "playerId": "unc-w-p5",

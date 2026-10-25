@@ -1172,6 +1172,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "lsu-m-n1": [
   {
+   "key": "22111",
+   "name": "Sioux Falls Challenger",
+   "date": "2026-10-26",
+   "surface": "I.hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "91309335",
+     "date": "2026-10-25",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Quinn Vandecasteele",
+     "score": "6-4 6-4"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22106",
    "name": "Fort Worth Challenger",
    "date": "2026-10-19",
@@ -1237,6 +1257,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "lsu-m-p2": [
+  {
+   "key": "22111",
+   "name": "Sioux Falls Challenger",
+   "date": "2026-10-26",
+   "surface": "I.hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94121970",
+     "date": "2026-10-25",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Tomasz Berkieta",
+     "score": "6-2 7-5"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "22106",
    "name": "Fort Worth Challenger",
@@ -3497,6 +3537,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "tex-m-n2": [
   {
+   "key": "22111",
+   "name": "Sioux Falls Challenger",
+   "date": "2026-10-26",
+   "surface": "I.hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94121970",
+     "date": "2026-10-25",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Erik Arutiunian",
+     "score": "6-2 7-5"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22172",
    "name": "M15 Ithaca",
    "date": "2026-10-19",
@@ -4731,6 +4791,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    ],
    "reached": "SF",
    "reachedTone": "green"
+  }
+ ],
+ "unc-w-p4": [
+  {
+   "key": "17363",
+   "name": "W75 Toronto",
+   "date": "2026-10-26",
+   "surface": "I.hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "79832230",
+     "date": "2026-10-25",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Catherine Xie",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
   }
  ],
  "usc-m-p3": [
