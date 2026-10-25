@@ -130,6 +130,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "ark-m-p4": [
   {
+   "key": "22176",
+   "name": "M25 Tamworth",
+   "date": "2026-10-26",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "78655121",
+     "date": "2026-10-25",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Ethan Dench",
+     "score": "7-6(4) 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22159",
    "name": "M25 Tamworth",
    "date": "2026-10-19",
@@ -3142,6 +3162,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tenn-p2": [
+  {
+   "key": "17369",
+   "name": "W35 Sydney",
+   "date": "2026-10-26",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "63802130",
+     "date": "2026-10-25",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Joellah Wan",
+     "score": "6-4 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17355",
    "name": "W35 Sydney",
