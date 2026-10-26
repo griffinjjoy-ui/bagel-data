@@ -2733,6 +2733,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "smu-w-p9": [
   {
+   "key": "17312",
+   "name": "Queretaro Open - Queretaro",
+   "date": "2026-10-26",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "114351896",
+     "date": "2026-10-26",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Unknown Player",
+     "score": "6-2 6-3"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17349",
    "name": "W50 Austin",
    "date": "2026-10-19",
@@ -3711,9 +3731,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Erik Arutiunian",
      "score": "6-2 7-5"
+    },
+    {
+     "id": "129277773",
+     "date": "2026-10-26",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Spencer Johnson",
+     "score": "3-6 7-5 6-2"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -4245,9 +4274,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Abril Cardenas Olivares",
      "score": "6-2 6-3"
+    },
+    {
+     "id": "114351893",
+     "date": "2026-10-26",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Maria Navarro Oliva",
+     "score": "6-2 6-1"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
