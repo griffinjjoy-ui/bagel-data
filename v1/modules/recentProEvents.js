@@ -144,9 +144,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Ethan Dench",
      "score": "7-6(4) 6-2"
+    },
+    {
+     "id": "113811982",
+     "date": "2026-10-26",
+     "roundId": 2,
+     "round": "Q2",
+     "won": false,
+     "opponent": "Lachlan Vickery",
+     "score": "6-4 3-6 10-6"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q2",
    "reachedTone": "neutral"
   },
   {
@@ -1088,6 +1097,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "fla-p5": [
+  {
+   "key": "17363",
+   "name": "W75 Toronto",
+   "date": "2026-10-26",
+   "surface": "I.hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94627380",
+     "date": "2026-10-25",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Nadia Lagaev",
+     "score": "6-0 3-6 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "fla-w-n1": [
   {
    "key": "17350",
@@ -1169,6 +1200,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "harv-w-n3": [
+  {
+   "key": "17363",
+   "name": "W75 Toronto",
+   "date": "2026-10-26",
+   "surface": "I.hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94627381",
+     "date": "2026-10-25",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Khushi Kaur Grewal",
+     "score": "6-0 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17347",
    "name": "W75 Saguenay",
@@ -1657,6 +1708,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "ncst-m-fp370": [
+  {
+   "key": "22113",
+   "name": "Ningboo Challenger",
+   "date": "2026-10-26",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "108184002",
+     "date": "2026-10-26",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Yaroslav Demin",
+     "score": "7-6(6) 6-3"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "22148",
    "name": "M25 Qian Daohu",
@@ -3161,9 +3232,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Joellah Wan",
      "score": "6-4 6-0"
+    },
+    {
+     "id": "94627452",
+     "date": "2026-10-26",
+     "roundId": 2,
+     "round": "Q2",
+     "won": false,
+     "opponent": "Monique Barry",
+     "score": "6-2 4-6 10-7"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q2",
    "reachedTone": "neutral"
   },
   {
@@ -3188,6 +3268,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tenn-p3": [
+  {
+   "key": "17369",
+   "name": "W35 Sydney",
+   "date": "2026-10-26",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94627463",
+     "date": "2026-10-26",
+     "roundId": 2,
+     "round": "Q2",
+     "won": true,
+     "opponent": "Mia Princip",
+     "score": "6-3 6-1"
+    }
+   ],
+   "reached": "Q2",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17355",
    "name": "W35 Sydney",
@@ -4307,6 +4407,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "uga-w-n2": [
   {
+   "key": "17363",
+   "name": "W75 Toronto",
+   "date": "2026-10-26",
+   "surface": "I.hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94627380",
+     "date": "2026-10-25",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Scarlett Nicholson",
+     "score": "6-0 3-6 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17347",
    "name": "W75 Saguenay",
    "date": "2026-10-19",
@@ -4337,6 +4457,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "uga-w-n3": [
+  {
+   "key": "17363",
+   "name": "W75 Toronto",
+   "date": "2026-10-26",
+   "surface": "I.hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94627387",
+     "date": "2026-10-25",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Havah Kaur Kaler",
+     "score": "6-0 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17347",
    "name": "W75 Saguenay",
@@ -4703,6 +4843,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "unc-w-p9": [
+  {
+   "key": "17363",
+   "name": "W75 Toronto",
+   "date": "2026-10-26",
+   "surface": "I.hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94627382",
+     "date": "2026-10-25",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "June Bjork",
+     "score": "4-6 6-0 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "usc-m-p3": [
   {
    "key": "22164",
@@ -4781,6 +4943,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "green"
   }
  ],
+ "uva-m-p5": [
+  {
+   "key": "22109",
+   "name": "Seoul Challenger",
+   "date": "2026-10-26",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "113808593",
+     "date": "2026-10-26",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Billy Harris",
+     "score": "7-6(2) 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "uva-m-p8": [
   {
    "key": "22106",
@@ -4797,6 +4981,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Sander Jong",
      "score": "3-6 7-6(3) 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "uva-w-p8": [
+  {
+   "key": "17363",
+   "name": "W75 Toronto",
+   "date": "2026-10-26",
+   "surface": "I.hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "94627378",
+     "date": "2026-10-25",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Raphaelle Lacasse",
+     "score": "1-6 6-4 6-3"
     }
    ],
    "reached": "Q1",
