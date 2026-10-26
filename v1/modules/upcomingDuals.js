@@ -1042,23 +1042,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
-  "id": "EB8546EB-C5D0-44C0-A0DF-31473D04D6DB",
-  "date": "2027-01-30",
-  "dateTime": "2027-01-30T06:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": null,
-   "name": "Univ. Of Nebraska, Omaha",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "miz-w",
-   "name": "University Of Missouri",
-   "side": 2
-  }
- },
- {
   "id": "8C06DC94-C2D5-4A27-A823-C46675919901",
   "date": "2027-01-30",
   "dateTime": "2027-01-30T07:00:00.000Z",
@@ -1174,6 +1157,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Boise State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "EB8546EB-C5D0-44C0-A0DF-31473D04D6DB",
+  "date": "2027-01-30",
+  "dateTime": "2027-01-30T21:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Univ. Of Nebraska, Omaha",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "miz-w",
+   "name": "University Of Missouri",
    "side": 2
   }
  },
@@ -4455,6 +4455,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "San Diego State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "F1BA4289-959B-490D-BED6-258EB4854736",
+  "date": "2027-03-24",
+  "dateTime": "2027-03-24T18:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Marquette University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "scu-w",
+   "name": "Santa Clara University",
    "side": 2
   }
  },

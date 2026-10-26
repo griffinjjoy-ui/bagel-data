@@ -230,6 +230,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "ark-p3": [
+  {
+   "key": "17373",
+   "name": "W15 Sumter",
+   "date": "2026-10-26",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "110656075",
+     "date": "2026-10-26",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Amelie Smejkalova",
+     "score": "6-4 7-6(2)"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "asu-m-fp38": [
   {
    "key": "22147",
@@ -323,7 +345,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "tier": "ITF",
    "matches": [
     {
-     "id": "1301201",
+     "id": "1301794",
      "date": "2026-10-12",
      "roundId": 1,
      "round": "Q1",
@@ -332,7 +354,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "score": "6-2 6-2"
     },
     {
-     "id": "1301206",
+     "id": "1301802",
      "date": "2026-10-13",
      "roundId": 3,
      "round": "Q3",
@@ -1097,6 +1119,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "fau-w-p6": [
+  {
+   "key": "17373",
+   "name": "W15 Sumter",
+   "date": "2026-10-26",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "110656078",
+     "date": "2026-10-26",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Juliana Lucia Diianni",
+     "score": "6-3 6-0"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "fla-p5": [
   {
    "key": "17363",
@@ -1241,6 +1285,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "hou-w-fp130": [
+  {
+   "key": "17362",
+   "name": "W100 New Braunfels",
+   "date": "2026-10-26",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "110655909",
+     "date": "2026-10-26",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Alana Smith",
+     "score": "6-3 7-5"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "lsu-m-n1": [
   {
    "key": "22111",
@@ -1257,9 +1323,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Quinn Vandecasteele",
      "score": "6-4 6-4"
+    },
+    {
+     "id": "125058648",
+     "date": "2026-10-26",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Gavin Young",
+     "score": "6-2 3-6 6-3"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   },
   {
@@ -1707,6 +1782,50 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "miss-p4": [
+  {
+   "key": "17373",
+   "name": "W15 Sumter",
+   "date": "2026-10-26",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "110656077",
+     "date": "2026-10-26",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Kaya Baker",
+     "score": "6-0 7-6(6)"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "miss-p7": [
+  {
+   "key": "17373",
+   "name": "W15 Sumter",
+   "date": "2026-10-26",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "110656074",
+     "date": "2026-10-26",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Shelby Prince",
+     "score": "6-1 6-1"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "ncst-m-fp370": [
   {
    "key": "22113",
@@ -1783,6 +1902,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    ],
    "reached": "Final",
    "reachedTone": "amber"
+  }
+ ],
+ "ncst-w-p8": [
+  {
+   "key": "17373",
+   "name": "W15 Sumter",
+   "date": "2026-10-26",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "110656075",
+     "date": "2026-10-26",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Celine Simunyu",
+     "score": "6-4 7-6(2)"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
   }
  ],
  "okst-m-p6": [
@@ -1947,9 +2088,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Sophia Xie",
      "score": "6-1 6-4"
+    },
+    {
+     "id": "110655923",
+     "date": "2026-10-26",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Anastasia Malysheva",
+     "score": "6-2 6-1"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
@@ -2516,6 +2666,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "sc-p6": [
+  {
+   "key": "17373",
+   "name": "W15 Sumter",
+   "date": "2026-10-26",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "110656079",
+     "date": "2026-10-26",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Madeline Kroupetski",
+     "score": "6-1 6-0"
+    }
+   ],
+   "reached": "Q1",
    "reachedTone": "neutral"
   }
  ],
@@ -4059,6 +4231,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "tex-p5": [
   {
+   "key": "17312",
+   "name": "Queretaro Open - Queretaro",
+   "date": "2026-10-26",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "108186476",
+     "date": "2026-10-26",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Abril Cardenas Olivares",
+     "score": "6-2 6-3"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17349",
    "name": "W50 Austin",
    "date": "2026-10-19",
@@ -4837,9 +5029,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Catherine Xie",
      "score": "6-2 6-2"
+    },
+    {
+     "id": "110655920",
+     "date": "2026-10-26",
+     "roundId": 3,
+     "round": "Q3",
+     "won": false,
+     "opponent": "Vivian Yang",
+     "score": "6-1 7-6(2)"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
@@ -5003,9 +5204,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Raphaelle Lacasse",
      "score": "1-6 6-4 6-3"
+    },
+    {
+     "id": "110655920",
+     "date": "2026-10-26",
+     "roundId": 3,
+     "round": "Q3",
+     "won": true,
+     "opponent": "Anna Frey",
+     "score": "6-1 7-6(2)"
     }
    ],
-   "reached": "Q1",
+   "reached": "Q3",
    "reachedTone": "neutral"
   }
  ],
