@@ -4,45 +4,6 @@
 // time, null when unannounced). Consumers go through upcomingFeed.js.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
-  "playerId": "ucla-m-h15",
-  "name": "Keegan Smith",
-  "teamId": "ucla-m",
-  "gender": "men",
-  "opponent": "Yu Hsiou Hsu",
-  "opponentKey": 867,
-  "opponentPid": null,
-  "opponentCountry": "Taiwan",
-  "event": "Ningbo Open - Ningbo",
-  "eventRaw": "Ningbo",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-10-27",
-  "at": "2026-10-27T03:10:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "4",
-     "6"
-    ],
-    [
-     "7",
-     "5"
-    ],
-    [
-     "6.8",
-     "6.7"
-    ]
-   ],
-   "game": "8 - 7"
-  },
-  "matchKey": 12173990,
-  "tournamentKey": 2362,
-  "day": "today"
- },
- {
   "playerId": "cal-m-h6",
   "name": "Carl Emil Overbeck",
   "teamId": "cal-m",
@@ -51,7 +12,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponentKey": 7395,
   "opponentPid": null,
   "opponentCountry": "World",
-  "event": "Ningbo Open - Ningbo",
+  "event": "Ningbo",
   "eventRaw": "Ningbo",
   "level": null,
   "tour": "atp",
@@ -59,7 +20,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "round": "R32",
   "date": "2026-10-27",
   "at": "2026-10-27T05:35:00Z",
-  "status": "live",
+  "status": "interrupted",
   "score": {
    "sets": [
     [
@@ -1960,6 +1921,52 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "okst-m-h5",
+  "name": "Isaac Becroft",
+  "teamId": "okst-m",
+  "gender": "men",
+  "opponent": "Stefan Vujic",
+  "opponentKey": 12706,
+  "opponentPid": null,
+  "opponentCountry": "Australia",
+  "event": "M25 Tamworth",
+  "eventRaw": "M25 Tamworth 2",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-10-28",
+  "at": "2026-10-28T01:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12174820,
+  "tournamentKey": 13246,
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "neb-m-h9",
+  "name": "Anton Shepp",
+  "teamId": "neb-m",
+  "gender": "men",
+  "opponent": "Ethan Cook",
+  "opponentKey": 33138,
+  "opponentPid": null,
+  "opponentCountry": "Australia",
+  "event": "M25 Tamworth",
+  "eventRaw": "M25 Tamworth 2",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-10-28",
+  "at": "2026-10-28T01:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12174822,
+  "tournamentKey": 13246,
+  "day": "tomorrow"
+ },
+ {
   "playerId": "ncst-w-h11",
   "name": "Priska Nugroho",
   "teamId": "ncst-w",
@@ -1980,6 +1987,52 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "score": null,
   "matchKey": 12174562,
   "tournamentKey": 11555,
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "okst-m-h6",
+  "name": "Chase Ferguson",
+  "teamId": "okst-m",
+  "gender": "men",
+  "opponent": "Scott Jones",
+  "opponentKey": 4513,
+  "opponentPid": null,
+  "opponentCountry": "Australia",
+  "event": "M25 Tamworth",
+  "eventRaw": "M25 Tamworth 2",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-10-28",
+  "at": "2026-10-28T03:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12174826,
+  "tournamentKey": 13246,
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "okst-m-p6",
+  "name": "Derek Pham",
+  "teamId": "okst-m",
+  "gender": "men",
+  "opponent": "Jeremy Beale",
+  "opponentKey": 10233,
+  "opponentPid": null,
+  "opponentCountry": "Australia",
+  "event": "M25 Tamworth",
+  "eventRaw": "M25 Tamworth 2",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-10-28",
+  "at": "2026-10-28T03:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12174827,
+  "tournamentKey": 13246,
   "day": "tomorrow"
  },
  {
@@ -2861,72 +2914,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
 export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomingDoubles ?? [
  {
   "playerIds": [
-   "tulsa-m-p5"
-  ],
-  "names": [
-   "Reiya Komagata"
-  ],
-  "teamIds": [
-   "tulsa-m"
-  ],
-  "gender": "men",
-  "partner": "Honori Koyama",
-  "opponents": "Shinji Hazawa / Hikaru Shiraishi",
-  "event": "M15 Yanagawa City",
-  "eventRaw": "M15 Yanagawa City",
-  "level": "M15",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-10-27",
-  "at": "2026-10-27T02:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12174410,
-  "tournamentKey": 11947,
-  "day": "today"
- },
- {
-  "playerIds": [
-   "ariz-m-h1"
-  ],
-  "names": [
-   "Herman Hoeyeraal"
-  ],
-  "teamIds": [
-   "ariz-m"
-  ],
-  "gender": "men",
-  "partner": "E. Padgham",
-  "opponents": "A. Bulte / D. Qariaqus",
-  "event": "M25 Tamworth",
-  "eventRaw": "M25 Tamworth 2",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-10-27",
-  "at": "2026-10-27T04:15:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "4",
-     "6"
-    ],
-    [
-     "5",
-     "6"
-    ]
-   ],
-   "game": "0 - 40"
-  },
-  "matchKey": 12174325,
-  "tournamentKey": 13232,
-  "day": "today"
- },
- {
-  "playerIds": [
    "wake-m-fp302"
   ],
   "names": [
@@ -2981,33 +2968,6 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
  },
  {
   "playerIds": [
-   "isu-w-h3"
-  ],
-  "names": [
-   "Thasaporn Naklo"
-  ],
-  "teamIds": [
-   "isu-w"
-  ],
-  "gender": "women",
-  "partner": "Aunchisa Chanta",
-  "opponents": "Ekaterina Khodzhaeva / L. Podgorichani",
-  "event": "W15 Singapore",
-  "eventRaw": "W15 Singapore 4 (Singapore)",
-  "level": "W15",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-10-27",
-  "at": "2026-10-27T04:30:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12174417,
-  "tournamentKey": 14808,
-  "day": "today"
- },
- {
-  "playerIds": [
    "ariz-m-fp226"
   ],
   "names": [
@@ -3035,11 +2995,11 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
      "6.3"
     ],
     [
-     "5",
-     "6"
+     "6.7",
+     "6.6"
     ]
    ],
-   "game": "0 - 0"
+   "game": "7 - 6"
   },
   "matchKey": 12174181,
   "tournamentKey": 8021,
@@ -3074,11 +3034,11 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
      "4"
     ],
     [
-     "2",
-     "2"
+     "5",
+     "4"
     ]
    ],
-   "game": "30 - 30"
+   "game": "40 - 30"
   },
   "matchKey": 12174356,
   "tournamentKey": 14797,
@@ -3114,52 +3074,17 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
     ],
     [
      "4",
-     "5"
-    ]
-   ],
-   "game": "15 - 0"
-  },
-  "matchKey": 12174358,
-  "tournamentKey": 14797,
-  "day": "today"
- },
- {
-  "playerIds": [
-   "ncst-w-h11"
-  ],
-  "names": [
-   "Priska Nugroho"
-  ],
-  "teamIds": [
-   "ncst-w"
-  ],
-  "gender": "women",
-  "partner": "Wushuang Zheng",
-  "opponents": "M. Chen / Jiayu Xu",
-  "event": "W35 Kunshan",
-  "eventRaw": "W35 Kunshan",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-10-27",
-  "at": "2026-10-27T05:35:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "3",
      "6"
     ],
     [
-     "1",
-     "2"
+     "10",
+     "5"
     ]
    ],
    "game": "0 - 0"
   },
-  "matchKey": 12174350,
-  "tournamentKey": 11556,
+  "matchKey": 12174358,
+  "tournamentKey": 14797,
   "day": "today"
  },
  {
@@ -4193,63 +4118,6 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
  },
  {
   "playerIds": [
-   "uk-m-h14",
-   "haw-m-h2"
-  ],
-  "names": [
-   "Alafia Ayeni",
-   "Andre Ilagan"
-  ],
-  "teamIds": [
-   "uk-m",
-   "haw-m"
-  ],
-  "gender": "men",
-  "partner": null,
-  "opponents": "Daniel Cukierman / Fernando Romboli",
-  "event": "Seoul Challenger",
-  "eventRaw": "Seoul",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-10-28",
-  "at": "2026-10-28T01:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12174178,
-  "tournamentKey": 8021,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "uva-m-p5"
-  ],
-  "names": [
-   "Jangjun Kim"
-  ],
-  "teamIds": [
-   "uva-m"
-  ],
-  "gender": "men",
-  "partner": "Yunseong Chung",
-  "opponents": "Ju Kim Dong / Uisung Park",
-  "event": "Seoul Challenger",
-  "eventRaw": "Seoul",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-10-28",
-  "at": "2026-10-28T01:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12174179,
-  "tournamentKey": 8021,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
    "bay-m-h6"
   ],
   "names": [
@@ -4261,7 +4129,7 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "gender": "men",
   "partner": "Scott Duncan",
   "opponents": "Yuquan Jin / Qian Sun",
-  "event": "Ningbo Open - Ningbo",
+  "event": "Ningbo",
   "eventRaw": "Ningbo",
   "level": null,
   "tour": "atp",
@@ -4288,7 +4156,7 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "gender": "men",
   "partner": "Yuquan Jin",
   "opponents": "Jake Finn Bass / Scott Duncan",
-  "event": "Ningbo Open - Ningbo",
+  "event": "Ningbo",
   "eventRaw": "Ningbo",
   "level": null,
   "tour": "atp",
@@ -4300,6 +4168,63 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "score": null,
   "matchKey": 12174168,
   "tournamentKey": 8721,
+  "day": "tomorrow"
+ },
+ {
+  "playerIds": [
+   "uk-m-h14",
+   "haw-m-h2"
+  ],
+  "names": [
+   "Alafia Ayeni",
+   "Andre Ilagan"
+  ],
+  "teamIds": [
+   "uk-m",
+   "haw-m"
+  ],
+  "gender": "men",
+  "partner": null,
+  "opponents": "Daniel Cukierman / Fernando Romboli",
+  "event": "Seoul Challenger",
+  "eventRaw": "Seoul",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-10-28",
+  "at": "2026-10-28T03:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12174178,
+  "tournamentKey": 8021,
+  "day": "tomorrow"
+ },
+ {
+  "playerIds": [
+   "uva-m-p5"
+  ],
+  "names": [
+   "Jangjun Kim"
+  ],
+  "teamIds": [
+   "uva-m"
+  ],
+  "gender": "men",
+  "partner": "Yunseong Chung",
+  "opponents": "Ju Kim Dong / Uisung Park",
+  "event": "Seoul Challenger",
+  "eventRaw": "Seoul",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-10-28",
+  "at": "2026-10-28T06:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12174179,
+  "tournamentKey": 8021,
   "day": "tomorrow"
  },
  {

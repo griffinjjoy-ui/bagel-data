@@ -109,6 +109,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-27"
  },
  {
+  "playerId": "ucla-m-h15",
+  "name": "Keegan Smith",
+  "teamId": "ucla-m",
+  "teamName": "UCLA",
+  "gender": "men",
+  "event": "Ningbo Challenger",
+  "round": "First",
+  "won": false,
+  "opponent": "Yu Hsiou Hsu",
+  "result": "4-6 7-5 7-6(7)",
+  "date": "2026-10-27"
+ },
+ {
   "playerId": "wake-m-p5",
   "name": "Mees Rottgering",
   "teamId": "wake-m",
@@ -122,6 +135,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-27"
  },
  {
+  "playerId": "bay-w-h12",
+  "name": "Melany Krywoj",
+  "teamId": "bay-w",
+  "teamName": "Baylor",
+  "gender": "women",
+  "event": "W15 Singapore 4",
+  "round": "First",
+  "won": false,
+  "opponent": "Nagi Hanatani",
+  "result": "7-6(5) 6-4",
+  "date": "2026-10-27"
+ },
+ {
   "playerId": "uga-m-h1",
   "name": "Ryan Colby",
   "teamId": "uga-m",
@@ -132,6 +158,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Jeronimo Velazco Escobar",
   "result": "6-2 6-0",
+  "date": "2026-10-27"
+ },
+ {
+  "playerId": "port-m-h5",
+  "name": "Sema Pankin",
+  "teamId": "port-m",
+  "teamName": "Portland",
+  "gender": "men",
+  "event": "Ningbo Challenger",
+  "round": "First",
+  "won": false,
+  "opponent": "Petr Bar Biryukov",
+  "result": "6-7(1) 7-6(5) 6-4",
   "date": "2026-10-27"
  },
  {
@@ -717,19 +756,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Calvin Hemery",
   "result": "6-7(2) 6-3 6-4",
-  "date": "2026-10-26"
- },
- {
-  "playerId": "port-m-h5",
-  "name": "Sema Pankin",
-  "teamId": "port-m",
-  "teamName": "Portland",
-  "gender": "men",
-  "event": "Ningboo Challenger",
-  "round": "Q3",
-  "won": true,
-  "opponent": "Egor Pleshivtsev",
-  "result": "6-3 6-4",
   "date": "2026-10-26"
  },
  {
@@ -1604,19 +1630,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-23"
  },
  {
-  "playerId": "ucla-m-h15",
-  "name": "Keegan Smith",
-  "teamId": "ucla-m",
-  "teamName": "UCLA",
-  "gender": "men",
-  "event": "Guangzhou Challenger",
-  "round": "1/4",
-  "won": false,
-  "opponent": "Tristan Schoolkate",
-  "result": "7-6(4) 6-3",
-  "date": "2026-10-23"
- },
- {
   "playerId": "uga-w-h11",
   "name": "Lea Ma",
   "teamId": "uga-w",
@@ -1952,19 +1965,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Valerio Aboian",
   "result": "6-2 6-2",
-  "date": "2026-10-22"
- },
- {
-  "playerId": "bay-w-h12",
-  "name": "Melany Krywoj",
-  "teamId": "bay-w",
-  "teamName": "Baylor",
-  "gender": "women",
-  "event": "W15 Singapore",
-  "round": "Second",
-  "won": false,
-  "opponent": "Alexandra Malova",
-  "result": "7-6(1) 6-2",
   "date": "2026-10-22"
  },
  {
@@ -4999,12 +4999,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "bay-w",
   "teamName": "Baylor",
   "gender": "women",
-  "event": "W15 Singapore",
-  "round": "Second",
+  "event": "W15 Singapore 4",
+  "round": "First",
   "won": false,
-  "opponent": "Alexandra Malova",
-  "result": "7-6(1) 6-2",
-  "date": "2026-10-22"
+  "opponent": "Nagi Hanatani",
+  "result": "7-6(5) 6-4",
+  "date": "2026-10-27"
  },
  "bay-w-h13": {
   "playerId": "bay-w-h13",
@@ -12786,12 +12786,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "port-m",
   "teamName": "Portland",
   "gender": "men",
-  "event": "Ningboo Challenger",
-  "round": "Q3",
-  "won": true,
-  "opponent": "Egor Pleshivtsev",
-  "result": "6-3 6-4",
-  "date": "2026-10-26"
+  "event": "Ningbo Challenger",
+  "round": "First",
+  "won": false,
+  "opponent": "Petr Bar Biryukov",
+  "result": "6-7(1) 7-6(5) 6-4",
+  "date": "2026-10-27"
  },
  "port-m-p4": {
   "playerId": "port-m-p4",
@@ -16790,12 +16790,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ucla-m",
   "teamName": "UCLA",
   "gender": "men",
-  "event": "Guangzhou Challenger",
-  "round": "1/4",
+  "event": "Ningbo Challenger",
+  "round": "First",
   "won": false,
-  "opponent": "Tristan Schoolkate",
-  "result": "7-6(4) 6-3",
-  "date": "2026-10-23"
+  "opponent": "Yu Hsiou Hsu",
+  "result": "4-6 7-5 7-6(7)",
+  "date": "2026-10-27"
  },
  "ucla-m-h5": {
   "playerId": "ucla-m-h5",

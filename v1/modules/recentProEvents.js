@@ -1358,6 +1358,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   },
   {
+   "key": "900011893",
+   "name": "Sioux Falls Challenger",
+   "date": "2026-10-25",
+   "surface": null,
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12174278",
+     "date": "2026-10-26",
+     "roundId": 2,
+     "round": "Q2",
+     "won": true,
+     "opponent": "Gavin Young",
+     "score": "6-2 3-6 6-3"
+    }
+   ],
+   "reached": "Q2",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22106",
    "name": "Fort Worth Challenger",
    "date": "2026-10-19",
@@ -2706,6 +2726,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "smu-w-p9": [
   {
+   "key": "900013362",
+   "name": "Queretaro Challenger",
+   "date": "2026-10-26",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12174664",
+     "date": "2026-10-26",
+     "roundId": 2,
+     "round": "Q2",
+     "won": false,
+     "opponent": "Valeriya Strakhova",
+     "score": "6-1 5-7 6-4"
+    }
+   ],
+   "reached": "Q2",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17312",
    "name": "Queretaro Open - Queretaro",
    "date": "2026-10-26",
@@ -3728,6 +3768,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   },
   {
+   "key": "900011893",
+   "name": "Sioux Falls Challenger",
+   "date": "2026-10-25",
+   "surface": null,
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12174310",
+     "date": "2026-10-26",
+     "roundId": 2,
+     "round": "Q2",
+     "won": true,
+     "opponent": "Spencer Johnson",
+     "score": "3-6 7-5 6-2"
+    }
+   ],
+   "reached": "Q2",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22172",
    "name": "M15 Ithaca",
    "date": "2026-10-19",
@@ -4241,6 +4301,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tex-p5": [
+  {
+   "key": "900013362",
+   "name": "Queretaro Challenger",
+   "date": "2026-10-26",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12174445",
+     "date": "2026-10-26",
+     "roundId": 2,
+     "round": "Q2",
+     "won": true,
+     "opponent": "Maria Fernanda Navarro",
+     "score": "6-2 6-1"
+    }
+   ],
+   "reached": "Q2",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17312",
    "name": "Queretaro Open - Queretaro",
