@@ -122,6 +122,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-27"
  },
  {
+  "playerId": "uga-m-h1",
+  "name": "Ryan Colby",
+  "teamId": "uga-m",
+  "teamName": "Georgia",
+  "gender": "men",
+  "event": "M15 Mazatlan",
+  "round": "First",
+  "won": true,
+  "opponent": "Jeronimo Velazco Escobar",
+  "result": "6-2 6-0",
+  "date": "2026-10-27"
+ },
+ {
   "playerId": "ncst-w-h1",
   "name": "Alana Smith",
   "teamId": "ncst-w",
@@ -603,6 +616,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-26"
  },
  {
+  "playerId": "asu-m-h2",
+  "name": "Max McKennon",
+  "teamId": "asu-m",
+  "teamName": "Arizona State",
+  "gender": "men",
+  "event": "M15 Mazatlan",
+  "round": "First",
+  "won": true,
+  "opponent": "Cristian Felipe Sanchez Rojas",
+  "result": "6-2 6-4",
+  "date": "2026-10-26"
+ },
+ {
   "playerId": "uk-m-h10",
   "name": "Millen Hurrion",
   "teamId": "uk-m",
@@ -730,6 +756,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Anastasia Malysheva",
   "result": "6-2 6-1",
+  "date": "2026-10-26"
+ },
+ {
+  "playerId": "lsu-w-h11",
+  "name": "Tilwith Di Girolami",
+  "teamId": "lsu-w",
+  "teamName": "LSU",
+  "gender": "women",
+  "event": "W15 Essen",
+  "round": "First",
+  "won": true,
+  "opponent": "Leonie Schuknecht",
+  "result": "7-6(5) 6-0",
   "date": "2026-10-26"
  },
  {
@@ -3398,19 +3437,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-10-18"
  },
  {
-  "playerId": "lsu-w-h11",
-  "name": "Tilwith Di Girolami",
-  "teamId": "lsu-w",
-  "teamName": "LSU",
-  "gender": "women",
-  "event": "W35 Heraklion",
-  "round": "Final",
-  "won": false,
-  "opponent": "Alisa Oktiabreva",
-  "result": "6-7(4) 6-4 6-2",
-  "date": "2026-10-18"
- },
- {
   "playerId": "pur-w-h7",
   "name": "Antonia Pareja",
   "teamId": "pur-w",
@@ -4219,12 +4245,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "asu-m",
   "teamName": "Arizona State",
   "gender": "men",
-  "event": "M25 Idanha-a-Nova",
+  "event": "M15 Mazatlan",
   "round": "First",
-  "won": false,
-  "opponent": "Mathieu Scaglia",
-  "result": "4-6 6-4 6-2",
-  "date": "2026-08-19"
+  "won": true,
+  "opponent": "Cristian Felipe Sanchez Rojas",
+  "result": "6-2 6-4",
+  "date": "2026-10-26"
  },
  "asu-m-h3": {
   "playerId": "asu-m-h3",
@@ -9120,12 +9146,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "lsu-w",
   "teamName": "LSU",
   "gender": "women",
-  "event": "W35 Heraklion",
-  "round": "Final",
-  "won": false,
-  "opponent": "Alisa Oktiabreva",
-  "result": "6-7(4) 6-4 6-2",
-  "date": "2026-10-18"
+  "event": "W15 Essen",
+  "round": "First",
+  "won": true,
+  "opponent": "Leonie Schuknecht",
+  "result": "7-6(5) 6-0",
+  "date": "2026-10-26"
  },
  "lsu-w-h3": {
   "playerId": "lsu-w-h3",
@@ -17141,12 +17167,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "uga-m",
   "teamName": "Georgia",
   "gender": "men",
-  "event": "Columbus Challenger",
-  "round": "Q1",
-  "won": false,
-  "opponent": "Shunsuke Mitsui",
-  "result": "6-0 6-2",
-  "date": "2026-09-27"
+  "event": "M15 Mazatlan",
+  "round": "First",
+  "won": true,
+  "opponent": "Jeronimo Velazco Escobar",
+  "result": "6-2 6-0",
+  "date": "2026-10-27"
  },
  "uga-m-h10": {
   "playerId": "uga-m-h10",
