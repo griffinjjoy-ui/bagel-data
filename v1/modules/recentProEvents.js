@@ -1991,6 +1991,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "okst-m-p6": [
   {
+   "key": "900013246",
+   "name": "M25 Tamworth 2",
+   "date": "2026-10-28",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12174827",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Jeremy Beale",
+     "score": "6-4 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22159",
    "name": "M25 Tamworth",
    "date": "2026-10-19",
