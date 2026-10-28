@@ -114,6 +114,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "ariz-m-fp227": [
+  {
+   "key": "900014816",
+   "name": "M25 Las Vegas",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175184",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Julian Vivanco Alonso",
+     "score": "6-2 3-6 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "ark-m-p4": [
   {
    "key": "22176",
@@ -271,6 +293,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "asu-m-p10": [
   {
+   "key": "900014816",
+   "name": "M25 Las Vegas",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12174709",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Tanishk Konduri",
+     "score": "7-5 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22172",
    "name": "M15 Ithaca",
    "date": "2026-10-19",
@@ -288,6 +330,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "asu-m-p2": [
+  {
+   "key": "900014816",
+   "name": "M25 Las Vegas",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12174711",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Sasha Rozin",
+     "score": "6-1 6-4"
+    }
+   ],
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -319,6 +383,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Q3",
+   "reachedTone": "neutral"
+  }
+ ],
+ "asu-w-p2": [
+  {
+   "key": "900011973",
+   "name": "W35 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175227",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Kennedy Drenser-Hagmann",
+     "score": "0-6 6-4 6-0"
+    }
+   ],
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -1556,6 +1642,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "lsu-p1": [
   {
+   "key": "900014817",
+   "name": "W100 New Braunfels",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12174714",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Elvina Kalieva",
+     "score": "6-1 3-0 ret."
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17349",
    "name": "W50 Austin",
    "date": "2026-10-19",
@@ -1724,9 +1830,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Sofia Avataneo",
      "score": "6-1 6-1"
+    },
+    {
+     "id": "at-12175156",
+     "date": "2026-10-28",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Ingrid Carolina Millan",
+     "score": "7-5 6-4"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -2133,6 +2248,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "osu-m-p11": [
+  {
+   "key": "900014816",
+   "name": "M25 Las Vegas",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175181",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Matthew Forbes",
+     "score": "7-6(4) 1-0 ret."
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "osu-m-p5": [
   {
    "key": "900014816",
@@ -2368,7 +2505,49 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "ou-m-p3": [
+  {
+   "key": "900011932",
+   "name": "M25 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12174991",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Aidan McHugh",
+     "score": "6-4 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "ou-m-p5": [
+  {
+   "key": "900011932",
+   "name": "M25 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12174993",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Giles Hussey",
+     "score": "7-6(4) 7-6(3)"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "22147",
    "name": "M25 Austin",
@@ -2408,7 +2587,49 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "ou-p1": [
+  {
+   "key": "900011973",
+   "name": "W35 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12174755",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Dana Guzman",
+     "score": "6-2 7-6(2)"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "ou-p4": [
+  {
+   "key": "900011973",
+   "name": "W35 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175221",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Mia Kupres",
+     "score": "6-1 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17349",
    "name": "W50 Austin",
@@ -2431,6 +2652,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "ou-p5": [
+  {
+   "key": "900011973",
+   "name": "W35 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12174758",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Martina Okalova",
+     "score": "6-4 7-6(3)"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17350",
    "name": "W35 Bakersfield",
@@ -2490,7 +2731,49 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "ou-p6": [
+  {
+   "key": "900011973",
+   "name": "W35 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175224",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Capucine Jauffret",
+     "score": "6-7(5) 6-2 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "ou-p7": [
+  {
+   "key": "900011973",
+   "name": "W35 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175407",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Carolina Gomez",
+     "score": "7-5 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17332",
    "name": "W100 Edmond",
@@ -2512,7 +2795,49 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "ou-p8": [
+  {
+   "key": "900011973",
+   "name": "W35 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175225",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Yaroslava Bartashevich",
+     "score": "6-4 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "ou-w-n3": [
+  {
+   "key": "900011973",
+   "name": "W35 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12174756",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Aspen Schuman",
+     "score": "6-4 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17349",
    "name": "W50 Austin",
@@ -2597,6 +2922,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "pepp-w-fp121": [
+  {
+   "key": "900011973",
+   "name": "W35 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175222",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Alina Shcherbinina",
+     "score": "6-2 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17350",
    "name": "W35 Bakersfield",
@@ -2761,6 +3106,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Anastasia Tikhonova",
      "score": "7-6(6) 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "sc-m-p4": [
+  {
+   "key": "900011932",
+   "name": "M25 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175213",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Luciano Emanuel Ambrogi",
+     "score": "3-6 7-5 7-5"
     }
    ],
    "reached": "First",
@@ -3025,6 +3392,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "tamu-m-n4": [
   {
+   "key": "900011932",
+   "name": "M25 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175216",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Patrik Munkhammar",
+     "score": "6-2 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22106",
    "name": "Fort Worth Challenger",
    "date": "2026-10-19",
@@ -3112,7 +3499,49 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "gold"
   }
  ],
+ "tamu-m-p8": [
+  {
+   "key": "900011932",
+   "name": "M25 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175218",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Luca Pow",
+     "score": "6-1 3-6 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "tamu-p8": [
+  {
+   "key": "900014817",
+   "name": "W100 New Braunfels",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175188",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Renata Zarazua",
+     "score": "0-6 6-4 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17349",
    "name": "W50 Austin",
@@ -3157,6 +3586,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Arina Bulatova",
      "score": "4-6 7-6(4) 6-0"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "tamu-w-n1": [
+  {
+   "key": "900011973",
+   "name": "W35 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175226",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Bella Payne",
+     "score": "6-4 6-2"
     }
    ],
    "reached": "First",
@@ -3257,6 +3708,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tamu-w-n8": [
+  {
+   "key": "900011973",
+   "name": "W35 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175220",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Maria Berlanga Bandera",
+     "score": "6-1 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17349",
    "name": "W50 Austin",
@@ -4409,9 +4880,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Marian Gomez Pezuela Cano",
      "score": "7-6(3) 3-6 6-4"
+    },
+    {
+     "id": "at-12175160",
+     "date": "2026-10-28",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Carole Monnet",
+     "score": "6-2 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -4617,6 +5097,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "ucla-w-p7": [
   {
+   "key": "900014817",
+   "name": "W100 New Braunfels",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175191",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Arantxa Rus",
+     "score": "6-4 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "17349",
    "name": "W50 Austin",
    "date": "2026-10-19",
@@ -4701,6 +5201,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "uga-m-n8": [
   {
+   "key": "900014816",
+   "name": "M25 Las Vegas",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12174710",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "X. Calvelo",
+     "score": "7-5 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22157",
    "name": "M15 Lexington",
    "date": "2026-10-12",
@@ -4727,6 +5247,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Second",
+   "reachedTone": "neutral"
+  }
+ ],
+ "uga-m-p6": [
+  {
+   "key": "900014816",
+   "name": "M25 Las Vegas",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175186",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Oliver Okonkwo",
+     "score": "0-6 6-4 7-6(1)"
+    }
+   ],
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -5350,6 +5892,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "green"
   }
  ],
+ "usf-m-n1": [
+  {
+   "key": "900011932",
+   "name": "M25 Norman",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175215",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Ilya Snitari",
+     "score": "4-6 6-4 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "uva-m-p2": [
   {
    "key": "22111",
@@ -5388,6 +5952,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Billy Harris",
      "score": "7-6(2) 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "uva-m-p6": [
+  {
+   "key": "900014816",
+   "name": "M25 Las Vegas",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175185",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "David Fix",
+     "score": "7-5 4-6 6-2"
     }
    ],
    "reached": "First",
@@ -5707,6 +6293,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Quinn Vandecasteele",
      "score": "7-6(1) 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "wake-m-p8": [
+  {
+   "key": "900014811",
+   "name": "M15 Pembroke",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175173",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "K. Marshall",
+     "score": "6-2 5-7 6-4"
     }
    ],
    "reached": "First",

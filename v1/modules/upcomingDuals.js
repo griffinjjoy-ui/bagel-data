@@ -4051,23 +4051,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
-  "id": "D7178423-3FA1-402D-BDAC-568F9485ED27",
-  "date": "2027-03-19",
-  "dateTime": "2027-03-19T05:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": true,
-  "t1": {
-   "teamId": "ind-w",
-   "name": "Indiana University",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "wisc-w",
-   "name": "Univ. Of Wisconsin, Madison",
-   "side": 2
-  }
- },
- {
   "id": "9A9CBAA3-F719-4BAF-81B3-4D166DFB08F2",
   "date": "2027-03-19",
   "dateTime": "2027-03-19T06:00:00.000Z",
@@ -4098,6 +4081,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "miz-w",
    "name": "University Of Missouri",
+   "side": 2
+  }
+ },
+ {
+  "id": "D7178423-3FA1-402D-BDAC-568F9485ED27",
+  "date": "2027-03-19",
+  "dateTime": "2027-03-19T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "wisc-w",
+   "name": "Univ. Of Wisconsin, Madison",
    "side": 2
   }
  },
