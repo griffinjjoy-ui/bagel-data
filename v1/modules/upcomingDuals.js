@@ -3694,23 +3694,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
-  "id": "2972140A-12DF-47DC-B00C-D4A8E33E8EC3",
-  "date": "2027-03-12",
-  "dateTime": "2027-03-12T07:00:00.000Z",
-  "gender": "men",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": "utah-m",
-   "name": "University Of Utah",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "haw-m",
-   "name": "University Of Hawaii",
-   "side": 2
-  }
- },
- {
   "id": "81EFE22E-D94C-49FC-9454-03F12AE462BD",
   "date": "2027-03-12",
   "dateTime": "2027-03-12T16:00:00.000Z",
@@ -3758,6 +3741,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "clem-m",
    "name": "Clemson University",
+   "side": 2
+  }
+ },
+ {
+  "id": "2972140A-12DF-47DC-B00C-D4A8E33E8EC3",
+  "date": "2027-03-13",
+  "dateTime": "2027-03-13T02:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "utah-m",
+   "name": "University Of Utah",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "haw-m",
+   "name": "University Of Hawaii",
    "side": 2
   }
  },
