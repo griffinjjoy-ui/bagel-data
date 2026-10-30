@@ -73,6 +73,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "51248177-D8DF-4683-B659-681EE6D2976B",
+  "date": "2027-01-14",
+  "dateTime": "2027-01-14T06:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Belmont University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "van-m",
+   "name": "Vanderbilt University",
+   "side": 2
+  }
+ },
+ {
   "id": "DCAAD99B-2EFD-4C23-820A-B021D94C3FBC",
   "date": "2027-01-15",
   "dateTime": "2027-01-15T16:00:00.000Z",
@@ -838,6 +855,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "BB0EC041-12F4-42CE-97FB-17551A78D62E",
+  "date": "2027-01-24",
+  "dateTime": "2027-01-24T18:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Belmont University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "mem-m",
+   "name": "University Of Memphis",
+   "side": 2
+  }
+ },
+ {
   "id": "15EBD117-4C88-40AB-A219-BD335BFD6030",
   "date": "2027-01-27",
   "dateTime": "2027-01-27T20:00:00.000Z",
@@ -1314,6 +1348,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "BE164F7B-96BF-4481-9731-4380BFEEB358",
+  "date": "2027-01-31",
+  "dateTime": "2027-01-31T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "colum-w",
+   "name": "Columbia University",
+   "side": 2
+  }
+ },
+ {
   "id": "EA5271F8-2BA7-46D2-9836-E9AE925E8372",
   "date": "2027-01-31",
   "dateTime": "2027-01-31T18:00:00.000Z",
@@ -1327,23 +1378,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "neb-w",
    "name": "University Of Nebraska",
-   "side": 2
-  }
- },
- {
-  "id": "BE164F7B-96BF-4481-9731-4380BFEEB358",
-  "date": "2027-01-31",
-  "dateTime": "2027-01-31T18:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": "ind-w",
-   "name": "Indiana University",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "colum-w",
-   "name": "Columbia University",
    "side": 2
   }
  },
@@ -1433,6 +1467,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "0E33FC6D-CE3E-474C-8E62-CD84DFA001B5",
+  "date": "2027-01-31",
+  "dateTime": "2027-01-31T22:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Bowling Green State University",
+   "side": 2
+  }
+ },
+ {
   "id": "BA31BAF8-1754-49D5-82D8-CF78C43C49BA",
   "date": "2027-02-01",
   "dateTime": "2027-02-01T03:00:00.000Z",
@@ -1518,23 +1569,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
-  "id": "2BCAE6CC-855C-4E45-BC4A-15DC50749A99",
-  "date": "2027-02-05",
-  "dateTime": "2027-02-05T06:00:00.000Z",
-  "gender": "men",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": null,
-   "name": "Univ. Of Nebraska, Omaha",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "okst-m",
-   "name": "Oklahoma State University",
-   "side": 2
-  }
- },
- {
   "id": "3FB38ED9-817D-47EB-9A4B-9B59F49FBE85",
   "date": "2027-02-05",
   "dateTime": "2027-02-05T07:00:00.000Z",
@@ -1599,6 +1633,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "scu-w",
    "name": "Santa Clara University",
+   "side": 2
+  }
+ },
+ {
+  "id": "2BCAE6CC-855C-4E45-BC4A-15DC50749A99",
+  "date": "2027-02-06",
+  "dateTime": "2027-02-06T00:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Univ. Of Nebraska, Omaha",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "okst-m",
+   "name": "Oklahoma State University",
    "side": 2
   }
  },
@@ -2674,6 +2725,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "5632829E-A53D-4C14-87D0-0A29F118A34D",
+  "date": "2027-02-20",
+  "dateTime": "2027-02-20T23:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Belmont University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ala-m",
+   "name": "University of Alabama",
+   "side": 2
+  }
+ },
+ {
   "id": "A07F6163-A537-4389-93D9-797872657769",
   "date": "2027-02-21",
   "dateTime": "2027-02-21T07:00:00.000Z",
@@ -2806,6 +2874,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "isu-w",
    "name": "Iowa State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "E8D6BEE0-2C2B-4A48-A33D-E74469E07AB6",
+  "date": "2027-02-21",
+  "dateTime": "2027-02-21T20:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Belmont University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "uab-m",
+   "name": "Univ. Of Alabama, Birmingham",
    "side": 2
   }
  },
@@ -4476,6 +4561,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "85CA7A24-7FA9-4EFA-AAC6-98CD83796398",
+  "date": "2027-03-24",
+  "dateTime": "2027-03-24T19:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Belmont University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "dart-m",
+   "name": "Dartmouth College",
+   "side": 2
+  }
+ },
+ {
   "id": "1C1EFD0F-887E-4DC9-A637-8AC486ACA3D0",
   "date": "2027-03-25",
   "dateTime": "2027-03-25T04:00:00.000Z",
@@ -5543,6 +5645,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "van-m",
    "name": "Vanderbilt University",
+   "side": 2
+  }
+ },
+ {
+  "id": "3FE05858-CDE2-45E2-B225-FFE4895F4089",
+  "date": "2027-04-11",
+  "dateTime": "2027-04-11T04:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Belmont University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "lou-m",
+   "name": "University Of Louisville",
    "side": 2
   }
  },

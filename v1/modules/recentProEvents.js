@@ -1186,9 +1186,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Chiara Di Genova",
      "score": "6-1 6-2"
+    },
+    {
+     "id": "at-12175858",
+     "date": "2026-10-30",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Scarlett Fagan",
+     "score": "6-4 6-2"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -2065,9 +2074,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Aoran Wang",
      "score": "6-4 7-6(3)"
+    },
+    {
+     "id": "at-12175856",
+     "date": "2026-10-30",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Emery Combs",
+     "score": "6-3 6-1"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -2216,9 +2234,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Kallista Liu",
      "score": "6-2 6-4"
+    },
+    {
+     "id": "at-12175857",
+     "date": "2026-10-30",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Lani Chang",
+     "score": "6-1 6-1"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -2380,9 +2407,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Alejandro Arcila",
      "score": "6-3 2-6 6-3"
+    },
+    {
+     "id": "at-12175844",
+     "date": "2026-10-30",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Jerry Roddick",
+     "score": "2-6 7-5 7-6(4)"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -2411,9 +2447,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Luca Preda",
      "score": "6-1 6-1"
+    },
+    {
+     "id": "at-12175789",
+     "date": "2026-10-30",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Jack Anthrop",
+     "score": "6-3 2-6 6-3"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -2934,9 +2979,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Carolina Gomez",
      "score": "7-5 6-3"
+    },
+    {
+     "id": "at-12175828",
+     "date": "2026-10-30",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Alina Shcherbinina",
+     "score": "6-1 7-5"
     }
    ],
-   "reached": "First",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -2956,9 +3010,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Yaroslava Bartashevich",
      "score": "6-4 6-4"
+    },
+    {
+     "id": "at-12175859",
+     "date": "2026-10-30",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Gloriana Nahum",
+     "score": "6-1 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -3520,9 +3583,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Patrik Munkhammar",
      "score": "6-2 6-4"
+    },
+    {
+     "id": "at-12175826",
+     "date": "2026-10-30",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Filip Jeff Planinsek",
+     "score": "6-3 6-4"
     }
    ],
-   "reached": "First",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -5192,9 +5264,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Andrew Johnson",
      "score": "6-2 6-2"
+    },
+    {
+     "id": "at-12175824",
+     "date": "2026-10-30",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Nikita Filin",
+     "score": "7-5 6-4"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -5896,9 +5977,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Jenson Brooksby",
      "score": "6-3 6-3"
+    },
+    {
+     "id": "at-12175655",
+     "date": "2026-10-30",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "John Jeffrey Wolf",
+     "score": "6-2 7-5"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -5993,9 +6083,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Noah Johnston",
      "score": "6-3 6-3"
+    },
+    {
+     "id": "at-12175825",
+     "date": "2026-10-30",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Tanishk Konduri",
+     "score": "6-7(4) 6-4 6-0"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -6168,9 +6267,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Aidan McHugh",
      "score": "6-1 7-5"
+    },
+    {
+     "id": "at-12175848",
+     "date": "2026-10-30",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Alastair Gray",
+     "score": "7-6(4) 6-2"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -6210,9 +6318,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Kaylan Bigun",
      "score": "6-4 7-6"
+    },
+    {
+     "id": "at-12175644",
+     "date": "2026-10-30",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Aidan Mayo",
+     "score": "6-3 6-4"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
