@@ -1104,10 +1104,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Scarlett Fagan",
      "score": "6-4 6-2"
+    },
+    {
+     "id": "at-12176001",
+     "date": "2026-10-31",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Lani Chang",
+     "score": "4-6 6-2 6-2"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "17373",
@@ -2777,10 +2786,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Gloriana Nahum",
      "score": "6-1 6-1"
+    },
+    {
+     "id": "at-12175973",
+     "date": "2026-10-31",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Alina Shcherbinina",
+     "score": "6-2 7-5"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "ou-w-n3": [
@@ -5622,10 +5640,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "John Jeffrey Wolf",
      "score": "6-2 7-5"
+    },
+    {
+     "id": "at-12175988",
+     "date": "2026-10-31",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Aidan Mayo",
+     "score": "6-4 6-2"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "uva-m-p5": [
@@ -6032,9 +6059,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Darian King",
      "score": "6-3 6-4"
+    },
+    {
+     "id": "at-12175822",
+     "date": "2026-10-31",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Keshav Chopra",
+     "score": "6-2 6-0"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ]
