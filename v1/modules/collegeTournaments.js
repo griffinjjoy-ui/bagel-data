@@ -11,5 +11,11 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "name": "2026 ITA DII Individual Championships",
     "start": "2026-11-04",
     "end": "2026-11-08"
+  },
+  {
+    "id": "6ae78100bb10a7ea858af2f9",
+    "name": "2026 ITA DI Women's West Sectional Championship",
+    "start": "2026-11-05",
+    "end": "2026-11-08"
   }
 ];
