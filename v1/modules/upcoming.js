@@ -4,16 +4,6 @@
 // included). Opponent + event, no result yet. Re-run the script to refresh.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
-  "playerId": "ou-w-h7",
-  "name": "Alina Shcherbinina",
-  "teamId": "ou-w",
-  "gender": "women",
-  "opponent": "Dana Guzman",
-  "event": "W35 Norman",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
   "playerId": "gt-m-h8",
   "name": "Andres Martin",
   "teamId": "gt-m",
@@ -54,52 +44,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "tenn-m-h10",
-  "name": "Blaise Bicknell",
-  "teamId": "tenn-m",
-  "gender": "men",
-  "opponent": "Kacper Szymkowiak",
-  "event": "M15 Pembroke",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
-  "playerId": "ou-w-h3",
-  "name": "Dana Guzman",
-  "teamId": "ou-w",
-  "gender": "women",
-  "opponent": "Alina Shcherbinina",
-  "event": "W35 Norman",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
   "playerId": "tcu-m-p3",
   "name": "Duncan Chan",
   "teamId": "tcu-m",
   "gender": "men",
   "opponent": "Aidan Mayo",
   "event": "Charlottesville Challenger",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
-  "playerId": "uva-m-p2",
-  "name": "Dylan Dietrich",
-  "teamId": "uva-m",
-  "gender": "men",
-  "opponent": "Liam Draxl",
-  "event": "Sioux Falls Challenger",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
-  "playerId": "pepp-m-h6",
-  "name": "Eero Vasa",
-  "teamId": "pepp-m",
-  "gender": "men",
-  "opponent": "Andrej Martin",
-  "event": "Bratislava 2 Challenger",
   "date": "2026-11-01",
   "day": "today"
  },
@@ -114,62 +64,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "wich-m-fp92",
-  "name": "Felix Bockelmann Evans",
-  "teamId": "wich-m",
-  "gender": "men",
-  "opponent": "Marcel Latak",
-  "event": "Charlottesville Challenger",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
-  "playerId": "ncst-w-h5",
-  "name": "Gina Dittmann",
-  "teamId": "ncst-w",
-  "gender": "women",
-  "opponent": "Christina Bednarczyk",
-  "event": "W75 Petange",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
-  "playerId": "uva-m-p5",
-  "name": "Jangjun Kim",
-  "teamId": "uva-m",
-  "gender": "men",
-  "opponent": "Ozan Baris",
-  "event": "Charlottesville Challenger",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
-  "playerId": "wake-m-p8",
-  "name": "Kacper Szymkowiak",
-  "teamId": "wake-m",
-  "gender": "men",
-  "opponent": "Blaise Bicknell",
-  "event": "M15 Pembroke",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
   "playerId": "unc-m-h8",
   "name": "Karl Poling",
   "teamId": "unc-m",
   "gender": "men",
   "opponent": "Andrew Fenty",
   "event": "Charlottesville Challenger",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
-  "playerId": "tenn-p6",
-  "name": "Katrina Scott",
-  "teamId": "tenn-w",
-  "gender": "women",
-  "opponent": "Laura Pigossi",
-  "event": "Cali Open - Cali",
   "date": "2026-11-01",
   "day": "today"
  },
@@ -184,16 +84,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "uk-m-h1",
-  "name": "Liam Draxl",
-  "teamId": "uk-m",
-  "gender": "men",
-  "opponent": "Dylan Dietrich",
-  "event": "Sioux Falls Challenger",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
   "playerId": "fsu-m-fp23",
   "name": "Luis Felipe Miguel",
   "teamId": "fsu-m",
@@ -204,72 +94,12 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "today"
  },
  {
-  "playerId": "ku-w-h3",
-  "name": "Malkia Ngounoue",
-  "teamId": "ku-w",
-  "gender": "women",
-  "opponent": "Martina Lo Pumo",
-  "event": "W75 Petange",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
-  "playerId": "fau-w-p6",
-  "name": "Malwina Rowinska",
-  "teamId": "fau-w",
-  "gender": "women",
-  "opponent": "Emery Combs",
-  "event": "W15 Sumter",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
-  "playerId": "msu-m-fp274",
-  "name": "Ozan Baris",
-  "teamId": "msu-m",
-  "gender": "men",
-  "opponent": "Jangjun Kim",
-  "event": "Charlottesville Challenger",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
   "playerId": "ucla-m-h5",
   "name": "Patrick Zahraj",
   "teamId": "ucla-m",
   "gender": "men",
   "opponent": "Andres Martin",
   "event": "Charlottesville Challenger",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
-  "playerId": "unc-m-h9",
-  "name": "Ryan Seggerman",
-  "teamId": "unc-m",
-  "gender": "men",
-  "opponent": "Jonas Forejtek",
-  "event": "Bratislava 2 Challenger",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
-  "playerId": "tenn-m-h6",
-  "name": "Shunsuke Mitsui",
-  "teamId": "tenn-m",
-  "gender": "men",
-  "opponent": "Geoffrey Blancaneaux",
-  "event": "Charlottesville Challenger",
-  "date": "2026-11-01",
-  "day": "today"
- },
- {
-  "playerId": "lsu-w-h11",
-  "name": "Tilwith Di Girolami",
-  "teamId": "lsu-w",
-  "gender": "women",
-  "opponent": "Annemarie Lazar",
-  "event": "W75 Petange",
   "date": "2026-11-01",
   "day": "today"
  },
@@ -289,16 +119,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "teamId": "fla-m",
   "gender": "men",
   "opponent": "Michael Antonius",
-  "event": "Charlottesville Challenger",
-  "date": "2026-11-02",
-  "day": "tomorrow"
- },
- {
-  "playerId": "fla-m-h11",
-  "name": "Andres Andrade",
-  "teamId": "fla-m",
-  "gender": "men",
-  "opponent": "Harry Wendelken",
   "event": "Charlottesville Challenger",
   "date": "2026-11-02",
   "day": "tomorrow"
@@ -344,16 +164,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "wash-m-h10",
-  "name": "Clement Chidekh",
-  "teamId": "wash-m",
-  "gender": "men",
-  "opponent": "Andres Santamarta Roig",
-  "event": "Charlottesville Challenger",
-  "date": "2026-11-02",
-  "day": "tomorrow"
- },
- {
   "playerId": "ariz-m-h3",
   "name": "Colton Smith",
   "teamId": "ariz-m",
@@ -364,12 +174,32 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
-  "playerId": "sc-m-p1",
-  "name": "Lucas Andrade da Silva",
-  "teamId": "sc-m",
+  "playerId": "harv-m-h3",
+  "name": "Daniel Milavsky",
+  "teamId": "harv-m",
   "gender": "men",
-  "opponent": "Lautaro Midon",
-  "event": "Costa do Sauipe Challenger",
+  "opponent": "Shunsuke Mitsui",
+  "event": "Charlottesville Challenger",
+  "date": "2026-11-02",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ttu-m-h2",
+  "name": "Franco Ribero",
+  "teamId": "ttu-m",
+  "gender": "men",
+  "opponent": "Nicolas Bruna",
+  "event": "Villa Maria Challenger",
+  "date": "2026-11-02",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "osu-m-h2",
+  "name": "Justin Boulais",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Samuel Heredia",
+  "event": "Charlottesville Challenger",
   "date": "2026-11-02",
   "day": "tomorrow"
  },
@@ -380,16 +210,6 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "women",
   "opponent": "Mai Hontama",
   "event": "Chennai Open - Chennai",
-  "date": "2026-11-02",
-  "day": "tomorrow"
- },
- {
-  "playerId": "ucla-m-h13",
-  "name": "Marcos Giron",
-  "teamId": "ucla-m",
-  "gender": "men",
-  "opponent": "Dylan Dietrich",
-  "event": "Charlottesville Challenger",
   "date": "2026-11-02",
   "day": "tomorrow"
  },
@@ -424,6 +244,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "day": "tomorrow"
  },
  {
+  "playerId": "msu-m-fp274",
+  "name": "Ozan Baris",
+  "teamId": "msu-m",
+  "gender": "men",
+  "opponent": "James Kent Trotter",
+  "event": "Charlottesville Challenger",
+  "date": "2026-11-02",
+  "day": "tomorrow"
+ },
+ {
   "playerId": "usc-m-h3",
   "name": "Peter Makk",
   "teamId": "usc-m",
@@ -450,6 +280,16 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "gender": "men",
   "opponent": "Alejandro Tabilo",
   "event": "Rolex Paris Masters - Paris",
+  "date": "2026-11-02",
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tenn-m-h6",
+  "name": "Shunsuke Mitsui",
+  "teamId": "tenn-m",
+  "gender": "men",
+  "opponent": "Daniel Milavsky",
+  "event": "Charlottesville Challenger",
   "date": "2026-11-02",
   "day": "tomorrow"
  }

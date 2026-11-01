@@ -17,5 +17,17 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "name": "2026 ITA DI Women's West Sectional Championship",
     "start": "2026-11-05",
     "end": "2026-11-08"
+  },
+  {
+    "id": "6ae7884ebb10a7ea85954c70",
+    "name": "2026 ITA DI Women's South Sectional Championship",
+    "start": "2026-11-05",
+    "end": "2026-11-08"
+  },
+  {
+    "id": "6ae7bff1bb10a7ea85d96c11",
+    "name": "2026 ITA DI Women's East Sectional Championship",
+    "start": "2026-11-05",
+    "end": "2026-11-08"
   }
 ];
