@@ -598,6 +598,72 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "clem-m-p4": [
+  {
+   "key": "900013397",
+   "name": "M15 Trois-Rivieres",
+   "date": "2026-11-02",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12176497",
+     "date": "2026-11-02",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "C. Colburne",
+     "score": "6-4 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "clem-m-p5": [
+  {
+   "key": "900013397",
+   "name": "M15 Trois-Rivieres",
+   "date": "2026-11-02",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12176813",
+     "date": "2026-11-03",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "L. Spiers",
+     "score": "6-2 7-6(9)"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "clem-m-p6": [
+  {
+   "key": "900013397",
+   "name": "M15 Trois-Rivieres",
+   "date": "2026-11-02",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12176814",
+     "date": "2026-11-03",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Mikael Arseneault",
+     "score": "7-6(4) 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "clem-m-p7": [
   {
    "key": "22172",
@@ -626,6 +692,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Second",
+   "reachedTone": "neutral"
+  }
+ ],
+ "clem-m-p8": [
+  {
+   "key": "900013397",
+   "name": "M15 Trois-Rivieres",
+   "date": "2026-11-02",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12176812",
+     "date": "2026-11-03",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "A. Clavel",
+     "score": "6-3 2-6 6-3"
+    }
+   ],
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -1026,10 +1114,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Lani Chang",
      "score": "4-6 6-2 6-2"
+    },
+    {
+     "id": "at-12176202",
+     "date": "2026-11-01",
+     "roundId": 12,
+     "round": "Final",
+     "won": false,
+     "opponent": "Emery Combs",
+     "score": "6-4 ret."
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Final",
+   "reachedTone": "amber"
   },
   {
    "key": "17373",
@@ -1151,6 +1248,37 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "fsu-m-fp23": [
+  {
+   "key": "900013361",
+   "name": "Costa do Sauipe Challenger",
+   "date": "2026-11-01",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12176314",
+     "date": "2026-11-01",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Federico Zeballos",
+     "score": "6-1 6-2"
+    },
+    {
+     "id": "at-12176496",
+     "date": "2026-11-02",
+     "roundId": 2,
+     "round": "Q2",
+     "won": true,
+     "opponent": "Eduardo Ribeiro",
+     "score": "6-7(1) 6-4 6-3"
+    }
+   ],
+   "reached": "Q2",
    "reachedTone": "neutral"
   }
  ],
@@ -1593,6 +1721,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "lsu-p8": [
+  {
+   "key": "900014838",
+   "name": "W50 Huamantla",
+   "date": "2026-11-03",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12176882",
+     "date": "2026-11-03",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Isabella Marton",
+     "score": "6-2 1-6 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900010655",
    "name": "W50 Morelia",
@@ -3439,6 +3587,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "tcu-m-p3": [
   {
+   "key": "900002497",
+   "name": "Charlottesville Challenger",
+   "date": "2026-11-01",
+   "surface": null,
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12176364",
+     "date": "2026-11-01",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Aidan Mayo",
+     "score": "6-4 6-4"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22111",
    "name": "Sioux Falls Challenger",
    "date": "2026-10-26",
@@ -3746,6 +3914,35 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tenn-p6": [
+  {
+   "key": "900001857",
+   "name": "Cali Challenger",
+   "date": "2026-11-01",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12176414",
+     "date": "2026-11-01",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Maria Fernanda Herazo Gonzalez",
+     "score": "7-6(2) 6-4"
+    },
+    {
+     "id": "at-12176618",
+     "date": "2026-11-03",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Renata Zarazua",
+     "score": "6-1 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900013362",
    "name": "Queretaro Challenger",
@@ -4997,13 +5194,42 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Aidan Mayo",
      "score": "6-4 6-2"
+    },
+    {
+     "id": "at-12176366",
+     "date": "2026-11-01",
+     "roundId": 12,
+     "round": "Final",
+     "won": true,
+     "opponent": "Liam Draxl",
+     "score": "1-6 6-3 6-4"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Title",
+   "reachedTone": "gold"
   }
  ],
  "uva-m-p5": [
+  {
+   "key": "900002497",
+   "name": "Charlottesville Challenger",
+   "date": "2026-11-01",
+   "surface": null,
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12176358",
+     "date": "2026-11-01",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Ozan Baris",
+     "score": "6-3 6-4"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "22109",
    "name": "Seoul Challenger",
@@ -5071,6 +5297,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "uva-m-p9": [
   {
+   "key": "900002497",
+   "name": "Charlottesville Challenger",
+   "date": "2026-11-01",
+   "surface": null,
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12176376",
+     "date": "2026-11-03",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Clement Chidekh",
+     "score": "6-1 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "900014816",
    "name": "M25 Las Vegas",
    "date": "2026-10-27",
@@ -5103,10 +5349,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Tanishk Konduri",
      "score": "6-7(4) 6-4 6-0"
+    },
+    {
+     "id": "at-12175989",
+     "date": "2026-10-31",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Jack Anthrop",
+     "score": "3-6 7-6(4) 6-3"
+    },
+    {
+     "id": "at-12176368",
+     "date": "2026-11-01",
+     "roundId": 12,
+     "round": "Final",
+     "won": true,
+     "opponent": "Jerry Roddick",
+     "score": "3-6 6-2 6-1"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "Title",
+   "reachedTone": "gold"
   }
  ],
  "uva-w-p8": [
@@ -5292,6 +5556,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "wake-m-p8": [
+  {
+   "key": "900014832",
+   "name": "M15 Pembroke 2",
+   "date": "2026-11-03",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12176832",
+     "date": "2026-11-03",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Stephen Slocombe",
+     "score": "6-2 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900014811",
    "name": "M15 Pembroke",
