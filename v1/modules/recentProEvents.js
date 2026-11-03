@@ -348,6 +348,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "asu-m-p9": [
+  {
+   "key": "900014816",
+   "name": "M25 Las Vegas",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12175183",
+     "date": "2026-10-28",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Andrew Johnson",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "asu-w-p2": [
   {
    "key": "900011973",

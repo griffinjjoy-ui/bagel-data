@@ -15,23 +15,24 @@ export const refresh2627NewPlayers = globalThis.__BAGEL_REMOTE__?.["roster2627"]
   {"id":"ark-w-n2","teamId":"ark-w","name":"Natalie Oliver","classYear":null,"hometown":null,"nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"ark-w-n3","teamId":"ark-w","name":"Daria Koreshkova","classYear":null,"hometown":null,"nationality":"Russia","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"aub-m-n1","teamId":"aub-m","name":"Tyler Bowers","classYear":"Senior","hometown":"Alpharetta, Ga.","nationality":"USA","collegeRank":null,"atpCareerHigh":1489,"atpCareerHighDate":"2025-07-28","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"aub-m-n3","teamId":"aub-m","name":"Duje Markovina","classYear":null,"hometown":"Brisbane, Australia","nationality":"Australia","collegeRank":null,"atpCareerHigh":995,"atpCareerHighDate":"2026-10-05","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
+  {"id":"aub-m-n3","teamId":"aub-m","name":"Duje Markovina","classYear":null,"hometown":"Brisbane, Australia","nationality":"Australia","collegeRank":null,"atpCareerHigh":986,"atpCareerHighDate":"2026-10-19","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"aub-m-n4","teamId":"aub-m","name":"Patrik Munkhammar","classYear":null,"hometown":"Stockholm, Sweden","nationality":"Sweden","collegeRank":null,"atpRank":null,"atpCareerHigh":1432,"atpCareerHighDate":"2026-10-19","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/patrik-munkhammar/m0x3/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"aub-w-n1","teamId":"aub-w","name":"Maya Iyengar","classYear":null,"hometown":"Scottsdale, AZ","nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":727},
   {"id":"bay-w-n1","teamId":"bay-w","name":"Duanrui Gao","classYear":"Freshman","hometown":"Tianjin, China","nationality":"China","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1186},
   {"id":"bc-w-n2","teamId":"bc-w","name":"Lucy King","classYear":"Junior","hometown":null,"nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"bc-w-n1","teamId":"bc-w","name":"Jacqueline Soloveychik","classYear":null,"hometown":null,"nationality":null,"collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"byu-m-n1","teamId":"byu-m","name":"Leon Peranovic","classYear":"Sophomore","hometown":null,"nationality":"Germany","collegeRank":null,"atpCareerHigh":2160,"atpCareerHighDate":"2026-10-05","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
+  {"id":"byu-m-n1","teamId":"byu-m","name":"Leon Peranovic","classYear":"Sophomore","hometown":null,"nationality":"Germany","collegeRank":null,"atpCareerHigh":2148,"atpCareerHighDate":"2026-10-19","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
+  {"id":"cal-w-n1","teamId":"cal-w","name":"Katelyn Smith","classYear":null,"hometown":null,"nationality":null,"collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"clem-w-n1","teamId":"clem-w","name":"Sara Suchankova","classYear":"Senior","hometown":null,"nationality":"Slovakia","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/330580/sara-suchankova"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"clem-w-n2","teamId":"clem-w","name":"Celia Anson Sanchez","classYear":null,"hometown":null,"nationality":"Spain","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333413/celia-anson-sanchez"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1372,"wtaCareerHighDate":"2026-10-19"},
+  {"id":"clem-w-n2","teamId":"clem-w","name":"Celia Anson Sanchez","classYear":null,"hometown":null,"nationality":"Spain","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333413/celia-anson-sanchez"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1371,"wtaCareerHighDate":"2026-10-26"},
   {"id":"clem-w-n3","teamId":"clem-w","name":"Harper Stone","classYear":"Freshman","hometown":null,"nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/335212/harper-stone"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"colum-m-n1","teamId":"colum-m","name":"Shaan Patel","classYear":"FY","hometown":"Frontenac, Missouri","nationality":"USA","collegeRank":null,"atpRank":null,"atpCareerHigh":null,"atpCareerHighDate":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"colum-m-n3","teamId":"colum-m","name":"Charlie Valentine","classYear":"Sophomore","hometown":"Amsterdam, Netherlands","nationality":"Netherlands","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"colum-m-n4","teamId":"colum-m","name":"Damir Zhalgasbay","classYear":"FY","hometown":"Almaty, Kazakhstan","nationality":"Kazakhstan","collegeRank":null,"atpCareerHigh":1128,"atpCareerHighDate":"2026-08-31","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
+  {"id":"colum-m-n4","teamId":"colum-m","name":"Damir Zhalgasbay","classYear":"FY","hometown":"Almaty, Kazakhstan","nationality":"Kazakhstan","collegeRank":null,"atpCareerHigh":1079,"atpCareerHighDate":"2026-10-19","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"colum-m-n2","teamId":"colum-m","name":"Gray Kelley","classYear":"FY","hometown":"Los Angeles, Calif.","nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"colum-w-n6","teamId":"colum-w","name":"Elena Zhao","classYear":"FY","hometown":"San Diego, Calif.","nationality":null,"collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"colum-w-n2","teamId":"colum-w","name":"Margot Phanthala","classYear":"Sophomore","hometown":"Paris, France","nationality":"France","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/331886/margot-phanthala"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1259},
-  {"id":"colum-w-n3","teamId":"colum-w","name":"Kenzie Nguyen","classYear":"FY","hometown":"Irvine, Calif.","nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333640/kenzie-nguyen"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1308,"wtaCareerHighDate":"2026-10-19"},
+  {"id":"colum-w-n3","teamId":"colum-w","name":"Kenzie Nguyen","classYear":"FY","hometown":"Irvine, Calif.","nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333640/kenzie-nguyen"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1298,"wtaCareerHighDate":"2026-10-26"},
   {"id":"colum-w-n4","teamId":"colum-w","name":"Amy Lee","classYear":"FY","hometown":"Los Angeles, Calif.","nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"colum-w-n5","teamId":"colum-w","name":"Kylie Nguyen","classYear":"FY","hometown":"Irvine, Calif.","nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"colum-w-n8","teamId":"colum-w","name":"Isabelle Sobee Oak","classYear":"FY","hometown":"New York, N.Y.","nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
@@ -66,9 +67,9 @@ export const refresh2627NewPlayers = globalThis.__BAGEL_REMOTE__?.["roster2627"]
   {"id":"fla-m-n1","teamId":"fla-m","name":"Alaa Trifi","classYear":null,"hometown":null,"nationality":"Tunisia","collegeRank":null,"atpRank":867,"atpCareerHigh":853,"atpCareerHighDate":"2026-08-03","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/alaa-trifi/t0jo/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"fla-m-n2","teamId":"fla-m","name":"Ty Host","classYear":null,"hometown":null,"nationality":"Australia","collegeRank":null,"atpRank":null,"atpCareerHigh":1365,"atpCareerHighDate":"2026-10-19","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/ty-host/h0li/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"fla-m-n3","teamId":"fla-m","name":"Chen Ye","classYear":"Freshman","hometown":null,"nationality":"China","collegeRank":null,"atpCareerHigh":1489,"atpCareerHighDate":"2026-08-31","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"fla-w-n3","teamId":"fla-w","name":"Capucine Jauffret","classYear":"Freshman","hometown":null,"nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333572/capucine-jauffret"},"itfRank":null,"itfCareerHigh":null,"wtaRank":850,"wtaCareerHigh":712,"wtaCareerHighDate":"2026-10-19"},
-  {"id":"fla-w-n1","teamId":"fla-w","name":"Jana Hossam Salah","classYear":"Junior","hometown":null,"nationality":"Egypt","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/334549/jana-hossam-salah"},"itfRank":null,"itfCareerHigh":null,"wtaRank":870,"wtaCareerHigh":846,"wtaCareerHighDate":"2026-10-19"},
-  {"id":"fla-w-n2","teamId":"fla-w","name":"Allegra Korpanec Davies","classYear":"Freshman","hometown":null,"nationality":"Great Britain","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/332915/allegra-korpanec-davies"},"itfRank":null,"itfCareerHigh":null,"wtaRank":727,"wtaCareerHigh":681,"wtaCareerHighDate":"2026-10-19"},
+  {"id":"fla-w-n3","teamId":"fla-w","name":"Capucine Jauffret","classYear":"Freshman","hometown":null,"nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333572/capucine-jauffret"},"itfRank":null,"itfCareerHigh":null,"wtaRank":850,"wtaCareerHigh":707,"wtaCareerHighDate":"2026-10-26"},
+  {"id":"fla-w-n1","teamId":"fla-w","name":"Jana Hossam Salah","classYear":"Junior","hometown":null,"nationality":"Egypt","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/334549/jana-hossam-salah"},"itfRank":null,"itfCareerHigh":null,"wtaRank":870,"wtaCareerHigh":838,"wtaCareerHighDate":"2026-10-26"},
+  {"id":"fla-w-n2","teamId":"fla-w","name":"Allegra Korpanec Davies","classYear":"Freshman","hometown":null,"nationality":"Great Britain","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/332915/allegra-korpanec-davies"},"itfRank":null,"itfCareerHigh":null,"wtaRank":727,"wtaCareerHigh":673,"wtaCareerHighDate":"2026-10-26"},
   {"id":"fsu-m-n1","teamId":"fsu-m","name":"Benjamin Saltman","classYear":null,"hometown":null,"nationality":null,"collegeRank":null,"atpRank":null,"atpCareerHigh":null,"atpCareerHighDate":null,"proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/benjamin-saltman/s1co/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"fsu-m-n2","teamId":"fsu-m","name":"Seydina Andre","classYear":null,"hometown":null,"nationality":"Senegal","collegeRank":null,"atpCareerHigh":707,"atpCareerHighDate":"2026-06-29","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"fsu-m-n3","teamId":"fsu-m","name":"Mikail Alimli","classYear":null,"hometown":null,"nationality":"France","collegeRank":null,"atpRank":null,"atpCareerHigh":1408,"atpCareerHighDate":"2026-10-19","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/mikail-alimli/a0hk/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
@@ -84,7 +85,7 @@ export const refresh2627NewPlayers = globalThis.__BAGEL_REMOTE__?.["roster2627"]
   {"id":"harv-m-n5","teamId":"harv-m","name":"RJ Kuo","classYear":"Freshman","hometown":null,"nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"harv-w-n1","teamId":"harv-w","name":"Elizabeth Evans","classYear":null,"hometown":null,"nationality":"Great Britain","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"harv-w-n2","teamId":"harv-w","name":"Amina Zeghlouli","classYear":null,"hometown":null,"nationality":"Morocco","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"harv-w-n3","teamId":"harv-w","name":"Anna Tabunshchyk","classYear":null,"hometown":null,"nationality":"Canada","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/334526/anna-tabunshchyk"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1077,"wtaCareerHighDate":"2026-10-19"},
+  {"id":"harv-w-n3","teamId":"harv-w","name":"Anna Tabunshchyk","classYear":null,"hometown":null,"nationality":"Canada","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/334526/anna-tabunshchyk"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1123,"wtaCareerHighDate":"2026-10-26"},
   {"id":"haw-m-n1","teamId":"haw-m","name":"Ian Layton","classYear":"Junior","hometown":null,"nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"haw-m-n2","teamId":"haw-m","name":"Soeren Grandke","classYear":"Senior","hometown":null,"nationality":"Germany","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"haw-m-n3","teamId":"haw-m","name":"Simon Knezevic","classYear":"Junior","hometown":null,"nationality":"Montenegro","collegeRank":null,"atpRank":null,"atpCareerHigh":null,"atpCareerHighDate":null,"proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/simon-knezevic/k0mr/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
@@ -110,9 +111,9 @@ export const refresh2627NewPlayers = globalThis.__BAGEL_REMOTE__?.["roster2627"]
   {"id":"lsu-m-n3","teamId":"lsu-m","name":"Nikolas Stoot","classYear":"Freshman","hometown":null,"nationality":"USA","collegeRank":null,"atpCareerHigh":1297,"atpCareerHighDate":"2026-05-25","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"lsu-w-n1","teamId":"lsu-w","name":"Ni Xi","classYear":"Junior","hometown":null,"nationality":"China","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"lsu-w-n2","teamId":"lsu-w","name":"Aya El Aouni","classYear":"Sophomore","hometown":null,"nationality":"Morocco","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/330483/aya-el-aouni"},"itfRank":null,"itfCareerHigh":null,"wtaRank":849,"wtaCareerHigh":598,"wtaCareerHighDate":"2025-01-27"},
-  {"id":"lsu-w-n3","teamId":"lsu-w","name":"Dora Miskovic","classYear":null,"hometown":null,"nationality":"Croatia","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333383/dora-miskovic"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1177,"wtaCareerHighDate":"2026-10-19"},
+  {"id":"lsu-w-n3","teamId":"lsu-w","name":"Dora Miskovic","classYear":null,"hometown":null,"nationality":"Croatia","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333383/dora-miskovic"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1172,"wtaCareerHighDate":"2026-10-26"},
   {"id":"lsu-w-n5","teamId":"lsu-w","name":"Nada Fouad","classYear":null,"hometown":null,"nationality":"Egypt","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/329481/nada-fouad"},"itfRank":null,"itfCareerHigh":null,"wtaRank":660,"wtaCareerHigh":649,"wtaCareerHighDate":"2026-07-20"},
-  {"id":"lsu-w-n4","teamId":"lsu-w","name":"Tegan Bush","classYear":null,"hometown":null,"nationality":"Great Britain","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/334395/tegan-bush"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1198,"wtaCareerHighDate":"2026-10-19"},
+  {"id":"lsu-w-n4","teamId":"lsu-w","name":"Tegan Bush","classYear":null,"hometown":null,"nationality":"Great Britain","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/334395/tegan-bush"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1402,"wtaCareerHighDate":"2026-10-26"},
   {"id":"miami-m-n1","teamId":"miami-m","name":"Ashton Adesoro","classYear":"Senior","hometown":null,"nationality":"USA","collegeRank":null,"atpRank":null,"atpCareerHigh":null,"atpCareerHighDate":null,"proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/ashton-adesoro/a0mi/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"miami-m-n2","teamId":"miami-m","name":"Felix Felsmann","classYear":"Sophomore","hometown":null,"nationality":"Germany","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"miami-m-n3","atpCareerHigh":889,"teamId":"miami-m","name":"Salvador Price","classYear":"Senior","hometown":null,"nationality":"Colombia","collegeRank":null,"atpRank":900,"atpCareerHigh":889,"atpCareerHighDate":"2026-06-08","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/salvador-price/p0lg/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
@@ -121,12 +122,12 @@ export const refresh2627NewPlayers = globalThis.__BAGEL_REMOTE__?.["roster2627"]
   {"id":"miami-w-n1","teamId":"miami-w","name":"Michaela Laki","classYear":"Senior","hometown":null,"nationality":"Greece","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/330443/michaela-laki"},"itfRank":null,"itfCareerHigh":null,"wtaRank":746,"wtaCareerHigh":466,"wtaCareerHighDate":"2023-11-13"},
   {"id":"miami-w-n2","wtaCareerHighDate":"2026-06-29","teamId":"miami-w","name":"Anna Perelman","classYear":"Senior","hometown":null,"nationality":"Russia","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333529/anna-perelman"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":327},
   {"id":"miami-w-n3","teamId":"miami-w","name":"Berrak Kocak","classYear":null,"hometown":null,"nationality":"Turkey","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1316},
-  {"id":"mich-w-n1","teamId":"mich-w","name":"McKenna Schaefbauer","classYear":"Senior","hometown":null,"nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/330865/mckenna-schaefbauer"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1070,"wtaCareerHighDate":"2026-10-19"},
+  {"id":"mich-w-n1","teamId":"mich-w","name":"McKenna Schaefbauer","classYear":"Senior","hometown":null,"nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/330865/mckenna-schaefbauer"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1064,"wtaCareerHighDate":"2026-10-26"},
   {"id":"mich-w-n2","teamId":"mich-w","name":"Olivia Traynor","classYear":"Freshman","hometown":null,"nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/335206/olivia-traynor"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"mich-w-n3","teamId":"mich-w","name":"Calla McGill","classYear":null,"hometown":null,"nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"mich-w-n4","teamId":"mich-w","name":"Reagan Levine","classYear":null,"hometown":null,"nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"minn-w-n1","teamId":"minn-w","name":"Kamea Medora","classYear":"Junior","hometown":"Hauula, Hawaii","nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"minn-w-n2","teamId":"minn-w","name":"Massiva Boukirat","classYear":"Freshman","hometown":"Paris, France","nationality":"France","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333291/massiva-boukirat"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1507,"wtaCareerHighDate":"2026-10-19"},
+  {"id":"minn-w-n2","teamId":"minn-w","name":"Massiva Boukirat","classYear":"Freshman","hometown":"Paris, France","nationality":"France","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333291/massiva-boukirat"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1502,"wtaCareerHighDate":"2026-10-26"},
   {"id":"minn-w-n3","teamId":"minn-w","name":"Ksenia Hanke","classYear":"Freshman","hometown":"Hanover, Germany","nationality":"Germany","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"minn-w-n4","teamId":"minn-w","name":"Leina GAO","classYear":"Freshman","hometown":"Beijing, China","nationality":"China","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"miss-m-n4","teamId":"miss-m","name":"Mason Landreth","classYear":"Senior","hometown":"Lafayette, Louisiana","nationality":"Louisiana","collegeRank":null,"atpRank":null,"atpCareerHigh":null,"atpCareerHighDate":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
@@ -140,7 +141,7 @@ export const refresh2627NewPlayers = globalThis.__BAGEL_REMOTE__?.["roster2627"]
   {"id":"miz-w-n8","teamId":"miz-w","name":"Evelyn Whiteside","classYear":"Freshman","hometown":"San Antonio, Texas","nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"miz-w-n1","teamId":"miz-w","name":"Alexandra Irina Anghel","classYear":null,"hometown":null,"nationality":"Romania","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1101},
   {"id":"miz-w-n5","teamId":"miz-w","name":"Mariana Isabel Higuita Barraza","classYear":null,"hometown":null,"nationality":"Colombia","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1050},
-  {"id":"miz-w-n4","teamId":"miz-w","name":"Danielle Dai Chapman","classYear":null,"hometown":null,"nationality":"South Africa","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1162},
+  {"id":"miz-w-n4","teamId":"miz-w","name":"Danielle Dai Chapman","classYear":null,"hometown":null,"nationality":"South Africa","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1159},
   {"id":"miz-w-n2","teamId":"miz-w","name":"Leticia Alessia Bazán Bazán","classYear":null,"hometown":null,"nationality":"Peru","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"msst-m-n1","teamId":"msst-m","name":"Diego Duran","classYear":"Senior","hometown":null,"nationality":"El Salvador","collegeRank":null,"atpRank":null,"atpCareerHigh":1635,"atpCareerHighDate":"2025-08-04","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/diego-duran/d0fo/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"msst-m-n2","teamId":"msst-m","name":"Segundo Goity Zapico","classYear":"Junior","hometown":null,"nationality":"Argentina","collegeRank":null,"atpRank":null,"atpCareerHigh":1040,"atpCareerHighDate":"2026-10-19","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/segundo-goity-zapico/g0l1/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
@@ -204,12 +205,12 @@ export const refresh2627NewPlayers = globalThis.__BAGEL_REMOTE__?.["roster2627"]
   {"id":"pur-m-n2","teamId":"pur-m","name":"Lorenzo Balducci","classYear":null,"hometown":null,"nationality":"Italy","collegeRank":null,"atpRank":null,"atpCareerHigh":1641,"atpCareerHighDate":"2026-10-19","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/lorenzo-balducci/b0z4/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"pur-m-n3","teamId":"pur-m","name":"Mateusz Miton","classYear":null,"hometown":null,"nationality":"Poland","collegeRank":null,"atpRank":null,"atpCareerHigh":null,"atpCareerHighDate":null,"proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/mateusz-miton/m1a9/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"pur-w-n1","teamId":"pur-w","name":"Gabriella Davydov","classYear":null,"hometown":null,"nationality":null,"collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"sc-m-n1","teamId":"sc-m","name":"Charlie Robertson","classYear":"Junior","hometown":null,"nationality":"Great Britain","collegeRank":null,"atpRank":891,"atpCareerHigh":891,"atpCareerHighDate":"2026-10-26","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/charlie-robertson/r0k9/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
+  {"id":"sc-m-n1","teamId":"sc-m","name":"Charlie Robertson","classYear":"Junior","hometown":null,"nationality":"Great Britain","collegeRank":null,"atpRank":891,"atpCareerHigh":891,"atpCareerHighDate":"2026-11-03","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/charlie-robertson/r0k9/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"sc-m-n2","teamId":"sc-m","name":"William Moxon","classYear":null,"hometown":null,"nationality":"Great Britain","collegeRank":null,"atpRank":null,"atpCareerHigh":null,"atpCareerHighDate":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"sc-m-n3","teamId":"sc-m","name":"Antonin Witz","classYear":null,"hometown":null,"nationality":"France","collegeRank":null,"atpRank":null,"atpCareerHigh":1448,"atpCareerHighDate":"2026-10-19","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"sc-w-n1","teamId":"sc-w","name":"Francie Pate","classYear":null,"hometown":null,"nationality":null,"collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"sc-w-n2","teamId":"sc-w","name":"Mika Buchnik","classYear":"Senior","hometown":null,"nationality":"Israel","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/330831/mika-buchnik"},"itfRank":null,"itfCareerHigh":null,"wtaRank":824,"wtaCareerHigh":807,"wtaCareerHighDate":"2026-10-19"},
-  {"id":"sc-w-n3","teamId":"sc-w","name":"Pietra Rivoli","classYear":null,"hometown":null,"nationality":"Brazil","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333580/pietra-rivoli"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1004,"wtaCareerHighDate":"2026-10-19"},
+  {"id":"sc-w-n2","teamId":"sc-w","name":"Mika Buchnik","classYear":"Senior","hometown":null,"nationality":"Israel","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/330831/mika-buchnik"},"itfRank":null,"itfCareerHigh":null,"wtaRank":824,"wtaCareerHigh":766,"wtaCareerHighDate":"2026-10-26"},
+  {"id":"sc-w-n3","teamId":"sc-w","name":"Pietra Rivoli","classYear":null,"hometown":null,"nationality":"Brazil","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333580/pietra-rivoli"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1003,"wtaCareerHighDate":"2026-10-26"},
   {"id":"scu-m-n1","teamId":"scu-m","name":"Anirudh Dhanwada","classYear":"Sophomore","hometown":null,"nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"scu-m-n2","teamId":"scu-m","name":"Alex Bergomi","classYear":null,"hometown":null,"nationality":"Switzerland","collegeRank":null,"atpRank":null,"atpCareerHigh":null,"atpCareerHighDate":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"scu-m-n3","teamId":"scu-m","name":"Adam Farag-Cao","classYear":null,"hometown":null,"nationality":"Canada","collegeRank":null,"atpCareerHigh":1475,"atpCareerHighDate":"2025-09-15","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
@@ -228,19 +229,19 @@ export const refresh2627NewPlayers = globalThis.__BAGEL_REMOTE__?.["roster2627"]
   {"id":"smu-w-n2","teamId":"smu-w","name":"Carrington Brown","classYear":null,"hometown":null,"nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"tamu-m-n7","teamId":"tamu-m","name":"Alexander Frusina","classYear":"Junior","hometown":null,"nationality":"USA","collegeRank":null,"atpRank":null,"atpCareerHigh":1217,"atpCareerHighDate":"2026-10-19","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/alexander-frusina/f0g5/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"tamu-m-n2","teamId":"tamu-m","name":"James Quattro","classYear":null,"hometown":null,"nationality":null,"collegeRank":null,"atpRank":null,"atpCareerHigh":null,"atpCareerHighDate":null,"proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/james-quattro/q02r/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"tamu-m-n8","teamId":"tamu-m","name":"Khololwam Montsi","classYear":"Senior","hometown":null,"nationality":"South Africa","collegeRank":null,"atpRank":711,"atpCareerHigh":711,"atpCareerHighDate":"2026-10-26","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/khololwam-montsi/m0fn/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
+  {"id":"tamu-m-n8","teamId":"tamu-m","name":"Khololwam Montsi","classYear":"Senior","hometown":null,"nationality":"South Africa","collegeRank":null,"atpRank":711,"atpCareerHigh":711,"atpCareerHighDate":"2026-11-03","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/khololwam-montsi/m0fn/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"tamu-m-n4","teamId":"tamu-m","name":"Bor Artnak","classYear":"Senior","hometown":null,"nationality":"Slovenia","collegeRank":null,"atpRank":448,"atpCareerHigh":373,"atpCareerHighDate":"2024-09-09","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/bor-artnak/a0i1/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"tamu-m-n5","teamId":"tamu-m","name":"ilia Snitari","classYear":"Senior","hometown":null,"nationality":"Moldova","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"tamu-m-n6","teamId":"tamu-m","name":"Amirkhamza Nasridinov","classYear":"Junior","hometown":null,"nationality":"Russia","collegeRank":null,"atpRank":null,"atpCareerHigh":1237,"atpCareerHighDate":"2026-10-19","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/amirkhamza-nasridinov/n0fb/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"tamu-w-n1","teamId":"tamu-w","name":"Kristina Paskauskas","classYear":"Senior","hometown":null,"nationality":"Great Britain","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/331581/kristina-paskauskas"},"itfRank":null,"itfCareerHigh":null,"wtaRank":836,"wtaCareerHigh":818,"wtaCareerHighDate":"2025-08-04"},
   {"id":"tamu-w-n2","teamId":"tamu-w","name":"Olivia Lincer","classYear":null,"hometown":null,"nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":405},
   {"id":"tamu-w-n3","teamId":"tamu-w","name":"Ruby Cooling","classYear":null,"hometown":null,"nationality":"Great Britain","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/331970/ruby-cooling"},"itfRank":null,"itfCareerHigh":null,"wtaRank":889,"wtaCareerHigh":886,"wtaCareerHighDate":"2026-05-18"},
-  {"id":"tamu-w-n4","teamId":"tamu-w","name":"Yoana Konstantinova","classYear":null,"hometown":null,"nationality":"Bulgaria","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/331832/yoana-konstantinova"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1507,"wtaCareerHighDate":"2026-10-19"},
-  {"id":"tamu-w-n5","teamId":"tamu-w","name":"Sydney Jara","classYear":null,"hometown":null,"nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/335405/sydney-jara"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1406,"wtaCareerHighDate":"2026-10-19"},
+  {"id":"tamu-w-n4","teamId":"tamu-w","name":"Yoana Konstantinova","classYear":null,"hometown":null,"nationality":"Bulgaria","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/331832/yoana-konstantinova"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1502,"wtaCareerHighDate":"2026-10-26"},
+  {"id":"tamu-w-n5","teamId":"tamu-w","name":"Sydney Jara","classYear":null,"hometown":null,"nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/335405/sydney-jara"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1197,"wtaCareerHighDate":"2026-10-26"},
   {"id":"tamu-w-n6","teamId":"tamu-w","name":"Rachael Smith","classYear":null,"hometown":null,"nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1039},
   {"id":"tamu-w-n7","teamId":"tamu-w","name":"Kori Montoya","classYear":null,"hometown":null,"nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"tamu-w-n8","teamId":"tamu-w","name":"Arina Bulatova","classYear":null,"hometown":null,"nationality":"Russia","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/331487/arina-bulatova"},"itfRank":null,"itfCareerHigh":null,"wtaRank":573,"wtaCareerHigh":457,"wtaCareerHighDate":"2025-08-25"},
-  {"id":"temple-m-n1","teamId":"temple-m","name":"Adrien Ducruet","classYear":"Junior","hometown":"Lyon, France","nationality":"France","collegeRank":null,"atpRank":null,"atpCareerHigh":641,"atpCareerHighDate":"2026-10-19","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
+  {"id":"temple-m-n1","teamId":"temple-m","name":"Adrien Ducruet","classYear":"Junior","hometown":"Lyon, France","nationality":"France","collegeRank":null,"atpRank":null,"atpCareerHigh":643,"atpCareerHighDate":"2026-10-26","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"temple-m-n2","teamId":"temple-m","name":"Julian Forer","classYear":"Freshman","hometown":"Frankfurt, Germany","nationality":"Germany","collegeRank":null,"atpRank":null,"atpCareerHigh":null,"atpCareerHighDate":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"temple-m-n3","teamId":"temple-m","name":"Doruk Calikoglu","classYear":"Freshman","hometown":"Istanbul, Turkiye","nationality":"Turkey","collegeRank":null,"atpRank":null,"atpCareerHigh":null,"atpCareerHighDate":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"temple-m-n4","teamId":"temple-m","name":"João Bento Carqueija","classYear":"Freshman","hometown":"Salvador, Brazil","nationality":"Brazil","collegeRank":null,"atpRank":null,"atpCareerHigh":null,"atpCareerHighDate":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
@@ -261,16 +262,16 @@ export const refresh2627NewPlayers = globalThis.__BAGEL_REMOTE__?.["roster2627"]
   {"id":"tenn-w-n2","teamId":"tenn-w","name":"Sarah Mildren","classYear":"Freshman","hometown":"Adelaide, Australia","nationality":"Australia","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":994},
   {"id":"tex-m-n1","teamId":"tex-m","name":"Gabriel Debru","classYear":"Sophomore","hometown":null,"nationality":"France","collegeRank":null,"atpRank":690,"atpCareerHigh":233,"atpCareerHighDate":"2025-03-17","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/gabriel-debru/d0hd/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"tex-m-n2","teamId":"tex-m","name":"Tomasz Berkieta","classYear":null,"hometown":null,"nationality":"Poland","collegeRank":null,"atpRank":541,"atpCareerHigh":479,"atpCareerHighDate":"2026-04-20","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/tomasz-berkieta/b0p4/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"tex-m-n3","teamId":"tex-m","name":"Matej Dodig","classYear":null,"hometown":null,"nationality":"Croatia","collegeRank":null,"atpRank":251,"atpCareerHigh":138,"atpCareerHighDate":"2026-10-19","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/matej-dodig/d0l3/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"tex-w-n1","teamId":"tex-w","name":"Rose Marie Nijkamp","classYear":"Senior","hometown":null,"nationality":"Netherlands","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/332202/rose-marie-nijkamp"},"itfRank":null,"itfCareerHigh":null,"wtaRank":733,"wtaCareerHigh":661,"wtaCareerHighDate":"2026-10-19"},
+  {"id":"tex-m-n3","teamId":"tex-m","name":"Matej Dodig","classYear":null,"hometown":null,"nationality":"Croatia","collegeRank":null,"atpRank":251,"atpCareerHigh":138,"atpCareerHighDate":"2026-10-26","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/matej-dodig/d0l3/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
+  {"id":"tex-w-n1","teamId":"tex-w","name":"Rose Marie Nijkamp","classYear":"Senior","hometown":null,"nationality":"Netherlands","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/332202/rose-marie-nijkamp"},"itfRank":null,"itfCareerHigh":null,"wtaRank":733,"wtaCareerHigh":642,"wtaCareerHighDate":"2026-10-26"},
   {"id":"tex-w-n2","teamId":"tex-w","name":"Arianna Zucchini","classYear":null,"hometown":null,"nationality":"Italy","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/328701/arianna-zucchini"},"itfRank":null,"itfCareerHigh":null,"wtaRank":621,"wtaCareerHigh":496,"wtaCareerHighDate":"2026-04-06"},
-  {"id":"ttu-w-n2","teamId":"ttu-w","name":"Jennifer Jackson","classYear":"Sophomore","hometown":"Spicewood, Texas","nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/332862/jennifer-jackson"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1355,"wtaCareerHighDate":"2026-10-19"},
+  {"id":"ttu-w-n2","teamId":"ttu-w","name":"Jennifer Jackson","classYear":"Sophomore","hometown":"Spicewood, Texas","nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/332862/jennifer-jackson"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1353,"wtaCareerHighDate":"2026-10-26"},
   {"id":"tulsa-m-n1","teamId":"tulsa-m","name":"Brett Gloria","classYear":"Fifth Year","hometown":"Orange, Conn.","nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"tulsa-m-n2","teamId":"tulsa-m","name":"Alejandro Lopez Escribano","classYear":null,"hometown":null,"nationality":"Spain","collegeRank":null,"atpRank":null,"atpCareerHigh":1691,"atpCareerHighDate":"2026-10-19","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/alejandro-lopez-escribano/l0gb/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"tulsa-m-n3","teamId":"tulsa-m","name":"Alex Santino Nuñez vera","classYear":null,"hometown":null,"nationality":"Paraguay","collegeRank":null,"atpCareerHigh":1508,"atpCareerHighDate":"2025-07-14","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"tulsa-m-n6","teamId":"tulsa-m","name":"Dani Szabo","classYear":"Freshman","hometown":"Vaughan, Canada","nationality":"Canada","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"tulsa-m-n4","teamId":"tulsa-m","name":"Alvaro Ariel Frutos Alonso","classYear":null,"hometown":null,"nationality":"Paraguay","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"tulsa-m-n5","teamId":"tulsa-m","name":"Otso Martikainen","classYear":"Freshman","hometown":"Helsinki, Finland","nationality":"Finland","collegeRank":null,"atpRank":null,"atpCareerHigh":null,"atpCareerHighDate":null,"proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/otso-martikainen/m0r1/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
+  {"id":"tulsa-m-n6","teamId":"tulsa-m","name":"Dani Szabo","classYear":"Freshman","hometown":"Vaughan, Canada","nationality":"Canada","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"tulsa-w-n6","teamId":"tulsa-w","name":"Lucy Latham","classYear":"Junior","hometown":null,"nationality":null,"collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"tulsa-w-n2","teamId":"tulsa-w","name":"Alyssa Novoa","classYear":"Junior","hometown":"Apopka, Fla.","nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"tulsa-w-n3","teamId":"tulsa-w","name":"Prisca Abbas","classYear":"Junior","hometown":"Paris, France","nationality":"France","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
@@ -316,16 +317,16 @@ export const refresh2627NewPlayers = globalThis.__BAGEL_REMOTE__?.["roster2627"]
   {"id":"uga-m-n4","teamId":"uga-m","name":"Eudald Gonzalez","classYear":null,"hometown":null,"nationality":"Spain","collegeRank":null,"atpCareerHigh":1686,"atpCareerHighDate":"2026-04-06","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"uga-m-n6","teamId":"uga-m","name":"Oliver Sanders","classYear":"Freshman","hometown":"Prague, Czech Republic","nationality":"Czech Republic","collegeRank":null,"atpRank":null,"atpCareerHigh":1627,"atpCareerHighDate":"2026-10-19","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"uga-m-n7","teamId":"uga-m","name":"James Weber","classYear":"Freshman","hometown":"Marietta, Ga.","nationality":"USA","collegeRank":null,"atpRank":null,"atpCareerHigh":1641,"atpCareerHighDate":"2026-10-19","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"uga-w-n1","teamId":"uga-w","name":"Bella Payne","classYear":"Freshman","hometown":null,"nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/335920/bella-payne"},"itfRank":null,"itfCareerHigh":null,"wtaRank":560,"wtaCareerHigh":557,"wtaCareerHighDate":"2026-10-19"},
+  {"id":"uga-w-n1","teamId":"uga-w","name":"Bella Payne","classYear":"Freshman","hometown":null,"nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/335920/bella-payne"},"itfRank":null,"itfCareerHigh":null,"wtaRank":560,"wtaCareerHigh":560,"wtaCareerHighDate":"2026-10-26"},
   {"id":"uga-w-n2","teamId":"uga-w","name":"Nadia Lagaev","classYear":"Freshman","hometown":null,"nationality":"Canada","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333262/nadia-lagaev"},"itfRank":null,"itfCareerHigh":null,"wtaRank":897,"wtaCareerHigh":850,"wtaCareerHighDate":"2025-07-21"},
-  {"id":"uga-w-n3","teamId":"uga-w","name":"Linea Bajraliu","classYear":"Freshman","hometown":null,"nationality":"Sweden","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/331958/linea-bajraliu"},"itfRank":null,"itfCareerHigh":null,"wtaRank":567,"wtaCareerHigh":566,"wtaCareerHighDate":"2026-10-19"},
+  {"id":"uga-w-n3","teamId":"uga-w","name":"Linea Bajraliu","classYear":"Freshman","hometown":null,"nationality":"Sweden","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/331958/linea-bajraliu"},"itfRank":null,"itfCareerHigh":null,"wtaRank":567,"wtaCareerHigh":529,"wtaCareerHighDate":"2026-10-26"},
   {"id":"uga-w-n4","teamId":"uga-w","name":"Ava Rodriguez","classYear":null,"hometown":null,"nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":872},
   {"id":"uga-w-n5","teamId":"uga-w","name":"Ranah Akua Stoiber","classYear":null,"hometown":null,"nationality":"Great Britain","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/330953/ranah-stoiber"},"itfRank":null,"itfCareerHigh":null,"wtaRank":553,"wtaCareerHigh":421,"wtaCareerHighDate":"2025-11-03"},
   {"id":"uk-m-n1","teamId":"uk-m","name":"Rafael Ymer","classYear":"Junior","hometown":null,"nationality":"Sweden","collegeRank":null,"atpRank":null,"atpCareerHigh":2078,"atpCareerHighDate":"2026-10-19","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/rafael-ymer/y0be/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"uk-m-n2","teamId":"uk-m","name":"Tom Sickenberger","classYear":null,"hometown":null,"nationality":"Germany","collegeRank":null,"atpRank":null,"atpCareerHigh":1261,"atpCareerHighDate":"2026-10-19","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/tom-sickenberger/s0zh/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"uk-m-n3","teamId":"uk-m","name":"Isaac Forde","classYear":null,"hometown":null,"nationality":"Great Britain","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"uk-m-n4","teamId":"uk-m","name":"Johan Oscar Lien","classYear":null,"hometown":null,"nationality":"Norway","collegeRank":null,"atpRank":null,"atpCareerHigh":1069,"atpCareerHighDate":"2026-10-19","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/johan-oscar-lien/l0mu/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"uk-m-n6","teamId":"uk-m","name":"Rihards Neimanis","classYear":null,"hometown":null,"nationality":"Latvia","collegeRank":null,"atpCareerHigh":1657,"atpCareerHighDate":"2026-08-31","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
+  {"id":"uk-m-n6","teamId":"uk-m","name":"Rihards Neimanis","classYear":null,"hometown":null,"nationality":"Latvia","collegeRank":null,"atpCareerHigh":1456,"atpCareerHighDate":"2026-10-19","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"unc-m-n1","teamId":"unc-m","name":"Sebastian Sec","classYear":"Senior","hometown":null,"nationality":"USA","collegeRank":null,"atpRank":null,"atpCareerHigh":1728,"atpCareerHighDate":"2026-10-19","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/sebastian-sec/s0tw/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"unc-w-n1","teamId":"unc-w","name":"Alexis Nguyen","classYear":"Freshman","hometown":null,"nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/332741/alexis-nguyen"},"itfRank":null,"itfCareerHigh":null,"wtaRank":685,"wtaCareerHigh":618,"wtaCareerHighDate":"2026-02-02"},
   {"id":"unc-w-n2","teamId":"unc-w","name":"Avery Nguyen","classYear":"Freshman","hometown":null,"nationality":null,"collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
@@ -335,14 +336,16 @@ export const refresh2627NewPlayers = globalThis.__BAGEL_REMOTE__?.["roster2627"]
   {"id":"usc-m-n1","teamId":"usc-m","name":"Aleksa Krivokapic","classYear":"Graduate","hometown":"Podgorica, Montenegro","nationality":"Montenegro","collegeRank":null,"atpRank":null,"atpCareerHigh":null,"atpCareerHighDate":null,"proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/aleksa-krivokapic/k0ji/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"usc-w-n1","teamId":"usc-w","name":"Grace Levelston","classYear":"Senior","hometown":"Vero Beach, FL","nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/331654/grace-levelston"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1090},
   {"id":"usc-w-n3","teamId":"usc-w","name":"Kiara Zabkova","classYear":"Freshman","hometown":"Trnava, Slovakia","nationality":"Slovakia","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/332767/kiara-zabkova"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1068},
+  {"id":"usc-w-n4","teamId":"usc-w","name":"Alexandra Wolf","classYear":"Freshman","hometown":"Pacific Palisades, Calif.","nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
+  {"id":"usd-m-n3","teamId":"usd-m","name":"Tiger Semler","classYear":null,"hometown":null,"nationality":null,"collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"usd-m-n1","teamId":"usd-m","name":"Nicolas Baena","classYear":null,"hometown":null,"nationality":"Peru","collegeRank":null,"atpRank":null,"atpCareerHigh":2078,"atpCareerHighDate":"2026-10-19","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/nicolas-baena/b0yb/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"usd-m-n2","teamId":"usd-m","name":"Botond Nagy","classYear":null,"hometown":null,"nationality":"Hungary","collegeRank":null,"atpRank":null,"atpCareerHigh":2093,"atpCareerHighDate":"2026-10-19","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/botond-nagy/n0fo/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"usd-w-n1","wtaCareerHighDate":"2026-10-12","teamId":"usd-w","name":"Emily Deming","classYear":"Junior","hometown":null,"nationality":"USA","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/332183/emily-deming"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":542},
   {"id":"usd-w-n5","teamId":"usd-w","name":"Akira Roy","classYear":null,"hometown":null,"nationality":null,"collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"usd-w-n4","teamId":"usd-w","name":"Lila Grace Bachour","classYear":null,"hometown":null,"nationality":"France","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/336685/lila-grace-bachour"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"usf-m-n1","teamId":"usf-m","name":"Walid Ahouda","classYear":"Senior","hometown":"Casablanca, Morocco","nationality":"Morocco","collegeRank":null,"atpRank":null,"atpCareerHigh":692,"atpCareerHighDate":"2026-10-19","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/walid-ahouda/a0ey/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
+  {"id":"usf-m-n1","teamId":"usf-m","name":"Walid Ahouda","classYear":"Senior","hometown":"Casablanca, Morocco","nationality":"Morocco","collegeRank":null,"atpRank":null,"atpCareerHigh":696,"atpCareerHighDate":"2026-10-26","proLink":{"orgProfileUrl":"https://www.atptour.com/en/players/walid-ahouda/a0ey/overview"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"usf-m-n2","teamId":"usf-m","name":"Leo Galliano","classYear":"Junior","hometown":"Chalais, Switzerland ","nationality":"Switzerland","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"usf-m-n3","teamId":"usf-m","name":"Ashton McLeod","classYear":"Freshman","hometown":null,"nationality":"Australia","collegeRank":null,"atpCareerHigh":1321,"atpCareerHighDate":"2026-10-05","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
+  {"id":"usf-m-n3","teamId":"usf-m","name":"Ashton McLeod","classYear":"Freshman","hometown":null,"nationality":"Australia","collegeRank":null,"atpCareerHigh":1311,"atpCareerHighDate":"2026-10-19","proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"usf-m-n4","teamId":"usf-m","name":"Artem Lyapshin","classYear":"Rs.","hometown":null,"nationality":"Germany","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"usf-w-n1","teamId":"usf-w","name":"Zoe Lazar","classYear":"Junior","hometown":"Pinamar, Buenos Aires ","nationality":"Argentina","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333043/zoe-lazar"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"usf-w-n2","teamId":"usf-w","name":"Paulina Montiel","classYear":"Junior","hometown":"Apizaco, Tlaxcala","nationality":"Mexico","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/334453/paulina-montiel"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1316},
@@ -369,13 +372,12 @@ export const refresh2627NewPlayers = globalThis.__BAGEL_REMOTE__?.["roster2627"]
   {"id":"wsu-w-n2","teamId":"wsu-w","name":"Gabriella Harper","classYear":null,"hometown":null,"nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"wsu-w-n3","teamId":"wsu-w","name":"Clara Schoen","classYear":null,"hometown":null,"nationality":"Germany","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333904/clara-schoen"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"wvu-w-n1","teamId":"wvu-w","name":"Rio Maeda","classYear":"Junior","hometown":"Tokyo, Japan","nationality":"Japan","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/334667/rio-maeda"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
-  {"id":"wvu-w-n2","teamId":"wvu-w","name":"Ela Plosnik","classYear":"Sophomore","hometown":"Maribor, Slovenia","nationality":"Slovenia","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333335/ela-plosnik"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1062,"wtaCareerHighDate":"2026-10-19"},
+  {"id":"wvu-w-n2","teamId":"wvu-w","name":"Ela Plosnik","classYear":"Sophomore","hometown":"Maribor, Slovenia","nationality":"Slovenia","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333335/ela-plosnik"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":1054,"wtaCareerHighDate":"2026-10-26"},
   {"id":"wvu-w-n3","teamId":"wvu-w","name":"Sorana Matis","classYear":"Freshman","hometown":"Mallorca, Spain","nationality":"Spain","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"wvu-w-n4","teamId":"wvu-w","name":"Daniela Gonzales","classYear":"Freshman","hometown":"Trujillo, Peru","nationality":"Peru","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"wvu-w-n5","teamId":"wvu-w","name":"Sela Byers","classYear":"Freshman","hometown":"Morgantown, W.Va.","nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"yale-w-n1","teamId":"yale-w","name":"Ziye Liu","classYear":null,"hometown":null,"nationality":"Canada","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null},
   {"id":"aub-m-n5","teamId":"aub-m","name":"Alvaro Jimenez Roman","classYear":null,"hometown":null,"nationality":"Spain","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null,"former":true},
-  {"id":"usc-w-n4","teamId":"usc-w","name":"Alexandra Wolf","classYear":"Freshman","hometown":"Pacific Palisades, Calif.","nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null,"former":true},
   {"id":"rice-w-n1","teamId":"rice-w","name":"Valentina Ponce Serrano","classYear":"Junior","hometown":null,"nationality":"Ecuador","collegeRank":null,"proLink":{"orgProfileUrl":"https://www.wtatennis.com/players/333047/valentina-ponce-serrano"},"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null,"former":true},
   {"id":"uci-m-n3","teamId":"uci-m","name":"Yashwin Krishnakur","classYear":"Freshman","hometown":"Dublin, Calif.","nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null,"former":true},
   {"id":"usc-w-n2","teamId":"usc-w","name":"Lexi Wolf","classYear":"Freshman","hometown":"Pacific Palisades, Calif.","nationality":"USA","collegeRank":null,"proLink":null,"itfRank":null,"itfCareerHigh":null,"wtaRank":null,"wtaCareerHigh":null,"former":true},
@@ -554,8 +556,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": null,
   "nationality": "Canada",
   "former": false,
-  "atpCareerHigh": 1046,
-  "atpCareerHighDate": "2026-07-13"
+  "atpCareerHigh": 983,
+  "atpCareerHighDate": "2026-10-19"
  },
  "ariz-m-fp224": {
   "classYear": "Junior",
@@ -725,8 +727,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": null,
   "nationality": "Czech Republic",
   "former": false,
-  "atpCareerHigh": 1111,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 1081,
+  "atpCareerHighDate": "2026-10-19"
  },
  "ark-m-p5": {
   "classYear": "Junior",
@@ -869,6 +871,18 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "atpCareerHigh": 1284,
   "atpCareerHighDate": "2025-09-08"
  },
+ "asu-m-p8": {
+  "classYear": null,
+  "hometown": "Badajoz, Spain",
+  "nationality": "Spain",
+  "former": false
+ },
+ "asu-m-p9": {
+  "classYear": null,
+  "hometown": "Mallorca, Spain",
+  "nationality": "Spain",
+  "former": false
+ },
  "asu-m-fp37": {
   "former": true
  },
@@ -882,12 +896,6 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "former": true
  },
  "asu-m-p1": {
-  "former": true
- },
- "asu-m-p8": {
-  "former": true
- },
- "asu-m-p9": {
   "former": true
  },
  "asu-m-h2": {
@@ -1163,8 +1171,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Nuremberg, Germany",
   "nationality": "Germany",
   "former": false,
-  "atpCareerHigh": 1238,
-  "atpCareerHighDate": "2026-08-24"
+  "atpCareerHigh": 1237,
+  "atpCareerHighDate": "2026-10-19"
  },
  "bay-m-p2": {
   "classYear": "Sophomore",
@@ -1558,7 +1566,7 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Senior",
   "hometown": "New York, N.Y.",
   "nationality": "USA",
-  "former": false
+  "former": true
  },
  "brown-w-p8": {
   "classYear": "Junior",
@@ -1683,7 +1691,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "former": true
  },
  "byu-m-p1": {
-  "former": true
+  "former": true,
+  "classYear": "Senior"
  },
  "byu-m-p2": {
   "former": true
@@ -1692,7 +1701,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "former": true
  },
  "byu-m-p8": {
-  "former": true
+  "former": true,
+  "classYear": "Senior"
  },
  "byu-w-p5": {
   "classYear": null,
@@ -1790,8 +1800,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Madrid, Spain",
   "nationality": "Spain",
   "former": false,
-  "atpCareerHigh": 1174,
-  "atpCareerHighDate": "2026-07-20"
+  "atpCareerHigh": 1090,
+  "atpCareerHighDate": "2026-10-19"
  },
  "cal-m-p10": {
   "classYear": "Junior",
@@ -1885,14 +1895,6 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "wtaCareerHigh": 1306,
   "wtaCareerHighDate": "2025-06-09"
  },
- "cal-w-p2": {
-  "classYear": "Junior",
-  "hometown": "Vicenza, Italy",
-  "nationality": "Italy",
-  "former": false,
-  "wtaCareerHigh": 953,
-  "wtaCareerHighDate": "2024-08-19"
- },
  "cal-w-p5": {
   "classYear": "Sophomore",
   "hometown": "Klampenborg, Denmark",
@@ -1922,6 +1924,11 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "former": false,
   "wtaCareerHigh": 1175,
   "wtaCareerHighDate": "2026-09-14"
+ },
+ "cal-w-p2": {
+  "former": true,
+  "wtaCareerHigh": 953,
+  "wtaCareerHighDate": "2024-08-19"
  },
  "cal-w-p7": {
   "former": true
@@ -2024,8 +2031,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Norwalk, Conn.",
   "nationality": "USA",
   "former": false,
-  "atpCareerHigh": 1409,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 1398,
+  "atpCareerHighDate": "2026-10-19"
  },
  "clem-m-p4": {
   "classYear": "[object Object]",
@@ -2048,8 +2055,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Austin, Texas",
   "nationality": "USA",
   "former": false,
-  "atpCareerHigh": 1192,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 1161,
+  "atpCareerHighDate": "2026-10-19"
  },
  "clem-m-p5": {
   "classYear": "[object Object]",
@@ -2398,8 +2405,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Bangkok, Thailand",
   "nationality": "Thailand",
   "former": false,
-  "atpCareerHigh": 1038,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 1010,
+  "atpCareerHighDate": "2026-10-19"
  },
  "colum-m-p2": {
   "classYear": "Junior",
@@ -2552,8 +2559,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Tamil Nadu, India",
   "nationality": "India",
   "former": false,
-  "atpCareerHigh": 1015,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 1007,
+  "atpCareerHighDate": "2026-10-19"
  },
  "corn-m-p4": {
   "classYear": "Sophomore",
@@ -3425,8 +3432,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "London, England",
   "nationality": "Great Britain",
   "former": false,
-  "atpCareerHigh": 1428,
-  "atpCareerHighDate": "2026-07-13"
+  "atpCareerHigh": 1427,
+  "atpCareerHighDate": "2026-10-19"
  },
  "fla-m-p9": {
   "classYear": "Freshman",
@@ -3887,11 +3894,14 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": null,
   "nationality": "Netherlands",
   "former": false,
-  "atpCareerHigh": 1912,
-  "atpCareerHighDate": "2026-08-24"
+  "atpCareerHigh": 1909,
+  "atpCareerHighDate": "2026-10-19"
  },
  "gt-m-fp197": {
-  "former": true,
+  "classYear": "Junior",
+  "hometown": null,
+  "nationality": "Italy",
+  "former": false,
   "atpCareerHigh": 1735,
   "atpCareerHighDate": "2026-07-27"
  },
@@ -3993,8 +4003,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Budapest, Hungary",
   "nationality": "Hungary",
   "former": false,
-  "atpCareerHigh": 1789,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 1780,
+  "atpCareerHighDate": "2026-10-19"
  },
  "harv-m-p3": {
   "classYear": "Sophomore",
@@ -5317,8 +5327,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Lille, France",
   "nationality": "France",
   "former": false,
-  "atpCareerHigh": 1448,
-  "atpCareerHighDate": "2026-07-13"
+  "atpCareerHigh": 1446,
+  "atpCareerHighDate": "2026-10-19"
  },
  "mem-m-p5": {
   "classYear": "Junior",
@@ -5530,8 +5540,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": null,
   "nationality": "Poland",
   "former": false,
-  "wtaCareerHigh": 1081,
-  "wtaCareerHighDate": "2026-10-12"
+  "wtaCareerHigh": 1075,
+  "wtaCareerHighDate": "2026-10-19"
  },
  "miami-w-fp322": {
   "former": true
@@ -5589,8 +5599,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Karlstad, Sweden",
   "nationality": "Sweden",
   "former": false,
-  "atpCareerHigh": 888,
-  "atpCareerHighDate": "2026-08-31"
+  "atpCareerHigh": 773,
+  "atpCareerHighDate": "2026-10-19"
  },
  "mich-m-p8": {
   "classYear": "Sophomore",
@@ -6816,8 +6826,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Reinach, Switzerland",
   "nationality": "Switzerland",
   "former": false,
-  "atpCareerHigh": 2007,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 1994,
+  "atpCareerHighDate": "2026-10-19"
  },
  "okst-m-fp204": {
   "former": true
@@ -7111,8 +7121,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "San Diego, California",
   "nationality": "USA",
   "former": false,
-  "atpCareerHigh": 576,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 572,
+  "atpCareerHighDate": "2026-10-19"
  },
  "osu-m-p1": {
   "classYear": "Senior",
@@ -7184,8 +7194,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Export, Pa.",
   "nationality": "USA",
   "former": false,
-  "wtaCareerHigh": 1060,
-  "wtaCareerHighDate": "2026-09-21"
+  "wtaCareerHigh": 1058,
+  "wtaCareerHighDate": "2026-10-19"
  },
  "osu-w-p10": {
   "classYear": "Senior",
@@ -7786,8 +7796,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Izmir, Turkey",
   "nationality": "Turkey",
   "former": false,
-  "wtaCareerHigh": 780,
-  "wtaCareerHighDate": "2026-10-12"
+  "wtaCareerHigh": 775,
+  "wtaCareerHighDate": "2026-10-19"
  },
  "pepp-w-p2": {
   "classYear": "Junior",
@@ -8141,8 +8151,7 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "former": false
  },
  "psu-m-p9": {
-  "former": true,
-  "classYear": "Senior"
+  "former": true
  },
  "psu-m-h16": {
   "former": true
@@ -8354,7 +8363,7 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
  },
  "rice-m-p9": {
   "classYear": "Freshman",
-  "hometown": null,
+  "hometown": "Houston, Texas",
   "nationality": null,
   "former": false
  },
@@ -8404,7 +8413,7 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
  },
  "rice-m-p7": {
   "classYear": "Freshman",
-  "hometown": null,
+  "hometown": "Granite Bay, California",
   "nationality": "USA",
   "former": false
  },
@@ -8586,16 +8595,16 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Charlotte, NC",
   "nationality": "USA",
   "former": false,
-  "atpCareerHigh": 1509,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 1503,
+  "atpCareerHighDate": "2026-10-19"
  },
  "sc-m-p4": {
   "classYear": "Senior",
   "hometown": "Delray Beach, Florida",
   "nationality": "USA",
   "former": false,
-  "atpCareerHigh": 1254,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 1242,
+  "atpCareerHighDate": "2026-10-19"
  },
  "sc-m-p7": {
   "classYear": "Junior",
@@ -8632,8 +8641,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Bristol, United Kingdom",
   "nationality": "Great Britain",
   "former": false,
-  "atpCareerHigh": 1734,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 1728,
+  "atpCareerHighDate": "2026-10-19"
  },
  "sc-m-p1": {
   "former": true
@@ -9066,8 +9075,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Tarpon Springs, Fla.",
   "nationality": "USA",
   "former": false,
-  "wtaCareerHigh": 1040,
-  "wtaCareerHighDate": "2026-10-12"
+  "wtaCareerHigh": 1038,
+  "wtaCareerHighDate": "2026-10-19"
  },
  "smu-w-p6": {
   "classYear": "Senior",
@@ -9452,8 +9461,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Markham, Ontario",
   "nationality": "Canada",
   "former": false,
-  "atpCareerHigh": 483,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 472,
+  "atpCareerHighDate": "2026-10-19"
  },
  "tcu-m-p8": {
   "classYear": "Senior",
@@ -9466,8 +9475,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Paris, France",
   "nationality": "France",
   "former": false,
-  "atpCareerHigh": 1457,
-  "atpCareerHighDate": "2026-08-24"
+  "atpCareerHigh": 1450,
+  "atpCareerHighDate": "2026-10-19"
  },
  "tcu-m-fp30": {
   "classYear": "Junior",
@@ -9490,8 +9499,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "London, England",
   "nationality": "Great Britain",
   "former": false,
-  "atpCareerHigh": 714,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 658,
+  "atpCareerHighDate": "2026-10-19"
  },
  "tcu-m-p5": {
   "classYear": "Freshman",
@@ -9545,8 +9554,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Barcelona, Spain",
   "nationality": "Spain",
   "former": false,
-  "wtaCareerHigh": 1375,
-  "wtaCareerHighDate": "2026-10-12"
+  "wtaCareerHigh": 1372,
+  "wtaCareerHighDate": "2026-10-19"
  },
  "tcu-w-p6": {
   "classYear": "Senior",
@@ -9839,8 +9848,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Asunción, Paraguay",
   "nationality": "Paraguay",
   "former": false,
-  "wtaCareerHigh": 770,
-  "wtaCareerHighDate": "2026-10-12"
+  "wtaCareerHigh": 673,
+  "wtaCareerHighDate": "2026-10-19"
  },
  "tenn-p5": {
   "classYear": "Junior",
@@ -10472,8 +10481,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Buenos Aires, Argentina",
   "nationality": "Argentina",
   "former": false,
-  "atpCareerHigh": 2080,
-  "atpCareerHighDate": "2026-08-24"
+  "atpCareerHigh": 2078,
+  "atpCareerHighDate": "2026-10-19"
  },
  "uab-m-p2": {
   "classYear": "Junior",
@@ -10685,8 +10694,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Rio De Janeiro, Brazil",
   "nationality": "Brazil",
   "former": false,
-  "atpCareerHigh": 804,
-  "atpCareerHighDate": "2026-08-31"
+  "atpCareerHigh": 796,
+  "atpCareerHighDate": "2026-10-19"
  },
  "ucf-m-p5": {
   "classYear": "Junior",
@@ -10731,8 +10740,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Tianjin, China",
   "nationality": "China",
   "former": false,
-  "atpCareerHigh": 985,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 981,
+  "atpCareerHighDate": "2026-10-19"
  },
  "ucf-m-fp42": {
   "former": true
@@ -10859,8 +10868,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "San Diego, Calif.",
   "nationality": "USA",
   "former": false,
-  "atpCareerHigh": 2160,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 2148,
+  "atpCareerHighDate": "2026-10-19"
  },
  "uci-m-p2": {
   "classYear": "Junior",
@@ -10997,8 +11006,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Ladera Ranch, Calif.",
   "nationality": "USA",
   "former": false,
-  "atpCareerHigh": 443,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 432,
+  "atpCareerHighDate": "2026-10-19"
  },
  "ucla-m-p11": {
   "classYear": "Senior",
@@ -11056,7 +11065,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "former": true
  },
  "ucla-m-p2": {
-  "former": true
+  "former": true,
+  "classYear": "Junior"
  },
  "ucla-m-p6": {
   "former": true
@@ -11102,8 +11112,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Pasadena, Calif.",
   "nationality": "USA",
   "former": false,
-  "wtaCareerHigh": 751,
-  "wtaCareerHighDate": "2025-02-24"
+  "wtaCareerHigh": 722,
+  "wtaCareerHighDate": "2026-10-19"
  },
  "ucla-w-p8": {
   "classYear": "Junior",
@@ -11530,8 +11540,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Buenos Aires, Argentina",
   "nationality": "Argentina",
   "former": false,
-  "atpCareerHigh": 1267,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 1257,
+  "atpCareerHighDate": "2026-10-19"
  },
  "uga-m-p8": {
   "classYear": "Junior",
@@ -11769,8 +11779,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Bloemfontein, South Africa",
   "nationality": "South Africa",
   "former": false,
-  "wtaCareerHigh": 1210,
-  "wtaCareerHighDate": "2026-10-12"
+  "wtaCareerHigh": 1208,
+  "wtaCareerHighDate": "2026-10-19"
  },
  "uk-p1": {
   "classYear": "Freshman",
@@ -11810,8 +11820,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Turin, Italy",
   "nationality": "Italy",
   "former": false,
-  "wtaCareerHigh": 925,
-  "wtaCareerHighDate": "2026-10-12"
+  "wtaCareerHigh": 911,
+  "wtaCareerHighDate": "2026-10-19"
  },
  "umd-w-p9": {
   "classYear": "Junior",
@@ -12013,13 +12023,16 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "wtaCareerHigh": 1343,
   "wtaCareerHighDate": "2022-10-10"
  },
- "unc-w-p2": {
-  "former": true
- },
  "unc-w-p3": {
-  "former": true,
+  "classYear": "Junior",
+  "hometown": "McLean, Va.",
+  "nationality": "USA",
+  "former": false,
   "wtaCareerHigh": 696,
   "wtaCareerHighDate": "2026-09-21"
+ },
+ "unc-w-p2": {
+  "former": true
  },
  "unc-w-p6": {
   "former": true
@@ -12212,8 +12225,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "London, England",
   "nationality": "Great Britain",
   "former": false,
-  "wtaCareerHigh": 1054,
-  "wtaCareerHighDate": "2026-10-12"
+  "wtaCareerHigh": 1052,
+  "wtaCareerHighDate": "2026-10-19"
  },
  "usc-w-p3": {
   "classYear": "Senior",
@@ -12278,8 +12291,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Zurich, Switzerland",
   "nationality": "Switzerland",
   "former": false,
-  "atpCareerHigh": 2003,
-  "atpCareerHighDate": "2026-08-31"
+  "atpCareerHigh": 1994,
+  "atpCareerHighDate": "2026-10-19"
  },
  "usd-m-p5": {
   "classYear": "Sophomore",
@@ -12611,7 +12624,7 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "classYear": "Sophomore",
   "hometown": "Alexandria, Egypt",
   "nationality": "Egypt",
-  "former": false
+  "former": true
  },
  "utah-w-p1": {
   "classYear": "Freshman",
@@ -12721,7 +12734,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "former": true
  },
  "utsa-m-p2": {
-  "former": true
+  "former": true,
+  "classYear": "Junior"
  },
  "utsa-w-p9": {
   "classYear": "Senior",
@@ -12837,7 +12851,10 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "atpCareerHighDate": "2026-08-31"
  },
  "uva-m-p4": {
-  "former": true
+  "classYear": "Freshman",
+  "hometown": "Huntington, N.Y.",
+  "nationality": "USA",
+  "former": false
  },
  "uva-m-p11": {
   "former": true
@@ -13118,8 +13135,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Geneva, New York",
   "nationality": "New York",
   "former": false,
-  "atpCareerHigh": 1910,
-  "atpCareerHighDate": "2026-08-03"
+  "atpCareerHigh": 1909,
+  "atpCareerHighDate": "2026-10-19"
  },
  "vt-m-p5": {
   "classYear": "Sophomore",
@@ -13288,8 +13305,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Queens, N.Y.",
   "nationality": "USA",
   "former": false,
-  "atpCareerHigh": 1079,
-  "atpCareerHighDate": "2026-07-27"
+  "atpCareerHigh": 881,
+  "atpCareerHighDate": "2026-10-19"
  },
  "wake-m-p5": {
   "classYear": "Sophomore",
@@ -13435,8 +13452,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "hometown": "Opole, Poland",
   "nationality": "Poland",
   "former": false,
-  "atpCareerHigh": 1533,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 1530,
+  "atpCareerHighDate": "2026-10-19"
  },
  "wash-m-p3": {
   "classYear": "1st",
@@ -13847,6 +13864,7 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
  },
  "wsu-w-p1": {
   "former": true,
+  "classYear": "Senior",
   "wtaCareerHigh": 1327,
   "wtaCareerHighDate": "2026-07-13"
  },
@@ -14142,8 +14160,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "wtaCareerHighDate": "2025-07-21"
  },
  "mich-w-n1": {
-  "wtaCareerHigh": 1077,
-  "wtaCareerHighDate": "2026-10-12"
+  "wtaCareerHigh": 1070,
+  "wtaCareerHighDate": "2026-10-19"
  },
  "miz-w-n5": {
   "wtaCareerHigh": 1050,
@@ -14154,16 +14172,16 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "wtaCareerHighDate": "2026-10-12"
  },
  "ttu-w-n2": {
-  "wtaCareerHigh": 1359,
-  "wtaCareerHighDate": "2026-10-12"
+  "wtaCareerHigh": 1355,
+  "wtaCareerHighDate": "2026-10-19"
  },
  "tamu-w-n5": {
   "wtaCareerHigh": 1137,
   "wtaCareerHighDate": "2026-04-20"
  },
  "tex-m-n3": {
-  "atpCareerHigh": 171,
-  "atpCareerHighDate": "2026-09-14"
+  "atpCareerHigh": 138,
+  "atpCareerHighDate": "2026-10-19"
  },
  "ou-m-n4": {
   "atpCareerHigh": 311,
@@ -14190,8 +14208,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "atpCareerHighDate": "2026-06-08"
  },
  "aub-m-n3": {
-  "atpCareerHigh": 995,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 986,
+  "atpCareerHighDate": "2026-10-19"
  },
  "corn-m-n2": {
   "atpCareerHigh": 987,
@@ -14218,8 +14236,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "atpCareerHighDate": "2026-07-27"
  },
  "ou-m-n2": {
-  "atpCareerHigh": 1154,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 1132,
+  "atpCareerHighDate": "2026-10-19"
  },
  "uk-m-n2": {
   "atpCareerHigh": 1224,
@@ -14262,8 +14280,8 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "atpCareerHighDate": "2026-07-27"
  },
  "sc-m-n3": {
-  "atpCareerHigh": 1456,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 1448,
+  "atpCareerHighDate": "2026-10-19"
  },
  "tenn-m-n2": {
   "atpCareerHigh": 1083,
@@ -14298,12 +14316,12 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "atpCareerHighDate": "2026-07-13"
  },
  "msst-m-n5": {
-  "atpCareerHigh": 1964,
-  "atpCareerHighDate": "2026-06-08"
+  "atpCareerHigh": 1909,
+  "atpCareerHighDate": "2026-10-19"
  },
  "tenn-m-n3": {
-  "atpCareerHigh": 1948,
-  "atpCareerHighDate": "2026-03-16"
+  "atpCareerHigh": 1909,
+  "atpCareerHighDate": "2026-10-19"
  },
  "dart-m-n3": {
   "atpCareerHigh": 1807,
@@ -14370,12 +14388,12 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "wtaCareerHighDate": "2026-07-13"
  },
  "sc-w-n2": {
-  "wtaCareerHigh": 808,
-  "wtaCareerHighDate": "2026-10-12"
+  "wtaCareerHigh": 807,
+  "wtaCareerHighDate": "2026-10-19"
  },
  "fla-w-n1": {
-  "wtaCareerHigh": 847,
-  "wtaCareerHighDate": "2026-10-12"
+  "wtaCareerHigh": 846,
+  "wtaCareerHighDate": "2026-10-19"
  },
  "tamu-w-n3": {
   "wtaCareerHigh": 886,
@@ -14390,16 +14408,16 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "wtaCareerHighDate": "2026-09-21"
  },
  "harv-w-n3": {
-  "wtaCareerHigh": 1081,
-  "wtaCareerHighDate": "2026-08-10"
+  "wtaCareerHigh": 1077,
+  "wtaCareerHighDate": "2026-10-19"
  },
  "miz-w-n1": {
   "wtaCareerHigh": 1101,
   "wtaCareerHighDate": "2025-11-10"
  },
  "miz-w-n4": {
-  "wtaCareerHigh": 1162,
-  "wtaCareerHighDate": "2026-10-12"
+  "wtaCareerHigh": 1159,
+  "wtaCareerHighDate": "2026-10-19"
  },
  "lsu-w-n4": {
   "wtaCareerHigh": 933,
@@ -14582,12 +14600,12 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "atpCareerHighDate": null
  },
  "colum-m-n4": {
-  "atpCareerHigh": 1128,
-  "atpCareerHighDate": "2026-08-31"
+  "atpCareerHigh": 1079,
+  "atpCareerHighDate": "2026-10-19"
  },
  "uk-m-n6": {
-  "atpCareerHigh": 1657,
-  "atpCareerHighDate": "2026-08-31"
+  "atpCareerHigh": 1456,
+  "atpCareerHighDate": "2026-10-19"
  },
  "uga-m-n2": {
   "atpCareerHigh": 1592,
@@ -14606,16 +14624,16 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
   "atpCareerHighDate": "2026-10-05"
  },
  "byu-m-n1": {
-  "atpCareerHigh": 2160,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 2148,
+  "atpCareerHighDate": "2026-10-19"
  },
  "usf-m-n1": {
   "atpCareerHigh": 685,
   "atpCareerHighDate": "2026-09-21"
  },
  "usf-m-n3": {
-  "atpCareerHigh": 1321,
-  "atpCareerHighDate": "2026-10-05"
+  "atpCareerHigh": 1311,
+  "atpCareerHighDate": "2026-10-19"
  },
  "gt-w-n2": {
   "wtaCareerHigh": 966,
@@ -14631,7 +14649,7 @@ export const refresh2627Updates = globalThis.__BAGEL_REMOTE__?.["roster2627"]?.r
  },
  "sc-m-n1": {
   "atpCareerHigh": 891,
-  "atpCareerHighDate": "2026-10-20"
+  "atpCareerHighDate": "2026-10-26"
  },
  "scu-w-n4": {
   "wtaCareerHigh": 1058,
