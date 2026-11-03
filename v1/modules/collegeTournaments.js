@@ -41,5 +41,11 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "name": "2026 ITA DI Men's East Sectional Championship",
     "start": "2026-11-05",
     "end": "2026-11-08"
+  },
+  {
+    "id": "6aea3a998b23d4ad821ee05b",
+    "name": "2026 ITA DI Men's South Sectional Championship",
+    "start": "2026-11-05",
+    "end": "2026-11-08"
   }
 ];
