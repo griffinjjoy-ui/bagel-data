@@ -957,6 +957,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "6A6BC056-83D7-44B0-904C-9C568E73B999",
+  "date": "2027-01-29",
+  "dateTime": "2027-01-29T06:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Belmont University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "van-w",
+   "name": "Vanderbilt University",
+   "side": 2
+  }
+ },
+ {
   "id": "1364D7EF-DB70-4893-A096-3B9290B69A54",
   "date": "2027-01-29",
   "dateTime": "2027-01-29T17:00:00.000Z",
@@ -1892,6 +1909,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "AC0472C2-5412-4071-AE04-DBED8D2A45B0",
+  "date": "2027-02-07",
+  "dateTime": "2027-02-07T06:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Belmont University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "uab-w",
+   "name": "Univ. Of Alabama, Birmingham",
+   "side": 2
+  }
+ },
+ {
   "id": "6D543E5F-D61B-4729-A425-1BA790E3512A",
   "date": "2027-02-07",
   "dateTime": "2027-02-07T08:00:00.000Z",
@@ -2109,6 +2143,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "mich-m",
    "name": "University Of Michigan",
+   "side": 2
+  }
+ },
+ {
+  "id": "98D0AD66-48BD-4E78-B779-18604E446B8A",
+  "date": "2027-02-13",
+  "dateTime": "2027-02-13T05:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Bucknell University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "psu-m",
+   "name": "Penn State University",
    "side": 2
   }
  },
@@ -4880,6 +4931,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "wvu-w",
    "name": "West Virginia University",
+   "side": 2
+  }
+ },
+ {
+  "id": "6C05B91D-5A27-4ACA-B542-5722F3B68396",
+  "date": "2027-03-27",
+  "dateTime": "2027-03-27T17:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Bucknell University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "temple-m",
+   "name": "Temple University",
    "side": 2
   }
  },

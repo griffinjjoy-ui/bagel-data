@@ -483,6 +483,50 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "bay-m-fp67": [
+  {
+   "key": "900004948",
+   "name": "M25 Harlingen",
+   "date": "2026-11-03",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177361",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "R. Krishna",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "bay-m-p9": [
+  {
+   "key": "900004948",
+   "name": "M25 Harlingen",
+   "date": "2026-11-03",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177356",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Ioan Alexandru Chirita",
+     "score": "6-2 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "cal-m-p9": [
   {
    "key": "22112",
@@ -816,6 +860,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "corn-m-p8": [
   {
+   "key": "900013397",
+   "name": "M15 Trois-Rivieres",
+   "date": "2026-11-02",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177204",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Benjamin Thomas George",
+     "score": "6-4 7-5"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22172",
    "name": "M15 Ithaca",
    "date": "2026-10-19",
@@ -1031,6 +1095,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "fla-m-p3": [
+  {
+   "key": "900004948",
+   "name": "M25 Harlingen",
+   "date": "2026-11-03",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12176792",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "P. Chunduru",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "fla-p5": [
   {
    "key": "17363",
@@ -1054,6 +1140,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "fla-w-n1": [
+  {
+   "key": "900012515",
+   "name": "W35 Orlando",
+   "date": "2026-11-04",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177290",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Margaux Rouvroy",
+     "score": "6-4 7-6(2)"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "17350",
    "name": "W35 Bakersfield",
@@ -1127,6 +1233,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Lea Ma",
      "score": "6-2 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "fla-w-n3": [
+  {
+   "key": "900012515",
+   "name": "W35 Orlando",
+   "date": "2026-11-04",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177292",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Evialina Laskevich",
+     "score": "4-6 6-1 6-0"
     }
    ],
    "reached": "First",
@@ -1662,6 +1790,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "green"
   }
  ],
+ "lsu-w-n2": [
+  {
+   "key": "900013379",
+   "name": "W15 Hilton Head Island",
+   "date": "2026-11-03",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177242",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "O. De Los Reyes",
+     "score": "6-3 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "lsu-w-n4": [
   {
    "key": "17350",
@@ -1720,6 +1870,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Edda Mamedova",
      "score": "6-1 7-5"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "mich-w-n1": [
+  {
+   "key": "900013379",
+   "name": "W15 Hilton Head Island",
+   "date": "2026-11-03",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177241",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Emery Combs",
+     "score": "6-3 4-6 6-2"
     }
    ],
    "reached": "First",
@@ -2178,6 +2350,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "osu-w-p6": [
+  {
+   "key": "900012515",
+   "name": "W35 Orlando",
+   "date": "2026-11-04",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177289",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Whitney Osuigwe",
+     "score": "7-6(4) 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "osu-w-p9": [
   {
    "key": "17349",
@@ -2289,6 +2483,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "ou-m-p5": [
+  {
+   "key": "900014831",
+   "name": "M15 Hilton Head Island",
+   "date": "2026-11-03",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177252",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Kayden Colombo",
+     "score": "6-3 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900011932",
    "name": "M25 Norman",
@@ -2767,6 +2981,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "sc-w-n2": [
+  {
+   "key": "900013379",
+   "name": "W15 Hilton Head Island",
+   "date": "2026-11-03",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177283",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "A. Haile",
+     "score": "6-3 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900013410",
    "name": "W15 Sumter",
@@ -3624,6 +3858,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "tex-m-n2": [
   {
+   "key": "900004948",
+   "name": "M25 Harlingen",
+   "date": "2026-11-03",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177358",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "J. Quattro",
+     "score": "7-6(3) 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22111",
    "name": "Sioux Falls Challenger",
    "date": "2026-10-26",
@@ -3694,6 +3948,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tex-m-n3": [
+  {
+   "key": "900003196",
+   "name": "Bratislava 2 Challenger",
+   "date": "2026-11-01",
+   "surface": null,
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12176569",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Michal Krajci",
+     "score": "6-3 7-6(2)"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "22104",
    "name": "Lisbon Challenger",
@@ -4071,6 +4345,50 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "tex-w-n2": [
+  {
+   "key": "900012515",
+   "name": "W35 Orlando",
+   "date": "2026-11-04",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177299",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Aishi Das",
+     "score": "7-6(9) 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "ucf-w-p9": [
+  {
+   "key": "900013379",
+   "name": "W15 Hilton Head Island",
+   "date": "2026-11-03",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177287",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "S. Shumate",
+     "score": "6-3 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "ucla-w-p7": [
   {
    "key": "900014817",
@@ -4190,6 +4508,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "QF",
+   "reachedTone": "neutral"
+  }
+ ],
+ "uga-m-p3": [
+  {
+   "key": "900014831",
+   "name": "M15 Hilton Head Island",
+   "date": "2026-11-03",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177254",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Novak Novakovic",
+     "score": "4-6 6-4 6-3"
+    }
+   ],
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -4659,6 +4999,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Ilya Snitari",
      "score": "4-6 6-4 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "usf-w-n2": [
+  {
+   "key": "900014838",
+   "name": "W50 Huamantla",
+   "date": "2026-11-03",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12176897",
+     "date": "2026-11-04",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Jessica Hinojosa Gomez",
+     "score": "6-2 6-2"
     }
    ],
    "reached": "First",
