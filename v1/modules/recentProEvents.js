@@ -355,9 +355,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Kristina Penickova",
      "score": "6-1 7-5"
+    },
+    {
+     "id": "at-12177607",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Dasha Ivanova",
+     "score": "1-6 6-0 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -481,9 +490,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "R. Krishna",
      "score": "6-2 6-2"
+    },
+    {
+     "id": "at-12177627",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Alec Deckers",
+     "score": "6-1 3-0 ret."
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -503,9 +521,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Ioan Alexandru Chirita",
      "score": "6-2 6-1"
+    },
+    {
+     "id": "at-12177654",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Kaylan Bigun",
+     "score": "6-3 6-4"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -600,9 +627,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "C. Colburne",
      "score": "6-4 6-3"
+    },
+    {
+     "id": "at-12177726",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Theodore Dean",
+     "score": "6-3 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -1135,9 +1171,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Annika Penickova",
      "score": "4-6 7-6 6-3"
+    },
+    {
+     "id": "at-12177694",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Janae Preston",
+     "score": "6-0 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -1179,9 +1224,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Margaux Rouvroy",
      "score": "6-4 7-6(2)"
+    },
+    {
+     "id": "at-12177608",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Briana Szabo",
+     "score": "4-6 6-3 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -1801,9 +1855,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Isabella Marton",
      "score": "6-2 1-6 6-1"
+    },
+    {
+     "id": "at-12177641",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Jo-Yee Chan",
+     "score": "6-1 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -1870,9 +1933,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "O. De Los Reyes",
      "score": "6-3 6-1"
+    },
+    {
+     "id": "at-12177743",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Charlotte Narti",
+     "score": "6-3 6-0"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -2363,6 +2435,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "osu-m-p7": [
   {
+   "key": "900004948",
+   "name": "M25 Harlingen",
+   "date": "2026-11-03",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177598",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Togan Tokac",
+     "score": "5-7 6-4 6-1"
+    }
+   ],
+   "reached": "Second",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "900011893",
    "name": "Sioux Falls Challenger",
    "date": "2026-10-25",
@@ -2478,6 +2570,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "ou-m-n1": [
+  {
+   "key": "900014831",
+   "name": "M15 Hilton Head Island",
+   "date": "2026-11-03",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177716",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Henry Lieberman",
+     "score": "6-4 4-0 ret."
+    }
+   ],
+   "reached": "Second",
+   "reachedTone": "neutral"
+  }
+ ],
  "ou-m-n3": [
   {
    "key": "900014831",
@@ -2560,9 +2674,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Kayden Colombo",
      "score": "6-3 6-3"
+    },
+    {
+     "id": "at-12177713",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Gavin Goode",
+     "score": "6-1 4-6 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -2610,6 +2733,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "ou-p4": [
   {
+   "key": "900012515",
+   "name": "W35 Orlando",
+   "date": "2026-11-04",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177639",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Aspen Schuman",
+     "score": "6-2 6-4"
+    }
+   ],
+   "reached": "Second",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "900011973",
    "name": "W35 Norman",
    "date": "2026-10-27",
@@ -2640,6 +2783,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "ou-p5": [
+  {
+   "key": "900012515",
+   "name": "W35 Orlando",
+   "date": "2026-11-04",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177678",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Vivian Wolff",
+     "score": "6-1 6-4"
+    }
+   ],
+   "reached": "Second",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900011973",
    "name": "W35 Norman",
@@ -3761,9 +3924,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "J. Quattro",
      "score": "7-6(3) 6-3"
+    },
+    {
+     "id": "at-12177597",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Bor Artnak",
+     "score": "4-6 6-4 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -3852,9 +4024,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Michal Krajci",
      "score": "6-3 7-6(2)"
+    },
+    {
+     "id": "at-12177489",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Tom Gentzsch",
+     "score": "7-5 6-4"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -4188,9 +4369,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "S. Shumate",
      "score": "6-3 6-4"
+    },
+    {
+     "id": "at-12177741",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Jensen Diianni",
+     "score": "6-3 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -4481,6 +4671,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "uk-m-p1": [
+  {
+   "key": "900013397",
+   "name": "M15 Trois-Rivieres",
+   "date": "2026-11-02",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12177727",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "E. Nobel",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "Second",
+   "reachedTone": "neutral"
+  },
   {
    "key": "22172",
    "name": "M15 Ithaca",
@@ -5159,9 +5369,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Stephen Slocombe",
      "score": "6-2 6-3"
+    },
+    {
+     "id": "at-12177655",
+     "date": "2026-11-05",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Carel Aubriel Ngounoue",
+     "score": "6-0 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {

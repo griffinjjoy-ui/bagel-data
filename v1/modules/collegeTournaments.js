@@ -65,5 +65,11 @@ export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTourname
     "name": "Gonzaga Invitational",
     "start": "2026-11-06",
     "end": "2026-11-08"
+  },
+  {
+    "id": "6aecc6fd6e6a476e0e448728",
+    "name": "Michigan State Classic",
+    "start": "2026-11-06",
+    "end": "2026-11-08"
   }
 ];

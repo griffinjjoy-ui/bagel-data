@@ -1671,6 +1671,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "7B0C1168-60B0-4703-8BCC-74D0111659EF",
+  "date": "2027-02-06",
+  "dateTime": "2027-02-06T01:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Montana State U/Bozeman",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "colo-w",
+   "name": "University Of Colorado",
+   "side": 2
+  }
+ },
+ {
   "id": "DCBE0F27-ED91-42C5-BE3A-467C26378555",
   "date": "2027-02-06",
   "dateTime": "2027-02-06T05:00:00.000Z",
@@ -3218,6 +3235,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "A2493420-0FAE-4F22-BFD7-4602B467DF60",
+  "date": "2027-02-27",
+  "dateTime": "2027-02-27T22:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Montana State U/Bozeman",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "byu-w",
+   "name": "Brigham Young University",
+   "side": 2
+  }
+ },
+ {
   "id": "34E59C60-23AC-4665-B9A8-1EDA719FA22D",
   "date": "2027-02-28",
   "dateTime": "2027-02-28T05:00:00.000Z",
@@ -4051,6 +4085,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "7F1BB01D-5986-4A92-B56F-4545A2E45074",
+  "date": "2027-03-14",
+  "dateTime": "2027-03-14T08:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Montana State U/Bozeman",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "scu-w",
+   "name": "Santa Clara University",
+   "side": 2
+  }
+ },
+ {
   "id": "D332D66F-BB52-4655-8687-B079D631371B",
   "date": "2027-03-14",
   "dateTime": "2027-03-14T16:00:00.000Z",
@@ -4098,6 +4149,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Eastern Washington Univ.",
+   "side": 2
+  }
+ },
+ {
+  "id": "0E1637AB-B17F-47DD-B19E-F649A731212E",
+  "date": "2027-03-16",
+  "dateTime": "2027-03-16T07:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Montana State U/Bozeman",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "pac-w",
+   "name": "University Of The Pacific",
    "side": 2
   }
  },
