@@ -31,6 +31,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-11-06"
  },
  {
+  "playerId": "fla-m-h11",
+  "name": "Andres Andrade",
+  "teamId": "fla-m",
+  "teamName": "Florida",
+  "gender": "men",
+  "event": "Charlottesville Challenger",
+  "round": "1/4",
+  "won": true,
+  "opponent": "Maks Kasnikowski",
+  "result": "3-6 6-4 6-4",
+  "date": "2026-11-06"
+ },
+ {
   "playerId": "lsu-w-n2",
   "name": "Aya El Aouni",
   "teamId": "lsu-w",
@@ -145,6 +158,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Theodore Dean",
   "result": "6-3 6-1",
+  "date": "2026-11-06"
+ },
+ {
+  "playerId": "ill-m-h3",
+  "name": "Hunter Heck",
+  "teamId": "ill-m",
+  "teamName": "Illinois",
+  "gender": "men",
+  "event": "M25 Harlingen",
+  "round": "1/4",
+  "won": false,
+  "opponent": "Bor Artnak",
+  "result": "6-2 7-5",
   "date": "2026-11-06"
  },
  {
@@ -408,19 +434,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-11-05"
  },
  {
-  "playerId": "fla-m-h11",
-  "name": "Andres Andrade",
-  "teamId": "fla-m",
-  "teamName": "Florida",
-  "gender": "men",
-  "event": "Charlottesville Challenger",
-  "round": "Second",
-  "won": true,
-  "opponent": "James Kent Trotter",
-  "result": "3-6 6-3 6-1",
-  "date": "2026-11-05"
- },
- {
   "playerId": "lsu-w-h3",
   "name": "Anita Sahdiieva",
   "teamId": "lsu-w",
@@ -600,19 +613,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Toufik Sahtali",
   "result": "3-6 6-2 6-1",
-  "date": "2026-11-05"
- },
- {
-  "playerId": "ill-m-h3",
-  "name": "Hunter Heck",
-  "teamId": "ill-m",
-  "teamName": "Illinois",
-  "gender": "men",
-  "event": "M25 Harlingen",
-  "round": "Second",
-  "won": true,
-  "opponent": "Kevin Edengren",
-  "result": "6-4 7-5",
   "date": "2026-11-05"
  },
  {
@@ -7236,11 +7236,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Florida",
   "gender": "men",
   "event": "Charlottesville Challenger",
-  "round": "Second",
+  "round": "1/4",
   "won": true,
-  "opponent": "James Kent Trotter",
-  "result": "3-6 6-3 6-1",
-  "date": "2026-11-05"
+  "opponent": "Maks Kasnikowski",
+  "result": "3-6 6-4 6-4",
+  "date": "2026-11-06"
  },
  "fla-m-h2": {
   "playerId": "fla-m-h2",
@@ -8380,11 +8380,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Illinois",
   "gender": "men",
   "event": "M25 Harlingen",
-  "round": "Second",
-  "won": true,
-  "opponent": "Kevin Edengren",
-  "result": "6-4 7-5",
-  "date": "2026-11-05"
+  "round": "1/4",
+  "won": false,
+  "opponent": "Bor Artnak",
+  "result": "6-2 7-5",
+  "date": "2026-11-06"
  },
  "ill-m-h7": {
   "playerId": "ill-m-h7",
