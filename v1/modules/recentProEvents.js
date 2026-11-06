@@ -490,9 +490,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Alec Deckers",
      "score": "6-1 3-0 ret."
+    },
+    {
+     "id": "at-12177911",
+     "date": "2026-11-06",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Samir Banerjee",
+     "score": "6-3 6-4"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -817,9 +826,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "A. Genereux",
      "score": "6-4 6-0"
+    },
+    {
+     "id": "at-12177934",
+     "date": "2026-11-06",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Theodore Dean",
+     "score": "6-3 6-1"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -1807,9 +1825,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Charlotte Narti",
      "score": "6-3 6-0"
+    },
+    {
+     "id": "at-12177949",
+     "date": "2026-11-06",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Juliana Nicole Singeorzan",
+     "score": "6-1 6-0"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -2294,9 +2321,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Togan Tokac",
      "score": "5-7 6-4 6-1"
+    },
+    {
+     "id": "at-12177883",
+     "date": "2026-11-06",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Kaylan Bigun",
+     "score": "6-3 7-5"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -3816,9 +3852,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Tom Gentzsch",
      "score": "7-5 6-4"
+    },
+    {
+     "id": "at-12177792",
+     "date": "2026-11-06",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Laslo Djere",
+     "score": "6-4 6-4"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -4161,9 +4206,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Jensen Diianni",
      "score": "6-3 6-1"
+    },
+    {
+     "id": "at-12177950",
+     "date": "2026-11-06",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Scarlett Fagan",
+     "score": "7-5 6-1"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -5123,9 +5177,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Carel Aubriel Ngounoue",
      "score": "6-0 6-1"
+    },
+    {
+     "id": "at-12177900",
+     "date": "2026-11-06",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Matt Kuhar",
+     "score": "6-3 6-3"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
