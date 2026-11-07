@@ -517,10 +517,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Samir Banerjee",
      "score": "6-3 6-4"
+    },
+    {
+     "id": "at-12178059",
+     "date": "2026-11-07",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Keaton Hance",
+     "score": "6-4 6-4"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "bay-m-p9": [
@@ -809,10 +818,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Theodore Dean",
      "score": "6-3 6-1"
+    },
+    {
+     "id": "at-12178057",
+     "date": "2026-11-07",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Johan Oscar Lien",
+     "score": "7-6(5) 6-4"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "duke-w-p2": [
@@ -1690,9 +1708,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Jo-Yee Chan",
      "score": "6-1 6-2"
+    },
+    {
+     "id": "at-12177890",
+     "date": "2026-11-07",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Valeriya Strakhova",
+     "score": "6-4 6-4"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -1777,10 +1804,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Juliana Nicole Singeorzan",
      "score": "6-1 6-0"
+    },
+    {
+     "id": "at-12178067",
+     "date": "2026-11-07",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Emery Combs",
+     "score": "6-3 6-3"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "lsu-w-n5": [
@@ -2437,10 +2473,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "A. Watane",
      "score": "6-3 6-3"
+    },
+    {
+     "id": "at-12178063",
+     "date": "2026-11-07",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Mitchell Sheldon",
+     "score": "7-5 7-6(3)"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "ou-m-n3": [
@@ -3112,10 +3157,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "R. Patil",
      "score": "6-0 6-3"
+    },
+    {
+     "id": "at-12178049",
+     "date": "2026-11-07",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Kaylan Bigun",
+     "score": "6-4 6-2"
     }
    ],
-   "reached": "First",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "900011932",
@@ -3715,10 +3769,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Laslo Djere",
      "score": "6-4 6-4"
+    },
+    {
+     "id": "at-12178014",
+     "date": "2026-11-07",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Jerome Kym",
+     "score": "6-4 6-2"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "22104",
@@ -4022,10 +4085,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Scarlett Fagan",
      "score": "7-5 6-1"
+    },
+    {
+     "id": "at-12178068",
+     "date": "2026-11-07",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Ashley Lahey",
+     "score": "7-6(1) 6-1"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "ucla-w-p7": [
@@ -4263,10 +4335,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "E. Nobel",
      "score": "6-2 6-2"
+    },
+    {
+     "id": "at-12178056",
+     "date": "2026-11-07",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Nikola Slavic",
+     "score": "6-4 6-4"
     }
    ],
-   "reached": "Second",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "22172",
@@ -4933,10 +5014,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Matt Kuhar",
      "score": "6-3 6-3"
+    },
+    {
+     "id": "at-12178019",
+     "date": "2026-11-07",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Keshav Chopra",
+     "score": "7-5 6-3"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "900014811",

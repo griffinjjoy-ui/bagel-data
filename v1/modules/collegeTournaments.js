@@ -5,4 +5,11 @@
 // entered on the platform (they appear days-to-weeks before play). No UI
 // consumer yet -- the hand calendar in collegeEvents.js stays the marquee
 // layer; this module is the watcher's ledger and the future live source.
-export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTournaments"]?.collegeTournaments ?? [];
+export const collegeTournaments = globalThis.__BAGEL_REMOTE__?.["collegeTournaments"]?.collegeTournaments ?? [
+  {
+    "id": "6aef54dc580b6c8a01e545c8",
+    "name": "Harvard Invitational",
+    "start": "2026-11-07",
+    "end": "2026-11-08"
+  }
+];
