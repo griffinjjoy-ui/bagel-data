@@ -1780,10 +1780,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Emery Combs",
      "score": "6-3 6-3"
+    },
+    {
+     "id": "at-12178259",
+     "date": "2026-11-08",
+     "roundId": 12,
+     "round": "Final",
+     "won": false,
+     "opponent": "Ashley Lahey",
+     "score": "6-2 4-6 6-3"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Final",
+   "reachedTone": "amber"
   }
  ],
  "lsu-w-n5": [
@@ -3425,6 +3434,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tenn-p6": [
+  {
+   "key": "900014849",
+   "name": "Sopo Challenger",
+   "date": "2026-11-08",
+   "surface": "Clay",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12178330",
+     "date": "2026-11-08",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Maria Camila Torres Murcia",
+     "score": "6-2 6-4"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900001857",
    "name": "Cali Challenger",
