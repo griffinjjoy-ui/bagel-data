@@ -2478,10 +2478,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Mitchell Sheldon",
      "score": "7-5 7-6(3)"
+    },
+    {
+     "id": "at-12178255",
+     "date": "2026-11-08",
+     "roundId": 12,
+     "round": "Final",
+     "won": true,
+     "opponent": "William Mirarchi",
+     "score": "6-0 6-2"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Title",
+   "reachedTone": "gold"
   }
  ],
  "ou-m-n3": [
@@ -2648,10 +2657,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Whitney Osuigwe",
      "score": "6-2 6-4"
+    },
+    {
+     "id": "at-12178335",
+     "date": "2026-11-08",
+     "roundId": 12,
+     "round": "Final",
+     "won": true,
+     "opponent": "Janae Preston",
+     "score": "6-2 3-6 6-3"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Title",
+   "reachedTone": "gold"
   },
   {
    "key": "900011973",
@@ -3049,6 +3067,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "stan-m-fp374": [
+  {
+   "key": "900002443",
+   "name": "Knoxville Challenger",
+   "date": "2026-11-08",
+   "surface": null,
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12178309",
+     "date": "2026-11-08",
+     "roundId": 1,
+     "round": "Q1",
+     "won": false,
+     "opponent": "Mitchell Krueger",
+     "score": "6-4 6-7(6) 6-1"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900004948",
    "name": "M25 Harlingen",

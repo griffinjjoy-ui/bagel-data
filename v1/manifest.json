@@ -1,5 +1,5 @@
 {
- "version": "dc44e2abad",
+ "version": "19d794b040",
  "asOf": "2026-11-08",
  "files": {
   "proRankings.js": {
@@ -7,19 +7,19 @@
    "bytes": 288255
   },
   "onTourWeek.js": {
-   "hash": "5596bbe58a",
-   "bytes": 438303
+   "hash": "438f6d8a0f",
+   "bytes": 438684
   },
   "upcoming.js": {
-   "hash": "5424b95088",
-   "bytes": 38948
+   "hash": "dd05225cc3",
+   "bytes": 37354
   },
   "itaNational.js": {
    "hash": "ea30041c62",
    "bytes": 13090
   },
   "itaDraws.js": {
-   "hash": "761ee037dc",
+   "hash": "228d0bd64b",
    "bytes": 348082
   },
   "collegeRanks.js": {
@@ -39,12 +39,12 @@
    "bytes": 597
   },
   "drawFixtures.js": {
-   "hash": "2e15f2655b",
-   "bytes": 18233
+   "hash": "59862682c1",
+   "bytes": 18206
   },
   "proDraws.js": {
-   "hash": "28d4469ad0",
-   "bytes": 484309
+   "hash": "14c58d13b0",
+   "bytes": 485629
   },
   "doublesRecords.js": {
    "hash": "380645b004",
@@ -63,8 +63,8 @@
    "bytes": 385391
   },
   "recentProEvents.js": {
-   "hash": "b5bd9158f2",
-   "bytes": 92603
+   "hash": "098488b4c8",
+   "bytes": 93382
   }
  }
 }
