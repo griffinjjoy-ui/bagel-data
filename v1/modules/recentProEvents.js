@@ -58,6 +58,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "ariz-m-fp226": [
   {
+   "key": "900008222",
+   "name": "Matsuyama Challenger",
+   "date": "2026-11-08",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12178119",
+     "date": "2026-11-09",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Yusuke Kusuhara",
+     "score": "6-2 3-6 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22109",
    "name": "Seoul Challenger",
    "date": "2026-10-26",
@@ -2616,6 +2636,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "pepp-w-p7": [
+  {
+   "key": "900014817",
+   "name": "W100 New Braunfels",
+   "date": "2026-10-27",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12174699",
+     "date": "2026-10-27",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Connie Ma",
+     "score": "6-4 4-0 ret."
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "sc-m-p4": [
   {
    "key": "900011932",
@@ -2829,10 +2871,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Kaylan Bigun",
      "score": "6-4 6-2"
+    },
+    {
+     "id": "at-12178258",
+     "date": "2026-11-08",
+     "roundId": 12,
+     "round": "Final",
+     "won": true,
+     "opponent": "Connor Henry van Schalkwyk",
+     "score": "6-1 4-6 6-3"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Title",
+   "reachedTone": "gold"
   },
   {
    "key": "900011932",
@@ -3895,6 +3946,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "usc-m-p3": [
+  {
+   "key": "900013396",
+   "name": "Monastir Challenger",
+   "date": "2026-11-08",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12178374",
+     "date": "2026-11-09",
+     "roundId": 2,
+     "round": "Q2",
+     "won": false,
+     "opponent": "Nicolas Tepmahc",
+     "score": "6-4 6-2"
+    }
+   ],
+   "reached": "Q2",
    "reachedTone": "neutral"
   }
  ],
