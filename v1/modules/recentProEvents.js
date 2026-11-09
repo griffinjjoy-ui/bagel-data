@@ -2636,28 +2636,6 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
- "pepp-w-p7": [
-  {
-   "key": "900014817",
-   "name": "W100 New Braunfels",
-   "date": "2026-10-27",
-   "surface": "Hard",
-   "tier": "ITF",
-   "matches": [
-    {
-     "id": "at-12174699",
-     "date": "2026-10-27",
-     "roundId": 4,
-     "round": "First",
-     "won": false,
-     "opponent": "Connie Ma",
-     "score": "6-4 4-0 ret."
-    }
-   ],
-   "reached": "First",
-   "reachedTone": "neutral"
-  }
- ],
  "sc-m-p4": [
   {
    "key": "900011932",
