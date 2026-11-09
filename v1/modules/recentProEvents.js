@@ -518,6 +518,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "cal-m-p9": [
   {
+   "key": "900013396",
+   "name": "Monastir Challenger",
+   "date": "2026-11-08",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12178219",
+     "date": "2026-11-09",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Aziz Dougaz",
+     "score": "6-3 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "22112",
    "name": "Guayaquil Challenger",
    "date": "2026-10-26",
@@ -949,7 +969,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "name": "W75 Toronto",
    "date": "2026-10-26",
    "surface": "I.hard",
-   "tier": "Challenger",
+   "tier": "ITF",
    "matches": [
     {
      "id": "94627380",
@@ -1095,7 +1115,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "name": "W75 Toronto",
    "date": "2026-10-26",
    "surface": "I.hard",
-   "tier": "Challenger",
+   "tier": "ITF",
    "matches": [
     {
      "id": "94627381",
@@ -1117,7 +1137,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "name": "W100 New Braunfels",
    "date": "2026-10-26",
    "surface": "Hard",
-   "tier": "Challenger",
+   "tier": "ITF",
    "matches": [
     {
      "id": "110655909",
@@ -1325,7 +1345,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "name": "W50 Austin",
    "date": "2026-10-19",
    "surface": "Hard",
-   "tier": "Challenger",
+   "tier": "ITF",
    "matches": [
     {
      "id": "911282",
@@ -1607,6 +1627,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Ashley Lahey",
      "score": "6-1 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "mich-m-p6": [
+  {
+   "key": "900001681",
+   "name": "Stockholm",
+   "date": "2026-11-07",
+   "surface": null,
+   "tier": "Tour",
+   "matches": [
+    {
+     "id": "at-12178148",
+     "date": "2026-11-09",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Tomas Martin Etcheverry",
+     "score": "6-4 6-7(6) 6-3"
     }
    ],
    "reached": "First",
@@ -2086,7 +2128,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "name": "W75 Toronto",
    "date": "2026-10-26",
    "surface": "I.hard",
-   "tier": "Challenger",
+   "tier": "ITF",
    "matches": [
     {
      "id": "79832232",
@@ -3082,7 +3124,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "name": "W35 Sydney",
    "date": "2026-10-26",
    "surface": "Hard",
-   "tier": "Challenger",
+   "tier": "ITF",
    "matches": [
     {
      "id": "63802130",
@@ -3133,7 +3175,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "name": "W35 Sydney",
    "date": "2026-10-26",
    "surface": "Hard",
-   "tier": "Challenger",
+   "tier": "ITF",
    "matches": [
     {
      "id": "94627463",
@@ -3783,7 +3825,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "name": "W75 Toronto",
    "date": "2026-10-26",
    "surface": "I.hard",
-   "tier": "Challenger",
+   "tier": "ITF",
    "matches": [
     {
      "id": "94627380",
@@ -3805,7 +3847,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "name": "W75 Toronto",
    "date": "2026-10-26",
    "surface": "I.hard",
-   "tier": "Challenger",
+   "tier": "ITF",
    "matches": [
     {
      "id": "94627387",
@@ -3880,7 +3922,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "name": "W75 Toronto",
    "date": "2026-10-26",
    "surface": "I.hard",
-   "tier": "Challenger",
+   "tier": "ITF",
    "matches": [
     {
      "id": "79832230",
@@ -3911,7 +3953,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "name": "W75 Toronto",
    "date": "2026-10-26",
    "surface": "I.hard",
-   "tier": "Challenger",
+   "tier": "ITF",
    "matches": [
     {
      "id": "94627382",
@@ -4210,7 +4252,7 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "name": "W75 Toronto",
    "date": "2026-10-26",
    "surface": "I.hard",
-   "tier": "Challenger",
+   "tier": "ITF",
    "matches": [
     {
      "id": "94627378",
