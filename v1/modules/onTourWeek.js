@@ -115,10 +115,10 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "teamName": "Harvard",
   "gender": "men",
   "event": "Knoxville Challenger",
-  "round": "Q1",
+  "round": "Q2",
   "won": true,
-  "opponent": "Luca Wiedenmann",
-  "result": "6-3 6-2",
+  "opponent": "Kenta Miyoshi",
+  "result": "7-6(4) 6-4",
   "date": "2026-11-09"
  },
  {
@@ -327,6 +327,32 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Emile Hudd",
   "result": "6-2 6-3",
+  "date": "2026-11-09"
+ },
+ {
+  "playerId": "sc-m-h4",
+  "name": "Toby Samuel",
+  "teamId": "sc-m",
+  "teamName": "South Carolina",
+  "gender": "men",
+  "event": "Stockholm",
+  "round": "First",
+  "won": true,
+  "opponent": "Leo Borg",
+  "result": "6-3 6-2",
+  "date": "2026-11-09"
+ },
+ {
+  "playerId": "stan-m-h16",
+  "name": "Tristan Boyer",
+  "teamId": "stan-m",
+  "teamName": "Stanford",
+  "gender": "men",
+  "event": "Lima 2 Challenger",
+  "round": "First",
+  "won": true,
+  "opponent": "Hugo Dellien",
+  "result": "6-4 6-4",
   "date": "2026-11-09"
  },
  {
@@ -574,19 +600,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Geoffrey Blancaneaux",
   "result": "7-5 6-4",
-  "date": "2026-11-08"
- },
- {
-  "playerId": "sc-m-h4",
-  "name": "Toby Samuel",
-  "teamId": "sc-m",
-  "teamName": "South Carolina",
-  "gender": "men",
-  "event": "Stockholm",
-  "round": "Q2",
-  "won": true,
-  "opponent": "Adrian Mannarino",
-  "result": "3-6 7-5 6-1",
   "date": "2026-11-08"
  },
  {
@@ -6976,10 +6989,10 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Harvard",
   "gender": "men",
   "event": "Knoxville Challenger",
-  "round": "Q1",
+  "round": "Q2",
   "won": true,
-  "opponent": "Luca Wiedenmann",
-  "result": "6-3 6-2",
+  "opponent": "Kenta Miyoshi",
+  "result": "7-6(4) 6-4",
   "date": "2026-11-09"
  },
  "harv-m-h7": {
@@ -12631,11 +12644,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "South Carolina",
   "gender": "men",
   "event": "Stockholm",
-  "round": "Q2",
+  "round": "First",
   "won": true,
-  "opponent": "Adrian Mannarino",
-  "result": "3-6 7-5 6-1",
-  "date": "2026-11-08"
+  "opponent": "Leo Borg",
+  "result": "6-3 6-2",
+  "date": "2026-11-09"
  },
  "sc-m-h5": {
   "playerId": "sc-m-h5",
@@ -13293,12 +13306,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "stan-m",
   "teamName": "Stanford",
   "gender": "men",
-  "event": "Lisbon Challenger",
+  "event": "Lima 2 Challenger",
   "round": "First",
-  "won": false,
-  "opponent": "Elmer Moller",
-  "result": "7-5 6-2",
-  "date": "2026-10-19"
+  "won": true,
+  "opponent": "Hugo Dellien",
+  "result": "6-4 6-4",
+  "date": "2026-11-09"
  },
  "stan-m-h2": {
   "playerId": "stan-m-h2",
