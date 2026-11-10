@@ -3044,6 +3044,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "tenn-m-n5": [
+  {
+   "key": "900002443",
+   "name": "Knoxville Challenger",
+   "date": "2026-11-08",
+   "surface": null,
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12178691",
+     "date": "2026-11-10",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Filip Jeff Planinsek",
+     "score": "6-3 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "tenn-p2": [
   {
    "key": "17369",
@@ -3133,9 +3155,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Maria Camila Torres Murcia",
      "score": "6-2 6-4"
+    },
+    {
+     "id": "at-12178402",
+     "date": "2026-11-10",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Andrea Lazaro Garcia",
+     "score": "6-7(3) 7-5 6-4"
     }
    ],
-   "reached": "Q1",
+   "reached": "First",
    "reachedTone": "neutral"
   },
   {
@@ -3204,6 +3235,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Emery Combs",
      "score": "1-6 6-3 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "tex-m-n1": [
+  {
+   "key": "900013396",
+   "name": "Monastir Challenger",
+   "date": "2026-11-08",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12178524",
+     "date": "2026-11-10",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Mae Malige",
+     "score": "7-5 7-6(8)"
     }
    ],
    "reached": "First",
