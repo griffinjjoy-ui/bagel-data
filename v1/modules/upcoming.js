@@ -4,1211 +4,6 @@
 // time, null when unannounced). Consumers go through upcomingFeed.js.
 export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
  {
-  "playerId": "uga-m-p3",
-  "name": "Santiago Giamichelle",
-  "teamId": "uga-m",
-  "gender": "men",
-  "opponent": "Vihaan Reddy",
-  "opponentKey": 89240,
-  "opponentPid": null,
-  "opponentCountry": "USA",
-  "event": "M15 Naples 4",
-  "eventRaw": "ITF M15 Naples, FL 4 Men",
-  "level": "M15",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T17:00:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "6",
-     "2"
-    ],
-    [
-     "4",
-     "2"
-    ]
-   ],
-   "game": "0 - 30"
-  },
-  "matchKey": 12178750,
-  "tournamentKey": 12250,
-  "day": "today"
- },
- {
-  "playerId": "tenn-w-h9",
-  "name": "Sofia Cabezas",
-  "teamId": "tenn-w",
-  "gender": "women",
-  "opponent": "Dasha Ivanova",
-  "opponentKey": 1050,
-  "opponentPid": null,
-  "opponentCountry": "USA",
-  "event": "W35 Weston",
-  "eventRaw": "W35 Weston",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T18:05:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178752,
-  "tournamentKey": 14860,
-  "day": "today"
- },
- {
-  "playerId": "fla-m-h1",
-  "name": "Axel Nefve",
-  "teamId": "fla-m",
-  "gender": "men",
-  "opponent": "Alvin Tudorica",
-  "opponentKey": 52605,
-  "opponentPid": "usf-m-h4",
-  "opponentCountry": "Canada",
-  "event": "M25 Montreal",
-  "eventRaw": "M25 Montreal",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T18:50:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "6",
-     "2"
-    ],
-    [
-     "5",
-     "6"
-    ]
-   ],
-   "game": "0 - 0"
-  },
-  "matchKey": 12178710,
-  "tournamentKey": 9324,
-  "day": "today"
- },
- {
-  "playerId": "usf-m-h4",
-  "name": "Alvin Tudorica",
-  "teamId": "usf-m",
-  "gender": "men",
-  "opponent": "Axel Nefve",
-  "opponentKey": 8129,
-  "opponentPid": "fla-m-h1",
-  "opponentCountry": "USA",
-  "event": "M25 Montreal",
-  "eventRaw": "M25 Montreal",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T18:50:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "6",
-     "2"
-    ],
-    [
-     "5",
-     "6"
-    ]
-   ],
-   "game": "0 - 0"
-  },
-  "matchKey": 12178710,
-  "tournamentKey": 9324,
-  "day": "today"
- },
- {
-  "playerId": "asu-m-h2",
-  "name": "Max McKennon",
-  "teamId": "asu-m",
-  "gender": "men",
-  "opponent": "Anders Matta",
-  "opponentKey": 57161,
-  "opponentPid": null,
-  "opponentCountry": "USA",
-  "event": "M15 Zamora",
-  "eventRaw": "M15 Zamora (Mexico)",
-  "level": "M15",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T19:00:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "0",
-     "3"
-    ]
-   ],
-   "game": "40 - 15"
-  },
-  "matchKey": 12178812,
-  "tournamentKey": 14864,
-  "day": "today"
- },
- {
-  "playerId": "ou-w-h7",
-  "name": "Alina Shcherbinina",
-  "teamId": "ou-w",
-  "gender": "women",
-  "opponent": "Salma Djoubri",
-  "opponentKey": 1793,
-  "opponentPid": null,
-  "opponentCountry": "France",
-  "event": "W35 Weston",
-  "eventRaw": "W35 Weston",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T19:10:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "7",
-     "5"
-    ],
-    [
-     "1",
-     "1"
-    ]
-   ],
-   "game": "30 - 15"
-  },
-  "matchKey": 12178754,
-  "tournamentKey": 14860,
-  "day": "today"
- },
- {
-  "playerId": "uk-m-p2",
-  "name": "Nicolas Arseneault",
-  "teamId": "uk-m",
-  "gender": "men",
-  "opponent": "Niels Visker",
-  "opponentKey": 14641,
-  "opponentPid": null,
-  "opponentCountry": "Netherlands",
-  "event": "M25 Montreal",
-  "eventRaw": "M25 Montreal",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T19:30:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "6",
-     "1"
-    ],
-    [
-     "5",
-     "3"
-    ]
-   ],
-   "game": "30 - 30"
-  },
-  "matchKey": 12178707,
-  "tournamentKey": 9324,
-  "day": "today"
- },
- {
-  "playerId": "tamu-p3",
-  "name": "Ilinca Amariei",
-  "teamId": "tamu-w",
-  "gender": "women",
-  "opponent": "Zaire Clarke",
-  "opponentKey": 76243,
-  "opponentPid": null,
-  "opponentCountry": "USA",
-  "event": "W35 Weston",
-  "eventRaw": "W35 Weston",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T20:00:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "2",
-     "4"
-    ]
-   ],
-   "game": "0 - 30"
-  },
-  "matchKey": 12178753,
-  "tournamentKey": 14860,
-  "day": "today"
- },
- {
-  "playerId": "tex-m-h2",
-  "name": "Micah Braswell",
-  "teamId": "tex-m",
-  "gender": "men",
-  "opponent": "Theo Papamalamis",
-  "opponentKey": 9232,
-  "opponentPid": "tamu-m-p4",
-  "opponentCountry": "France",
-  "event": "M25 Columbus",
-  "eventRaw": "M25 Columbus, OH",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T20:05:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "2",
-     "2"
-    ]
-   ],
-   "game": "15 - 40"
-  },
-  "matchKey": 12178705,
-  "tournamentKey": 4954,
-  "day": "today"
- },
- {
-  "playerId": "tamu-m-p4",
-  "name": "Theo Papamalamis",
-  "teamId": "tamu-m",
-  "gender": "men",
-  "opponent": "Micah Braswell",
-  "opponentKey": 12958,
-  "opponentPid": "tex-m-h2",
-  "opponentCountry": "USA",
-  "event": "M25 Columbus",
-  "eventRaw": "M25 Columbus, OH",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T20:05:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "2",
-     "2"
-    ]
-   ],
-   "game": "15 - 40"
-  },
-  "matchKey": 12178705,
-  "tournamentKey": 4954,
-  "day": "today"
- },
- {
-  "playerId": "msu-m-fp274",
-  "name": "Ozan Baris",
-  "teamId": "msu-m",
-  "gender": "men",
-  "opponent": "Oliver Tarvet",
-  "opponentKey": 9368,
-  "opponentPid": "usd-m-p8",
-  "opponentCountry": "United Kingdom",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T20:15:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "0",
-     "0"
-    ]
-   ],
-   "game": "40 - A"
-  },
-  "matchKey": 12178694,
-  "tournamentKey": 2443,
-  "day": "today"
- },
- {
-  "playerId": "usd-m-p8",
-  "name": "Oliver Tarvet",
-  "teamId": "usd-m",
-  "gender": "men",
-  "opponent": "Ozan Baris",
-  "opponentKey": 32559,
-  "opponentPid": "msu-m-fp274",
-  "opponentCountry": "USA",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T20:15:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "0",
-     "0"
-    ]
-   ],
-   "game": "40 - A"
-  },
-  "matchKey": 12178694,
-  "tournamentKey": 2443,
-  "day": "today"
- },
- {
-  "playerId": "ariz-w-h5",
-  "name": "Midori Castillo",
-  "teamId": "ariz-w",
-  "gender": "women",
-  "opponent": "Jessica Hinojosa Gomez",
-  "opponentKey": 1051,
-  "opponentPid": null,
-  "opponentCountry": "Mexico",
-  "event": "W50 Chihuahua 2",
-  "eventRaw": "W50 Chihuahua 2",
-  "level": "W50",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T20:20:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "1",
-     "1"
-    ]
-   ],
-   "game": "40 - 40"
-  },
-  "matchKey": 12178834,
-  "tournamentKey": 13470,
-  "day": "today"
- },
- {
-  "playerId": "lsu-m-n2",
-  "name": "Michael Bassem Sobhy",
-  "teamId": "lsu-m",
-  "gender": "men",
-  "opponent": "Michael Antonius",
-  "opponentKey": 86725,
-  "opponentPid": null,
-  "opponentCountry": "USA",
-  "event": "M25 Columbus",
-  "eventRaw": "M25 Columbus, OH",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T20:35:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178704,
-  "tournamentKey": 4954,
-  "day": "today"
- },
- {
-  "playerId": "tamu-m-h7",
-  "name": "Raphael Perot",
-  "teamId": "tamu-m",
-  "gender": "men",
-  "opponent": "Preston Stearns",
-  "opponentKey": 9646,
-  "opponentPid": "osu-m-p11",
-  "opponentCountry": "USA",
-  "event": "M25 Columbus",
-  "eventRaw": "M25 Columbus, OH",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T20:35:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178706,
-  "tournamentKey": 4954,
-  "day": "today"
- },
- {
-  "playerId": "osu-m-p11",
-  "name": "Preston Stearns",
-  "teamId": "osu-m",
-  "gender": "men",
-  "opponent": "Raphael Perot",
-  "opponentKey": 53339,
-  "opponentPid": "tamu-m-h7",
-  "opponentCountry": "France",
-  "event": "M25 Columbus",
-  "eventRaw": "M25 Columbus, OH",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T20:35:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178706,
-  "tournamentKey": 4954,
-  "day": "today"
- },
- {
-  "playerId": "tamu-w-n1",
-  "name": "Kristina Paskauskas",
-  "teamId": "tamu-w",
-  "gender": "women",
-  "opponent": "A. Lopez",
-  "opponentKey": 111168,
-  "opponentPid": null,
-  "opponentCountry": null,
-  "event": "W15 Lincoln",
-  "eventRaw": "W15 Lincoln, NE",
-  "level": "W15",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T21:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178720,
-  "tournamentKey": 12015,
-  "day": "today"
- },
- {
-  "playerId": "aub-p8",
-  "name": "Kaya Moe",
-  "teamId": "aub-w",
-  "gender": "women",
-  "opponent": "Josephine Kunz",
-  "opponentKey": 57611,
-  "opponentPid": null,
-  "opponentCountry": "Switzerland",
-  "event": "W15 Lincoln",
-  "eventRaw": "W15 Lincoln, NE",
-  "level": "W15",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T21:00:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "4",
-     "2"
-    ]
-   ],
-   "game": "30 - 15"
-  },
-  "matchKey": 12178722,
-  "tournamentKey": 12015,
-  "day": "today"
- },
- {
-  "playerId": "ncst-m-h11",
-  "name": "Alexis Galarneau",
-  "teamId": "ncst-m",
-  "gender": "men",
-  "opponent": "Stefan Kozlov",
-  "opponentKey": 1087,
-  "opponentPid": null,
-  "opponentCountry": "USA",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T21:45:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178337,
-  "tournamentKey": 2443,
-  "day": "today"
- },
- {
-  "playerId": "tex-w-h5",
-  "name": "Malaika Rapolu",
-  "teamId": "tex-w",
-  "gender": "women",
-  "opponent": "Diletta Cherubini",
-  "opponentKey": 1016,
-  "opponentPid": null,
-  "opponentCountry": "Italy",
-  "event": "W50 Chihuahua 2",
-  "eventRaw": "W50 Chihuahua 2",
-  "level": "W50",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T22:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178839,
-  "tournamentKey": 13470,
-  "day": "today"
- },
- {
-  "playerId": "ncst-m-h7",
-  "name": "Braden Shick",
-  "teamId": "ncst-m",
-  "gender": "men",
-  "opponent": "Kenta Miyoshi",
-  "opponentKey": 10873,
-  "opponentPid": "ill-m-fp217",
-  "opponentCountry": "Japan",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": null,
-  "date": "2026-11-10",
-  "at": "2026-11-10T23:05:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12179117,
-  "tournamentKey": 2443,
-  "day": "today"
- },
- {
-  "playerId": "ill-m-fp217",
-  "name": "Kenta Miyoshi",
-  "teamId": "ill-m",
-  "gender": "men",
-  "opponent": "Braden Shick",
-  "opponentKey": 37912,
-  "opponentPid": "ncst-m-h7",
-  "opponentCountry": "USA",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": null,
-  "date": "2026-11-10",
-  "at": "2026-11-10T23:05:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12179117,
-  "tournamentKey": 2443,
-  "day": "today"
- },
- {
-  "playerId": "ucla-m-h13",
-  "name": "Marcos Giron",
-  "teamId": "ucla-m",
-  "gender": "men",
-  "opponent": "Maks Kasnikowski",
-  "opponentKey": 1242,
-  "opponentPid": null,
-  "opponentCountry": "Poland",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-10",
-  "at": "2026-11-10T23:30:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178338,
-  "tournamentKey": 2443,
-  "day": "today"
- },
- {
-  "playerId": "pepp-w-h7",
-  "name": "Savannah Broadus",
-  "teamId": "pepp-w",
-  "gender": "women",
-  "opponent": "Maddison Inglis",
-  "opponentKey": 1788,
-  "opponentPid": null,
-  "opponentCountry": "Australia",
-  "event": "W75 Brisbane 3",
-  "eventRaw": "W75 Brisbane 3 (Australia)",
-  "level": "W75",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T00:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178452,
-  "tournamentKey": 14850,
-  "day": "tomorrow"
- },
- {
-  "playerId": "tex-m-p8",
-  "name": "Sebastian Gorzny",
-  "teamId": "tex-m",
-  "gender": "men",
-  "opponent": "Matthew Dellavedova",
-  "opponentKey": 1258,
-  "opponentPid": null,
-  "opponentCountry": "Australia",
-  "event": "Brisbane 3 Challenger",
-  "eventRaw": "Brisbane 3",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T00:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178847,
-  "tournamentKey": 13459,
-  "day": "tomorrow"
- },
- {
-  "playerId": "fla-m-h9",
-  "name": "Abedallah Shelbayh",
-  "teamId": "fla-m",
-  "gender": "men",
-  "opponent": "Harry Wendelken",
-  "opponentKey": 7009,
-  "opponentPid": null,
-  "opponentCountry": "United Kingdom",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T00:35:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178343,
-  "tournamentKey": 2443,
-  "day": "tomorrow"
- },
- {
-  "playerId": "neb-m-h6",
-  "name": "Calvin Mueller",
-  "teamId": "neb-m",
-  "gender": "men",
-  "opponent": "Anmar Faleh Alhogbani",
-  "opponentKey": 31252,
-  "opponentPid": null,
-  "opponentCountry": "Saudi Arabia",
-  "event": "M15 Kuala Lumpur",
-  "eventRaw": "M15 Kuala Lumpur",
-  "level": "M15",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T01:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178893,
-  "tournamentKey": 7531,
-  "day": "tomorrow"
- },
- {
-  "playerId": "fla-m-p4",
-  "name": "Adhithya Ganesan",
-  "teamId": "fla-m",
-  "gender": "men",
-  "opponent": "Edoardo Cherie Ligniere",
-  "opponentKey": 37935,
-  "opponentPid": null,
-  "opponentCountry": "Italy",
-  "event": "M15 Kuala Lumpur",
-  "eventRaw": "M15 Kuala Lumpur",
-  "level": "M15",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T01:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178895,
-  "tournamentKey": 7531,
-  "day": "tomorrow"
- },
- {
-  "playerId": "wash-w-h7",
-  "name": "Hikaru Sato",
-  "teamId": "wash-w",
-  "gender": "women",
-  "opponent": "Joanna Garland",
-  "opponentKey": 1962,
-  "opponentPid": null,
-  "opponentCountry": "Taiwan",
-  "event": "W75 Brisbane 3",
-  "eventRaw": "W75 Brisbane 3 (Australia)",
-  "level": "W75",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T01:30:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178453,
-  "tournamentKey": 14850,
-  "day": "tomorrow"
- },
- {
-  "playerId": "ariz-m-fp226",
-  "name": "Jay Friend",
-  "teamId": "ariz-m",
-  "gender": "men",
-  "opponent": "Naoya Honda",
-  "opponentKey": 39537,
-  "opponentPid": null,
-  "opponentCountry": "Japan",
-  "event": "Matsuyama Challenger",
-  "eventRaw": "Matsuyama",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T02:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178801,
-  "tournamentKey": 8222,
-  "day": "tomorrow"
- },
- {
-  "playerId": "ncst-w-h11",
-  "name": "Priska Nugroho",
-  "teamId": "ncst-w",
-  "gender": "women",
-  "opponent": "Chia Yi Tsao",
-  "opponentKey": 1049,
-  "opponentPid": null,
-  "opponentCountry": "Taiwan",
-  "event": "W50 Yokohama",
-  "eventRaw": "W50 Yokohama",
-  "level": "W50",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T02:30:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178880,
-  "tournamentKey": 12109,
-  "day": "tomorrow"
- },
- {
-  "playerId": "usf-m-p3",
-  "name": "Agustin Cuellar",
-  "teamId": "usf-m",
-  "gender": "men",
-  "opponent": "Eduardo Ribeiro",
-  "opponentKey": 6712,
-  "opponentPid": null,
-  "opponentCountry": "Brazil",
-  "event": "M25 Santa Cruz do Sul",
-  "eventRaw": "M25 Santa Cruz do Sul",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T03:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178776,
-  "tournamentKey": 13438,
-  "day": "tomorrow"
- },
- {
-  "playerId": "ou-m-h2",
-  "name": "Jordan Hasson",
-  "teamId": "ou-m",
-  "gender": "men",
-  "opponent": "Aryan Lakshmanan",
-  "opponentKey": 65410,
-  "opponentPid": null,
-  "opponentCountry": "India",
-  "event": "M15 Hua Hin",
-  "eventRaw": "M15 Hua Hin",
-  "level": "M15",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T03:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178860,
-  "tournamentKey": 10353,
-  "day": "tomorrow"
- },
- {
-  "playerId": "usd-m-h8",
-  "name": "August Holmgren",
-  "teamId": "usd-m",
-  "gender": "men",
-  "opponent": "Christopher O'Connell",
-  "opponentKey": 421,
-  "opponentPid": null,
-  "opponentCountry": "Australia",
-  "event": "Brisbane 3 Challenger",
-  "eventRaw": "Brisbane 3",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T04:30:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178857,
-  "tournamentKey": 13459,
-  "day": "tomorrow"
- },
- {
-  "playerId": "osu-m-h4",
-  "name": "Cannon Kingsley",
-  "teamId": "osu-m",
-  "gender": "men",
-  "opponent": "Hoyoung Roh",
-  "opponentKey": 66327,
-  "opponentPid": "van-m-p8",
-  "opponentCountry": "South Korea",
-  "event": "M25 Montreal",
-  "eventRaw": "M25 Montreal",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178683,
-  "tournamentKey": 9324,
-  "day": "tomorrow"
- },
- {
-  "playerId": "van-m-p8",
-  "name": "Hoyoung Roh",
-  "teamId": "van-m",
-  "gender": "men",
-  "opponent": "Cannon Kingsley",
-  "opponentKey": 3710,
-  "opponentPid": "osu-m-h4",
-  "opponentCountry": "USA",
-  "event": "M25 Montreal",
-  "eventRaw": "M25 Montreal",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178683,
-  "tournamentKey": 9324,
-  "day": "tomorrow"
- },
- {
-  "playerId": "pepp-m-h1",
-  "name": "Daniel De Jonge",
-  "teamId": "pepp-m",
-  "gender": "men",
-  "opponent": "Sasha Rozin",
-  "opponentKey": 55609,
-  "opponentPid": null,
-  "opponentCountry": "Canada",
-  "event": "M25 Montreal",
-  "eventRaw": "M25 Montreal",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178684,
-  "tournamentKey": 9324,
-  "day": "tomorrow"
- },
- {
-  "playerId": "osu-m-fp278",
-  "name": "Jack Anthrop",
-  "teamId": "osu-m",
-  "gender": "men",
-  "opponent": "Aidan McHugh",
-  "opponentKey": 875,
-  "opponentPid": null,
-  "opponentCountry": "United Kingdom",
-  "event": "M25 Columbus",
-  "eventRaw": "M25 Columbus, OH",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178768,
-  "tournamentKey": 4954,
-  "day": "tomorrow"
- },
- {
-  "playerId": "tamu-m-n4",
-  "name": "Bor Artnak",
-  "teamId": "tamu-m",
-  "gender": "men",
-  "opponent": "Eli Stephenson",
-  "opponentKey": 56459,
-  "opponentPid": "uk-m-p7",
-  "opponentCountry": "USA",
-  "event": "M25 Columbus",
-  "eventRaw": "M25 Columbus, OH",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178769,
-  "tournamentKey": 4954,
-  "day": "tomorrow"
- },
- {
-  "playerId": "uk-m-p7",
-  "name": "Eli Stephenson",
-  "teamId": "uk-m",
-  "gender": "men",
-  "opponent": "Bor Artnak",
-  "opponentKey": 10846,
-  "opponentPid": "tamu-m-n4",
-  "opponentCountry": "Slovenia",
-  "event": "M25 Columbus",
-  "eventRaw": "M25 Columbus, OH",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178769,
-  "tournamentKey": 4954,
-  "day": "tomorrow"
- },
- {
-  "playerId": "osu-m-p1",
-  "name": "Brandon Carpico",
-  "teamId": "osu-m",
-  "gender": "men",
-  "opponent": "Alec Deckers",
-  "opponentKey": 10019,
-  "opponentPid": null,
-  "opponentCountry": "Netherlands",
-  "event": "M25 Columbus",
-  "eventRaw": "M25 Columbus, OH",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178770,
-  "tournamentKey": 4954,
-  "day": "tomorrow"
- },
- {
-  "playerId": "duke-m-h1",
-  "name": "Andreja Petrovic",
-  "teamId": "duke-m",
-  "gender": "men",
-  "opponent": "Nikita Filin",
-  "opponentKey": 58209,
-  "opponentPid": null,
-  "opponentCountry": "USA",
-  "event": "M25 Columbus",
-  "eventRaw": "M25 Columbus, OH",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178771,
-  "tournamentKey": 4954,
-  "day": "tomorrow"
- },
- {
-  "playerId": "lsu-p8",
-  "name": "Cadence Brace",
-  "teamId": "lsu-w",
-  "gender": "women",
-  "opponent": "Janae Preston",
-  "opponentKey": 89244,
-  "opponentPid": null,
-  "opponentCountry": "USA",
-  "event": "W35 Weston",
-  "eventRaw": "W35 Weston",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178781,
-  "tournamentKey": 14860,
-  "day": "tomorrow"
- },
- {
-  "playerId": "fla-w-n3",
-  "name": "Capucine Jauffret",
-  "teamId": "fla-w",
-  "gender": "women",
-  "opponent": "Kylie Collins",
-  "opponentKey": 20330,
-  "opponentPid": "okst-w-h7",
-  "opponentCountry": "USA",
-  "event": "W35 Weston",
-  "eventRaw": "W35 Weston",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178782,
-  "tournamentKey": 14860,
-  "day": "tomorrow"
- },
- {
-  "playerId": "okst-w-h7",
-  "name": "Kylie Collins",
-  "teamId": "okst-w",
-  "gender": "women",
-  "opponent": "Capucine Jauffret",
-  "opponentKey": 32561,
-  "opponentPid": "fla-w-n3",
-  "opponentCountry": "USA",
-  "event": "W35 Weston",
-  "eventRaw": "W35 Weston",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178782,
-  "tournamentKey": 14860,
-  "day": "tomorrow"
- },
- {
-  "playerId": "miami-w-n1",
-  "name": "Michaela Laki",
-  "teamId": "miami-w",
-  "gender": "women",
-  "opponent": "Sachia Vickery",
-  "opponentKey": 1790,
-  "opponentPid": null,
-  "opponentCountry": "USA",
-  "event": "W35 Weston",
-  "eventRaw": "W35 Weston",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R32",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178784,
-  "tournamentKey": 14860,
-  "day": "tomorrow"
- },
- {
-  "playerId": "uk-m-h14",
-  "name": "Alafia Ayeni",
-  "teamId": "uk-m",
-  "gender": "men",
-  "opponent": "Alex Bolt",
-  "opponentKey": 3319,
-  "opponentPid": null,
-  "opponentCountry": "Australia",
-  "event": "Brisbane 3 Challenger",
-  "eventRaw": "Brisbane 3",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T06:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178875,
-  "tournamentKey": 13459,
-  "day": "tomorrow"
- },
- {
   "playerId": "msu-m-h10",
   "name": "Vuk Radjenovic",
   "teamId": "msu-m",
@@ -1222,14 +17,14 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "level": "M15",
   "tour": "atp",
   "qualifying": false,
-  "round": null,
+  "round": "R32",
   "date": "2026-11-11",
   "at": "2026-11-11T06:30:00Z",
   "status": "scheduled",
   "score": null,
   "matchKey": 12178965,
   "tournamentKey": 3368,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "aub-p12",
@@ -1248,11 +43,19 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "round": "R32",
   "date": "2026-11-11",
   "at": "2026-11-11T07:00:00Z",
-  "status": "scheduled",
-  "score": null,
+  "status": "live",
+  "score": {
+   "sets": [
+    [
+     "1",
+     "6"
+    ]
+   ],
+   "game": "0 - 0"
+  },
   "matchKey": 12178532,
   "tournamentKey": 13490,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "fsu-w-h5",
@@ -1270,12 +73,51 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "qualifying": false,
   "round": "R32",
   "date": "2026-11-11",
-  "at": "2026-11-11T07:00:00Z",
-  "status": "scheduled",
-  "score": null,
+  "at": "2026-11-11T07:10:00Z",
+  "status": "live",
+  "score": {
+   "sets": [
+    [
+     "4",
+     "3"
+    ]
+   ],
+   "game": "40 - 40"
+  },
   "matchKey": 12179089,
   "tournamentKey": 13490,
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "usd-m-h8",
+  "name": "August Holmgren",
+  "teamId": "usd-m",
+  "gender": "men",
+  "opponent": "Christopher O'Connell",
+  "opponentKey": 421,
+  "opponentPid": null,
+  "opponentCountry": "Australia",
+  "event": "Brisbane 3 Challenger",
+  "eventRaw": "Brisbane 3",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T07:20:00Z",
+  "status": "live",
+  "score": {
+   "sets": [
+    [
+     "5",
+     "1"
+    ]
+   ],
+   "game": "0 - 0"
+  },
+  "matchKey": 12178857,
+  "tournamentKey": 13459,
+  "day": "today"
  },
  {
   "playerId": "utah-w-h8",
@@ -1286,19 +128,27 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponentKey": 40517,
   "opponentPid": null,
   "opponentCountry": null,
-  "event": "W15 Sharm ElSheikh 19",
+  "event": "W15 Sharm ElSheikh 18",
   "eventRaw": "W15 Sharm ElSheikh 19",
   "level": "W15",
   "tour": "wta",
   "qualifying": false,
-  "round": null,
+  "round": "R32",
   "date": "2026-11-11",
   "at": "2026-11-11T07:30:00Z",
-  "status": "scheduled",
-  "score": null,
+  "status": "live",
+  "score": {
+   "sets": [
+    [
+     "0",
+     "0"
+    ]
+   ],
+   "game": "0 - 0"
+  },
   "matchKey": 12179074,
   "tournamentKey": 8416,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "uga-p10",
@@ -1314,14 +164,14 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "level": "W15",
   "tour": "wta",
   "qualifying": false,
-  "round": null,
+  "round": "R32",
   "date": "2026-11-11",
   "at": "2026-11-11T08:30:00Z",
   "status": "scheduled",
   "score": null,
   "matchKey": 12178946,
   "tournamentKey": 8271,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "asu-m-p5",
@@ -1344,7 +194,30 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "score": null,
   "matchKey": 12178797,
   "tournamentKey": 14854,
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "uk-m-h14",
+  "name": "Alafia Ayeni",
+  "teamId": "uk-m",
+  "gender": "men",
+  "opponent": "Alex Bolt",
+  "opponentKey": 3319,
+  "opponentPid": null,
+  "opponentCountry": "Australia",
+  "event": "Brisbane 3 Challenger",
+  "eventRaw": "Brisbane 3",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T09:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178875,
+  "tournamentKey": 13459,
+  "day": "today"
  },
  {
   "playerId": "ucf-w-h5",
@@ -1367,7 +240,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "score": null,
   "matchKey": 12178992,
   "tournamentKey": 14855,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "miss-m-p2",
@@ -1378,19 +251,19 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponentKey": 89618,
   "opponentPid": null,
   "opponentCountry": "France",
-  "event": "M15 Monastir",
+  "event": "M15 Monastir 38",
   "eventRaw": "M15 Monastir 39",
   "level": "M15",
   "tour": "atp",
   "qualifying": false,
-  "round": null,
+  "round": "R32",
   "date": "2026-11-11",
   "at": "2026-11-11T09:00:00Z",
   "status": "scheduled",
   "score": null,
   "matchKey": 12179048,
   "tournamentKey": 4701,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "tcu-w-h8",
@@ -1401,19 +274,19 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponentKey": 84069,
   "opponentPid": null,
   "opponentCountry": "Serbia",
-  "event": "W15 Sharm ElSheikh 19",
+  "event": "W15 Sharm ElSheikh 18",
   "eventRaw": "W15 Sharm ElSheikh 19",
   "level": "W15",
   "tour": "wta",
   "qualifying": false,
-  "round": null,
+  "round": "R32",
   "date": "2026-11-11",
   "at": "2026-11-11T09:00:00Z",
   "status": "scheduled",
   "score": null,
   "matchKey": 12179078,
   "tournamentKey": 8416,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "tenn-m-h7",
@@ -1436,7 +309,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "score": null,
   "matchKey": 12178891,
   "tournamentKey": 12861,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "neb-w-h3",
@@ -1452,37 +325,14 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "level": "W15",
   "tour": "wta",
   "qualifying": false,
-  "round": null,
+  "round": "R32",
   "date": "2026-11-11",
   "at": "2026-11-11T09:30:00Z",
   "status": "scheduled",
   "score": null,
   "matchKey": 12178986,
   "tournamentKey": 8271,
-  "day": "tomorrow"
- },
- {
-  "playerId": "tcu-m-h11",
-  "name": "Cameron Norrie",
-  "teamId": "tcu-m",
-  "gender": "men",
-  "opponent": "Taylor Fritz",
-  "opponentKey": 2832,
-  "opponentPid": null,
-  "opponentCountry": "USA",
-  "event": "Stockholm",
-  "eventRaw": "Stockholm",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T10:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178503,
-  "tournamentKey": 1681,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "fla-m-p8",
@@ -1517,7 +367,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   },
   "matchKey": 12178659,
   "tournamentKey": 3775,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "okst-m-h4",
@@ -1552,7 +402,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   },
   "matchKey": 12178659,
   "tournamentKey": 3775,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "duke-m-h2",
@@ -1568,14 +418,14 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "level": "M25",
   "tour": "atp",
   "qualifying": false,
-  "round": null,
+  "round": "R32",
   "date": "2026-11-11",
   "at": "2026-11-11T10:00:00Z",
   "status": "scheduled",
   "score": null,
   "matchKey": 12178952,
   "tournamentKey": 3775,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "mem-m-h2",
@@ -1598,7 +448,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "score": null,
   "matchKey": 12179030,
   "tournamentKey": 13393,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "asu-m-p9",
@@ -1614,14 +464,14 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "level": "M15",
   "tour": "atp",
   "qualifying": false,
-  "round": null,
+  "round": "R32",
   "date": "2026-11-11",
   "at": "2026-11-11T10:00:00Z",
   "status": "scheduled",
   "score": null,
   "matchKey": 12179035,
   "tournamentKey": 4021,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "colo-w-h1",
@@ -1632,19 +482,19 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "opponentKey": 6880,
   "opponentPid": null,
   "opponentCountry": "Russia",
-  "event": "W15 Sharm ElSheikh 19",
+  "event": "W15 Sharm ElSheikh 18",
   "eventRaw": "W15 Sharm ElSheikh 19",
   "level": "W15",
   "tour": "wta",
   "qualifying": false,
-  "round": null,
+  "round": "R32",
   "date": "2026-11-11",
   "at": "2026-11-11T10:00:00Z",
   "status": "scheduled",
   "score": null,
   "matchKey": 12179081,
   "tournamentKey": 8416,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "tulsa-m-n2",
@@ -1660,14 +510,14 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "level": "M25",
   "tour": "atp",
   "qualifying": false,
-  "round": null,
+  "round": "R32",
   "date": "2026-11-11",
   "at": "2026-11-11T10:30:00Z",
   "status": "scheduled",
   "score": null,
   "matchKey": 12178954,
   "tournamentKey": 3775,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerId": "unc-m-h13",
@@ -1683,14 +533,60 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "level": "M25",
   "tour": "atp",
   "qualifying": false,
-  "round": null,
+  "round": "R32",
   "date": "2026-11-11",
   "at": "2026-11-11T11:30:00Z",
   "status": "scheduled",
   "score": null,
   "matchKey": 12178972,
   "tournamentKey": 3775,
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "tcu-m-h11",
+  "name": "Cameron Norrie",
+  "teamId": "tcu-m",
+  "gender": "men",
+  "opponent": "Taylor Fritz",
+  "opponentKey": 2832,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "Stockholm",
+  "eventRaw": "Stockholm",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T13:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178503,
+  "tournamentKey": 1681,
+  "day": "today"
+ },
+ {
+  "playerId": "ore-w-h7",
+  "name": "Marjorie Souza",
+  "teamId": "ore-w",
+  "gender": "women",
+  "opponent": "Bianca Bernardes",
+  "opponentKey": 2268,
+  "opponentPid": null,
+  "opponentCountry": "Brazil",
+  "event": "W15 São Carlos",
+  "eventRaw": "W15 São Carlos (Brazil)",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T14:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179169,
+  "tournamentKey": 14859,
+  "day": "today"
  },
  {
   "playerId": "wake-m-h24",
@@ -1708,81 +604,127 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "qualifying": false,
   "round": "R16",
   "date": "2026-11-11",
-  "at": "2026-11-11T12:00:00Z",
+  "at": "2026-11-11T15:00:00Z",
   "status": "scheduled",
   "score": null,
   "matchKey": 12178519,
   "tournamentKey": 1681,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
-  "playerId": "stan-m-h16",
-  "name": "Tristan Boyer",
-  "teamId": "stan-m",
+  "playerId": "osu-m-h4",
+  "name": "Cannon Kingsley",
+  "teamId": "osu-m",
   "gender": "men",
-  "opponent": "Ryo Tabata",
-  "opponentKey": 63487,
+  "opponent": "Hoyoung Roh",
+  "opponentKey": 66327,
+  "opponentPid": "van-m-p8",
+  "opponentCountry": "South Korea",
+  "event": "M25 Montreal",
+  "eventRaw": "M25 Montreal",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178683,
+  "tournamentKey": 9324,
+  "day": "today"
+ },
+ {
+  "playerId": "van-m-p8",
+  "name": "Hoyoung Roh",
+  "teamId": "van-m",
+  "gender": "men",
+  "opponent": "Cannon Kingsley",
+  "opponentKey": 3710,
+  "opponentPid": "osu-m-h4",
+  "opponentCountry": "USA",
+  "event": "M25 Montreal",
+  "eventRaw": "M25 Montreal",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178683,
+  "tournamentKey": 9324,
+  "day": "today"
+ },
+ {
+  "playerId": "fla-w-n3",
+  "name": "Capucine Jauffret",
+  "teamId": "fla-w",
+  "gender": "women",
+  "opponent": "Kylie Collins",
+  "opponentKey": 20330,
+  "opponentPid": "okst-w-h7",
+  "opponentCountry": "USA",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178782,
+  "tournamentKey": 14860,
+  "day": "today"
+ },
+ {
+  "playerId": "okst-w-h7",
+  "name": "Kylie Collins",
+  "teamId": "okst-w",
+  "gender": "women",
+  "opponent": "Capucine Jauffret",
+  "opponentKey": 32561,
+  "opponentPid": "fla-w-n3",
+  "opponentCountry": "USA",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178782,
+  "tournamentKey": 14860,
+  "day": "today"
+ },
+ {
+  "playerId": "miami-w-n1",
+  "name": "Michaela Laki",
+  "teamId": "miami-w",
+  "gender": "women",
+  "opponent": "Sachia Vickery",
+  "opponentKey": 1790,
   "opponentPid": null,
-  "opponentCountry": "Japan",
-  "event": "Lima 2 Challenger",
-  "eventRaw": "Lima 2",
-  "level": null,
-  "tour": "atp",
+  "opponentCountry": "USA",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
   "qualifying": false,
-  "round": null,
+  "round": "R32",
   "date": "2026-11-11",
   "at": "2026-11-11T15:00:00Z",
   "status": "scheduled",
   "score": null,
-  "matchKey": 12179018,
-  "tournamentKey": 4819,
-  "day": "tomorrow"
- },
- {
-  "playerId": "tcu-m-h5",
-  "name": "Lui Maxted",
-  "teamId": "tcu-m",
-  "gender": "men",
-  "opponent": "Clement Chidekh",
-  "opponentKey": 7102,
-  "opponentPid": "wash-m-h10",
-  "opponentCountry": "France",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": null,
-  "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12179123,
-  "tournamentKey": 2443,
-  "day": "tomorrow"
- },
- {
-  "playerId": "wash-m-h10",
-  "name": "Clement Chidekh",
-  "teamId": "wash-m",
-  "gender": "men",
-  "opponent": "Lui Maxted",
-  "opponentKey": 37938,
-  "opponentPid": "tcu-m-h5",
-  "opponentCountry": "United Kingdom",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": null,
-  "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12179123,
-  "tournamentKey": 2443,
-  "day": "tomorrow"
+  "matchKey": 12178784,
+  "tournamentKey": 14860,
+  "day": "today"
  },
  {
   "playerId": "ala-m-h4",
@@ -1798,14 +740,1509 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "level": null,
   "tour": "atp",
   "qualifying": false,
-  "round": null,
+  "round": "R16",
   "date": "2026-11-11",
   "at": "2026-11-11T15:00:00Z",
   "status": "scheduled",
   "score": null,
   "matchKey": 12179124,
   "tournamentKey": 2443,
-  "day": "tomorrow"
+  "day": "today"
+ },
+ {
+  "playerId": "lsu-w-h3",
+  "name": "Anita Sahdiieva",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Sofia Rocchetti",
+  "opponentKey": 2584,
+  "opponentPid": null,
+  "opponentCountry": "Italy",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179176,
+  "tournamentKey": 14860,
+  "day": "today"
+ },
+ {
+  "playerId": "fsu-m-fp26",
+  "name": "Corey Craig",
+  "teamId": "fsu-m",
+  "gender": "men",
+  "opponent": "Emilio Sanchez",
+  "opponentKey": 40560,
+  "opponentPid": "clt-m-fp98",
+  "opponentCountry": "Spain",
+  "event": "M15 Naples 4",
+  "eventRaw": "ITF M15 Naples, FL 4 Men",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179193,
+  "tournamentKey": 12250,
+  "day": "today"
+ },
+ {
+  "playerId": "clt-m-fp98",
+  "name": "Emilio Sanchez",
+  "teamId": "clt-m",
+  "gender": "men",
+  "opponent": "Corey Craig",
+  "opponentKey": 6489,
+  "opponentPid": "fsu-m-fp26",
+  "opponentCountry": "USA",
+  "event": "M15 Naples 4",
+  "eventRaw": "ITF M15 Naples, FL 4 Men",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179193,
+  "tournamentKey": 12250,
+  "day": "today"
+ },
+ {
+  "playerId": "corn-m-h11",
+  "name": "Evan Bynoe",
+  "teamId": "corn-m",
+  "gender": "men",
+  "opponent": "Vitor Ceolin Joao Goncalves",
+  "opponentKey": 20846,
+  "opponentPid": null,
+  "opponentCountry": "Brazil",
+  "event": "M15 Naples 4",
+  "eventRaw": "ITF M15 Naples, FL 4 Men",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179194,
+  "tournamentKey": 12250,
+  "day": "today"
+ },
+ {
+  "playerId": "lsu-m-p4",
+  "name": "Enzo Kohlmann De Freitas",
+  "teamId": "lsu-m",
+  "gender": "men",
+  "opponent": "Zsombor Velcz",
+  "opponentKey": 13018,
+  "opponentPid": null,
+  "opponentCountry": "Hungary",
+  "event": "M15 Naples 4",
+  "eventRaw": "ITF M15 Naples, FL 4 Men",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179195,
+  "tournamentKey": 12250,
+  "day": "today"
+ },
+ {
+  "playerId": "uk-m-p8",
+  "name": "Jaden Weekes",
+  "teamId": "uk-m",
+  "gender": "men",
+  "opponent": "Thomas Gerbaud",
+  "opponentKey": 66956,
+  "opponentPid": null,
+  "opponentCountry": "France",
+  "event": "M25 Montreal",
+  "eventRaw": "M25 Montreal",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-11",
+  "at": "2026-11-11T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179256,
+  "tournamentKey": 9324,
+  "day": "today"
+ },
+ {
+  "playerId": "uga-m-h16",
+  "name": "Tristan McCormick",
+  "teamId": "uga-m",
+  "gender": "men",
+  "opponent": "Jack Secord",
+  "opponentKey": 73845,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "M15 Naples 4",
+  "eventRaw": "ITF M15 Naples, FL 4 Men",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T15:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179196,
+  "tournamentKey": 12250,
+  "day": "today"
+ },
+ {
+  "playerId": "uga-m-h1",
+  "name": "Ryan Colby",
+  "teamId": "uga-m",
+  "gender": "men",
+  "opponent": "Mitchell Sheldon",
+  "opponentKey": 23690,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "M15 Naples 4",
+  "eventRaw": "ITF M15 Naples, FL 4 Men",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T15:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179197,
+  "tournamentKey": 12250,
+  "day": "today"
+ },
+ {
+  "playerId": "pepp-m-h1",
+  "name": "Daniel De Jonge",
+  "teamId": "pepp-m",
+  "gender": "men",
+  "opponent": "Sasha Rozin",
+  "opponentKey": 55609,
+  "opponentPid": null,
+  "opponentCountry": "Canada",
+  "event": "M25 Montreal",
+  "eventRaw": "M25 Montreal",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T16:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178684,
+  "tournamentKey": 9324,
+  "day": "today"
+ },
+ {
+  "playerId": "tamu-m-n4",
+  "name": "Bor Artnak",
+  "teamId": "tamu-m",
+  "gender": "men",
+  "opponent": "Eli Stephenson",
+  "opponentKey": 56459,
+  "opponentPid": "uk-m-p7",
+  "opponentCountry": "USA",
+  "event": "M25 Columbus",
+  "eventRaw": "M25 Columbus, OH",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T16:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178769,
+  "tournamentKey": 4954,
+  "day": "today"
+ },
+ {
+  "playerId": "uk-m-p7",
+  "name": "Eli Stephenson",
+  "teamId": "uk-m",
+  "gender": "men",
+  "opponent": "Bor Artnak",
+  "opponentKey": 10846,
+  "opponentPid": "tamu-m-n4",
+  "opponentCountry": "Slovenia",
+  "event": "M25 Columbus",
+  "eventRaw": "M25 Columbus, OH",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T16:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178769,
+  "tournamentKey": 4954,
+  "day": "today"
+ },
+ {
+  "playerId": "tcu-m-h5",
+  "name": "Lui Maxted",
+  "teamId": "tcu-m",
+  "gender": "men",
+  "opponent": "Clement Chidekh",
+  "opponentKey": 7102,
+  "opponentPid": "wash-m-h10",
+  "opponentCountry": "France",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T16:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179123,
+  "tournamentKey": 2443,
+  "day": "today"
+ },
+ {
+  "playerId": "wash-m-h10",
+  "name": "Clement Chidekh",
+  "teamId": "wash-m",
+  "gender": "men",
+  "opponent": "Lui Maxted",
+  "opponentKey": 37938,
+  "opponentPid": "tcu-m-h5",
+  "opponentCountry": "United Kingdom",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T16:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179123,
+  "tournamentKey": 2443,
+  "day": "today"
+ },
+ {
+  "playerId": "uva-w-h6",
+  "name": "Julia Adams",
+  "teamId": "uva-w",
+  "gender": "women",
+  "opponent": "Adriana Reami",
+  "opponentKey": 2586,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T16:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179177,
+  "tournamentKey": 14860,
+  "day": "today"
+ },
+ {
+  "playerId": "lsu-p5",
+  "name": "Carolina Kuhl",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Kolie Allen",
+  "opponentKey": 39131,
+  "opponentPid": "osu-w-h3",
+  "opponentCountry": "USA",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T16:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179178,
+  "tournamentKey": 14860,
+  "day": "today"
+ },
+ {
+  "playerId": "osu-w-h3",
+  "name": "Kolie Allen",
+  "teamId": "osu-w",
+  "gender": "women",
+  "opponent": "Carolina Kuhl",
+  "opponentKey": 10896,
+  "opponentPid": "lsu-p5",
+  "opponentCountry": "Germany",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T16:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179178,
+  "tournamentKey": 14860,
+  "day": "today"
+ },
+ {
+  "playerId": "tamu-w-n8",
+  "name": "Arina Bulatova",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Ava Catanzarite",
+  "opponentKey": 28541,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T16:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179182,
+  "tournamentKey": 14860,
+  "day": "today"
+ },
+ {
+  "playerId": "uk-m-p1",
+  "name": "Mikael Arseneault",
+  "teamId": "uk-m",
+  "gender": "men",
+  "opponent": "Volodymyr Gurenko",
+  "opponentKey": 76969,
+  "opponentPid": null,
+  "opponentCountry": "Canada",
+  "event": "M25 Montreal",
+  "eventRaw": "M25 Montreal",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-11",
+  "at": "2026-11-11T16:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179257,
+  "tournamentKey": 9324,
+  "day": "today"
+ },
+ {
+  "playerId": "bay-m-h7",
+  "name": "Oskar Brostrom Poulsen",
+  "teamId": "bay-m",
+  "gender": "men",
+  "opponent": "Tiago Silva",
+  "opponentKey": 12970,
+  "opponentPid": null,
+  "opponentCountry": "Portugal",
+  "event": "M25 Montreal",
+  "eventRaw": "M25 Montreal",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-11",
+  "at": "2026-11-11T16:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179258,
+  "tournamentKey": 9324,
+  "day": "today"
+ },
+ {
+  "playerId": "ill-m-h3",
+  "name": "Hunter Heck",
+  "teamId": "ill-m",
+  "gender": "men",
+  "opponent": "R. Krishna",
+  "opponentKey": 85579,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "M25 Columbus",
+  "eventRaw": "M25 Columbus, OH",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-11",
+  "at": "2026-11-11T16:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179265,
+  "tournamentKey": 4954,
+  "day": "today"
+ },
+ {
+  "playerId": "tenn-m-p8",
+  "name": "Alejandro Moreno",
+  "teamId": "tenn-m",
+  "gender": "men",
+  "opponent": "Alexander Okonkwo",
+  "opponentKey": 86746,
+  "opponentPid": null,
+  "opponentCountry": "United Kingdom",
+  "event": "M25 Columbus",
+  "eventRaw": "M25 Columbus, OH",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-11",
+  "at": "2026-11-11T16:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179268,
+  "tournamentKey": 4954,
+  "day": "today"
+ },
+ {
+  "playerId": "stan-m-h16",
+  "name": "Tristan Boyer",
+  "teamId": "stan-m",
+  "gender": "men",
+  "opponent": "Ryo Tabata",
+  "opponentKey": 63487,
+  "opponentPid": null,
+  "opponentCountry": "Japan",
+  "event": "Lima 2 Challenger",
+  "eventRaw": "Lima 2",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T16:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179018,
+  "tournamentKey": 4819,
+  "day": "today"
+ },
+ {
+  "playerId": "osu-m-fp278",
+  "name": "Jack Anthrop",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Aidan McHugh",
+  "opponentKey": 875,
+  "opponentPid": null,
+  "opponentCountry": "United Kingdom",
+  "event": "M25 Columbus",
+  "eventRaw": "M25 Columbus, OH",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T17:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178768,
+  "tournamentKey": 4954,
+  "day": "today"
+ },
+ {
+  "playerId": "fau-w-p6",
+  "name": "Malwina Rowinska",
+  "teamId": "fau-w",
+  "gender": "women",
+  "opponent": "Dasha Ivanova",
+  "opponentKey": 1050,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T17:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179175,
+  "tournamentKey": 14860,
+  "day": "today"
+ },
+ {
+  "playerId": "fla-w-h7",
+  "name": "Rachel Gailis",
+  "teamId": "fla-w",
+  "gender": "women",
+  "opponent": "Carolina Bohrer Martins",
+  "opponentKey": 52056,
+  "opponentPid": null,
+  "opponentCountry": "Brazil",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T17:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179181,
+  "tournamentKey": 14860,
+  "day": "today"
+ },
+ {
+  "playerId": "lsu-p8",
+  "name": "Cadence Brace",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Carolina Gomez",
+  "opponentKey": 38048,
+  "opponentPid": null,
+  "opponentCountry": "Spain",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T17:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179183,
+  "tournamentKey": 14860,
+  "day": "today"
+ },
+ {
+  "playerId": "fla-p1",
+  "name": "Brooke Black",
+  "teamId": "fla-w",
+  "gender": "women",
+  "opponent": "Ashley Lahey",
+  "opponentKey": 13742,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T17:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179184,
+  "tournamentKey": 14860,
+  "day": "today"
+ },
+ {
+  "playerId": "ou-m-n1",
+  "name": "Dragos Cazacu",
+  "teamId": "ou-m",
+  "gender": "men",
+  "opponent": "Jacob Brumm",
+  "opponentKey": 8686,
+  "opponentPid": "bay-m-h14",
+  "opponentCountry": "USA",
+  "event": "M15 Naples 4",
+  "eventRaw": "ITF M15 Naples, FL 4 Men",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T17:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179200,
+  "tournamentKey": 12250,
+  "day": "today"
+ },
+ {
+  "playerId": "bay-m-h14",
+  "name": "Jacob Brumm",
+  "teamId": "bay-m",
+  "gender": "men",
+  "opponent": "Dragos Cazacu",
+  "opponentKey": 38011,
+  "opponentPid": "ou-m-n1",
+  "opponentCountry": "Romania",
+  "event": "M15 Naples 4",
+  "eventRaw": "ITF M15 Naples, FL 4 Men",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T17:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179200,
+  "tournamentKey": 12250,
+  "day": "today"
+ },
+ {
+  "playerId": "fsu-m-h6",
+  "name": "Youcef Rihane",
+  "teamId": "fsu-m",
+  "gender": "men",
+  "opponent": "Charles Bertimon",
+  "opponentKey": 62793,
+  "opponentPid": null,
+  "opponentCountry": "France",
+  "event": "M15 Naples 4",
+  "eventRaw": "ITF M15 Naples, FL 4 Men",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T17:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179202,
+  "tournamentKey": 12250,
+  "day": "today"
+ },
+ {
+  "playerId": "usf-m-h2",
+  "name": "Davide Tortora",
+  "teamId": "usf-m",
+  "gender": "men",
+  "opponent": "Lucca Liu",
+  "opponentKey": 73579,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "M15 Naples 4",
+  "eventRaw": "ITF M15 Naples, FL 4 Men",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T17:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179203,
+  "tournamentKey": 12250,
+  "day": "today"
+ },
+ {
+  "playerId": "lsu-p6",
+  "name": "Kayla Cross",
+  "teamId": "lsu-w",
+  "gender": "women",
+  "opponent": "Ingrid Carolina Millan",
+  "opponentKey": 91244,
+  "opponentPid": null,
+  "opponentCountry": "Mexico",
+  "event": "W50 Chihuahua 2",
+  "eventRaw": "W50 Chihuahua 2",
+  "level": "W50",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T17:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179228,
+  "tournamentKey": 13470,
+  "day": "today"
+ },
+ {
+  "playerId": "osu-m-p6",
+  "name": "Victor Lilov",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Hiroki Sakagawa",
+  "opponentKey": 53987,
+  "opponentPid": "uci-m-p9",
+  "opponentCountry": "Japan",
+  "event": "M25 Columbus",
+  "eventRaw": "M25 Columbus, OH",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-11",
+  "at": "2026-11-11T17:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179267,
+  "tournamentKey": 4954,
+  "day": "today"
+ },
+ {
+  "playerId": "uci-m-p9",
+  "name": "Hiroki Sakagawa",
+  "teamId": "uci-m",
+  "gender": "men",
+  "opponent": "Victor Lilov",
+  "opponentKey": 656,
+  "opponentPid": "osu-m-p6",
+  "opponentCountry": "USA",
+  "event": "M25 Columbus",
+  "eventRaw": "M25 Columbus, OH",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-11",
+  "at": "2026-11-11T17:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179267,
+  "tournamentKey": 4954,
+  "day": "today"
+ },
+ {
+  "playerId": "asu-m-p2",
+  "name": "Ofek Shimanov",
+  "teamId": "asu-m",
+  "gender": "men",
+  "opponent": "Tom Sickenberger",
+  "opponentKey": 55486,
+  "opponentPid": null,
+  "opponentCountry": "Germany",
+  "event": "M25 Columbus",
+  "eventRaw": "M25 Columbus, OH",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-11",
+  "at": "2026-11-11T17:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179269,
+  "tournamentKey": 4954,
+  "day": "today"
+ },
+ {
+  "playerId": "bay-m-h11",
+  "name": "Matias Soto",
+  "teamId": "bay-m",
+  "gender": "men",
+  "opponent": "Alexander Bernard",
+  "opponentKey": 1250,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "M15 Zamora",
+  "eventRaw": "M15 Zamora (Mexico)",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-11",
+  "at": "2026-11-11T17:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179276,
+  "tournamentKey": 14864,
+  "day": "today"
+ },
+ {
+  "playerId": "asu-m-h2",
+  "name": "Max McKennon",
+  "teamId": "asu-m",
+  "gender": "men",
+  "opponent": "D. C. Teramo",
+  "opponentKey": 85024,
+  "opponentPid": null,
+  "opponentCountry": "Argentina",
+  "event": "M15 Zamora",
+  "eventRaw": "M15 Zamora (Mexico)",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-11",
+  "at": "2026-11-11T17:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179277,
+  "tournamentKey": 14864,
+  "day": "today"
+ },
+ {
+  "playerId": "harv-m-h3",
+  "name": "Daniel Milavsky",
+  "teamId": "harv-m",
+  "gender": "men",
+  "opponent": "Michael Mmoh",
+  "opponentKey": 439,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T17:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179156,
+  "tournamentKey": 2443,
+  "day": "today"
+ },
+ {
+  "playerId": "osu-m-p1",
+  "name": "Brandon Carpico",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Alec Deckers",
+  "opponentKey": 10019,
+  "opponentPid": null,
+  "opponentCountry": "Netherlands",
+  "event": "M25 Columbus",
+  "eventRaw": "M25 Columbus, OH",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178770,
+  "tournamentKey": 4954,
+  "day": "today"
+ },
+ {
+  "playerId": "duke-m-h1",
+  "name": "Andreja Petrovic",
+  "teamId": "duke-m",
+  "gender": "men",
+  "opponent": "Nikita Filin",
+  "opponentKey": 58209,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "M25 Columbus",
+  "eventRaw": "M25 Columbus, OH",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178771,
+  "tournamentKey": 4954,
+  "day": "today"
+ },
+ {
+  "playerId": "corn-w-h13",
+  "name": "Lan Mi",
+  "teamId": "corn-w",
+  "gender": "women",
+  "opponent": "Jennifer Rosa Dourado",
+  "opponentKey": 24284,
+  "opponentPid": null,
+  "opponentCountry": "Brazil",
+  "event": "W15 São Carlos",
+  "eventRaw": "W15 São Carlos (Brazil)",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179163,
+  "tournamentKey": 14859,
+  "day": "today"
+ },
+ {
+  "playerId": "fla-w-n2",
+  "name": "Allegra Korpanec Davies",
+  "teamId": "fla-w",
+  "gender": "women",
+  "opponent": "Lexington Reed",
+  "opponentKey": 13325,
+  "opponentPid": "tamu-p8",
+  "opponentCountry": "USA",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179179,
+  "tournamentKey": 14860,
+  "day": "today"
+ },
+ {
+  "playerId": "tamu-p8",
+  "name": "Lexington Reed",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Allegra Korpanec Davies",
+  "opponentKey": 91359,
+  "opponentPid": "fla-w-n2",
+  "opponentCountry": "United Kingdom",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179179,
+  "tournamentKey": 14860,
+  "day": "today"
+ },
+ {
+  "playerId": "fla-w-n1",
+  "name": "Jana Hossam Salah",
+  "teamId": "fla-w",
+  "gender": "women",
+  "opponent": "Victoria Hu",
+  "opponentKey": 20331,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179180,
+  "tournamentKey": 14860,
+  "day": "today"
+ },
+ {
+  "playerId": "aub-p7",
+  "name": "Isabella Kruger",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "N. Rahimkhani",
+  "opponentKey": 112028,
+  "opponentPid": null,
+  "opponentCountry": null,
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179229,
+  "tournamentKey": 12015,
+  "day": "today"
+ },
+ {
+  "playerId": "tamu-p9",
+  "name": "Mia Kupres",
+  "teamId": "tamu-w",
+  "gender": "women",
+  "opponent": "Claudia Gasparovic",
+  "opponentKey": 68425,
+  "opponentPid": "okst-w-p2",
+  "opponentCountry": "Austria",
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179230,
+  "tournamentKey": 12015,
+  "day": "today"
+ },
+ {
+  "playerId": "okst-w-p2",
+  "name": "Claudia Gasparovic",
+  "teamId": "okst-w",
+  "gender": "women",
+  "opponent": "Mia Kupres",
+  "opponentKey": 6702,
+  "opponentPid": "tamu-p9",
+  "opponentCountry": "Canada",
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179230,
+  "tournamentKey": 12015,
+  "day": "today"
+ },
+ {
+  "playerId": "neb-w-p5",
+  "name": "Emma Rizzetto",
+  "teamId": "neb-w",
+  "gender": "women",
+  "opponent": "Aishi Das",
+  "opponentKey": 62582,
+  "opponentPid": "aub-p3",
+  "opponentCountry": "New Zealand",
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179231,
+  "tournamentKey": 12015,
+  "day": "today"
+ },
+ {
+  "playerId": "aub-p3",
+  "name": "Aishi Das",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Emma Rizzetto",
+  "opponentKey": 36990,
+  "opponentPid": "neb-w-p5",
+  "opponentCountry": "Italy",
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179231,
+  "tournamentKey": 12015,
+  "day": "today"
+ },
+ {
+  "playerId": "neb-w-p1",
+  "name": "Maria Taranova",
+  "teamId": "neb-w",
+  "gender": "women",
+  "opponent": "Sophie Suh",
+  "opponentKey": 70282,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179232,
+  "tournamentKey": 12015,
+  "day": "today"
+ },
+ {
+  "playerId": "osu-m-p5",
+  "name": "Aidan Kim",
+  "teamId": "osu-m",
+  "gender": "men",
+  "opponent": "Jonah Braswell",
+  "opponentKey": 38779,
+  "opponentPid": "tex-m-p2",
+  "opponentCountry": "USA",
+  "event": "M25 Columbus",
+  "eventRaw": "M25 Columbus, OH",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179266,
+  "tournamentKey": 4954,
+  "day": "today"
+ },
+ {
+  "playerId": "tex-m-p2",
+  "name": "Jonah Braswell",
+  "teamId": "tex-m",
+  "gender": "men",
+  "opponent": "Aidan Kim",
+  "opponentKey": 9381,
+  "opponentPid": "osu-m-p5",
+  "opponentCountry": "USA",
+  "event": "M25 Columbus",
+  "eventRaw": "M25 Columbus, OH",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179266,
+  "tournamentKey": 4954,
+  "day": "today"
+ },
+ {
+  "playerId": "ou-m-p1",
+  "name": "Luis Alvarez",
+  "teamId": "ou-m",
+  "gender": "men",
+  "opponent": "Alan Sau Franco",
+  "opponentKey": 37980,
+  "opponentPid": null,
+  "opponentCountry": "Mexico",
+  "event": "M15 Zamora",
+  "eventRaw": "M15 Zamora (Mexico)",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179279,
+  "tournamentKey": 14864,
+  "day": "today"
+ },
+ {
+  "playerId": "tex-w-h5",
+  "name": "Malaika Rapolu",
+  "teamId": "tex-w",
+  "gender": "women",
+  "opponent": "Demi Tran",
+  "opponentKey": 13208,
+  "opponentPid": null,
+  "opponentCountry": "Netherlands",
+  "event": "W50 Chihuahua 2",
+  "eventRaw": "W50 Chihuahua 2",
+  "level": "W50",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T19:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179246,
+  "tournamentKey": 13470,
+  "day": "today"
+ },
+ {
+  "playerId": "ore-w-p2",
+  "name": "Virginia Crocker",
+  "teamId": "ore-w",
+  "gender": "women",
+  "opponent": "Ana Grubor",
+  "opponentKey": 89,
+  "opponentPid": null,
+  "opponentCountry": "Canada",
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T19:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179233,
+  "tournamentKey": 12015,
+  "day": "today"
+ },
+ {
+  "playerId": "aub-p10",
+  "name": "Merna Refaat",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "K. Kock",
+  "opponentKey": 112029,
+  "opponentPid": null,
+  "opponentCountry": null,
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T19:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179234,
+  "tournamentKey": 12015,
+  "day": "today"
+ },
+ {
+  "playerId": "unc-w-p10",
+  "name": "Mary Grace Rennard",
+  "teamId": "unc-w",
+  "gender": "women",
+  "opponent": "Eva Ionescu",
+  "opponentKey": 54081,
+  "opponentPid": "aub-p5",
+  "opponentCountry": "Romania",
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T19:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179236,
+  "tournamentKey": 12015,
+  "day": "today"
+ },
+ {
+  "playerId": "aub-p5",
+  "name": "Eva Ionescu",
+  "teamId": "aub-w",
+  "gender": "women",
+  "opponent": "Mary Grace Rennard",
+  "opponentKey": 96724,
+  "opponentPid": "unc-w-p10",
+  "opponentCountry": null,
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T19:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179236,
+  "tournamentKey": 12015,
+  "day": "today"
+ },
+ {
+  "playerId": "uk-m-h1",
+  "name": "Liam Draxl",
+  "teamId": "uk-m",
+  "gender": "men",
+  "opponent": "Petr Nesterov",
+  "opponentKey": 9220,
+  "opponentPid": null,
+  "opponentCountry": "Bulgaria",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T20:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179146,
+  "tournamentKey": 2443,
+  "day": "today"
+ },
+ {
+  "playerId": "usf-m-p3",
+  "name": "Agustin Cuellar",
+  "teamId": "usf-m",
+  "gender": "men",
+  "opponent": "Eduardo Ribeiro",
+  "opponentKey": 6712,
+  "opponentPid": null,
+  "opponentCountry": "Brazil",
+  "event": "M25 Santa Cruz do Sul",
+  "eventRaw": "M25 Santa Cruz do Sul",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T21:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178776,
+  "tournamentKey": 13438,
+  "day": "today"
+ },
+ {
+  "playerId": "ala-p1",
+  "name": "Karla Bartel",
+  "teamId": "ala-w",
+  "gender": "women",
+  "opponent": "C. Raidt",
+  "opponentKey": 112031,
+  "opponentPid": null,
+  "opponentCountry": null,
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T21:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179237,
+  "tournamentKey": 12015,
+  "day": "today"
+ },
+ {
+  "playerId": "neb-w-p8",
+  "name": "Catherine Gagnon",
+  "teamId": "neb-w",
+  "gender": "women",
+  "opponent": "Maria Kononova",
+  "opponentKey": 202,
+  "opponentPid": null,
+  "opponentCountry": "World",
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T21:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179238,
+  "tournamentKey": 12015,
+  "day": "today"
+ },
+ {
+  "playerId": "umd-w-h7",
+  "name": "Kallista Liu",
+  "teamId": "umd-w",
+  "gender": "women",
+  "opponent": "K. Schock",
+  "opponentKey": 84739,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T21:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179239,
+  "tournamentKey": 12015,
+  "day": "today"
+ },
+ {
+  "playerId": "mich-w-fp400",
+  "name": "Emily Sartz -Lunde",
+  "teamId": "mich-w",
+  "gender": "women",
+  "opponent": "K. Spencer",
+  "opponentKey": 94074,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R32",
+  "date": "2026-11-11",
+  "at": "2026-11-11T21:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179240,
+  "tournamentKey": 12015,
+  "day": "today"
+ },
+ {
+  "playerId": "asu-m-p7",
+  "name": "Simon Caldwell",
+  "teamId": "asu-m",
+  "gender": "men",
+  "opponent": "William Manning",
+  "opponentKey": 73248,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "M25 Columbus",
+  "eventRaw": "M25 Columbus, OH",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-11",
+  "at": "2026-11-11T21:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179263,
+  "tournamentKey": 4954,
+  "day": "today"
  },
  {
   "playerId": "cal-m-h6",
@@ -1828,7 +2265,30 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "score": null,
   "matchKey": 12178843,
   "tournamentKey": 13459,
-  "day": null
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "pepp-w-h7",
+  "name": "Savannah Broadus",
+  "teamId": "pepp-w",
+  "gender": "women",
+  "opponent": "Olivia Gadecki",
+  "opponentKey": 1809,
+  "opponentPid": null,
+  "opponentCountry": "Australia",
+  "event": "W75 Brisbane 3",
+  "eventRaw": "W75 Brisbane 3 (Australia)",
+  "level": "W75",
+  "tour": "wta",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-12",
+  "at": "2026-11-12T00:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179262,
+  "tournamentKey": 14850,
+  "day": "tomorrow"
  },
  {
   "playerId": "wake-m-h17",
@@ -1851,7 +2311,7 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "score": null,
   "matchKey": 12179014,
   "tournamentKey": 12861,
-  "day": null
+  "day": "tomorrow"
  },
  {
   "playerId": "uga-m-h5",
@@ -1867,458 +2327,225 @@ export const upcoming = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcoming ?? [
   "level": null,
   "tour": "atp",
   "qualifying": false,
-  "round": null,
+  "round": "R16",
   "date": "2026-11-12",
   "at": "2026-11-12T08:00:00Z",
   "status": "scheduled",
   "score": null,
   "matchKey": 12179143,
   "tournamentKey": 12861,
-  "day": null
- }
-];
-
-export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomingDoubles ?? [
+  "day": "tomorrow"
+ },
  {
-  "playerIds": [
-   "uga-m-h16"
-  ],
-  "names": [
-   "Tristan McCormick"
-  ],
-  "teamIds": [
-   "uga-m"
-  ],
+  "playerId": "stan-m-h8",
+  "name": "Nishesh Basavareddy",
+  "teamId": "stan-m",
   "gender": "men",
-  "partner": "Jesse Witten",
-  "opponents": "R. Colby / Dollenberg",
-  "event": "M15 Naples 4",
-  "eventRaw": "ITF M15 Naples, FL 4 Men",
-  "level": "M15",
+  "opponent": "Kyrian Jacquet",
+  "opponentKey": 1335,
+  "opponentPid": null,
+  "opponentCountry": "France",
+  "event": "Orleans Challenger",
+  "eventRaw": "Orleans",
+  "level": null,
   "tour": "atp",
   "qualifying": false,
   "round": "R16",
-  "date": "2026-11-10",
-  "at": "2026-11-10T18:00:00Z",
+  "date": "2026-11-12",
+  "at": "2026-11-12T10:00:00Z",
   "status": "scheduled",
   "score": null,
-  "matchKey": 12178872,
-  "tournamentKey": 12252,
-  "day": "today"
+  "matchKey": 12179155,
+  "tournamentKey": 2353,
+  "day": "tomorrow"
  },
  {
-  "playerIds": [
-   "fla-p1",
-   "fla-w-n3"
-  ],
-  "names": [
-   "Brooke Black",
-   "Capucine Jauffret"
-  ],
-  "teamIds": [
-   "fla-w",
-   "fla-w"
-  ],
-  "gender": "women",
-  "partner": null,
-  "opponents": "Eisch / Eisch",
-  "event": "W35 Weston",
-  "eventRaw": "W35 Weston",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-10",
-  "at": "2026-11-10T19:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178759,
-  "tournamentKey": 14863,
-  "day": "today"
- },
- {
-  "playerIds": [
-   "tamu-p6",
-   "tamu-p8"
-  ],
-  "names": [
-   "Violeta Martinez",
-   "Lexington Reed"
-  ],
-  "teamIds": [
-   "tamu-w",
-   "tamu-w"
-  ],
-  "gender": "women",
-  "partner": null,
-  "opponents": "Laetitia Pulchartova / M. Tahiri",
-  "event": "W35 Weston",
-  "eventRaw": "W35 Weston",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-10",
-  "at": "2026-11-10T19:15:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "7.7",
-     "6.2"
-    ],
-    [
-     "4",
-     "3"
-    ]
-   ],
-   "game": "0 - 0"
-  },
-  "matchKey": 12178762,
-  "tournamentKey": 14863,
-  "day": "today"
- },
- {
-  "playerIds": [
-   "pepp-m-h1"
-  ],
-  "names": [
-   "Daniel De Jonge"
-  ],
-  "teamIds": [
-   "pepp-m"
-  ],
+  "playerId": "unc-m-h2",
+  "name": "Vladislav Melnic",
+  "teamId": "unc-m",
   "gender": "men",
-  "partner": "J. Opitz",
-  "opponents": "M. Arseneault / J. Horwood",
+  "opponent": "Nicolas Arseneault",
+  "opponentKey": 71261,
+  "opponentPid": "uk-m-p2",
+  "opponentCountry": "Canada",
   "event": "M25 Montreal",
   "eventRaw": "M25 Montreal",
   "level": "M25",
   "tour": "atp",
   "qualifying": false,
   "round": "R16",
-  "date": "2026-11-10",
-  "at": "2026-11-10T20:30:00Z",
+  "date": "2026-11-12",
+  "at": "2026-11-12T15:00:00Z",
   "status": "scheduled",
   "score": null,
-  "matchKey": 12178735,
-  "tournamentKey": 9325,
-  "day": "today"
+  "matchKey": 12179151,
+  "tournamentKey": 9324,
+  "day": "tomorrow"
  },
  {
-  "playerIds": [
-   "lou-w-h9"
-  ],
-  "names": [
-   "Jamilah Snells"
-  ],
-  "teamIds": [
-   "lou-w"
-  ],
-  "gender": "women",
-  "partner": "S. Alicea",
-  "opponents": "Victoria Hu / Ashley Lahey",
-  "event": "W35 Weston",
-  "eventRaw": "W35 Weston",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-10",
-  "at": "2026-11-10T20:35:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178760,
-  "tournamentKey": 14863,
-  "day": "today"
- },
- {
-  "playerIds": [
-   "usf-m-p3"
-  ],
-  "names": [
-   "Agustin Cuellar"
-  ],
-  "teamIds": [
-   "usf-m"
-  ],
+  "playerId": "uk-m-p2",
+  "name": "Nicolas Arseneault",
+  "teamId": "uk-m",
   "gender": "men",
-  "partner": "T. H. Messa",
-  "opponents": "Wilson Leite / Pedro Sakamoto",
-  "event": "M25 Santa Cruz do Sul",
-  "eventRaw": "M25 Santa Cruz do Sul",
+  "opponent": "Vladislav Melnic",
+  "opponentKey": 23349,
+  "opponentPid": "unc-m-h2",
+  "opponentCountry": "Romania",
+  "event": "M25 Montreal",
+  "eventRaw": "M25 Montreal",
   "level": "M25",
   "tour": "atp",
   "qualifying": false,
   "round": "R16",
-  "date": "2026-11-10",
-  "at": "2026-11-10T20:45:00Z",
-  "status": "live",
-  "score": {
-   "sets": [
-    [
-     "2",
-     "1"
-    ]
-   ],
-   "game": "0 - 0"
-  },
-  "matchKey": 12178742,
-  "tournamentKey": 13440,
-  "day": "today"
+  "date": "2026-11-12",
+  "at": "2026-11-12T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179151,
+  "tournamentKey": 9324,
+  "day": "tomorrow"
  },
  {
-  "playerIds": [
-   "osu-m-p5",
-   "uva-m-h16"
-  ],
-  "names": [
-   "Aidan Kim",
-   "Brandon Nakashima"
-  ],
-  "teamIds": [
-   "osu-m",
-   "uva-m"
-  ],
+  "playerId": "msu-m-fp274",
+  "name": "Ozan Baris",
+  "teamId": "msu-m",
   "gender": "men",
-  "partner": null,
-  "opponents": "Heuwekemeijer / Snow",
+  "opponent": "Michael Zheng",
+  "opponentKey": 9515,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-12",
+  "at": "2026-11-12T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179224,
+  "tournamentKey": 2443,
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "tamu-m-h7",
+  "name": "Raphael Perot",
+  "teamId": "tamu-m",
+  "gender": "men",
+  "opponent": "Michael Antonius",
+  "opponentKey": 86725,
+  "opponentPid": null,
+  "opponentCountry": "USA",
   "event": "M25 Columbus",
   "eventRaw": "M25 Columbus, OH",
   "level": "M25",
   "tour": "atp",
   "qualifying": false,
   "round": "R16",
-  "date": "2026-11-10",
-  "at": "2026-11-10T21:00:00Z",
+  "date": "2026-11-12",
+  "at": "2026-11-12T15:00:00Z",
   "status": "scheduled",
   "score": null,
-  "matchKey": 12178732,
-  "tournamentKey": 4955,
-  "day": "today"
- },
- {
-  "playerIds": [
-   "bay-m-h7"
-  ],
-  "names": [
-   "Oskar Brostrom Poulsen"
-  ],
-  "teamIds": [
-   "bay-m"
-  ],
-  "gender": "men",
-  "partner": "Slavic",
-  "opponents": "M. Lapalme / Felix Roussel",
-  "event": "M25 Montreal",
-  "eventRaw": "M25 Montreal",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-10",
-  "at": "2026-11-10T21:30:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178736,
-  "tournamentKey": 9325,
-  "day": "today"
- },
- {
-  "playerIds": [
-   "osu-w-h3"
-  ],
-  "names": [
-   "Kolie Allen"
-  ],
-  "teamIds": [
-   "osu-w"
-  ],
-  "gender": "women",
-  "partner": "Adriana Reami",
-  "opponents": "Dia Evtimova / C. Harding",
-  "event": "W35 Weston",
-  "eventRaw": "W35 Weston",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-10",
-  "at": "2026-11-10T21:30:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178761,
-  "tournamentKey": 14863,
-  "day": "today"
- },
- {
-  "playerIds": [
-   "ou-m-p1"
-  ],
-  "names": [
-   "Luis Alvarez"
-  ],
-  "teamIds": [
-   "ou-m"
-  ],
-  "gender": "men",
-  "partner": "Andres Urrea",
-  "opponents": "Cabrera / M. Gamborino",
-  "event": "M15 Zamora",
-  "eventRaw": "M15 Zamora (Mexico)",
-  "level": "M15",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-10",
-  "at": "2026-11-10T22:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178820,
-  "tournamentKey": 14865,
-  "day": "today"
- },
- {
-  "playerIds": [
-   "umd-w-h7"
-  ],
-  "names": [
-   "Kallista Liu"
-  ],
-  "teamIds": [
-   "umd-w"
-  ],
-  "gender": "women",
-  "partner": "Ana Grubor",
-  "opponents": "Reya Coe / Maria Taranova",
-  "event": "W15 Lincoln",
-  "eventRaw": "W15 Lincoln, NE",
-  "level": "W15",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T00:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178763,
-  "tournamentKey": 12012,
+  "matchKey": 12179226,
+  "tournamentKey": 4954,
   "day": "tomorrow"
  },
  {
-  "playerIds": [
-   "neb-w-fp251",
-   "neb-w-p1"
-  ],
-  "names": [
-   "Reya Coe",
-   "Maria Taranova"
-  ],
-  "teamIds": [
-   "neb-w",
-   "neb-w"
-  ],
-  "gender": "women",
-  "partner": null,
-  "opponents": "Ana Grubor / Kallista Liu",
-  "event": "W15 Lincoln",
-  "eventRaw": "W15 Lincoln, NE",
-  "level": "W15",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T00:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178763,
-  "tournamentKey": 12012,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "neb-w-p5"
-  ],
-  "names": [
-   "Emma Rizzetto"
-  ],
-  "teamIds": [
-   "neb-w"
-  ],
-  "gender": "women",
-  "partner": "Rahimkhani",
-  "opponents": "Maunupau / O. Maunupau",
-  "event": "W15 Lincoln",
-  "eventRaw": "W15 Lincoln, NE",
-  "level": "W15",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T00:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178764,
-  "tournamentKey": 12012,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "okst-m-h5",
-   "neb-m-h9"
-  ],
-  "names": [
-   "Isaac Becroft",
-   "Anton Shepp"
-  ],
-  "teamIds": [
-   "okst-m",
-   "neb-m"
-  ],
+  "playerId": "ncst-m-h7",
+  "name": "Braden Shick",
+  "teamId": "ncst-m",
   "gender": "men",
-  "partner": null,
-  "opponents": "Calum Puttergill / Dane Sweeny",
-  "event": "Brisbane 3 Challenger",
-  "eventRaw": "Brisbane 3",
+  "opponent": "Stefan Kozlov",
+  "opponentKey": 1087,
+  "opponentPid": null,
+  "opponentCountry": "USA",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
   "level": null,
   "tour": "atp",
   "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T01:30:00Z",
+  "round": null,
+  "date": "2026-11-12",
+  "at": "2026-11-12T15:00:00Z",
   "status": "scheduled",
   "score": null,
-  "matchKey": 12178090,
-  "tournamentKey": 13458,
+  "matchKey": 12179285,
+  "tournamentKey": 2443,
   "day": "tomorrow"
  },
  {
-  "playerIds": [
-   "bay-m-h6"
-  ],
-  "names": [
-   "Jake Finn Bass"
-  ],
-  "teamIds": [
-   "bay-m"
-  ],
+  "playerId": "ucla-m-h13",
+  "name": "Marcos Giron",
+  "teamId": "ucla-m",
   "gender": "men",
-  "partner": "Scott Duncan",
-  "opponents": "Thijmen Loof / K. Uesugi",
+  "opponent": "Abedallah Shelbayh",
+  "opponentKey": 9219,
+  "opponentPid": "fla-m-h9",
+  "opponentCountry": "Jordan",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-12",
+  "at": "2026-11-12T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179295,
+  "tournamentKey": 2443,
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "fla-m-h9",
+  "name": "Abedallah Shelbayh",
+  "teamId": "fla-m",
+  "gender": "men",
+  "opponent": "Marcos Giron",
+  "opponentKey": 1766,
+  "opponentPid": "ucla-m-h13",
+  "opponentCountry": "USA",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-12",
+  "at": "2026-11-12T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179295,
+  "tournamentKey": 2443,
+  "day": "tomorrow"
+ },
+ {
+  "playerId": "ariz-m-fp226",
+  "name": "Jay Friend",
+  "teamId": "ariz-m",
+  "gender": "men",
+  "opponent": "Yu Hsiou Hsu",
+  "opponentKey": 867,
+  "opponentPid": null,
+  "opponentCountry": "Taiwan",
   "event": "Matsuyama Challenger",
   "eventRaw": "Matsuyama",
   "level": null,
   "tour": "atp",
   "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T02:00:00Z",
+  "round": null,
+  "date": "2026-11-13",
+  "at": "2026-11-13T00:00:00Z",
   "status": "scheduled",
   "score": null,
-  "matchKey": 12178094,
-  "tournamentKey": 8221,
-  "day": "tomorrow"
- },
+  "matchKey": 12179297,
+  "tournamentKey": 8222,
+  "day": null
+ }
+];
+
+export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomingDoubles ?? [
  {
   "playerIds": [
    "van-w-h3"
@@ -2339,204 +2566,24 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "qualifying": false,
   "round": "R16",
   "date": "2026-11-11",
-  "at": "2026-11-11T03:00:00Z",
-  "status": "scheduled",
-  "score": null,
+  "at": "2026-11-11T05:45:00Z",
+  "status": "live",
+  "score": {
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "2",
+     "1"
+    ]
+   ],
+   "game": "40 - 30"
+  },
   "matchKey": 12178465,
   "tournamentKey": 14851,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "tenn-p2"
-  ],
-  "names": [
-   "Catherine Aulia"
-  ],
-  "teamIds": [
-   "tenn-w"
-  ],
-  "gender": "women",
-  "partner": "Elena Micic",
-  "opponents": "M. Barry / Natsumi Kawaguchi",
-  "event": "W75 Brisbane 3",
-  "eventRaw": "W75 Brisbane 3 (Australia)",
-  "level": "W75",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T04:30:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178463,
-  "tournamentKey": 14851,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "fla-m-h1"
-  ],
-  "names": [
-   "Axel Nefve"
-  ],
-  "teamIds": [
-   "fla-m"
-  ],
-  "gender": "men",
-  "partner": "Joshua Peck",
-  "opponents": "Volodymyr Gurenko / N. P. Van Noord",
-  "event": "M25 Montreal",
-  "eventRaw": "M25 Montreal",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178687,
-  "tournamentKey": 9325,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "uva-w-h6",
-   "lsu-w-h3"
-  ],
-  "names": [
-   "Julia Adams",
-   "Anita Sahdiieva"
-  ],
-  "teamIds": [
-   "uva-w",
-   "lsu-w"
-  ],
-  "gender": "women",
-  "partner": null,
-  "opponents": "Ilinca Amariei / Vilar",
-  "event": "W35 Weston",
-  "eventRaw": "W35 Weston",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178792,
-  "tournamentKey": 14863,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "tamu-p3"
-  ],
-  "names": [
-   "Ilinca Amariei"
-  ],
-  "teamIds": [
-   "tamu-w"
-  ],
-  "gender": "women",
-  "partner": "Vilar",
-  "opponents": "Julia Adams / Anita Sahdiieva",
-  "event": "W35 Weston",
-  "eventRaw": "W35 Weston",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178792,
-  "tournamentKey": 14863,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "ncst-w-h11"
-  ],
-  "names": [
-   "Priska Nugroho"
-  ],
-  "teamIds": [
-   "ncst-w"
-  ],
-  "gender": "women",
-  "partner": "Ekaterina Ovcharenko",
-  "opponents": "Kanon Sawashiro / Mutsumi Uemura",
-  "event": "W50 Yokohama",
-  "eventRaw": "W50 Yokohama",
-  "level": "W50",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178942,
-  "tournamentKey": 12093,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "wash-w-h7"
-  ],
-  "names": [
-   "Hikaru Sato"
-  ],
-  "teamIds": [
-   "wash-w"
-  ],
-  "gender": "women",
-  "partner": "Tian Deng Tiana",
-  "opponents": "Yuka Hosoki / N. Katsumi",
-  "event": "W50 Yokohama",
-  "eventRaw": "W50 Yokohama",
-  "level": "W50",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:30:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178510,
-  "tournamentKey": 12093,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "ou-m-h2"
-  ],
-  "names": [
-   "Jordan Hasson"
-  ],
-  "teamIds": [
-   "ou-m"
-  ],
-  "gender": "men",
-  "partner": "F. Van Sambeek",
-  "opponents": "Penn Charusorn / Kuan Shou Chen",
-  "event": "M15 Hua Hin",
-  "eventRaw": "M15 Hua Hin",
-  "level": "M15",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T05:30:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178870,
-  "tournamentKey": 10355,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerIds": [
@@ -2563,24 +2610,24 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "score": null,
   "matchKey": 12178932,
   "tournamentKey": 14853,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerIds": [
-   "ariz-m-fp226"
+   "ou-m-h2"
   ],
   "names": [
-   "Jay Friend"
+   "Jordan Hasson"
   ],
   "teamIds": [
-   "ariz-m"
+   "ou-m"
   ],
   "gender": "men",
-  "partner": "Ray Ho",
-  "opponents": "Siddhant Banthia / Anirudh Chandrasekar",
-  "event": "Matsuyama Challenger",
-  "eventRaw": "Matsuyama",
-  "level": null,
+  "partner": "F. Van Sambeek",
+  "opponents": "Penn Charusorn / Shou Chen Kuan",
+  "event": "M15 Hua Hin",
+  "eventRaw": "M15 Hua Hin",
+  "level": "M15",
   "tour": "atp",
   "qualifying": false,
   "round": "R16",
@@ -2588,9 +2635,48 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "at": "2026-11-11T06:30:00Z",
   "status": "scheduled",
   "score": null,
-  "matchKey": 12178095,
-  "tournamentKey": 8221,
-  "day": "tomorrow"
+  "matchKey": 12178870,
+  "tournamentKey": 10355,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "wash-w-h7"
+  ],
+  "names": [
+   "Hikaru Sato"
+  ],
+  "teamIds": [
+   "wash-w"
+  ],
+  "gender": "women",
+  "partner": "Tian Deng Tiana",
+  "opponents": "Yuka Hosoki / N. Katsumi",
+  "event": "W50 Yokohama",
+  "eventRaw": "W50 Yokohama",
+  "level": "W50",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T07:05:00Z",
+  "status": "live",
+  "score": {
+   "sets": [
+    [
+     "1",
+     "6"
+    ],
+    [
+     "1",
+     "1"
+    ]
+   ],
+   "game": "0 - 30"
+  },
+  "matchKey": 12178510,
+  "tournamentKey": 12093,
+  "day": "today"
  },
  {
   "playerIds": [
@@ -2617,7 +2703,7 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "score": null,
   "matchKey": 12178178,
   "tournamentKey": 12863,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerIds": [
@@ -2637,14 +2723,14 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "level": "M15",
   "tour": "atp",
   "qualifying": false,
-  "round": null,
+  "round": "R16",
   "date": "2026-11-11",
   "at": "2026-11-11T09:00:00Z",
   "status": "scheduled",
   "score": null,
   "matchKey": 12179002,
   "tournamentKey": 3370,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerIds": [
@@ -2671,7 +2757,7 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "score": null,
   "matchKey": 12179012,
   "tournamentKey": 14857,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerIds": [
@@ -2701,7 +2787,7 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "score": null,
   "matchKey": 12179112,
   "tournamentKey": 13491,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerIds": [
@@ -2731,7 +2817,7 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "score": null,
   "matchKey": 12178662,
   "tournamentKey": 3779,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerIds": [
@@ -2745,7 +2831,7 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   ],
   "gender": "men",
   "partner": "I. Forcano",
-  "opponents": "Tiago Cacao / Joao Dinis Silva",
+  "opponents": "Tiago Cacao / Dinis Silva Joao",
   "event": "M25 Vale do Lobo 2",
   "eventRaw": "M25 Vale do Lobo 2",
   "level": "M25",
@@ -2758,7 +2844,7 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "score": null,
   "matchKey": 12178665,
   "tournamentKey": 3779,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerIds": [
@@ -2785,7 +2871,7 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "score": null,
   "matchKey": 12178182,
   "tournamentKey": 13395,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerIds": [
@@ -2812,7 +2898,7 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "score": null,
   "matchKey": 12178950,
   "tournamentKey": 8272,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerIds": [
@@ -2839,7 +2925,7 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "score": null,
   "matchKey": 12178951,
   "tournamentKey": 8272,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerIds": [
@@ -2866,7 +2952,7 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "score": null,
   "matchKey": 12178667,
   "tournamentKey": 3779,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerIds": [
@@ -2886,320 +2972,14 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "level": "M15",
   "tour": "atp",
   "qualifying": false,
-  "round": null,
+  "round": "R16",
   "date": "2026-11-11",
   "at": "2026-11-11T14:30:00Z",
   "status": "scheduled",
   "score": null,
   "matchKey": 12179104,
   "tournamentKey": 4019,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "fla-m-h11"
-  ],
-  "names": [
-   "Andres Andrade"
-  ],
-  "teamIds": [
-   "fla-m"
-  ],
-  "gender": "men",
-  "partner": "Johannes Ingildsen",
-  "opponents": "Jody Maginley / Karl Poling",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178265,
-  "tournamentKey": 2444,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "unc-m-h8"
-  ],
-  "names": [
-   "Karl Poling"
-  ],
-  "teamIds": [
-   "unc-m"
-  ],
-  "gender": "men",
-  "partner": "Jody Maginley",
-  "opponents": "Andres Andrade / Johannes Ingildsen",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178265,
-  "tournamentKey": 2444,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "gt-m-h3"
-  ],
-  "names": [
-   "Keshav Chopra"
-  ],
-  "teamIds": [
-   "gt-m"
-  ],
-  "gender": "men",
-  "partner": "Andres Martin",
-  "opponents": "Arda Azkara / Clement Chidekh",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178266,
-  "tournamentKey": 2444,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "uga-m-p1",
-   "wash-m-h10"
-  ],
-  "names": [
-   "Arda Azkara",
-   "Clement Chidekh"
-  ],
-  "teamIds": [
-   "uga-m",
-   "wash-m"
-  ],
-  "gender": "men",
-  "partner": null,
-  "opponents": "Keshav Chopra / Andres Martin",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178266,
-  "tournamentKey": 2444,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "tenn-m-n6",
-   "tenn-m-h6"
-  ],
-  "names": [
-   "Oscar Lacides",
-   "Shunsuke Mitsui"
-  ],
-  "teamIds": [
-   "tenn-m",
-   "tenn-m"
-  ],
-  "gender": "men",
-  "partner": null,
-  "opponents": "Reyes-Varela / Reese Stalder",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178267,
-  "tournamentKey": 2444,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "harv-m-h3",
-   "ncst-m-h7"
-  ],
-  "names": [
-   "Daniel Milavsky",
-   "Braden Shick"
-  ],
-  "teamIds": [
-   "harv-m",
-   "ncst-m"
-  ],
-  "gender": "men",
-  "partner": null,
-  "opponents": "Hynek Barton / Maks Kasnikowski",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178268,
-  "tournamentKey": 2444,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "ore-m-h2"
-  ],
-  "names": [
-   "Joshua Charlton"
-  ],
-  "teamIds": [
-   "ore-m"
-  ],
-  "gender": "men",
-  "partner": "Ben Jones",
-  "opponents": "N. Lammons / Patrick Smith John",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178269,
-  "tournamentKey": 2444,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "osu-m-h2"
-  ],
-  "names": [
-   "Justin Boulais"
-  ],
-  "teamIds": [
-   "osu-m"
-  ],
-  "gender": "men",
-  "partner": "Kent Trotter James",
-  "opponents": "T. Hilderbrand / Bogdan Pavel",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178270,
-  "tournamentKey": 2444,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "ucf-m-h3"
-  ],
-  "names": [
-   "Bogdan Pavel"
-  ],
-  "teamIds": [
-   "ucf-m"
-  ],
-  "gender": "men",
-  "partner": "T. Hilderbrand",
-  "opponents": "Justin Boulais / Kent Trotter James",
-  "event": "Knoxville Challenger",
-  "eventRaw": "Knoxville",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178270,
-  "tournamentKey": 2444,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "stan-m-h16"
-  ],
-  "names": [
-   "Tristan Boyer"
-  ],
-  "teamIds": [
-   "stan-m"
-  ],
-  "gender": "men",
-  "partner": "Ryan Nijboer",
-  "opponents": "B. Oliveira / Natan Rodrigues",
-  "event": "Lima 2 Challenger",
-  "eventRaw": "Lima 2",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178275,
-  "tournamentKey": 4820,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "lou-m-h7"
-  ],
-  "names": [
-   "Natan Rodrigues"
-  ],
-  "teamIds": [
-   "lou-m"
-  ],
-  "gender": "men",
-  "partner": "B. Oliveira",
-  "opponents": "Tristan Boyer / Ryan Nijboer",
-  "event": "Lima 2 Challenger",
-  "eventRaw": "Lima 2",
-  "level": null,
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178275,
-  "tournamentKey": 4820,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerIds": [
@@ -3226,145 +3006,61 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "score": null,
   "matchKey": 12178669,
   "tournamentKey": 13395,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerIds": [
-   "uk-m-p8"
+   "osu-m-h2"
   ],
   "names": [
-   "Jaden Weekes"
-  ],
-  "teamIds": [
-   "uk-m"
-  ],
-  "gender": "men",
-  "partner": "Thomas Gerbaud",
-  "opponents": "S. Rozin / Tiago Silva",
-  "event": "M25 Montreal",
-  "eventRaw": "M25 Montreal",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178688,
-  "tournamentKey": 9325,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "usf-m-h4"
-  ],
-  "names": [
-   "Alvin Tudorica"
-  ],
-  "teamIds": [
-   "usf-m"
-  ],
-  "gender": "men",
-  "partner": "B. T. George",
-  "opponents": "Bedard / M. Roy",
-  "event": "M25 Montreal",
-  "eventRaw": "M25 Montreal",
-  "level": "M25",
-  "tour": "atp",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178689,
-  "tournamentKey": 9325,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "osu-m-fp278"
-  ],
-  "names": [
-   "Jack Anthrop"
+   "Justin Boulais"
   ],
   "teamIds": [
    "osu-m"
   ],
   "gender": "men",
-  "partner": "Peyton Stearns",
-  "opponents": "Battistone / S. Battistone",
-  "event": "M25 Columbus",
-  "eventRaw": "M25 Columbus, OH",
-  "level": "M25",
+  "partner": "Kent Trotter James",
+  "opponents": "T. Hilderbrand / Bogdan Pavel",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
+  "level": null,
   "tour": "atp",
   "qualifying": false,
   "round": "R16",
   "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
+  "at": "2026-11-11T16:00:00Z",
   "status": "scheduled",
   "score": null,
-  "matchKey": 12178785,
-  "tournamentKey": 4955,
-  "day": "tomorrow"
+  "matchKey": 12178270,
+  "tournamentKey": 2444,
+  "day": "today"
  },
  {
   "playerIds": [
-   "osu-m-p6"
+   "ucf-m-h3"
   ],
   "names": [
-   "Victor Lilov"
+   "Bogdan Pavel"
   ],
   "teamIds": [
-   "osu-m"
+   "ucf-m"
   ],
   "gender": "men",
-  "partner": "Denis Petak",
-  "opponents": "Alejandro Jacome Jaramillo / Shalin Shah Kael",
-  "event": "M25 Columbus",
-  "eventRaw": "M25 Columbus, OH",
-  "level": "M25",
+  "partner": "T. Hilderbrand",
+  "opponents": "Justin Boulais / Kent Trotter James",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
+  "level": null,
   "tour": "atp",
   "qualifying": false,
   "round": "R16",
   "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
+  "at": "2026-11-11T16:00:00Z",
   "status": "scheduled",
   "score": null,
-  "matchKey": 12178786,
-  "tournamentKey": 4955,
-  "day": "tomorrow"
- },
- {
-  "playerIds": [
-   "tamu-w-n8",
-   "lsu-p5"
-  ],
-  "names": [
-   "Arina Bulatova",
-   "Carolina Kuhl"
-  ],
-  "teamIds": [
-   "tamu-w",
-   "lsu-w"
-  ],
-  "gender": "women",
-  "partner": null,
-  "opponents": "Zaire Clarke / Janae Preston",
-  "event": "W35 Weston",
-  "eventRaw": "W35 Weston",
-  "level": "W35",
-  "tour": "wta",
-  "qualifying": false,
-  "round": "R16",
-  "date": "2026-11-11",
-  "at": "2026-11-11T15:00:00Z",
-  "status": "scheduled",
-  "score": null,
-  "matchKey": 12178791,
-  "tournamentKey": 14863,
-  "day": "tomorrow"
+  "matchKey": 12178270,
+  "tournamentKey": 2444,
+  "day": "today"
  },
  {
   "playerIds": [
@@ -3391,7 +3087,7 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "score": null,
   "matchKey": 12178668,
   "tournamentKey": 1686,
-  "day": "tomorrow"
+  "day": "today"
  },
  {
   "playerIds": [
@@ -3418,11 +3114,905 @@ export const upcomingDoubles = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomi
   "score": null,
   "matchKey": 12178191,
   "tournamentKey": 2424,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "corn-m-h11"
+  ],
+  "names": [
+   "Evan Bynoe"
+  ],
+  "teamIds": [
+   "corn-m"
+  ],
+  "gender": "men",
+  "partner": "Joao Portugal",
+  "opponents": "J. Almeida / Vega",
+  "event": "M15 Naples 4",
+  "eventRaw": "ITF M15 Naples, FL 4 Men",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179213,
+  "tournamentKey": 12252,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "uga-m-p3",
+   "clt-m-fp98"
+  ],
+  "names": [
+   "Santiago Giamichelle",
+   "Emilio Sanchez"
+  ],
+  "teamIds": [
+   "uga-m",
+   "clt-m"
+  ],
+  "gender": "men",
+  "partner": null,
+  "opponents": "Corey Craig / William Nolan",
+  "event": "M15 Naples 4",
+  "eventRaw": "ITF M15 Naples, FL 4 Men",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179215,
+  "tournamentKey": 12252,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "fsu-m-fp26"
+  ],
+  "names": [
+   "Corey Craig"
+  ],
+  "teamIds": [
+   "fsu-m"
+  ],
+  "gender": "men",
+  "partner": "William Nolan",
+  "opponents": "Santiago Giamichelle / Emilio Sanchez",
+  "event": "M15 Naples 4",
+  "eventRaw": "ITF M15 Naples, FL 4 Men",
+  "level": "M15",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179215,
+  "tournamentKey": 12252,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "fla-m-h1"
+  ],
+  "names": [
+   "Axel Nefve"
+  ],
+  "teamIds": [
+   "fla-m"
+  ],
+  "gender": "men",
+  "partner": "Joshua Peck",
+  "opponents": "Volodymyr Gurenko / N. P. Van Noord",
+  "event": "M25 Montreal",
+  "eventRaw": "M25 Montreal",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178687,
+  "tournamentKey": 9325,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "uk-m-p8"
+  ],
+  "names": [
+   "Jaden Weekes"
+  ],
+  "teamIds": [
+   "uk-m"
+  ],
+  "gender": "men",
+  "partner": "Thomas Gerbaud",
+  "opponents": "S. Rozin / Tiago Silva",
+  "event": "M25 Montreal",
+  "eventRaw": "M25 Montreal",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178688,
+  "tournamentKey": 9325,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "usf-m-h4"
+  ],
+  "names": [
+   "Alvin Tudorica"
+  ],
+  "teamIds": [
+   "usf-m"
+  ],
+  "gender": "men",
+  "partner": "B. T. George",
+  "opponents": "Bedard / M. Roy",
+  "event": "M25 Montreal",
+  "eventRaw": "M25 Montreal",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T18:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178689,
+  "tournamentKey": 9325,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "ore-m-h2"
+  ],
+  "names": [
+   "Joshua Charlton"
+  ],
+  "teamIds": [
+   "ore-m"
+  ],
+  "gender": "men",
+  "partner": "Ben Jones",
+  "opponents": "N. Lammons / Patrick Smith John",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T19:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178269,
+  "tournamentKey": 2444,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "uva-w-h6",
+   "lsu-w-h3"
+  ],
+  "names": [
+   "Julia Adams",
+   "Anita Sahdiieva"
+  ],
+  "teamIds": [
+   "uva-w",
+   "lsu-w"
+  ],
+  "gender": "women",
+  "partner": null,
+  "opponents": "Ilinca Amariei / Vilar",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T19:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178792,
+  "tournamentKey": 14863,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "tamu-p3"
+  ],
+  "names": [
+   "Ilinca Amariei"
+  ],
+  "teamIds": [
+   "tamu-w"
+  ],
+  "gender": "women",
+  "partner": "Vilar",
+  "opponents": "Julia Adams / Anita Sahdiieva",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T19:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178792,
+  "tournamentKey": 14863,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "stan-m-h16"
+  ],
+  "names": [
+   "Tristan Boyer"
+  ],
+  "teamIds": [
+   "stan-m"
+  ],
+  "gender": "men",
+  "partner": "Ryan Nijboer",
+  "opponents": "B. Oliveira / Natan Rodrigues",
+  "event": "Lima 2 Challenger",
+  "eventRaw": "Lima 2",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T19:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178275,
+  "tournamentKey": 4820,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "lou-m-h7"
+  ],
+  "names": [
+   "Natan Rodrigues"
+  ],
+  "teamIds": [
+   "lou-m"
+  ],
+  "gender": "men",
+  "partner": "B. Oliveira",
+  "opponents": "Tristan Boyer / Ryan Nijboer",
+  "event": "Lima 2 Challenger",
+  "eventRaw": "Lima 2",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T19:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178275,
+  "tournamentKey": 4820,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "tamu-w-n8",
+   "lsu-p5"
+  ],
+  "names": [
+   "Arina Bulatova",
+   "Carolina Kuhl"
+  ],
+  "teamIds": [
+   "tamu-w",
+   "lsu-w"
+  ],
+  "gender": "women",
+  "partner": null,
+  "opponents": "Moreau / Nations",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-11",
+  "at": "2026-11-11T20:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179249,
+  "tournamentKey": 14863,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "gt-m-h3"
+  ],
+  "names": [
+   "Keshav Chopra"
+  ],
+  "teamIds": [
+   "gt-m"
+  ],
+  "gender": "men",
+  "partner": "Andres Martin",
+  "opponents": "Arda Azkara / Clement Chidekh",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T20:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178266,
+  "tournamentKey": 2444,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "uga-m-p1",
+   "wash-m-h10"
+  ],
+  "names": [
+   "Arda Azkara",
+   "Clement Chidekh"
+  ],
+  "teamIds": [
+   "uga-m",
+   "wash-m"
+  ],
+  "gender": "men",
+  "partner": null,
+  "opponents": "Keshav Chopra / Andres Martin",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T20:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178266,
+  "tournamentKey": 2444,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "osu-m-fp278"
+  ],
+  "names": [
+   "Jack Anthrop"
+  ],
+  "teamIds": [
+   "osu-m"
+  ],
+  "gender": "men",
+  "partner": "Peyton Stearns",
+  "opponents": "Battistone / S. Battistone",
+  "event": "M25 Columbus",
+  "eventRaw": "M25 Columbus, OH",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T21:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178785,
+  "tournamentKey": 4955,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "osu-m-p6"
+  ],
+  "names": [
+   "Victor Lilov"
+  ],
+  "teamIds": [
+   "osu-m"
+  ],
+  "gender": "men",
+  "partner": "Denis Petak",
+  "opponents": "Alejandro Jacome Jaramillo / Shalin Shah Kael",
+  "event": "M25 Columbus",
+  "eventRaw": "M25 Columbus, OH",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T21:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178786,
+  "tournamentKey": 4955,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "tenn-m-n6",
+   "tenn-m-h6"
+  ],
+  "names": [
+   "Oscar Lacides",
+   "Shunsuke Mitsui"
+  ],
+  "teamIds": [
+   "tenn-m",
+   "tenn-m"
+  ],
+  "gender": "men",
+  "partner": null,
+  "opponents": "Reyes-Varela / Reese Stalder",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T22:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178267,
+  "tournamentKey": 2444,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "harv-m-h3",
+   "ncst-m-h7"
+  ],
+  "names": [
+   "Daniel Milavsky",
+   "Braden Shick"
+  ],
+  "teamIds": [
+   "harv-m",
+   "ncst-m"
+  ],
+  "gender": "men",
+  "partner": null,
+  "opponents": "Hynek Barton / Maks Kasnikowski",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T22:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178268,
+  "tournamentKey": 2444,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "aub-p3"
+  ],
+  "names": [
+   "Aishi Das"
+  ],
+  "teamIds": [
+   "aub-w"
+  ],
+  "gender": "women",
+  "partner": "E. M. Ionescu",
+  "opponents": "K. Kock / A. Schumann",
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T23:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179241,
+  "tournamentKey": 12012,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "okst-w-p2"
+  ],
+  "names": [
+   "Claudia Gasparovic"
+  ],
+  "teamIds": [
+   "okst-w"
+  ],
+  "gender": "women",
+  "partner": "A. Malygina",
+  "opponents": "Esposito Cogan / Kaya Moe",
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T23:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179242,
+  "tournamentKey": 12012,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "aub-p8"
+  ],
+  "names": [
+   "Kaya Moe"
+  ],
+  "teamIds": [
+   "aub-w"
+  ],
+  "gender": "women",
+  "partner": "Esposito Cogan",
+  "opponents": "Claudia Gasparovic / A. Malygina",
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T23:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179242,
+  "tournamentKey": 12012,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "aub-p7",
+   "aub-p10"
+  ],
+  "names": [
+   "Isabella Kruger",
+   "Merna Refaat"
+  ],
+  "teamIds": [
+   "aub-w",
+   "aub-w"
+  ],
+  "gender": "women",
+  "partner": null,
+  "opponents": "Virginia Crocker / Sophie Suh",
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T23:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179243,
+  "tournamentKey": 12012,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "ore-w-p2"
+  ],
+  "names": [
+   "Virginia Crocker"
+  ],
+  "teamIds": [
+   "ore-w"
+  ],
+  "gender": "women",
+  "partner": "Sophie Suh",
+  "opponents": "Isabella Kruger / Merna Refaat",
+  "event": "W15 Lincoln",
+  "eventRaw": "W15 Lincoln, NE",
+  "level": "W15",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T23:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179243,
+  "tournamentKey": 12012,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "fla-m-h11"
+  ],
+  "names": [
+   "Andres Andrade"
+  ],
+  "teamIds": [
+   "fla-m"
+  ],
+  "gender": "men",
+  "partner": "Johannes Ingildsen",
+  "opponents": "Jody Maginley / Karl Poling",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T23:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178265,
+  "tournamentKey": 2444,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "unc-m-h8"
+  ],
+  "names": [
+   "Karl Poling"
+  ],
+  "teamIds": [
+   "unc-m"
+  ],
+  "gender": "men",
+  "partner": "Jody Maginley",
+  "opponents": "Andres Andrade / Johannes Ingildsen",
+  "event": "Knoxville Challenger",
+  "eventRaw": "Knoxville",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "R16",
+  "date": "2026-11-11",
+  "at": "2026-11-11T23:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12178265,
+  "tournamentKey": 2444,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "lsu-p6"
+  ],
+  "names": [
+   "Kayla Cross"
+  ],
+  "teamIds": [
+   "lsu-w"
+  ],
+  "gender": "women",
+  "partner": "Despina Papamichail",
+  "opponents": "S. Clarke / S. Clarke",
+  "event": "W50 Chihuahua 2",
+  "eventRaw": "W50 Chihuahua 2",
+  "level": "W50",
+  "tour": "wta",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-11",
+  "at": "2026-11-11T23:30:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179247,
+  "tournamentKey": 13471,
+  "day": "today"
+ },
+ {
+  "playerIds": [
+   "uk-m-h14"
+  ],
+  "names": [
+   "Alafia Ayeni"
+  ],
+  "teamIds": [
+   "uk-m"
+  ],
+  "gender": "men",
+  "partner": "Kokoro Isomura",
+  "opponents": "Moerani Bouzige / Casey Hoole",
+  "event": "Brisbane 3 Challenger",
+  "eventRaw": "Brisbane 3",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": "QF",
+  "date": "2026-11-12",
+  "at": "2026-11-12T00:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179244,
+  "tournamentKey": 13458,
+  "day": "tomorrow"
+ },
+ {
+  "playerIds": [
+   "pepp-w-h7"
+  ],
+  "names": [
+   "Savannah Broadus"
+  ],
+  "teamIds": [
+   "pepp-w"
+  ],
+  "gender": "women",
+  "partner": "Vladimir Ivanov",
+  "opponents": "Olivia Gadecki / Wan I",
+  "event": "W75 Brisbane 3",
+  "eventRaw": "W75 Brisbane 3 (Australia)",
+  "level": "W75",
+  "tour": "wta",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-12",
+  "at": "2026-11-12T00:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179293,
+  "tournamentKey": 14851,
+  "day": "tomorrow"
+ },
+ {
+  "playerIds": [
+   "bay-m-h6"
+  ],
+  "names": [
+   "Jake Finn Bass"
+  ],
+  "teamIds": [
+   "bay-m"
+  ],
+  "gender": "men",
+  "partner": "Scott Duncan",
+  "opponents": "Arjun Kadhe / Aoran Wang",
+  "event": "Matsuyama Challenger",
+  "eventRaw": "Matsuyama",
+  "level": null,
+  "tour": "atp",
+  "qualifying": false,
+  "round": null,
+  "date": "2026-11-12",
+  "at": "2026-11-12T02:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179299,
+  "tournamentKey": 8221,
+  "day": "tomorrow"
+ },
+ {
+  "playerIds": [
+   "osu-m-p5",
+   "uva-m-h16"
+  ],
+  "names": [
+   "Aidan Kim",
+   "Brandon Nakashima"
+  ],
+  "teamIds": [
+   "osu-m",
+   "uva-m"
+  ],
+  "gender": "men",
+  "partner": null,
+  "opponents": "H. Heck / G. Young",
+  "event": "M25 Columbus",
+  "eventRaw": "M25 Columbus, OH",
+  "level": "M25",
+  "tour": "atp",
+  "qualifying": false,
+  "round": "QF",
+  "date": "2026-11-12",
+  "at": "2026-11-12T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179157,
+  "tournamentKey": 4955,
+  "day": "tomorrow"
+ },
+ {
+  "playerIds": [
+   "fla-p1",
+   "fla-w-n3"
+  ],
+  "names": [
+   "Brooke Black",
+   "Capucine Jauffret"
+  ],
+  "teamIds": [
+   "fla-w",
+   "fla-w"
+  ],
+  "gender": "women",
+  "partner": null,
+  "opponents": "Victoria Hu / Ashley Lahey",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "QF",
+  "date": "2026-11-12",
+  "at": "2026-11-12T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179222,
+  "tournamentKey": 14863,
+  "day": "tomorrow"
+ },
+ {
+  "playerIds": [
+   "fla-w-n1",
+   "fla-w-n2"
+  ],
+  "names": [
+   "Jana Hossam Salah",
+   "Allegra Korpanec Davies"
+  ],
+  "teamIds": [
+   "fla-w",
+   "fla-w"
+  ],
+  "gender": "women",
+  "partner": null,
+  "opponents": "Dia Evtimova / C. Harding",
+  "event": "W35 Weston",
+  "eventRaw": "W35 Weston",
+  "level": "W35",
+  "tour": "wta",
+  "qualifying": false,
+  "round": "QF",
+  "date": "2026-11-12",
+  "at": "2026-11-12T15:00:00Z",
+  "status": "scheduled",
+  "score": null,
+  "matchKey": 12179223,
+  "tournamentKey": 14863,
   "day": "tomorrow"
  }
 ];
 
-export const upcomingDates = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomingDates ?? ["2026-11-10","2026-11-11","2026-11-12"];
+export const upcomingDates = globalThis.__BAGEL_REMOTE__?.["upcoming"]?.upcomingDates ?? ["2026-11-11","2026-11-12","2026-11-13"];
 
 // Scheduled matches for a gender, soonest first (today before tomorrow).
 export function getUpcoming(gender) {
