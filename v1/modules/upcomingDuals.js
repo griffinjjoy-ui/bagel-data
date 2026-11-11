@@ -2744,7 +2744,7 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
  {
   "id": "B4979823-A3EC-4521-A13F-FB76ABDB405F",
   "date": "2027-02-20",
-  "dateTime": "2027-02-20T18:00:00.000Z",
+  "dateTime": "2027-02-20T19:00:00.000Z",
   "gender": "women",
   "isConferenceMatch": false,
   "t1": {
@@ -3611,7 +3611,7 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
  {
   "id": "9005AE24-F4B8-4042-8A76-8EA5C02571D0",
   "date": "2027-03-07",
-  "dateTime": "2027-03-07T06:00:00.000Z",
+  "dateTime": "2027-03-07T16:00:00.000Z",
   "gender": "women",
   "isConferenceMatch": false,
   "t1": {

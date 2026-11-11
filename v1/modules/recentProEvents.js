@@ -246,7 +246,49 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "asu-m-p5": [
+  {
+   "key": "900014854",
+   "name": "M25 San Gregorio Di Catania",
+   "date": "2026-11-11",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12178797",
+     "date": "2026-11-11",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Tommaso Compagnucci",
+     "score": "6-4 6-7(5) 7-6(5)"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "asu-m-p9": [
+  {
+   "key": "900004021",
+   "name": "M15 Las Palmas de Gran Canaria",
+   "date": "2026-11-11",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12179035",
+     "date": "2026-11-11",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "I. Pedersen Lozano",
+     "score": "6-1 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900014816",
    "name": "M25 Las Vegas",
@@ -424,6 +466,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "aub-p7": [
+  {
+   "key": "900012015",
+   "name": "W15 Lincoln",
+   "date": "2026-11-10",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12179229",
+     "date": "2026-11-11",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "N. Rahimkhani",
+     "score": "6-4 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900012515",
    "name": "W35 Orlando",
@@ -1038,6 +1100,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "fla-w-n3": [
   {
+   "key": "900014860",
+   "name": "W35 Weston",
+   "date": "2026-11-10",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12178782",
+     "date": "2026-11-11",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Kylie Collins",
+     "score": "7-6(7) 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "900012515",
    "name": "W35 Orlando",
    "date": "2026-11-04",
@@ -1092,6 +1174,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Igor Marcondes",
      "score": "7-5 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "fsu-m-fp26": [
+  {
+   "key": "900012250",
+   "name": "M15 Naples 4",
+   "date": "2026-11-10",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12179193",
+     "date": "2026-11-11",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "E. Sanchez Bronzetti",
+     "score": "6-3 6-3"
     }
    ],
    "reached": "First",
@@ -1247,6 +1351,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "lsu-m-p4": [
+  {
+   "key": "900012250",
+   "name": "M15 Naples 4",
+   "date": "2026-11-10",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12179195",
+     "date": "2026-11-11",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Zsombor Velcz",
+     "score": "1-6 7-6(1) 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900014816",
    "name": "M25 Las Vegas",
@@ -1526,6 +1650,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "miami-w-n1": [
+  {
+   "key": "900014860",
+   "name": "W35 Weston",
+   "date": "2026-11-10",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12178784",
+     "date": "2026-11-11",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Sachia Vickery",
+     "score": "7-5 4-6 7-5"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "mich-m-p6": [
   {
    "key": "900001681",
@@ -1564,6 +1710,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Emery Combs",
      "score": "6-3 4-6 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "miss-m-p2": [
+  {
+   "key": "900004701",
+   "name": "M15 Monastir 39",
+   "date": "2026-11-11",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12179048",
+     "date": "2026-11-11",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Remy Dugardin",
+     "score": "6-3 6-4"
     }
    ],
    "reached": "First",
@@ -1822,6 +1990,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "neb-w-p5": [
+  {
+   "key": "900012015",
+   "name": "W15 Lincoln",
+   "date": "2026-11-10",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12179231",
+     "date": "2026-11-11",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Aishi Das",
+     "score": "6-0 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "okst-m-p6": [
   {
    "key": "900013459",
@@ -1941,6 +2131,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "QF",
+   "reachedTone": "neutral"
+  }
+ ],
+ "osu-m-p6": [
+  {
+   "key": "900004954",
+   "name": "M25 Columbus",
+   "date": "2026-11-10",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12179267",
+     "date": "2026-11-11",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Hiroki Sakagawa",
+     "score": "6-1 6-4"
+    }
+   ],
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -2760,6 +2972,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tamu-m-n4": [
+  {
+   "key": "900004954",
+   "name": "M25 Columbus",
+   "date": "2026-11-10",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12178769",
+     "date": "2026-11-11",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Eli Stephenson",
+     "score": "6-1 7-5"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900004948",
    "name": "M25 Harlingen",
@@ -3668,6 +3900,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "uk-m-p1": [
+  {
+   "key": "900009324",
+   "name": "M25 Montreal",
+   "date": "2026-11-10",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12179257",
+     "date": "2026-11-11",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Volodymyr Gurenko",
+     "score": "7-6(9) 6-0"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900013397",
    "name": "M15 Trois-Rivieres",
