@@ -991,6 +991,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "BE164F7B-96BF-4481-9731-4380BFEEB358",
+  "date": "2027-01-29",
+  "dateTime": "2027-01-29T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "colum-w",
+   "name": "Columbia University",
+   "side": 2
+  }
+ },
+ {
   "id": "897719FE-2284-480C-85A0-ABE7FAF20BB7",
   "date": "2027-01-29",
   "dateTime": "2027-01-29T18:00:00.000Z",
@@ -1004,6 +1021,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Furman University",
+   "side": 2
+  }
+ },
+ {
+  "id": "0E33FC6D-CE3E-474C-8E62-CD84DFA001B5",
+  "date": "2027-01-29",
+  "dateTime": "2027-01-29T22:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "ind-w",
+   "name": "Indiana University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Bowling Green State University",
    "side": 2
   }
  },
@@ -1348,23 +1382,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
-  "id": "BE164F7B-96BF-4481-9731-4380BFEEB358",
-  "date": "2027-01-31",
-  "dateTime": "2027-01-31T17:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": "ind-w",
-   "name": "Indiana University",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "colum-w",
-   "name": "Columbia University",
-   "side": 2
-  }
- },
- {
   "id": "EA5271F8-2BA7-46D2-9836-E9AE925E8372",
   "date": "2027-01-31",
   "dateTime": "2027-01-31T18:00:00.000Z",
@@ -1463,23 +1480,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "neb-w",
    "name": "University Of Nebraska",
-   "side": 2
-  }
- },
- {
-  "id": "0E33FC6D-CE3E-474C-8E62-CD84DFA001B5",
-  "date": "2027-01-31",
-  "dateTime": "2027-01-31T22:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": "ind-w",
-   "name": "Indiana University",
-   "side": 1
-  },
-  "t2": {
-   "teamId": null,
-   "name": "Bowling Green State University",
    "side": 2
   }
  },
@@ -2262,6 +2262,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "miss-m",
    "name": "University Of Mississippi",
+   "side": 2
+  }
+ },
+ {
+  "id": "4747E287-174F-4184-BBE8-8AEA3638A323",
+  "date": "2027-02-13",
+  "dateTime": "2027-02-13T22:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Murray State University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "van-w",
+   "name": "Vanderbilt University",
    "side": 2
   }
  },

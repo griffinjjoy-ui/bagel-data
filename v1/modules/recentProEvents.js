@@ -41,9 +41,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "C. Raidt",
      "score": "6-2 6-3"
+    },
+    {
+     "id": "at-12179631",
+     "date": "2026-11-12",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Maria Kononova",
+     "score": "7-5 7-5"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -494,6 +503,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "aub-p5": [
+  {
+   "key": "900012015",
+   "name": "W15 Lincoln",
+   "date": "2026-11-10",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12179633",
+     "date": "2026-11-12",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "K. Schock",
+     "score": "6-2 6-4"
+    }
+   ],
+   "reached": "Second",
+   "reachedTone": "neutral"
+  }
+ ],
  "aub-p7": [
   {
    "key": "900012015",
@@ -828,6 +859,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "clt-m-fp98": [
+  {
+   "key": "900012250",
+   "name": "M15 Naples 4",
+   "date": "2026-11-10",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12179610",
+     "date": "2026-11-12",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Evan Bynoe",
+     "score": "6-4 6-3"
+    }
+   ],
+   "reached": "Second",
+   "reachedTone": "neutral"
+  }
+ ],
  "corn-m-p8": [
   {
    "key": "900013397",
@@ -1101,9 +1154,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Victoria Hu",
      "score": "7-5 6-3"
+    },
+    {
+     "id": "at-12179655",
+     "date": "2026-11-12",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Allegra Korpanec Davies",
+     "score": "6-2 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -1486,9 +1548,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Kolie Allen",
      "score": "6-2 6-2"
+    },
+    {
+     "id": "at-12179566",
+     "date": "2026-11-12",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Aran Teixido Garcia",
+     "score": "6-2 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -1528,9 +1599,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Carolina Gomez",
      "score": "6-3 6-2"
+    },
+    {
+     "id": "at-12179625",
+     "date": "2026-11-12",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Rachel Gailis",
+     "score": "7-5 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -1744,9 +1824,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Sachia Vickery",
      "score": "7-5 4-6 7-5"
+    },
+    {
+     "id": "at-12179565",
+     "date": "2026-11-12",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Julia Adams",
+     "score": "6-4 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -1832,9 +1921,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Remy Dugardin",
      "score": "6-3 6-4"
+    },
+    {
+     "id": "at-12179407",
+     "date": "2026-11-12",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Amaury Raynel",
+     "score": "7-5 7-6(5)"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -2022,9 +2120,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Sophie Suh",
      "score": "7-5 3-6 6-4"
+    },
+    {
+     "id": "at-12179634",
+     "date": "2026-11-12",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Aishi Das",
+     "score": "6-3 6-4"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -2214,9 +2321,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Jonah Braswell",
      "score": "6-2 6-3"
+    },
+    {
+     "id": "at-12179620",
+     "date": "2026-11-12",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Jack Anthrop",
+     "score": "3-6 6-4 7-6(3)"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -2274,9 +2390,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Hiroki Sakagawa",
      "score": "6-1 6-4"
+    },
+    {
+     "id": "at-12179569",
+     "date": "2026-11-12",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Nikita Filin",
+     "score": "3-6 6-1 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -3104,6 +3229,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "tamu-m-p4": [
   {
+   "key": "900004954",
+   "name": "M25 Columbus",
+   "date": "2026-11-10",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12179466",
+     "date": "2026-11-12",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Alexander Okonkwo",
+     "score": "1-6 6-2 6-2"
+    }
+   ],
+   "reached": "Second",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "900011932",
    "name": "M25 Norman",
    "date": "2026-10-27",
@@ -3193,9 +3338,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "A. Lopez",
      "score": "7-5 6-7 6-3"
+    },
+    {
+     "id": "at-12179632",
+     "date": "2026-11-12",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "K. Spencer",
+     "score": "6-1 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -3615,6 +3769,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "tulsa-m-n2": [
+  {
+   "key": "900003775",
+   "name": "M25 Vale do Lobo 2",
+   "date": "2026-11-10",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12178954",
+     "date": "2026-11-12",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Joao Domingues",
+     "score": "6-1 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "ucf-w-p9": [
   {
    "key": "900013379",
@@ -3742,9 +3918,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Vihaan Reddy",
      "score": "6-2 6-3"
+    },
+    {
+     "id": "at-12179611",
+     "date": "2026-11-12",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Jack Secord",
+     "score": "6-4 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -3828,9 +4013,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Volodymyr Gurenko",
      "score": "7-6(9) 6-0"
+    },
+    {
+     "id": "at-12179522",
+     "date": "2026-11-12",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Thomas Gerbaud",
+     "score": "6-2 3-0 ret."
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
