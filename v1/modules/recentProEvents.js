@@ -1501,6 +1501,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "miss-m-p2": [
   {
+   "key": "900004735",
+   "name": "M15 Monastir 40",
+   "date": "2026-11-17",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12180496",
+     "date": "2026-11-17",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "J. Fabre",
+     "score": "6-2 4-6 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "900004701",
    "name": "M15 Monastir 39",
    "date": "2026-11-11",
@@ -1684,6 +1704,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
+ "okst-w-p1": [
+  {
+   "key": "900014869",
+   "name": "W50 Heraklion 4",
+   "date": "2026-11-17",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12180516",
+     "date": "2026-11-17",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Camilla Gennaro",
+     "score": "2-6 6-4 6-4"
+    }
+   ],
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -2181,9 +2223,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Hoyoung Roh",
      "score": "6-4 6-2"
+    },
+    {
+     "id": "at-12180758",
+     "date": "2026-11-17",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Niels Visker",
+     "score": "6-4 6-2"
     }
    ],
-   "reached": "Q2",
+   "reached": "First",
    "reachedTone": "neutral"
   },
   {
@@ -2237,6 +2288,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tamu-m-n4": [
+  {
+   "key": "900002477",
+   "name": "Champaign Challenger",
+   "date": "2026-11-15",
+   "surface": null,
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12180274",
+     "date": "2026-11-17",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Luca Wiedenmann",
+     "score": "6-1 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900004954",
    "name": "M25 Columbus",
@@ -2315,6 +2386,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Second",
+   "reachedTone": "neutral"
+  }
+ ],
+ "tamu-p5": [
+  {
+   "key": "900012755",
+   "name": "W35 Sao Paulo 2",
+   "date": "2026-11-16",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12180359",
+     "date": "2026-11-17",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Berta Bonardi",
+     "score": "6-2 6-2"
+    }
+   ],
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
@@ -2873,6 +2966,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "usc-m-p3": [
+  {
+   "key": "900007123",
+   "name": "M25 Monastir 7",
+   "date": "2026-11-17",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12180502",
+     "date": "2026-11-17",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "M. Tikhomirov",
+     "score": "6-3 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900013396",
    "name": "Monastir Challenger",
