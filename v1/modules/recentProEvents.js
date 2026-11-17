@@ -36,6 +36,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "ariz-m-fp226": [
   {
+   "key": "900002524",
+   "name": "Kobe Challenger",
+   "date": "2026-11-15",
+   "surface": null,
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12180047",
+     "date": "2026-11-17",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Mili Poljicak",
+     "score": "6-4 3-6 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "900008222",
    "name": "Matsuyama Challenger",
    "date": "2026-11-08",
@@ -1632,9 +1652,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Pavle Marinkov",
      "score": "7-6(5) 6-2"
+    },
+    {
+     "id": "at-12180373",
+     "date": "2026-11-17",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Hiroki Moriya",
+     "score": "6-7(6) 6-4 6-1"
     }
    ],
-   "reached": "Q2",
+   "reached": "First",
    "reachedTone": "neutral"
   },
   {
