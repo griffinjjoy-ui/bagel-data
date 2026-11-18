@@ -5,6 +5,23 @@
 export const upcomingDualsFetchedAt = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upcomingDualsFetchedAt ?? "2026-11-18";
 export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upcomingDuals ?? [
  {
+  "id": "9A3E419F-ACA7-4FD0-ACB6-0782876F49F5",
+  "date": "2027-01-08",
+  "dateTime": "2027-01-08T21:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Lamar University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "tex-m",
+   "name": "Univ. Of Texas, Austin",
+   "side": 2
+  }
+ },
+ {
   "id": "234E887A-F2F7-44FC-A659-A846608D4ABD",
   "date": "2027-01-09",
   "dateTime": "2027-01-09T02:00:00.000Z",
@@ -681,6 +698,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "prin-m",
    "name": "Princeton University",
+   "side": 2
+  }
+ },
+ {
+  "id": "5C4996B4-1BBA-436F-9319-4F370E63C103",
+  "date": "2027-01-19",
+  "dateTime": "2027-01-19T17:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Lamar University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "bay-m",
+   "name": "Baylor University",
    "side": 2
   }
  },
@@ -1803,6 +1837,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "neb-w",
    "name": "University Of Nebraska",
+   "side": 2
+  }
+ },
+ {
+  "id": "9B8EA9CA-4772-4E87-BE11-3AA0F6EA226A",
+  "date": "2027-02-01",
+  "dateTime": "2027-02-01T01:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Lamar University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ark-m",
+   "name": "Univ. Of Arkansas, Fayetteville",
    "side": 2
   }
  },
@@ -4353,6 +4404,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "unc-w",
    "name": "UNC Chapel Hill",
+   "side": 2
+  }
+ },
+ {
+  "id": "1561715C-F977-4A6B-BAA5-4E9C1E215978",
+  "date": "2027-03-06",
+  "dateTime": "2027-03-06T20:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Lamar University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "rice-m",
+   "name": "Rice University",
    "side": 2
   }
  },

@@ -1490,9 +1490,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "J. Fabre",
      "score": "6-2 4-6 6-4"
+    },
+    {
+     "id": "at-12180903",
+     "date": "2026-11-18",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Vincent Reisach",
+     "score": "5-7 7-6(6) 7-6(5)"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -1698,9 +1707,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Camilla Gennaro",
      "score": "2-6 6-4 6-4"
+    },
+    {
+     "id": "at-12180834",
+     "date": "2026-11-18",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Lucia Cortez Llorca",
+     "score": "6-3 5-7 6-0"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -2583,6 +2601,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "tex-m-n1": [
   {
+   "key": "900007123",
+   "name": "M25 Monastir 7",
+   "date": "2026-11-17",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12180553",
+     "date": "2026-11-18",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Wissam Abderrahman",
+     "score": "6-7(9) 7-5 7-6(4)"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "900013396",
    "name": "Monastir Challenger",
    "date": "2026-11-08",
@@ -2726,6 +2764,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "tulsa-m-n2": [
+  {
+   "key": "900010406",
+   "name": "M25 Vale do Lobo 3",
+   "date": "2026-11-18",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12180635",
+     "date": "2026-11-18",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Joao Domingues",
+     "score": "6-2 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900003775",
    "name": "M25 Vale do Lobo 2",
@@ -2968,6 +3026,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "Q2",
+   "reachedTone": "neutral"
+  }
+ ],
+ "usf-m-fp171": [
+  {
+   "key": "900014876",
+   "name": "M25 Bradenton",
+   "date": "2026-11-18",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12180742",
+     "date": "2026-11-18",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Oliver Bonding",
+     "score": "4-6 6-2 6-3"
+    }
+   ],
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
