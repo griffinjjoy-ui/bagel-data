@@ -1,5 +1,5 @@
 {
- "version": "bd4062f93c",
+ "version": "e729fa1a8e",
  "asOf": "2026-11-18",
  "files": {
   "proRankings.js": {
@@ -19,7 +19,7 @@
    "bytes": 13090
   },
   "itaDraws.js": {
-   "hash": "4fac8e20f6",
+   "hash": "9051aa6924",
    "bytes": 398765
   },
   "collegeRanks.js": {
