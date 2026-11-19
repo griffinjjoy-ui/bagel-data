@@ -1127,6 +1127,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "166193C9-F3C6-457B-9C96-C63A9AD4AF63",
+  "date": "2027-01-24",
+  "dateTime": "2027-01-24T21:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Alabama A&M University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ala-w",
+   "name": "University Of Alabama",
+   "side": 2
+  }
+ },
+ {
   "id": "1A126CCD-FF0F-43BA-85FB-9C2E8595CE1D",
   "date": "2027-01-25",
   "dateTime": "2027-01-25T15:00:00.000Z",
@@ -1841,6 +1858,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "3B5A5004-2E5E-4E23-B647-0E0762F90DD2",
+  "date": "2027-01-31",
+  "dateTime": "2027-01-31T23:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Austin Peay State University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "van-m",
+   "name": "Vanderbilt University",
+   "side": 2
+  }
+ },
+ {
   "id": "9B8EA9CA-4772-4E87-BE11-3AA0F6EA226A",
   "date": "2027-02-01",
   "dateTime": "2027-02-01T01:00:00.000Z",
@@ -2211,6 +2245,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Lamar University",
+   "side": 2
+  }
+ },
+ {
+  "id": "65A4DD70-C5A6-49BF-8C90-9F2164BC0828",
+  "date": "2027-02-06",
+  "dateTime": "2027-02-06T18:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Alabama State University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "uab-w",
+   "name": "Univ. Of Alabama, Birmingham",
    "side": 2
   }
  },
@@ -3371,6 +3422,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "EA25AC54-FA84-433F-B30F-44FB01F16697",
+  "date": "2027-02-20",
+  "dateTime": "2027-02-20T21:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Alabama State University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ala-m",
+   "name": "University of Alabama",
+   "side": 2
+  }
+ },
+ {
   "id": "5632829E-A53D-4C14-87D0-0A29F118A34D",
   "date": "2027-02-20",
   "dateTime": "2027-02-20T23:00:00.000Z",
@@ -4081,6 +4149,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "uci-w",
    "name": "Univ. Of California, Irvine",
+   "side": 2
+  }
+ },
+ {
+  "id": "1333B55F-9A35-4502-BA0B-EB695746102F",
+  "date": "2027-02-28",
+  "dateTime": "2027-02-28T19:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Alabama A&M University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "uab-w",
+   "name": "Univ. Of Alabama, Birmingham",
    "side": 2
   }
  },
@@ -4931,6 +5016,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "pur-w",
    "name": "Purdue University",
+   "side": 2
+  }
+ },
+ {
+  "id": "29134F66-E4D1-414B-88B0-8A8F61971909",
+  "date": "2027-03-13",
+  "dateTime": "2027-03-13T23:30:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Alabama State University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ark-m",
+   "name": "Univ. Of Arkansas, Fayetteville",
    "side": 2
   }
  },
@@ -6750,6 +6852,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "bay-m",
    "name": "Baylor University",
+   "side": 2
+  }
+ },
+ {
+  "id": "A0C2F725-FE85-4DB1-A601-2D417C806C0F",
+  "date": "2027-04-08",
+  "dateTime": "2027-04-08T18:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Alabama State University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "uab-m",
+   "name": "Univ. Of Alabama, Birmingham",
    "side": 2
   }
  },
