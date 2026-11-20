@@ -90,6 +90,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "6E699D18-9475-41FC-BBC5-34CEF8D63201",
+  "date": "2027-01-13",
+  "dateTime": "2027-01-13T21:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ucd-m",
+   "name": "Univ. Of California, Davis",
+   "side": 2
+  }
+ },
+ {
   "id": "51248177-D8DF-4683-B659-681EE6D2976B",
   "date": "2027-01-14",
   "dateTime": "2027-01-14T06:00:00.000Z",
@@ -583,6 +600,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "1D7AFD61-9A82-4B95-9392-24B1AB6B6D08",
+  "date": "2027-01-18",
+  "dateTime": "2027-01-18T15:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "UNC Greensboro",
+   "side": 2
+  }
+ },
+ {
   "id": "E06E3691-0A98-4B33-A55F-CDE40E6F7802",
   "date": "2027-01-18",
   "dateTime": "2027-01-18T16:00:00.000Z",
@@ -630,6 +664,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "East Tennessee State Univ.",
+   "side": 2
+  }
+ },
+ {
+  "id": "1A658755-B81C-4667-B5CE-AE319486E042",
+  "date": "2027-01-18",
+  "dateTime": "2027-01-18T18:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Morgan State University",
    "side": 2
   }
  },
@@ -753,6 +804,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "6265BECD-E86F-4DB6-A00A-7CB5CC25CC2A",
+  "date": "2027-01-22",
+  "dateTime": "2027-01-22T18:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Longwood University",
+   "side": 2
+  }
+ },
+ {
   "id": "71C7C511-CDCF-4F79-ABB0-58052E6639E4",
   "date": "2027-01-22",
   "dateTime": "2027-01-22T19:00:00.000Z",
@@ -783,6 +851,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Liberty University",
+   "side": 2
+  }
+ },
+ {
+  "id": "AAD1E29E-87F6-43C5-8BA8-0789092F3A56",
+  "date": "2027-01-22",
+  "dateTime": "2027-01-22T23:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Bellarmine University",
    "side": 2
   }
  },
@@ -868,6 +953,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "mem-w",
    "name": "University Of Memphis",
+   "side": 2
+  }
+ },
+ {
+  "id": "849A7AF8-0E1D-45EB-811F-BEFD2FB15C79",
+  "date": "2027-01-23",
+  "dateTime": "2027-01-23T16:30:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "cal-m",
+   "name": "Univ. Of California, Berkeley",
    "side": 2
   }
  },
@@ -1569,6 +1671,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "35669360-3201-4871-9E23-18194765DA85",
+  "date": "2027-01-30",
+  "dateTime": "2027-01-30T18:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "utsa-m",
+   "name": "Univ. Of Texas, San Antonio",
+   "side": 2
+  }
+ },
+ {
   "id": "14C53243-ED3E-4E1E-9143-F5FABF1430E3",
   "date": "2027-01-30",
   "dateTime": "2027-01-30T18:30:00.000Z",
@@ -1650,6 +1769,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "miz-w",
    "name": "University Of Missouri",
+   "side": 2
+  }
+ },
+ {
+  "id": "81D4BDE5-190A-4291-852E-5BE2D72F69DE",
+  "date": "2027-01-30",
+  "dateTime": "2027-01-30T22:30:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Sacramento State University",
    "side": 2
   }
  },
@@ -1756,6 +1892,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "13FF311D-0AD8-4F53-AEC5-57D755A2E836",
+  "date": "2027-01-31",
+  "dateTime": "2027-01-31T17:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Middle Tennessee State University",
+   "side": 2
+  }
+ },
+ {
   "id": "EA5271F8-2BA7-46D2-9836-E9AE925E8372",
   "date": "2027-01-31",
   "dateTime": "2027-01-31T18:00:00.000Z",
@@ -1786,6 +1939,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "utah-w",
    "name": "University Of Utah",
+   "side": 2
+  }
+ },
+ {
+  "id": "321B1672-E271-4E13-9DCD-2713803FAC5E",
+  "date": "2027-01-31",
+  "dateTime": "2027-01-31T19:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "wash-m",
+   "name": "University Of Washington",
    "side": 2
   }
  },
@@ -2024,6 +2194,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "miss-w",
    "name": "University Of Mississippi",
+   "side": 2
+  }
+ },
+ {
+  "id": "40876FE0-F742-4C1A-87B5-F4051EE5C553",
+  "date": "2027-02-05",
+  "dateTime": "2027-02-05T22:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "uk-m",
+   "name": "University Of Kentucky",
    "side": 2
   }
  },
@@ -2300,6 +2487,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "BEF47BA4-39E7-4458-A175-14277D4E2098",
+  "date": "2027-02-06",
+  "dateTime": "2027-02-06T20:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "stan-m",
+   "name": "Stanford University",
+   "side": 2
+  }
+ },
+ {
   "id": "699FD60F-6F71-42B8-BA4D-7F26D22EA52F",
   "date": "2027-02-06",
   "dateTime": "2027-02-06T21:00:00.000Z",
@@ -2453,6 +2657,40 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "47D43756-CAEA-4C06-B215-1CC580976D86",
+  "date": "2027-02-07",
+  "dateTime": "2027-02-07T18:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Lehigh University",
+   "side": 2
+  }
+ },
+ {
+  "id": "E2A91211-2CFB-4E73-8FF2-7481F852524F",
+  "date": "2027-02-07",
+  "dateTime": "2027-02-07T19:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "usf-m",
+   "name": "Univ. Of South Florida",
+   "side": 2
+  }
+ },
+ {
   "id": "2CDFC66D-B2B2-4BDE-AA97-A5FF02DD583C",
   "date": "2027-02-07",
   "dateTime": "2027-02-07T20:00:00.000Z",
@@ -2572,6 +2810,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "68EA4358-20BB-4229-A1C6-B55600B572D4",
+  "date": "2027-02-12",
+  "dateTime": "2027-02-12T18:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "usd-m",
+   "name": "University Of San Diego",
+   "side": 2
+  }
+ },
+ {
   "id": "11EDE2B9-73C4-46BB-AFDA-42FC319DF969",
   "date": "2027-02-12",
   "dateTime": "2027-02-12T21:00:00.000Z",
@@ -2636,6 +2891,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Northern Kentucky Univ.",
+   "side": 2
+  }
+ },
+ {
+  "id": "E42CB34F-D175-45BD-8071-132A0E731EBD",
+  "date": "2027-02-12",
+  "dateTime": "2027-02-12T22:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Old Dominion University",
    "side": 2
   }
  },
@@ -2789,6 +3061,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "miami-w",
    "name": "University Of Miami",
+   "side": 2
+  }
+ },
+ {
+  "id": "38E25361-3CF6-488E-9562-79DE45DB5000",
+  "date": "2027-02-13",
+  "dateTime": "2027-02-13T19:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "San Diego State University",
    "side": 2
   }
  },
@@ -3422,6 +3711,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "9AF23547-5CC8-41B4-96A0-5707B59DA17C",
+  "date": "2027-02-20",
+  "dateTime": "2027-02-20T19:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "uci-m",
+   "name": "Univ. Of California, Irvine",
+   "side": 2
+  }
+ },
+ {
   "id": "EA25AC54-FA84-433F-B30F-44FB01F16697",
   "date": "2027-02-20",
   "dateTime": "2027-02-20T21:00:00.000Z",
@@ -3643,6 +3949,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "DEC17BC7-BCD5-4B9D-A2E8-5532643B6256",
+  "date": "2027-02-21",
+  "dateTime": "2027-02-21T21:30:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ucsb-m",
+   "name": "University Of California, Santa Barbara",
+   "side": 2
+  }
+ },
+ {
   "id": "C097E7FE-B99B-40DD-93B0-48B4E076CEEF",
   "date": "2027-02-22",
   "dateTime": "2027-02-22T22:00:00.000Z",
@@ -3843,6 +4166,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "cuse-w",
    "name": "Syracuse University",
+   "side": 2
+  }
+ },
+ {
+  "id": "41F1F560-D873-44B9-B9B4-126C398CFAF5",
+  "date": "2027-02-26",
+  "dateTime": "2027-02-26T20:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Virginia Commonwealth Univ.",
    "side": 2
   }
  },
@@ -4170,6 +4510,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "3B3C9B95-B436-4E67-8432-D27A3043BD87",
+  "date": "2027-02-28",
+  "dateTime": "2027-02-28T19:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ore-m",
+   "name": "University Of Oregon",
+   "side": 2
+  }
+ },
+ {
   "id": "105B103B-1B3E-46D4-9375-002469918603",
   "date": "2027-02-28",
   "dateTime": "2027-02-28T22:00:00.000Z",
@@ -4408,6 +4765,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "497FC6BD-B8B9-4C75-B979-769F7AA26C64",
+  "date": "2027-03-05",
+  "dateTime": "2027-03-05T22:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "clem-m",
+   "name": "Clemson University",
+   "side": 2
+  }
+ },
+ {
   "id": "3AE641A0-76E4-4257-83C7-2A69B4D255B4",
   "date": "2027-03-05",
   "dateTime": "2027-03-05T23:00:00.000Z",
@@ -4561,6 +4935,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "E49B88CC-4587-4492-9F5B-2DEFFA455224",
+  "date": "2027-03-07",
+  "dateTime": "2027-03-07T16:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "gt-m",
+   "name": "Georgia Tech",
+   "side": 2
+  }
+ },
+ {
   "id": "48144D07-D03B-4B0F-8F22-F89D33CF665F",
   "date": "2027-03-07",
   "dateTime": "2027-03-07T17:00:00.000Z",
@@ -4659,6 +5050,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "gt-m",
    "name": "Georgia Tech",
+   "side": 2
+  }
+ },
+ {
+  "id": "37B21D43-E1B2-4CB7-901B-CBC94044BCFE",
+  "date": "2027-03-07",
+  "dateTime": "2027-03-07T21:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "cpoly-m",
+   "name": "Cal Poly",
    "side": 2
   }
  },
@@ -4884,6 +5292,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "EBE314A3-B114-4861-945D-2790B6EEAA01",
+  "date": "2027-03-12",
+  "dateTime": "2027-03-12T19:30:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ncst-m",
+   "name": "NC State",
+   "side": 2
+  }
+ },
+ {
   "id": "61943EA9-C88B-4F1A-9B72-BF7D99F502B3",
   "date": "2027-03-12",
   "dateTime": "2027-03-12T23:00:00.000Z",
@@ -5016,6 +5441,40 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "pur-w",
    "name": "Purdue University",
+   "side": 2
+  }
+ },
+ {
+  "id": "C3E18566-8186-4B94-A3CB-EA8B6CB24D12",
+  "date": "2027-03-13",
+  "dateTime": "2027-03-13T18:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "byu-m",
+   "name": "Brigham Young University",
+   "side": 2
+  }
+ },
+ {
+  "id": "24CDC629-8343-49E4-A79A-F7D81E93C086",
+  "date": "2027-03-13",
+  "dateTime": "2027-03-13T23:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Creighton University",
    "side": 2
   }
  },
@@ -5220,6 +5679,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "ou-w",
    "name": "University Of Oklahoma",
+   "side": 2
+  }
+ },
+ {
+  "id": "DC83ED00-2359-49BD-ADF5-F34A6A2A84BC",
+  "date": "2027-03-14",
+  "dateTime": "2027-03-14T17:30:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "wake-m",
+   "name": "Wake Forest University",
    "side": 2
   }
  },
@@ -5496,6 +5972,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "37563CD4-A401-4358-8B28-7283F4897754",
+  "date": "2027-03-19",
+  "dateTime": "2027-03-19T21:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "nd-m",
+   "name": "University Of Notre Dame",
+   "side": 2
+  }
+ },
+ {
   "id": "BDC7043F-262B-4BDB-8BB5-A4ABFEEB29AD",
   "date": "2027-03-19",
   "dateTime": "2027-03-19T22:00:00.000Z",
@@ -5717,6 +6210,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "2548E268-90AD-4C2A-8B0B-10D2441436CD",
+  "date": "2027-03-21",
+  "dateTime": "2027-03-21T16:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "lou-m",
+   "name": "University Of Louisville",
+   "side": 2
+  }
+ },
+ {
   "id": "C511EAF7-0AC2-4C2C-9886-579E77A21A06",
   "date": "2027-03-21",
   "dateTime": "2027-03-21T17:00:00.000Z",
@@ -5836,6 +6346,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "2BA942B9-1DF3-4CF6-942B-5506B6291EAB",
+  "date": "2027-03-24",
+  "dateTime": "2027-03-24T18:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Univ. Of Nevada, Las Vegas",
+   "side": 2
+  }
+ },
+ {
   "id": "85CA7A24-7FA9-4EFA-AAC6-98CD83796398",
   "date": "2027-03-24",
   "dateTime": "2027-03-24T19:00:00.000Z",
@@ -5934,6 +6461,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "miz-w",
    "name": "University Of Missouri",
+   "side": 2
+  }
+ },
+ {
+  "id": "ED3FBF3F-849D-4A3A-B32F-E7C7AF9686E9",
+  "date": "2027-03-25",
+  "dateTime": "2027-03-25T19:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "cal-m",
+   "name": "Univ. Of California, Berkeley",
    "side": 2
   }
  },
@@ -6206,6 +6750,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "wvu-w",
    "name": "West Virginia University",
+   "side": 2
+  }
+ },
+ {
+  "id": "D47569D8-843F-466F-946C-59435DB05D50",
+  "date": "2027-03-27",
+  "dateTime": "2027-03-27T15:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "stan-m",
+   "name": "Stanford University",
    "side": 2
   }
  },
@@ -6499,6 +7060,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "4D385356-A800-4AF4-96AF-3114293A943C",
+  "date": "2027-04-02",
+  "dateTime": "2027-04-02T19:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "miami-m",
+   "name": "University Of Miami",
+   "side": 2
+  }
+ },
+ {
   "id": "FF4611F1-40D6-4EC4-96C4-EFA38914E2F2",
   "date": "2027-04-02",
   "dateTime": "2027-04-02T20:00:00.000Z",
@@ -6652,6 +7230,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "7EC6020F-AF1E-48F9-B5AD-1D6C12B66BE5",
+  "date": "2027-04-03",
+  "dateTime": "2027-04-03T20:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "smc-m",
+   "name": "Saint Mary's College/CA",
+   "side": 2
+  }
+ },
+ {
   "id": "AEAC2226-171E-4DF2-B25A-E955BC2A09E1",
   "date": "2027-04-04",
   "dateTime": "2027-04-04T05:00:00.000Z",
@@ -6788,6 +7383,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "6A73FE30-A9C9-4806-998B-7ADC00977CAC",
+  "date": "2027-04-04",
+  "dateTime": "2027-04-04T16:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "fsu-m",
+   "name": "Florida State University",
+   "side": 2
+  }
+ },
+ {
   "id": "C94B321E-58EC-4A8B-8335-311837CF6CD4",
   "date": "2027-04-04",
   "dateTime": "2027-04-04T17:00:00.000Z",
@@ -6801,6 +7413,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "ncst-m",
    "name": "NC State",
+   "side": 2
+  }
+ },
+ {
+  "id": "A1FDD170-4762-46B6-A624-2F8E7F6E2D41",
+  "date": "2027-04-04",
+  "dateTime": "2027-04-04T19:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "pac-m",
+   "name": "University Of The Pacific",
    "side": 2
   }
  },
@@ -6941,6 +7570,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "5FEF332D-C425-4FFF-AAC6-992CC8913B8F",
+  "date": "2027-04-09",
+  "dateTime": "2027-04-09T16:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "vt-m",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "bc-m",
+   "name": "Boston College",
+   "side": 2
+  }
+ },
+ {
   "id": "B49CD5A9-792C-4BF9-9820-FBD8ECB3F7DE",
   "date": "2027-04-09",
   "dateTime": "2027-04-09T17:00:00.000Z",
@@ -6954,6 +7600,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "wsu-w",
    "name": "Washington State Univ.",
+   "side": 2
+  }
+ },
+ {
+  "id": "499C5A25-91E7-45AD-8A72-06C049A45654",
+  "date": "2027-04-09",
+  "dateTime": "2027-04-09T18:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "University Of Denver",
    "side": 2
   }
  },
@@ -7332,6 +7995,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "E089FD15-C2C0-4897-8AE4-45D34788637E",
+  "date": "2027-04-11",
+  "dateTime": "2027-04-11T18:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "port-m",
+   "name": "University Of Portland",
+   "side": 2
+  }
+ },
+ {
   "id": "C2072B24-0C85-42A6-B372-90AB83D100EC",
   "date": "2027-04-11",
   "dateTime": "2027-04-11T18:30:00.000Z",
@@ -7345,6 +8025,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "uab-w",
    "name": "Univ. Of Alabama, Birmingham",
+   "side": 2
+  }
+ },
+ {
+  "id": "BAC930E8-3A70-405C-A740-E131F8336CD4",
+  "date": "2027-04-11",
+  "dateTime": "2027-04-11T22:30:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Menlo College",
    "side": 2
   }
  },
@@ -7430,6 +8127,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Boise State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "B2835BDC-F97A-49B7-B74A-90721B62F954",
+  "date": "2027-04-16",
+  "dateTime": "2027-04-16T19:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "lmu-m",
+   "name": "Loyola Marymount University",
    "side": 2
   }
  },
@@ -7753,6 +8467,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "penn-w",
    "name": "Univ. Of Pennsylvania",
+   "side": 2
+  }
+ },
+ {
+  "id": "2BADBB97-D230-4E75-9D59-29BA69CA4FF4",
+  "date": "2027-04-18",
+  "dateTime": "2027-04-18T18:00:00.000Z",
+  "gender": "men",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "scu-m",
+   "name": "Santa Clara University",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "pepp-m",
+   "name": "Pepperdine University",
    "side": 2
   }
  },

@@ -539,9 +539,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Adan Freire Da Silva",
      "score": "6-4 7-5"
+    },
+    {
+     "id": "at-12181588",
+     "date": "2026-11-20",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Matt Ponchet",
+     "score": "5-7 6-4 7-5"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -581,9 +590,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Mikail Alimli",
      "score": "6-0 6-1"
+    },
+    {
+     "id": "at-12181507",
+     "date": "2026-11-20",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Ilyas Milad Fahim",
+     "score": "6-2 3-1 ret."
     }
    ],
-   "reached": "First",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -1139,6 +1157,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "lsu-m-p4": [
+  {
+   "key": "900013476",
+   "name": "M15 Orlando 3",
+   "date": "2026-11-19",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12181102",
+     "date": "2026-11-19",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Tanishk Konduri",
+     "score": "7-6 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900012250",
    "name": "M15 Naples 4",
@@ -2530,9 +2568,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Demi Tran",
      "score": "6-2 6-0"
+    },
+    {
+     "id": "at-12181602",
+     "date": "2026-11-20",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Marie Mettraux",
+     "score": "6-3 6-1"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -2727,9 +2774,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Dali Blanch",
      "score": "4-6 7-5 6-1"
+    },
+    {
+     "id": "at-12181453",
+     "date": "2026-11-20",
+     "roundId": 9,
+     "round": "QF",
+     "won": false,
+     "opponent": "Fausto Tabacco",
+     "score": "6-2 6-0"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -2991,9 +3047,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Jamie Mackenzie",
      "score": "6-3 2-2 ret."
+    },
+    {
+     "id": "at-12181506",
+     "date": "2026-11-20",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Maximus Dussault",
+     "score": "6-0 6-3"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   }
  ],
@@ -3175,9 +3240,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Marko Topo",
      "score": "6-3 6-2"
+    },
+    {
+     "id": "at-12181452",
+     "date": "2026-11-20",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Filippo Romano",
+     "score": "6-3 6-4"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
