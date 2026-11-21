@@ -517,10 +517,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Matt Ponchet",
      "score": "5-7 6-4 7-5"
+    },
+    {
+     "id": "at-12181767",
+     "date": "2026-11-21",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Carles Hernandez",
+     "score": "6-3 6-3"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "900013396",
@@ -746,6 +755,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
     }
    ],
    "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "fla-m-p9": [
+  {
+   "key": "900013476",
+   "name": "M15 Orlando 3",
+   "date": "2026-11-19",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12181744",
+     "date": "2026-11-21",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Charles Bertimon",
+     "score": "6-2 6-1"
+    }
+   ],
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -1097,9 +1128,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Tanishk Konduri",
      "score": "7-6 6-3"
+    },
+    {
+     "id": "at-12181740",
+     "date": "2026-11-21",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Dakotah Bobo",
+     "score": "6-3 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -2259,10 +2299,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Gavin Young",
      "score": "7-5 6-2"
+    },
+    {
+     "id": "at-12181776",
+     "date": "2026-11-21",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Shunsuke Mitsui",
+     "score": "6-4 6-1"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "900004954",
@@ -2410,10 +2459,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Marie Mettraux",
      "score": "6-3 6-1"
+    },
+    {
+     "id": "at-12181734",
+     "date": "2026-11-21",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Victoria Bosio",
+     "score": "6-3 6-1"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "tamu-w-n1": [
@@ -3082,10 +3140,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Filippo Romano",
      "score": "6-3 6-4"
+    },
+    {
+     "id": "at-12181674",
+     "date": "2026-11-21",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Duje Ajdukovic",
+     "score": "6-2 6-0"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "900013396",
