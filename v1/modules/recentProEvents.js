@@ -105,6 +105,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "ark-m-p3": [
   {
+   "key": "900014884",
+   "name": "San Salvador Challenger",
+   "date": "2026-11-22",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12182016",
+     "date": "2026-11-22",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Volodymyr Gurenko",
+     "score": "3-6 6-2 6-2"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "900002477",
    "name": "Champaign Challenger",
    "date": "2026-11-15",
@@ -495,10 +515,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Carles Hernandez",
      "score": "6-3 6-3"
+    },
+    {
+     "id": "at-12181976",
+     "date": "2026-11-22",
+     "roundId": 12,
+     "round": "Final",
+     "won": true,
+     "opponent": "Pablo Perez Ramos",
+     "score": "6-7(3) 6-1 7-6(5)"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Title",
+   "reachedTone": "gold"
   },
   {
    "key": "900013396",
@@ -546,10 +575,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Ilyas Milad Fahim",
      "score": "6-2 3-1 ret."
+    },
+    {
+     "id": "at-12181745",
+     "date": "2026-11-22",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Oliver Bonding",
+     "score": "6-2 6-3"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "clt-m-fp98": [
@@ -1999,6 +2037,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "rice-m-p1": [
+  {
+   "key": "900014884",
+   "name": "San Salvador Challenger",
+   "date": "2026-11-22",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12182014",
+     "date": "2026-11-22",
+     "roundId": 1,
+     "round": "Q1",
+     "won": true,
+     "opponent": "Niels Peter Van Noord",
+     "score": "6-2 6-1"
+    }
+   ],
+   "reached": "Q1",
+   "reachedTone": "neutral"
+  }
+ ],
  "sc-w-n3": [
   {
    "key": "900012755",
@@ -2284,10 +2344,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Victoria Bosio",
      "score": "6-3 6-1"
+    },
+    {
+     "id": "at-12181932",
+     "date": "2026-11-22",
+     "roundId": 12,
+     "round": "Final",
+     "won": true,
+     "opponent": "Ana Sofia Sanchez",
+     "score": "6-3 6-0"
     }
    ],
-   "reached": "SF",
-   "reachedTone": "green"
+   "reached": "Title",
+   "reachedTone": "gold"
   }
  ],
  "tamu-w-n1": [
@@ -2732,10 +2801,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Maximus Dussault",
      "score": "6-0 6-3"
+    },
+    {
+     "id": "at-12181771",
+     "date": "2026-11-22",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Teodor Davidov",
+     "score": "4-6 6-4 6-4"
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   }
  ],
  "uga-m-p3": [
