@@ -1683,6 +1683,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "gold"
   }
  ],
+ "ou-m-n4": [
+  {
+   "key": "900014884",
+   "name": "San Salvador Challenger",
+   "date": "2026-11-22",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12182394",
+     "date": "2026-11-24",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "J. M. Bolivar Idarraga",
+     "score": "7-6(2) 6-3"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "ou-p4": [
   {
    "key": "900012515",
@@ -1821,13 +1843,42 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Adam Farag-Cao",
      "score": "6-3 6-3"
+    },
+    {
+     "id": "at-12182395",
+     "date": "2026-11-24",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Theodore Dean",
+     "score": "6-3 1-0 ret."
     }
    ],
-   "reached": "Q2",
+   "reached": "First",
    "reachedTone": "neutral"
   }
  ],
  "sc-w-n3": [
+  {
+   "key": "900010838",
+   "name": "W75 Florianópolis",
+   "date": "2026-11-24",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12182407",
+     "date": "2026-11-24",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Carolina Alves",
+     "score": "6-2 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900012755",
    "name": "W35 Sao Paulo 2",
@@ -2656,6 +2707,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "usc-m-p3": [
   {
+   "key": "900014882",
+   "name": "Monastir 2 Challenger",
+   "date": "2026-11-23",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12182226",
+     "date": "2026-11-24",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Federico Iannaccone",
+     "score": "6-3 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "900007123",
    "name": "M25 Monastir 7",
    "date": "2026-11-17",
@@ -2894,6 +2965,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Omar Jasika",
      "score": "6-3 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "wake-m-p5": [
+  {
+   "key": "900012900",
+   "name": "Hersonissos 4 Challenger",
+   "date": "2026-11-23",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12182211",
+     "date": "2026-11-24",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Gilles Arnaud Bailly",
+     "score": "6-2 6-1"
     }
    ],
    "reached": "First",

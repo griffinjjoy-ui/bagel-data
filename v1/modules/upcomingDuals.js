@@ -923,6 +923,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "24806FE5-ED53-452F-8C2F-BBB628663DFB",
+  "date": "2027-01-22",
+  "dateTime": "2027-01-22T18:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Univ. Of Connecticut",
+   "side": 2
+  }
+ },
+ {
   "id": "71C7C511-CDCF-4F79-ABB0-58052E6639E4",
   "date": "2027-01-22",
   "dateTime": "2027-01-22T19:00:00.000Z",
@@ -1212,6 +1229,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "CB452C67-09F2-4210-AC05-008547E9D497",
+  "date": "2027-01-24",
+  "dateTime": "2027-01-24T15:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "uk-w",
+   "name": "University Of Kentucky",
+   "side": 2
+  }
+ },
+ {
   "id": "413BD81A-4472-4383-85E1-AC79BBEE4A16",
   "date": "2027-01-24",
   "dateTime": "2027-01-24T16:00:00.000Z",
@@ -1416,6 +1450,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "6662A5D1-375D-4D5A-8CF3-ABE2B08FFB24",
+  "date": "2027-01-26",
+  "dateTime": "2027-01-26T21:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "brown-w",
+   "name": "Brown University",
+   "side": 2
+  }
+ },
+ {
   "id": "15EBD117-4C88-40AB-A219-BD335BFD6030",
   "date": "2027-01-27",
   "dateTime": "2027-01-27T20:00:00.000Z",
@@ -1599,6 +1650,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Bowling Green State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "F1DEE9D3-1E67-48DA-AB8D-3D5D1571049D",
+  "date": "2027-01-29",
+  "dateTime": "2027-01-29T22:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "harv-w",
+   "name": "Harvard University",
    "side": 2
   }
  },
@@ -2045,6 +2113,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "18828714-667D-47F8-B5D7-3EACD61F024E",
+  "date": "2027-01-31",
+  "dateTime": "2027-01-31T15:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Univ. Of Massachusetts, Amherst",
+   "side": 2
+  }
+ },
+ {
   "id": "0623C19C-248B-4070-97C6-F8726B5E1F24",
   "date": "2027-01-31",
   "dateTime": "2027-01-31T17:00:00.000Z",
@@ -2385,6 +2470,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "1C47BABE-E534-4D65-9879-0680E22EA3CD",
+  "date": "2027-02-05",
+  "dateTime": "2027-02-05T15:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Fairleigh Dickinson - Florham",
+   "side": 2
+  }
+ },
+ {
   "id": "879F1356-9E1A-463F-92E3-37E01AFCD87A",
   "date": "2027-02-05",
   "dateTime": "2027-02-05T18:00:00.000Z",
@@ -2415,6 +2517,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "miss-w",
    "name": "University Of Mississippi",
+   "side": 2
+  }
+ },
+ {
+  "id": "02E5D315-56D6-4E87-969E-3CCF77A77F9B",
+  "date": "2027-02-05",
+  "dateTime": "2027-02-05T19:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "U.S. Military Academy",
    "side": 2
   }
  },
@@ -2844,6 +2963,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "0BB9B040-0E23-4A52-9227-63841BF6B6E3",
+  "date": "2027-02-07",
+  "dateTime": "2027-02-07T15:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "pur-w",
+   "name": "Purdue University",
+   "side": 2
+  }
+ },
+ {
   "id": "94A3B97B-4995-4654-A0A1-88011F78007F",
   "date": "2027-02-07",
   "dateTime": "2027-02-07T16:00:00.000Z",
@@ -3078,6 +3214,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "pur-w",
    "name": "Purdue University",
+   "side": 2
+  }
+ },
+ {
+  "id": "EAACB453-D991-45B3-9A29-44DD92B56B08",
+  "date": "2027-02-12",
+  "dateTime": "2027-02-12T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Boston University",
    "side": 2
   }
  },
@@ -4544,6 +4697,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "681A9379-A693-4830-B4FE-080C1B91D55D",
+  "date": "2027-02-26",
+  "dateTime": "2027-02-26T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "nd-w",
+   "name": "University of Notre Dame",
+   "side": 2
+  }
+ },
+ {
   "id": "CA1FCAA9-886B-44E8-BE45-7AC6102BE93C",
   "date": "2027-02-26",
   "dateTime": "2027-02-26T18:00:00.000Z",
@@ -4557,23 +4727,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Tarleton State Univ.",
-   "side": 2
-  }
- },
- {
-  "id": "E7C7D13A-8A2C-479D-A64D-EF76217D046E",
-  "date": "2027-02-26",
-  "dateTime": "2027-02-26T19:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": null,
-   "name": "Stonehill College",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "bc-w",
-   "name": "Boston College",
    "side": 2
   }
  },
@@ -4642,6 +4795,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": null,
    "name": "Virginia Commonwealth Univ.",
+   "side": 2
+  }
+ },
+ {
+  "id": "E7C7D13A-8A2C-479D-A64D-EF76217D046E",
+  "date": "2027-02-26",
+  "dateTime": "2027-02-26T21:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Stonehill College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "bc-w",
+   "name": "Boston College",
    "side": 2
   }
  },
@@ -4867,6 +5037,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "C6DC49BB-75B4-4BA1-A420-CAF7336EAD5F",
+  "date": "2027-02-28",
+  "dateTime": "2027-02-28T15:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "lou-w",
+   "name": "University Of Louisville",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 2
+  }
+ },
+ {
   "id": "3380C258-5485-4928-AA4D-B2CE7723CEA8",
   "date": "2027-02-28",
   "dateTime": "2027-02-28T15:00:00.000Z",
@@ -4897,23 +5084,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "van-w",
    "name": "Vanderbilt University",
-   "side": 2
-  }
- },
- {
-  "id": "C6DC49BB-75B4-4BA1-A420-CAF7336EAD5F",
-  "date": "2027-02-28",
-  "dateTime": "2027-02-28T17:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": true,
-  "t1": {
-   "teamId": "lou-w",
-   "name": "University Of Louisville",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "bc-w",
-   "name": "Boston College",
    "side": 2
   }
  },
@@ -5275,6 +5445,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "C39BF59B-5BD4-414E-BE45-BA306EF00F75",
+  "date": "2027-03-05",
+  "dateTime": "2027-03-05T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "ncst-w",
+   "name": "North Carolina State Univ.",
+   "side": 2
+  }
+ },
+ {
   "id": "0A3468FD-3889-4A70-A9EE-4BB7AFCCFCF7",
   "date": "2027-03-05",
   "dateTime": "2027-03-05T18:00:00.000Z",
@@ -5322,6 +5509,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "nw-w",
    "name": "Northwestern University",
+   "side": 2
+  }
+ },
+ {
+  "id": "3427747F-8563-4F8F-8B64-98045EF415B2",
+  "date": "2027-03-05",
+  "dateTime": "2027-03-05T21:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Holy Cross",
    "side": 2
   }
  },
@@ -6720,6 +6924,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "9D7E18C8-BF62-4C33-8A6C-630722E4CB1F",
+  "date": "2027-03-20",
+  "dateTime": "2027-03-20T15:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "cuse-w",
+   "name": "Syracuse University",
+   "side": 2
+  }
+ },
+ {
   "id": "24ED696F-522F-4471-AA08-4FD8D606AC7B",
   "date": "2027-03-20",
   "dateTime": "2027-03-20T16:00:00.000Z",
@@ -6835,6 +7056,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "fsu-w",
    "name": "Florida State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "8E0242FD-B89F-47F0-8E3F-C6CF01A5BC66",
+  "date": "2027-03-21",
+  "dateTime": "2027-03-21T14:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": null,
+   "name": "Cornell College",
    "side": 2
   }
  },
@@ -7536,6 +7774,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "3B9F0E51-61C5-4E02-B05F-9351FD17A540",
+  "date": "2027-03-27",
+  "dateTime": "2027-03-27T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "unt-w",
+   "name": "Univ. Of North Texas",
+   "side": 2
+  }
+ },
+ {
   "id": "6CB9C181-4CB1-40DA-81AA-144A20C578D0",
   "date": "2027-03-27",
   "dateTime": "2027-03-27T18:00:00.000Z",
@@ -7651,6 +7906,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "osu-w",
    "name": "Ohio State University",
+   "side": 2
+  }
+ },
+ {
+  "id": "ACC66552-78FA-4020-B123-7D88F00C92DC",
+  "date": "2027-03-28",
+  "dateTime": "2027-03-28T17:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "smu-w",
+   "name": "Southern Methodist Univ.",
    "side": 2
   }
  },
@@ -7872,6 +8144,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "wake-w",
    "name": "Wake Forest University",
+   "side": 2
+  }
+ },
+ {
+  "id": "7AEA7479-0839-4672-A912-D7086FE2981A",
+  "date": "2027-04-02",
+  "dateTime": "2027-04-02T20:30:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "unc-w",
+   "name": "UNC Chapel Hill",
    "side": 2
   }
  },
@@ -8127,6 +8416,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "uga-w",
    "name": "University Of Georgia",
+   "side": 2
+  }
+ },
+ {
+  "id": "B0409AA0-4788-4433-9D8D-EF5A7E7E1334",
+  "date": "2027-04-04",
+  "dateTime": "2027-04-04T14:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "duke-w",
+   "name": "Duke University",
    "side": 2
   }
  },
@@ -8488,6 +8794,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "784FC370-51DD-41D1-9998-B1D142EAF077",
+  "date": "2027-04-09",
+  "dateTime": "2027-04-09T20:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "uva-w",
+   "name": "University Of Virginia",
+   "side": 2
+  }
+ },
+ {
   "id": "B585F1CC-D3D3-47B2-8452-2BD25484A7FE",
   "date": "2027-04-09",
   "dateTime": "2027-04-09T21:00:00.000Z",
@@ -8726,6 +9049,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "81797334-F374-41B3-90AF-97DD69CD8EE9",
+  "date": "2027-04-11",
+  "dateTime": "2027-04-11T16:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "vt-w",
+   "name": "Virginia Tech",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 2
+  }
+ },
+ {
   "id": "30FD10CD-10CD-4240-B4BA-D15AB43C064B",
   "date": "2027-04-11",
   "dateTime": "2027-04-11T16:00:00.000Z",
@@ -8773,23 +9113,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "umd-w",
    "name": "University Of Maryland/College Park",
-   "side": 2
-  }
- },
- {
-  "id": "81797334-F374-41B3-90AF-97DD69CD8EE9",
-  "date": "2027-04-11",
-  "dateTime": "2027-04-11T17:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": true,
-  "t1": {
-   "teamId": "vt-w",
-   "name": "Virginia Tech",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "bc-w",
-   "name": "Boston College",
    "side": 2
   }
  },
@@ -9083,6 +9406,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
+  "id": "8109F386-8143-4756-B38E-A738F4D3AA6A",
+  "date": "2027-04-16",
+  "dateTime": "2027-04-16T20:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "gt-w",
+   "name": "Georgia Tech",
+   "side": 2
+  }
+ },
+ {
   "id": "94407FD1-376B-438F-92F2-AD8E5DAEC649",
   "date": "2027-04-16",
   "dateTime": "2027-04-16T22:00:00.000Z",
@@ -9368,6 +9708,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "smu-w",
    "name": "Southern Methodist Univ.",
+   "side": 2
+  }
+ },
+ {
+  "id": "E7648DE1-6F97-4EF6-BB60-42B44CA86857",
+  "date": "2027-04-18",
+  "dateTime": "2027-04-18T16:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": true,
+  "t1": {
+   "teamId": "bc-w",
+   "name": "Boston College",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "clem-w",
+   "name": "Clemson University",
    "side": 2
   }
  },
