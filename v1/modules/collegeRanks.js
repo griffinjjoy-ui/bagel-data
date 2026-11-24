@@ -1988,35 +1988,17 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_men_teams_p83_v1",
   "region": "Texas"
  },
- "osu-m": {
-  "rank": 1,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p74_v1",
-  "region": "Midwest"
- },
  "tcu-m": {
   "rank": 2,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_men_teams_p83_v1",
   "region": "Texas"
  },
- "uva-m": {
+ "osu-m": {
   "rank": 1,
   "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p71_v1",
-  "region": "Atlantic"
- },
- "lsu-m": {
-  "rank": 2,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p81_v1",
-  "region": "Southern"
- },
- "msst-m": {
-  "rank": 1,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p81_v1",
-  "region": "Southern"
+  "listId": "2025-26_d1_men_teams_p74_v1",
+  "region": "Midwest"
  },
  "wake-m": {
   "rank": 1,
@@ -2024,17 +2006,35 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_men_teams_p72_v1",
   "region": "Carolina"
  },
- "ou-m": {
+ "uva-m": {
   "rank": 1,
   "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p73_v1",
-  "region": "Central"
+  "listId": "2025-26_d1_men_teams_p71_v1",
+  "region": "Atlantic"
+ },
+ "msst-m": {
+  "rank": 1,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p81_v1",
+  "region": "Southern"
+ },
+ "lsu-m": {
+  "rank": 2,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p81_v1",
+  "region": "Southern"
  },
  "ariz-m": {
   "rank": 1,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_men_teams_p82_v1",
   "region": "Southwest"
+ },
+ "ou-m": {
+  "rank": 1,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p73_v1",
+  "region": "Central"
  },
  "tamu-m": {
   "rank": 4,
@@ -2060,14 +2060,20 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_men_teams_p72_v1",
   "region": "Carolina"
  },
+ "ill-m": {
+  "rank": 2,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p74_v1",
+  "region": "Midwest"
+ },
  "ucf-m": {
   "rank": 2,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_men_teams_p80_v1",
   "region": "Southeast"
  },
- "ill-m": {
-  "rank": 2,
+ "msu-m": {
+  "rank": 3,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_men_teams_p74_v1",
   "region": "Midwest"
@@ -2084,12 +2090,6 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_men_teams_p78_v1",
   "region": "Northwest"
  },
- "aub-m": {
-  "rank": 3,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p81_v1",
-  "region": "Southern"
- },
  "fla-m": {
   "rank": 3,
   "listDate": "2026-06-03",
@@ -2102,17 +2102,11 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_men_teams_p82_v1",
   "region": "Southwest"
  },
- "van-m": {
-  "rank": 1,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p79_v1",
-  "region": "Ohio Valley"
- },
- "msu-m": {
+ "aub-m": {
   "rank": 3,
   "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p74_v1",
-  "region": "Midwest"
+  "listId": "2025-26_d1_men_teams_p81_v1",
+  "region": "Southern"
  },
  "nd-m": {
   "rank": 4,
@@ -2120,11 +2114,11 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_men_teams_p74_v1",
   "region": "Midwest"
  },
- "miss-m": {
-  "rank": 4,
+ "van-m": {
+  "rank": 1,
   "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p81_v1",
-  "region": "Southern"
+  "listId": "2025-26_d1_men_teams_p79_v1",
+  "region": "Ohio Valley"
  },
  "uk-m": {
   "rank": 2,
@@ -2144,6 +2138,18 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_men_teams_p82_v1",
   "region": "Southwest"
  },
+ "miss-m": {
+  "rank": 4,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p81_v1",
+  "region": "Southern"
+ },
+ "corn-m": {
+  "rank": 1,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p76_v1",
+  "region": "New England"
+ },
  "ncst-m": {
   "rank": 3,
   "listDate": "2026-06-03",
@@ -2156,17 +2162,11 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_men_teams_p82_v1",
   "region": "Southwest"
  },
- "corn-m": {
-  "rank": 1,
+ "smu-m": {
+  "rank": 5,
   "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p76_v1",
-  "region": "New England"
- },
- "clem-m": {
-  "rank": 4,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p72_v1",
-  "region": "Carolina"
+  "listId": "2025-26_d1_men_teams_p83_v1",
+  "region": "Texas"
  },
  "wisc-m": {
   "rank": 5,
@@ -2174,11 +2174,11 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_men_teams_p74_v1",
   "region": "Midwest"
  },
- "smu-m": {
-  "rank": 5,
+ "clem-m": {
+  "rank": 4,
   "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p83_v1",
-  "region": "Texas"
+  "listId": "2025-26_d1_men_teams_p72_v1",
+  "region": "Carolina"
  },
  "ucsb-m": {
   "rank": 7,
@@ -2186,17 +2186,11 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_men_teams_p82_v1",
   "region": "Southwest"
  },
- "ark-m": {
-  "rank": 2,
+ "scu-m": {
+  "rank": 3,
   "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p73_v1",
-  "region": "Central"
- },
- "yale-m": {
-  "rank": 2,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p76_v1",
-  "region": "New England"
+  "listId": "2025-26_d1_men_teams_p78_v1",
+  "region": "Northwest"
  },
  "prin-m": {
   "rank": 2,
@@ -2204,35 +2198,17 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_men_teams_p77_v1",
   "region": "Northeast"
  },
+ "ark-m": {
+  "rank": 2,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p73_v1",
+  "region": "Central"
+ },
  "mich-m": {
   "rank": 6,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_men_teams_p74_v1",
   "region": "Midwest"
- },
- "penn-m": {
-  "rank": 3,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p77_v1",
-  "region": "Northeast"
- },
- "harv-m": {
-  "rank": 3,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p76_v1",
-  "region": "New England"
- },
- "okst-m": {
-  "rank": 3,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p73_v1",
-  "region": "Central"
- },
- "scu-m": {
-  "rank": 3,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p78_v1",
-  "region": "Northwest"
  },
  "duke-m": {
   "rank": 6,
@@ -2252,59 +2228,35 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_men_teams_p78_v1",
   "region": "Northwest"
  },
+ "penn-m": {
+  "rank": 3,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p77_v1",
+  "region": "Northeast"
+ },
+ "yale-m": {
+  "rank": 2,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p76_v1",
+  "region": "New England"
+ },
+ "okst-m": {
+  "rank": 3,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p73_v1",
+  "region": "Central"
+ },
+ "harv-m": {
+  "rank": 3,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p76_v1",
+  "region": "New England"
+ },
  "rice-m": {
   "rank": 6,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_men_teams_p83_v1",
   "region": "Texas"
- },
- "ala-m": {
-  "rank": 5,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p81_v1",
-  "region": "Southern"
- },
- "ore-m": {
-  "rank": 4,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p78_v1",
-  "region": "Northwest"
- },
- "lmu-m": {
-  "rank": 8,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p82_v1",
-  "region": "Southwest"
- },
- "clt-m": {
-  "rank": 7,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p72_v1",
-  "region": "Carolina"
- },
- "ind-m": {
-  "rank": 4,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p79_v1",
-  "region": "Ohio Valley"
- },
- "tenn-m": {
-  "rank": 6,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p79_v1",
-  "region": "Ohio Valley"
- },
- "gt-m": {
-  "rank": 6,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p80_v1",
-  "region": "Southeast"
- },
- "mem-m": {
-  "rank": 6,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p73_v1",
-  "region": "Central"
  },
  "fsu-m": {
   "rank": 5,
@@ -2312,14 +2264,56 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_men_teams_p80_v1",
   "region": "Southeast"
  },
+ "ala-m": {
+  "rank": 5,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p81_v1",
+  "region": "Southern"
+ },
+ "clt-m": {
+  "rank": 7,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p72_v1",
+  "region": "Carolina"
+ },
  "neb-m": {
   "rank": 5,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_men_teams_p73_v1",
   "region": "Central"
  },
- "lou-m": {
-  "rank": 5,
+ "tulsa-m": {
+  "rank": 4,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p73_v1",
+  "region": "Central"
+ },
+ "ore-m": {
+  "rank": 4,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p78_v1",
+  "region": "Northwest"
+ },
+ "ind-m": {
+  "rank": 4,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p79_v1",
+  "region": "Ohio Valley"
+ },
+ "lmu-m": {
+  "rank": 8,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p82_v1",
+  "region": "Southwest"
+ },
+ "gt-m": {
+  "rank": 6,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p80_v1",
+  "region": "Southeast"
+ },
+ "tenn-m": {
+  "rank": 6,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_men_teams_p79_v1",
   "region": "Ohio Valley"
@@ -2329,6 +2323,18 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_men_teams_p80_v1",
   "region": "Southeast"
+ },
+ "lou-m": {
+  "rank": 5,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p79_v1",
+  "region": "Ohio Valley"
+ },
+ "mem-m": {
+  "rank": 6,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p73_v1",
+  "region": "Central"
  },
  "nw-m": {
   "rank": 7,
@@ -2342,29 +2348,23 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_men_teams_p73_v1",
   "region": "Central"
  },
+ "uci-m": {
+  "rank": 10,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p82_v1",
+  "region": "Southwest"
+ },
  "ttu-m": {
   "rank": 7,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_men_teams_p83_v1",
   "region": "Texas"
  },
- "dart-m": {
-  "rank": 4,
+ "aub-w": {
+  "rank": 1,
   "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p76_v1",
-  "region": "New England"
- },
- "byu-m": {
-  "rank": 5,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p75_v1",
-  "region": "Mountain"
- },
- "tulsa-m": {
-  "rank": 4,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p73_v1",
-  "region": "Central"
+  "listId": "2025-26_d1_women_teams_p77_v1",
+  "region": "Southern"
  },
  "uga-w": {
   "rank": 1,
@@ -2378,18 +2378,6 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_women_teams_p80_v1",
   "region": "Texas"
  },
- "aub-w": {
-  "rank": 1,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p77_v1",
-  "region": "Southern"
- },
- "ou-w": {
-  "rank": 1,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p73_v1",
-  "region": "Central"
- },
  "osu-w": {
   "rank": 1,
   "listDate": "2026-06-03",
@@ -2402,11 +2390,23 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_women_teams_p72_v1",
   "region": "Carolina"
  },
+ "ou-w": {
+  "rank": 1,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p73_v1",
+  "region": "Central"
+ },
  "uva-w": {
   "rank": 1,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_women_teams_p71_v1",
   "region": "Atlantic"
+ },
+ "ncst-w": {
+  "rank": 2,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p72_v1",
+  "region": "Carolina"
  },
  "tex-w": {
   "rank": 2,
@@ -2414,11 +2414,35 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_women_teams_p80_v1",
   "region": "Texas"
  },
+ "lsu-w": {
+  "rank": 2,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p77_v1",
+  "region": "Southern"
+ },
  "pepp-w": {
   "rank": 1,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_women_teams_p78_v1",
   "region": "Southwest"
+ },
+ "mich-w": {
+  "rank": 2,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p74_v1",
+  "region": "Midwest"
+ },
+ "van-w": {
+  "rank": 1,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p76_v1",
+  "region": "Ohio Valley"
+ },
+ "duke-w": {
+  "rank": 3,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p72_v1",
+  "region": "Carolina"
  },
  "asu-w": {
   "rank": 4,
@@ -2432,23 +2456,11 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_women_teams_p79_v1",
   "region": "Southeast"
  },
- "ncst-w": {
-  "rank": 2,
+ "ucla-w": {
+  "rank": 3,
   "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p72_v1",
-  "region": "Carolina"
- },
- "van-w": {
-  "rank": 1,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p76_v1",
-  "region": "Ohio Valley"
- },
- "lsu-w": {
-  "rank": 2,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p77_v1",
-  "region": "Southern"
+  "listId": "2025-26_d1_women_teams_p78_v1",
+  "region": "Southwest"
  },
  "tenn-w": {
   "rank": 2,
@@ -2456,41 +2468,11 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_women_teams_p76_v1",
   "region": "Ohio Valley"
  },
- "mich-w": {
-  "rank": 2,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p74_v1",
-  "region": "Midwest"
- },
- "duke-w": {
-  "rank": 3,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p72_v1",
-  "region": "Carolina"
- },
- "ucla-w": {
-  "rank": 3,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p78_v1",
-  "region": "Southwest"
- },
  "ucf-w": {
   "rank": 3,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_women_teams_p79_v1",
   "region": "Southeast"
- },
- "cal-w": {
-  "rank": 1,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p83_v1",
-  "region": "Northwest"
- },
- "wash-w": {
-  "rank": 2,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p83_v1",
-  "region": "Northwest"
  },
  "tcu-w": {
   "rank": 3,
@@ -2498,11 +2480,29 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_women_teams_p80_v1",
   "region": "Texas"
  },
+ "wash-w": {
+  "rank": 2,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p83_v1",
+  "region": "Northwest"
+ },
+ "cal-w": {
+  "rank": 1,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p83_v1",
+  "region": "Northwest"
+ },
  "clem-w": {
   "rank": 4,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_women_teams_p72_v1",
   "region": "Carolina"
+ },
+ "wisc-w": {
+  "rank": 3,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p74_v1",
+  "region": "Midwest"
  },
  "smu-w": {
   "rank": 4,
@@ -2516,30 +2516,6 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_women_teams_p78_v1",
   "region": "Southwest"
  },
- "sc-w": {
-  "rank": 5,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p72_v1",
-  "region": "Carolina"
- },
- "wich-w": {
-  "rank": 2,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p73_v1",
-  "region": "Central"
- },
- "wisc-w": {
-  "rank": 3,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p74_v1",
-  "region": "Midwest"
- },
- "clt-w": {
-  "rank": 6,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p72_v1",
-  "region": "Carolina"
- },
  "ttu-w": {
   "rank": 5,
   "listDate": "2026-06-03",
@@ -2552,11 +2528,53 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_women_teams_p83_v1",
   "region": "Northwest"
  },
+ "clt-w": {
+  "rank": 6,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p72_v1",
+  "region": "Carolina"
+ },
+ "sc-w": {
+  "rank": 5,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p72_v1",
+  "region": "Carolina"
+ },
+ "umd-w": {
+  "rank": 2,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p71_v1",
+  "region": "Atlantic"
+ },
+ "wich-w": {
+  "rank": 2,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p73_v1",
+  "region": "Central"
+ },
+ "nd-w": {
+  "rank": 4,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p74_v1",
+  "region": "Midwest"
+ },
+ "yale-w": {
+  "rank": 1,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p81_v1",
+  "region": "New England"
+ },
  "bay-w": {
   "rank": 6,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_women_teams_p80_v1",
   "region": "Texas"
+ },
+ "byu-w": {
+  "rank": 1,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p75_v1",
+  "region": "Mountain"
  },
  "utah-w": {
   "rank": 2,
@@ -2570,17 +2588,17 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_women_teams_p73_v1",
   "region": "Central"
  },
- "byu-w": {
-  "rank": 1,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p75_v1",
-  "region": "Mountain"
- },
  "miss-w": {
   "rank": 3,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_women_teams_p77_v1",
   "region": "Southern"
+ },
+ "rice-w": {
+  "rank": 7,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p80_v1",
+  "region": "Texas"
  },
  "prin-w": {
   "rank": 1,
@@ -2588,11 +2606,11 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_women_teams_p82_v1",
   "region": "Northeast"
  },
- "yale-w": {
-  "rank": 1,
+ "okst-w": {
+  "rank": 4,
   "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p81_v1",
-  "region": "New England"
+  "listId": "2025-26_d1_women_teams_p73_v1",
+  "region": "Central"
  },
  "hou-w": {
   "rank": 8,
@@ -2600,32 +2618,44 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_women_teams_p80_v1",
   "region": "Texas"
  },
+ "ill-w": {
+  "rank": 5,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p74_v1",
+  "region": "Midwest"
+ },
+ "iowa-w": {
+  "rank": 5,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p73_v1",
+  "region": "Central"
+ },
+ "colum-w": {
+  "rank": 2,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p82_v1",
+  "region": "Northeast"
+ },
  "neb-w": {
   "rank": 6,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_women_teams_p73_v1",
   "region": "Central"
  },
- "okst-w": {
-  "rank": 4,
+ "ucsb-w": {
+  "rank": 6,
   "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p73_v1",
-  "region": "Central"
+  "listId": "2025-26_d1_women_teams_p78_v1",
+  "region": "Southwest"
  },
- "nd-w": {
-  "rank": 4,
+ "usd-w": {
+  "rank": 8,
   "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p74_v1",
-  "region": "Midwest"
+  "listId": "2025-26_d1_women_teams_p78_v1",
+  "region": "Southwest"
  },
- "umd-w": {
-  "rank": 2,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p71_v1",
-  "region": "Atlantic"
- },
- "iowa-w": {
-  "rank": 5,
+ "ark-w": {
+  "rank": 7,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_women_teams_p73_v1",
   "region": "Central"
@@ -2635,36 +2665,6 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_women_teams_p77_v1",
   "region": "Southern"
- },
- "ucsb-w": {
-  "rank": 6,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p78_v1",
-  "region": "Southwest"
- },
- "colum-w": {
-  "rank": 2,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p82_v1",
-  "region": "Northeast"
- },
- "usd-w": {
-  "rank": 8,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p78_v1",
-  "region": "Southwest"
- },
- "rice-w": {
-  "rank": 7,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p80_v1",
-  "region": "Texas"
- },
- "ark-w": {
-  "rank": 7,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p73_v1",
-  "region": "Central"
  },
  "ala-w": {
   "rank": 4,
@@ -2678,11 +2678,29 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_women_teams_p74_v1",
   "region": "Midwest"
  },
- "ill-w": {
-  "rank": 5,
+ "wake-w": {
+  "rank": 7,
   "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p74_v1",
-  "region": "Midwest"
+  "listId": "2025-26_d1_women_teams_p72_v1",
+  "region": "Carolina"
+ },
+ "gt-w": {
+  "rank": 6,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p79_v1",
+  "region": "Southeast"
+ },
+ "harv-w": {
+  "rank": 2,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p81_v1",
+  "region": "New England"
+ },
+ "brown-w": {
+  "rank": 3,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p81_v1",
+  "region": "New England"
  },
  "bc-w": {
   "rank": 5,
@@ -2696,47 +2714,23 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_women_teams_p81_v1",
   "region": "New England"
  },
- "wake-w": {
-  "rank": 7,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p72_v1",
-  "region": "Carolina"
- },
- "gt-w": {
-  "rank": 6,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p79_v1",
-  "region": "Southeast"
- },
- "brown-w": {
-  "rank": 3,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p81_v1",
-  "region": "New England"
- },
  "msu-w": {
   "rank": 7,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_women_teams_p74_v1",
   "region": "Midwest"
  },
- "harv-w": {
-  "rank": 2,
+ "ind-w": {
+  "rank": 3,
   "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p81_v1",
-  "region": "New England"
+  "listId": "2025-26_d1_women_teams_p76_v1",
+  "region": "Ohio Valley"
  },
  "ore-w": {
   "rank": 4,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_women_teams_p83_v1",
   "region": "Northwest"
- },
- "ind-w": {
-  "rank": 3,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p76_v1",
-  "region": "Ohio Valley"
  },
  "penn-w": {
   "rank": 4,
@@ -2749,24 +2743,6 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_women_teams_p75_v1",
   "region": "Mountain"
- },
- "cpoly-m": {
-  "rank": 72,
-  "listDate": "2026-04-21",
-  "listId": "2025-26_d1_men_teams_p14_v11",
-  "region": null
- },
- "uci-m": {
-  "rank": 10,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_men_teams_p82_v1",
-  "region": "Southwest"
- },
- "cuse-w": {
-  "rank": 7,
-  "listDate": "2026-06-03",
-  "listId": "2025-26_d1_women_teams_p81_v1",
-  "region": "New England"
  },
  "vt-m": {
   "rank": 4,
@@ -2816,11 +2792,23 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listId": "2025-26_d1_men_teams_p79_v1",
   "region": "Ohio Valley"
  },
+ "byu-m": {
+  "rank": 5,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p75_v1",
+  "region": "Mountain"
+ },
  "utah-m": {
   "rank": 7,
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_men_teams_p75_v1",
   "region": "Mountain"
+ },
+ "dart-m": {
+  "rank": 4,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_men_teams_p76_v1",
+  "region": "New England"
  },
  "brown-m": {
   "rank": 6,
@@ -2851,6 +2839,12 @@ export const teamItaRanks = globalThis.__BAGEL_REMOTE__?.["collegeRanks"]?.teamI
   "listDate": "2026-06-03",
   "listId": "2025-26_d1_women_teams_p76_v1",
   "region": "Ohio Valley"
+ },
+ "cuse-w": {
+  "rank": 7,
+  "listDate": "2026-06-03",
+  "listId": "2025-26_d1_women_teams_p81_v1",
+  "region": "New England"
  },
  "corn-w": {
   "rank": 8,
