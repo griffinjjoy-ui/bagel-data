@@ -830,6 +830,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "lmu-m-p2": [
+  {
+   "key": "900014884",
+   "name": "San Salvador Challenger",
+   "date": "2026-11-22",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12182041",
+     "date": "2026-11-24",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Joaquin Guilleme",
+     "score": "7-5 7-5"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "lsu-m-n2": [
   {
    "key": "900004954",
@@ -1326,6 +1348,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "okst-m-p6": [
   {
+   "key": "900003191",
+   "name": "Playford 2 Challenger",
+   "date": "2026-11-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12182142",
+     "date": "2026-11-23",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Chen Dong",
+     "score": "6-3 3-6 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "900002628",
    "name": "Sydney Challenger",
    "date": "2026-11-15",
@@ -1704,6 +1746,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
   }
  ],
  "pepp-m-p6": [
+  {
+   "key": "900003191",
+   "name": "Playford 2 Challenger",
+   "date": "2026-11-21",
+   "surface": "Hard",
+   "tier": "Challenger",
+   "matches": [
+    {
+     "id": "at-12181810",
+     "date": "2026-11-24",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Li Tu",
+     "score": "7-6(4) 7-6(3)"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
   {
    "key": "900002628",
    "name": "Sydney Challenger",
@@ -2225,6 +2287,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": false,
      "opponent": "Andrea Lazaro Garcia",
      "score": "6-7(3) 7-5 6-4"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
+ "tenn-w-n2": [
+  {
+   "key": "900011901",
+   "name": "W75 Playford",
+   "date": "2026-11-23",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12182138",
+     "date": "2026-11-23",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Astra Sharma",
+     "score": "7-6(1) 6-1"
     }
    ],
    "reached": "First",
