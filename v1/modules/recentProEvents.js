@@ -631,6 +631,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "fla-p8": [
+  {
+   "key": "900004499",
+   "name": "W15 Monastir 33",
+   "date": "2026-11-25",
+   "surface": "Hard",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12182597",
+     "date": "2026-11-25",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Romane Longueville",
+     "score": "6-1 6-1"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "fla-w-n1": [
   {
    "key": "900013439",
@@ -1616,9 +1638,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "J. M. Bolivar Idarraga",
      "score": "7-6(2) 6-3"
+    },
+    {
+     "id": "at-12182658",
+     "date": "2026-11-25",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Joaquin Guilleme",
+     "score": "6-2 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -1941,6 +1972,26 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
  ],
  "tamu-p5": [
   {
+   "key": "900010838",
+   "name": "W75 Florianópolis",
+   "date": "2026-11-24",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12182410",
+     "date": "2026-11-25",
+     "roundId": 4,
+     "round": "First",
+     "won": true,
+     "opponent": "Ana Candiotto",
+     "score": "6-4 6-2"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  },
+  {
    "key": "900012755",
    "name": "W35 Sao Paulo 2",
    "date": "2026-11-16",
@@ -2223,9 +2274,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Sandro Kopp",
      "score": "5-7 6-3 6-2"
+    },
+    {
+     "id": "at-12182382",
+     "date": "2026-11-25",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Robert Strombachs",
+     "score": "6-3 6-3"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -2562,9 +2622,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Federico Iannaccone",
      "score": "6-3 6-4"
+    },
+    {
+     "id": "at-12182500",
+     "date": "2026-11-25",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Kimmer Coppejans",
+     "score": "7-5 4-6 7-5"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {

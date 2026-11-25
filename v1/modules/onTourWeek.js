@@ -5,6 +5,32 @@
 // on the ITF/Challenger/WTA-ATP circuit right now, ranked or not.
 export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWeek ?? [
  {
+  "playerId": "bay-w-h13",
+  "name": "Alicia Herrero Linana",
+  "teamId": "bay-w",
+  "teamName": "Baylor",
+  "gender": "women",
+  "event": "Buenos Aires Challenger",
+  "round": "Second",
+  "won": true,
+  "opponent": "Ariana Geerlings Martinez",
+  "result": "7-5 7-5",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "ucsb-w-h3",
+  "name": "Amelia Honer",
+  "teamId": "ucsb-w",
+  "teamName": "UC Santa Barbara",
+  "gender": "women",
+  "event": "W15 Lousada",
+  "round": "First",
+  "won": true,
+  "opponent": "Paula Cembranos",
+  "result": "6-2 6-2",
+  "date": "2026-11-25"
+ },
+ {
   "playerId": "neb-m-h9",
   "name": "Anton Shepp",
   "teamId": "neb-m",
@@ -15,6 +41,32 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Moerani Bouzige",
   "result": "6-4 7-6(5)",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "wash-w-h8",
+  "name": "Astrid Olsen",
+  "teamId": "wash-w",
+  "teamName": "Washington",
+  "gender": "women",
+  "event": "W15 Monastir 33",
+  "round": "First",
+  "won": true,
+  "opponent": "Margaux Komano",
+  "result": "6-2 6-2",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "colo-w-h1",
+  "name": "Aya El Sayed",
+  "teamId": "colo-w",
+  "teamName": "Colorado",
+  "gender": "women",
+  "event": "W15 Sharm ElSheikh 21",
+  "round": "First",
+  "won": true,
+  "opponent": "K. Pleshivtseva",
+  "result": "6-2 6-1",
   "date": "2026-11-25"
  },
  {
@@ -31,6 +83,110 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-11-25"
  },
  {
+  "playerId": "tenn-m-h10",
+  "name": "Blaise Bicknell",
+  "teamId": "tenn-m",
+  "teamName": "Tennessee",
+  "gender": "men",
+  "event": "San Salvador Challenger",
+  "round": "Second",
+  "won": true,
+  "opponent": "Theodore Dean",
+  "result": "6-7(6) 6-4 7-6(4)",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "usc-m-p3",
+  "name": "Branko Djuric",
+  "teamId": "usc-m",
+  "teamName": "USC",
+  "gender": "men",
+  "event": "Monastir 2 Challenger",
+  "round": "Second",
+  "won": false,
+  "opponent": "Kimmer Coppejans",
+  "result": "7-5 4-6 7-5",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "msst-m-h4",
+  "name": "Carles Hernandez",
+  "teamId": "msst-m",
+  "teamName": "Mississippi State",
+  "gender": "men",
+  "event": "M15 Madrid 2",
+  "round": "First",
+  "won": true,
+  "opponent": "Alvaro Peiro Serrano",
+  "result": "6-1 6-4",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "asu-w-h8",
+  "name": "Chelsea Fontenel",
+  "teamId": "asu-w",
+  "teamName": "Arizona State",
+  "gender": "women",
+  "event": "W15 Lousada",
+  "round": "First",
+  "won": true,
+  "opponent": "K. Lima",
+  "result": "6-3 6-1",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "tenn-w-h7",
+  "name": "Elza Tomase",
+  "teamId": "tenn-w",
+  "teamName": "Tennessee",
+  "gender": "women",
+  "event": "W15 Lousada",
+  "round": "First",
+  "won": true,
+  "opponent": "Nicole Gadient",
+  "result": "6-1 6-1",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "tenn-w-h3",
+  "name": "Esther Adeshina",
+  "teamId": "tenn-w",
+  "teamName": "Tennessee",
+  "gender": "women",
+  "event": "W15 Lousada",
+  "round": "First",
+  "won": true,
+  "opponent": "G. Fenyves",
+  "result": "6-0 6-1",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "lmu-w-h8",
+  "name": "Eva Marie Voracek",
+  "teamId": "lmu-w",
+  "teamName": "LMU",
+  "gender": "women",
+  "event": "W15 Lousada",
+  "round": "First",
+  "won": true,
+  "opponent": "Miroslava Medvedeva",
+  "result": "6-4 6-1",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "msst-m-h1",
+  "name": "Ewen Lumsden",
+  "teamId": "msst-m",
+  "teamName": "Mississippi State",
+  "gender": "men",
+  "event": "M15 Monastir 41",
+  "round": "First",
+  "won": false,
+  "opponent": "Matteo Fondriest",
+  "result": "5-7 6-4 7-5",
+  "date": "2026-11-25"
+ },
+ {
   "playerId": "rice-w-h2",
   "name": "Federica Trevisan",
   "teamId": "rice-w",
@@ -41,6 +197,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Stefania Bojica",
   "result": "6-1 6-0",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "tamu-m-h16",
+  "name": "Filip Pieczonka",
+  "teamId": "tamu-m",
+  "teamName": "Texas A&M",
+  "gender": "men",
+  "event": "M25 Hradec Kralove",
+  "round": "First",
+  "won": true,
+  "opponent": "Dominik Recek",
+  "result": "7-6(3) 6-1",
   "date": "2026-11-25"
  },
  {
@@ -57,6 +226,32 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-11-25"
  },
  {
+  "playerId": "tex-m-n1",
+  "name": "Gabriel Debru",
+  "teamId": "tex-m",
+  "teamName": "Texas",
+  "gender": "men",
+  "event": "Monastir 2 Challenger",
+  "round": "Second",
+  "won": true,
+  "opponent": "Robert Strombachs",
+  "result": "6-3 6-3",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "tamu-m-h6",
+  "name": "Giulio Perego",
+  "teamId": "tamu-m",
+  "teamName": "Texas A&M",
+  "gender": "men",
+  "event": "Monastir 2 Challenger",
+  "round": "Second",
+  "won": false,
+  "opponent": "Pedro Vives Marcos",
+  "result": "6-3 6-4",
+  "date": "2026-11-25"
+ },
+ {
   "playerId": "uva-w-h3",
   "name": "Hibah Shaikh",
   "teamId": "uva-w",
@@ -67,6 +262,19 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Polina Leykina",
   "result": "6-2 6-3",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "ou-m-h2",
+  "name": "Jordan Hasson",
+  "teamId": "ou-m",
+  "teamName": "Oklahoma",
+  "gender": "men",
+  "event": "M15 Heraklion 12",
+  "round": "First",
+  "won": true,
+  "opponent": "Jacopo Bilardo",
+  "result": "6-2 6-2",
   "date": "2026-11-25"
  },
  {
@@ -96,6 +304,97 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-11-25"
  },
  {
+  "playerId": "tamu-p5",
+  "name": "Lucciana Perez",
+  "teamId": "tamu-w",
+  "teamName": "Texas A&M",
+  "gender": "women",
+  "event": "W75 Florianópolis",
+  "round": "First",
+  "won": true,
+  "opponent": "Ana Candiotto",
+  "result": "6-4 6-2",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "ou-m-n4",
+  "name": "Luciano Emanuel Ambrogi",
+  "teamId": "ou-m",
+  "teamName": "Oklahoma",
+  "gender": "men",
+  "event": "San Salvador Challenger",
+  "round": "Second",
+  "won": true,
+  "opponent": "Joaquin Guilleme",
+  "result": "6-2 6-3",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "fla-p8",
+  "name": "Lucie Pawlak",
+  "teamId": "fla-w",
+  "teamName": "Florida",
+  "gender": "women",
+  "event": "W15 Monastir 33",
+  "round": "First",
+  "won": true,
+  "opponent": "Romane Longueville",
+  "result": "6-1 6-1",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "ku-w-h3",
+  "name": "Malkia Ngounoue",
+  "teamId": "ku-w",
+  "teamName": "Kansas",
+  "gender": "women",
+  "event": "W75 Trnava 5",
+  "round": "First",
+  "won": true,
+  "opponent": "Jana Otzipka",
+  "result": "6-4 7-5",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "ala-p10",
+  "name": "Maria Andrienko",
+  "teamId": "ala-w",
+  "teamName": "Alabama",
+  "gender": "women",
+  "event": "W15 Lousada",
+  "round": "First",
+  "won": true,
+  "opponent": "Klara Veldman",
+  "result": "6-4 6-0",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "wake-m-h1",
+  "name": "Melios Efstathiou",
+  "teamId": "wake-m",
+  "teamName": "Wake Forest",
+  "gender": "men",
+  "event": "Hersonissos 4 Challenger",
+  "round": "Second",
+  "won": false,
+  "opponent": "Gabriel Ghetu",
+  "result": "7-5 6-4",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "wsu-w-h7",
+  "name": "Michaela Bayerlova",
+  "teamId": "wsu-w",
+  "teamName": "Washington State",
+  "gender": "women",
+  "event": "W35 Heraklion 4",
+  "round": "First",
+  "won": false,
+  "opponent": "Giorgia Pedone",
+  "result": "7-6(5) 6-4",
+  "date": "2026-11-25"
+ },
+ {
   "playerId": "asu-m-p10",
   "name": "Nikola Djosic",
   "teamId": "asu-m",
@@ -106,6 +405,32 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Digvijaypratap Singh",
   "result": "2-6 6-3 6-3",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "fla-m-p8",
+  "name": "Pablo Perez Ramos",
+  "teamId": "fla-m",
+  "teamName": "Florida",
+  "gender": "men",
+  "event": "M15 Madrid 2",
+  "round": "First",
+  "won": true,
+  "opponent": "Daniel Lara Salmeron",
+  "result": "7-5 6-3",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "usc-m-h3",
+  "name": "Peter Makk",
+  "teamId": "usc-m",
+  "teamName": "USC",
+  "gender": "men",
+  "event": "M15 Sharm ElSheikh 19",
+  "round": "First",
+  "won": true,
+  "opponent": "Rhys Lawlor",
+  "result": "6-2 2-6 7-5",
   "date": "2026-11-25"
  },
  {
@@ -122,6 +447,71 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-11-25"
  },
  {
+  "playerId": "ncst-w-h11",
+  "name": "Priska Nugroho",
+  "teamId": "ncst-w",
+  "teamName": "NC State",
+  "gender": "women",
+  "event": "W15 Kolkata",
+  "round": "First",
+  "won": true,
+  "opponent": "A. Jadhav",
+  "result": "6-1 6-1",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "ncst-m-h3",
+  "name": "Robin Catry",
+  "teamId": "ncst-m",
+  "teamName": "NC State",
+  "gender": "men",
+  "event": "Ankara Challenger",
+  "round": "Second",
+  "won": false,
+  "opponent": "Matthew Donald",
+  "result": "6-4 6-2",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "penn-w-h1",
+  "name": "Sabine Rutlauka",
+  "teamId": "penn-w",
+  "teamName": "Penn",
+  "gender": "women",
+  "event": "W15 Sharm ElSheikh 21",
+  "round": "First",
+  "won": true,
+  "opponent": "Darja Suvirdjonkova",
+  "result": "6-4 6-4",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "uga-p10",
+  "name": "Sofia Rojas",
+  "teamId": "uga-w",
+  "teamName": "Georgia",
+  "gender": "women",
+  "event": "W15 Monastir 33",
+  "round": "First",
+  "won": false,
+  "opponent": "Elsa Bonelli",
+  "result": "6-3 2-6 7-5",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "bay-m-h4",
+  "name": "Tadeas Paroulek",
+  "teamId": "bay-m",
+  "teamName": "Baylor",
+  "gender": "men",
+  "event": "M25 Hradec Kralove",
+  "round": "First",
+  "won": true,
+  "opponent": "Stepan Baum",
+  "result": "6-7(4) 6-2 7-6(2)",
+  "date": "2026-11-25"
+ },
+ {
   "playerId": "tex-m-h11",
   "name": "Timo Legout",
   "teamId": "tex-m",
@@ -135,17 +525,30 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-11-25"
  },
  {
-  "playerId": "bay-w-h13",
-  "name": "Alicia Herrero Linana",
-  "teamId": "bay-w",
-  "teamName": "Baylor",
+  "playerId": "fsu-w-h5",
+  "name": "Victoria Allen",
+  "teamId": "fsu-w",
+  "teamName": "Florida State",
   "gender": "women",
-  "event": "Buenos Aires Challenger",
+  "event": "W35 Heraklion 4",
   "round": "First",
   "won": true,
-  "opponent": "Lucia Bronzetti",
-  "result": "6-1 6-2",
-  "date": "2026-11-24"
+  "opponent": "Viktoria Veleva",
+  "result": "6-2 6-0",
+  "date": "2026-11-25"
+ },
+ {
+  "playerId": "ore-m-p1",
+  "name": "Vlad Breazu",
+  "teamId": "ore-m",
+  "teamName": "Oregon",
+  "gender": "men",
+  "event": "M15 Antalya 9",
+  "round": "First",
+  "won": true,
+  "opponent": "Giannicola Misasi",
+  "result": "4-6 6-2 6-0",
+  "date": "2026-11-25"
  },
  {
   "playerId": "ncst-w-h3",
@@ -187,19 +590,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-11-24"
  },
  {
-  "playerId": "usc-m-p3",
-  "name": "Branko Djuric",
-  "teamId": "usc-m",
-  "teamName": "USC",
-  "gender": "men",
-  "event": "Monastir 2 Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Federico Iannaccone",
-  "result": "6-3 6-4",
-  "date": "2026-11-24"
- },
- {
   "playerId": "lmu-m-p2",
   "name": "Cesar Cruz",
   "teamId": "lmu-m",
@@ -236,19 +626,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Li Tu",
   "result": "7-6(4) 7-6(3)",
-  "date": "2026-11-24"
- },
- {
-  "playerId": "tamu-m-h6",
-  "name": "Giulio Perego",
-  "teamId": "tamu-m",
-  "teamName": "Texas A&M",
-  "gender": "men",
-  "event": "Monastir 2 Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Lorenzo Giustino",
-  "result": "7-5 6-2",
   "date": "2026-11-24"
  },
  {
@@ -366,19 +743,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Ofek Shimanov",
   "result": "6-2 6-4",
-  "date": "2026-11-24"
- },
- {
-  "playerId": "ou-m-n4",
-  "name": "Luciano Emanuel Ambrogi",
-  "teamId": "ou-m",
-  "teamName": "Oklahoma",
-  "gender": "men",
-  "event": "San Salvador Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "J. M. Bolivar Idarraga",
-  "result": "7-6(2) 6-3",
   "date": "2026-11-24"
  },
  {
@@ -564,19 +928,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-11-23"
  },
  {
-  "playerId": "tenn-m-h10",
-  "name": "Blaise Bicknell",
-  "teamId": "tenn-m",
-  "teamName": "Tennessee",
-  "gender": "men",
-  "event": "San Salvador Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Segundo Goity Zapico",
-  "result": "5-7 6-3 6-2",
-  "date": "2026-11-23"
- },
- {
   "playerId": "okst-m-p6",
   "name": "Derek Pham",
   "teamId": "okst-m",
@@ -629,19 +980,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-11-23"
  },
  {
-  "playerId": "tex-m-n1",
-  "name": "Gabriel Debru",
-  "teamId": "tex-m",
-  "teamName": "Texas",
-  "gender": "men",
-  "event": "Monastir 2 Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Sandro Kopp",
-  "result": "5-7 6-3 6-2",
-  "date": "2026-11-23"
- },
- {
   "playerId": "ariz-m-h1",
   "name": "Herman Hoeyeraal",
   "teamId": "ariz-m",
@@ -681,19 +1019,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-11-23"
  },
  {
-  "playerId": "wake-m-h1",
-  "name": "Melios Efstathiou",
-  "teamId": "wake-m",
-  "teamName": "Wake Forest",
-  "gender": "men",
-  "event": "Hersonissos 4 Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Gianluca Cadenasso",
-  "result": "6-4 6-3",
-  "date": "2026-11-23"
- },
- {
   "playerId": "lou-m-h7",
   "name": "Natan Rodrigues",
   "teamId": "lou-m",
@@ -717,19 +1042,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": true,
   "opponent": "Jeffrey Fradkin",
   "result": "2-6 6-2 6-2",
-  "date": "2026-11-23"
- },
- {
-  "playerId": "ncst-m-h3",
-  "name": "Robin Catry",
-  "teamId": "ncst-m",
-  "teamName": "NC State",
-  "gender": "men",
-  "event": "Ankara Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Gabi Adrian Boitan",
-  "result": "6-3 6-7(7) 6-3",
   "date": "2026-11-23"
  },
  {
@@ -824,19 +1136,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-11-22"
  },
  {
-  "playerId": "lmu-w-h8",
-  "name": "Eva Marie Voracek",
-  "teamId": "lmu-w",
-  "teamName": "LMU",
-  "gender": "women",
-  "event": "W15 Alcala de Henares",
-  "round": "Final",
-  "won": false,
-  "opponent": "M. Makarova",
-  "result": "6-1 6-3",
-  "date": "2026-11-22"
- },
- {
   "playerId": "uk-m-h1",
   "name": "Liam Draxl",
   "teamId": "uk-m",
@@ -847,19 +1146,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Dylan Dietrich",
   "result": "6-1 6-2",
-  "date": "2026-11-22"
- },
- {
-  "playerId": "tamu-p5",
-  "name": "Lucciana Perez",
-  "teamId": "tamu-w",
-  "teamName": "Texas A&M",
-  "gender": "women",
-  "event": "W35 Sao Paulo 2",
-  "round": "Final",
-  "won": true,
-  "opponent": "Ana Sofia Sanchez",
-  "result": "6-3 6-0",
   "date": "2026-11-22"
  },
  {
@@ -885,19 +1171,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "round": "Final",
   "won": false,
   "opponent": "Ergi Kirkin",
-  "result": "6-2 6-1",
-  "date": "2026-11-22"
- },
- {
-  "playerId": "ala-p10",
-  "name": "Maria Andrienko",
-  "teamId": "ala-w",
-  "teamName": "Alabama",
-  "gender": "women",
-  "event": "W15 Monastir 32",
-  "round": "1/2",
-  "won": true,
-  "opponent": "Mara Guth",
   "result": "6-2 6-1",
   "date": "2026-11-22"
  },
@@ -1058,19 +1331,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-11-21"
  },
  {
-  "playerId": "asu-w-h8",
-  "name": "Chelsea Fontenel",
-  "teamId": "asu-w",
-  "teamName": "Arizona State",
-  "gender": "women",
-  "event": "W15 Paris 2",
-  "round": "1/2",
-  "won": false,
-  "opponent": "Mariella Thamm",
-  "result": "6-4 6-1",
-  "date": "2026-11-21"
- },
- {
   "playerId": "uva-m-p2",
   "name": "Dylan Dietrich",
   "teamId": "uva-m",
@@ -1175,19 +1435,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-11-21"
  },
  {
-  "playerId": "fla-m-p8",
-  "name": "Pablo Perez Ramos",
-  "teamId": "fla-m",
-  "teamName": "Florida",
-  "gender": "men",
-  "event": "M15 Alcala de Henares",
-  "round": "1/2",
-  "won": true,
-  "opponent": "Alejandro Garcia",
-  "result": "6-3 6-4",
-  "date": "2026-11-21"
- },
- {
   "playerId": "fla-m-p9",
   "name": "Roman Sancilio",
   "teamId": "fla-m",
@@ -1212,19 +1459,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "opponent": "Karla Popovic",
   "result": "6-1 6-2",
   "date": "2026-11-21"
- },
- {
-  "playerId": "msst-m-h4",
-  "name": "Carles Hernandez",
-  "teamId": "msst-m",
-  "teamName": "Mississippi State",
-  "gender": "men",
-  "event": "M15 Alcala de Henares",
-  "round": "1/4",
-  "won": true,
-  "opponent": "Jorge Plans",
-  "result": "6-2 6-4",
-  "date": "2026-11-20"
  },
  {
   "playerId": "pur-w-h6",
@@ -1445,32 +1679,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Mika Stojsavljevic",
   "result": "6-3 2-6 6-3",
-  "date": "2026-11-19"
- },
- {
-  "playerId": "ucsb-w-h3",
-  "name": "Amelia Honer",
-  "teamId": "ucsb-w",
-  "teamName": "UC Santa Barbara",
-  "gender": "women",
-  "event": "W50 Funchal",
-  "round": "Second",
-  "won": false,
-  "opponent": "Jenna Defalco",
-  "result": "7-6 5-7 6-4",
-  "date": "2026-11-19"
- },
- {
-  "playerId": "wash-w-h8",
-  "name": "Astrid Olsen",
-  "teamId": "wash-w",
-  "teamName": "Washington",
-  "gender": "women",
-  "event": "W15 Alcala de Henares",
-  "round": "Second",
-  "won": false,
-  "opponent": "Eva Marie Voracek",
-  "result": "6-3 6-1",
   "date": "2026-11-19"
  },
  {
@@ -1747,19 +1955,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "date": "2026-11-18"
  },
  {
-  "playerId": "tenn-w-h3",
-  "name": "Esther Adeshina",
-  "teamId": "tenn-w",
-  "teamName": "Tennessee",
-  "gender": "women",
-  "event": "W50 Funchal",
-  "round": "First",
-  "won": false,
-  "opponent": "Camilla Zanolini",
-  "result": "4-6 7-6(3) 6-4",
-  "date": "2026-11-18"
- },
- {
   "playerId": "wake-m-h3",
   "name": "Filippo Moroni",
   "teamId": "wake-m",
@@ -1809,19 +2004,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Laslo Djere",
   "result": "6-3 1-6 7-6(6)",
-  "date": "2026-11-18"
- },
- {
-  "playerId": "ou-m-h2",
-  "name": "Jordan Hasson",
-  "teamId": "ou-m",
-  "teamName": "Oklahoma",
-  "gender": "men",
-  "event": "M15 Hua Hin 2",
-  "round": "First",
-  "won": false,
-  "opponent": "Hong-Lin Fu",
-  "result": "6-4 6-2",
   "date": "2026-11-18"
  },
  {
@@ -1991,19 +2173,6 @@ export const onTourWeek = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.onTourWee
   "won": false,
   "opponent": "Lewie Lane",
   "result": "7-5 1-6 7-6(6)",
-  "date": "2026-11-18"
- },
- {
-  "playerId": "fsu-w-h5",
-  "name": "Victoria Allen",
-  "teamId": "fsu-w",
-  "teamName": "Florida State",
-  "gender": "women",
-  "event": "W50 Heraklion 4",
-  "round": "Second",
-  "won": false,
-  "opponent": "Valentini Grammatikopoulou",
-  "result": "3-6 7-5 6-4",
   "date": "2026-11-18"
  },
  {
@@ -2542,12 +2711,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ala-w",
   "teamName": "Alabama",
   "gender": "women",
-  "event": "W15 Monastir 32",
-  "round": "1/2",
+  "event": "W15 Lousada",
+  "round": "First",
   "won": true,
-  "opponent": "Mara Guth",
-  "result": "6-2 6-1",
-  "date": "2026-11-22"
+  "opponent": "Klara Veldman",
+  "result": "6-4 6-0",
+  "date": "2026-11-25"
  },
  "ala-p3": {
   "playerId": "ala-p3",
@@ -3270,12 +3439,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "asu-w",
   "teamName": "Arizona State",
   "gender": "women",
-  "event": "W15 Paris 2",
-  "round": "1/2",
-  "won": false,
-  "opponent": "Mariella Thamm",
-  "result": "6-4 6-1",
-  "date": "2026-11-21"
+  "event": "W15 Lousada",
+  "round": "First",
+  "won": true,
+  "opponent": "K. Lima",
+  "result": "6-3 6-1",
+  "date": "2026-11-25"
  },
  "asu-w-p1": {
   "playerId": "asu-w-p1",
@@ -3764,12 +3933,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "bay-m",
   "teamName": "Baylor",
   "gender": "men",
-  "event": "M15 Heraklion 1",
+  "event": "M25 Hradec Kralove",
   "round": "First",
-  "won": false,
-  "opponent": "Lorenzo Angelini",
-  "result": "6-0 6-2",
-  "date": "2026-03-04"
+  "won": true,
+  "opponent": "Stepan Baum",
+  "result": "6-7(4) 6-2 7-6(2)",
+  "date": "2026-11-25"
  },
  "bay-m-h5": {
   "playerId": "bay-m-h5",
@@ -3882,11 +4051,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Baylor",
   "gender": "women",
   "event": "Buenos Aires Challenger",
-  "round": "First",
+  "round": "Second",
   "won": true,
-  "opponent": "Lucia Bronzetti",
-  "result": "6-1 6-2",
-  "date": "2026-11-24"
+  "opponent": "Ariana Geerlings Martinez",
+  "result": "7-5 7-5",
+  "date": "2026-11-25"
  },
  "bay-w-h2": {
   "playerId": "bay-w-h2",
@@ -4700,12 +4869,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "colo-w",
   "teamName": "Colorado",
   "gender": "women",
-  "event": "W15 Sharm ElSheikh 19",
+  "event": "W15 Sharm ElSheikh 21",
   "round": "First",
-  "won": false,
-  "opponent": "M. Shmeleva",
-  "result": "1-6 6-2 7-6(3)",
-  "date": "2026-11-11"
+  "won": true,
+  "opponent": "K. Pleshivtseva",
+  "result": "6-2 6-1",
+  "date": "2026-11-25"
  },
  "colo-w-h5": {
   "playerId": "colo-w-h5",
@@ -6039,12 +6208,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "fla-m",
   "teamName": "Florida",
   "gender": "men",
-  "event": "M15 Alcala de Henares",
-  "round": "1/2",
+  "event": "M15 Madrid 2",
+  "round": "First",
   "won": true,
-  "opponent": "Alejandro Garcia",
-  "result": "6-3 6-4",
-  "date": "2026-11-21"
+  "opponent": "Daniel Lara Salmeron",
+  "result": "7-5 6-3",
+  "date": "2026-11-25"
  },
  "fla-m-p9": {
   "playerId": "fla-m-p9",
@@ -6156,12 +6325,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "fla-w",
   "teamName": "Florida",
   "gender": "women",
-  "event": "W35 Aix-les-Bains",
+  "event": "W15 Monastir 33",
   "round": "First",
-  "won": false,
-  "opponent": "Isabella Maria Serban",
-  "result": "6-3 6-1",
-  "date": "2026-06-30"
+  "won": true,
+  "opponent": "Romane Longueville",
+  "result": "6-1 6-1",
+  "date": "2026-11-25"
  },
  "fla-w-h11": {
   "playerId": "fla-w-h11",
@@ -6403,12 +6572,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "fsu-w",
   "teamName": "Florida State",
   "gender": "women",
-  "event": "W50 Heraklion 4",
-  "round": "Second",
-  "won": false,
-  "opponent": "Valentini Grammatikopoulou",
-  "result": "3-6 7-5 6-4",
-  "date": "2026-11-18"
+  "event": "W35 Heraklion 4",
+  "round": "First",
+  "won": true,
+  "opponent": "Viktoria Veleva",
+  "result": "6-2 6-0",
+  "date": "2026-11-25"
  },
  "fsu-w-n1": {
   "playerId": "fsu-w-n1",
@@ -7404,12 +7573,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ku-w",
   "teamName": "Kansas",
   "gender": "women",
-  "event": "W75 Petange",
+  "event": "W75 Trnava 5",
   "round": "First",
-  "won": false,
-  "opponent": "Jessika Ponchet",
-  "result": "7-6(3) 7-6(4)",
-  "date": "2026-11-03"
+  "won": true,
+  "opponent": "Jana Otzipka",
+  "result": "6-4 7-5",
+  "date": "2026-11-25"
  },
  "ku-w-p5": {
   "playerId": "ku-w-p5",
@@ -7599,12 +7768,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "lmu-w",
   "teamName": "LMU",
   "gender": "women",
-  "event": "W15 Alcala de Henares",
-  "round": "Final",
-  "won": false,
-  "opponent": "M. Makarova",
-  "result": "6-1 6-3",
-  "date": "2026-11-22"
+  "event": "W15 Lousada",
+  "round": "First",
+  "won": true,
+  "opponent": "Miroslava Medvedeva",
+  "result": "6-4 6-1",
+  "date": "2026-11-25"
  },
  "lmu-w-p1": {
   "playerId": "lmu-w-p1",
@@ -8925,12 +9094,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "msst-m",
   "teamName": "Mississippi State",
   "gender": "men",
-  "event": "M15 Heraklion 10",
+  "event": "M15 Monastir 41",
   "round": "First",
-  "won": true,
-  "opponent": "Javier Munoz Fuster",
-  "result": "6-2 7-5",
-  "date": "2026-10-27"
+  "won": false,
+  "opponent": "Matteo Fondriest",
+  "result": "5-7 6-4 7-5",
+  "date": "2026-11-25"
  },
  "msst-m-h10": {
   "playerId": "msst-m-h10",
@@ -8951,12 +9120,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "msst-m",
   "teamName": "Mississippi State",
   "gender": "men",
-  "event": "M15 Alcala de Henares",
-  "round": "1/4",
+  "event": "M15 Madrid 2",
+  "round": "First",
   "won": true,
-  "opponent": "Jorge Plans",
-  "result": "6-2 6-4",
-  "date": "2026-11-20"
+  "opponent": "Alvaro Peiro Serrano",
+  "result": "6-1 6-4",
+  "date": "2026-11-25"
  },
  "msst-m-h5": {
   "playerId": "msst-m-h5",
@@ -9537,11 +9706,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "NC State",
   "gender": "men",
   "event": "Ankara Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Gabi Adrian Boitan",
-  "result": "6-3 6-7(7) 6-3",
-  "date": "2026-11-23"
+  "round": "Second",
+  "won": false,
+  "opponent": "Matthew Donald",
+  "result": "6-4 6-2",
+  "date": "2026-11-25"
  },
  "ncst-m-h5": {
   "playerId": "ncst-m-h5",
@@ -9640,12 +9809,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ncst-w",
   "teamName": "NC State",
   "gender": "women",
-  "event": "W50 Yokohama",
+  "event": "W15 Kolkata",
   "round": "First",
-  "won": false,
-  "opponent": "Chia Yi Tsao",
-  "result": "7-6(5) 1-0 ret.",
-  "date": "2026-11-11"
+  "won": true,
+  "opponent": "A. Jadhav",
+  "result": "6-1 6-1",
+  "date": "2026-11-25"
  },
  "ncst-w-h3": {
   "playerId": "ncst-w-h3",
@@ -10511,12 +10680,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ore-m",
   "teamName": "Oregon",
   "gender": "men",
-  "event": "M15 San Gregorio di Catania",
+  "event": "M15 Antalya 9",
   "round": "First",
-  "won": false,
-  "opponent": "Michele Mecarelli",
-  "result": "6-0 6-3",
-  "date": "2026-11-04"
+  "won": true,
+  "opponent": "Giannicola Misasi",
+  "result": "4-6 6-2 6-0",
+  "date": "2026-11-25"
  },
  "ore-m-p6": {
   "playerId": "ore-m-p6",
@@ -10927,12 +11096,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ou-m",
   "teamName": "Oklahoma",
   "gender": "men",
-  "event": "M15 Hua Hin 2",
+  "event": "M15 Heraklion 12",
   "round": "First",
-  "won": false,
-  "opponent": "Hong-Lin Fu",
-  "result": "6-4 6-2",
-  "date": "2026-11-18"
+  "won": true,
+  "opponent": "Jacopo Bilardo",
+  "result": "6-2 6-2",
+  "date": "2026-11-25"
  },
  "ou-m-h5": {
   "playerId": "ou-m-h5",
@@ -10993,11 +11162,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Oklahoma",
   "gender": "men",
   "event": "San Salvador Challenger",
-  "round": "First",
+  "round": "Second",
   "won": true,
-  "opponent": "J. M. Bolivar Idarraga",
-  "result": "7-6(2) 6-3",
-  "date": "2026-11-24"
+  "opponent": "Joaquin Guilleme",
+  "result": "6-2 6-3",
+  "date": "2026-11-25"
  },
  "ou-m-p1": {
   "playerId": "ou-m-p1",
@@ -11369,12 +11538,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "penn-w",
   "teamName": "Penn",
   "gender": "women",
-  "event": "W15 Monastir 29",
-  "round": "Second",
-  "won": false,
-  "opponent": "Cindy Langlais",
-  "result": "6-2 6-1",
-  "date": "2026-10-29"
+  "event": "W15 Sharm ElSheikh 21",
+  "round": "First",
+  "won": true,
+  "opponent": "Darja Suvirdjonkova",
+  "result": "6-4 6-4",
+  "date": "2026-11-25"
  },
  "penn-w-p1": {
   "playerId": "penn-w-p1",
@@ -13111,12 +13280,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "tamu-m",
   "teamName": "Texas A&M",
   "gender": "men",
-  "event": "Olbia Challenger",
-  "round": "Q1",
-  "won": false,
-  "opponent": "George Loffhagen",
-  "result": "6-3 3-6 6-1",
-  "date": "2026-10-11"
+  "event": "M25 Hradec Kralove",
+  "round": "First",
+  "won": true,
+  "opponent": "Dominik Recek",
+  "result": "7-6(3) 6-1",
+  "date": "2026-11-25"
  },
  "tamu-m-h19": {
   "playerId": "tamu-m-h19",
@@ -13177,11 +13346,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Texas A&M",
   "gender": "men",
   "event": "Monastir 2 Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Lorenzo Giustino",
-  "result": "7-5 6-2",
-  "date": "2026-11-24"
+  "round": "Second",
+  "won": false,
+  "opponent": "Pedro Vives Marcos",
+  "result": "6-3 6-4",
+  "date": "2026-11-25"
  },
  "tamu-m-h7": {
   "playerId": "tamu-m-h7",
@@ -13371,12 +13540,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "tamu-w",
   "teamName": "Texas A&M",
   "gender": "women",
-  "event": "W35 Sao Paulo 2",
-  "round": "Final",
+  "event": "W75 Florianópolis",
+  "round": "First",
   "won": true,
-  "opponent": "Ana Sofia Sanchez",
-  "result": "6-3 6-0",
-  "date": "2026-11-22"
+  "opponent": "Ana Candiotto",
+  "result": "6-4 6-2",
+  "date": "2026-11-25"
  },
  "tamu-p6": {
   "playerId": "tamu-p6",
@@ -13931,11 +14100,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Tennessee",
   "gender": "men",
   "event": "San Salvador Challenger",
-  "round": "First",
+  "round": "Second",
   "won": true,
-  "opponent": "Segundo Goity Zapico",
-  "result": "5-7 6-3 6-2",
-  "date": "2026-11-23"
+  "opponent": "Theodore Dean",
+  "result": "6-7(6) 6-4 7-6(4)",
+  "date": "2026-11-25"
  },
  "tenn-m-h11": {
   "playerId": "tenn-m-h11",
@@ -14281,12 +14450,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "tenn-w",
   "teamName": "Tennessee",
   "gender": "women",
-  "event": "W50 Funchal",
+  "event": "W15 Lousada",
   "round": "First",
-  "won": false,
-  "opponent": "Camilla Zanolini",
-  "result": "4-6 7-6(3) 6-4",
-  "date": "2026-11-18"
+  "won": true,
+  "opponent": "G. Fenyves",
+  "result": "6-0 6-1",
+  "date": "2026-11-25"
  },
  "tenn-w-h4": {
   "playerId": "tenn-w-h4",
@@ -14320,12 +14489,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "tenn-w",
   "teamName": "Tennessee",
   "gender": "women",
-  "event": "W35 Baza",
+  "event": "W15 Lousada",
   "round": "First",
-  "won": false,
-  "opponent": "Cadence Brace",
-  "result": "6-1 7-5",
-  "date": "2026-09-30"
+  "won": true,
+  "opponent": "Nicole Gadient",
+  "result": "6-1 6-1",
+  "date": "2026-11-25"
  },
  "tenn-w-h9": {
   "playerId": "tenn-w-h9",
@@ -14477,11 +14646,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Texas",
   "gender": "men",
   "event": "Monastir 2 Challenger",
-  "round": "First",
+  "round": "Second",
   "won": true,
-  "opponent": "Sandro Kopp",
-  "result": "5-7 6-3 6-2",
-  "date": "2026-11-23"
+  "opponent": "Robert Strombachs",
+  "result": "6-3 6-3",
+  "date": "2026-11-25"
  },
  "tex-m-n2": {
   "playerId": "tex-m-n2",
@@ -15932,12 +16101,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "ucsb-w",
   "teamName": "UC Santa Barbara",
   "gender": "women",
-  "event": "W50 Funchal",
-  "round": "Second",
-  "won": false,
-  "opponent": "Jenna Defalco",
-  "result": "7-6 5-7 6-4",
-  "date": "2026-11-19"
+  "event": "W15 Lousada",
+  "round": "First",
+  "won": true,
+  "opponent": "Paula Cembranos",
+  "result": "6-2 6-2",
+  "date": "2026-11-25"
  },
  "ucsb-w-h6": {
   "playerId": "ucsb-w-h6",
@@ -16231,12 +16400,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "uga-w",
   "teamName": "Georgia",
   "gender": "women",
-  "event": "W15 Nules",
+  "event": "W15 Monastir 33",
   "round": "First",
   "won": false,
-  "opponent": "Aurora Corvi",
-  "result": "6-3 6-4",
-  "date": "2026-11-11"
+  "opponent": "Elsa Bonelli",
+  "result": "6-3 2-6 7-5",
+  "date": "2026-11-25"
  },
  "uga-p11": {
   "playerId": "uga-p11",
@@ -17128,12 +17297,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "usc-m",
   "teamName": "USC",
   "gender": "men",
-  "event": "Taranto Challenger",
-  "round": "Second",
-  "won": false,
-  "opponent": "Francesco Maestrelli",
-  "result": "6-3 6-2",
-  "date": "2026-11-05"
+  "event": "M15 Sharm ElSheikh 19",
+  "round": "First",
+  "won": true,
+  "opponent": "Rhys Lawlor",
+  "result": "6-2 2-6 7-5",
+  "date": "2026-11-25"
  },
  "usc-m-h5": {
   "playerId": "usc-m-h5",
@@ -17207,11 +17376,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "USC",
   "gender": "men",
   "event": "Monastir 2 Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Federico Iannaccone",
-  "result": "6-3 6-4",
-  "date": "2026-11-24"
+  "round": "Second",
+  "won": false,
+  "opponent": "Kimmer Coppejans",
+  "result": "7-5 4-6 7-5",
+  "date": "2026-11-25"
  },
  "usc-m-p6": {
   "playerId": "usc-m-p6",
@@ -18624,11 +18793,11 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamName": "Wake Forest",
   "gender": "men",
   "event": "Hersonissos 4 Challenger",
-  "round": "First",
-  "won": true,
-  "opponent": "Gianluca Cadenasso",
-  "result": "6-4 6-3",
-  "date": "2026-11-23"
+  "round": "Second",
+  "won": false,
+  "opponent": "Gabriel Ghetu",
+  "result": "7-5 6-4",
+  "date": "2026-11-25"
  },
  "wake-m-h10": {
   "playerId": "wake-m-h10",
@@ -18909,12 +19078,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "wash-w",
   "teamName": "Washington",
   "gender": "women",
-  "event": "W15 Alcala de Henares",
-  "round": "Second",
-  "won": false,
-  "opponent": "Eva Marie Voracek",
-  "result": "6-3 6-1",
-  "date": "2026-11-19"
+  "event": "W15 Monastir 33",
+  "round": "First",
+  "won": true,
+  "opponent": "Margaux Komano",
+  "result": "6-2 6-2",
+  "date": "2026-11-25"
  },
  "wash-w-p1": {
   "playerId": "wash-w-p1",
@@ -19273,12 +19442,12 @@ export const proLatestByPlayer = globalThis.__BAGEL_REMOTE__?.["onTourWeek"]?.pr
   "teamId": "wsu-w",
   "teamName": "Washington State",
   "gender": "women",
-  "event": "W75 Toronto",
+  "event": "W35 Heraklion 4",
   "round": "First",
   "won": false,
-  "opponent": "Anastasia Kulikova",
-  "result": "6-3 6-4",
-  "date": "2026-10-28"
+  "opponent": "Giorgia Pedone",
+  "result": "7-6(5) 6-4",
+  "date": "2026-11-25"
  },
  "wsu-w-n3": {
   "playerId": "wsu-w-n3",

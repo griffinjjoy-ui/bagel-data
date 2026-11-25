@@ -8318,23 +8318,6 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   }
  },
  {
-  "id": "AEAC2226-171E-4DF2-B25A-E955BC2A09E1",
-  "date": "2027-04-04",
-  "dateTime": "2027-04-04T05:00:00.000Z",
-  "gender": "women",
-  "isConferenceMatch": false,
-  "t1": {
-   "teamId": null,
-   "name": "Univ. Of Nebraska, Omaha",
-   "side": 1
-  },
-  "t2": {
-   "teamId": "tulsa-w",
-   "name": "University Of Tulsa",
-   "side": 2
-  }
- },
- {
   "id": "D2E40AAF-C268-4127-BDAB-551F447A327E",
   "date": "2027-04-04",
   "dateTime": "2027-04-04T05:00:00.000Z",
@@ -8433,6 +8416,23 @@ export const upcomingDuals = globalThis.__BAGEL_REMOTE__?.["upcomingDuals"]?.upc
   "t2": {
    "teamId": "duke-w",
    "name": "Duke University",
+   "side": 2
+  }
+ },
+ {
+  "id": "AEAC2226-171E-4DF2-B25A-E955BC2A09E1",
+  "date": "2027-04-04",
+  "dateTime": "2027-04-04T15:00:00.000Z",
+  "gender": "women",
+  "isConferenceMatch": false,
+  "t1": {
+   "teamId": null,
+   "name": "Univ. Of Nebraska, Omaha",
+   "side": 1
+  },
+  "t2": {
+   "teamId": "tulsa-w",
+   "name": "University Of Tulsa",
    "side": 2
   }
  },
