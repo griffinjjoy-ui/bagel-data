@@ -192,9 +192,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Digvijaypratap Singh",
      "score": "2-6 6-3 6-3"
+    },
+    {
+     "id": "at-12182724",
+     "date": "2026-11-26",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Hitesh Chauhan",
+     "score": "6-2 7-6(3)"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -627,9 +636,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Romane Longueville",
      "score": "6-1 6-1"
+    },
+    {
+     "id": "at-12182884",
+     "date": "2026-11-26",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Nellie Taraba Wallberg",
+     "score": "6-1 6-1"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   }
  ],
@@ -1051,6 +1069,28 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
    "reachedTone": "neutral"
   }
  ],
+ "miami-m-n3": [
+  {
+   "key": "900008200",
+   "name": "M15 Santa Cruz 2",
+   "date": "2026-11-26",
+   "surface": "Clay",
+   "tier": "ITF",
+   "matches": [
+    {
+     "id": "at-12182686",
+     "date": "2026-11-26",
+     "roundId": 4,
+     "round": "First",
+     "won": false,
+     "opponent": "Santiago Lora",
+     "score": "2-6 7-6(3) 7-6(6)"
+    }
+   ],
+   "reached": "First",
+   "reachedTone": "neutral"
+  }
+ ],
  "miami-w-n1": [
   {
    "key": "900013439",
@@ -1375,9 +1415,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Simona Ogescu",
      "score": "6-0 6-3"
+    },
+    {
+     "id": "at-12182736",
+     "date": "2026-11-26",
+     "roundId": 5,
+     "round": "Second",
+     "won": false,
+     "opponent": "Martha Matoula",
+     "score": "6-1 6-0"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
@@ -1953,9 +2002,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Ana Candiotto",
      "score": "6-4 6-2"
+    },
+    {
+     "id": "at-12182784",
+     "date": "2026-11-26",
+     "roundId": 5,
+     "round": "Second",
+     "won": true,
+     "opponent": "Barbara Gatica",
+     "score": "6-2 6-2"
     }
    ],
-   "reached": "First",
+   "reached": "Second",
    "reachedTone": "neutral"
   },
   {
