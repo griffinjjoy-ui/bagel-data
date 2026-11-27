@@ -1967,9 +1967,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Barbara Gatica",
      "score": "6-2 6-2"
+    },
+    {
+     "id": "at-12183058",
+     "date": "2026-11-27",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Laura Pigossi",
+     "score": "6-4 1-6 6-2"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
@@ -2213,9 +2222,18 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Robert Strombachs",
      "score": "6-3 6-3"
+    },
+    {
+     "id": "at-12182769",
+     "date": "2026-11-27",
+     "roundId": 9,
+     "round": "QF",
+     "won": true,
+     "opponent": "Pedro Vives Marcos",
+     "score": "6-3 7-6(6)"
     }
    ],
-   "reached": "Second",
+   "reached": "QF",
    "reachedTone": "neutral"
   },
   {
