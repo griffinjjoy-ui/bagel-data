@@ -1561,10 +1561,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Laura Pigossi",
      "score": "6-4 1-6 6-2"
+    },
+    {
+     "id": "at-12183169",
+     "date": "2026-11-28",
+     "roundId": 10,
+     "round": "SF",
+     "won": false,
+     "opponent": "Ruth Roura Llaverias",
+     "score": "5-2 ret."
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "900012755",
@@ -1794,10 +1803,19 @@ export const recentProEvents = globalThis.__BAGEL_REMOTE__?.["recentProEvents"]?
      "won": true,
      "opponent": "Pedro Vives Marcos",
      "score": "6-3 7-6(6)"
+    },
+    {
+     "id": "at-12183114",
+     "date": "2026-11-28",
+     "roundId": 10,
+     "round": "SF",
+     "won": true,
+     "opponent": "Kimmer Coppejans",
+     "score": "5-7 7-6(3) 2-0 ret."
     }
    ],
-   "reached": "QF",
-   "reachedTone": "neutral"
+   "reached": "SF",
+   "reachedTone": "green"
   },
   {
    "key": "900007123",
